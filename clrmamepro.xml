@@ -1,14 +1,22 @@
 <clrmamepro>
    <datfile>
-      <name>Awesome-DATs</name>
-      <description>A curated list of awesome DAT files.</description>
-      <version>0.0.2</version>
-      <author>Rob Loach</author>
-      <comment></comment>
-      <url>http://robloach.github.io/awesome-dats/clrmamepro.xml</url>
+      <name>Atari - 5200 Parent-Clone</name>
+      <description>Atari - 5200 Parent-Clone (20130303-220600)</description>
+      <version>20130303-220600</version>
+      <author>No-Intro</author>
+      <comment>http://datomatic.no-intro.org</comment>
+      <url>http://robloach.github.io/awesome-dats/No-Intro/Atari - 5200 Parent-Clone (20130303-220600).dat</url>
       <file></file>
    </datfile>
-
+   <datfile>
+      <name>Atari - 7800 Parent-Clone</name>
+      <description>Atari - 7800 Parent-Clone (20140326-040142)</description>
+      <version>20140326-040142</version>
+      <author>No-Intro</author>
+      <comment>http://datomatic.no-intro.org</comment>
+      <url>http://robloach.github.io/awesome-dats/No-Intro/Atari - 7800 Parent-Clone (20140326-040142).dat</url>
+      <file></file>
+   </datfile>
    <datfile>
       <name>Nintendo - Super Nintendo Entertainment System Parent-Clone</name>
       <description>Nintendo - Super Nintendo Entertainment System Parent-Clone (20151211-012908)</description>
