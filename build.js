@@ -4,20 +4,12 @@ var path = require('path');
 
 var regexVersion = /version\s*#*>*[\d+\-*+?x?\d*]+/
 
-function sortDat(a,b) {
-  if (a.path < b.path)
-    return -1;
-  if (a.path > b.path)
-    return 1;
-  return 0;
-}
-
 glob('**/*.dat', function (err, files) {
   if (err) {
     throw new Error(err);
   }
   else {
-    var dats = []
+    var dats = require('./externaldats');
 
     // Iterate through each file.
     for (var i in files) {
@@ -37,7 +29,7 @@ glob('**/*.dat', function (err, files) {
 
         // Append the information to the output.
         dats.push({
-          path: files[i],
+          url: 'https://robloach.github.io/awesome-dats/' + files[i],
           name: name,
           version: version,
           author: author
@@ -45,18 +37,25 @@ glob('**/*.dat', function (err, files) {
       }
     }
 
+    // Sort the DAT files.
+    dats.sort(function (a, b) {
+      return a.name.localeCompare(b.name);
+    });
+
+    // Build the XML.
     var output = '<clrmamepro>\n';
-    dats.sort(sortDat);
     for (var x in dats) {
       output = output + '  <datfile>\n' +
         '    <name>' + dats[x].name + '</name>\n' +
         '    <description>' + dats[x].name + '</description>\n' +
         '    <version>' + dats[x].version + '</version>\n' +
         '    <author>' + dats[x].author + '</author>\n' +
-        '    <url>https://robloach.github.io/awesome-dats/' + dats[x].path + '</url>\n' +
+        '    <url>' + dats[x].url + '</url>\n' +
         '  </datfile>\n';
     }
     output = output + '</clrmamepro>\n';
+
+    // Save the file.
     fs.writeFileSync('dats.xml', output);
   }
 })

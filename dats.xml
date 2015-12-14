@@ -70,6 +70,13 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Coleco - ColecoVision Parent-Clone.dat</url>
   </datfile>
   <datfile>
+    <name>Commodore - 64</name>
+    <description>Commodore - 64</description>
+    <version>20151122-035618</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - 64.dat</url>
+  </datfile>
+  <datfile>
     <name>Commodore - 64 (PP)</name>
     <description>Commodore - 64 (PP)</description>
     <version>20131204-081826</version>
@@ -82,13 +89,6 @@
     <version>20130730-055353</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - 64 (Tapes).dat</url>
-  </datfile>
-  <datfile>
-    <name>Commodore - 64</name>
-    <description>Commodore - 64</description>
-    <version>20151122-035618</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - 64.dat</url>
   </datfile>
   <datfile>
     <name>Commodore - Amiga</name>
@@ -110,6 +110,13 @@
     <version>20130331-065627</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - VIC-20.dat</url>
+  </datfile>
+  <datfile>
+    <name>Doom Engine</name>
+    <description>Doom Engine</description>
+    <version>07-08-2015</version>
+    <author>Obiwantje</author>
+    <url>https://github.com/libretro/libretro-database/raw/d1a6eff3df40d1436fb414b9339813bd47caea7d/dat/DOOM.dat</url>
   </datfile>
   <datfile>
     <name>Emerson - Arcadia 2001 Parent-Clone</name>
@@ -147,18 +154,18 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Funtech - Super Acan Parent-Clone.dat</url>
   </datfile>
   <datfile>
-    <name>GCE - Vectrex Parent-Clone</name>
-    <description>GCE - Vectrex Parent-Clone</description>
-    <version>20081109-035804</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/GCE - Vectrex Parent-Clone.dat</url>
-  </datfile>
-  <datfile>
     <name>GamePark - GP32 Parent-Clone</name>
     <description>GamePark - GP32 Parent-Clone</description>
     <version>20100224-080928</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/GamePark - GP32 Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>GCE - Vectrex Parent-Clone</name>
+    <description>GCE - Vectrex Parent-Clone</description>
+    <version>20081109-035804</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/GCE - Vectrex Parent-Clone.dat</url>
   </datfile>
   <datfile>
     <name>Hartung - Game Master Parent-Clone</name>
@@ -280,18 +287,18 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - New Nintendo 3DS Parent-Clone.dat</url>
   </datfile>
   <datfile>
-    <name>Nintendo - Nintendo 3DS (DLC)</name>
-    <description>Nintendo - Nintendo 3DS (DLC)</description>
-    <version>#713</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo 3DS (DLC).dat</url>
-  </datfile>
-  <datfile>
     <name>Nintendo - Nintendo 3DS</name>
     <description>Nintendo - Nintendo 3DS</description>
     <version>#1418+x040</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo 3DS.dat</url>
+  </datfile>
+  <datfile>
+    <name>Nintendo - Nintendo 3DS (DLC)</name>
+    <description>Nintendo - Nintendo 3DS (DLC)</description>
+    <version>#713</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo 3DS (DLC).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Nintendo 64 Parent-Clone</name>
@@ -392,20 +399,6 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/RCA - Studio II Parent-Clone.dat</url>
   </datfile>
   <datfile>
-    <name>SNK - Neo Geo Pocket Color Parent-Clone</name>
-    <description>SNK - Neo Geo Pocket Color Parent-Clone</description>
-    <version>20151122-095540</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/SNK - Neo Geo Pocket Color Parent-Clone.dat</url>
-  </datfile>
-  <datfile>
-    <name>SNK - Neo Geo Pocket Parent-Clone</name>
-    <description>SNK - Neo Geo Pocket Parent-Clone</description>
-    <version>20120228-094313</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/SNK - Neo Geo Pocket Parent-Clone.dat</url>
-  </datfile>
-  <datfile>
     <name>Sega - 32X Parent-Clone</name>
     <description>Sega - 32X Parent-Clone</description>
     <version>20130217-102211</version>
@@ -455,6 +448,20 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Sinclair - ZX Spectrum +3.dat</url>
   </datfile>
   <datfile>
+    <name>SNK - Neo Geo Pocket Color Parent-Clone</name>
+    <description>SNK - Neo Geo Pocket Color Parent-Clone</description>
+    <version>20151122-095540</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/SNK - Neo Geo Pocket Color Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>SNK - Neo Geo Pocket Parent-Clone</name>
+    <description>SNK - Neo Geo Pocket Parent-Clone</description>
+    <version>20120228-094313</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/SNK - Neo Geo Pocket Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
     <name>Sony - PlayStation 3 (DLC)</name>
     <description>Sony - PlayStation 3 (DLC)</description>
     <version>20150209-000000</version>
@@ -474,6 +481,13 @@
     <version>20151121-000000</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (PSN).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Portable</name>
+    <description>Sony - PlayStation Portable</description>
+    <version>20151209-094635</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable.dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation Portable (DLC)</name>
@@ -509,13 +523,6 @@
     <version>20151213-034718</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (UMD Video).dat</url>
-  </datfile>
-  <datfile>
-    <name>Sony - PlayStation Portable</name>
-    <description>Sony - PlayStation Portable</description>
-    <version>20151209-094635</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable.dat</url>
   </datfile>
   <datfile>
     <name>Tiger - Game.com Parent-Clone</name>
