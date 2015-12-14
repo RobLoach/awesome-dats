@@ -1,0 +1,13 @@
+{
+  "name": "awesome-dats",
+  "description": "Awesome DATs",
+  "homepage": "http://github.com/robloach/awesome-dats",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "glob": "^6.0.1"
+  },
+  "scripts": {
+    "test": "node build"
+  }
+}
