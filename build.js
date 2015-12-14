@@ -30,7 +30,7 @@ glob('**/*.dat', function (err, files) {
         console.log('Processing: ' + files[i])
         var match = regexVersion.exec(contents);
         var version = match[0];
-        version = version.replace('version', '').replace(' ', '').replace('>', '').replace('#', '');
+        version = version.replace('version', '').replace(' ', '').replace('>', '');
         var name = path.basename(files[i], '.dat');
         var author = path.dirname(files[i])
         console.log('    ' + author + ': ' + name + ' (' + version + ')')
