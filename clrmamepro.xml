@@ -1,7 +1,7 @@
 <clrmamepro>
    <datfile>
-      <name>DATs</name>
-      <description>A collection of community-maintained DAT files.</description>
+      <name>Awesome-DATs</name>
+      <description>A curated list of awesome DAT files.</description>
       <version>0.0.1</version>
       <author>Rob Loach</author>
       <comment></comment>
@@ -15,7 +15,7 @@
       <version>20151211-012908</version>
       <author>No-Intro</author>
       <comment>http://datomatic.no-intro.org</comment>
-      <url>https://github.com/RobLoach/dats/archive/gh-pages.zip</url>
+      <url>https://github.com/RobLoach/awesome-dats/archive/gh-pages.zip</url>
       <file>Nintendo - Super Nintendo Entertainment System Parent-Clone (20151211-012908).dat</file>
    </datfile>
 </clrmamepro>
