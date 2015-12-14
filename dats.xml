@@ -392,6 +392,20 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/RCA - Studio II Parent-Clone.dat</url>
   </datfile>
   <datfile>
+    <name>SNK - Neo Geo Pocket Color Parent-Clone</name>
+    <description>SNK - Neo Geo Pocket Color Parent-Clone</description>
+    <version>20151122-095540</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/SNK - Neo Geo Pocket Color Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>SNK - Neo Geo Pocket Parent-Clone</name>
+    <description>SNK - Neo Geo Pocket Parent-Clone</description>
+    <version>20120228-094313</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/SNK - Neo Geo Pocket Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
     <name>Sega - 32X Parent-Clone</name>
     <description>Sega - 32X Parent-Clone</description>
     <version>20130217-102211</version>
@@ -432,5 +446,96 @@
     <version>20140508-002745</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - SG-1000 Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>Sinclair - ZX Spectrum +3</name>
+    <description>Sinclair - ZX Spectrum +3</description>
+    <version>20130225-035911</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sinclair - ZX Spectrum +3.dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation 3 (DLC)</name>
+    <description>Sony - PlayStation 3 (DLC)</description>
+    <version>20150209-000000</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (DLC).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation 3 (Downloadable)</name>
+    <description>Sony - PlayStation 3 (Downloadable)</description>
+    <version>20130309-000000</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (Downloadable).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation 3 (PSN)</name>
+    <description>Sony - PlayStation 3 (PSN)</description>
+    <version>20151121-000000</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (PSN).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Portable (DLC)</name>
+    <description>Sony - PlayStation Portable (DLC)</description>
+    <version>20150125-000000</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (DLC).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Portable (PSN)</name>
+    <description>Sony - PlayStation Portable (PSN)</description>
+    <version>20151128-021932</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (PSN).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Portable (PSX2PSP)</name>
+    <description>Sony - PlayStation Portable (PSX2PSP)</description>
+    <version>20130318-035538</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (PSX2PSP).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Portable (UMD Music)</name>
+    <description>Sony - PlayStation Portable (UMD Music)</description>
+    <version>20150713-001127</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (UMD Music).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Portable (UMD Video)</name>
+    <description>Sony - PlayStation Portable (UMD Video)</description>
+    <version>20151213-034718</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (UMD Video).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Portable</name>
+    <description>Sony - PlayStation Portable</description>
+    <version>20151209-094635</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable.dat</url>
+  </datfile>
+  <datfile>
+    <name>Tiger - Game.com Parent-Clone</name>
+    <description>Tiger - Game.com Parent-Clone</description>
+    <version>20081125-110950</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Tiger - Game.com Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>VTech - CreatiVision Parent-Clone</name>
+    <description>VTech - CreatiVision Parent-Clone</description>
+    <version>20120223-000000</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/VTech - CreatiVision Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>VTech - V.Smile</name>
+    <description>VTech - V.Smile</description>
+    <version>20151122-095152</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/VTech - V.Smile.dat</url>
   </datfile>
 </clrmamepro>
