@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - New Nintendo 3DS (DLC) Parent-Clone</name>
+		<description>Nintendo - New Nintendo 3DS (DLC) Parent-Clone</description>
+		<version></version>
+		<date>20150804-042042</date>
+		<author>kazumi213</author>
+		<url>www.no-intro.org</url>
+	</header>
+	<game name="Binding of Isaac - Rebirth, The (USA) (eShop)">
+		<description>Binding of Isaac - Rebirth, The (USA) (eShop)</description>
+		<release name="Binding of Isaac - Rebirth, The (USA) (eShop)" region="USA"/>
+		<rom name="Binding of Isaac - Rebirth, The (USA) (eShop).3ds" size="536870912" crc="6DEE3D72" md5="279FC7C577BE8F1D4100582E9FA597F5" sha1="EE4960EDC5747ED3D61BE63F589AD7617BC9463A"/>
+	</game>
+</datafile>

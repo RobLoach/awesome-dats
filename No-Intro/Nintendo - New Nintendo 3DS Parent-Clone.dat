@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - New Nintendo 3DS Parent-Clone</name>
+		<description>Nintendo - New Nintendo 3DS Parent-Clone</description>
+		<version></version>
+		<date>20150419-084242</date>
+		<author>kazumi213</author>
+		<url>www.no-intro.org</url>
+	</header>
+	<game name="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It)">
+		<description>Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It)" region="EUR"/>
+		<rom name="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It).3ds" size="4294967296" crc="1AB128FD" md5="38F416FAEF16182E379E5E5D82A87427" sha1="45ED8560B9D6E468EFA9934D2BC5EFB20A3A4E67"/>
+	</game>
+	<game name="Xenoblade (Japan)" cloneof="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It)">
+		<description>Xenoblade (Japan)</description>
+		<release name="Xenoblade (Japan)" region="JPN"/>
+		<rom name="Xenoblade (Japan).3ds" size="4294967296" crc="48415166" md5="ED0BBCCA7E7E484337C05C6E0D804292" sha1="6E4F449A952E1C53ED869CFDA2A70A9A755E08AF"/>
+	</game>
+	<game name="Xenoblade Chronicles 3D (USA) (En,Fr,Es)" cloneof="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It)">
+		<description>Xenoblade Chronicles 3D (USA) (En,Fr,Es)</description>
+		<release name="Xenoblade Chronicles 3D (USA) (En,Fr,Es)" region="USA"/>
+		<rom name="Xenoblade Chronicles 3D (USA) (En,Fr,Es).3ds" size="4294967296" crc="74B4BBC4" md5="79038CC5C2AE422E78CEF12C3F6D0269" sha1="BC15888053CD4DBAF63C98444B34BB3AA4342888"/>
+	</game>
+</datafile>
