@@ -25,3 +25,4 @@ A curated list of awesome DAT files.
 
 - [MIT](LICENSE.md)
 - [No-Intro Disclaimer](http://www.no-intro.org/disclaimer.htm)
+- [Redump Disclaimer](http://wiki.redump.org/index.php?title=Redump.org:_Disclaimer)

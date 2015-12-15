@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Photo CD</name>
+		<description>Photo CD 20140718 15-49-28</description>
+		<version>20140718 15-49-28</version>
+		<date>20140718 15-49-28</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Sakura Taisen - Teigeki Secret File (Japan)">
+		<category>Multimedia</category>
+		<description>Sakura Taisen - Teigeki Secret File (Japan)</description>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan).cue" size="540" crc="f273817a" md5="c725e128a18a833f10e6933dfe018be0" sha1="a8b01fc2b6bfd213203455799840af3a6fe88a8f"/>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan) (Track 1).bin" size="710304" crc="b3546331" md5="f4af0f5b937d792020c8c229abe994f8" sha1="2a8e184dcdead1de23dc2364a2e743167bf3a2f7"/>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan) (Track 2).bin" size="99960000" crc="447963d9" md5="a9f4678511124277e264efdf21e25271" sha1="ce6c7c07ce90dbb22737aeb008cc4593306de2be"/>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan) (Track 3).bin" size="6921936" crc="b19c30da" md5="0a2d0553df1aff962465d0ebc8da2b02" sha1="d1c67ad1f9e23ff1722475d4ef84fb94b8f2f723"/>
+		<rom name="Sakura Taisen - Teigeki Secret File (Japan) (Track 4).bin" size="32888016" crc="b015264a" md5="4d260d7806ff08d52eacae0bbf18a0b7" sha1="2e845547aba9e02ae00cb119b23077969ced7f05"/>
+	</game>
+</datafile>

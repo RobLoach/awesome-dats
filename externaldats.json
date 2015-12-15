@@ -1,6 +1,7 @@
 [
   {
     "name": "Doom",
+    "description": "Doom",
     "version": "07-08-2015",
     "author": "Obiwantje",
     "url": "https://github.com/libretro/libretro-database/raw/d1a6eff3df40d1436fb414b9339813bd47caea7d/dat/DOOM.dat"

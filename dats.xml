@@ -1,5 +1,40 @@
 <clrmamepro>
   <datfile>
+    <name>Apple - Macintosh</name>
+    <description>Apple - Macintosh</description>
+    <version>20150618 18-20-37</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Apple - Macintosh.dat</url>
+  </datfile>
+  <datfile>
+    <name>Arcade - Namco - Sega - Nintendo - Triforce</name>
+    <description>Arcade - Namco - Sega - Nintendo - Triforce</description>
+    <version>20110418 14-54-01</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Arcade - Namco - Sega - Nintendo - Triforce.dat</url>
+  </datfile>
+  <datfile>
+    <name>Arcade - Sega - Chihiro</name>
+    <description>Arcade - Sega - Chihiro</description>
+    <version>20140813 22-23-42</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Arcade - Sega - Chihiro.dat</url>
+  </datfile>
+  <datfile>
+    <name>Arcade - Sega - Lindbergh</name>
+    <description>Arcade - Sega - Lindbergh</description>
+    <version>20150413 00-03-09</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Arcade - Sega - Lindbergh.dat</url>
+  </datfile>
+  <datfile>
+    <name>Arcade - Sega - Naomi</name>
+    <description>Arcade - Sega - Naomi</description>
+    <version>20140529 02-43-08</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Arcade - Sega - Naomi.dat</url>
+  </datfile>
+  <datfile>
     <name>Atari - 5200 Parent-Clone</name>
     <description>Atari - 5200 Parent-Clone</description>
     <version>20130303-220600</version>
@@ -33,6 +68,20 @@
     <version>20150621-180415</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Atari - ST.dat</url>
+  </datfile>
+  <datfile>
+    <name>Bandai - Apple - Pippin</name>
+    <description>Bandai - Apple - Pippin</description>
+    <version>20130730 20-13-20</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Bandai - Apple - Pippin.dat</url>
+  </datfile>
+  <datfile>
+    <name>Bandai - Playdia</name>
+    <description>Bandai - Playdia</description>
+    <version>20140521 14-35-26</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Bandai - Playdia.dat</url>
   </datfile>
   <datfile>
     <name>Bandai - WonderSwan Color Parent-Clone</name>
@@ -98,6 +147,27 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - Amiga.dat</url>
   </datfile>
   <datfile>
+    <name>Commodore - Amiga CD</name>
+    <description>Commodore - Amiga CD</description>
+    <version>20150804 08-37-41</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Commodore - Amiga CD.dat</url>
+  </datfile>
+  <datfile>
+    <name>Commodore - Amiga CD32</name>
+    <description>Commodore - Amiga CD32</description>
+    <version>20151018 08-04-52</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Commodore - Amiga CD32.dat</url>
+  </datfile>
+  <datfile>
+    <name>Commodore - Amiga CDTV</name>
+    <description>Commodore - Amiga CDTV</description>
+    <version>20151005 23-19-40</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Commodore - Amiga CDTV.dat</url>
+  </datfile>
+  <datfile>
     <name>Commodore - Plus-4</name>
     <description>Commodore - Plus-4</description>
     <version>20090105-000000</version>
@@ -112,8 +182,8 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - VIC-20.dat</url>
   </datfile>
   <datfile>
-    <name>Doom Engine</name>
-    <description>Doom Engine</description>
+    <name>Doom</name>
+    <description>Doom</description>
     <version>07-08-2015</version>
     <author>Obiwantje</author>
     <url>https://github.com/libretro/libretro-database/raw/d1a6eff3df40d1436fb414b9339813bd47caea7d/dat/DOOM.dat</url>
@@ -147,6 +217,13 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Fairchild - Channel F Parent-Clone.dat</url>
   </datfile>
   <datfile>
+    <name>Fujitsu - FM-Towns</name>
+    <description>Fujitsu - FM-Towns</description>
+    <version>20150622 17-06-19</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Fujitsu - FM-Towns.dat</url>
+  </datfile>
+  <datfile>
     <name>Funtech - Super Acan Parent-Clone</name>
     <description>Funtech - Super Acan Parent-Clone</description>
     <version>20100527-192659</version>
@@ -175,6 +252,13 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Hartung - Game Master Parent-Clone.dat</url>
   </datfile>
   <datfile>
+    <name>IBM - PC compatible</name>
+    <description>IBM - PC compatible</description>
+    <version>20151214 19-34-46</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/IBM - PC compatible.dat</url>
+  </datfile>
+  <datfile>
     <name>LeapFrog - Leapster Learning Game System</name>
     <description>LeapFrog - Leapster Learning Game System</description>
     <version>20151122-100147</version>
@@ -189,6 +273,13 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Magnavox - Odyssey2 Parent-Clone.dat</url>
   </datfile>
   <datfile>
+    <name>Mattel - HyperScan</name>
+    <description>Mattel - HyperScan</description>
+    <version>20141214 20-56-56</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Mattel - HyperScan.dat</url>
+  </datfile>
+  <datfile>
     <name>Microsoft - MSX 2 Parent-Clone</name>
     <description>Microsoft - MSX 2 Parent-Clone</description>
     <version>20150803-001512</version>
@@ -201,6 +292,20 @@
     <version>20140821-082335</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Microsoft - MSX Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>Microsoft - Xbox</name>
+    <description>Microsoft - Xbox</description>
+    <version>20151011 12-37-20</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Microsoft - Xbox.dat</url>
+  </datfile>
+  <datfile>
+    <name>Microsoft - Xbox - BIOS Images</name>
+    <description>Microsoft - Xbox - BIOS Images</description>
+    <version>2010-09-13</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Microsoft - Xbox - BIOS Images.dat</url>
   </datfile>
   <datfile>
     <name>Microsoft - XBOX 360 (DLC)</name>
@@ -229,6 +334,34 @@
     <version>20151117-000629</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/NEC - PC Engine - TurboGrafx 16 Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>NEC - PC Engine CD - TurboGrafx-CD</name>
+    <description>NEC - PC Engine CD - TurboGrafx-CD</description>
+    <version>20151201 00-31-39</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/NEC - PC Engine CD - TurboGrafx-CD.dat</url>
+  </datfile>
+  <datfile>
+    <name>NEC - PC-88 series</name>
+    <description>NEC - PC-88 series</description>
+    <version>20141006 23-25-20</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/NEC - PC-88 series.dat</url>
+  </datfile>
+  <datfile>
+    <name>NEC - PC-98 series</name>
+    <description>NEC - PC-98 series</description>
+    <version>20151006 23-43-48</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/NEC - PC-98 series.dat</url>
+  </datfile>
+  <datfile>
+    <name>NEC - PC-FX - PC-FXGA</name>
+    <description>NEC - PC-FX - PC-FXGA</description>
+    <version>20150817 00-18-39</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/NEC - PC-FX - PC-FXGA.dat</url>
   </datfile>
   <datfile>
     <name>NEC - Super Grafx Parent-Clone</name>
@@ -271,6 +404,20 @@
     <version>20151210-233426</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Game Boy Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>Nintendo - GameCube</name>
+    <description>Nintendo - GameCube</description>
+    <version>20151031 19-11-46</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Nintendo - GameCube.dat</url>
+  </datfile>
+  <datfile>
+    <name>Nintendo - GameCube - BIOS Images</name>
+    <description>Nintendo - GameCube - BIOS Images</description>
+    <version>2011-06-07</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Nintendo - GameCube - BIOS Images.dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - New Nintendo 3DS (DLC) Parent-Clone</name>
@@ -385,11 +532,39 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Virtual Boy Parent-Clone.dat</url>
   </datfile>
   <datfile>
+    <name>Palm</name>
+    <description>Palm</description>
+    <version>20130217 08-57-47</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Palm.dat</url>
+  </datfile>
+  <datfile>
+    <name>Panasonic - 3DO Interactive Multiplayer</name>
+    <description>Panasonic - 3DO Interactive Multiplayer</description>
+    <version>20151122 10-48-51</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Panasonic - 3DO Interactive Multiplayer.dat</url>
+  </datfile>
+  <datfile>
+    <name>Philips - CD-i</name>
+    <description>Philips - CD-i</description>
+    <version>20150922 18-45-29</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Philips - CD-i.dat</url>
+  </datfile>
+  <datfile>
     <name>Philips - Videopac+ Parent-Clone</name>
     <description>Philips - Videopac+ Parent-Clone</description>
     <version>20120223-000000</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Philips - Videopac+ Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>Photo CD</name>
+    <description>Photo CD</description>
+    <version>20140718 15-49-28</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Photo CD.dat</url>
   </datfile>
   <datfile>
     <name>RCA - Studio II Parent-Clone</name>
@@ -404,6 +579,13 @@
     <version>20130217-102211</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - 32X Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>Sega - Dreamcast</name>
+    <description>Sega - Dreamcast</description>
+    <version>20151205 18-26-31</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Sega - Dreamcast.dat</url>
   </datfile>
   <datfile>
     <name>Sega - Game Gear Parent-Clone</name>
@@ -427,11 +609,25 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - Mega Drive - Genesis Parent-Clone.dat</url>
   </datfile>
   <datfile>
+    <name>Sega - Mega-CD - Sega CD</name>
+    <description>Sega - Mega-CD - Sega CD</description>
+    <version>20151027 15-05-57</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Sega - Mega-CD - Sega CD.dat</url>
+  </datfile>
+  <datfile>
     <name>Sega - PICO Parent-Clone</name>
     <description>Sega - PICO Parent-Clone</description>
     <version>20151004-123620</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - PICO Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>Sega - Saturn</name>
+    <description>Sega - Saturn</description>
+    <version>20151106 14-38-19</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Sega - Saturn.dat</url>
   </datfile>
   <datfile>
     <name>Sega - SG-1000 Parent-Clone</name>
@@ -448,6 +644,13 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/Sinclair - ZX Spectrum +3.dat</url>
   </datfile>
   <datfile>
+    <name>SNK - Neo Geo CD</name>
+    <description>SNK - Neo Geo CD</description>
+    <version>20140907 22-48-37</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/SNK - Neo Geo CD.dat</url>
+  </datfile>
+  <datfile>
     <name>SNK - Neo Geo Pocket Color Parent-Clone</name>
     <description>SNK - Neo Geo Pocket Color Parent-Clone</description>
     <version>20151122-095540</version>
@@ -460,6 +663,34 @@
     <version>20120228-094313</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/SNK - Neo Geo Pocket Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation</name>
+    <description>Sony - PlayStation</description>
+    <version>20151215 00-12-35</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Sony - PlayStation.dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation - BIOS Images</name>
+    <description>Sony - PlayStation - BIOS Images</description>
+    <version>2015-03-10</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Sony - PlayStation - BIOS Images.dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation 2</name>
+    <description>Sony - PlayStation 2</description>
+    <version>20151205 11-27-23</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Sony - PlayStation 2.dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation 2 - BIOS Images</name>
+    <description>Sony - PlayStation 2 - BIOS Images</description>
+    <version>2014-10-30</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Sony - PlayStation 2 - BIOS Images.dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation 3 (DLC)</name>
@@ -537,6 +768,13 @@
     <version>20120223-000000</version>
     <author>No-Intro</author>
     <url>https://robloach.github.io/awesome-dats/No-Intro/VTech - CreatiVision Parent-Clone.dat</url>
+  </datfile>
+  <datfile>
+    <name>VTech - V.Flash</name>
+    <description>VTech - V.Flash</description>
+    <version>20120602 19-11-52</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/VTech - V.Flash.dat</url>
   </datfile>
   <datfile>
     <name>VTech - V.Smile</name>

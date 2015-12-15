@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Fujitsu - FM-Towns</name>
+		<description>Fujitsu - FM-Towns 20150622 17-06-19</description>
+		<version>20150622 17-06-19</version>
+		<date>20150622 17-06-19</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Scavenger 4 (Japan)">
+		<category>Games</category>
+		<description>Scavenger 4 (Japan)</description>
+		<rom name="Scavenger 4 (Japan).cue" size="108" crc="3c19efb7" md5="7a4bbb3d7ffe112f502120294072c62e" sha1="d37833c44a86d1512d5def2683c3a08995d5bab2"/>
+		<rom name="Scavenger 4 (Japan).bin" size="528844848" crc="e4962f69" md5="4d8a5ff4a3b7e4ba19e73147af4d7a32" sha1="082ab4b5b471bc9f8b9a890b8d8fbdf0aece8f0d"/>
+	</game>
+	<game name="Galaxy Force II (Japan)">
+		<category>Games</category>
+		<description>Galaxy Force II (Japan)</description>
+		<rom name="Galaxy Force II (Japan).cue" size="978" crc="bd074c17" md5="6e21531145d397e4fd905ac8c268ee46" sha1="e55022b58145e29793c090910bb5cdc762b99a2d"/>
+		<rom name="Galaxy Force II (Japan) (Track 01).bin" size="20815200" crc="c12ad545" md5="2bb11d0030625372d89c2b2a2df9315f" sha1="9b601a87c2323d90c5f91b382279e8a627f9db6f"/>
+		<rom name="Galaxy Force II (Japan) (Track 02).bin" size="16976736" crc="491d7d44" md5="04ed3b69276e2f0cab1acb46b857bdb3" sha1="f56f220690854344c5fc8eca1d6d0a94f22ca428"/>
+		<rom name="Galaxy Force II (Japan) (Track 03).bin" size="19149984" crc="dbed371e" md5="69fe06a8415d704b16570a10d820fb54" sha1="c42b4f485330f66bce17d2a5e875aa0471880859"/>
+		<rom name="Galaxy Force II (Japan) (Track 04).bin" size="56647920" crc="0f464575" md5="6e8e672cfd502abb2ebe0ceffdbc3ccc" sha1="4642bf42309efa653bc9adac6f9c263e155c089d"/>
+		<rom name="Galaxy Force II (Japan) (Track 05).bin" size="56784336" crc="bb298d3a" md5="5bc08771117218ac447134566be3a53a" sha1="bc7cc41c1b96b3dc4f11d46542546e4772522124"/>
+		<rom name="Galaxy Force II (Japan) (Track 06).bin" size="59928960" crc="f9f46110" md5="26a53c488a1fea053a93726138d45b30" sha1="1697a3cf9a328ec0a9d4c62e5079eb15112c9468"/>
+		<rom name="Galaxy Force II (Japan) (Track 07).bin" size="57746304" crc="aceb768a" md5="9a9a81815249ed84d2c9a44e0ce062d5" sha1="a3f9165b029768aa4ea5ff8594a560c706ff7a8c"/>
+		<rom name="Galaxy Force II (Japan) (Track 08).bin" size="65056320" crc="c3c5bc9f" md5="a11fc962de5ef694767d14dd7504b575" sha1="16e68b558949fa55d6016ccd0a82044b6fe602c2"/>
+		<rom name="Galaxy Force II (Japan) (Track 09).bin" size="26984496" crc="81cdb2a6" md5="61b4416777e67e03a5043cb9940c7832" sha1="5fcc390382b07a4983237cf7def7f95e6990810c"/>
+		<rom name="Galaxy Force II (Japan) (Track 10).bin" size="25124064" crc="ccf99476" md5="e9aeece01e2bc62f2ddbcb88f6ac8c71" sha1="358d9da776e2dc479e21570d58a602d9d9755007"/>
+	</game>
+	<game name="Towns System Software (Japan) (v2.1 L10A)">
+		<category>Applications</category>
+		<description>Towns System Software (Japan) (v2.1 L10A)</description>
+		<rom name="Towns System Software (Japan) (v2.1 L10A).cue" size="1501" crc="f12365eb" md5="ea64fd9acb67f3ea35d738ab4c8c6be5" sha1="cd81fa008e888a909bd3da5020b5f2225ea67601"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 01).bin" size="317167200" crc="12b38388" md5="2d41467dec7c1658c2b3e7ff7c679a94" sha1="a7736100098611839fcb8199eae41dd7213ddcaf"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 02).bin" size="11799984" crc="47372237" md5="56d9bcd61bf16436ddabb7787ca4c98d" sha1="5b643250e4a8abf3671fd38715557f161c4d620f"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 03).bin" size="8885856" crc="28cd028e" md5="33835e8cfb8c44a2773fd8d3ca6b101d" sha1="8a848d850d3b122dc3f0f15efb3b888cfc197c02"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 04).bin" size="11301360" crc="d53228f5" md5="fc9f6232bea7527ebbc55cb5a4cb3490" sha1="a208cf49fb3a8ca38d2fd4d51256edfab470b85a"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 05).bin" size="11136720" crc="f9d2a991" md5="c08f4efb0658135da924a0f6fae758c5" sha1="d9e0bb8657978c05fcce4f1d9020e07f397fb44b"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 06).bin" size="94449264" crc="cf75e950" md5="7015819e9351aadd1e0da1e52d70c114" sha1="91d9e93d9886027b9c66bb86d810ad012a27b0dd"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 07).bin" size="22955520" crc="cbc73605" md5="69dcd22c5da1dcbc50ed0ee07e6fe6f1" sha1="440e07218bc63c136e0d8446ebeda19b52547e98"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 08).bin" size="116435760" crc="46115cb5" md5="40f276372dea75bfa194987b472c1b63" sha1="ea482c6088166b956a1596c4b91beeaa0849e519"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 09).bin" size="11578896" crc="71242193" md5="b1a365b6676a0648ef94387134d35af2" sha1="d043dcd84d6c2e6a48ce14807825ec5456a5e736"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 10).bin" size="10595760" crc="49237f87" md5="da2653137a382652a51475249ba8c382" sha1="67343b528937a0d940165d5f84737797fd6667dc"/>
+		<rom name="Towns System Software (Japan) (v2.1 L10A) (Track 11).bin" size="11054400" crc="02411027" md5="293504637f75729b9eca8f29fdce418d" sha1="3f68418b53d65396f588902ade208bf27b471d76"/>
+	</game>
+	<game name="F-BASIC 386 (Japan) (v1.1 L20)">
+		<category>Applications</category>
+		<description>F-BASIC 386 (Japan) (v1.1 L20)</description>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20).cue" size="1380" crc="3730abca" md5="07b293eaaa729f4d816c25beae202949" sha1="071f6c1806e9477ab9df0fd8b4cdf7516b29a62f"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 01).bin" size="55389600" crc="661d4cfb" md5="6f315cbfc150531153418fb1c04ccd87" sha1="614dfc9829ff5896d611f24a6f0cc6a912c9e7eb"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 02).bin" size="41729184" crc="17f838e9" md5="37587292eff74f97bdc295f882c063c3" sha1="faef4319da96fe3ea061b19e7c5a79a56604d090"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 03).bin" size="14765856" crc="f5a2bfbc" md5="c53dbf855254215e233729147bc60154" sha1="feec18ce8a1250704f2c9e8c66671568b50655a4"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 04).bin" size="24049200" crc="23d46b62" md5="a50508fa5f8be36f17fc7174ea31390a" sha1="f3fc81272c05f6473d0dc9e00bc3da35658b0fd6"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 05).bin" size="37213344" crc="67350f17" md5="c3d2ce283d63045b7f8b893fcfea3dd7" sha1="00b992141bd49aeaa6cf52d5fdc479c9be3906ea"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 06).bin" size="8968176" crc="00282ec8" md5="97035e082b36aff473ef5ef792a7b2ae" sha1="43bec43cd44be78a014becc94ac2c33126eb0f6b"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 07).bin" size="5374320" crc="a4d5c277" md5="6ee92d840a6215399a7c6ce30bff2016" sha1="620ad28f7e21abd38cb9af378d892330ad6cd7a7"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 08).bin" size="5002704" crc="e688b514" md5="07610396e7c74549fa2e5f600f67537d" sha1="068af1d56da66a8ee8b3adfdcd8f4c5902d790a3"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 09).bin" size="9360960" crc="e966f3ec" md5="6cf9f48d10f79a7fcfe9a14c790ab6dc" sha1="4245e9492a0a2660380b11dfa458c06b4041b2a3"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 10).bin" size="4675776" crc="c90f1de0" md5="86038fe14fc6f3d96e002be7b595c25d" sha1="139630c7a5aaf478110cd77bd1d4e5c218bc68fb"/>
+		<rom name="F-BASIC 386 (Japan) (v1.1 L20) (Track 11).bin" size="16793280" crc="65bb0664" md5="35095a5624d792cba978a9e41bb78818" sha1="85a7e637bf3385266c1bf4cc80f3972b41369d17"/>
+	</game>
+	<game name="Microsoft Windows (Japan) (v3.1 L11)">
+		<category>Applications</category>
+		<description>Microsoft Windows (Japan) (v3.1 L11)</description>
+		<rom name="Microsoft Windows (Japan) (v3.1 L11).cue" size="1022" crc="096f415a" md5="be8c0b73386124e6d441ec2ff15337e8" sha1="641387c635004513d9b4895c5d30b51ebfd6e703"/>
+		<rom name="Microsoft Windows (Japan) (v3.1 L11) (Track 1).bin" size="210974400" crc="f1c0baee" md5="8705e3393989396162f3a783f82ea38d" sha1="b6b3a75c06dda9f2c7df10703b2640871db84d34"/>
+		<rom name="Microsoft Windows (Japan) (v3.1 L11) (Track 2).bin" size="24296160" crc="84ca1c64" md5="a9697de9d633de946ba286c35ab53963" sha1="a5a76ce4664e31a431f0ede7fb595f68f91ea70e"/>
+		<rom name="Microsoft Windows (Japan) (v3.1 L11) (Track 3).bin" size="33280800" crc="c715fa2a" md5="02bce69fd1beab8b5e3cb11c583f6b3d" sha1="d1f949e98d6721569224f487662b4be4379930d1"/>
+		<rom name="Microsoft Windows (Japan) (v3.1 L11) (Track 4).bin" size="31203984" crc="ddc80416" md5="f99637fa3490d1047fddc975629e8353" sha1="e416686251a310ca37ab28d71422aa0a4b8aad5c"/>
+		<rom name="Microsoft Windows (Japan) (v3.1 L11) (Track 5).bin" size="33687696" crc="6dc2adb0" md5="44bfd720f1899716eaa86cb04f3a5ea9" sha1="f15fbaa51ef779119ea20c2559b2942e0d660bea"/>
+		<rom name="Microsoft Windows (Japan) (v3.1 L11) (Track 6).bin" size="24484320" crc="6003c48f" md5="64a2f33664aceec7f8188c907cc98360" sha1="06cf72ab1a8a97967cf505ebf63ababeb253f64d"/>
+		<rom name="Microsoft Windows (Japan) (v3.1 L11) (Track 7).bin" size="66366384" crc="14c119e5" md5="ab983a7c47d13f222cb320799dda1799" sha1="f5fc90b31f35f2fff7fe2a71f66359baecb047dc"/>
+		<rom name="Microsoft Windows (Japan) (v3.1 L11) (Track 8).bin" size="41049456" crc="7ac70a73" md5="0689216716f45af6f0f113f1d08abd19" sha1="a51becc2bb7686925441a2538f238aa151807006"/>
+	</game>
+	<game name="Pegasus (Japan) (v1.1 L10C)">
+		<category>Applications</category>
+		<description>Pegasus (Japan) (v1.1 L10C)</description>
+		<rom name="Pegasus (Japan) (v1.1 L10C).cue" size="93" crc="79a71895" md5="77d4f7a8d61b86b709cebed9bb276222" sha1="f62aa1228a92654940f0587bbb5553713d3dd615"/>
+		<rom name="Pegasus (Japan) (v1.1 L10C).bin" size="152419008" crc="f45a794c" md5="70b3f4e1ea8e34a4d0c0a86ccf273077" sha1="7643f364d5031dbf355b65c8e79c2a932e98f11e"/>
+	</game>
+	<game name="Towns Magazine (Japan)">
+		<category>Multimedia</category>
+		<description>Towns Magazine (Japan)</description>
+		<rom name="Towns Magazine (Japan).cue" size="88" crc="1cd7a414" md5="9eb5589a6402f9897a44494103c2d7e7" sha1="6002b09298643a720e56b7827cae1025b4b6e219"/>
+		<rom name="Towns Magazine (Japan).bin" size="294366912" crc="f2fd6eb1" md5="fe41f23ceed63e6c452af7b2085c1f2b" sha1="5e20836562d807c7c1f1f4041cef8214b92b3c59"/>
+	</game>
+	<game name="Free Software Collection 6 (Japan)">
+		<category>Applications</category>
+		<description>Free Software Collection 6 (Japan)</description>
+		<rom name="Free Software Collection 6 (Japan).cue" size="100" crc="61ebe1b0" md5="7ba91cdbd2389e9f20bbfeede21709f8" sha1="bf2a169a70854fe9bad33d048fb224ca7b5c9608"/>
+		<rom name="Free Software Collection 6 (Japan).bin" size="475927200" crc="4f527e27" md5="5d56aa461aafbda3ebe1e105aba17d23" sha1="e50298843979cbadeffad772ebd8e6453b8cb627"/>
+	</game>
+	<game name="FreeWare Collection 3 (Japan)">
+		<category>Applications</category>
+		<description>FreeWare Collection 3 (Japan)</description>
+		<rom name="FreeWare Collection 3 (Japan).cue" size="1346" crc="882900d1" md5="852bd557d81de83c1f3329a8e587e5af" sha1="6641edc7a4145216c3b5c12005ac75619944a37f"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 01).bin" size="158407200" crc="1069cae3" md5="faa95d27bafafea8162b2b48ed7c8c78" sha1="9a71931eae9d78c34c6119a38fb80531657add19"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 02).bin" size="52214400" crc="9af507e9" md5="b248c055bc7f454d08726969fe15f9e7" sha1="5a25674fe17d9a9ee0d1bf496ba24713b60dcaa9"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 03).bin" size="44629200" crc="37cc4a82" md5="69514c1e6015234dcf18bb7655523a0c" sha1="fe4c7214e84e18121deb8fdb17fd42959a69e543"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 04).bin" size="49568400" crc="64e10d52" md5="9aad1191ca17041c7e7fe29d08daf012" sha1="cc22820f411434a29d01814b75264eadac0d00b3"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 05).bin" size="44100000" crc="41fb1b28" md5="1aa9251faa0fd27d011ee49e514af69e" sha1="2083814c137ca310847b9a08900525ae18202d5e"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 06).bin" size="56448000" crc="dac10eff" md5="4d10e583cbb3ef3444e56f5101912976" sha1="28acf0d107e9b4c23f002fae7d2ea2b8ec710aed"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 07).bin" size="38984400" crc="9e1bd056" md5="ff96ab2df5677d2128a1b842081d4012" sha1="c5a67273adf562af581c5deaf62e1ad10c852cf8"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 08).bin" size="31399200" crc="76ff17de" md5="1a9e3cb4fbbe6416e621e97f4f7d67f0" sha1="6dbb4e806a1bf7f069d39027f525a1b5c96ba753"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 09).bin" size="36691200" crc="2cdbdf81" md5="e09ca608fd3cd917b9d46a53d26e118e" sha1="02a4092359c109db0e3cd28871c3ecf0b70e8a1d"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 10).bin" size="69071184" crc="f54f6c69" md5="bb2e284115661fdcd7b11c8633ad0c0e" sha1="7469eda93b6f6b0a862d349f222b4ca8416f59a9"/>
+		<rom name="FreeWare Collection 3 (Japan) (Track 11).bin" size="23303616" crc="77871034" md5="eb3f23fc33d4c73ad2e72862bc396cc7" sha1="c53e7efcb48f0d74e4fbbeb89a0e9c910218adff"/>
+	</game>
+	<game name="OASYS-Win (Japan) (v2.0)">
+		<category>Applications</category>
+		<description>OASYS-Win (Japan) (v2.0)</description>
+		<rom name="OASYS-Win (Japan) (v2.0).cue" size="90" crc="22eb3549" md5="370b790338c6598885877771dc6cb072" sha1="b494a3d20be1e0ef8f5adf4cbbb8921912968b31"/>
+		<rom name="OASYS-Win (Japan) (v2.0).bin" size="116188800" crc="83a28e2b" md5="adf6db25201fa4c6ac793b85c141df6c" sha1="964815360356173e43dbbe3b2511e6e5111bd51c"/>
+	</game>
+	<game name="Pu Li Ru La (Japan)">
+		<category>Games</category>
+		<description>Pu Li Ru La (Japan)</description>
+		<rom name="Pu Li Ru La (Japan).cue" size="3174" crc="94b2cb63" md5="855c727d1c959cdb57ba6a1410c9a3b6" sha1="1d57f0cbae83cc414ea8a41fe3720e52c6cce59f"/>
+		<rom name="Pu Li Ru La (Japan) (Track 01).bin" size="20462400" crc="409635f3" md5="d6551388b32839220a4468a7d64b9ef5" sha1="1acb6300fa54880f96445bc34f59b184fb002ed9"/>
+		<rom name="Pu Li Ru La (Japan) (Track 02).bin" size="3909024" crc="3b602a96" md5="145d7ebc8250e23502616dd4b8fcb0cd" sha1="6100e7c8e84a982f4ddf4d85d62b5154eef3bdae"/>
+		<rom name="Pu Li Ru La (Japan) (Track 03).bin" size="13625136" crc="da72f82e" md5="0606cb96ca48298815c774e079dc5e68" sha1="cc8d204e184394a87581e68e40ea8d339af16740"/>
+		<rom name="Pu Li Ru La (Japan) (Track 04).bin" size="12559680" crc="60a5f3b6" md5="8e97626b0fc23a08252efb5da7d43263" sha1="9a3e678a4e493de84648fd49b669f3533bc83a64"/>
+		<rom name="Pu Li Ru La (Japan) (Track 05).bin" size="15076320" crc="92fd4126" md5="cb0fdf7e10eef16df15b97a5946b9aaa" sha1="8b5692a1e73b1a124f0d10743c5ea5afa0ab41a4"/>
+		<rom name="Pu Li Ru La (Japan) (Track 06).bin" size="12293904" crc="f47be75d" md5="988bddc847172f995fa4ba67b65ec5c1" sha1="3f1071fbb9195796f7508b4f949769b9bd363149"/>
+		<rom name="Pu Li Ru La (Japan) (Track 07).bin" size="2359056" crc="27288e14" md5="31175005df3c879bf3c6a96814fddfd5" sha1="7d81297a89981b6faa65616b1717501bd1b8556b"/>
+		<rom name="Pu Li Ru La (Japan) (Track 08).bin" size="2669520" crc="9b63077a" md5="0256d191dd0ca3fa76870c8fea84c017" sha1="b238b5873f7810c8716c5669c42d0900317e8d75"/>
+		<rom name="Pu Li Ru La (Japan) (Track 09).bin" size="11141424" crc="82121cad" md5="cbcb50f3637e3455ddd6bdc300d0f872" sha1="90d23a9ab8eb2c836640bc4559aeda09b2b13269"/>
+		<rom name="Pu Li Ru La (Japan) (Track 10).bin" size="10743936" crc="9be1563d" md5="0192126942a5c3c10d2508b6ab5747d4" sha1="81b2fe4059871f79cdcf486173383ba250edf45a"/>
+		<rom name="Pu Li Ru La (Japan) (Track 11).bin" size="11289600" crc="ee4306b8" md5="3bf1ce68741e065c15386436a51c5ee4" sha1="ef6328c3563d1b2aebc90af4e8da6db325bfe8c5"/>
+		<rom name="Pu Li Ru La (Japan) (Track 12).bin" size="5550720" crc="78432421" md5="81e772aab0bd215e82e13c598385071d" sha1="4121d1def9dcf9f88f3260b09fdd2711e4feb6c2"/>
+		<rom name="Pu Li Ru La (Japan) (Track 13).bin" size="11211984" crc="aa210de7" md5="a094635053c9f93264efec1debfed154" sha1="f1cb01a45c133673f0873ae06bc1115633dab8c2"/>
+		<rom name="Pu Li Ru La (Japan) (Track 14).bin" size="17251920" crc="afd48557" md5="176335a819643184977f1aab1baf745d" sha1="22539565f03f77ae704a7dd61d7799cfd401aef0"/>
+		<rom name="Pu Li Ru La (Japan) (Track 15).bin" size="25044096" crc="7952a7f0" md5="ea65042e77b7bbe9df91f331a68caa64" sha1="a4ee49b5ca9e89ff3417e349495c5cb25c8754a7"/>
+		<rom name="Pu Li Ru La (Japan) (Track 16).bin" size="24084480" crc="47c1d957" md5="be1d722b1c5fbdcfdd686295158b8c16" sha1="61bf7f4b6226f0d2a58497839355d4b9ba1508ef"/>
+		<rom name="Pu Li Ru La (Japan) (Track 17).bin" size="25001760" crc="4b7d5af6" md5="6c9cc0ff123de6d585a5263892f03441" sha1="dbc3309e058de46efd37e7f1d1721852559c56e6"/>
+		<rom name="Pu Li Ru La (Japan) (Track 18).bin" size="24606624" crc="9ecc1a4b" md5="9ed5b46e26dcccbcf0b8f08a26dcecd3" sha1="91d6e5e44ea0c071309a8dfb8d559f7f5de0d63e"/>
+		<rom name="Pu Li Ru La (Japan) (Track 19).bin" size="24578400" crc="3662573b" md5="7bd5e93ab2300219dffd34ca1c247c7d" sha1="adb79c303ff1993943ffefebce605e9e47011beb"/>
+		<rom name="Pu Li Ru La (Japan) (Track 20).bin" size="24590160" crc="53420c17" md5="0ba35120d16a47ddbb636fdc337b2044" sha1="3e523099729b487edd684954ee1a871c6843882d"/>
+		<rom name="Pu Li Ru La (Japan) (Track 21).bin" size="25149936" crc="b58281d9" md5="665a6688f600a216869dbb6c07f440be" sha1="23b2a03ad8b99e300c8f3ade381af0aef72bf2c2"/>
+		<rom name="Pu Li Ru La (Japan) (Track 22).bin" size="25053504" crc="26541f7b" md5="81c9b47bec299a41e51fc29e3bb5de2a" sha1="84adff1adaa59cb38e714e256c12e4a70a765086"/>
+		<rom name="Pu Li Ru La (Japan) (Track 23).bin" size="23037840" crc="a16e3dc7" md5="725482ad79f4b631a02bae482586e6cd" sha1="c447e1fe76a741b7e109770cf98d6d783913a3f8"/>
+		<rom name="Pu Li Ru La (Japan) (Track 24).bin" size="21915936" crc="9a0a0c58" md5="c491dbf9c81e3115941a60e3d1e175e1" sha1="29b9ce654bbac006e9768587e79630c036871743"/>
+		<rom name="Pu Li Ru La (Japan) (Track 25).bin" size="3850224" crc="92e3f97f" md5="ed8a8e4eac01ae171775262862b43f1d" sha1="8036dd4a4e28f6352b08c9565349e39b8252ff13"/>
+		<rom name="Pu Li Ru La (Japan) (Track 26).bin" size="20022576" crc="7a2dddec" md5="9800d45e9d7dcfe2fa19b7289abea119" sha1="af0fc8dbc06da445f6d93288c6dfe7d586219545"/>
+		<rom name="Pu Li Ru La (Japan) (Track 27).bin" size="45962784" crc="14ef2926" md5="a3500afdb1829cf52b527ca6643d1660" sha1="39744f874e30c3fbd9c9666bfc9d0d8f5b5ae759"/>
+		<rom name="Pu Li Ru La (Japan) (Track 28).bin" size="45358320" crc="c297fb33" md5="49636fccd9a2c6ff5c80c076dbc22962" sha1="8ec32d9bb8e88beb19327102062855bec653dc06"/>
+	</game>
+	<game name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0)">
+		<category>Games</category>
+		<description>Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0)</description>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0).cue" size="1166" crc="824a4fd5" md5="21bb43ee5b51cc55a10979b6e3f38d3f" sha1="50ac53afc5d16b8aafd814fc3792c37786988575"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0) (Track 1).bin" size="179575200" crc="538840fa" md5="275c3299121bee7072ad545cc69731c6" sha1="473e195a5e250d6648ae938afa63cf5d5eaa2182"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0) (Track 2).bin" size="6827856" crc="4e055d3d" md5="d6c75b501dcc38d79a80a8f274f90aab" sha1="5dd9227d42df684ab595e7d0e6c4064b66e41d9b"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0) (Track 3).bin" size="52136784" crc="440be6ec" md5="372137adc9bc20dbae313ab1947276be" sha1="c3f39630c34e6f7ed3734e22d3c5a49b3f0a7ff0"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0) (Track 4).bin" size="31664976" crc="4eb891c0" md5="590d8ee675f785e2bc33769abd22ee92" sha1="0380a8b7939ab9c75bdac5041c5210a553efb217"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0) (Track 5).bin" size="22607424" crc="483501ae" md5="5da265bcd08b9240a927d4e22e4886ca" sha1="786d56c8a9708db0d0f841dc3c5af0bcce626727"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0) (Track 6).bin" size="26843376" crc="edd78e19" md5="4c22837327b81c40088995aa04744f2b" sha1="e0daa87b1bcc4b271fe7929c4545afaef7556276"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0) (Track 7).bin" size="28875504" crc="e1ce6cc1" md5="616aeff1a3934f0d5871b75b2a4c1e01" sha1="d243688d3b3e145b16ca86377c52a61ce92cf8e6"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.0) (Track 8).bin" size="36197280" crc="732a69ae" md5="ddb2beeeea70034286c2980e1b5dad06" sha1="81551f723c0f79d1e8e7c4ad2dc71cd9d0dbede4"/>
+	</game>
+	<game name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 1)">
+		<category>Games</category>
+		<description>Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 1)</description>
+		<rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 1).cue" size="134" crc="8cf76647" md5="f173716826d1c6f88f619701d8a151cd" sha1="7b03c38f891e6c9e15f0ccabc96d0900aa4a078d"/>
+		<rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 1).bin" size="361540032" crc="bdea9ba7" md5="ae944956dd899a5075d725f66d11959e" sha1="dee4ab701aba51df0ebd635131f0b040d5ab81d9"/>
+	</game>
+	<game name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2)">
+		<category>Games</category>
+		<description>Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2)</description>
+		<rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2).cue" size="630" crc="ac3eb5cc" md5="dd12e047f830c5fe417653ff881bebff" sha1="fa6cafc36ca14ac491f5cbaec1a668ef651ee1e6"/>
+		<rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 1).bin" size="370926864" crc="8d084f92" md5="aa8c17172ba74d15e95b53f0e9b4a3e1" sha1="289cac34e8ef0d41278f23548704e820724cf4ac"/>
+		<rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 2).bin" size="58082640" crc="f95a3b7b" md5="ea0bfccc63107f540458679daa32575d" sha1="adb97bc92f3ef4cdb9bcdba89e1f472e4450bdec"/>
+		<rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 3).bin" size="38459904" crc="291ad684" md5="e372ec19d0e2d67b8b3d581a9f946fb1" sha1="d752c440cdf1df9e4b02d9c59084b7940a2997c3"/>
+		<rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 4).bin" size="51391200" crc="d6fb361d" md5="87b87ac92ca272124b76d91a472c2456" sha1="4bc4fb46af534734b26b181a3add23ad85424324"/>
+	</game>
+	<game name="Psychic Detective Series Vol. 1 - Invitation - Kage kara no Shoutaijou (Japan)">
+		<category>Games</category>
+		<description>Psychic Detective Series Vol. 1 - Invitation - Kage kara no Shoutaijou (Japan)</description>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation - Kage kara no Shoutaijou (Japan).cue" size="670" crc="3d7e0c54" md5="f6d46f767dc4581352e4aaa99391d7a4" sha1="ebee9fa40bab39bad03298ed0e355eb49ce7bb44"/>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation - Kage kara no Shoutaijou (Japan) (Track 1).bin" size="129830400" crc="952c98e2" md5="c971f641f9f66f411d625d3cd6e8095c" sha1="aa66a3aca896d6c09eb1a49a19a9d6ebc6fa7df6"/>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation - Kage kara no Shoutaijou (Japan) (Track 2).bin" size="63504000" crc="c4b1f25e" md5="e1a09452e6bdfdd540cfc440aa797bc8" sha1="2e43f87481d25da81ec2fd74eedac11218a26880"/>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation - Kage kara no Shoutaijou (Japan) (Track 3).bin" size="59623200" crc="5d7276f6" md5="4fd528b39d5bf0a378e6fadea70f4349" sha1="9431efea7f50a0064ba410b32b32883e69af0c66"/>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation - Kage kara no Shoutaijou (Japan) (Track 4).bin" size="4233600" crc="4580866a" md5="33c14305c3e0b28b0d18613feeaeb3f7" sha1="aaefaba5020efb03452df764e2897d0f278e3151"/>
+	</game>
+	<game name="Psychic Detective Series Vol. 3 - Aya (Japan)">
+		<category>Games</category>
+		<description>Psychic Detective Series Vol. 3 - Aya (Japan)</description>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan).cue" size="1094" crc="bf219c5c" md5="09098dd34c75b520734010bf8aceb87e" sha1="4d31b78c49d06f1af6fe86a81cddb8da9d33b443"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 1).bin" size="158407200" crc="476a9efa" md5="7e4d282f7f87a90f9dc644c45d65259a" sha1="419edde4eef471df10e6756d7936aca1eeccaa04"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 2).bin" size="5633040" crc="517f6153" md5="30a88c62ad84ca6c0070333fdb694cd8" sha1="3f9ab93f125f952a196ea4652de0d37aace68177"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 3).bin" size="17393040" crc="0caea2b5" md5="5673b0213a803c5e5bd11b562dae3ef5" sha1="599875916665f0252d2322b3b5b5cce08d515a89"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 4).bin" size="36837024" crc="890f3bd1" md5="28a0dc6bce0e7f5eb48329276e6a0b3e" sha1="7a746f73f026f90bf7f6f28ef1c4cf17b93763c9"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 5).bin" size="51339456" crc="53dedd5a" md5="288fb86ad7700054480bd9bca71f3d7b" sha1="167c972030a74b7f1768dbb5edc0cc2aeec85e8e"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 6).bin" size="34833120" crc="71dc1ab9" md5="86e5be6707206e15f1ed921df88c8162" sha1="b8db1ea28e4649b7fd1bc0909dd9478092ac595a"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 7).bin" size="58270800" crc="069b929e" md5="ca41ca0a87f9d55ac250c62f52fd61f0" sha1="05ee6de6df513fd09a7d20d5689018327aa0562b"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 8).bin" size="4233600" crc="4580866a" md5="33c14305c3e0b28b0d18613feeaeb3f7" sha1="aaefaba5020efb03452df764e2897d0f278e3151"/>
+	</game>
+	<game name="DOR - Special Edition '93 (Japan) (Alt)">
+		<category>Games</category>
+		<description>DOR - Special Edition '93 (Japan) (Alt)</description>
+		<rom name="DOR - Special Edition '93 (Japan) (Alt).cue" size="404" crc="0f4aee39" md5="3fcf057819a13d89ceabb715079c1f13" sha1="c95f294d8607b877a4fe6d4e8723acd728747d14"/>
+		<rom name="DOR - Special Edition '93 (Japan) (Alt) (Track 1).bin" size="310421664" crc="752f9bdd" md5="30fb902f6fe14ec9125f479c3e454bb1" sha1="ae19d158d5cc4c094d216b593ff383bd7ee33abb"/>
+		<rom name="DOR - Special Edition '93 (Japan) (Alt) (Track 2).bin" size="35630448" crc="b8116f60" md5="10a6b3d2dcee0f77221f6867a0c874c1" sha1="1ad59d2a1d591251b9b68093b572b4c253eb2017"/>
+		<rom name="DOR - Special Edition '93 (Japan) (Alt) (Track 3).bin" size="35635152" crc="5a9d095a" md5="d6da9055e1c5290259de7dcda0d21deb" sha1="d93ba61f4cb4b841ba2a93256182ef71452b0501"/>
+	</game>
+	<game name="Psychic Detective Series Vol. 5 - Nightmare (Japan)">
+		<category>Games</category>
+		<description>Psychic Detective Series Vol. 5 - Nightmare (Japan)</description>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan).cue" size="1310" crc="a751277a" md5="c7bb8f0ecafccc1a21f6c9ba9710e039" sha1="4ad4ebd05bd05fa24f667084736cea4f7e330603"/>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 1).bin" size="190159200" crc="0435ad64" md5="445f10a80a6ff0dbec1721d652a07592" sha1="c7212059e697904d583bc502b9de3ee07cab6560"/>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 2).bin" size="48157200" crc="c3805c5c" md5="1752865ca496af51a83bec6f9d0f4181" sha1="8fdee8bf190b19dcf9b5649b7d43d8c28e725e12"/>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 3).bin" size="6350400" crc="b6772113" md5="307739244ff2552fe8fbcc42dc78323a" sha1="f683b34b44cbb4bc809d3f37185de6fa8b0cd507"/>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 4).bin" size="21520800" crc="5d21294d" md5="2fa7b6e2db57b58b51c8c9963f57287a" sha1="d8ec6ce5e515277754e786a34d68c02df1853d07"/>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 5).bin" size="5821200" crc="a4d5fb52" md5="da114329c69f6e873341935e1a108ba8" sha1="64bd7a84dbb5c5bcc3501dc9ee9bff9b88351a74"/>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 6).bin" size="34750800" crc="b3cbf2b6" md5="81fc814751d22dc040a6c94157abff10" sha1="6f077642eee54959bee76b505a1bf3a67b6b30cb"/>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 7).bin" size="27165600" crc="7e063dd6" md5="88bd4420e7d083774170ca017d741f75" sha1="8f68da5a9d433ff9b8701e652cd2451b840ae4db"/>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 8).bin" size="29988000" crc="d6ec2930" md5="81220c38c7959f81833fba135f649a84" sha1="17b8f5a4d8e25adcf142c8643ebe28247e0a18f8"/>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 9).bin" size="12877200" crc="60ddb9de" md5="5e3b2e409faaee9eb9dcbb2051ff875c" sha1="d35e680e45c24915a0507717f0fba432abbc953d"/>
+	</game>
+	<game name="Psychic Detective Series Final - Solitude Joukan (Japan)">
+		<category>Games</category>
+		<description>Psychic Detective Series Final - Solitude Joukan (Japan)</description>
+		<rom name="Psychic Detective Series Final - Solitude Joukan (Japan).cue" size="1032" crc="60791661" md5="d42d045cfa5b23dcdf2d85c3b626d96e" sha1="d576255b3f049e0348b67c1e4a515274405a46c2"/>
+		<rom name="Psychic Detective Series Final - Solitude Joukan (Japan) (Track 1).bin" size="278326272" crc="c377ac68" md5="b578471fc6f9529ed50544c898c223c9" sha1="e75f0fdf00d4b707b603bd959b35ebdad7993958"/>
+		<rom name="Psychic Detective Series Final - Solitude Joukan (Japan) (Track 2).bin" size="49631904" crc="c5a7c32f" md5="b50c6c731be7d445c92f56d921a1e255" sha1="bd1d89b874743dc53915f9ac424cba1bd26a04bd"/>
+		<rom name="Psychic Detective Series Final - Solitude Joukan (Japan) (Track 3).bin" size="5995248" crc="7b1e2a7d" md5="ece08091989a2f3f74047f082993186c" sha1="b854b1d07ae63267f68e670b7e1abf2f11e48072"/>
+		<rom name="Psychic Detective Series Final - Solitude Joukan (Japan) (Track 4).bin" size="43392048" crc="ad6ccc2c" md5="577a0ca82ccc5ec4d3b6ab9f536ff0fe" sha1="f246de89d0c2e90f2c4c83f258029e58b51d9844"/>
+		<rom name="Psychic Detective Series Final - Solitude Joukan (Japan) (Track 5).bin" size="18164496" crc="69417cf3" md5="16a2760c7b63d499d4b63489ed9bf2fc" sha1="8ed17cd69ff858ee4eb1a3dd2dcf62037c0646b0"/>
+		<rom name="Psychic Detective Series Final - Solitude Joukan (Japan) (Track 6).bin" size="9979536" crc="5da46439" md5="26d7401c0369e7e754f067108e156325" sha1="fd40e1201a76c151d99a7b28256e4e9da4498768"/>
+		<rom name="Psychic Detective Series Final - Solitude Joukan (Japan) (Track 7).bin" size="49074480" crc="26509472" md5="0d9ce6972588bbe55fcf109c1988cf42" sha1="2009d73fd1536f47056e84076bd43d95a338cde0"/>
+	</game>
+	<game name="DOR - Special Edition '93 (Japan)">
+		<category>Games</category>
+		<description>DOR - Special Edition '93 (Japan)</description>
+		<rom name="DOR - Special Edition '93 (Japan).cue" size="386" crc="faa1c124" md5="15de378686f15cbc7a3d2cf6932453ea" sha1="aef062c65f7abb9d2e0f001b25dea7f63ae8043b"/>
+		<rom name="DOR - Special Edition '93 (Japan) (Track 1).bin" size="317167200" crc="e4cc8ac3" md5="652f9a7c35ce775c5ba2b124b48c2b68" sha1="e8e32b1a959f69b4bdd0fef124d72ce2e64c747d"/>
+		<rom name="DOR - Special Edition '93 (Japan) (Track 2).bin" size="35630448" crc="99da051e" md5="9fe3c1634d7a95f8e5a7d87e04347386" sha1="15151aa198c8e2c6c528ff9be2ebd262344678a5"/>
+		<rom name="DOR - Special Edition '93 (Japan) (Track 3).bin" size="36164352" crc="825418a8" md5="ca508c8588852f9afe932d687fcc3a09" sha1="d58a5a9afdd409b428f794c129f39ec3d0627b43"/>
+	</game>
+	<game name="Air Combat II - Special (Japan)">
+		<category>Games</category>
+		<description>Air Combat II - Special (Japan)</description>
+		<rom name="Air Combat II - Special (Japan).cue" size="755" crc="484b4a94" md5="ee2fdb29338794595b22fd4e4b1e1b66" sha1="6c2281f89d979935518222c1b914bcea98ac8737"/>
+		<rom name="Air Combat II - Special (Japan) (Track 1).bin" size="10231200" crc="c53e2aa8" md5="912e6132f43b1df983317b93326b29b7" sha1="3075b3901191c2df89949f356b282775458316cb"/>
+		<rom name="Air Combat II - Special (Japan) (Track 2).bin" size="31577952" crc="9831817f" md5="34746276a2bfb1af09ea0d1519d877f8" sha1="526a191d5d072c7e04edd2c429d25d7303eed7f6"/>
+		<rom name="Air Combat II - Special (Japan) (Track 3).bin" size="27871200" crc="b2beaf75" md5="c8e3ca2baadf59d6b1e2ba62805e0d7b" sha1="66c04db9c42de1244e398c9c766c6d2c71cbf84a"/>
+		<rom name="Air Combat II - Special (Japan) (Track 4).bin" size="63504000" crc="0c9837fc" md5="d67470758a0d790535c9ed9d99c5efc1" sha1="bce0215d446c638c80e185f1caf53d0d8ffe53be"/>
+		<rom name="Air Combat II - Special (Japan) (Track 5).bin" size="77792400" crc="174cc18c" md5="362079792be43ae8b1ad165c5a63adda" sha1="ebb4c425e512e21c22ab7ecc39d8db07907cfaf4"/>
+		<rom name="Air Combat II - Special (Japan) (Track 6).bin" size="93315600" crc="ab79a04c" md5="3ef6508262bb841a2053cdf441487aa7" sha1="5c82d7808f09842a021b0b2388c466445dd1797b"/>
+	</game>
+	<game name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1)">
+		<category>Games</category>
+		<description>Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1)</description>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1).cue" size="1041" crc="9d917123" md5="3b7403f7d1ace59a69e33e1634d31fbb" sha1="b1ff057e706b7e616044f05b610ff5fa4dae1214"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1) (Track 1).bin" size="107361744" crc="76efc65e" md5="f24516f39918e8dd4c1ef2e41fd37898" sha1="20caaa48aa247a8c46bd7efbe8902e83194771d5"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1) (Track 2).bin" size="6599712" crc="163ccb38" md5="825cc7438a91f27bca1076d7d5afb766" sha1="cbf30d28a9509f9a4613133a2098b420cc20bb88"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1) (Track 3).bin" size="51791040" crc="a2fc69e8" md5="c05f108282490d8184ea17581681ad6c" sha1="4662b38ae6ae66ef79809afe90828197dc63d777"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1) (Track 4).bin" size="31634400" crc="57f4519d" md5="f09c05e525d9a22eba103448365db8c6" sha1="4b3ce86bf1a943db6b66143521da0887a521b561"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1) (Track 5).bin" size="22383984" crc="80fc3fc0" md5="76d74f0dabcba6f46f6af358df273c75" sha1="fb866ed8de91f1304e0236ca768d5bf05f2d67e8"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1) (Track 6).bin" size="26547024" crc="f26e504b" md5="45704b4ece2f9e9bdc0b581e26f83213" sha1="5bc1a0dc632af0035a2bf2f62e3853e1cd705823"/>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan) (v1.1) (Track 7).bin" size="28567392" crc="289076d2" md5="6f5f41a881f4db323f05279244fcc2f7" sha1="cc07a9e6befdcbfdaee1cb28b8a922819e0c89f9"/>
+	</game>
+	<game name="Psychic Detective Series Vol. 2 - Memories (Japan)">
+		<category>Games</category>
+		<description>Psychic Detective Series Vol. 2 - Memories (Japan)</description>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan).cue" size="2592" crc="f9e6c40f" md5="8b0e832b8bc7b12f4b1dfc0159aa8faf" sha1="2528a11b99f56653449d8c820bcf2367c326d025"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 01).bin" size="117835200" crc="202de0b3" md5="6f5d1c4813b57103dae23f8c82562bb5" sha1="ad235fc51147753453452fc6e412ddaa1304d356"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 02).bin" size="57647520" crc="299ad0f1" md5="0364544011bc36f80d037c060d4e5d75" sha1="f3ba45678de8b2e7ced85cf5629d1e497a16383e"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 03).bin" size="11124960" crc="d19657f5" md5="809e96b0782d4eb618bff13efb3d9703" sha1="59657792876b4da5d48513c2df51bc820e9c484d"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 04).bin" size="29929200" crc="b84e4104" md5="a84ecc59db68b4bca31b93a97b2e94d0" sha1="50e12ab6191dc20fafd74f33839c567ff36dd520"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 05).bin" size="19533360" crc="be8f96ba" md5="6bc1c0d0c69f005b126312c8b218c828" sha1="cd4aebaa431ca6083222ea1160c98d4cdbb24330"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 06).bin" size="17016720" crc="70a1d50e" md5="aa48ee68d6d78fcedefeca796b84518a" sha1="579031a6272f5367cf0ec4b71da2f0bcd02102eb"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 07).bin" size="43535520" crc="f99cc0b3" md5="4c55d53c86a24b4c81362f5d71c39a39" sha1="5e85a6efec8d8ab46072d75956e2d09591bc74ea"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 08).bin" size="17757600" crc="df2cef38" md5="6a59e974aff6a24b828d609c773aabcc" sha1="1e5386715e1de96eb4c4bfa3c35884802901c3ea"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 09).bin" size="12406800" crc="c6b800c7" md5="4f80466208fdcbf6204c40cc11e1ff9a" sha1="f647b4c50f0ccf786096f18900060c95e5e62d3b"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 10).bin" size="10972080" crc="9cf571dd" md5="d538f1a5ac696a74c3c831553dae60eb" sha1="0b85b3416c52fcb50fe8957c6df3d17d2c267d5c"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 11).bin" size="10325280" crc="340f852d" md5="09a06db7b49d6801074aa7b26e8b3218" sha1="df3b82cbf764bfa31bbd8abccf21a7ef82197450"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 12).bin" size="13923840" crc="ff93d3ab" md5="605cf4c168502ff6541321b2e1aa6ecc" sha1="30386141abfc04abb95064b4965677c5001b2122"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 13).bin" size="35574000" crc="7fe392ea" md5="72451ab4724f4757fd53899d9757c17c" sha1="c0d9f520fcd7d13e0c8c20f00965c5608b6db397"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 14).bin" size="67196640" crc="d2e4a683" md5="cb9bce0ec4cfb4323ccbbd11f75e754e" sha1="7f6adce21844ba8339574eb459b006b25536c4aa"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 15).bin" size="11842320" crc="64d157e2" md5="123c6d617261f3787fc43be3d9871695" sha1="b47fddc1559ead23b82ed6b0ad0d02ed8dcd7474"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 16).bin" size="54295920" crc="4674f9dc" md5="85dfee6d6be22a02992a6318ca4c6314" sha1="8b77d00e426b3d06adbfba0b571a9cf68dbe53be"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 17).bin" size="6562080" crc="23cbd7c5" md5="81446a57b1741199e926bd74c9f57036" sha1="11cb731994a679c5803b189e20bcb9925431781f"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 18).bin" size="4233600" crc="4580866a" md5="33c14305c3e0b28b0d18613feeaeb3f7" sha1="aaefaba5020efb03452df764e2897d0f278e3151"/>
+	</game>
+	<game name="Psychic Detective Series Final - Solitude Gekan (Japan)">
+		<category>Games</category>
+		<description>Psychic Detective Series Final - Solitude Gekan (Japan)</description>
+		<rom name="Psychic Detective Series Final - Solitude Gekan (Japan).cue" size="727" crc="3d05379c" md5="cfa73d666267f26661d4fb6a4fee721a" sha1="65e4a2691ae266c898311b44ac62671c3d14d799"/>
+		<rom name="Psychic Detective Series Final - Solitude Gekan (Japan) (Track 1).bin" size="454324080" crc="b07359f6" md5="fe41c66fd49a08cc1e3e06d7c4c2b196" sha1="9986280cb7c8b7f5c6878eb1c4006ec1943affea"/>
+		<rom name="Psychic Detective Series Final - Solitude Gekan (Japan) (Track 2).bin" size="64971648" crc="3d175e65" md5="f92ae353450a2d6595065463ef60a403" sha1="1927f5217bcc9d3df71ae4948efd6382848dbf00"/>
+		<rom name="Psychic Detective Series Final - Solitude Gekan (Japan) (Track 3).bin" size="5971728" crc="2e932285" md5="bef3017c9ab28c71b6394eace9b42982" sha1="1655e409f3e2d068989ba952677ea76a9f40d8fe"/>
+		<rom name="Psychic Detective Series Final - Solitude Gekan (Japan) (Track 4).bin" size="45466512" crc="f62efd87" md5="04a39ad5a42f4601adc3a1f29510500f" sha1="191a8d97b6ee0d06fc85f571e6d2a6fc76ad12e3"/>
+		<rom name="Psychic Detective Series Final - Solitude Gekan (Japan) (Track 5).bin" size="51910992" crc="988d84a3" md5="a05cc49dfb3764d70f09ef21cfae1c8a" sha1="b97e6b1f060ef12ed47fc239265ca27124178bc1"/>
+	</game>
+	<game name="J.B. Harold Jikenbo #1 - Murder Club DX (Japan)">
+		<category>Games</category>
+		<description>J.B. Harold Jikenbo #1 - Murder Club DX (Japan)</description>
+		<rom name="J.B. Harold Jikenbo #1 - Murder Club DX (Japan).cue" size="569" crc="b2853ae2" md5="e7f65dd8d0220b21772a11198baf52c7" sha1="44883bd3fdfe3623cb27af4b4a16ccd09566edc5"/>
+		<rom name="J.B. Harold Jikenbo #1 - Murder Club DX (Japan) (Track 1).bin" size="20815200" crc="8cc51349" md5="90b3b0687f168461b369552d4d66bfa1" sha1="1f867edf6baac20109f36f1f2d84e37a4e3cac8e"/>
+		<rom name="J.B. Harold Jikenbo #1 - Murder Club DX (Japan) (Track 2).bin" size="28400400" crc="182dba3b" md5="0bf694c02efa82aa445a39e6abdcd2ca" sha1="54f2302b865ded61934b751250952d6bf5e913cc"/>
+		<rom name="J.B. Harold Jikenbo #1 - Murder Club DX (Japan) (Track 3).bin" size="3175200" crc="017cca9a" md5="4b03b1f17a28a81d34de84e2f66e6895" sha1="4a8893c9394ffb64ed9a2344dec72dd93b04618c"/>
+		<rom name="J.B. Harold Jikenbo #1 - Murder Club DX (Japan) (Track 4).bin" size="64386000" crc="ebef43d2" md5="42f5f736f43aac7e405a22565e0c89df" sha1="fad3c63c43eaad40cb8de536840fe67434775dfd"/>
+	</game>
+	<game name="Hyper Ocean (Japan)">
+		<category>Multimedia</category>
+		<description>Hyper Ocean (Japan)</description>
+		<rom name="Hyper Ocean (Japan).cue" size="570" crc="eed9b456" md5="67f23c49c9be386faaa932911e452e1f" sha1="b1997bc56f6ec7cf506dafe03ec3fe6d03b71d50"/>
+		<rom name="Hyper Ocean (Japan) (Track 1).bin" size="41983200" crc="3103e3af" md5="b6e4ee8ff0982d4bd3ccaa4174a9919c" sha1="80f856f646b2ec1028d47fd1a41604d9dde4e965"/>
+		<rom name="Hyper Ocean (Japan) (Track 2).bin" size="58390752" crc="b2a3396a" md5="7dd439575d4b7c828d619857be10f16c" sha1="e3d2bfd0fe1636da5aa468a00ac79f4a9727fbe3"/>
+		<rom name="Hyper Ocean (Japan) (Track 3).bin" size="46393200" crc="d7a8c8ff" md5="176be9a34384fd73ee20e956f8832c10" sha1="890d4e701153d955dfc996bcbb70df0f865e9c2f"/>
+		<rom name="Hyper Ocean (Japan) (Track 4).bin" size="64915200" crc="4ac2c051" md5="fa65daace0077e782681af199104ce00" sha1="63cb8b12dc4fe44b69c214d2ae43e8c62a7ff6ab"/>
+		<rom name="Hyper Ocean (Japan) (Track 5).bin" size="63504000" crc="dbf63681" md5="8e06fe508e9254b1a7cfb7e75e707304" sha1="baefd81275e2f6e1c8509c82606c321d6cc39986"/>
+	</game>
+	<game name="SimAnt (Japan)">
+		<category>Games</category>
+		<description>SimAnt (Japan)</description>
+		<rom name="SimAnt (Japan).cue" size="103" crc="5af6d3ea" md5="45d972fbcb05d3ced38594e8e829ec66" sha1="ce6f89d815b2584a8019f383f25e61fd70ec30c9"/>
+		<rom name="SimAnt (Japan).bin" size="10231200" crc="912e1754" md5="c05af43eae66d9885c48d185d83029e8" sha1="a5d19795b2c31231193df05b6d98910d3f2fc664"/>
+	</game>
+	<game name="Ms. Detective File #2 - Sugata-naki Irainin (Japan)">
+		<category>Games</category>
+		<description>Ms. Detective File #2 - Sugata-naki Irainin (Japan)</description>
+		<rom name="Ms. Detective File #2 - Sugata-naki Irainin (Japan).cue" size="417" crc="9b67ca36" md5="91488879b75cee71ed0fcdd547679e18" sha1="73d69b5da13334fdc8f2ae78f942b05e16cc7cd0"/>
+		<rom name="Ms. Detective File #2 - Sugata-naki Irainin (Japan) (Track 1).bin" size="411717600" crc="b19bf465" md5="93e24005d771e4528d3007908b94ceb1" sha1="1c1e17b564a524f7a5ed44f758fcda205e564aae"/>
+		<rom name="Ms. Detective File #2 - Sugata-naki Irainin (Japan) (Track 2).bin" size="5997600" crc="3b1cd37e" md5="63739ddc9be3830b5e054daf6f9de282" sha1="6ecc47538dd2e211d732204258dcee947dad6eb9"/>
+		<rom name="Ms. Detective File #2 - Sugata-naki Irainin (Japan) (Track 3).bin" size="56459760" crc="4b6d7133" md5="a4a4533bee1ca63a668de7b995360cb2" sha1="b40d51dfe5eb7c66062680b7aa7342b5cac2d440"/>
+	</game>
+	<game name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan)">
+		<category>Games</category>
+		<description>Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan)</description>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan).cue" size="4448" crc="47863253" md5="aee58e29a3ea72dc1c932dd896e5bc3f" sha1="bc696cb29af973c6d26052050a8c0763b5c6afa1"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 01).bin" size="20815200" crc="353df5f4" md5="58298bf72e9845feb6d8a2c3cef50799" sha1="5d9d178bd62f146b36895dacc18a9f411de11812"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 02).bin" size="7491120" crc="432a7951" md5="e33ec82837a99414251ad7c55182cf3f" sha1="0a5f56891386e6945e01ae70bc49c98700947a36"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 03).bin" size="23825760" crc="7acaa8f6" md5="2f107f2492ea9b72333f1d2cd930dc5e" sha1="e64cafd30471e4dd769a7008d3fbc1eb9fedd704"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 04).bin" size="13977936" crc="78d384f7" md5="cc02d34abc20cbe31e68d90aeb7aa30e" sha1="0e75921e25b1b24daf7933fab1c9804306c18f4e"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 05).bin" size="18456144" crc="e8bfc9bb" md5="9196b9f463372a5f13846c9788afd3ad" sha1="bccc2dfcd5b448f97336d290e997bc49aa7db268"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 06).bin" size="14652960" crc="30b62cfc" md5="7de3f6b50d2e89857484181f44d2e635" sha1="da5847a0a99abf662f83cb5d8ce1aa8927154a8a"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 07).bin" size="22033536" crc="17d6cf06" md5="9e035737c7bd71bd7bfe927e31ca50b0" sha1="cfb9dcf52886f64d60fd26735a980b95178a03fc"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 08).bin" size="10972080" crc="81ab7fa7" md5="b334470edefb265103d661d02d48a353" sha1="2cab66f520abfbd571dd4b65e06fadf04f34e4ec"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 09).bin" size="16045344" crc="1dc26491" md5="e1260591a1d1faa0d6e376c1a9d8dc0a" sha1="7b8458dc1a076306cfc051ff141cce1cf5f6ad26"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 10).bin" size="2876496" crc="568c68c2" md5="ba0d6dab1481adc5c2c5f8036253b462" sha1="a8fd527ac96a02d94521acc213ce708d19076fe7"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 11).bin" size="30122064" crc="99b3ea0b" md5="9a206c3f41b2a8a89b20e22691f69026" sha1="187ddf93fcbeb0caf6a3a298cb87346e7dde215f"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 12).bin" size="20563536" crc="57223974" md5="b7920446cc8c100da8c0fec1baa7b91d" sha1="70a42be7c400c23842868a6d80e91d7ea6e85a61"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 13).bin" size="4155984" crc="f4e1bce4" md5="1cd5688dc884fdf5dd386c0d59288c78" sha1="ad63ddbb82092acb9a008fb0709b382bec9ce302"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 14).bin" size="28318080" crc="61b7d1a4" md5="9dad621925b9d3759b4d6b137b218dbd" sha1="4195c938c0316ee4dbca9fb4169be1beb00f39fc"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 15).bin" size="22151136" crc="e193514c" md5="2455debbdcc2f1b761320440f143c106" sha1="6ca6787d71bf188b54a7bc1fbe7783fdae7e3449"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 16).bin" size="2657760" crc="a150f73c" md5="e7a024e2fa79106de6301c02b3d5762f" sha1="c9bad82c6e871e0f1b0f8d91c30093bab221321a"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 17).bin" size="26377680" crc="ce6bb6db" md5="c5d623137a2463e37f60ea74f948933e" sha1="72a8e1f39a8a1c9596547a67cf4c5d1136157d21"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 18).bin" size="35402304" crc="2cbc8ea8" md5="a5376d1b8cd57132840f1fc0cf56c7c6" sha1="d4589bcac7c20190e65e77235b6ec6b91687da3e"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 19).bin" size="10442880" crc="52c16150" md5="0800ff126cd6052cf5dc947fb33d8f6e" sha1="c61d3304ad7aa9be6681d6280e759d1e880d48bc"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 20).bin" size="18129216" crc="5252f57a" md5="bd480acf572a80abe018baeacc9804eb" sha1="f30faaeb85080021f21e8443b8cbfe2f8737d62b"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 21).bin" size="7549920" crc="fe6ed6ce" md5="6443da490009e6cd9a938ee140065946" sha1="bd274960d0e8161114e9b8a1db9826e9edf07e2a"/>
+		<rom name="Toudou Ryuunosuke Tantei Nikki - Ougon no Rashinban - Shouyoumaru San Francisco Kouro Satsujin Jiken (Japan) (Track 22).bin" size="24030384" crc="90804a71" md5="eaff6d3566fdeecf3dc17b0a753708f3" sha1="9d45a1599ad0f2968c32013886fdfa30545d0e5a"/>
+	</game>
+	<game name="Psychic Detective Series Vol. 1 - Invitation (Japan)">
+		<category>Games</category>
+		<description>Psychic Detective Series Vol. 1 - Invitation (Japan)</description>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan).cue" size="566" crc="9afc3dcf" md5="86761c4d6b2a9eab559e5cc10d465678" sha1="302d3f07b80744317252e3e3b099eae02f0c6a46"/>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan) (Track 1).bin" size="201448800" crc="5d2529aa" md5="6ecf9272bef2c24d83eab727434bea63" sha1="24dda7bd89762a5b7280c9b83542ed042b6ff34b"/>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan) (Track 2).bin" size="72335760" crc="72a4dd12" md5="482ae7fa7f01eab1adef099a42f48a2d" sha1="aef73c8cda5335fb05c43c9e57ad7cfa64573bc7"/>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan) (Track 3).bin" size="31328640" crc="b3cb10bf" md5="8039fb311e6dd9c1767557cf42fd4302" sha1="8cfd1a51ec1caa3ac26c158f8700f2bf929a1820"/>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan) (Track 4).bin" size="50097600" crc="a0a77753" md5="426627ed4e972e67470314a26ce0fa2d" sha1="c29cb243ac9ac9580a69d7bbaebb044d9775eafd"/>
+	</game>
+	<game name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake)">
+		<category>Games</category>
+		<description>Psychic Detective Series Vol. 2 - Memories (Japan) (Remake)</description>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake).cue" size="1382" crc="0df95f24" md5="4dd2fde0369895177468d193af949bbc" sha1="1ba85a0a1a92fbae736953dd5f4c1eb78a94cf59"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake) (Track 1).bin" size="154408800" crc="06cc6b63" md5="1232b6f9683e9d142580348ca632e1ec" sha1="3fd6918ce160c2d71ad6f0c3b12cd2bbafdd2ae0"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake) (Track 2).bin" size="59606736" crc="bf88d997" md5="421ebb432572d1a82c5c0f901d05645f" sha1="95ced84ebb70039c1d60cb0dcde5bcb21452dc72"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake) (Track 3).bin" size="17957520" crc="edb6daec" md5="d0b8e7a3f9ddf566554e7fc927bbefa9" sha1="caa2aaef7e75387af788d99a98843a33c4d0e78e"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake) (Track 4).bin" size="20777568" crc="5d495539" md5="8d743ff8332acdad5bf692c6196c3cad" sha1="664c50d425c896628ee0f11794c42b8ffef6b7d9"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake) (Track 5).bin" size="11400144" crc="9c01fed1" md5="095616ff0937b234383a750a378a498f" sha1="be51217750f6e8b0740e6c2b2fce808bab9a8d7a"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake) (Track 6).bin" size="14387184" crc="c452db38" md5="fc0c45b75606673f6392e3fc10a79a9c" sha1="c37f7a5cd86d8ec4277ccc7642c5821990600799"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake) (Track 7).bin" size="12733728" crc="7c71e12f" md5="c9240db0c7bb192faddb0d1a02d1b71b" sha1="a9643b99815a482c5ceab0a86212ac0a1746a79b"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake) (Track 8).bin" size="15306816" crc="955da58b" md5="aecc725d3d73739aa3e6af713c1ce6ff" sha1="7529962c13bde82640df4e10098092f795d254ac"/>
+		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Remake) (Track 9).bin" size="49850640" crc="a97077a9" md5="3214b2bbe272bb5f29a7f45d4777b0ef" sha1="a6a5876182bd52b6c571a84486557a7e1501e2f9"/>
+	</game>
+</datafile>

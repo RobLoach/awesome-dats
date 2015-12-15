@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - Chihiro</name>
+		<description>Arcade - Sega - Chihiro 20140813 22-23-42</description>
+		<version>20140813 22-23-42</version>
+		<date>20140813 22-23-42</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C)">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ2 (Japan) (Rev C)</description>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C).gdi" size="249" crc="9643e197" md5="61b5dfa5013f8276a8ab9abf1c2af419" sha1="1cf57d59ae5df2b8a9cc2dc657c1c6b636e73bd8"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C) (Track 1).bin" size="1058400" crc="390a209f" md5="e1e7109cd90ffa9b469b2402c12ab790" sha1="42892c3d897a300fd7af25f0e51dae7a5d2c322d"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C) (Track 3).bin" size="1185760800" crc="c8f373f6" md5="43c1b588a0f3831224e0e5e1f9b0ef89" sha1="e84197fde6365b120b0316c1375d5c48e038ec0a"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D)">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ3 (Japan) (Rev D)</description>
+		<rom name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D).gdi" size="249" crc="3bd0bfbc" md5="a3306493b157dc0cf7b6678e47673a3e" sha1="b3f504af5fd1680d6f39a1f0cfddf52ea8a77757"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D) (Track 1).bin" size="1058400" crc="b28f9ce9" md5="b26a22109f82b02c57dfeb5f5a5b6b61" sha1="d3ecfdaa491b5405bf5e0232ff6d6b8203bdceba"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D) (Track 3).bin" size="1185760800" crc="9aac328b" md5="cdd20e84c48fdb8680375b99dc1dec2e" sha1="ba5207902244d581bbfb1ceed54c39786af675fd"/>
+	</game>
+	<game name="Wangan Midnight Maximum Tune 2 (Japan)">
+		<category>Games</category>
+		<description>Wangan Midnight Maximum Tune 2 (Japan)</description>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan).gdi" size="222" crc="f1fb89c9" md5="c1428bc8db85f1f46216c6b2f152a795" sha1="60d37f4d07b430dcef9785934059a6cbe8145e03"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Track 1).bin" size="1058400" crc="dc01a932" md5="86f4e3eff8934102e13b568ef27c8ff9" sha1="e265ebf93aa7be02fbe79ec1cef472e930d55ab5"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Wangan Midnight Maximum Tune 2 (Japan) (Track 3).bin" size="1185760800" crc="f0e37929" md5="18b38b139031ec9925ebc610d4dbf756" sha1="cb3ec1fe36f745970ad5f8f51d2567892fe31906"/>
+	</game>
+	<game name="Wangan Midnight Maximum Tune (Japan) (Rev B)">
+		<category>Games</category>
+		<description>Wangan Midnight Maximum Tune (Japan) (Rev B)</description>
+		<rom name="Wangan Midnight Maximum Tune (Japan) (Rev B).gdi" size="240" crc="83f19370" md5="888e893e6e7a10291d3e1c931f118c09" sha1="7635cf65911852f0a069d1562afc9f82de67f60d"/>
+		<rom name="Wangan Midnight Maximum Tune (Japan) (Rev B) (Track 1).bin" size="1058400" crc="59e899c4" md5="7ebdb206d5e2d46da41a3b69b6cb66d0" sha1="3447e86f3a739880af27f1d4587fc68e9aa7c5d4"/>
+		<rom name="Wangan Midnight Maximum Tune (Japan) (Rev B) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Wangan Midnight Maximum Tune (Japan) (Rev B) (Track 3).bin" size="1185760800" crc="c22ba22b" md5="42b2f0fda499fb9680d642d563bddbe1" sha1="84c032e089f75f910804ebaad5400edec84dd5f3"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D)">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ2 (Japan) (Rev D)</description>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D).gdi" size="249" crc="a0b3bbd5" md5="49db664a3d448e9e9ba9640a2a0c240f" sha1="94bde828fb0947d196fed9a8b431234cd578f846"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D) (Track 1).bin" size="1058400" crc="3538baf7" md5="b2da55fbd84caddc7fc758e57784d748" sha1="b5a93421c4e42adeeda3b8ae5d7eb712c022ef6b"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D) (Track 2).bin" size="3532704" crc="211cdb93" md5="2238142a7f82218edeeb4cc89a562ee6" sha1="80783e504e8e5db70944702b3d90aa14a9f73a41"/>
+		<rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D) (Track 3).bin" size="1185760800" crc="bcf318ce" md5="c4209c163f711c29e58bf2e06f7babb7" sha1="d5711b11f459adfd6f8287a907f098a3a0ace9c6"/>
+	</game>
+</datafile>

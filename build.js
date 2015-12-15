@@ -2,13 +2,15 @@ var glob = require('glob');
 var fs = require('fs');
 var path = require('path');
 
-var regexVersion = /version\s*#*>*[\d+\-*+?x?\d*]+/
+// Regex to extract version information from a DAT file.
+var regexVersion = /version\s*#*>*[\d+\-?\s?+?x?\d*]+/
 
 glob('**/*.dat', function (err, files) {
   if (err) {
     throw new Error(err);
   }
   else {
+    // Start from the external DATs.
     var dats = require('./externaldats');
 
     // Iterate through each file.
@@ -22,7 +24,7 @@ glob('**/*.dat', function (err, files) {
         console.log('Processing: ' + files[i])
         var match = regexVersion.exec(contents);
         var version = match[0];
-        version = version.replace('version', '').replace(' ', '').replace('>', '');
+        version = version.replace('version ', '').replace('version>', '').replace(/(\r\n|\n|\r)/gm, '').replace('\t', '')
         var name = path.basename(files[i], '.dat');
         var author = path.dirname(files[i])
         console.log('    ' + author + ': ' + name + ' (' + version + ')')
@@ -31,6 +33,7 @@ glob('**/*.dat', function (err, files) {
         dats.push({
           url: 'https://robloach.github.io/awesome-dats/' + files[i],
           name: name,
+          description: name,
           version: version,
           author: author
         });
@@ -47,7 +50,7 @@ glob('**/*.dat', function (err, files) {
     for (var x in dats) {
       output = output + '  <datfile>\n' +
         '    <name>' + dats[x].name + '</name>\n' +
-        '    <description>' + dats[x].name + '</description>\n' +
+        '    <description>' + dats[x].description + '</description>\n' +
         '    <version>' + dats[x].version + '</version>\n' +
         '    <author>' + dats[x].author + '</author>\n' +
         '    <url>' + dats[x].url + '</url>\n' +

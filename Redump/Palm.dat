@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Palm</name>
+		<description>Palm 20130217 08-57-47</description>
+		<version>20130217 08-57-47</version>
+		<date>20130217 08-57-47</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Bomberman for Palm OS (Japan)">
+		<category>Games</category>
+		<description>Bomberman for Palm OS (Japan)</description>
+		<rom name="Bomberman for Palm OS (Japan).cue" size="95" crc="5e0443c7" md5="b19fbd1c6fb4cbec76aa294df635e5e7" sha1="3db12d176d1492db05a5a73fd3dca2fe81607169"/>
+		<rom name="Bomberman for Palm OS (Japan).bin" size="3017616" crc="df397ec7" md5="0fe5a769d9f8c11b9f8d564c02745ef3" sha1="1031c56e8991871aa0e8e0f0731f458247afceb7"/>
+	</game>
+	<game name="Puzzle Bobble for Palm (Japan)">
+		<category>Games</category>
+		<description>Puzzle Bobble for Palm (Japan)</description>
+		<rom name="Puzzle Bobble for Palm (Japan).cue" size="96" crc="967212dd" md5="c327b5a6222d20641c562a6ef352a93d" sha1="aba2759cd138032a700b932c43d15dc17c3421d7"/>
+		<rom name="Puzzle Bobble for Palm (Japan).bin" size="88658640" crc="79a6460c" md5="8ba31e7258ec67e61467de4acec97c22" sha1="3204ab9413d287b40b0b846988b97ad5f32879b0"/>
+	</game>
+</datafile>
