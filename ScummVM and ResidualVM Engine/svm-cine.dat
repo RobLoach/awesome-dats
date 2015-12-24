@@ -1,0 +1,1109 @@
+clrmamepro (
+	name "ScummVM CINE"
+	description "ScummVM - CINE Engine Games"
+	category "ScummVM"
+	version v1.01
+	date 2015-10-21
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name fw
+	description "Future Wars (DOS)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name AUTO00.PRC size 128 crc 27190770 md5 52e064ffa0cd191ea32781efd5cd4761 )
+	rom ( name BASESON.SND size 16298 crc 6a942d95 md5 5f83f2422a82c3ec24ccb3f4688f3dcd )
+	rom ( name PART01 size 173024 crc e464d95f md5 2b4ef42dd3a8f0d3a60075ced46cdd0c )
+	rom ( name PART01.PAL size 4708 crc 28be6ffc md5 24b06ecf803c525176de2858a00fee9c )
+	rom ( name PART02 size 276948 crc 78b1ed4b md5 bea08338d16c715fb6ce9843814544d6 )
+	rom ( name PART02.PAL size 4246 crc 3d9d19ae md5 1467f207c900be65e92e33bc9c60c55e )
+	rom ( name PART03 size 154970 crc 11773802 md5 0658a125a00e31fbbb5b1ae280d3c8ba )
+	rom ( name PART03.PAL size 5842 crc 9e788656 md5 21e06ff4ea8ce566c25025669cf81bea )
+	rom ( name PART04 size 153596 crc 42bfb820 md5 9818d5878317efedb7a012fde0b58185 )
+	rom ( name PART04.PAL size 2860 crc 8b7d07ea md5 8a1ebe402e5eda99b7384debbc23450a )
+	rom ( name PART04B size 92536 crc ca5a6630 md5 fb2162b4378a8f12c9f871433de63d67 )
+	rom ( name PART04B.PAL size 1474 crc 1e3f5426 md5 fc91d481fad90d042a6650402ed2c5e6 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+)
+
+game (
+	name fw-1
+	description "Future Wars (DOS)[UK Classic]"
+	year 1994
+	manufacturer "U.S. Gold"
+	sourcefile cine
+	rom ( name AUTO00.PRC size 128 crc 27190770 md5 52e064ffa0cd191ea32781efd5cd4761 )
+	rom ( name BASESON.SND size 16298 crc 6a942d95 md5 5f83f2422a82c3ec24ccb3f4688f3dcd )
+	rom ( name PART01 size 167912 crc 7a9015a1 md5 65081459ad739edbeba2ff64f0d95d9f )
+	rom ( name PART01.PAL size 4708 crc 28be6ffc md5 24b06ecf803c525176de2858a00fee9c )
+	rom ( name PART02 size 276948 crc 78b1ed4b md5 bea08338d16c715fb6ce9843814544d6 )
+	rom ( name PART02.PAL size 4246 crc 3d9d19ae md5 1467f207c900be65e92e33bc9c60c55e )
+	rom ( name PART03 size 154970 crc 11773802 md5 0658a125a00e31fbbb5b1ae280d3c8ba )
+	rom ( name PART03.PAL size 5842 crc 9e788656 md5 21e06ff4ea8ce566c25025669cf81bea )
+	rom ( name PART04 size 153596 crc 42bfb820 md5 9818d5878317efedb7a012fde0b58185 )
+	rom ( name PART04.PAL size 2860 crc 8b7d07ea md5 8a1ebe402e5eda99b7384debbc23450a )
+	rom ( name PART04B size 92536 crc ca5a6630 md5 fb2162b4378a8f12c9f871433de63d67 )
+	rom ( name PART04B.PAL size 1474 crc 1e3f5426 md5 fc91d481fad90d042a6650402ed2c5e6 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+)
+
+game (
+	name fw-amiga
+	description "Future Wars (Amiga)"
+	year 1989
+	manufacturer "Palace"
+	sourcefile cine
+	rom ( name ALIENS size 51640 crc 747a31eb md5 42588fd22ea3d1539c53f6fd477934d8 )
+	rom ( name AUTO00.PRC size 130 crc 8a6863bf md5 52994ede72ce0608b4db821dc80585f0 )
+	rom ( name DUGGER.DAT size 48676 crc aab7021d md5 f955de78916407eead1e2d3065335cec )
+	rom ( name ESCALATOR size 38536 crc 339ea44f md5 232a2fe6231573666f3a977f262495e9 )
+	rom ( name FWARS.DAT size 73364 crc 90e5cd8f md5 ab4122f9499eda2ecbef4a6e4aca31c5 )
+	rom ( name MEDIAVAL.DAT size 27016 crc ed0e959f md5 acf971ed958d99e6a7e7f53a3176b2e4 )
+	rom ( name MOINES.DAT size 20272 crc c3e092c3 md5 33b9a47db229dd5462ad7047779ed18c )
+	rom ( name PART01 size 203309 crc 7666aed5 md5 49d5e82e9adec1c204f85ac2297e786c )
+	rom ( name PART02 size 337342 crc 5211d626 md5 be1606a8981f8bad658ca2cc9a4081b9 )
+	rom ( name PART03 size 214799 crc 45893a9a md5 86056a2caead0857cf2aa5bd19d67592 )
+	rom ( name PART04 size 163105 crc cfbc4a19 md5 5f1e5fa7939423bb455d50856cd90f69 )
+	rom ( name PART04B size 124734 crc 904272f5 md5 1c7340490aec6b590fcf1238f03e925a )
+	rom ( name SUITE21.DAT size 63564 crc 3dab001a md5 a7fcb61ad05a2ee8925c79997402742d )
+	rom ( name SUITE22.DAT size 43604 crc 8816a0c6 md5 c5af74bfe633d5d4e43096b276c60ec7 )
+	rom ( name SUITE23.DAT size 90676 crc 0f202fe3 md5 36901fc8cdaf525910e645e3c7ab76d1 )
+	rom ( name SUPERFUTUR size 43036 crc 340eda4e md5 851bbac629680a61cf9a68002addcd90 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+)
+
+game (
+	name fw-amiga-de
+	description "Future Wars (Amiga/German)"
+	year 1989
+	manufacturer "Palace"
+	sourcefile cine
+	rom ( name ALIENS size 51640 crc 747a31eb md5 42588fd22ea3d1539c53f6fd477934d8 )
+	rom ( name AUTO00.PRC size 130 crc 8a6863bf md5 52994ede72ce0608b4db821dc80585f0 )
+	rom ( name DUGGER.DAT size 48676 crc aab7021d md5 f955de78916407eead1e2d3065335cec )
+	rom ( name ESCALATOR size 38536 crc 339ea44f md5 232a2fe6231573666f3a977f262495e9 )
+	rom ( name FWARS.DAT size 73364 crc 90e5cd8f md5 ab4122f9499eda2ecbef4a6e4aca31c5 )
+	rom ( name MEDIAVAL.DAT size 27016 crc ed0e959f md5 acf971ed958d99e6a7e7f53a3176b2e4 )
+	rom ( name MOINES.DAT size 20272 crc c3e092c3 md5 33b9a47db229dd5462ad7047779ed18c )
+	rom ( name PART01 size 203087 crc 60fd62ea md5 07c156cd15736a0e6bff1cbd88c447cc )
+	rom ( name PART02 size 338594 crc 19508853 md5 26af2bff92405130914ec72552324e9b )
+	rom ( name PART03 size 215739 crc 1da75858 md5 cbe2685e1b752c9eafa99347674942d6 )
+	rom ( name PART04 size 163561 crc 7ad2d5af md5 f447e32619810609c969f9a366aad677 )
+	rom ( name PART04B size 124938 crc e7886358 md5 f5d334a84d0bbb7bc0595999f595e89c )
+	rom ( name SUITE21.DAT size 63564 crc 3dab001a md5 a7fcb61ad05a2ee8925c79997402742d )
+	rom ( name SUITE22.DAT size 43604 crc 8816a0c6 md5 c5af74bfe633d5d4e43096b276c60ec7 )
+	rom ( name SUITE23.DAT size 90676 crc 0f202fe3 md5 36901fc8cdaf525910e645e3c7ab76d1 )
+	rom ( name SUPERFUTUR size 43036 crc 340eda4e md5 851bbac629680a61cf9a68002addcd90 )
+	rom ( name TEXTE.DAT size 5444 crc b4eb009a md5 21cae6d5699a43420c468210de693d87 )
+)
+
+game (
+	name fw-amiga-es
+	description "Future Wars (Amiga/Spanish)"
+	year 1989
+	manufacturer "Palace"
+	sourcefile cine
+	rom ( name ALIENS size 51640 crc 747a31eb md5 42588fd22ea3d1539c53f6fd477934d8 )
+	rom ( name AUTO00.PRC size 130 crc 8a6863bf md5 52994ede72ce0608b4db821dc80585f0 )
+	rom ( name DUGGER.DAT size 48676 crc aab7021d md5 f955de78916407eead1e2d3065335cec )
+	rom ( name ESCALATOR size 38536 crc 339ea44f md5 232a2fe6231573666f3a977f262495e9 )
+	rom ( name FWARS.DAT size 73364 crc 90e5cd8f md5 ab4122f9499eda2ecbef4a6e4aca31c5 )
+	rom ( name MEDIAVAL.DAT size 27016 crc ed0e959f md5 acf971ed958d99e6a7e7f53a3176b2e4 )
+	rom ( name MOINES.DAT size 20272 crc c3e092c3 md5 33b9a47db229dd5462ad7047779ed18c )
+	rom ( name PART01 size 202097 crc e3a236d9 md5 9ba1dfc5643b1dbdfff26dbdad593b60 )
+	rom ( name PART02 size 336966 crc 7761c192 md5 2bffe3b44b6072d7de1f8c74d74ddbae )
+	rom ( name PART03 size 215175 crc 04bcc03f md5 04f349d9e4692bec07e56c779fd9ee64 )
+	rom ( name PART04 size 163253 crc e0b7a4a6 md5 017934565fd7d91db46b2edc5ab4a04b )
+	rom ( name PART04B size 124526 crc 7c5d11ef md5 15a02b667fb96c6e1ab0461e5fdecba9 )
+	rom ( name SUITE21.DAT size 63564 crc 3dab001a md5 a7fcb61ad05a2ee8925c79997402742d )
+	rom ( name SUITE22.DAT size 43604 crc 8816a0c6 md5 c5af74bfe633d5d4e43096b276c60ec7 )
+	rom ( name SUITE23.DAT size 90676 crc 0f202fe3 md5 36901fc8cdaf525910e645e3c7ab76d1 )
+	rom ( name SUPERFUTUR size 43036 crc 340eda4e md5 851bbac629680a61cf9a68002addcd90 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+)
+
+game (
+	name fw-amiga-fr
+	description "Future Wars (Amiga/French)"
+	year 1989
+	manufacturer "Palace"
+	sourcefile cine
+	rom ( name ADD21K size 1836 crc bf296d4a md5 9c5a88e2f0fb36e3b798d4325bb0a9b1 )
+	rom ( name ALIENS size 51640 crc 747a31eb md5 42588fd22ea3d1539c53f6fd477934d8 )
+	rom ( name AUTO00.PRC size 130 crc 8a6863bf md5 52994ede72ce0608b4db821dc80585f0 )
+	rom ( name DELPHINE size 73388 crc 56895bc0 md5 9fcdaf15088ec21b3d278c31eb943698 )
+	rom ( name DUGGER.DAT size 48676 crc aab7021d md5 f955de78916407eead1e2d3065335cec )
+	rom ( name ENDCLI size 732 crc 66dd8641 md5 24516d2abfe5d56b462647dfbc9e9db3 )
+	rom ( name ESCALATOR size 38536 crc 339ea44f md5 232a2fe6231573666f3a977f262495e9 )
+	rom ( name FWARS.DAT size 73364 crc 90e5cd8f md5 ab4122f9499eda2ecbef4a6e4aca31c5 )
+	rom ( name LVDT.DIR size 200 crc c971a876 md5 fbaf48ec981a5eecdb57b929fdd426e8 )
+	rom ( name MEDIAVAL.DAT size 27016 crc ed0e959f md5 acf971ed958d99e6a7e7f53a3176b2e4 )
+	rom ( name MOINES.DAT size 20272 crc c3e092c3 md5 33b9a47db229dd5462ad7047779ed18c )
+	rom ( name PART01 size 203621 crc bd88a89a md5 de47886d3bf2e6426f50b9c13b8afef6 )
+	rom ( name PART02 size 338022 crc 93c5cc15 md5 60d56f0b35c26d0e47e857312608dc5f )
+	rom ( name PART03 size 215431 crc 6adca051 md5 230d045a8c2de173ce3054f1fde508ed )
+	rom ( name PART04 size 163449 crc 42f34f59 md5 a6a3f87fcc4e51c97cad3530f5f0fcb7 )
+	rom ( name PART04B size 125042 crc 23a316ec md5 95cb06371a6d4ed4bdab8e63884de7eb )
+	rom ( name SETPATCH size 5088 crc f5f78b75 md5 6a0e88a4d77fbc671fd8cbf2f7fbae0a )
+	rom ( name SUITE21.DAT size 63564 crc 3dab001a md5 a7fcb61ad05a2ee8925c79997402742d )
+	rom ( name SUITE22.DAT size 43604 crc 8816a0c6 md5 c5af74bfe633d5d4e43096b276c60ec7 )
+	rom ( name SUITE23.DAT size 90676 crc 0f202fe3 md5 36901fc8cdaf525910e645e3c7ab76d1 )
+	rom ( name SUPERFUTUR size 43036 crc 340eda4e md5 851bbac629680a61cf9a68002addcd90 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+	rom ( name VOL.1 size 48 crc 34566388 md5 5d11d071c74ae7b498db16a245e1b39b )
+	rom ( name VOL.2 size 48 crc 34566388 md5 5d11d071c74ae7b498db16a245e1b39b )
+)
+
+game (
+	name fw-amiga-it
+	description "Future Wars (Amiga/Italian)"
+	year 1989
+	manufacturer "Palace"
+	sourcefile cine
+	rom ( name ALIENS size 51640 crc 747a31eb md5 42588fd22ea3d1539c53f6fd477934d8 )
+	rom ( name AUTO00.PRC size 130 crc 8a6863bf md5 52994ede72ce0608b4db821dc80585f0 )
+	rom ( name DUGGER.DAT size 48676 crc aab7021d md5 f955de78916407eead1e2d3065335cec )
+	rom ( name ESCALATOR size 38536 crc 339ea44f md5 232a2fe6231573666f3a977f262495e9 )
+	rom ( name FWARS.DAT size 73364 crc 90e5cd8f md5 ab4122f9499eda2ecbef4a6e4aca31c5 )
+	rom ( name MEDIAVAL.DAT size 27016 crc ed0e959f md5 acf971ed958d99e6a7e7f53a3176b2e4 )
+	rom ( name MOINES.DAT size 20272 crc c3e092c3 md5 33b9a47db229dd5462ad7047779ed18c )
+	rom ( name PART01 size 204243 crc 17c77e61 md5 08c3a432b85d72a101fafe660e6851b1 )
+	rom ( name PART02 size 337854 crc 7e7a3ed9 md5 2470976fb607b19c475a15a150ff1d19 )
+	rom ( name PART03 size 215347 crc 0a1653c4 md5 0f2a2c07ce9436678bc3c3aa06ecb5bf )
+	rom ( name PART04 size 163273 crc feecdecf md5 9c1de0cf3097b86fdba5e96f4ebdd30d )
+	rom ( name PART04B size 124846 crc 87c2f3df md5 0b38d1b096ffe629958804cc4254466d )
+	rom ( name SUITE21.DAT size 63564 crc 3dab001a md5 a7fcb61ad05a2ee8925c79997402742d )
+	rom ( name SUITE22.DAT size 43604 crc 8816a0c6 md5 c5af74bfe633d5d4e43096b276c60ec7 )
+	rom ( name SUITE23.DAT size 90676 crc 0f202fe3 md5 36901fc8cdaf525910e645e3c7ab76d1 )
+	rom ( name SUPERFUTUR size 43036 crc 340eda4e md5 851bbac629680a61cf9a68002addcd90 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+)
+
+game (
+	name fw-cd-us
+	description "Future Wars (Sony CD version/DOS/US)"
+	year 1994
+	manufacturer "Sony"
+	sourcefile cine
+	rom ( name AUTO00.PRC size 253 crc efcbe7fe md5 4fe1e7930b38e3c63f0f2474d471bf8f )
+	rom ( name BASESON.SND size 16298 crc 6a942d95 md5 5f83f2422a82c3ec24ccb3f4688f3dcd )
+	rom ( name PART01 size 173024 crc e464d95f md5 2b4ef42dd3a8f0d3a60075ced46cdd0c )
+	rom ( name PART01.PAL size 4708 crc 28be6ffc md5 24b06ecf803c525176de2858a00fee9c )
+	rom ( name PART02 size 276948 crc 78b1ed4b md5 bea08338d16c715fb6ce9843814544d6 )
+	rom ( name PART02.PAL size 4246 crc 3d9d19ae md5 1467f207c900be65e92e33bc9c60c55e )
+	rom ( name PART03 size 154970 crc 11773802 md5 0658a125a00e31fbbb5b1ae280d3c8ba )
+	rom ( name PART03.PAL size 5842 crc 9e788656 md5 21e06ff4ea8ce566c25025669cf81bea )
+	rom ( name PART04 size 153596 crc 42bfb820 md5 9818d5878317efedb7a012fde0b58185 )
+	rom ( name PART04.PAL size 2860 crc 8b7d07ea md5 8a1ebe402e5eda99b7384debbc23450a )
+	rom ( name PART04B size 92536 crc ca5a6630 md5 fb2162b4378a8f12c9f871433de63d67 )
+	rom ( name PART04B.PAL size 1474 crc 1e3f5426 md5 fc91d481fad90d042a6650402ed2c5e6 )
+	rom ( name SONY.LBM size 15484 crc 31cf922c md5 3174069483566a85981cb24693123048 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+	rom ( name Track1.ogg size 2181789 crc b5cf83dc md5 8d01f6d4a55e2bc274198949f5c136ff )
+	rom ( name Track10.ogg size 147949 crc 62a65cca md5 4d687274bf495c35c82f8b060a53d74a )
+	rom ( name Track11.ogg size 154455 crc 1a56af6e md5 df4bd0da6219990eb29a17dc2beba0fc )
+	rom ( name Track12.ogg size 163628 crc 045a66df md5 f45ca50bdd26beb7192e524a3fe67a0f )
+	rom ( name Track13.ogg size 157890 crc 474b574a md5 8554c355408af83a88321868956274dd )
+	rom ( name Track14.ogg size 169974 crc 967263f5 md5 c4d7cc84abf256fca35bfcad549d7462 )
+	rom ( name Track15.ogg size 157449 crc dddc1159 md5 06d30e108d52988296c31261c8951a9e )
+	rom ( name Track16.ogg size 154977 crc 72f6c591 md5 9adb9790e29b4bea65f588f928a6ad90 )
+	rom ( name Track17.ogg size 151335 crc e3f051bc md5 3c44edcc41fceb93931558ce6b5d9476 )
+	rom ( name Track18.ogg size 191017 crc 308096f5 md5 045015fafed7eb6e33d199b26b83e9d4 )
+	rom ( name Track19.ogg size 3266276 crc ce45d32f md5 de373a00e76dd1cf3841106098125889 )
+	rom ( name Track2.ogg size 2754494 crc d626345e md5 539f4b373f2c8e8223169caaf0a0863e )
+	rom ( name Track20.ogg size 2825001 crc 8f2e3286 md5 eaaafbf331b4a5e4b335f8324c8e6f5a )
+	rom ( name Track21.ogg size 2608692 crc 1d53720d md5 b4df615266f07cdbd8aaa2a3f4d41b79 )
+	rom ( name Track22.ogg size 2634961 crc 2d916961 md5 21d95aa431b0dbf9b0e34329e8c56746 )
+	rom ( name Track23.ogg size 4016978 crc 1bbbe8e4 md5 23ae5432becc5ba06a54e5c7ed951096 )
+	rom ( name Track24.ogg size 3577202 crc 787f8847 md5 1ff3186c44a16cda53a7dd31103327f7 )
+	rom ( name Track25.ogg size 3336794 crc 63555743 md5 b7268c88aa11a4c9325e172a44e633c5 )
+	rom ( name Track26.ogg size 2627039 crc d7cae1e5 md5 9d5ee8652d36b967267dfba96b8d4763 )
+	rom ( name Track27.ogg size 3217621 crc 90d0d752 md5 9d3111918d4bb4d8b2b75397d8a5fccc )
+	rom ( name Track28.ogg size 708640 crc 7e0a0387 md5 852b8812a3282f7a882d464224528262 )
+	rom ( name Track29.ogg size 2723425 crc 75dce514 md5 4011597dbe6734b615cf55b5e9bc260d )
+	rom ( name Track3.ogg size 3225867 crc f69e9de5 md5 b5928b457df8a94cac0ab7c3e27bd243 )
+	rom ( name Track4.ogg size 2903531 crc f767256b md5 b25d2506a29a83b984a1b043afad1aab )
+	rom ( name Track5.ogg size 3130693 crc 6acd8d62 md5 84253a9eb78db013d4adebf19ffb87c7 )
+	rom ( name Track6.ogg size 3733305 crc 93fa8b83 md5 80b8f6d39a51f4f8ed0edbe580cc305a )
+	rom ( name Track7.ogg size 143676 crc a518fddb md5 8aefa0c24f78494f7417744d7a3806bd )
+	rom ( name Track8.ogg size 132775 crc 859a1cf2 md5 fe08e2b5059825db82ae92ff7f04bef2 )
+	rom ( name Track9.ogg size 157382 crc df344fd1 md5 d97e4b046744745757dc468eb5e9aca2 )
+	rom ( name VOL.1 size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+	rom ( name VOL.2 size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+	rom ( name VOL.3 size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+	rom ( name VOL.END size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+)
+
+game (
+	name fw-de
+	description "Future Wars (DOS/German)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name AUTO00.PRC size 128 crc 27190770 md5 52e064ffa0cd191ea32781efd5cd4761 )
+	rom ( name BASESON.SND size 16298 crc 6a942d95 md5 5f83f2422a82c3ec24ccb3f4688f3dcd )
+	rom ( name LVDT.CFG size 6 crc 097ec6c6 md5 ed5a964e00f4a03ab201efe358667914 )
+	rom ( name PART01 size 168112 crc a3f467e6 md5 5533645fd36e2a0a71b9e4eff1cfc604 )
+	rom ( name PART01.PAL size 4708 crc 28be6ffc md5 24b06ecf803c525176de2858a00fee9c )
+	rom ( name PART02 size 278132 crc 58b43f87 md5 077bff56894899e702acba48fe59105a )
+	rom ( name PART02.PAL size 4246 crc 3d9d19ae md5 1467f207c900be65e92e33bc9c60c55e )
+	rom ( name PART03 size 155822 crc e13a5f80 md5 ed1f83043ab7db9a0c95d3bcc7c3eee8 )
+	rom ( name PART03.PAL size 5842 crc 9e788656 md5 21e06ff4ea8ce566c25025669cf81bea )
+	rom ( name PART04 size 154016 crc 5c13e44a md5 c7d5f3ebd47e4271c5f78516c3d9c32c )
+	rom ( name PART04.PAL size 2860 crc 8b7d07ea md5 8a1ebe402e5eda99b7384debbc23450a )
+	rom ( name PART04B size 92696 crc 50f77b63 md5 1c6fb56e1df2546fbd00effeb0ddf748 )
+	rom ( name PART04B.PAL size 1474 crc 1e3f5426 md5 fc91d481fad90d042a6650402ed2c5e6 )
+	rom ( name TEXTE.DAT size 5444 crc b4eb009a md5 21cae6d5699a43420c468210de693d87 )
+	rom ( name VOL.1 size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+	rom ( name VOL.2 size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+	rom ( name VOL.3 size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+	rom ( name VOL.END size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+)
+
+game (
+	name fw-demo-amiga
+	description "Future Wars (Demo/Amiga)"
+	year 1989
+	manufacturer "Palace"
+	sourcefile cine
+	rom ( name AUTO00.PRC size 136 crc be0ed25f md5 aa3a381e14897caa2510d811bdb2671d )
+	rom ( name DEMO size 149984 crc 949d40b2 md5 bd48ce8a9d7955c9887a1f2842ebeccc )
+	rom ( name DEMO.PRC size 12108 crc 9f431921 md5 5366f43cbf672c7bccb8008f8d1a4c33 )
+	rom ( name DUGGER.DAT size 48676 crc aab7021d md5 f955de78916407eead1e2d3065335cec )
+	rom ( name SUITE22.DAT size 43604 crc 8816a0c6 md5 c5af74bfe633d5d4e43096b276c60ec7 )
+	rom ( name SUPERFUTUR size 43036 crc 340eda4e md5 851bbac629680a61cf9a68002addcd90 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+)
+
+game (
+	name fw-es
+	description "Future Wars (DOS/Spanish)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name AUTO00.PRC size 128 crc 27190770 md5 52e064ffa0cd191ea32781efd5cd4761 )
+	rom ( name BASESON.SND size 16298 crc 6a942d95 md5 5f83f2422a82c3ec24ccb3f4688f3dcd )
+	rom ( name PART01 size 163700 crc 8554b329 md5 78aacc8206184a8f94696b5bed3b0cbc )
+	rom ( name PART01.PAL size 4708 crc 28be6ffc md5 24b06ecf803c525176de2858a00fee9c )
+	rom ( name PART02 size 276504 crc 6b3c8ee2 md5 338289c077da13d2fbdf370a1b54636a )
+	rom ( name PART02.PAL size 4246 crc 3d9d19ae md5 1467f207c900be65e92e33bc9c60c55e )
+	rom ( name PART03 size 155258 crc e69f8a4d md5 805345c419f15d10f0efaf629ed9e1ab )
+	rom ( name PART03.PAL size 5842 crc 9e788656 md5 21e06ff4ea8ce566c25025669cf81bea )
+	rom ( name PART04 size 153708 crc 1c2c88bb md5 d19de8277d4b395bd2844ca2c8bdcb3e )
+	rom ( name PART04.PAL size 2860 crc 8b7d07ea md5 8a1ebe402e5eda99b7384debbc23450a )
+	rom ( name PART04B size 92304 crc 727741d1 md5 4722303b25f161514e1ed0ca6af58a8f )
+	rom ( name PART04B.PAL size 1474 crc 1e3f5426 md5 fc91d481fad90d042a6650402ed2c5e6 )
+	rom ( name TEXTE.DAT size 5444 crc b4eb009a md5 21cae6d5699a43420c468210de693d87 )
+)
+
+game (
+	name fw-fr
+	description "Future Wars (DOS/French)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name AUTO00.PRC size 128 crc 27190770 md5 52e064ffa0cd191ea32781efd5cd4761 )
+	rom ( name BASESON.SND size 16298 crc 6a942d95 md5 5f83f2422a82c3ec24ccb3f4688f3dcd )
+	rom ( name LVDT.CFG size 6 crc b1c2a1a3 md5 7319468847d7b1aee40dbf5dd963c999 )
+	rom ( name PART01 size 165376 crc 63f8b628 md5 309c40b1d01c4352ec632ef3c99918bd )
+	rom ( name PART01.PAL size 4708 crc 28be6ffc md5 24b06ecf803c525176de2858a00fee9c )
+	rom ( name PART02 size 277572 crc ca44747e md5 1762a2356b903b5df674890168b7daf2 )
+	rom ( name PART02.PAL size 4246 crc 3d9d19ae md5 1467f207c900be65e92e33bc9c60c55e )
+	rom ( name PART03 size 155502 crc 88a79d61 md5 e08762cc7d92280e3f7bd726a2ef9140 )
+	rom ( name PART03.PAL size 5842 crc 9e788656 md5 21e06ff4ea8ce566c25025669cf81bea )
+	rom ( name PART04 size 153908 crc 0d87aa2d md5 45b7b7fa6f7842d73bd6fe6a1d03ba16 )
+	rom ( name PART04.PAL size 2860 crc 8b7d07ea md5 8a1ebe402e5eda99b7384debbc23450a )
+	rom ( name PART04B size 92704 crc a8ea7c15 md5 8a56ee89bbb511c9d3d4791743153d75 )
+	rom ( name PART04B.PAL size 1474 crc 1e3f5426 md5 fc91d481fad90d042a6650402ed2c5e6 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+	rom ( name VOL.1 size 48 crc 34566388 md5 5d11d071c74ae7b498db16a245e1b39b )
+	rom ( name VOL.2 size 48 crc 34566388 md5 5d11d071c74ae7b498db16a245e1b39b )
+	rom ( name VOL.3 size 48 crc 34566388 md5 5d11d071c74ae7b498db16a245e1b39b )
+	rom ( name VOL.END size 48 crc 34566388 md5 5d11d071c74ae7b498db16a245e1b39b )
+)
+
+game (
+	name fw-hu
+	description "Future Wars (DOS/Hungarian)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name AUTO00.PRC size 128 crc 27190770 md5 52e064ffa0cd191ea32781efd5cd4761 )
+	rom ( name BASESON.SND size 16298 crc 6a942d95 md5 5f83f2422a82c3ec24ccb3f4688f3dcd )
+	rom ( name PART01 size 237429 crc 755c081f md5 624390265d8b0e0be6a137b0d5df72d6 )
+	rom ( name PART01.PAL size 4708 crc 28be6ffc md5 24b06ecf803c525176de2858a00fee9c )
+	rom ( name PART02 size 288998 crc 4120e19d md5 7c7371810f7ea049b2268188a013c5c1 )
+	rom ( name PART02.PAL size 4246 crc 3d9d19ae md5 1467f207c900be65e92e33bc9c60c55e )
+	rom ( name PART03 size 167320 crc b6720f45 md5 f79f04611b25c401174c0933a0fce19e )
+	rom ( name PART03.PAL size 5842 crc 9e788656 md5 21e06ff4ea8ce566c25025669cf81bea )
+	rom ( name PART04 size 162961 crc 05696e47 md5 d3bcd456e92ab7d15ff9078c36abd13a )
+	rom ( name PART04.PAL size 2860 crc 8b7d07ea md5 8a1ebe402e5eda99b7384debbc23450a )
+	rom ( name PART04B size 124847 crc 5e2c6b25 md5 bb7a53b2d9e03459c99d8f5ed6e24a56 )
+	rom ( name PART04B.PAL size 1474 crc 1e3f5426 md5 fc91d481fad90d042a6650402ed2c5e6 )
+	rom ( name TEXTE.DAT size 4996 crc 2e579d3b md5 1a82f29ad3a3c926a4aaf8e7db0bd0b2 )
+)
+
+game (
+	name fw-st
+	description "Future Wars (Atari ST)"
+	year 1989
+	manufacturer "U.S. Gold"
+	sourcefile cine
+	rom ( name ALIENS size 6496 crc 87544a84 md5 c277593df73ddd857d0d3b856908282c )
+	rom ( name AUTO00.PRC size 130 crc 8a6863bf md5 52994ede72ce0608b4db821dc80585f0 )
+	rom ( name ESCAL size 4448 crc d4b64d0c md5 3282914250095328f6c59dc6ef5069d4 )
+	rom ( name FWARS.DAT size 5472 crc 3add4447 md5 3c05cb6c46e3caa320636fd0cb20fc0e )
+	rom ( name MEDIAVAL.DAT size 4448 crc af518a9d md5 afc0332133fb92c0f774f96930ed9fd5 )
+	rom ( name MOINES.DAT size 4448 crc eb51b49f md5 05c4fa32363a40ed10076df38f585e86 )
+	rom ( name PART01 size 138910 crc 78bbe98b md5 cdc72bccc101b463b1ac5fe610a37488 )
+	rom ( name PART02 size 275220 crc bb6efabd md5 d9da6b6ada538992c521097cd5fb49ba )
+	rom ( name PART03 size 153270 crc c537face md5 488a0ba462d32d5a629862f15ce4a4c5 )
+	rom ( name PART04 size 153098 crc 107f7adc md5 f1002f8c83fad6387637dd3e7a19ee5e )
+	rom ( name PART04B size 126228 crc 6c1e46f9 md5 8f1f2be2fbbc9fba6e0512b5d5554c16 )
+	rom ( name SFUTUR size 5472 crc 808b299d md5 15f67cdc4afcc3af8f29558ff610dcb8 )
+	rom ( name SUITE22.DAT size 6496 crc 50def508 md5 7c44bd0bc4722e15acc23d1710e49e1f )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+)
+
+game (
+	name fw-st-fr
+	description "Future Wars (Atari ST/French)"
+	year 1989
+	manufacturer "U.S. Gold"
+	sourcefile cine
+	rom ( name ALIENS size 6496 crc 87544a84 md5 c277593df73ddd857d0d3b856908282c )
+	rom ( name AUTO00.PRC size 130 crc 8a6863bf md5 52994ede72ce0608b4db821dc80585f0 )
+	rom ( name ESCAL size 4448 crc d4b64d0c md5 3282914250095328f6c59dc6ef5069d4 )
+	rom ( name FWARS.DAT size 5472 crc 3add4447 md5 3c05cb6c46e3caa320636fd0cb20fc0e )
+	rom ( name MEDIAVAL.DAT size 4448 crc af518a9d md5 afc0332133fb92c0f774f96930ed9fd5 )
+	rom ( name MOINES.DAT size 4448 crc eb51b49f md5 05c4fa32363a40ed10076df38f585e86 )
+	rom ( name PART01 size 139222 crc 5810c1f6 md5 f813ee6938f219cb5f13de32db201c4c )
+	rom ( name PART02 size 275900 crc e027a7b8 md5 181e93c0312a22f8d0b67cf37d79494d )
+	rom ( name PART03 size 153902 crc 7e1b47ae md5 c9c6b5dfa1568e115ac0d9280627db71 )
+	rom ( name PART04 size 153442 crc 079522aa md5 60ddb2c3cad2545f93fc8f59bc830b82 )
+	rom ( name PART04B size 126536 crc 1e77ce3e md5 6daf3d2865cfef8df501f5127be338bd )
+	rom ( name SFUTUR size 5472 crc 808b299d md5 15f67cdc4afcc3af8f29558ff610dcb8 )
+	rom ( name SUITE22.DAT size 6496 crc 50def508 md5 7c44bd0bc4722e15acc23d1710e49e1f )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+)
+
+game (
+	name os-amiga-de
+	description "Operation Stealth (Amiga/German)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name ERRMESS.DAT size 1440 crc ea3c13f2 md5 230abf113fcd9df6f466b4c138dfb687 )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name POLDAT.DAT size 512 crc 0a89ae1b md5 fdabf22a7d311a1014adf99b515b2fac )
+	rom ( name PROCS0 size 42672 crc bc757b05 md5 984768880ca73c9a8d3c5ce6b6a705e8 )
+	rom ( name PROCS1 size 63410 crc b71bcd40 md5 82e0a61bd41246d760bd10b5d5d1b23c )
+	rom ( name PROCS2 size 77398 crc b633c6ed md5 20f4e123e983703cbfe6b87cbf66d38b )
+	rom ( name SAMPLES size 81741 crc b142d270 md5 be781b943f167dce54be8f480d2d88b7 )
+	rom ( name SAMPLES2 size 96224 crc 31fb068d md5 5356075cde469247319ad38fd16c8181 )
+	rom ( name SAMPLES3 size 96491 crc c1dd5f03 md5 0b62cbf16256461b47de4235049dfdea )
+	rom ( name SD01A size 96406 crc 83df2e65 md5 c7a64467dede72a1e2169b4bf7ed40a6 )
+	rom ( name SD01B size 262284 crc 7e9d7cd5 md5 60046e399388e0454ebfc06d2027bc4d )
+	rom ( name SD01C size 65924 crc f1f808e5 md5 94e59bc43d02e991136ae0bb9a1d5d2c )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD02 size 537112 crc d4f8efb4 md5 9d0f596c0d17d5b3a1cf479349cac265 )
+	rom ( name SD03 size 207962 crc 7cbdfb4b md5 6c908b3069331eda8e162ebd851c460e )
+	rom ( name SDSONS size 175712 crc 1acde329 md5 6f8356a5d5d91f9959ae16440ce87ab9 )
+	rom ( name SDSONS2 size 129778 crc 955d9ea1 md5 9660c40966026818ea822c1151e0ba4d )
+	rom ( name SDSONS3 size 109748 crc 2dc4ee5c md5 e99b6fa1613f2757d325f3a1784b92d4 )
+	rom ( name SINTRO2 size 202056 crc 450bc91a md5 aa8a22d6e9ac381bc583eecac721d7c3 )
+	rom ( name TEXTE.DAT size 5956 crc b2a04ace md5 821e13f086965c1c4ccc60c06ea9365f )
+	rom ( name VOL.1 size 42 crc e16dbc87 md5 200fa9a04c6f6208da06a6acb2253a55 )
+	rom ( name VOL.2 size 67 crc a3349cf3 md5 b9c6a89be8666f2034b92b1d77e693ed )
+	rom ( name VOL.3 size 43 crc b5830926 md5 d00b9666ff0a4ccb8e25ef3e691842b6 )
+	rom ( name VOL.CNF size 8132 crc d6a248f2 md5 efc0649326389bf832922eacd2a5959b )
+)
+
+game (
+	name os-amiga-es
+	description "Operation Stealth (Amiga/Spanish)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name ERRMESS.DAT size 1440 crc 9252b874 md5 c82b927fa7c7a5604fa9dc297bcf6794 )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS0 size 41748 crc d82e76c1 md5 a384c7443d17648068ef864354a6ba79 )
+	rom ( name PROCS1 size 61786 crc c010033c md5 0a4e6624ef14e28cdcd8911dedebc41d )
+	rom ( name PROCS2 size 75890 crc 89fbc578 md5 639e8d8f5f763fa3a376a912e0b9e96b )
+	rom ( name SAMPLES size 81741 crc b142d270 md5 be781b943f167dce54be8f480d2d88b7 )
+	rom ( name SAMPLES2 size 96224 crc 31fb068d md5 5356075cde469247319ad38fd16c8181 )
+	rom ( name SAMPLES3 size 96491 crc c1dd5f03 md5 0b62cbf16256461b47de4235049dfdea )
+	rom ( name SD01A size 96406 crc 83df2e65 md5 c7a64467dede72a1e2169b4bf7ed40a6 )
+	rom ( name SD01B size 262284 crc 7e9d7cd5 md5 60046e399388e0454ebfc06d2027bc4d )
+	rom ( name SD01C size 65924 crc f1f808e5 md5 94e59bc43d02e991136ae0bb9a1d5d2c )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD02 size 537112 crc d4f8efb4 md5 9d0f596c0d17d5b3a1cf479349cac265 )
+	rom ( name SD03 size 208090 crc d9055266 md5 3e3bee6d841aa40dcaca35c8abdb21f0 )
+	rom ( name SDSONS size 175712 crc 1acde329 md5 6f8356a5d5d91f9959ae16440ce87ab9 )
+	rom ( name SDSONS2 size 129778 crc 955d9ea1 md5 9660c40966026818ea822c1151e0ba4d )
+	rom ( name SDSONS3 size 109748 crc 2dc4ee5c md5 e99b6fa1613f2757d325f3a1784b92d4 )
+	rom ( name SINTRO2 size 201808 crc 826ac149 md5 8d915854cdc69ffda3f29cc0de6cb2e1 )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 42 crc e16dbc87 md5 200fa9a04c6f6208da06a6acb2253a55 )
+	rom ( name VOL.2 size 67 crc a3349cf3 md5 b9c6a89be8666f2034b92b1d77e693ed )
+	rom ( name VOL.3 size 43 crc b5830926 md5 d00b9666ff0a4ccb8e25ef3e691842b6 )
+	rom ( name VOL.CNF size 8132 crc d6a248f2 md5 efc0649326389bf832922eacd2a5959b )
+)
+
+game (
+	name os-amiga-fr
+	description "Operation Stealth (Amiga/French)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name ERRMESS.DAT size 1440 crc 9252b874 md5 c82b927fa7c7a5604fa9dc297bcf6794 )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS0 size 41772 crc ecb38df6 md5 d281778f241e9a63b153537abd197737 )
+	rom ( name PROCS1 size 62254 crc 2612f516 md5 2b683f9b1092f21e7f8c81ebae4f23e6 )
+	rom ( name PROCS2 size 75962 crc c707a022 md5 138cec29c95ed4c4aecdb97de465cf94 )
+	rom ( name SAMPLES size 81741 crc b142d270 md5 be781b943f167dce54be8f480d2d88b7 )
+	rom ( name SAMPLES2 size 96224 crc 31fb068d md5 5356075cde469247319ad38fd16c8181 )
+	rom ( name SAMPLES3 size 96491 crc c1dd5f03 md5 0b62cbf16256461b47de4235049dfdea )
+	rom ( name SD01A size 96406 crc 83df2e65 md5 c7a64467dede72a1e2169b4bf7ed40a6 )
+	rom ( name SD01B size 262284 crc 7e9d7cd5 md5 60046e399388e0454ebfc06d2027bc4d )
+	rom ( name SD01C size 65924 crc f1f808e5 md5 94e59bc43d02e991136ae0bb9a1d5d2c )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD02 size 537112 crc d4f8efb4 md5 9d0f596c0d17d5b3a1cf479349cac265 )
+	rom ( name SD03 size 208382 crc 4f402f82 md5 065fdacec2afef66500ade3ed4121779 )
+	rom ( name SDSONS size 175712 crc 1acde329 md5 6f8356a5d5d91f9959ae16440ce87ab9 )
+	rom ( name SDSONS2 size 129778 crc 955d9ea1 md5 9660c40966026818ea822c1151e0ba4d )
+	rom ( name SDSONS3 size 109748 crc 2dc4ee5c md5 e99b6fa1613f2757d325f3a1784b92d4 )
+	rom ( name SINTRO2 size 202120 crc 3e333c17 md5 b1adc53781db284f886d9b0f7c736eec )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 42 crc e16dbc87 md5 200fa9a04c6f6208da06a6acb2253a55 )
+	rom ( name VOL.2 size 67 crc a3349cf3 md5 b9c6a89be8666f2034b92b1d77e693ed )
+	rom ( name VOL.3 size 43 crc b5830926 md5 d00b9666ff0a4ccb8e25ef3e691842b6 )
+	rom ( name VOL.CNF size 8132 crc d6a248f2 md5 efc0649326389bf832922eacd2a5959b )
+)
+
+game (
+	name os-amiga-gb
+	description "Operation Stealth (Amiga/UK)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS0 size 41552 crc 4ac6e6d8 md5 eb2f04e8e095fd0f136155e2b866a733 )
+	rom ( name PROCS1 size 60954 crc 053390e1 md5 c469091c083b0ab1f6bc21ff4f215753 )
+	rom ( name PROCS2 size 75238 crc a6ec9f7c md5 624649dd3b61d5340364708ccaefc3a2 )
+	rom ( name SAMPLES size 81741 crc b142d270 md5 be781b943f167dce54be8f480d2d88b7 )
+	rom ( name SAMPLES2 size 96224 crc 31fb068d md5 5356075cde469247319ad38fd16c8181 )
+	rom ( name SAMPLES3 size 96491 crc c1dd5f03 md5 0b62cbf16256461b47de4235049dfdea )
+	rom ( name SD01A size 96406 crc 83df2e65 md5 c7a64467dede72a1e2169b4bf7ed40a6 )
+	rom ( name SD01B size 262284 crc 7e9d7cd5 md5 60046e399388e0454ebfc06d2027bc4d )
+	rom ( name SD01C size 65924 crc f1f808e5 md5 94e59bc43d02e991136ae0bb9a1d5d2c )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD02 size 537112 crc d4f8efb4 md5 9d0f596c0d17d5b3a1cf479349cac265 )
+	rom ( name SD03 size 207962 crc 7cbdfb4b md5 6c908b3069331eda8e162ebd851c460e )
+	rom ( name SDSONS size 175712 crc 1acde329 md5 6f8356a5d5d91f9959ae16440ce87ab9 )
+	rom ( name SDSONS2 size 129778 crc 955d9ea1 md5 9660c40966026818ea822c1151e0ba4d )
+	rom ( name SDSONS3 size 109748 crc 2dc4ee5c md5 e99b6fa1613f2757d325f3a1784b92d4 )
+	rom ( name SINTRO2 size 202124 crc 56c908e9 md5 cf5fee27e9f35dfa1e0cf113a75fc677 )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 42 crc e16dbc87 md5 200fa9a04c6f6208da06a6acb2253a55 )
+	rom ( name VOL.2 size 67 crc a3349cf3 md5 b9c6a89be8666f2034b92b1d77e693ed )
+	rom ( name VOL.3 size 43 crc b5830926 md5 d00b9666ff0a4ccb8e25ef3e691842b6 )
+	rom ( name VOL.CNF size 8132 crc d6a248f2 md5 efc0649326389bf832922eacd2a5959b )
+)
+
+game (
+	name os-amiga-gb-1
+	description "Operation Stealth (Amiga/UK)[a]"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS0 size 41764 crc 23ca8972 md5 cf1ff8e94139af77b979ca40e0981d57 )
+	rom ( name PROCS1 size 61290 crc 283dccc5 md5 b1290a8aadba3b1d6bc8afa7bc8a1469 )
+	rom ( name PROCS2 size 75546 crc 7ede841f md5 632bb024c03220af341cb64ad9be2316 )
+	rom ( name SAMPLES size 81741 crc b142d270 md5 be781b943f167dce54be8f480d2d88b7 )
+	rom ( name SAMPLES2 size 96224 crc 31fb068d md5 5356075cde469247319ad38fd16c8181 )
+	rom ( name SAMPLES3 size 96491 crc c1dd5f03 md5 0b62cbf16256461b47de4235049dfdea )
+	rom ( name SD.0 size 30000 crc 65024a20 md5 429243242c23867fefa7eab7438747f8 )
+	rom ( name SD.DIR size 400 crc 46220d0c md5 a75d7d422fd00bf31208b013e74d8394 )
+	rom ( name SD01A size 96406 crc 83df2e65 md5 c7a64467dede72a1e2169b4bf7ed40a6 )
+	rom ( name SD01B size 262284 crc 7e9d7cd5 md5 60046e399388e0454ebfc06d2027bc4d )
+	rom ( name SD01C size 65924 crc f1f808e5 md5 94e59bc43d02e991136ae0bb9a1d5d2c )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD02 size 537112 crc d4f8efb4 md5 9d0f596c0d17d5b3a1cf479349cac265 )
+	rom ( name SD03 size 207962 crc 7cbdfb4b md5 6c908b3069331eda8e162ebd851c460e )
+	rom ( name SDSONS size 175712 crc 1acde329 md5 6f8356a5d5d91f9959ae16440ce87ab9 )
+	rom ( name SDSONS2 size 129778 crc 955d9ea1 md5 9660c40966026818ea822c1151e0ba4d )
+	rom ( name SDSONS3 size 109748 crc 2dc4ee5c md5 e99b6fa1613f2757d325f3a1784b92d4 )
+	rom ( name SINTRO2 size 202124 crc 56c908e9 md5 cf5fee27e9f35dfa1e0cf113a75fc677 )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 42 crc e16dbc87 md5 200fa9a04c6f6208da06a6acb2253a55 )
+	rom ( name VOL.2 size 67 crc a3349cf3 md5 b9c6a89be8666f2034b92b1d77e693ed )
+	rom ( name VOL.3 size 43 crc b5830926 md5 d00b9666ff0a4ccb8e25ef3e691842b6 )
+	rom ( name VOL.CNF size 8132 crc 075fcf1e md5 90c1991a54927d9f61f0f333b238322a )
+)
+
+game (
+	name os-amiga-us
+	description "Operation Stealth (Amiga/US)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name ERRMESS.DAT size 1440 crc 4fc8b65d md5 6b3b7099f48c561065afbac7a42d446d )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS0 size 40468 crc 8c4e1075 md5 31d15b7ea0c90ad97f7fd3e78e26271a )
+	rom ( name PROCS1 size 60742 crc 6b291455 md5 7643bfafa4ed6aa68dfadf177587c798 )
+	rom ( name PROCS2 size 67050 crc 98718cf6 md5 86a4de48fffc98ebd43cbcc621c6a1eb )
+	rom ( name SAMPLES size 59254 crc 4cabf8bd md5 dd5d695b1a70872f859fdfb14620ff85 )
+	rom ( name SAMPLES2 size 96224 crc 31fb068d md5 5356075cde469247319ad38fd16c8181 )
+	rom ( name SAMPLES3 size 96491 crc c1dd5f03 md5 0b62cbf16256461b47de4235049dfdea )
+	rom ( name SD01A size 96810 crc 863116b7 md5 5e764fc8bc8dca7fb76dfe7a98ff99bb )
+	rom ( name SD01B size 262284 crc 7e9d7cd5 md5 60046e399388e0454ebfc06d2027bc4d )
+	rom ( name SD01C size 66048 crc c1dbadb2 md5 14948eb110d2e9519a5a4e4f103613d9 )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD02 size 537822 crc 6d3a7a40 md5 59eda74e426b6efb16bd97d9c6655d91 )
+	rom ( name SD03 size 207970 crc f0687900 md5 29d4d21f34876d4e89567a3cab75b7a2 )
+	rom ( name SDSONS size 175712 crc 1acde329 md5 6f8356a5d5d91f9959ae16440ce87ab9 )
+	rom ( name SDSONS2 size 129778 crc 955d9ea1 md5 9660c40966026818ea822c1151e0ba4d )
+	rom ( name SDSONS3 size 109748 crc 2dc4ee5c md5 e99b6fa1613f2757d325f3a1784b92d4 )
+	rom ( name SINTRO2 size 211356 crc 4369f69e md5 e3e028cc628f787feb6de3697d9cb0c8 )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 35 crc a288ff33 md5 ba6eedb4279087ac47f90b36fdfc86d8 )
+	rom ( name VOL.2 size 57 crc c536443e md5 e8409f3840de7db5ca7e197c1f7850e2 )
+	rom ( name VOL.3 size 38 crc 49dcaebc md5 e669ff8d991993f6a5abfb4ba915dfb7 )
+	rom ( name VOL.CNF size 3884 crc 2c6790af md5 e56dc79ac1acbdbe4b51404400a272ab )
+)
+
+game (
+	name os-de
+	description "Operation Stealth (DOS/German)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name EGOUBASE.PAL size 802 crc 73409858 md5 99376929829755dbb8af949694f6e3bc )
+	rom ( name ERRMESS.DAT size 1440 crc ea3c13f2 md5 230abf113fcd9df6f466b4c138dfb687 )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name LABYBASE.PAL size 1154 crc ff95da91 md5 5d20c156c9a19026970f85d8d6ddb2c7 )
+	rom ( name POLDAT.DAT size 512 crc 0a89ae1b md5 fdabf22a7d311a1014adf99b515b2fac )
+	rom ( name PROCS1 size 13976 crc cfb96e21 md5 16c04871655adfe1f8341b0a7600e0d7 )
+	rom ( name PROCS2 size 36942 crc d047e916 md5 98be0b6e840fef3ce98bb1c1152aa6e9 )
+	rom ( name PROCS3 size 11876 crc 1345e563 md5 8e61cd661a3b28e086b81b111e4d2bfb )
+	rom ( name PROCS4 size 62794 crc b615daec md5 82919f527ec13ad0a1dbb1296676009a )
+	rom ( name PROCS5 size 44852 crc cdcb6d7d md5 f2da66a1681ac0c9de68036ec63e7d03 )
+	rom ( name PROCS6 size 31314 crc 5dff47c8 md5 b6b06282f2a1494c6aea04a5719b2556 )
+	rom ( name SD.0 size 20162 crc ebb7ab16 md5 6ead26dd382940209bb4db915fbd1b6b )
+	rom ( name SD.1 size 18614 crc 35232bc0 md5 140012689e13e5371c3cf53bdd82b8db )
+	rom ( name SD.2 size 18452 crc fe276c71 md5 e29e102eec58a2bece1d6fee1b8cf819 )
+	rom ( name SD.DIR size 400 crc 6ab090f6 md5 4fc0f2e1c9f270d422760a4b06b63ba2 )
+	rom ( name SD01A size 96810 crc ea0d3b8f md5 44796e744ff3ef160aae06a241a20e89 )
+	rom ( name SD01A.PAL size 1994 crc 146f1462 md5 d697eee25457a94c4428ee2d34372a3f )
+	rom ( name SD01B size 299886 crc 5e9f1ad8 md5 7c194ffc0b919cf25797ee0f407e62a0 )
+	rom ( name SD01B.PAL size 4330 crc 84c6b3c5 md5 d170caa63aa63f03cb851ee56173e7e9 )
+	rom ( name SD01C size 66048 crc fed5dc85 md5 ebc9bdab58a0b94d244677b235126a5e )
+	rom ( name SD01C.PAL size 536 crc 3db4d0bc md5 36d6385a35b95231144965f4bec3f863 )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD01D.PAL size 882 crc 4a60d3bf md5 c6d162b6b0ba2104c7f2e28f81a2043a )
+	rom ( name SD021 size 261286 crc ba5e70fd md5 c9fceb3f72defdb81cdd1737f058ff30 )
+	rom ( name SD021.PAL size 7502 crc a7561bbc md5 d48a9d98fc5f91bf59d642ffa3419651 )
+	rom ( name SD022 size 282122 crc 0713fa37 md5 e74262d9958769fb47dd820dc6bf8508 )
+	rom ( name SD022.PAL size 13232 crc 0cdbb9e7 md5 9bb814ca319a92230e1d471ad32abc17 )
+	rom ( name SD03 size 207930 crc c623fc04 md5 8fa8d7dd5bf4b60b808b76107ec0363b )
+	rom ( name SD03.PAL size 4150 crc 4122f83a md5 75b2905b71a6eba31a5f140085de72fc )
+	rom ( name SDS1 size 28406 crc 503bed59 md5 d114272cfba2a55c6337cc8bb4ebc186 )
+	rom ( name SDS2 size 28100 crc 3a23fdce md5 6683470c78bb5e28ea068ce97ad017d9 )
+	rom ( name SDS3 size 30414 crc dea1cc7c md5 d3551a60a01ab8f56c33a0a319a63480 )
+	rom ( name SDS4 size 33119 crc 9a846d99 md5 eede8f5c1352c3ba6a15da08fc902461 )
+	rom ( name SDS5 size 25446 crc aabdfc0f md5 9467b344d7a8ebb629ba23c33896f614 )
+	rom ( name SDS6 size 30958 crc 6fafa23f md5 fb3a40355eaa0e8900f972d7cdb3f24e )
+	rom ( name SINTRO2 size 202428 crc 219f72bb md5 449feb43a1c8729917f983e6311f477b )
+	rom ( name SINTRO2.PAL size 4222 crc 894845d2 md5 b0c5782a82909f5a9b2c6aa6fc735a7c )
+	rom ( name TEXTE.DAT size 5956 crc b2a04ace md5 821e13f086965c1c4ccc60c06ea9365f )
+	rom ( name VOL.1 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.2 size 63 crc 0ba95202 md5 ade43eadfdcfb35ffeda74aacc80cdfd )
+	rom ( name VOL.3 size 49 crc 497942ea md5 3bb7e896c868239323550a4cd586b099 )
+	rom ( name VOL.4 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.5 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.6 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.CNF size 7772 crc d0a4a4fb md5 1ee052e89d9d5f0f0854533bd95e9c37 )
+	rom ( name VOL.END size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+)
+
+game (
+	name os-demo-amiga-gb
+	description "Operation Stealth (Demo/Amiga/UK)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name DEMO size 69636 crc 08d8578e md5 1db8671fd6a9330ddf7d130278feacf1 )
+	rom ( name DEMO_OS size 262148 crc a78c57c8 md5 ea6808e53e554a336a63f241380544b0 )
+	rom ( name SDSONS size 82942 crc c0ef10b8 md5 d0fc4dd3a43a11847e2a62eb434b3577 )
+	rom ( name TEXTE.DAT size 4996 crc 83f3f5a9 md5 b7243a1d6f1c9740fcdd5bf18fec7caf )
+	rom ( name VOL.1 size 19 crc 92df82d3 md5 fe7d2c055a72ad7f8bc8755e5f841cce )
+	rom ( name VOL.CNF size 806 crc ddef06cb md5 70d7435e3b7b72b31a2e72d38d4bb571 )
+)
+
+game (
+	name os-demo-gb
+	description "Operation Stealth (Demo/DOS/UK)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name DEMO_OS size 270592 crc c69314b5 md5 5d6a0d1f89364fb1566833406ed20523 )
+	rom ( name DEMO_OS.PAL size 5234 crc e8b66f45 md5 da6a41911056faa4720b215153ee855b )
+	rom ( name ERRMESS.DAT size 256 crc 1cc85180 md5 07398cd3d20ecf01229da222e9e80fe7 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name SDSDEMO size 20475 crc 395fbb24 md5 caced20f259910780a69d38fdab8045c )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 18 crc 0d8c8354 md5 973dff94fb5fa48f7a70e791f1c31bd3 )
+	rom ( name VOL.CNF size 1024 crc 588680b8 md5 f64e6e250d5e64b460c65d53073a001f )
+)
+
+game (
+	name os-es
+	description "Operation Stealth (DOS/Spanish)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name EGOUBASE.PAL size 802 crc 73409858 md5 99376929829755dbb8af949694f6e3bc )
+	rom ( name ERRMESS.DAT size 1440 crc 3b4d6c11 md5 ab02342d5b89b1a3998eb32f2eca112a )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name LABYBASE.PAL size 1154 crc ff95da91 md5 5d20c156c9a19026970f85d8d6ddb2c7 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS1 size 13752 crc 45152764 md5 50ed185aa9b74db21fadc1a0f6657455 )
+	rom ( name PROCS2 size 36242 crc d0025e7e md5 cbf5be1c00447790677372971923fcc5 )
+	rom ( name PROCS3 size 11180 crc bf95edde md5 a525b3ca7af365dbbafc3360ba5774f2 )
+	rom ( name PROCS4 size 61170 crc bf2bec25 md5 0ec3f242efdbcc669aaaab3f453f7d24 )
+	rom ( name PROCS5 size 43744 crc 83378764 md5 2c860cc78d08915cbeeccd86a7fef095 )
+	rom ( name PROCS6 size 30890 crc 750f075b md5 6d4b5264cc6df41a3dff464e6cbc1f56 )
+	rom ( name SD.0 size 18966 crc f5c71c85 md5 49acd4e741c5fb7bedeb07bc987f43fe )
+	rom ( name SD.1 size 18952 crc dec76d57 md5 08b7d13688f79f2ff889122643295a7a )
+	rom ( name SD.DIR size 400 crc cfbb93d4 md5 16191c5d050d8c17e6d0ef1df86478ff )
+	rom ( name SD01A size 96810 crc ea0d3b8f md5 44796e744ff3ef160aae06a241a20e89 )
+	rom ( name SD01A.PAL size 1994 crc 146f1462 md5 d697eee25457a94c4428ee2d34372a3f )
+	rom ( name SD01B size 299886 crc 5e9f1ad8 md5 7c194ffc0b919cf25797ee0f407e62a0 )
+	rom ( name SD01B.PAL size 4330 crc 84c6b3c5 md5 d170caa63aa63f03cb851ee56173e7e9 )
+	rom ( name SD01C size 66048 crc fed5dc85 md5 ebc9bdab58a0b94d244677b235126a5e )
+	rom ( name SD01C.PAL size 536 crc 3db4d0bc md5 36d6385a35b95231144965f4bec3f863 )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD01D.PAL size 882 crc 4a60d3bf md5 c6d162b6b0ba2104c7f2e28f81a2043a )
+	rom ( name SD021 size 261286 crc ba5e70fd md5 c9fceb3f72defdb81cdd1737f058ff30 )
+	rom ( name SD021.PAL size 7502 crc a7561bbc md5 d48a9d98fc5f91bf59d642ffa3419651 )
+	rom ( name SD022 size 282122 crc 0713fa37 md5 e74262d9958769fb47dd820dc6bf8508 )
+	rom ( name SD022.PAL size 13232 crc 0cdbb9e7 md5 9bb814ca319a92230e1d471ad32abc17 )
+	rom ( name SD03 size 208802 crc a9c2e6e4 md5 e0da4b09a8ae210692d11f539717f082 )
+	rom ( name SD03.PAL size 4150 crc 4122f83a md5 75b2905b71a6eba31a5f140085de72fc )
+	rom ( name SDSONS size 34923 crc 3311bbef md5 7a05d206edb9d9c71cb3224ad44cce2e )
+	rom ( name SDSONS2 size 34885 crc 094106a5 md5 7e43d5975994d4dcd22c7f2b265f3a6c )
+	rom ( name SDSONS3 size 32189 crc b52b70b9 md5 9ead0913b68ff05dba3995781b2aac7b )
+	rom ( name SINTRO2 size 202472 crc 8b1bdc9b md5 5ad6143755d23359bdb808c743d0936d )
+	rom ( name SINTRO2.PAL size 4222 crc 894845d2 md5 b0c5782a82909f5a9b2c6aa6fc735a7c )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.2 size 63 crc 0ba95202 md5 ade43eadfdcfb35ffeda74aacc80cdfd )
+	rom ( name VOL.3 size 49 crc 497942ea md5 3bb7e896c868239323550a4cd586b099 )
+	rom ( name VOL.CNF size 5604 crc c3bfa9d8 md5 f5db6d4cd791877aca0d1c37cffdb7b2 )
+	rom ( name VOL.END size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+)
+
+game (
+	name os-es-1
+	description "Operation Stealth (256 Colors/DOS/Spanish)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name EGOUBASE.PAL size 802 crc 73409858 md5 99376929829755dbb8af949694f6e3bc )
+	rom ( name ERRMESS.DAT size 1440 crc 3b4d6c11 md5 ab02342d5b89b1a3998eb32f2eca112a )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name LABYBASE.PAL size 1154 crc ff95da91 md5 5d20c156c9a19026970f85d8d6ddb2c7 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS1 size 13752 crc 45152764 md5 50ed185aa9b74db21fadc1a0f6657455 )
+	rom ( name PROCS2 size 36242 crc d0025e7e md5 cbf5be1c00447790677372971923fcc5 )
+	rom ( name PROCS3 size 11180 crc bf95edde md5 a525b3ca7af365dbbafc3360ba5774f2 )
+	rom ( name PROCS4 size 61170 crc bf2bec25 md5 0ec3f242efdbcc669aaaab3f453f7d24 )
+	rom ( name PROCS5 size 43744 crc 83378764 md5 2c860cc78d08915cbeeccd86a7fef095 )
+	rom ( name PROCS6 size 30890 crc 750f075b md5 6d4b5264cc6df41a3dff464e6cbc1f56 )
+	rom ( name SD01A size 96810 crc ea0d3b8f md5 44796e744ff3ef160aae06a241a20e89 )
+	rom ( name SD01A.PAL size 1994 crc 146f1462 md5 d697eee25457a94c4428ee2d34372a3f )
+	rom ( name SD01B size 299886 crc 5e9f1ad8 md5 7c194ffc0b919cf25797ee0f407e62a0 )
+	rom ( name SD01B.PAL size 4330 crc 84c6b3c5 md5 d170caa63aa63f03cb851ee56173e7e9 )
+	rom ( name SD01C size 66048 crc fed5dc85 md5 ebc9bdab58a0b94d244677b235126a5e )
+	rom ( name SD01C.PAL size 536 crc 3db4d0bc md5 36d6385a35b95231144965f4bec3f863 )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD01D.PAL size 882 crc 4a60d3bf md5 c6d162b6b0ba2104c7f2e28f81a2043a )
+	rom ( name SD021 size 261286 crc ba5e70fd md5 c9fceb3f72defdb81cdd1737f058ff30 )
+	rom ( name SD021.PAL size 7502 crc a7561bbc md5 d48a9d98fc5f91bf59d642ffa3419651 )
+	rom ( name SD022 size 282122 crc 0713fa37 md5 e74262d9958769fb47dd820dc6bf8508 )
+	rom ( name SD022.PAL size 13232 crc 0cdbb9e7 md5 9bb814ca319a92230e1d471ad32abc17 )
+	rom ( name SD03 size 208802 crc a9c2e6e4 md5 e0da4b09a8ae210692d11f539717f082 )
+	rom ( name SD03.PAL size 4150 crc 4122f83a md5 75b2905b71a6eba31a5f140085de72fc )
+	rom ( name SDS1 size 28406 crc 503bed59 md5 d114272cfba2a55c6337cc8bb4ebc186 )
+	rom ( name SDS2 size 28100 crc 3a23fdce md5 6683470c78bb5e28ea068ce97ad017d9 )
+	rom ( name SDS3 size 30414 crc dea1cc7c md5 d3551a60a01ab8f56c33a0a319a63480 )
+	rom ( name SDS4 size 33119 crc 9a846d99 md5 eede8f5c1352c3ba6a15da08fc902461 )
+	rom ( name SDS5 size 25446 crc aabdfc0f md5 9467b344d7a8ebb629ba23c33896f614 )
+	rom ( name SDS6 size 30958 crc 6fafa23f md5 fb3a40355eaa0e8900f972d7cdb3f24e )
+	rom ( name SINTRO2 size 202472 crc 8b1bdc9b md5 5ad6143755d23359bdb808c743d0936d )
+	rom ( name SINTRO2.PAL size 4222 crc 894845d2 md5 b0c5782a82909f5a9b2c6aa6fc735a7c )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.2 size 63 crc 0ba95202 md5 ade43eadfdcfb35ffeda74aacc80cdfd )
+	rom ( name VOL.3 size 49 crc 497942ea md5 3bb7e896c868239323550a4cd586b099 )
+	rom ( name VOL.4 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.5 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.6 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.CNF size 7772 crc d0a4a4fb md5 1ee052e89d9d5f0f0854533bd95e9c37 )
+	rom ( name VOL.END size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+)
+
+game (
+	name os-fr
+	description "Operation Stealth (256 Colors/DOS/French)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 27198 crc 40503468 md5 8ced5079ff2bd37300e9194318d144f2 )
+	rom ( name ERRMESS.DAT size 1440 crc 9252b874 md5 c82b927fa7c7a5604fa9dc297bcf6794 )
+	rom ( name LABYBASE size 25240 crc b5508afd md5 775f962c1d518b43e0d08833e92244fc )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCEGOU size 5524 crc 83f5bea5 md5 10963bff1e6842d00fa17a901b8a50ae )
+	rom ( name PROCLABY size 6528 crc dc47ea24 md5 b6177aaddac947e37794aebcef67c7af )
+	rom ( name PROCS00 size 4504 crc 58f6f1e9 md5 f143567f08cfd1a9b1c9a41c89eadfef )
+	rom ( name PROCS01 size 9616 crc d0dded8d md5 776675b4f5ad6e4cbf730fa2d2b6d48d )
+	rom ( name PROCS02 size 28080 crc 8372d7ab md5 0b0d54c7abf0d75be16e5e53c2030389 )
+	rom ( name PROCS03 size 11684 crc 94c45c29 md5 555cfe5f42003696df4bb0796effe389 )
+	rom ( name PROCS04 size 11684 crc 94c45c29 md5 555cfe5f42003696df4bb0796effe389 )
+	rom ( name PROCS06 size 8116 crc ab293929 md5 1cf62613ba895067a8095a87f3fa2ef6 )
+	rom ( name PROCS07 size 11684 crc 94c45c29 md5 555cfe5f42003696df4bb0796effe389 )
+	rom ( name PROCS08 size 11926 crc 6fb86bc0 md5 2a8d87f29fdf60d08785f1d215ddbc20 )
+	rom ( name PROCS10 size 13248 crc d7c1f2ca md5 45c4039ea859ed4b0a591e72e1116fd1 )
+	rom ( name PROCS12 size 10628 crc 400de57c md5 7a948317bc7d08fd4a2db72705e54a6a )
+	rom ( name PROCS13 size 28164 crc a80ed843 md5 b7043a4bdba56f55d67481d68cbf8817 )
+	rom ( name PROCS15 size 21780 crc b85764fe md5 29a4e49cf978b87c60a976326b39dcdc )
+	rom ( name PROCS16 size 3670 crc 99c5563b md5 605a734fdc127dfb9031dc1b94ae7602 )
+	rom ( name RSC00 size 25460 crc 20745400 md5 263a6dc9754ee1c5d98c4686cb64e10a )
+	rom ( name RSC01 size 268220 crc a265a672 md5 7f040158482c35ffc18c936ffdd8aed8 )
+	rom ( name RSC02 size 170898 crc 74b442f0 md5 4574ea2418fcdeb638e96d51f75a6e3d )
+	rom ( name RSC03 size 283072 crc bc55889e md5 c8a654118321cb05f7e87aa7cbc9290d )
+	rom ( name RSC04 size 112906 crc c6e95228 md5 7fa1882798d08f8b8b8c89b14e0263f6 )
+	rom ( name RSC05 size 79662 crc c0e94f1c md5 7eb7e67ab008b1ca55d6c3c933590504 )
+	rom ( name RSC06 size 170142 crc d25487ed md5 35af6e679e3ac2d272197da1f23512d9 )
+	rom ( name RSC07 size 59390 crc b61ef4f7 md5 4cc80ab2594ce2da11b4ea02f9bfe29b )
+	rom ( name RSC08 size 116350 crc 314c7388 md5 50653a53fd646562c01e0a5d50ed4473 )
+	rom ( name RSC09 size 156352 crc d26b2110 md5 576d09c32e691f8621f644a4a761a440 )
+	rom ( name RSC10 size 123124 crc f01ed320 md5 998aa4cba99882077195ded0d947e029 )
+	rom ( name RSC11 size 46756 crc 129d4852 md5 2b7e0d50dead433905d340d54eba59be )
+	rom ( name RSC12 size 112242 crc fb89f3b5 md5 07501a36c3685ef46f61bc90e22a14ff )
+	rom ( name RSC13 size 123450 crc f0ce8f7b md5 a64d49bb91b1b2f93b9f10f55e858b61 )
+	rom ( name RSC14 size 186276 crc 77f847ea md5 b62996560e2170efd880bded32d1d198 )
+	rom ( name RSC15 size 169602 crc 402d3df7 md5 4a8cfc74a8370ea3214843ba36544af3 )
+	rom ( name RSC16 size 164124 crc 1dc2907e md5 3b9db4f9a398ff3ada93a6a4b81b0b9a )
+	rom ( name RSC17 size 1466 crc 275a2b96 md5 8f1bf873794c900267e566e57d8cfc83 )
+	rom ( name SONS31 size 30469 crc 7082ff53 md5 d67d0fc374b0ffae5ca34717210a5373 )
+	rom ( name SONS32 size 31978 crc 08f1209d md5 9393f05005aadeef005a70fdf31717e0 )
+	rom ( name SONS33 size 37066 crc fb0d59e0 md5 722631441f135690d2e73fbf12c5c4ce )
+	rom ( name SONS34 size 27616 crc dbdf9ecd md5 ada6fbe3e6ba1954b87c502ff7c8b97d )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 63 crc c9a6a21c md5 d5aade5935c6962c2a144a2ac35aeea6 )
+	rom ( name VOL.2 size 79 crc af8c5a69 md5 46184f89c2be39eb2fe10b169c9a3bb4 )
+	rom ( name VOL.3 size 110 crc 42d14176 md5 a4faf3f1293c7978795ed6910da704c7 )
+	rom ( name VOL.4 size 63 crc caa646fa md5 09e8dbb5edb5ac3fb71871cc18be99d7 )
+	rom ( name VOL.CNF size 6452 crc e37936da md5 6d93c51b479cfcda9beecace3a07758f )
+	rom ( name VOL.END size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+)
+
+game (
+	name os-gb
+	description "Operation Stealth (256 Colors/DOS/UK)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 27198 crc 40503468 md5 8ced5079ff2bd37300e9194318d144f2 )
+	rom ( name ERRMESS.DAT size 1440 crc 3b4d6c11 md5 ab02342d5b89b1a3998eb32f2eca112a )
+	rom ( name LABYBASE size 25240 crc b5508afd md5 775f962c1d518b43e0d08833e92244fc )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCEGOU size 5496 crc ec62c4ce md5 ad91a966aff14cb17fc14b79cbc22000 )
+	rom ( name PROCLABY size 6500 crc 427f45ce md5 54aa8e1d8b74da1c7deb2e5b25f9d883 )
+	rom ( name PROCS00 size 4504 crc 949ed9ed md5 d6752e7d25924cb866b61eb7cb0c8b56 )
+	rom ( name PROCS01 size 9336 crc 0d1adb70 md5 d04d371f6c2fcfd77c9ef9458d3efb2b )
+	rom ( name PROCS02 size 27504 crc f27593ff md5 9963f16a4e1107cccefab11a96fe68f3 )
+	rom ( name PROCS03 size 11308 crc 8fa6a00a md5 e22ef4c6854432c3ff93d726f839c575 )
+	rom ( name PROCS04 size 11308 crc 8fa6a00a md5 e22ef4c6854432c3ff93d726f839c575 )
+	rom ( name PROCS06 size 7956 crc aaad6791 md5 891407190b16293849a0215faf4152fa )
+	rom ( name PROCS07 size 11308 crc 8fa6a00a md5 e22ef4c6854432c3ff93d726f839c575 )
+	rom ( name PROCS08 size 11438 crc a6d65a51 md5 547d00314cc6a9402bfc7685d456a60b )
+	rom ( name PROCS10 size 13996 crc 529be8d8 md5 6b7a101412537a69c19c3f47d519e7a6 )
+	rom ( name PROCS12 size 10160 crc 0f86539a md5 0faa5e55ffeb11a774def4ff8b68c6b7 )
+	rom ( name PROCS13 size 27960 crc 6e51daad md5 8503c25dadbf7d5dc3c0c5230d68eadb )
+	rom ( name PROCS15 size 21844 crc f89e13fd md5 36473bab0f9dbd5bd639d8470ccc777e )
+	rom ( name PROCS16 size 3630 crc 05696f04 md5 c6fcfb2cbb25e44b4925fd22d45845dd )
+	rom ( name RSC00 size 25948 crc 3bd7647e md5 a6cf5474ca57116dbab8a81d23930c56 )
+	rom ( name RSC01 size 268220 crc a265a672 md5 7f040158482c35ffc18c936ffdd8aed8 )
+	rom ( name RSC02 size 170898 crc 74b442f0 md5 4574ea2418fcdeb638e96d51f75a6e3d )
+	rom ( name RSC03 size 283072 crc bc55889e md5 c8a654118321cb05f7e87aa7cbc9290d )
+	rom ( name RSC04 size 112906 crc c6e95228 md5 7fa1882798d08f8b8b8c89b14e0263f6 )
+	rom ( name RSC05 size 79662 crc c0e94f1c md5 7eb7e67ab008b1ca55d6c3c933590504 )
+	rom ( name RSC06 size 170142 crc d25487ed md5 35af6e679e3ac2d272197da1f23512d9 )
+	rom ( name RSC07 size 59390 crc b61ef4f7 md5 4cc80ab2594ce2da11b4ea02f9bfe29b )
+	rom ( name RSC08 size 116350 crc 314c7388 md5 50653a53fd646562c01e0a5d50ed4473 )
+	rom ( name RSC09 size 156352 crc d26b2110 md5 576d09c32e691f8621f644a4a761a440 )
+	rom ( name RSC10 size 123124 crc f01ed320 md5 998aa4cba99882077195ded0d947e029 )
+	rom ( name RSC11 size 37238 crc 8a5c825e md5 1704226eae257966f5e8c7d566ad69f4 )
+	rom ( name RSC12 size 112242 crc fb89f3b5 md5 07501a36c3685ef46f61bc90e22a14ff )
+	rom ( name RSC13 size 123450 crc f0ce8f7b md5 a64d49bb91b1b2f93b9f10f55e858b61 )
+	rom ( name RSC14 size 186276 crc 77f847ea md5 b62996560e2170efd880bded32d1d198 )
+	rom ( name RSC15 size 169602 crc 402d3df7 md5 4a8cfc74a8370ea3214843ba36544af3 )
+	rom ( name RSC16 size 160894 crc b63737e4 md5 44f14f9e2f33f25dded237c58a6d2b68 )
+	rom ( name RSC17 size 1466 crc 275a2b96 md5 8f1bf873794c900267e566e57d8cfc83 )
+	rom ( name SONS1 size 29628 crc d767b785 md5 2c98027b2fcaf1674acfeba0a3a32201 )
+	rom ( name SONS2 size 30469 crc dc6d5ba7 md5 74aaa3d999eac6f9ac3b2ae850077205 )
+	rom ( name SONS3 size 28600 crc 2939fa45 md5 bf93ee453ecb16adbdc2df2c340640b3 )
+	rom ( name SONS4 size 28332 crc 9293fc39 md5 4ae650568ca6ad44bf753af2bbf84be7 )
+	rom ( name SONS5 size 30635 crc 13a06a82 md5 eba5ad5b82bfaeeae375c1110e16d442 )
+	rom ( name SONS6 size 31662 crc 0360de1f md5 812e36c30bab7259ac2fe923dbed0601 )
+	rom ( name SONS7 size 32937 crc e85a6fef md5 c2c02d5278df1fb537112402a1353c04 )
+	rom ( name SONS8 size 18660 crc 4cff7c00 md5 4f63c0ad31c1b2d059ea2810d5b9f0cd )
+	rom ( name SONS9 size 31694 crc 356f6407 md5 ab9c2482d7bbd9ae8e418d8259114f98 )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 39 crc bbd2efa1 md5 3d1c36a0f389509347785af8f2b045dd )
+	rom ( name VOL.2 size 23 crc 0769b67c md5 1b60ebe7f01cd91ee5b354aa7ff6e20e )
+	rom ( name VOL.3 size 30 crc f6b0c79c md5 9be477ab7ac4d5e402f5253c5956caaf )
+	rom ( name VOL.4 size 23 crc 73a51c02 md5 894d1abf7679217b95bee5d039a02cf3 )
+	rom ( name VOL.5 size 46 crc caed70ab md5 5139d5dc18409c33deba8f9edd4ea9bf )
+	rom ( name VOL.6 size 70 crc daac3f26 md5 f2d4db51f0e21f0f6658b63c73e262dc )
+	rom ( name VOL.7 size 46 crc ebe9c27c md5 13326ca123c437978ee1f0f762985404 )
+	rom ( name VOL.8 size 30 crc efbd9a4b md5 bf75135acf2b2b7af82ffb7e2c9d94c4 )
+	rom ( name VOL.9 size 39 crc 880b48eb md5 e412ab473f23060b3d8907f3699b2947 )
+	rom ( name VOL.CNF size 10832 crc 8a587be4 md5 2e41a01e668d5dc4b5d0e2bc03406302 )
+	rom ( name VOL.END size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+)
+
+game (
+	name os-it
+	description "Operation Stealth (DOS/Italian)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name EGOUBASE.PAL size 802 crc 73409858 md5 99376929829755dbb8af949694f6e3bc )
+	rom ( name ERRMESS.DAT size 1440 crc 3b4d6c11 md5 ab02342d5b89b1a3998eb32f2eca112a )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name LABYBASE.PAL size 1154 crc ff95da91 md5 5d20c156c9a19026970f85d8d6ddb2c7 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS1 size 13728 crc 3aba76f8 md5 e58ada0848c4d73e9a1bcff298fde116 )
+	rom ( name PROCS2 size 36282 crc b1f0372a md5 4c4dd13bc6e895a5a6d94fa88b0f9b8c )
+	rom ( name PROCS3 size 11144 crc c364263b md5 b3d2a8f3e1d341d66347f2685539057a )
+	rom ( name PROCS4 size 61066 crc cc200996 md5 2669151461897bb8742a4cfc1f33579b )
+	rom ( name PROCS5 size 43608 crc 12aadeb8 md5 ef9a26806fbf75c6b4242788c433a291 )
+	rom ( name PROCS6 size 30738 crc 433b37e4 md5 0fba496262f738e237de9c0b9e825da0 )
+	rom ( name SD01A size 96810 crc ea0d3b8f md5 44796e744ff3ef160aae06a241a20e89 )
+	rom ( name SD01A.PAL size 1994 crc 146f1462 md5 d697eee25457a94c4428ee2d34372a3f )
+	rom ( name SD01B size 299886 crc 5e9f1ad8 md5 7c194ffc0b919cf25797ee0f407e62a0 )
+	rom ( name SD01B.PAL size 4330 crc 84c6b3c5 md5 d170caa63aa63f03cb851ee56173e7e9 )
+	rom ( name SD01C size 66048 crc fed5dc85 md5 ebc9bdab58a0b94d244677b235126a5e )
+	rom ( name SD01C.PAL size 536 crc 3db4d0bc md5 36d6385a35b95231144965f4bec3f863 )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD01D.PAL size 882 crc 4a60d3bf md5 c6d162b6b0ba2104c7f2e28f81a2043a )
+	rom ( name SD021 size 261286 crc ba5e70fd md5 c9fceb3f72defdb81cdd1737f058ff30 )
+	rom ( name SD021.PAL size 7502 crc a7561bbc md5 d48a9d98fc5f91bf59d642ffa3419651 )
+	rom ( name SD022 size 282122 crc 0713fa37 md5 e74262d9958769fb47dd820dc6bf8508 )
+	rom ( name SD022.PAL size 13232 crc 0cdbb9e7 md5 9bb814ca319a92230e1d471ad32abc17 )
+	rom ( name SD03 size 209210 crc f03997f7 md5 4123635deffddf1b1cb35a03bf1fa3e4 )
+	rom ( name SD03.PAL size 4150 crc 4122f83a md5 75b2905b71a6eba31a5f140085de72fc )
+	rom ( name SDS1 size 28406 crc 503bed59 md5 d114272cfba2a55c6337cc8bb4ebc186 )
+	rom ( name SDS2 size 28100 crc 3a23fdce md5 6683470c78bb5e28ea068ce97ad017d9 )
+	rom ( name SDS3 size 30414 crc dea1cc7c md5 d3551a60a01ab8f56c33a0a319a63480 )
+	rom ( name SDS4 size 33119 crc 9a846d99 md5 eede8f5c1352c3ba6a15da08fc902461 )
+	rom ( name SDS5 size 25446 crc aabdfc0f md5 9467b344d7a8ebb629ba23c33896f614 )
+	rom ( name SDS6 size 30958 crc 6fafa23f md5 fb3a40355eaa0e8900f972d7cdb3f24e )
+	rom ( name SINTRO2 size 203196 crc 1c2a701b md5 94fa67a8bd16a9604b097e3bd8a6e601 )
+	rom ( name SINTRO2.PAL size 4222 crc 894845d2 md5 b0c5782a82909f5a9b2c6aa6fc735a7c )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.2 size 63 crc 0ba95202 md5 ade43eadfdcfb35ffeda74aacc80cdfd )
+	rom ( name VOL.3 size 49 crc 497942ea md5 3bb7e896c868239323550a4cd586b099 )
+	rom ( name VOL.4 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.5 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.6 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.CNF size 7772 crc d0a4a4fb md5 1ee052e89d9d5f0f0854533bd95e9c37 )
+	rom ( name VOL.END size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+)
+
+game (
+	name os-st-fr
+	description "Operation Stealth (Atari ST/French)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name DELPHINE.PRG size 21832 crc 5a2ce66d md5 6a59418469cdefd1ac42685880152065 )
+	rom ( name DESKTOP.INF size 496 crc 50d659e0 md5 0bc1a9bd5e190b3807ffae18a42da5b6 )
+	rom ( name EGOUBASE size 17044 crc abc1ef33 md5 238c42c2b4d66ae78d7e48c5307af922 )
+	rom ( name ERRMESS.DAT size 1440 crc 9252b874 md5 c82b927fa7c7a5604fa9dc297bcf6794 )
+	rom ( name INSTALLE.PRG size 5950 crc 8104907f md5 827a97328f19da795dffc8879552236d )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name MIDI.OFF size 5 crc 8a25ff13 md5 2c736291cde3f582fb3d0898341b2294 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PORTOS.DAT size 96943 crc 17201697 md5 4e8da413e9c89a9cb05494c1e7f6a2a3 )
+	rom ( name PROCS0 size 55996 crc f4e1af78 md5 42258b2d7951a9abc4c3c7e5d39e5af7 )
+	rom ( name PROCS1 size 62246 crc c293f038 md5 f16584ce95862c3dc08ea435e378ad1b )
+	rom ( name PROCS2 size 75962 crc 7d1add87 md5 e8e1290f6365af1330bdb9fe3711da15 )
+	rom ( name SAMPLES size 38887 crc 5b0f13a5 md5 b4076cb7c6627158ac0086cad35a6530 )
+	rom ( name SD01A size 96406 crc 83df2e65 md5 c7a64467dede72a1e2169b4bf7ed40a6 )
+	rom ( name SD01B size 262284 crc 7e9d7cd5 md5 60046e399388e0454ebfc06d2027bc4d )
+	rom ( name SD01C size 65924 crc f1f808e5 md5 94e59bc43d02e991136ae0bb9a1d5d2c )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD02 size 537112 crc f83f6f19 md5 393800a7eec90d7fb693eed45a4af97c )
+	rom ( name SD03 size 208382 crc 4f402f82 md5 065fdacec2afef66500ade3ed4121779 )
+	rom ( name SDSONS size 23862 crc d342370f md5 aa3d65d85e27a53150e3ab76449e7c99 )
+	rom ( name SDSONS2 size 13030 crc a0451a8b md5 07309758dc8bd86beeb95ad55ca61c28 )
+	rom ( name SDSONS3 size 13120 crc a7d53091 md5 f69d60ebace0971c21fede10290addfb )
+	rom ( name SINTRO2 size 202120 crc 3e333c17 md5 b1adc53781db284f886d9b0f7c736eec )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 42 crc e16dbc87 md5 200fa9a04c6f6208da06a6acb2253a55 )
+	rom ( name VOL.2 size 66 crc cd9ac4ad md5 c1b09a05fc5c5c0d6e075a44b248c9c5 )
+	rom ( name VOL.3 size 42 crc c48f631d md5 822dd0bd3ed46c188934bf43ff0a3990 )
+	rom ( name VOL.CNF size 8301 crc f4a8bc3f md5 e2f32814929e9381988854b77e503cc4 )
+)
+
+game (
+	name os-st-gb
+	description "Operation Stealth (Atari ST/UK)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name DELPHINE.CLG size 101508 crc 2aec904a md5 38d81bfcbd87ce6927929aed69ad4d83 )
+	rom ( name DESKTOP.INF size 496 crc 6be07b46 md5 85dc4b64780e9eff8fd6daab4f01b83d )
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name ERRMESS.DAT size 1440 crc 3b4d6c11 md5 ab02342d5b89b1a3998eb32f2eca112a )
+	rom ( name INSTALL.PRG size 5950 crc 8104907f md5 827a97328f19da795dffc8879552236d )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name MIDI.OFF size 5 crc 8a25ff13 md5 2c736291cde3f582fb3d0898341b2294 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS0 size 56047 crc d7b1de27 md5 db5c519b7b5d56a7137691b402765b3e )
+	rom ( name PROCS1 size 61042 crc db19513f md5 d7821d1ac86d718a05e02590282ed475 )
+	rom ( name PROCS2 size 75962 crc ad3d0be4 md5 71dfb44075c178e8d1a1680cd0a6ade1 )
+	rom ( name SAMPLES size 38887 crc 5b0f13a5 md5 b4076cb7c6627158ac0086cad35a6530 )
+	rom ( name SD.0 size 17383 crc d09b0c73 md5 0aa02c496234d2ddd678997026c05c88 )
+	rom ( name SD.DIR size 400 crc 772e24da md5 9ba30bdafc77c859c8cf670e7b4c9498 )
+	rom ( name SD01A size 96406 crc 83df2e65 md5 c7a64467dede72a1e2169b4bf7ed40a6 )
+	rom ( name SD01B size 262284 crc 7e9d7cd5 md5 60046e399388e0454ebfc06d2027bc4d )
+	rom ( name SD01C size 65924 crc f1f808e5 md5 94e59bc43d02e991136ae0bb9a1d5d2c )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD02 size 537112 crc d4f8efb4 md5 9d0f596c0d17d5b3a1cf479349cac265 )
+	rom ( name SD03 size 207962 crc 7cbdfb4b md5 6c908b3069331eda8e162ebd851c460e )
+	rom ( name SDSONS size 23862 crc d342370f md5 aa3d65d85e27a53150e3ab76449e7c99 )
+	rom ( name SDSONS2 size 13030 crc a0451a8b md5 07309758dc8bd86beeb95ad55ca61c28 )
+	rom ( name SDSONS3 size 13120 crc 841b6cb5 md5 ea36736dae04567e6184a08cfea71e10 )
+	rom ( name SINTRO2 size 202124 crc 56c908e9 md5 cf5fee27e9f35dfa1e0cf113a75fc677 )
+	rom ( name STEALTH.PRG size 1178 crc a90ea920 md5 b1a51f43bc4155908e3641ad663c5da1 )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 42 crc e16dbc87 md5 200fa9a04c6f6208da06a6acb2253a55 )
+	rom ( name VOL.2 size 66 crc cd9ac4ad md5 c1b09a05fc5c5c0d6e075a44b248c9c5 )
+	rom ( name VOL.3 size 42 crc c48f631d md5 822dd0bd3ed46c188934bf43ff0a3990 )
+	rom ( name VOL.CNF size 8301 crc 3e911984 md5 77cc34cdb99308ebb34c04123276f6ec )
+)
+
+game (
+	name os-st-gb-1
+	description "Operation Stealth (Atari ST/UK)[a]"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name DELPHINE.CLG size 101508 crc 22204e65 md5 20f73c25c2a927399289ca1343ea1b4f )
+	rom ( name DESKTOP.INF size 496 crc 263b0b45 md5 2df18b1749655d8149ecf09fb85e42b2 )
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name ERRMESS.DAT size 1440 crc 3b4d6c11 md5 ab02342d5b89b1a3998eb32f2eca112a )
+	rom ( name INSTALL.PRG size 5950 crc 8104907f md5 827a97328f19da795dffc8879552236d )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name MIDI.ON size 5 crc 8a25ff13 md5 2c736291cde3f582fb3d0898341b2294 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS0 size 56047 crc d7b1de27 md5 db5c519b7b5d56a7137691b402765b3e )
+	rom ( name PROCS1 size 61042 crc db19513f md5 d7821d1ac86d718a05e02590282ed475 )
+	rom ( name PROCS2 size 75238 crc d10a43c2 md5 4b84ae9eb5258553fcd76c7fcfc66dca )
+	rom ( name SAMPLES size 38887 crc 5b0f13a5 md5 b4076cb7c6627158ac0086cad35a6530 )
+	rom ( name SD01A size 96406 crc 83df2e65 md5 c7a64467dede72a1e2169b4bf7ed40a6 )
+	rom ( name SD01B size 262284 crc 7e9d7cd5 md5 60046e399388e0454ebfc06d2027bc4d )
+	rom ( name SD01C size 65924 crc f1f808e5 md5 94e59bc43d02e991136ae0bb9a1d5d2c )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD02 size 537112 crc d4f8efb4 md5 9d0f596c0d17d5b3a1cf479349cac265 )
+	rom ( name SD03 size 207962 crc 7cbdfb4b md5 6c908b3069331eda8e162ebd851c460e )
+	rom ( name SDSONS size 23862 crc d342370f md5 aa3d65d85e27a53150e3ab76449e7c99 )
+	rom ( name SDSONS2 size 13030 crc a0451a8b md5 07309758dc8bd86beeb95ad55ca61c28 )
+	rom ( name SDSONS3 size 13120 crc 841b6cb5 md5 ea36736dae04567e6184a08cfea71e10 )
+	rom ( name SINTRO2 size 202124 crc 56c908e9 md5 cf5fee27e9f35dfa1e0cf113a75fc677 )
+	rom ( name STEALTH.PRG size 1202 crc cfa9322b md5 0e89b7d7119bb335be168d248b6ceab1 )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 42 crc e16dbc87 md5 200fa9a04c6f6208da06a6acb2253a55 )
+	rom ( name VOL.2 size 66 crc cd9ac4ad md5 c1b09a05fc5c5c0d6e075a44b248c9c5 )
+	rom ( name VOL.3 size 42 crc c48f631d md5 822dd0bd3ed46c188934bf43ff0a3990 )
+	rom ( name VOL.CNF size 8301 crc 3e911984 md5 77cc34cdb99308ebb34c04123276f6ec )
+)
+
+game (
+	name os-us
+	description "Operation Stealth (DOS/US)"
+	year 1990
+	manufacturer "Interplay"
+	sourcefile cine
+	rom ( name EGOUBASE size 17044 crc 95003ed5 md5 8932f627148e6b7c9bc6d05a3d9f2dd3 )
+	rom ( name EGOUBASE.PAL size 802 crc 73409858 md5 99376929829755dbb8af949694f6e3bc )
+	rom ( name ERRMESS.DAT size 1440 crc 4fc8b65d md5 6b3b7099f48c561065afbac7a42d446d )
+	rom ( name LABYBASE size 18758 crc a45d71e9 md5 c568a72b62ba7c3d6eab5dc7755f9877 )
+	rom ( name LABYBASE.PAL size 1154 crc ff95da91 md5 5d20c156c9a19026970f85d8d6ddb2c7 )
+	rom ( name POLDAT.DAT size 512 crc 73a97941 md5 f2b555e6826945993b481e7dfc59b99a )
+	rom ( name PROCS1 size 13600 crc 8f78dc1b md5 9584d8df6513d74424cf77a749924a6a )
+	rom ( name PROCS2 size 36198 crc 19a64cc3 md5 259400b7d4a317aff2eebb2313320b60 )
+	rom ( name PROCS3 size 11276 crc ef12c61a md5 b0b896672fd3b0eb59ca7f8793ab2adf )
+	rom ( name PROCS4 size 60742 crc 63984012 md5 a7ae3faefb69d5ca9506a1a4eb6085dd )
+	rom ( name PROCS5 size 43180 crc ce8b95e0 md5 813672749c2325b3640361e5a78167e9 )
+	rom ( name PROCS6 size 30610 crc a752189a md5 4191dba4709e7e5dd254c00a042ab9a4 )
+	rom ( name SD01A size 96810 crc ea0d3b8f md5 44796e744ff3ef160aae06a241a20e89 )
+	rom ( name SD01A.PAL size 1994 crc 146f1462 md5 d697eee25457a94c4428ee2d34372a3f )
+	rom ( name SD01B size 299886 crc 5e9f1ad8 md5 7c194ffc0b919cf25797ee0f407e62a0 )
+	rom ( name SD01B.PAL size 4330 crc 84c6b3c5 md5 d170caa63aa63f03cb851ee56173e7e9 )
+	rom ( name SD01C size 66048 crc fed5dc85 md5 ebc9bdab58a0b94d244677b235126a5e )
+	rom ( name SD01C.PAL size 536 crc 3db4d0bc md5 36d6385a35b95231144965f4bec3f863 )
+	rom ( name SD01D size 51574 crc da63f093 md5 231be7286b6b366d9cf707dc5e73b286 )
+	rom ( name SD01D.PAL size 882 crc 4a60d3bf md5 c6d162b6b0ba2104c7f2e28f81a2043a )
+	rom ( name SD021 size 261002 crc aecfa00b md5 afdc5416dcd3c9d28291a5b905e027e5 )
+	rom ( name SD021.PAL size 7502 crc a7561bbc md5 d48a9d98fc5f91bf59d642ffa3419651 )
+	rom ( name SD022 size 282122 crc c8863888 md5 e6f3f4f78b5765b849d13a50d36757c4 )
+	rom ( name SD022.PAL size 13232 crc 0cdbb9e7 md5 9bb814ca319a92230e1d471ad32abc17 )
+	rom ( name SD03 size 207946 crc 854ed4e5 md5 be654a78b34cba3462439112ad0b6750 )
+	rom ( name SD03.PAL size 4150 crc 4122f83a md5 75b2905b71a6eba31a5f140085de72fc )
+	rom ( name SDS1 size 28406 crc 503bed59 md5 d114272cfba2a55c6337cc8bb4ebc186 )
+	rom ( name SDS2 size 28100 crc 3a23fdce md5 6683470c78bb5e28ea068ce97ad017d9 )
+	rom ( name SDS3 size 30414 crc dea1cc7c md5 d3551a60a01ab8f56c33a0a319a63480 )
+	rom ( name SDS4 size 33119 crc 9a846d99 md5 eede8f5c1352c3ba6a15da08fc902461 )
+	rom ( name SDS5 size 25446 crc aabdfc0f md5 9467b344d7a8ebb629ba23c33896f614 )
+	rom ( name SDS6 size 30958 crc 6fafa23f md5 fb3a40355eaa0e8900f972d7cdb3f24e )
+	rom ( name SINTRO2 size 212020 crc 765f60e9 md5 c4244a722f4740ff4796371b39758afc )
+	rom ( name SINTRO2.PAL size 4292 crc 4c8ffdb4 md5 723008c72a7d3919c4177f05a1b38438 )
+	rom ( name TEXTE.DAT size 5764 crc c55fab4f md5 3e6f5ff8cbf53d75457965c0dda2da4b )
+	rom ( name VOL.1 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.2 size 63 crc 0ba95202 md5 ade43eadfdcfb35ffeda74aacc80cdfd )
+	rom ( name VOL.3 size 49 crc 497942ea md5 3bb7e896c868239323550a4cd586b099 )
+	rom ( name VOL.4 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.5 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.6 size 39 crc ae30e730 md5 0d0d98f0df1235888d393cc1ab2c8391 )
+	rom ( name VOL.CNF size 7880 crc ba2d9284 md5 d2f3ab953f4518faa386f5bd0c9f465d )
+	rom ( name VOL.END size 1 crc f9b6b51f md5 6bc1af258475ec126d1be66e6bee873a )
+)
+

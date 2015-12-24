@@ -1,0 +1,229 @@
+clrmamepro (
+	name "ScummVM QUEEN"
+	description "ScummVM - QUEEN Engine Games"
+	category "ScummVM"
+	version v1.00
+	date 2015-10-28
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name queen
+	description "Flight of the Amazon Queen (Talkie/DOS)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 190787021 crc 1de401e7 md5 258c0729d0d6701ab6f342531247740c )
+)
+
+game (
+	name queen-1
+	description "Flight of the Amazon Queen (Talkie/DOS)[Compressed Freeware v1.0]"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1C size 54108887 crc aa61d0f1 md5 6083b699428dd14eba0967a21335694b )
+)
+
+game (
+	name queen-2
+	description "Flight of the Amazon Queen (Talkie/DOS)[Compressed Freeware v1.1]"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1C size 51222412 crc 681e1333 md5 945d2ffd74fbedcb45f84abac10ddd71 )
+)
+
+game (
+	name queen-3
+	description "Flight of the Amazon Queen (Floppy/DOS)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 22677657 crc 2038cd82 md5 6cb3e3c653ea9848b6cc49c66a340bca )
+)
+
+game (
+	name queen-amiga
+	description "Flight of the Amazon Queen (Floppy/Amiga)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 351775 crc ce0584a8 md5 6d56947b95a701a731e1c111ff947df5 )
+	rom ( name QUEEN.10 size 822900 crc 966f7936 md5 b7d56f732cbd60dde78dae5102cf4d1d )
+	rom ( name QUEEN.11 size 825735 crc b27d0a0f md5 ef9f671a3cc25b85903494949981b57c )
+	rom ( name QUEEN.2 size 773977 crc 5629b8be md5 d65f3bce397279bf4d18fddbb0d0befb )
+	rom ( name QUEEN.3 size 758861 crc 24c0ff5d md5 08056fe201c38bbe91422f756765928c )
+	rom ( name QUEEN.4 size 832252 crc 1b53fae7 md5 1a72262701b0f2ab8e52a8b63c7a8e6f )
+	rom ( name QUEEN.5 size 816541 crc 80e2e51e md5 9fb878cfca03ea5e32ab82983fd80b96 )
+	rom ( name QUEEN.6 size 757207 crc 5c593205 md5 5b6786065ea63b523f07433c8d509087 )
+	rom ( name QUEEN.7 size 757817 crc 1803596f md5 897213dd1d3846473025b85db514754b )
+	rom ( name QUEEN.8 size 825568 crc 072ddfe7 md5 3d4c4193501c03de2248fdc4c51d9beb )
+	rom ( name QUEEN.9 size 749436 crc fd8241da md5 be480f2dc2db29e8e1d47fcfab2405a3 )
+)
+
+game (
+	name queen-de
+	description "Flight of the Amazon Queen (Talkie/DOS/German)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 217648975 crc 61904719 md5 a67f5e81ec2a6b28ec20223205c786d7 )
+)
+
+game (
+	name queen-de-1
+	description "Flight of the Amazon Queen (Floppy/DOS/German)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 22240013 crc 5beaea01 md5 065cbb3a5d9e63c7f9186c82f86867be )
+)
+
+game (
+	name queen-de-2
+	description "Flight of the Amazon Queen (Talkie/DOS/German)[Compressed Freeware v1.0]"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1C size 108738717 crc 767004ae md5 c2623f92b0c6b525a02356057bab0777 )
+)
+
+game (
+	name queen-demo
+	description "Flight of the Amazon Queen (Interview/DOS)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 1915913 crc d72dcd56 md5 169b605598fd06d3a8c5b13b5c86d7f2 )
+)
+
+game (
+	name queen-demo-1
+	description "Flight of the Amazon Queen (Demo/PCGames/DOS)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 3724538 crc a3ff88d3 md5 96eec0a5d1cb3d1ce35bf77a4d060bd4 )
+)
+
+game (
+	name queen-demo-2
+	description "Flight of the Amazon Queen (Demo/DOS)[a]"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 3735447 crc f42a6561 md5 4f73732e52e91c193fd2fc7b94763042 )
+)
+
+game (
+	name queen-demo-3
+	description "Flight of the Amazon Queen (Demo/DOS)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 3732177 crc d168bde3 md5 f08a7ff27343fb7e40ea1a3b320e3c99 )
+)
+
+game (
+	name queen-demo-amiga
+	description "Flight of the Amazon Queen (Interview/Amiga)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 597032 crc fc7b52f9 md5 8ccfd33d82f699bb0460544f2972f7af )
+)
+
+game (
+	name queen-demo-amiga-1
+	description "Flight of the Amazon Queen (Demo/Amiga)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 563335 crc 9165eadc md5 492645a7be3c48fb3fddbe3f90a3c1d5 )
+	rom ( name QUEEN.2 size 759156 crc ca4fc7b2 md5 9def9f2baa36f0c5cac116a90f3d93d7 )
+)
+
+game (
+	name queen-es
+	description "Flight of the Amazon Queen (Talkie/DOS/Spanish)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 190730602 crc b9ab432a md5 762af5ecbb85defc5108b7207f0d055e )
+)
+
+game (
+	name queen-fr
+	description "Flight of the Amazon Queen (Talkie/DOS/French)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 186689095 crc 0ab6d0ea md5 bd387ce20277350c566c0cced25afb4c )
+)
+
+game (
+	name queen-fr-1
+	description "Flight of the Amazon Queen (Talkie/DOS/French)[Compressed Freeware v1.0]"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1C size 97382620 crc c01bc85f md5 09c64d17513706cacff02f10b99256c7 )
+)
+
+game (
+	name queen-he
+	description "Flight of the Amazon Queen (Talkie/DOS/Hebrew)[Compressed Freeware v1.0]"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1C size 99391805 crc 7d277448 md5 8419610f724d7a6e5d62eeba297ba0bc )
+)
+
+game (
+	name queen-hu
+	description "Flight of the Amazon Queen (Talkie/DOS/Hungarian)[Compressed Freeware v1.02]"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1C size 51329031 crc 05929065 md5 668b175a20751e3a14ac3447fe428beb )
+)
+
+game (
+	name queen-it
+	description "Flight of the Amazon Queen (Talkie/DOS/Italian)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 190795582 crc caa4791d md5 a9395b1858e0abed120a13fc64e9c01e )
+)
+
+game (
+	name queen-it-1
+	description "Flight of the Amazon Queen (Floppy/DOS/Italian)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 22461366 crc f2e7c273 md5 0ea3ca20fb190a062db9e713dd03b42b )
+)
+
+game (
+	name queen-it-2
+	description "Flight of the Amazon Queen (Talkie/DOS/Italian)[Compressed Freeware v1.0]"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1C size 98327801 crc 2b5378f6 md5 e8b06af43f6eb3bcfbf2a0d0f40eff46 )
+)
+
+game (
+	name queen-ru
+	description "Flight of the Amazon Queen (Floppy/DOS/Russian)"
+	year 1995
+	manufacturer "Interactive Binary Illusions"
+	sourcefile queen
+	rom ( name QUEEN.1 size 22677657 crc 3c266e5f md5 0d1c10d5c3a1bd90bc0b3859a3258093 )
+)
+

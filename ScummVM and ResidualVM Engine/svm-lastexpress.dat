@@ -1,0 +1,104 @@
+clrmamepro (
+	name "ScummVM LASTEXPRESS"
+	description "ScummVM - LASTEXPRESS Engine Games"
+	category "ScummVM"
+	version v1.02
+	date 2015-10-21
+	author "Gruby"
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name lastexpress
+	description "Last Express, The (US/Broderbund)[!]"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	rom ( name CD1.HPF size 525522944 crc abd86705 md5 d70d8a5eb03de64f6b62acb4abf4411b )
+	rom ( name CD2.HPF size 669581312 crc 53cd5b5b md5 c648872b31e43d458680cf16bedc636c )
+	rom ( name CD3.HPF size 641128448 crc 3d2b93d0 md5 8cb3e68a6dca354e556c487ea24a6b10 )
+	rom ( name HD.HPF size 29865984 crc 8d336652 md5 89e8310cf5edfa5239705ec3fb8cde9c )
+)
+
+game (
+	name lastexpress-1
+	description "Last Express, The (UK/Interplay)"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	rom ( name CD1.HPF size 525522944 crc 9fda61d1 md5 cec8810125b050f41b7f34ab72371f81 )
+	rom ( name CD2.HPF size 669581312 crc 53cd5b5b md5 c648872b31e43d458680cf16bedc636c )
+	rom ( name CD3.HPF size 641128448 crc 3d2b93d0 md5 8cb3e68a6dca354e556c487ea24a6b10 )
+	rom ( name HD.HPF size 30715904 crc 64509abe md5 ab940d5815008b176502f759ae753fb7 )
+)
+
+game (
+	name lastexpress-de
+	description "Last Express, The (German)"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	rom ( name CD1.HPF size 522971136 crc 4402772b md5 f5e5cb1f50b431e3203cc9977d87c8cd )
+	rom ( name CD2.HPF size 655702016 crc dd99d954 md5 977cd41d5ab707fd4d24cd1377c7f9d7 )
+	rom ( name CD3.HPF size 641144832 crc bdd25ae4 md5 2a93d3dd4a53964b5d3b4c726016d977 )
+	rom ( name HD.HPF size 31301632 crc 1f70eff8 md5 21c6821ef7fcbf0739bca233a47e4636 )
+)
+
+game (
+	name lastexpress-demo
+	description "Last Express, The (Demo)"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	rom ( name BLUE.EGG size 0 crc - )
+	rom ( name Demo.hpf size 58191872 crc e48747cb md5 bda43707d788a92de3f2084ab4ceea6d )
+)
+
+game (
+	name lastexpress-es
+	description "Last Express, The (Spanish)"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	rom ( name CD1.HPF size 519927808 crc 77dbc901 md5 b2e6f407b851dbe28337fd41c81ed50e )
+	rom ( name CD2.HPF size 662210560 crc 25bf04ad md5 aa108c2f6053ede4042c07d3392a3a2a )
+	rom ( name CD3.HPF size 639504384 crc 52806a46 md5 555356f4604d3beb3af204af937f800d )
+	rom ( name HD.HPF size 29657088 crc 1caa646b md5 2b24db8f6b017dd192dfbc96583a91e4 )
+)
+
+game (
+	name lastexpress-fr
+	description "Last Express, The (French)"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	rom ( name CD1.HPF size 522924032 crc 879240cb md5 95634495ec30a2f0e2b3de907a081ec9 )
+	rom ( name CD2.HPF size 665710592 crc 163f3eb8 md5 d2cf4a0aadf298267feb1d539caa5834 )
+	rom ( name CD3.HPF size 640884736 crc 1350eb60 md5 eab25c571a47d47a96a6023d2d5143c3 )
+	rom ( name HD.HPF size 29505536 crc c00efd8a md5 7ad4691cd87f28de54a82080766e8010 )
+)
+
+game (
+	name lastexpress-it
+	description "Last Express, The (Italian)"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	rom ( name CD1.HPF size 522328064 crc 5d4af08d md5 4e8daaf75a34683532a962b7a9c68f39 )
+	rom ( name CD2.HPF size 665411584 crc ae5e6282 md5 9eafad16a28d634475fca4e77d11b092 )
+	rom ( name CD3.HPF size 637718528 crc 73b168f0 md5 74061c4bcdbfaf3fdd28c1ebdaf9d70b )
+	rom ( name HD.HPF size 29562880 crc eb615034 md5 fc6f32b5e9efa2abe9071c9463511f25 )
+)
+
+game (
+	name lastexpress-ru
+	description "Last Express, The (Russian)"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	rom ( name CD1.HPF size 525805568 crc 0b775991 md5 03fd1ec4eb1daa5d84fc1a96446a1c0b )
+	rom ( name CD2.HPF size 677289984 crc 3559b1af md5 a4a3f0eede718979316e2b87e3221e06 )
+	rom ( name CD3.HPF size 642584576 crc fdc7b502 md5 e8e8370db44650d45a5e78ea3156475a )
+	rom ( name HD.HPF size 29908992 crc 2c24d1d3 md5 ad55e7fa056eedfa6c11085c46793de8 )
+)

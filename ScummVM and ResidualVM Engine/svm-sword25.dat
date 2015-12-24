@@ -1,0 +1,123 @@
+clrmamepro (
+	name "ScummVM SWORD25"
+	description "ScummVM - SWORD25 Engine Games"
+	category "ScummVM"
+	version v1.00
+	date 2015-11-19
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name sword25-de
+	description "Broken Sword 2.5 (German)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	rom ( name data.b25c size 654310588 crc eda6196f md5 631b5bc5a7c994cf74a342f681f22f8d )
+	rom ( name dbghelp.dll size 1038848 crc e2dcdfdc md5 148423fdbc7f0b07d8d166414c95b8ab )
+	rom ( name fmodex.dll size 354304 crc 9f1c8b97 md5 fa53b3a91af2bad036056fe38c0c2b14 )
+	rom ( name packages.lua size 452 crc a7d05deb md5 9ab182967dc66568ee7be7e8351fb285 )
+	rom ( name patch000.b25c size 204672 crc 0f20fbff md5 206f0cfed66ec81f3155ede7470bcc86 )
+)
+
+game (
+	name sword25
+	description "Broken Sword 2.5 (English)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	cloneof sword25-de
+	romof sword25-de
+	rom ( name lang_en.b25c size 170856736 crc d659b8e0 md5 f603644ab24a54bbea0ca86484adf42f )
+)
+
+game (
+	name sword25-br
+	description "Broken Sword 2.5 (Portuguese)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	cloneof sword25-de
+	romof sword25-de
+	rom ( name lang_pt.b25c size 993812 crc 9806539c md5 6b04cbba243329d02252aca294d89aaf )
+)
+
+game (
+	name sword25-es
+	description "Broken Sword 2.5 (Spanish)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	cloneof sword25-de
+	romof sword25-de
+	rom ( name lang_es.b25c size 987965 crc 15d8b938 md5 2ee44a258b1e8cc882bd712633625908 )
+)
+
+game (
+	name sword25-fr
+	description "Broken Sword 2.5 (French)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	cloneof sword25-de
+	romof sword25-de
+	rom ( name lang_fr.b25c size 1006043 crc 47275cb6 md5 94892fe8c58c39bd89502ca3e9f71f0a )
+)
+
+game (
+	name sword25-hr
+	description "Broken Sword 2.5 (Croatian)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	cloneof sword25-de
+	romof sword25-de
+	rom ( name lang_hr.b25c size 1273217 crc c56a8f16 md5 5720ef33039ed8d2ed3c9b66a056c217 )
+)
+
+game (
+	name sword25-hu
+	description "Broken Sword 2.5 (psylog version/Hungarian)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	cloneof sword25-de
+	romof sword25-de
+	rom ( name lang_hu.b25c size 1864915 crc 494ec580 md5 dff41ac057c44a8cd28ea59be9f4c511 )
+)
+
+game (
+	name sword25-it
+	description "Broken Sword 2.5 (Italian)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	cloneof sword25-de
+	romof sword25-de
+	rom ( name lang_it.b25c size 996197 crc d101f416 md5 8582d73e046265da447af52890d11cd0 )
+)
+
+game (
+	name sword25-pl
+	description "Broken Sword 2.5 (Polish)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	cloneof sword25-de
+	romof sword25-de
+	rom ( name lang_pl.b25c size 1281799 crc 9e21baf9 md5 300accadf2ba1953943aa80ee5780c27 )
+)
+
+game (
+	name sword25-ru
+	description "Broken Sword 2.5 (Russian)"
+	year 2008
+	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	sourcefile sword25
+	cloneof sword25-de
+	romof sword25-de
+	rom ( name lang_ru.b25c size 1235378 crc 65b09953 md5 288e1455b9e6083b394c8928b3c4bd0b )
+)
+

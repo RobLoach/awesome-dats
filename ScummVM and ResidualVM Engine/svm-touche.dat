@@ -1,0 +1,102 @@
+clrmamepro (
+	name "ScummVM TOUCHE"
+	description "ScummVM - TOUCHE Engine Games"
+	category "ScummVM"
+	version v1.00
+	date 2015-11-14
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name touche
+	description "Touche: The Adventures of the 5th Musketeer (DOS)"
+	year 1995
+	manufacturer "Clipper Software"
+	sourcefile touche
+	romof toa
+	rom ( name TOUCHE.DAT size 26350211 crc be2d2a8e md5 6de2714bef18056f93fcf6e160be8a66 )
+)
+
+game (
+	name touche-de
+	description "Touche: The Adventures of the 5th Musketeer (DOS/German)"
+	year 1995
+	manufacturer "Clipper Software"
+	sourcefile touche
+	romof toa
+	rom ( name TOUCHE.DAT size 26625537 crc e656312e md5 e298e884b86be4f54d605d5972c41831 )
+)
+
+game (
+	name touche-demo
+	description "Touche: The Adventures of the 5th Musketeer (Demo/DOS)"
+	year 1995
+	manufacturer "Clipper Software"
+	sourcefile touche
+	rom ( name OBJ size 5503572 crc 7115ceff md5 d3c81cb2f8f7eb4a4852f30264bde7ec )
+	rom ( name TOUCHE.DAT size 8720683 crc dac9586c md5 72647480e8c11aa81cf3add5209cdcff )
+	rom ( name TOUCHE.SOG size 22584480 crc 6c6ad7b6 md5 6c260f35e063d814d8f93b670db3fe73 )
+)
+
+game (
+	name touche-es
+	description "Touche: The Adventures of the 5th Musketeer (DOS/Spanish)"
+	year 1995
+	manufacturer "Clipper Software"
+	sourcefile touche
+	romof toa
+	rom ( name TOUCHE.DAT size 26529523 crc e39f7654 md5 39e9d914996324e7662720b4d5fa4816 )
+)
+
+game (
+	name touche-fr
+	description "Touche: The Adventures of the 5th Musketeer (DOS/French)"
+	year 1995
+	manufacturer "Clipper Software"
+	sourcefile touche
+	romof toa
+	rom ( name TOUCHE.DAT size 26558232 crc 62180ba3 md5 dabc88d12a7468e1e72185570efdac34 )
+)
+
+game (
+	name touche-hu
+	description "Touche: The Adventures of the 5th Musketeer (DOS/Hungarian)"
+	year 1995
+	manufacturer "Clipper Software"
+	sourcefile touche
+	romof toa
+	rom ( name TOUCHE.DAT size 26475596 crc b9892561 md5 45631f52de3406c5204e1e3a5d92d50d )
+)
+
+game (
+	name touche-it
+	description "Touche: The Adventures of the 5th Musketeer (DOS/Italian)"
+	year 1995
+	manufacturer "Clipper Software"
+	sourcefile touche
+	romof toa
+	rom ( name TOUCHE.DAT size 26367792 crc db6344e1 md5 14fd5d73a5a26bde1897bc3529186431 )
+)
+
+game (
+	name touche-pl
+	description "Touche: The Adventures of the Fifth Musketeer (DOS/Polish)"
+	year 1995
+	manufacturer "Clipper Software"
+	sourcefile touche
+	romof toa
+	rom ( name TOUCHE.DAT size 26487370 crc 642fddb7 md5 a00f9c039a6e8d6b069955b4b2119f2f )
+)
+
+resource (
+	name toa
+	description "ZZZ - Touche: The Adventures of the 5th Musketeer Resources"
+	year 1995
+	manufacturer "Clipper Software"
+	sourcefile touche
+	rom ( name OBJ size 5503572 crc 7115ceff md5 d3c81cb2f8f7eb4a4852f30264bde7ec )
+	rom ( name TOUCHE.SOG size 122208757 crc eb8291c9 md5 dfa8095faa8f43c0b923672c157c51f0 )
+)
+

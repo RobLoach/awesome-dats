@@ -1,0 +1,121 @@
+clrmamepro (
+	name "ScummVM TEENAGENT"
+	description "ScummVM - TEENAGENT Engine Games"
+	category "ScummVM"
+	version v1.00
+	date 2015-11-13
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name teenagent
+	description "Teen Agent (DOS)"
+	year 1994
+	manufacturer "Metropolis"
+	sourcefile teenagent
+	rom ( name LAN_000.RES size 535599 crc f84ad35d md5 2b376797af05a8a021a82d3d5abf96d4 )
+	rom ( name LAN_500.RES size 9538457 crc af2dde47 md5 0a1f0114b8f3450ccf5d908f0a5d78ec )
+	rom ( name MMM.RES size 42104 crc 49d08468 md5 fc491322ff6c91232e719b06ac9c1cae )
+	rom ( name OFF.RES size 2720432 crc 021a470a md5 f91d019934d78905d2acbc88fa56b1cf )
+	rom ( name ON.RES size 153907 crc 86f9df71 md5 c9207f1e31cb2a12be26d9598412294c )
+	rom ( name ONS.RES size 173077 crc dceb0f72 md5 98cdf12d28297401381815d9725852fa )
+	rom ( name SAM_MMM.RES size 229636 crc 74e8dc3a md5 d1bc477bd0f00e77d4d8d9495d644472 )
+	rom ( name SAM_SAM.RES size 769552 crc 10d9958d md5 76bf553afba9272457e759c6bab030e7 )
+	rom ( name SDR.RES size 14672 crc 480beade md5 9004e976cb985af30681454cbe7dbce7 )
+	rom ( name TEENAGNT.EXE size 152690 crc 0afe067a md5 51b6d64721f7c4b498bfc0f323013e36 )
+	rom ( name VARIA.RES size 209315 crc 58e290af md5 9d9d6efb2dfc56c1286d5d933e1e05a2 )
+)
+
+game (
+	name teenagent-1
+	description "Teen Agent (DOS/v1.0)[GOG][!]"
+	year 1994
+	manufacturer "Metropolis"
+	sourcefile teenagent
+	rom ( name ADVERT.RES size 712500 crc 22631ba4 md5 a5b2dda315ea82748201bdfe1892469a )
+	rom ( name LAN_000.RES size 535599 crc f84ad35d md5 2b376797af05a8a021a82d3d5abf96d4 )
+	rom ( name LAN_500.RES size 9538457 crc af2dde47 md5 0a1f0114b8f3450ccf5d908f0a5d78ec )
+	rom ( name MMM.RES size 42104 crc 49d08468 md5 fc491322ff6c91232e719b06ac9c1cae )
+	rom ( name OFF.RES size 2720432 crc 021a470a md5 f91d019934d78905d2acbc88fa56b1cf )
+	rom ( name ON.RES size 153907 crc 86f9df71 md5 c9207f1e31cb2a12be26d9598412294c )
+	rom ( name ONS.RES size 173077 crc dceb0f72 md5 98cdf12d28297401381815d9725852fa )
+	rom ( name SAM_MMM.RES size 229636 crc 74e8dc3a md5 d1bc477bd0f00e77d4d8d9495d644472 )
+	rom ( name SAM_SAM.RES size 769552 crc 10d9958d md5 76bf553afba9272457e759c6bab030e7 )
+	rom ( name SDR.RES size 14665 crc 3094faa5 md5 45a12561f17fe0143f52201fdfcf1d02 )
+	rom ( name TEENAGNT.EXE size 78426 crc 6b445744 md5 4f279c4b343ff2fb89f33c36be50f83e )
+	rom ( name UNLOGIC.RES size 202880 crc 45c6260e md5 ac505f7117d577140e3ae14f19a32f1c )
+	rom ( name VARIA.RES size 216683 crc 762d1751 md5 554699904d1469b32d11ae731003f8fc )
+)
+
+game (
+	name teenagent-cd-cz
+	description "Teen Agent (CD/DOS/Czech)"
+	year 1994
+	manufacturer "Metropolis"
+	sourcefile teenagent
+	rom ( name CDLOGO.RES size 64768 crc 43964e52 md5 f3053aa4674b698ec71628f139ea59e7 )
+	rom ( name LAN_000.RES size 535599 crc f84ad35d md5 2b376797af05a8a021a82d3d5abf96d4 )
+	rom ( name LAN_500.RES size 9538457 crc af2dde47 md5 0a1f0114b8f3450ccf5d908f0a5d78ec )
+	rom ( name OFF.RES size 2720432 crc 727e7893 md5 be77dea40567374631e56aa272710354 )
+	rom ( name ON.RES size 153907 crc 86f9df71 md5 c9207f1e31cb2a12be26d9598412294c )
+	rom ( name ONS.RES size 173077 crc dceb0f72 md5 98cdf12d28297401381815d9725852fa )
+	rom ( name SAM_SAM.RES size 769552 crc 10d9958d md5 76bf553afba9272457e759c6bab030e7 )
+	rom ( name SDR.RES size 14993 crc ac0717d3 md5 7790e44e195799102f10991615d76870 )
+	rom ( name TEENAGNT.EXE size 87516 crc dd88accb md5 18ee2501aaede229748ae7c60ee25f1b )
+	rom ( name Track1.ogg size 5453288 crc 181fa391 md5 f5fb703c08a491c1b893fdd50a6b65d5 )
+	rom ( name Track10.ogg size 4239175 crc 83d800c8 md5 0332e7e383f751d71548bb826aa23d69 )
+	rom ( name Track2.ogg size 3687697 crc 430cec61 md5 72262af78399a11fbe8f7efd63c50bb7 )
+	rom ( name Track3.ogg size 7744782 crc 5492a52a md5 8e8ba0a9a94fec5fc56f10c79e899088 )
+	rom ( name Track4.ogg size 8057286 crc 4be2aa5e md5 374de10577b25482f15a961f431ba207 )
+	rom ( name Track5.ogg size 10656004 crc 550f6816 md5 2db828c753f772bf9d034df4548d41e0 )
+	rom ( name Track6.ogg size 6537750 crc 847a51f3 md5 16beaf63d5138b165875ba5b6e5669fe )
+	rom ( name Track7.ogg size 2988417 crc fe62f791 md5 e527201782413cca07b8f9a89c4342bf )
+	rom ( name Track8.ogg size 9559806 crc 3d0c2822 md5 626b6286959955ea3cce5deef2158e25 )
+	rom ( name Track9.ogg size 4719938 crc 55592048 md5 4a1026de2a8547103ca975f519b948db )
+	rom ( name VARIA.RES size 216683 crc 762d1751 md5 554699904d1469b32d11ae731003f8fc )
+	rom ( name VOICES.RES size 37306128 crc 1abbf1a4 md5 6d4cee77cefdfdfe42c79209eaf0b392 )
+)
+
+game (
+	name teenagent-demo
+	description "Teen Agent (Wiztech Demo/DOS)"
+	year 1994
+	manufacturer "Metropolis"
+	sourcefile teenagent
+	rom ( name ADVERT.RES size 712500 crc 22631ba4 md5 a5b2dda315ea82748201bdfe1892469a )
+	rom ( name DISTAPP.FRM size 3301 crc e2ba182d md5 8267ad72e4e4670a4498ed2999d4f550 )
+	rom ( name LAN_000.RES size 91729 crc 1f25acbf md5 89b3ab66d8be79f303d9d0eabf709921 )
+	rom ( name LAN_500.RES size 2109796 crc 87d44718 md5 83109bd6d4a1a117ef0f27894ee25bc1 )
+	rom ( name MMM.RES size 27073 crc b1b9da0a md5 d395c27eb4f4fe23cce8bdaf15ce7a5f )
+	rom ( name OFF.RES size 906956 crc b6ffcf84 md5 3f407252b6d10537c21499e19686d6b7 )
+	rom ( name ON.RES size 37654 crc cc466ee9 md5 220e2b2af884affddf4e0898eb90f37f )
+	rom ( name ONS.RES size 50596 crc ea6bbb6f md5 b6369a2d5a33a70b6f644f2d6e66ddd7 )
+	rom ( name SAM_MMM.RES size 148783 crc b1d1f773 md5 e44d3151c1f662f9958b73c40b1d28f4 )
+	rom ( name SAM_SAM.RES size 342219 crc 76746e11 md5 378e25a2dc8cfec1d5a73fb039c497d1 )
+	rom ( name SDR.RES size 14672 crc 5b1211c7 md5 2d2b54a06be89b7497261acec1502b05 )
+	rom ( name TEENAGNT.EXE size 65242 crc 2ca03827 md5 5370c5ac6344229f55a034d7c277049c )
+	rom ( name UNLOGIC.RES size 202880 crc 45c6260e md5 ac505f7117d577140e3ae14f19a32f1c )
+	rom ( name VARIA.RES size 216683 crc 762d1751 md5 554699904d1469b32d11ae731003f8fc )
+)
+
+game (
+	name teenagent-demo-1
+	description "Teen Agent (Union Demo/DOS)"
+	year 1994
+	manufacturer "Metropolis"
+	sourcefile teenagent
+	rom ( name LAN_000.RES size 91729 crc 1f25acbf md5 89b3ab66d8be79f303d9d0eabf709921 )
+	rom ( name LAN_500.RES size 2109796 crc 87d44718 md5 83109bd6d4a1a117ef0f27894ee25bc1 )
+	rom ( name MMM.RES size 27073 crc b1b9da0a md5 d395c27eb4f4fe23cce8bdaf15ce7a5f )
+	rom ( name OFF.RES size 906956 crc b6ffcf84 md5 3f407252b6d10537c21499e19686d6b7 )
+	rom ( name ON.RES size 37654 crc cc466ee9 md5 220e2b2af884affddf4e0898eb90f37f )
+	rom ( name ONS.RES size 50596 crc ea6bbb6f md5 b6369a2d5a33a70b6f644f2d6e66ddd7 )
+	rom ( name SAM_MMM.RES size 148783 crc b1d1f773 md5 e44d3151c1f662f9958b73c40b1d28f4 )
+	rom ( name SAM_SAM.RES size 342219 crc 76746e11 md5 378e25a2dc8cfec1d5a73fb039c497d1 )
+	rom ( name SDR.RES size 14672 crc 5b1211c7 md5 2d2b54a06be89b7497261acec1502b05 )
+	rom ( name TEENAGNT.EXE size 65004 crc 42d65dd4 md5 0650e5fd199d4463ef2098a545ae06d0 )
+	rom ( name VARIA.RES size 217003 crc 23c01358 md5 816d6079661054b8e3fee028f25e4126 )
+)
+

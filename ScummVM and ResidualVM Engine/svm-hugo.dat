@@ -1,0 +1,152 @@
+clrmamepro (
+	name "ScummVM HUGO"
+	description "ScummVM - HUGO Engine Games"
+	category "ScummVM"
+	version v1.00
+	date 2015-10-23
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name hugo1
+	description "Hugo 1: Hugo's House of Horrors (DOS)"
+	year 1990
+	manufacturer "Gray Design Associates"
+	sourcefile hugo
+	rom ( name ARC.PIX size 582 crc b132b6b9 md5 699b1784944e644bdb747e2d3ceb71b9 )
+	rom ( name ARM.PIX size 581 crc 018d49eb md5 f3afc4aa8808c765aea6b0042160af84 )
+	rom ( name BASEMENT.ART size 16471 crc 1bb2c5d1 md5 6a6cb4602d5dbf7ce4eee8fa79000bb9 )
+	rom ( name BASEMENT.B size 8000 crc c21180fe md5 5d1cb2470cbedb952a6162d7f230e91b )
+	rom ( name BASEMENT.O size 8000 crc 91a0f1c5 md5 59021e2ae79227c3b91c80180c2a0734 )
+	rom ( name BASEMENT.OB size 8000 crc 6cc41a76 md5 973b3e7ec5ecca15f855dbd5dcbc0c30 )
+	rom ( name BAT.PIX size 219 crc bbf93ede md5 40cf4090ef2e1a7ea13a13fb2d1abfe9 )
+	rom ( name BATCAVE.ART size 9420 crc 66e35e3e md5 c93f0ac3b24c3206a56786fff850541c )
+	rom ( name BATCAVE.B size 8000 crc bb02caf8 md5 c52edfe3b9af70990891054ed544fb6e )
+	rom ( name BATCAVE.O size 8000 crc fcf1957c md5 99de1201be589e9dabc2284c74dbe9ba )
+	rom ( name BATCAVE.OB size 8000 crc 85adadba md5 e889cdf6eb6a24b27a02678f61610653 )
+	rom ( name BATHROOM.ART size 10359 crc d7b74d7b md5 64456672de0a6000974eba99e9e33310 )
+	rom ( name BATHROOM.B size 8000 crc b67c0f24 md5 9fc4177aa31a3dd28a32afe1a6fe2adc )
+	rom ( name BATHROOM.O size 8000 crc a14d17c3 md5 b55b9550883ff45f723d9bd3a73588d2 )
+	rom ( name BATHROOM.OB size 8000 crc 5d6d33d2 md5 269d43447530564f3460890abebb7ee1 )
+	rom ( name BED1.ART size 5556 crc df5608f8 md5 79784d0215aae2f95651f3db194fc39f )
+	rom ( name BED1.B size 8000 crc 94fd29eb md5 35b2c5efdaff089ba8c0c3297daa7c2a )
+	rom ( name BED1.O size 8000 crc 44acd9d2 md5 1554c9932c33d8f023b59f2c94896e50 )
+	rom ( name BED1.OB size 8000 crc e5b396d4 md5 90321d3356532836ec28a35cf92b1327 )
+	rom ( name BOAT.PIX size 1396 crc 0edec7f8 md5 13af5cbb22f32501a47a02bfdfc7b3cc )
+	rom ( name BUNG.PIX size 160 crc 8780ba35 md5 61b40f966d0cd7b34261ad233471242f )
+	rom ( name BUTLER.PIX size 7610 crc fb242447 md5 c8bcd75092cba8ace1df943dc101e92c )
+	rom ( name CANDLE.PIX size 753 crc 4367b072 md5 09dac9ac1e5dcfab12e95387f620ae3b )
+	rom ( name CARPET.PIX size 644 crc 535c3b72 md5 a2a91c8c0b24ebfcbf48881e333a3969 )
+	rom ( name CHOP.PIX size 282 crc f071e969 md5 c5657c6ec4d572be931d05ccbc17e519 )
+	rom ( name DEADEND.ART size 10701 crc ec5b4c19 md5 a18ecbdf19ea8cdc05cdc149fdc64edc )
+	rom ( name DEADEND.B size 8000 crc b3950645 md5 5e30b3bda5e8fc42a77d4509fc33f024 )
+	rom ( name DEADEND.O size 8000 crc 87202bd0 md5 7c78387d991d0f2932a61818bff354b7 )
+	rom ( name DEADEND.OB size 8000 crc 4b534fb4 md5 b9944028285fa2b137af620dc165c700 )
+	rom ( name DININGRM.ART size 11643 crc f2b59157 md5 b8d94a44bef4fa3931a123a8d9bf326d )
+	rom ( name DININGRM.B size 8000 crc 0b5202b5 md5 f2973b52c1bae585886019c2ee0c8afe )
+	rom ( name DININGRM.O size 8000 crc 99878076 md5 0e68f1d719c88ecece3e14e8b369d6b2 )
+	rom ( name DININGRM.OB size 8000 crc 0af483c9 md5 ffeca7b3ffa9970b82a8edea1891a358 )
+	rom ( name DOG.PIX size 6760 crc 32b44d32 md5 5f8043ac0a8a0a454c3a7399337bc0b7 )
+	rom ( name DOOR.PIX size 2185 crc 44cc491e md5 c89628cc59d88b853483813183b16250 )
+	rom ( name EYES.PIX size 176 crc 7d2ac058 md5 3c17362c2cffeded4d949b5cf6a472b5 )
+	rom ( name FUZYHERO.PIX size 9608 crc 4d93a825 md5 dc0ee1da729e108652a0afd5fc756126 )
+	rom ( name GARDEN.ART size 21392 crc fc985bf8 md5 8d8a16eebe0a110be2d10718523222d4 )
+	rom ( name GARDEN.B size 8000 crc 2a54eccd md5 2e61cfb2c6a82d859de064555edaca0b )
+	rom ( name GARDEN.O size 8000 crc 459ac29b md5 c2d887200e6b1b007f7beda203e05d79 )
+	rom ( name GARDEN.OB size 8000 crc 50ef1c1f md5 b816f3521ec876d023af3d3f8db07df4 )
+	rom ( name GLASDOOR.PIX size 1791 crc 877c791b md5 20117ff223e71411df004b06620f1253 )
+	rom ( name GOLD.PIX size 555 crc be351a92 md5 22891bfc3d81534d6fd138be60bba4bb )
+	rom ( name GUARD.PIX size 3825 crc 5ef742f5 md5 6eea5a5546b4573aea0bc549ba00a827 )
+	rom ( name HALL.ART size 11849 crc 975ef454 md5 f48f1a6e7134a43c371c2537a3d41793 )
+	rom ( name HALL.B size 8000 crc a2b038c5 md5 495039ba974b8e89581fc1380195e0e3 )
+	rom ( name HALL.O size 8000 crc bc6161a8 md5 cd243d0b7c838a346b5e5a471d34ab88 )
+	rom ( name HALL.OB size 8000 crc a04012c8 md5 c6f2cf7c50931bf01ac6e9ab964b23e8 )
+	rom ( name HDLSHERO.PIX size 543 crc 49cc750a md5 4e39c430f042941e203c9482fb80b1c0 )
+	rom ( name HELP.DAT size 1646 crc c71e694b md5 db78147beedf4499c8308a402ff165bd )
+	rom ( name HERO.PIX size 10309 crc b3e622c9 md5 2fbd39408444e904f634d339a6992962 )
+	rom ( name HERODEAD.PIX size 980 crc cbc078cf md5 f0b7e28fdf9aa8e5e11664cfe8827566 )
+	rom ( name HOUSE.ART size 14811 crc d648bb7a md5 1acda77a164055d1800695a91a8bf27b )
+	rom ( name HOUSE.B size 8000 crc 16a2b375 md5 2258fb73058f9509118fe8636cfa1206 )
+	rom ( name HOUSE.O size 8000 crc 20567ab8 md5 0519eb1699da79872a365314851a9097 )
+	rom ( name HOUSE.OB size 8000 crc 88743357 md5 34a561d0d836bf679856010cd87df0d3 )
+	rom ( name HUGO.BSF size 381 crc d2986bdd md5 318c6f439b10ba0f66d4bad9484ab069 )
+	rom ( name IGOR.PIX size 6168 crc 07d1fd85 md5 50bec41efa64278f9b253dcf89efdb10 )
+	rom ( name JAIL.ART size 6648 crc 3fae2b90 md5 ecae6b3ceddfb254a4bc7fcb16209585 )
+	rom ( name JAIL.B size 8000 crc 63c4847c md5 3f79d3b4752eb2baf2b3fbf25cc7da39 )
+	rom ( name JAIL.O size 8000 crc 4a4be864 md5 58101249c76b735bd74ce5302b009317 )
+	rom ( name JAIL.OB size 8000 crc 5bb9d28e md5 1f7fc8c70ef97c81dced9aea0683200c )
+	rom ( name KEY.PIX size 260 crc d1a7bd00 md5 7f68ff162e1879f7fdcf0978fb23a2ba )
+	rom ( name KITCHEN.ART size 10151 crc 9d64bf28 md5 7a2cd4ac80a52f431ca8fce34be108f3 )
+	rom ( name KITCHEN.B size 8000 crc 620d5652 md5 92113ca34a349824b6a9909087207635 )
+	rom ( name KITCHEN.O size 8000 crc 198f2c2b md5 e9da4c418d2a5641c0ce2edd327fc995 )
+	rom ( name KITCHEN.OB size 8000 crc 0bb28a35 md5 743892afdc5cb4631587b49fe6db501d )
+	rom ( name LAB.ART size 11507 crc d33f0464 md5 7e551c1f2a91c3db8de80af5e23ecce2 )
+	rom ( name LAB.B size 8000 crc cc665dd2 md5 7d7f19750c0871c1a1922707a7e261c9 )
+	rom ( name LAB.O size 8000 crc 1c459649 md5 9928bc7d1b01b8a2e9e4b9c8027fefa3 )
+	rom ( name LAB.OB size 8000 crc e4dffba4 md5 3c0a3991abed895c303723bdd915bbf1 )
+	rom ( name LAKEROOM.ART size 11074 crc 47b52674 md5 559a3669cb1fc7f83b67fecd2c7657a6 )
+	rom ( name LAKEROOM.B size 8000 crc 2bfe5481 md5 dd3996e82e33803d0744c27201da57ff )
+	rom ( name LAKEROOM.O size 8000 crc 4c47204c md5 86477be5669fe2fa749a436eec1faa3b )
+	rom ( name LAKEROOM.OB size 8000 crc ade83bfb md5 dde109524e45c26a2577b6d908cc377f )
+	rom ( name LIPS.PIX size 302 crc 2ea9f579 md5 28639ec097b5516dca478ab1e93cafa1 )
+	rom ( name MASK.PIX size 230 crc 7bca4b1a md5 f5237a83bb9bfdb2d46f3823c6c78140 )
+	rom ( name MDOOR.PIX size 5134 crc 2acd42ff md5 b8e4fd4cce477a2372047bf1d268f59c )
+	rom ( name MONKEY.PIX size 10244 crc c69090b7 md5 f6523f86ef4e26c1603268fd74e87f99 )
+	rom ( name MUMMY.PIX size 11339 crc 061d294c md5 53333fe00d845538a1011950012492b1 )
+	rom ( name MUMMYRM.ART size 9955 crc 8d535835 md5 519213e98ffbe62dd63bbaa7acea29e6 )
+	rom ( name MUMMYRM.B size 8000 crc ff0586f8 md5 d7489effa15ca09e1a60df2b885f469a )
+	rom ( name MUMMYRM.O size 8000 crc 0d24c142 md5 4e5244637be3e2ccd7bb991c6da48a00 )
+	rom ( name MUMMYRM.OB size 8000 crc 4a613fb2 md5 4305a5d10fa0e2ca05f9740357e8de59 )
+	rom ( name OLDMAN.PIX size 712 crc c45e29f6 md5 8d7622295bd85c1274e58252b0dbe903 )
+	rom ( name PROF.PIX size 7304 crc 946efb59 md5 3a0a50e63b78a269cfeff42e916525ea )
+	rom ( name PUMPKIN.PIX size 392 crc b841e90a md5 545c3c2168e68f6a3b88dea2fedc0b3a )
+	rom ( name REDEYES.PIX size 136 crc 1dabbe78 md5 b34a5721e13f788caac70deafee49991 )
+	rom ( name ROPE.PIX size 756 crc f786bf6b md5 b6bf2b0a97b9ad701b39de9d4927cc69 )
+	rom ( name SCRIPT.FON size 10304 crc 967a455c md5 c3721016c2db93ff21e176d4d7589b81 )
+	rom ( name SPACHERO.PIX size 10309 crc 5372f870 md5 07ed2fb7fd8d545e99c50fe632b6eac1 )
+	rom ( name STORERM.ART size 6534 crc 1c5bd0ff md5 aa82d2ba64361be39a6a56dcec9a9e71 )
+	rom ( name STORERM.B size 8000 crc 9a4b2fc4 md5 012ea47ed0724ee43247f5092d1aeced )
+	rom ( name STORERM.O size 8000 crc 311e35a8 md5 af50d6e382ef63336b59fe5276f818c9 )
+	rom ( name STORERM.OB size 8000 crc c6899991 md5 b287cf52ac7365527f57bdf9c5af3efe )
+	rom ( name THE_END.ART size 9522 crc 76f90ac0 md5 debe75d799b2bcb1c323564716a5fe7a )
+	rom ( name THE_END.B size 8000 crc c06a22be md5 e9761360264b8febd50ac05876807ee9 )
+	rom ( name THE_END.O size 8000 crc 17578ce8 md5 c912e978163cfb8393f3290f66213be9 )
+	rom ( name THE_END.OB size 8000 crc f9b3274e md5 594aca2ea33fa15d7acacd12991f0016 )
+	rom ( name TMSRB.FON size 45936 crc 3518f506 md5 b43be6fe4d7fe5f8a3f35fbf6b3c6786 )
+	rom ( name TRAP.PIX size 1140 crc aa7c6478 md5 3416073e2190a84ae3885b1aceb5f068 )
+	rom ( name WDOORL.PIX size 2706 crc f59d9679 md5 96de67b8fc649938e454dcc1ca05a067 )
+	rom ( name WDOORR.PIX size 2892 crc a43aa7ac md5 98ff726f07ab584c5beecf91461ca7fb )
+	rom ( name WHERO.PIX size 8511 crc 6d936590 md5 2b74504708cc479d31b299ae55d6e973 )
+)
+
+game (
+	name hugo2
+	description "Hugo 2: Whodunit? (DOS)"
+	year 1991
+	manufacturer "Gray Design Associates"
+	sourcefile hugo
+	rom ( name HELP.DAT size 1920 crc ee8fa480 md5 086bc847a23b9b3cd7d8c83beb3ace5d )
+	rom ( name HUGO.BSF size 381 crc a7d3e02a md5 9561491ebe9d3c3d72f4003892c5ed35 )
+	rom ( name OBJECTS.DAT size 155240 crc bc1c1818 md5 d985eb98e68265db6b3beb89dbdc70f3 )
+	rom ( name SCENERY.DAT size 527321 crc bc24a511 md5 cb4d03f5c6c2081413fc8c0f3dfee152 )
+	rom ( name STRINGS.DAT size 27299 crc 35149794 md5 548a0b07551e52a1bed7e087cb9618e2 )
+	rom ( name TMSRB.FON size 45936 crc 3518f506 md5 b43be6fe4d7fe5f8a3f35fbf6b3c6786 )
+)
+
+game (
+	name hugo3
+	description "Hugo 3: Jungle of Doom (DOS)"
+	year 1992
+	manufacturer "Gray Design Associates"
+	sourcefile hugo
+	rom ( name HELP.DAT size 2092 crc ca4f01bf md5 0d5967cce09690e318474351126ddb6f )
+	rom ( name HUGO.BSF size 381 crc 93e5198e md5 fce212f924d346fae9f1e674cda5be9e )
+	rom ( name OBJECTS.DAT size 136419 crc f0476085 md5 4fdd21019317d7178d1451396e98c3fe )
+	rom ( name SCENERY1.DAT size 484746 crc 5b83b044 md5 4273897829bce0a3c6bb38d380871559 )
+	rom ( name SCENERY2.DAT size 137029 crc 81a59aaa md5 8c2011d59d30aff2aff819a6d357b28c )
+	rom ( name STRINGS.DAT size 22777 crc d03b8170 md5 ea84e7426175d00ddda7dc9901671723 )
+	rom ( name TMSRB.FON size 45936 crc 3518f506 md5 b43be6fe4d7fe5f8a3f35fbf6b3c6786 )
+)
+

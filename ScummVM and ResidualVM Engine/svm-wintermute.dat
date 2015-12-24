@@ -1,0 +1,668 @@
+clrmamepro (
+	name "ScummVM WINTERMUTE"
+	description "ScummVM - WINTERMUTE Engine Games"
+	category "ScummVM"
+	version v1.05
+	date 2015-12-18
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name 5ld-win
+	description "Five Lethal Demons (Windows)"
+	year 2006
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	romof 5ldres
+	rom ( name english.dcp size 170340 crc fd8b7e25 md5 11c2e172e0488e6b16c58f3b96822a30 )
+)
+
+game (
+	name 5ld-win-cz
+	description "Five Lethal Demons (Windows/Czech)"
+	year 2006
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	romof 5ldres
+	rom ( name czech.dcp size 186 crc 6cf92b9c md5 9021b7a1e154d6764228116f894b213b )
+)
+
+game (
+	name 5ld-win-pl
+	description "Five Lethal Demons (Windows/Polish)"
+	year 2006
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	romof 5ldres
+	rom ( name polish.dcp size 173792 crc aeb58022 md5 7938e6c6e64fd79d8004207d3da1c022 )
+)
+
+game (
+	name 5ma-win
+	description "Five Magical Amulets (Windows)"
+	year 2011
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	romof 5mares
+	rom ( name english.dcp size 893681 crc 0756ad27 md5 18482533d6353cda96f05bf71d75ba73 )
+)
+
+game (
+	name 5ma-win-cz
+	description "Five Magical Amulets (Windows/Czech)"
+	year 2011
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	romof 5mares
+	rom ( name czech.dcp size 184 crc c564b180 md5 7b2515a8ceb955c72bc14f0f1fca869e )
+)
+
+game (
+	name 5ma-win-de
+	description "Five Magical Amulets (Windows/German)[NonEngine]"
+	year 2011
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	romof 5mares
+	rom ( name german.dcp size 885150 crc e90dd25a md5 56906169fd657fc4a7d820dca79332dd )
+)
+
+game (
+	name 5ma-win-pl
+	description "Five Magical Amulets (Windows/Polish)"
+	year 2011
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	romof 5mares
+	rom ( name polish.dcp size 1132197 crc e5240fcc md5 87bb5ae0c4727669120418f0db251632 )
+)
+
+game (
+	name bickadoodle-win
+	description "Bickadoodle (v1.2/Windows)"
+	year 2014
+	manufacturer "Aetheric Games"
+	sourcefile wintermute
+	rom ( name Bickadoodle.exe size 1994752 crc 69f3666a md5 94369e1a0e1ea9812620c0bc458475b7 )
+	rom ( name data.dcp size 35337760 crc 90725bce md5 fef681275c8a17dfd97be71e493d85e6 )
+)
+
+game (
+	name bthreshold-win
+	description "Beyond the Threshold (Windows)"
+	year 2006
+	manufacturer "Nacht und Nebel"
+	sourcefile wintermute
+	rom ( name data.dcp size 12773712 crc fc1222e9 md5 91ae549d49099576cc56f6a1cbc1b3ca )
+	rom ( name fonts\BASK.TTF size 64800 crc 95759a38 md5 a10ff057cfd4b7b5cda1d096d8150b74 )
+	rom ( name fonts\GANC.TTF size 76724 crc c3c96445 md5 378a638b414f4c465042471d9df13be3 )
+)
+
+game (
+	name carolreed4-demo-win
+	description "Carol Reed 4: East Side Story (Demo/Windows)"
+	year 2006
+	manufacturer "MDNA Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 59296246 crc a127279c md5 f081a5250838cb02ee26a878da5f1b82 )
+)
+
+game (
+	name carolreed5-demo-win
+	description "Carol Reed 5: The Colour of Murder (Demo/Windows)[NonEngine]"
+	year 2006
+	manufacturer "MDNA Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 92019500 crc 0ab3df86 md5 d7ba547a93ebf51eaa86f7a7eacf33fb )
+)
+
+game (
+	name carolreed5-win
+	description "Carol Reed 5: The Colour of Murder (Windows)"
+	year 2006
+	manufacturer "MDNA Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 603660415 crc 1b76216d md5 5a0200e69a7d9cf4aa83fb713af0edfd )
+)
+
+game (
+	name carolreed6-demo-win
+	description "Carol Reed 6: Black Circle (Demo/Windows)[NonEngine]"
+	year 2006
+	manufacturer "MDNA Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 94399373 crc f05e9ccc md5 8bafcf74e989473132025a67841cf6d4 )
+)
+
+game (
+	name carolreed7-demo-win
+	description "Carol Reed 7: Blue Madonna (Demo/Windows)"
+	year 2006
+	manufacturer "MDNA Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 103719442 crc 982a9439 md5 a00be7a096f0df247a18fde6137735c8 )
+)
+
+game (
+	name carolreed8-demo-win
+	description "Carol Reed 8: Amber's Blood (Demo/Windows)[NonEngine]"
+	year 2006
+	manufacturer "MDNA Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 110106328 crc ba62dec4 md5 6b30383b74963c4b2286bda4b5cbc1e0 )
+)
+
+game (
+	name carolreed9-demo-win
+	description "Carol Reed 9: Cold Case Summer (Demo/Windows)[NonEngine]"
+	year 2006
+	manufacturer "MDNA Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 86362217 crc 33de315b md5 9c74e3418ed39e5daf29b1bcbd618a9d )
+)
+
+game (
+	name carolreed9-win
+	description "Carol Reed 9: Cold Case Summer (Windows)"
+	year 2006
+	manufacturer "MDNA Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 620005266 crc 051a8c5e md5 790d14ddbd2d0f4b6961a571998f1034 )
+)
+
+game (
+	name chivalry-win
+	description "Chivalry is Not Dead (Windows)"
+	year 2007
+	manufacturer "Deirdra Kai Productions"
+	sourcefile wintermute
+	rom ( name arial.ttf size 773852 crc 8c72f2c8 md5 096b6677fc4a0a2ab430cd3d28b6fd52 )
+	rom ( name data.dcp size 7278306 crc 2585e9f9 md5 a76921fc87366d0840529b33196821f2 )
+	rom ( name fonts\ALEAWB__.TTF size 28648 crc e328cb08 md5 be5860ddf6d50816a575f3e20e1f82e2 )
+)
+
+game (
+	name chivalry-win-1
+	description "Chivalry is Not Dead (Windows)[a]"
+	year 2007
+	manufacturer "Deirdra Kai Productions"
+	sourcefile wintermute
+	rom ( name arial.ttf size 773852 crc 8c72f2c8 md5 096b6677fc4a0a2ab430cd3d28b6fd52 )
+	rom ( name data.dcp size 7278302 crc 5f8e6930 md5 bddd5ce88a48a5030c0723e24c9115c4 )
+	rom ( name fonts\ALEAWB__.TTF size 28648 crc e328cb08 md5 be5860ddf6d50816a575f3e20e1f82e2 )
+)
+
+game (
+	name deadcity-win
+	description "Dead City (Windows)"
+	year 2006
+	manufacturer "Nihilis Games"
+	sourcefile wintermute
+	romof deadcres
+	rom ( name english.dcp size 415935 crc e253c827 md5 05c3b14408b951181157ac297bffd96f )
+)
+
+game (
+	name deadcity-win-cz
+	description "Dead City (Windows/Czech)"
+	year 2006
+	manufacturer "Nihilis Games"
+	sourcefile wintermute
+	romof deadcres
+	rom ( name CZECH.ROM size 30 crc c46020ab md5 e833f325502d83b8250aec28df583bbb )
+	rom ( name english.dcp size 415935 crc e253c827 md5 05c3b14408b951181157ac297bffd96f )
+)
+
+game (
+	name deadcity-win-it
+	description "Dead City (Windows/Italian)"
+	year 2006
+	manufacturer "Nihilis Games"
+	sourcefile wintermute
+	romof deadcres
+	rom ( name italian.dcp size 454037 crc aecffce5 md5 dbf6d0a2cff8dcaa8b15e2248b861ce1 )
+)
+
+game (
+	name deadcity-win-ru
+	description "Dead City (Windows/Russian)"
+	year 2006
+	manufacturer "Nihilis Games"
+	sourcefile wintermute
+	romof deadcres
+	rom ( name russian.dcp size 653317 crc 12cfb9cc md5 0b5b37c7d57f1b0da165e3f71c677742 )
+)
+
+game (
+	name dirtysplit-win
+	description "Dirty Split (Windows)"
+	year 2008
+	manufacturer "Dreamagination Entertainment"
+	sourcefile wintermute
+	rom ( name data.dcp size 88577621 crc 759e859e md5 74d4ee4730d3c0fba7ebd7c36f9d1097 )
+	rom ( name english.dcp size 125962322 crc 7abdfd1f md5 ec5a274f2f3d1b34e8bc4e4e560ec073 )
+)
+
+game (
+	name dirtysplit-win-cz
+	description "Dirty Split (Windows/Czech)"
+	year 2008
+	manufacturer "Dreamagination Entertainment"
+	sourcefile wintermute
+	rom ( name czech.dcp size 127697934 crc e507e051 md5 3c9de2e794891e0c25f63e1792d0cae1 )
+	rom ( name data.dcp size 88577623 crc c76ebeb7 md5 5af1f281cf7ffab4f35c0209f13ff19f )
+)
+
+game (
+	name dirtysplit-win-de
+	description "Dirty Split (Windows/German)"
+	year 2008
+	manufacturer "Dreamagination Entertainment"
+	sourcefile wintermute
+	rom ( name data.dcp size 92668291 crc 4bc1e479 md5 c62074efc8c406c08249799bc4e87f45 )
+	rom ( name german.dcp size 140872594 crc 51b2daf5 md5 0036f392d3687f164ab606748fbb76fc )
+)
+
+game (
+	name dirtysplit-win-es
+	description "Dirty Split (Windows/Spanish)"
+	year 2008
+	manufacturer "Dreamagination Entertainment"
+	sourcefile wintermute
+	rom ( name data.dcp size 88577621 crc c4f340a1 md5 5ee147534189b1a802e3a57d708edd15 )
+	rom ( name spanish.dcp size 164428596 crc 198cdc0f md5 d3d97fbfdb3ae911828fd77d9551594f )
+)
+
+game (
+	name dirtysplit-win-fr
+	description "Dirty Split (Windows/French)"
+	year 2008
+	manufacturer "Dreamagination Entertainment"
+	sourcefile wintermute
+	rom ( name data.dcp size 88577623 crc 213ca473 md5 4ab239db29b5810405466a7b64cd7ccc )
+	rom ( name french.dcp size 125534323 crc 006d4542 md5 38bb613a5b244afb41855f6b5ce1291d )
+)
+
+game (
+	name dirtysplit-win-it
+	description "Dirty Split (Windows/Italian)"
+	year 2008
+	manufacturer "Dreamagination Entertainment"
+	sourcefile wintermute
+	rom ( name data.dcp size 88577623 crc c358eee9 md5 93825373bd08c2fc73bbff2dff95b779 )
+	rom ( name italian.dcp size 125513726 crc 57b22a22 md5 74456c03b1405b228b0737dfa36479af )
+)
+
+game (
+	name dreaming-win
+	description "Des Reves Elastiques Avec Mille Insectes Nommes Georges (Windows)"
+	year 2008
+	manufacturer "Deirdra Kai Productions"
+	sourcefile wintermute
+	rom ( name data.dcp size 8804073 crc b936b4b5 md5 12c66668fb615fa9f29ee4a2dda67a03 )
+)
+
+game (
+	name four-win
+	description "Four (Windows)"
+	year 2011
+	manufacturer "Mental Scraps"
+	sourcefile wintermute
+	rom ( name data.dcp size 62599855 crc dcfb2d21 md5 bf07a7f0b135c6bca391323bdb60db81 )
+	rom ( name fonts\induction.ttf size 26160 crc c29ea259 md5 e07b4bb4d7c8f7146f869d261ce1735e )
+	rom ( name induction.ttf size 26160 crc c29ea259 md5 e07b4bb4d7c8f7146f869d261ce1735e )
+)
+
+game (
+	name hamlet-win
+	description "Hamlet or the last game without MMORPS features, shaders and product placement (Windows)"
+	year 2006
+	manufacturer "mif2000"
+	sourcefile wintermute
+	rom ( name data.bin size 8112 crc 53a476d4 md5 eced02e857906cba42b0f22d87e1c717 )
+	rom ( name data.dcp size 88183022 crc c6ce919b md5 e5ef0f76aee165d0a3d6e574a77b5c72 )
+)
+
+game (
+	name helga-win
+	description "Helga Deep In Trouble (Windows)"
+	year 2013
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	rom ( name data.dcp size 183251259 crc e7350e6f md5 6418d332384a0fb933968d2a0e705f7e )
+	rom ( name english.dcp size 135931 crc a2beff10 md5 f391b5b193e6c02044585c3cae9feda2 )
+	rom ( name fonts\Crimson-Bold.otf size 168020 crc 53b5f0d3 md5 b18df451f5d11770a3db1f050f624653 )
+	rom ( name fonts\d-puntillas-B-to-tiptoe.ttf size 56700 crc 511064c3 md5 cccf1cc9f283a169fdf756f08f029ef9 )
+	rom ( name fonts\DejaVuSans-Bold.ttf size 672300 crc 784b8143 md5 aa0fe4048d408361d65bbf913a3aee22 )
+	rom ( name fonts\DejaVuSans.ttf size 720012 crc 9bd59d34 md5 eccb7a74720fc377b60d6b2110530fd9 )
+	rom ( name fonts\DejaVuSansCondensed-Bold.ttf size 631992 crc 94afb2bc md5 80e5791b476a8e9c4e9e611e34b9d31a )
+	rom ( name fonts\DejaVuSansCondensed.ttf size 643852 crc 0e5e4725 md5 c05bb037ab3ccfe47a03a913799d9903 )
+	rom ( name fonts\Lenka.ttf size 124420 crc 20343076 md5 95711ccb070a792fa44c7d5a58ecaca8 )
+	rom ( name fonts\Pecita.otf size 490744 crc 8ebfd1d8 md5 35412ad8650fd2fb2ca689739caf742a )
+)
+
+game (
+	name jamesperis-demo-win
+	description "James Peris: No License Nor Control (Demo/Windows)"
+	year 2006
+	manufacturer "Pavo Entertainment"
+	sourcefile wintermute
+	rom ( name audio.dcp size 28953716 crc d3a87dfa md5 4f21835849ab0153e349b5297f646574 )
+	rom ( name data.dcp size 116113507 crc bc953627 md5 2d7473e9fd109e90f1b69ef812fc2070 )
+	rom ( name fonts\BradBunR.ttf size 40368 crc 4654889d md5 3ccd0e1b42575004db1628be7d0a8522 )
+	rom ( name fonts\SCUP4.ttf size 15468 crc deea873d md5 0e28bcd0643477209e9f0b43d6931457 )
+	rom ( name fonts\underwood_champion.ttf size 25444 crc 9d765b85 md5 7eef3ee121bf2d03534d60db7ac18675 )
+)
+
+game (
+	name jamesperis-demo-win-es
+	description "James Peris: No License Nor Control (Demo/Windows/Spanish)"
+	year 2006
+	manufacturer "Pavo Entertainment"
+	sourcefile wintermute
+	cloneof jamesperis-demo-win
+	romof jamesperis-demo-win
+	rom ( name SPANISH.ROM size 57 crc d7c9b41b md5 4df8fcb8d000db1a01286f0229a758c0 )
+)
+
+game (
+	name julia-demo-win
+	description "J.U.L.I.A. (Demo/Windows)"
+	year 2013
+	manufacturer "CBE Software"
+	sourcefile wintermute
+	rom ( name audio.dcp size 77700986 crc 1961d44f md5 85f4e873576dccc364f2eccb47a20723 )
+	rom ( name data.dcp size 7655237 crc b7a4c502 md5 88c412c56942cd340c3a3d62770235eb )
+	rom ( name gfx.dcp size 188729443 crc f52bfdf9 md5 c787d252fdbafbc53c531a8e03c8c17e )
+)
+
+game (
+	name kulivocko-demo-win-cz
+	description "Kulivocko (Demo/Windows/Czech)"
+	year 2006
+	manufacturer "Fat Funky"
+	sourcefile wintermute
+	rom ( name dabing.dcp size 24277025 crc c035f6f0 md5 b94dc38402953f5a6ecc5ca3877e7b5e )
+	rom ( name data.dcp size 48362234 crc b5c58c77 md5 c5cbd1b38ecbc9df16e7a22c9a9d701e )
+	rom ( name fonts\upirpaw_Kuli.ttf size 83932 crc 5f450f9b md5 87eac5fb9b6bfc8d986b0ef80e568a23 )
+	rom ( name hudba.dcp size 9719623 crc 57a3342d md5 aaa0be32916132eaf92ef2a7de01c7e4 )
+)
+
+game (
+	name kulivocko-win-cz
+	description "Kulivocko (Windows-Czech)"
+	year 2006
+	manufacturer "Fat Funky"
+	sourcefile wintermute
+	rom ( name dabing.dcp size 27092957 crc 51262f5c md5 f5cba572f4cab47323386317f0ef6635 )
+	rom ( name data.dcp size 155106392 crc d1f64ec9 md5 5a7e511164584007b2661217238549e6 )
+	rom ( name fonts\upirpaw_Kuli.ttf size 83932 crc 5f450f9b md5 87eac5fb9b6bfc8d986b0ef80e568a23 )
+	rom ( name hudba.dcp size 23483665 crc aa120133 md5 82ad0c686124b6bf28a3bb050034786b )
+	rom ( name videa\intro.ogg size 13335168 crc 9d9d023e md5 8c9b282d262d1e21da1643ac90976765 )
+	rom ( name videa\uvod.ogg size 23443566 crc 00cdfc86 md5 4601172fe6ef2ea8892d0211a69183a5 )
+	rom ( name videa\zaver.ogg size 15245548 crc 3b86c436 md5 eb3724a7876cda54a601900228e91bdf )
+)
+
+game (
+	name lifein3minutes-win
+	description "Life In 3 Minutes (Windows)"
+	year 2011
+	manufacturer "Victor Rasmussen"
+	sourcefile wintermute
+	rom ( name data.dcp size 141787214 crc cb909237 md5 85bdca766855e91d9d76708e15379b36 )
+)
+
+game (
+	name oknytt-win
+	description "Oknytt (v1.0/Windows)"
+	year 2013
+	manufacturer "Nemoria Entertainment"
+	sourcefile wintermute
+	rom ( name d_actors.dcp size 43897900 crc a06b72d5 md5 08e7be76503ad0f13366ed9ab5e57d67 )
+	rom ( name d_fonts.dcp size 24164 crc eb539843 md5 d7894249ac1c92a75ff6fcd2f0662831 )
+	rom ( name d_interface.dcp size 58552978 crc 1f5c6505 md5 34017a594fb5538f86ba8f633109ac61 )
+	rom ( name d_items.dcp size 3787078 crc 161adf7c md5 40293fd83db1c0e39a1ed3d451737edc )
+	rom ( name d_particles.dcp size 189475 crc 5e5b6456 md5 a6484ef44d6102c955d3f43d623fba5b )
+	rom ( name d_scripts.dcp size 120612 crc fb4020d3 md5 1bdada94770fe8077bbb7eb4786906e4 )
+	rom ( name d_sounds.dcp size 154943401 crc 5b828c40 md5 cdba301a97671b6ac82fbe3feac41b91 )
+	rom ( name d_speech.dcp size 179107492 crc 367f1c46 md5 87323270ad808f020813c006660e32c2 )
+	rom ( name d_string.dcp size 49663 crc 62c06c94 md5 a9e7eb122892a4949a73a510fc8f5cbe )
+	rom ( name d_uisprites.dcp size 2559880 crc aefc1ee1 md5 b8918f2086bc12b4baf4d0aeeea4db63 )
+	rom ( name d_videos.dcp size 74555280 crc 2fabdf26 md5 f9aa8f20b344d80fed12cd51ac70acff )
+	rom ( name data.dcp size 109502959 crc 81a5930d md5 7370af6ae7b27add05b9fca07f3c8b49 )
+	rom ( name fonts\BLKCHCRY.TTF size 56732 crc 42c627ed md5 753833d2833e9f73b56cffae357cf95f )
+)
+
+game (
+	name paintaria-win
+	description "Paintaria (Windows)"
+	year 2013
+	manufacturer "Traktor Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 48326040 crc 304d664d md5 076d0bbeb69d912fda220e715887da34 )
+)
+
+game (
+	name pigeons-win
+	description "Pigeons in the Park (Windows)"
+	year 2007
+	manufacturer "Deirdra Kai Productions"
+	sourcefile wintermute
+	rom ( name data.dcp size 2611100 crc fe147e0c md5 4e94f463dc3ebdfea83658b0ad2efd71 )
+)
+
+game (
+	name projectjoe-demo-win
+	description "Project Joe (Demo/Windows)"
+	year 2011
+	manufacturer "Sticky Studios"
+	sourcefile wintermute
+	rom ( name data.dcp size 160780037 crc ed71fbf2 md5 07292c4cf0232e2200916318ee8f71f1 )
+	rom ( name master.dcp size 318995 crc 8bae2e2a md5 39878f6624ffdca7301bf145cf2b0e60 )
+	rom ( name video\logointro.avi size 5212864 crc 49031308 md5 d3b43ca36dd6c4060424e1eda0dbbaaa )
+)
+
+game (
+	name reversion1-win
+	description "Reversion: The Escape (v1.3.2369/Windows)"
+	year 2012
+	manufacturer "3f Interactive"
+	sourcefile wintermute
+	romof revz1res
+	rom ( name xlanguage_en.dcp size 11339619 crc 606ed2e9 md5 4cb82cfe0e8c9d57b0c76a4e60f7e3bc )
+	rom ( name xvoice_en.dcp size 37012691 crc 132b4a7f md5 023448577e399033379b64c62d174bec )
+)
+
+game (
+	name reversion1-win-br
+	description "Reversion: The Escape (v1.3.2369/Windows/Portuguese)"
+	year 2012
+	manufacturer "3f Interactive"
+	sourcefile wintermute
+	romof revz1res
+	rom ( name xlanguage_pt.dcp size 10620797 crc 9551baef md5 01f23f383c3f8751148a1369186fab3f )
+)
+
+game (
+	name reversion1-win-de
+	description "Reversion: The Escape (v1.3.2369/Windows/German)"
+	year 2012
+	manufacturer "3f Interactive"
+	sourcefile wintermute
+	romof revz1res
+	rom ( name xlanguage_de.dcp size 14040310 crc d12520d4 md5 4136613dcbd506917943d21629a744a1 )
+)
+
+game (
+	name reversion1-win-fr
+	description "Reversion: The Escape (v1.3.2369/Windows/French)"
+	year 2012
+	manufacturer "3f Interactive"
+	sourcefile wintermute
+	romof revz1res
+	rom ( name xlanguage_fr.dcp size 11963210 crc b1adcbc1 md5 7b4ef7b05e84069325a8e0d856bd99c9 )
+)
+
+game (
+	name reversion1-win-it
+	description "Reversion: The Escape (v1.3.2369/Windows/Italian)"
+	year 2012
+	manufacturer "3f Interactive"
+	sourcefile wintermute
+	romof revz1res
+	rom ( name xlanguage_it.dcp size 11913752 crc f8da2ca0 md5 4e0e403b18c7d36942586cb5fdf537bc )
+)
+
+game (
+	name reversion1-win-lv
+	description "Reversion: The Escape (v1.3.2369/Windows/Latvian)"
+	year 2012
+	manufacturer "3f Interactive"
+	sourcefile wintermute
+	romof revz1res
+	rom ( name xlanguage_lv.dcp size 11414925 crc 7f45a6c0 md5 8b69a847eecd0be2a25dff663f19d9b3 )
+)
+
+game (
+	name reversion1-win-pl
+	description "Reversion: The Escape (v1.3.2369/Windows/Polish)"
+	year 2012
+	manufacturer "3f Interactive"
+	sourcefile wintermute
+	romof revz1res
+	rom ( name xlanguage_pl.dcp size 11532215 crc f9c1459b md5 64059e2c4e101e883db251ef6f1424b5 )
+)
+
+game (
+	name reversion1-win-zh-cn
+	description "Reversion: The Escape (v1.3.2369/Windows/Chinese)"
+	year 2012
+	manufacturer "3f Interactive"
+	sourcefile wintermute
+	romof revz1res
+	rom ( name xlanguage_nz.dcp size 13722261 crc 02ae01b3 md5 ac4bc1481e18e49bca875a44ab09f292 )
+)
+
+game (
+	name rhiannon-win
+	description "Rhiannon: Curse of the four Branches (Windows)"
+	year 2008
+	manufacturer "Arberth Studios"
+	sourcefile wintermute
+	rom ( name data.dcp size 1046169851 crc 8a5e004d md5 e252e26c8954c8eec3159f3bd2a7dc36 )
+)
+
+game (
+	name ritter-demo-win-de
+	description "1 1/2 Ritter (Demo/Windows/German)[NonEngine]"
+	year 2008
+	manufacturer "Daedalic Entertainment"
+	sourcefile wintermute
+	rom ( name data.dcp size 99975952 crc d849b1f9 md5 408474b813553978880cf4f36cc38793 )
+	rom ( name fonts\KMKDSPK_.ttf size 67084 crc 18dd28eb md5 ce1d163424bc894be6d7f6cfc7e7db0b )
+	rom ( name sounds.dcp size 1847298 crc 64153c0f md5 639c67b13b4bf0d7ac5ebaf7b0752c0c )
+	rom ( name speeches.dcp size 84012462 crc 9c61d732 md5 64140618f463fb53b3fe08d9e2b0efb5 )
+)
+
+game (
+	name rosemary-win
+	description "Rosemary (Windows)"
+	year 2009
+	manufacturer "Singapore-MIT GAMBIT Lab"
+	sourcefile wintermute
+	rom ( name data.dcp size 29483643 crc 7e29204f md5 2efc266ec2ca3e44e29f116188b2623b )
+	rom ( name fonts\CAMBRIAB.TTF size 331916 crc 9dd58223 md5 86ba1018403540d77974b981a254f10c )
+	rom ( name fonts\framd.ttf size 135984 crc 8dc58ecf md5 a8d23046bc8d38ee78b38e95ec47f9e5 )
+)
+
+game (
+	name shaban-demo-win
+	description "Shaban (Demo/Windows)[NonEngine]"
+	year 2012
+	manufacturer "Peta Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 338067285 crc 99deae4a md5 c8a2296fd5a23df19c90a088aaa56e7c )
+)
+
+game (
+	name thekite-win
+	description "Kite, The (v1.1/Windows)"
+	year 2004
+	manufacturer "Jeroen de Cloe"
+	sourcefile wintermute
+	rom ( name data.dcp size 47332296 crc 74452c37 md5 fbad6022ec1e2778c1aff57342fd6ae3 )
+)
+
+game (
+	name whitechamber-win
+	description "White Chamber, The (v1.7/Windows/Multi-Language)[NonEngine]"
+	year 2013
+	manufacturer "Studio Trophis"
+	sourcefile wintermute
+	rom ( name assets\Cyberbit.ttf size 13353848 crc 9bb7cf82 md5 7b8d97097d64b4aeecc4e1ae2df82014 )
+	rom ( name assets\DATA0001.ogg size 8148139 crc d70e4061 md5 21543aef680cf3a79765a661729fb02e )
+	rom ( name assets\DATA0002.ogg size 666774 crc 3dfc92c0 md5 d24f3585cd88571e4a66621c734e18d6 )
+	rom ( name assets\DATA0003.OGG size 26628628 crc cacef700 md5 d35748b6efae60bfa564868cf36105f2 )
+	rom ( name assets\DATA0004.OGG size 23341595 crc 2ec01c32 md5 fc6961d198310c330893c1c8b3826ed2 )
+	rom ( name assets\DATA0005.ogg size 1272682 crc 59093bac md5 b02c293e67088c4da6c01d99a91a7c14 )
+	rom ( name assets\data0006.ogg size 380127 crc 29fd5fa9 md5 b3719080c515065e28b9a6951d265332 )
+	rom ( name assets\DATA0007.OGG size 19475944 crc e614f46b md5 36e2c47711d6d88293cbd60bf0395d2e )
+	rom ( name assets\DATA0008.OGG size 15363885 crc 98c6fb6b md5 7322981ef769bc8061117c73251d5ab5 )
+	rom ( name data.dcp size 186451273 crc 4bd2019e md5 c311f2a67c7da189fb3f7d4edb7e4601 )
+	rom ( name language.dcp size 258513 crc 3cae0228 md5 19d9bd42d68c2463d1d4434ff8ac982d )
+	rom ( name speech.dcp size 96672161 crc c6be4ccb md5 88adb06155fc19ad3a20c0a07c0eb779 )
+)
+
+game (
+	name wtetris-win
+	description "Wilma Tetris (Windows)[NonEngine]"
+	year 2010
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	rom ( name data.dcp size 2779976 crc e60c4b58 md5 432e5a627b02ed3acb20bcbc1d70ab17 )
+)
+
+resource (
+	name 5ldres
+	description "ZZZ - Five Lethal Demons Resources"
+	year 2006
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	rom ( name data.dcp size 15407750 crc a664d8ca md5 0167ae4935aa21e49fdde983aa01a004 )
+	rom ( name fonts\ariblk.ttf size 117028 crc e67c3fa1 md5 3e7043e8125f1c8998347310f2c315bc )
+	rom ( name "fonts\Artistik CE.ttf" size 47212 crc b63a8018 md5 dcd2bc4a2fff063988fdb1e4b7b51f9f )
+)
+
+resource (
+	name 5mares
+	description "ZZZ - Five Magical Amulets Resources"
+	year 2011
+	manufacturer "Off Studio"
+	sourcefile wintermute
+	rom ( name data.dcp size 163316498 crc c3c28b81 md5 c211b0bbfef1e958a58240aa38b12141 )
+	rom ( name patch1.dcp size 8550 crc c215675e md5 416a45911a233454493d2e9fb86723c5 )
+)
+
+resource (
+	name deadcres
+	description "ZZZ - Dead City Resource"
+	year 2006
+	manufacturer "Nihilis Games"
+	sourcefile wintermute
+	rom ( name data.dcp size 9070205 crc a6d132eb md5 6936d280bb94d77c7131078c1fd5eaab )
+)
+
+resource (
+	name revz1res
+	description "ZZZ - Reversion: The Escape v1.3.2369 Resources"
+	year 2012
+	manufacturer "3f Interactive"
+	sourcefile wintermute
+	rom ( name data.dcp size 254219204 crc 84f4a23c md5 160761cc74f37c63673359543d32675b )
+	rom ( name fonts\Fontin_Sans_B_45b.otf size 24984 crc f1accce8 md5 c3668a5f459c69d7e79d3a1915cfe3ff )
+	rom ( name fonts\Fontin_Sans_B_45b_polish.otf size 36860 crc 084c50ca md5 04a2456ab9ff27ae2f05d2051d9546e7 )
+	rom ( name fonts\YanoneKaffeesatz-Regular.ttf size 3564264 crc 56770437 md5 a1dec417e74322f7d07d9e66a8bf0825 )
+)
+

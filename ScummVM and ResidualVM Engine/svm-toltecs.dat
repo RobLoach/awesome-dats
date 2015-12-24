@@ -1,0 +1,88 @@
+clrmamepro (
+	name "ScummVM TOLTECS"
+	description "ScummVM - TOLTECS Engine Games"
+	category "ScummVM"
+	version v1.01
+	date 2015-11-11
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name toltecs
+	description "3 Skulls of the Toltecs (DOS)"
+	year 1996
+	manufacturer "Revistronic"
+	sourcefile toltecs
+	rom ( name SAMPLE.AD size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name SAMPLE.OPL size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name WESTERN size 337643527 crc fe7f0ec0 md5 4fd8152343326033c8c3b2440b31e816 )
+)
+
+game (
+	name toltecs-de
+	description "3 Skulls of the Toltecs (DOS/German)"
+	year 1996
+	manufacturer "Revistronic"
+	sourcefile toltecs
+	rom ( name SAMPLE.AD size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name SAMPLE.OPL size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name WESTERN size 345176617 crc dc374e12 md5 658fca24cff90fb95e3f1c950be94b76 )
+)
+
+game (
+	name toltecs-demo
+	description "3 Skulls of the Toltecs (Demo/DOS)"
+	year 1996
+	manufacturer "Revistronic"
+	sourcefile toltecs
+	rom ( name SAMPLE.AD size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name SAMPLE.OPL size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name WESTERN size 46241833 crc efd53960 md5 b31363a495d4e0aee394ba987a30c577 )
+)
+
+game (
+	name toltecs-es
+	description "3 Skulls of the Toltecs (DOS/Spanish)"
+	year 1996
+	manufacturer "Revistronic"
+	sourcefile toltecs
+	rom ( name SAMPLE.AD size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name SAMPLE.OPL size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name WESTERN size 308391018 crc 9a772232 md5 f19e83809522db47ef91e93c4228443b )
+)
+
+game (
+	name toltecs-fr
+	description "3 Skulls of the Toltecs (DOS/French)"
+	year 1996
+	manufacturer "Revistronic"
+	sourcefile toltecs
+	rom ( name SAMPLE.AD size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name SAMPLE.OPL size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name WESTERN size 327269545 crc 95b981ea md5 403622b51cd3c2821a8e670d5902db9a )
+)
+
+game (
+	name toltecs-hu
+	description "3 Skulls of the Toltecs (DOS/Hungarian)"
+	year 1996
+	manufacturer "Revistronic"
+	sourcefile toltecs
+	rom ( name SAMPLE.AD size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name SAMPLE.OPL size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name WESTERN size 337647960 crc a3995412 md5 381cb053726b5953d181a42bee365186 )
+)
+
+game (
+	name toltecs-ru
+	description "3 Skulls of the Toltecs (DOS/Russian)"
+	year 1996
+	manufacturer "Revistronic"
+	sourcefile toltecs
+	rom ( name SAMPLE.AD size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name SAMPLE.OPL size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name WESTERN size 391462783 crc 5f4e0937 md5 72f03442126290ba94006008488b7fc5 )
+)
+

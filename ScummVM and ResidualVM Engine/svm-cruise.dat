@@ -1,0 +1,203 @@
+clrmamepro (
+	name "ScummVM CRUISE"
+	description "ScummVM - CRUISE Engine Games"
+	category "ScummVM"
+	version v1.01
+	date 2015-12-06
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name cruise
+	description "Cruise for a Corpse (256 colors/DOS)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 612731 crc 23c6bd31 md5 330cb6c19ee4feaed1023413bfb710a5 )
+	rom ( name D2 size 635629 crc e31e96da md5 e5832b08d7621a288e38b0a239fa33f2 )
+	rom ( name D3 size 697428 crc 34c01b63 md5 b87149186dd753cfe58f36bfadf995a9 )
+	rom ( name D4 size 784712 crc 16fa0791 md5 0e50832735ff2b387056d46d422663db )
+	rom ( name D5 size 727005 crc c039fc7b md5 bda2adb8b786ed0fbe96d36d9dc1d7b0 )
+	rom ( name DELPHINE.LNG size 489 crc 59f9e3c8 md5 6946c4e1b45349165d0a6b324f773405 )
+	rom ( name SYSTEM.FNT size 6362 crc 77ee067a md5 e501ff132e71d12590f56657cb2d7d95 )
+	rom ( name VOL.1 size 4 crc 45e00882 md5 a1acc8333226621fce3af78f7287bc11 )
+	rom ( name VOL.2 size 4 crc 47a6b6db md5 515a33248e61351e40d54810739658b9 )
+	rom ( name VOL.3 size 4 crc 4664dcec md5 f6c5af598e91df231e7b97046bfccac4 )
+	rom ( name VOL.4 size 4 crc 432bca69 md5 f9693c56e7eb7c7f615d9968452049dd )
+	rom ( name VOL.5 size 4 crc 42e9a05e md5 f151097a2d715829d1fc0917a8be2d11 )
+	rom ( name VOL.CNF size 14372 crc 15e104cd md5 31e25f3bfaeac1ade788aef0feb1ecfc )
+	rom ( name VOL.END size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+)
+
+game (
+	name cruise-amiga-de
+	description "Cruise for a Corpse (Amiga/German)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 700963 crc 1c44fcd2 md5 0b14210a569ae76345449a5816ce7881 )
+	rom ( name D2 size 781622 crc b2889fc2 md5 b71e2d3b6a27b8cbd14e28ab014266bd )
+	rom ( name D3 size 839601 crc 7ebdfe93 md5 3061b24cce67932e46993539c123106c )
+	rom ( name D4 size 836656 crc 70d89a64 md5 ee5fe5ad1546315f59c47a5b35266aab )
+	rom ( name D5 size 778431 crc ca6ea9cb md5 dcb025b9e73730b0358f69849cc7c9fd )
+	rom ( name SYSTEM.FNT size 6418 crc d0987323 md5 5a38e48301023e6817db8a57794eaded )
+	rom ( name VOL.1 size 3 crc ae5a12a2 md5 9e46e0f14923a872c69c6f64a70d95bf )
+	rom ( name VOL.2 size 0 crc 00000000 )
+	rom ( name VOL.3 size 0 crc 00000000 )
+	rom ( name VOL.4 size 0 crc 00000000 )
+	rom ( name VOL.5 size 0 crc 00000000 )
+	rom ( name VOL.CNF size 12071 crc 9573e09a md5 9c1453c5e1d2565c544ae785b7cdc99a )
+)
+
+game (
+	name cruise-amiga-it
+	description "Cruise for a Corpse (Amiga/Italian)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 700668 crc d0bc53eb md5 bc45513536a1ee910697c111cb6ed0cf )
+	rom ( name D2 size 779430 crc a6325d54 md5 7a6a8e90e347cb950cade5bd5125d3f8 )
+	rom ( name D3 size 836167 crc 17cdf8ab md5 8f3c111465f2677afce8d8d18f6ac989 )
+	rom ( name D4 size 833758 crc f9c6a676 md5 3a7449dadb3f068817db40798c4158f7 )
+	rom ( name D5 size 775602 crc 818b8a98 md5 533cfa367e48115d1aa935d1e68577ec )
+	rom ( name SYSTEM.FNT size 6586 crc bd29ada3 md5 37b29147ccf8cc05d88cbd3ae2a8bdf2 )
+	rom ( name VOL.1 size 3 crc ae5a12a2 md5 9e46e0f14923a872c69c6f64a70d95bf )
+	rom ( name VOL.2 size 0 crc 00000000 )
+	rom ( name VOL.3 size 0 crc 00000000 )
+	rom ( name VOL.4 size 0 crc 00000000 )
+	rom ( name VOL.5 size 0 crc 00000000 )
+	rom ( name VOL.CNF size 12149 crc cae78996 md5 e02c8cba645ebf2aefbe44f61e414f65 )
+)
+
+game (
+	name cruise-de
+	description "Cruise for a Corpse (256 colors/DOS/German)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 612990 crc d99b539d md5 4fd419f1c8fcbbb5e76be3342cc183ba )
+	rom ( name D2 size 637915 crc e9975796 md5 11f38617577c880844d2a3a4b8a64e50 )
+	rom ( name D3 size 700952 crc 28a7a864 md5 f50231b0a738741b8f9dc4c04c9afb8f )
+	rom ( name D4 size 787168 crc a84bb735 md5 b631a4b548f9c0159a5506e168ed9277 )
+	rom ( name D5 size 729796 crc 07c6dcf9 md5 03b91688ded336227f89ca924cf2e392 )
+	rom ( name DELPHINE.LNG size 591 crc e8b13150 md5 dc54d1e06a57f4bfc3a5d8d7f6619c9f )
+	rom ( name SYSTEM.FNT size 6418 crc d0987323 md5 5a38e48301023e6817db8a57794eaded )
+	rom ( name VOL.1 size 4 crc 45e00882 md5 a1acc8333226621fce3af78f7287bc11 )
+	rom ( name VOL.2 size 4 crc 47a6b6db md5 515a33248e61351e40d54810739658b9 )
+	rom ( name VOL.3 size 4 crc 4664dcec md5 f6c5af598e91df231e7b97046bfccac4 )
+	rom ( name VOL.4 size 4 crc 432bca69 md5 f9693c56e7eb7c7f615d9968452049dd )
+	rom ( name VOL.5 size 4 crc 42e9a05e md5 f151097a2d715829d1fc0917a8be2d11 )
+	rom ( name VOL.CNF size 14372 crc 15e104cd md5 31e25f3bfaeac1ade788aef0feb1ecfc )
+	rom ( name VOL.END size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+)
+
+game (
+	name cruise-es
+	description "Cruise for a Corpse (256 colors/DOS/Spanish)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 612631 crc 75218765 md5 d5497b93e1b830b591de60eaae6b1b7e )
+	rom ( name D2 size 636238 crc ae6e0293 md5 57bc87016a5538e971e20495bb6a8227 )
+	rom ( name D3 size 697995 crc ae752b9e md5 f38fc12ed4f91963773cc070761f273f )
+	rom ( name D4 size 784740 crc 401dc427 md5 c8f583c51bfd87ef05afcf9d9b5c76e9 )
+	rom ( name D5 size 726915 crc 024e91bf md5 e9dcc7828161daaa6833487fd5dee377 )
+	rom ( name DELPHINE.LNG size 509 crc ed2567f4 md5 63b7bb781b0e6aca302fc11601041422 )
+	rom ( name SYSTEM.FNT size 7034 crc 0eb082ab md5 616f33d81aec4efc1047c35d0fdfd1ea )
+	rom ( name VOL.1 size 4 crc 45e00882 md5 a1acc8333226621fce3af78f7287bc11 )
+	rom ( name VOL.2 size 4 crc 47a6b6db md5 515a33248e61351e40d54810739658b9 )
+	rom ( name VOL.3 size 4 crc 4664dcec md5 f6c5af598e91df231e7b97046bfccac4 )
+	rom ( name VOL.4 size 4 crc 432bca69 md5 f9693c56e7eb7c7f615d9968452049dd )
+	rom ( name VOL.5 size 4 crc 42e9a05e md5 f151097a2d715829d1fc0917a8be2d11 )
+	rom ( name VOL.CNF size 14372 crc 15e104cd md5 31e25f3bfaeac1ade788aef0feb1ecfc )
+	rom ( name VOL.END size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+)
+
+game (
+	name cruise-fr
+	description "Cruise for a Corpse (256 colors/DOS/French)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 611387 crc 426e40f6 md5 00f096601c5c952c207f98ea291f6e01 )
+	rom ( name D2 size 637687 crc fc5f2b76 md5 03be87f0a2e075a700de1358c52df521 )
+	rom ( name D3 size 699783 crc 5669b703 md5 171f84df221d5f79ee86d3e0a840630b )
+	rom ( name D4 size 787008 crc 9cea930a md5 569fe41c1d753e3d83b9ccf589883a26 )
+	rom ( name D5 size 729041 crc 9d3951ea md5 2d6349b91e9134a230a90c837ee642bb )
+	rom ( name DELPHINE.LNG size 620 crc ec3427e0 md5 d7ede0acdc2e9ec3350ae7229377d893 )
+	rom ( name SYSTEM.FNT size 6362 crc 77ee067a md5 e501ff132e71d12590f56657cb2d7d95 )
+	rom ( name VOL.1 size 4 crc 45e00882 md5 a1acc8333226621fce3af78f7287bc11 )
+	rom ( name VOL.2 size 4 crc 47a6b6db md5 515a33248e61351e40d54810739658b9 )
+	rom ( name VOL.3 size 4 crc 4664dcec md5 f6c5af598e91df231e7b97046bfccac4 )
+	rom ( name VOL.4 size 4 crc 432bca69 md5 f9693c56e7eb7c7f615d9968452049dd )
+	rom ( name VOL.5 size 4 crc 42e9a05e md5 f151097a2d715829d1fc0917a8be2d11 )
+	rom ( name VOL.CNF size 14372 crc 15e104cd md5 31e25f3bfaeac1ade788aef0feb1ecfc )
+	rom ( name VOL.END size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+)
+
+game (
+	name cruise-fr-1
+	description "Cruise for a Corpse (16 colors/DOS/French)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 541225 crc f9facd79 md5 701fadf05a7bc00cc4186d72fb5a8a20 )
+	rom ( name D2 size 600107 crc 1a349fb5 md5 9c65889e959c189758c8d59e438d494a )
+	rom ( name D3 size 660159 crc eba3b757 md5 4945fd4834c213fbfa7bfa2b212f6adf )
+	rom ( name D4 size 705044 crc d52c4aeb md5 57e319e3b819805ebdc8a2139ef71b84 )
+	rom ( name D5 size 649375 crc 067b4754 md5 3594fa7efe4ec1ed63d81c92bb2f7d5b )
+	rom ( name DELPHINE.LNG size 620 crc ec3427e0 md5 d7ede0acdc2e9ec3350ae7229377d893 )
+	rom ( name SYSTEM.FNT size 6362 crc 77ee067a md5 e501ff132e71d12590f56657cb2d7d95 )
+	rom ( name VOL.1 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.2 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.3 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.4 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.5 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.CNF size 12370 crc d57719a6 md5 9c578575468b356a11d4d1f9f2a3786a )
+	rom ( name VOL.END size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+)
+
+game (
+	name cruise-it
+	description "Cruise for a Corpse (256 colors/DOS/Italian)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 612715 crc 9cc553e5 md5 5434b90d3e6df8cde1e3d3cdeea59c6a )
+	rom ( name D2 size 635759 crc 27f8af22 md5 fd81e81fa9f85aada5b0d2461a160963 )
+	rom ( name D3 size 697506 crc 190aed1b md5 9974110ed64a995eb446ee6ece62c091 )
+	rom ( name D4 size 784570 crc 9ab8577f md5 ab09c2e47d9de6a3f034c85b453a60d4 )
+	rom ( name D5 size 727043 crc 4ef932c4 md5 2b1d785a56dd96f0b7cc0c92af335fa9 )
+	rom ( name DELPHINE.LNG size 562 crc 8046ea75 md5 9935e2b213879d30b87c5d5681563747 )
+	rom ( name SYSTEM.FNT size 7034 crc b2490d01 md5 1b6e9193b341d0e5845052855fedf785 )
+	rom ( name VOL.1 size 4 crc 45e00882 md5 a1acc8333226621fce3af78f7287bc11 )
+	rom ( name VOL.2 size 4 crc 47a6b6db md5 515a33248e61351e40d54810739658b9 )
+	rom ( name VOL.3 size 4 crc 4664dcec md5 f6c5af598e91df231e7b97046bfccac4 )
+	rom ( name VOL.4 size 4 crc 432bca69 md5 f9693c56e7eb7c7f615d9968452049dd )
+	rom ( name VOL.5 size 4 crc 42e9a05e md5 f151097a2d715829d1fc0917a8be2d11 )
+	rom ( name VOL.CNF size 14372 crc 15e104cd md5 31e25f3bfaeac1ade788aef0feb1ecfc )
+	rom ( name VOL.END size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+)
+
+game (
+	name cruise-st
+	description "Cruise for a Corpse (Atari ST)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 536473 crc 96fad26b md5 538247127392be8a67f9f9cf2dc0a1c0 )
+	rom ( name D2 size 593998 crc 8a322b52 md5 31060671aab1615ac9b5544b5ef4c58f )
+	rom ( name D3 size 659709 crc aa14a41e md5 0da2e9d75a2e3f59e6b7258ba11670ca )
+	rom ( name D4 size 700873 crc f6cb52be md5 fa46e24147f38f70839edf1a7c188177 )
+	rom ( name D5 size 645849 crc cecceec3 md5 ff5c8219cf6b95f4dcde24cca63b72c8 )
+	rom ( name SYSTEM.FNT size 6882 crc b278ac16 md5 a9d5045166bf9db521f5d8edda36b0dc )
+	rom ( name VOL.1 size 8 crc 9a497cbf md5 ef6735f25f1cac42e9d1352417db2792 )
+	rom ( name VOL.2 size 8 crc aba16622 md5 dd0a5580bef6121d88a0de7a6b19fd4b )
+	rom ( name VOL.3 size 8 crc 0dd66d96 md5 c22d44a86c1e9219a14283642bc77d0c )
+	rom ( name VOL.4 size 6 crc db2c3dc7 md5 687f23657d67d1c2b652d4bf2ae527c3 )
+	rom ( name VOL.5 size 6 crc e64c1477 md5 f1c5c4e7d96c882b989a973a91df2dd2 )
+	rom ( name VOL.CNF size 12370 crc d57719a6 md5 9c578575468b356a11d4d1f9f2a3786a )
+)
+

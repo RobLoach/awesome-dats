@@ -1,0 +1,230 @@
+clrmamepro (
+	name "ScummVM DRACI"
+	description "ScummVM - DRACI Engine Games"
+	category "ScummVM"
+	version v1.01
+	date 2015-11-23
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name draci
+	description "Dragon History (DOS)"
+	year 1995
+	manufacturer "NoSense"
+	sourcefile draci
+	romof dracres
+	rom ( name BIG.FON size 21392 crc 18ff5a26 md5 e80f22efad64761ac52fcb68935eb64b )
+	rom ( name IKONY.DFW size 3891 crc 4c7fe6f0 md5 11976f5a0d8a5f5dc25c024759ad9ff1 )
+	rom ( name INIT.DFW size 906 crc 05e3bbbe md5 b890a5aeebaf16af39219cba2416b0a3 )
+	rom ( name MAPY.DFW size 25166 crc a7be132a md5 e56568abf07274a31f378fff42fdd5e2 )
+	rom ( name MIST.DFW size 11441 crc 7024694e md5 1909d1423fc8cfab23889681b895f4b7 )
+	rom ( name OBJEKTY.DFW size 45776 crc 50b09ea8 md5 32e335b6c3b292e612ef125abe89441b )
+	rom ( name RETEZCE.DFW size 125767 crc 74f4d9fe md5 6127b1f6e0cfc23bb1a42959063034d8 )
+	rom ( name ROZH10.DFW size 1754 crc 0c661995 md5 1ef56772dbbad722e15f37d7cc4d72f8 )
+	rom ( name ROZH11.DFW size 3368 crc 947d54cc md5 61f78bdfd3ae34cdf2e9a00daab01dc7 )
+	rom ( name ROZH12.DFW size 3011 crc 8ca3e866 md5 c21e2f1e9d8d725bfc4ffb0b73672ca0 )
+	rom ( name ROZH13.DFW size 1662 crc e63cf8ea md5 fa2487813cf73099acef9d55c3395d2a )
+	rom ( name ROZH14.DFW size 2509 crc 393520bf md5 27367e5819af16faab96887a7dc348f9 )
+	rom ( name ROZH15.DFW size 2382 crc 5c3ccc82 md5 f37ff03b8b0f9b0934b894f8548e4fa1 )
+	rom ( name ROZH16.DFW size 3122 crc 8b186520 md5 16860f95568c821f46e396667a0d3e3a )
+	rom ( name ROZH17.DFW size 2727 crc d426c2f2 md5 436e5ad032e17cb3708eef7a6186251b )
+	rom ( name ROZH18.DFW size 684 crc 792602ce md5 9e6f9cd4568468c2206d1b64d6468f12 )
+	rom ( name ROZH2.DFW size 1326 crc 2e8b48a3 md5 5db646c8585dd61e7bef0d3d899bccd1 )
+	rom ( name ROZH22.DFW size 2435 crc b4f7aadf md5 964fc472df8d0234d3459ebba3cd2c6a )
+	rom ( name ROZH24.DFW size 3475 crc 67151e32 md5 c4e72236235c9fd705e61de8d0fae080 )
+	rom ( name ROZH26.DFW size 2522 crc ca5c3a22 md5 6d932217536bd31b928bdce839d129b4 )
+	rom ( name ROZH28.DFW size 462 crc 30eb9712 md5 143ce081dfe7e504309e1fb167f53f90 )
+	rom ( name ROZH29.DFW size 2836 crc d1ca7e06 md5 fffcf47749ffab9d6d043bee8b676dde )
+	rom ( name ROZH3.DFW size 2960 crc d7038100 md5 2ba79182f8d7a7b11e55ed3773f44838 )
+	rom ( name ROZH31.DFW size 2237 crc 71b97900 md5 ab1e7e5cd458a8fd0c164d9f3f8d61db )
+	rom ( name ROZH33.DFW size 3536 crc d7c7bd65 md5 f928ec0be3b8511377b23b70ccd65090 )
+	rom ( name ROZH34.DFW size 1024 crc 4b36c020 md5 6b10a82c7771ea6fa056ba6f5f84e215 )
+	rom ( name ROZH42.DFW size 742 crc eaa75125 md5 2902a7a3fdd6d5a3ef1684d013369694 )
+	rom ( name ROZH45.DFW size 278 crc 040143b5 md5 5984eb4b899b25ea787a7ec1851ac7d6 )
+	rom ( name ROZH7.DFW size 1554 crc ae7e80fc md5 f7e21e19f8b0324349f6571e87156c1a )
+	rom ( name ROZH8.DFW size 1038 crc 6f8d3978 md5 3b054679647f40f74fbe057cf3359ab1 )
+	rom ( name ROZH9.DFW size 1464 crc 18527717 md5 51552864bc384408b02c3987a754489d )
+	rom ( name SAVEGAME.MAP size 5816 crc 3b617516 md5 a710daf77044cf43c89b97b57e550451 )
+	rom ( name SMALL.FON size 13802 crc bf657878 md5 9aede4daadcee9d25e278ffa33182469 )
+)
+
+game (
+	name draci-cz
+	description "Dragon History (DOS/Czech)[!]"
+	year 1995
+	manufacturer "NoSense"
+	sourcefile draci
+	romof dracres
+	rom ( name BIG.FON size 21392 crc 18ff5a26 md5 e80f22efad64761ac52fcb68935eb64b )
+	rom ( name IKONY.DFW size 3719 crc ab2adc36 md5 67beacd5cf427c22e2d1d272f0214b83 )
+	rom ( name INIT.DFW size 906 crc 280580ca md5 9921c8f0045679a8f37eca8d41c5ec02 )
+	rom ( name MAPY.DFW size 24642 crc 9ac76b9a md5 42cd95a98c68ed820e2a130e2d44ee93 )
+	rom ( name MIST.DFW size 11425 crc 57ac8c86 md5 438b6a369de9813845f7a3d362985a8b )
+	rom ( name OBJEKTY.DFW size 44754 crc 38a28a9b md5 96a6e3b2ab90c6555ca17259d7a10487 )
+	rom ( name RETEZCE.DFW size 119092 crc 766206dd md5 bc3725684216d2bc0136dac51dcd40c9 )
+	rom ( name ROZH10.DFW size 1758 crc 53f93731 md5 5da07e62788bcdb1f7a5b42103d24595 )
+	rom ( name ROZH11.DFW size 3387 crc 154330cf md5 25f614799ef900ea1ccc3683d3531c7d )
+	rom ( name ROZH12.DFW size 2962 crc 01001edc md5 12761fae7c69e5a62212aec3364f40ef )
+	rom ( name ROZH13.DFW size 1662 crc e63cf8ea md5 fa2487813cf73099acef9d55c3395d2a )
+	rom ( name ROZH14.DFW size 2467 crc 005abc18 md5 b1ea725b3714ad3281a5506c4eb6d0b0 )
+	rom ( name ROZH15.DFW size 2413 crc b63946a4 md5 0e0da419c2a00b03a8945f37501bc37b )
+	rom ( name ROZH16.DFW size 3126 crc c275850f md5 d5bddab0ab1f875e6a742b7a968710a9 )
+	rom ( name ROZH17.DFW size 2732 crc 44264d40 md5 7b5148bbbaf98a2eef58c493301bf887 )
+	rom ( name ROZH18.DFW size 682 crc 06fe028d md5 aaec2b4eb51bf943b14e754a13a88653 )
+	rom ( name ROZH2.DFW size 1322 crc 5c847a36 md5 d41f03887f35a640b6e647bb7b96976b )
+	rom ( name ROZH22.DFW size 2419 crc 99dd3f29 md5 fcc8aa72b3085d8e54e32b3324fcc121 )
+	rom ( name ROZH24.DFW size 3398 crc bfe2aa70 md5 ec28d5548df869ca3d0c351c122a19ab )
+	rom ( name ROZH26.DFW size 2526 crc 7d78fb81 md5 ee2716512111a5ae636692846e156eeb )
+	rom ( name ROZH28.DFW size 480 crc 3b33eb14 md5 2b9e671e00ef1caae0eb0f90a456fe89 )
+	rom ( name ROZH29.DFW size 2838 crc a754c067 md5 acb6c3d3a0bc8671abbe7e9492b1a1bd )
+	rom ( name ROZH3.DFW size 2980 crc cccbca68 md5 5c46665c6ee8e365e95543966a1756de )
+	rom ( name ROZH31.DFW size 2263 crc 5acd6548 md5 c7bfd293a462d499a0b598b4b2135e65 )
+	rom ( name ROZH33.DFW size 3515 crc 0f7f2702 md5 9a044008e61fafa45e3241c7b3cb9306 )
+	rom ( name ROZH34.DFW size 1024 crc 4b36c020 md5 6b10a82c7771ea6fa056ba6f5f84e215 )
+	rom ( name ROZH42.DFW size 742 crc 2af38c50 md5 e457348925fe98cb8c90ac7a71d55ee0 )
+	rom ( name ROZH45.DFW size 284 crc 1cb1061f md5 3983b27d78a7e04afaecb94f5daab71f )
+	rom ( name ROZH7.DFW size 1554 crc c1982a41 md5 5ae72211274ffbbb4713116c95102805 )
+	rom ( name ROZH8.DFW size 1038 crc 6f8d3978 md5 3b054679647f40f74fbe057cf3359ab1 )
+	rom ( name ROZH9.DFW size 1444 crc 1cf5b0ec md5 72f7004113daf489166bb799307801d0 )
+	rom ( name SMALL.FON size 13802 crc bf657878 md5 9aede4daadcee9d25e278ffa33182469 )
+)
+
+game (
+	name draci-de
+	description "Draci Historie (DOS/German)"
+	year 1995
+	manufacturer "NoSense"
+	sourcefile draci
+	romof dracres
+	rom ( name BIG.FON size 21392 crc a4a49c91 md5 c9dad7683140d87ac8236ff9ba9f2a64 )
+	rom ( name IKONY.DFW size 3719 crc 13ba9931 md5 3a0251ddf1dabf450c7925408d8d2d12 )
+	rom ( name INIT.DFW size 906 crc 49b90f45 md5 9a7115b91cdea361bcaff3e046ac7ded )
+	rom ( name MAPY.DFW size 24642 crc 9ac76b9a md5 42cd95a98c68ed820e2a130e2d44ee93 )
+	rom ( name MIST.DFW size 11425 crc 09b64258 md5 b8d404a39f65848d914b7aed2e23f26e )
+	rom ( name OBJEKTY.DFW size 44927 crc 97648d2f md5 d4cf1cf07091b64b5080eacfdaad7eca )
+	rom ( name RETEZCE.DFW size 138973 crc 49a5d78a md5 c25297fd9884dde48a90b3d382ed769c )
+	rom ( name ROZH10.DFW size 1765 crc 90121238 md5 80f15b61701ae78ec8c66c67da2ff67c )
+	rom ( name ROZH11.DFW size 3381 crc 00020deb md5 ca46a22226f95e2050daec772c8dce34 )
+	rom ( name ROZH12.DFW size 2986 crc 2dacd218 md5 496dea83e2ee794a9c35ed98b85e11e6 )
+	rom ( name ROZH13.DFW size 1662 crc e63cf8ea md5 fa2487813cf73099acef9d55c3395d2a )
+	rom ( name ROZH14.DFW size 2498 crc 8c42b36a md5 82ae836718e620851b0acbe092ffe3cc )
+	rom ( name ROZH15.DFW size 2406 crc 08ec3a14 md5 e5c6320fa66cb53f3a9964b76460134a )
+	rom ( name ROZH16.DFW size 3142 crc 164a1b20 md5 8f16e8a7878b77fe7e84f958d36b2d00 )
+	rom ( name ROZH17.DFW size 2741 crc 5cf8bb31 md5 0b58d640fb5172c623fc7652971ef931 )
+	rom ( name ROZH18.DFW size 687 crc dbacde92 md5 40445a517086f38ba29113f2668b777e )
+	rom ( name ROZH2.DFW size 1348 crc 49a80537 md5 339b88820330bcdab6ed3f8c18254921 )
+	rom ( name ROZH22.DFW size 2435 crc f9903314 md5 1e30313ceccef709e212875d2ea88602 )
+	rom ( name ROZH24.DFW size 3488 crc 376e782a md5 c0e823d06225b1d065c85d38245a3d2b )
+	rom ( name ROZH26.DFW size 2558 crc a684a95b md5 19f60f4e07430f2d7e8cd2c7183aafe7 )
+	rom ( name ROZH28.DFW size 488 crc 1aded9f3 md5 fc27b28dc9656d79535f712fd1d99ed0 )
+	rom ( name ROZH29.DFW size 2870 crc daf02b82 md5 abe2c37cc9908e4a429bbbcc57b1a354 )
+	rom ( name ROZH3.DFW size 3054 crc c90a3b15 md5 f1613cd9c2763d055fd9faf1ef8c64e0 )
+	rom ( name ROZH31.DFW size 2256 crc d720920f md5 6fb8e6132b774b2d7675f008e7f056fd )
+	rom ( name ROZH33.DFW size 3545 crc a4ad2ac7 md5 ea0ad9a44eed132d0d27f3e9ea4d9033 )
+	rom ( name ROZH34.DFW size 1024 crc 4b36c020 md5 6b10a82c7771ea6fa056ba6f5f84e215 )
+	rom ( name ROZH42.DFW size 742 crc eaa75125 md5 2902a7a3fdd6d5a3ef1684d013369694 )
+	rom ( name ROZH45.DFW size 284 crc 1cb1061f md5 3983b27d78a7e04afaecb94f5daab71f )
+	rom ( name ROZH7.DFW size 1554 crc ae7e80fc md5 f7e21e19f8b0324349f6571e87156c1a )
+	rom ( name ROZH8.DFW size 1038 crc 6f8d3978 md5 3b054679647f40f74fbe057cf3359ab1 )
+	rom ( name ROZH9.DFW size 1472 crc a0435245 md5 a5765c52d5eb940df68a0e792ed1a387 )
+	rom ( name SMALL.FON size 13802 crc 05076003 md5 4553de374da5950736d15adc5f625917 )
+)
+
+game (
+	name draci-pl
+	description "Dragon History (DOS/Polish)"
+	year 1995
+	manufacturer "NoSense"
+	sourcefile draci
+	romof dracres
+	rom ( name BIG.FON size 21392 crc ffb28901 md5 57cbb0227e536b3046b594792d6a75b8 )
+	rom ( name IKONY.DFW size 3759 crc 7b6a1410 md5 c92316dac9c4d275a3a97dafd7e8e098 )
+	rom ( name INIT.DFW size 906 crc 4cec831c md5 76b9b78a8a8809a240acc395df4d0715 )
+	rom ( name MAPY.DFW size 24642 crc 9ac76b9a md5 42cd95a98c68ed820e2a130e2d44ee93 )
+	rom ( name MIST.DFW size 11425 crc 5ff9d2c9 md5 5d7ca9631e7d778a233dade9b0643a1e )
+	rom ( name OBJEKTY.DFW size 45164 crc f45bac19 md5 2722e747b9f1d3b9a21be9f4db24aaab )
+	rom ( name RETEZCE.DFW size 124300 crc 26f16872 md5 9c68785bf732836ec7d7a3684cd4b4ea )
+	rom ( name ROZH10.DFW size 1726 crc 00a1164e md5 1da99be63069fd616417cfb46af9f9a7 )
+	rom ( name ROZH11.DFW size 3322 crc 47afd7e2 md5 b89d41093c22012aec97c0101b12986b )
+	rom ( name ROZH12.DFW size 2956 crc f92ebba5 md5 8382f6b1bd3b5ef42c6c4e749474210e )
+	rom ( name ROZH13.DFW size 1662 crc 364c7b37 md5 bee24d241b56c84c096ccb48e88b787f )
+	rom ( name ROZH14.DFW size 2449 crc 9f98fd5b md5 f41b16d72bc96834aef8dc691ab1c8da )
+	rom ( name ROZH15.DFW size 2387 crc 5f612efd md5 550ca81915690a5f048bbf92220be39e )
+	rom ( name ROZH16.DFW size 3099 crc d6bd9635 md5 d171444d00ee7310cb6f33ee85f6e645 )
+	rom ( name ROZH17.DFW size 2702 crc 335c68c8 md5 938fb514aec648550caa6a6167b00efe )
+	rom ( name ROZH18.DFW size 684 crc 3813a9b4 md5 69cf40838649ef0cad3687ff34db0c79 )
+	rom ( name ROZH2.DFW size 1321 crc de6925c5 md5 498b9fea785c82b65351eb8e2645a072 )
+	rom ( name ROZH22.DFW size 2427 crc d6de9c93 md5 672c03d11d562aed74141160019c82b1 )
+	rom ( name ROZH24.DFW size 3391 crc c670f95a md5 3ef0c1a94a30a3788753b1325276c4c7 )
+	rom ( name ROZH26.DFW size 2511 crc 12c99cd3 md5 d1d9dfcac9f339ea971a11d6966e33d7 )
+	rom ( name ROZH28.DFW size 462 crc 8df02df1 md5 9968ee0394038c338eaa49174d35cf4c )
+	rom ( name ROZH29.DFW size 2805 crc 8a351c86 md5 077158dde2d93b9f5ec74b9e5c9fdac2 )
+	rom ( name ROZH3.DFW size 2943 crc ec789066 md5 3ef2f40b1c3c40a9ce14ec1ef1279301 )
+	rom ( name ROZH31.DFW size 2253 crc f788f61a md5 111808d1e2bb68c2f03d1c8c4d4e49f1 )
+	rom ( name ROZH33.DFW size 3529 crc 8f07359d md5 fb1e3ef52722ab0afedee51be4e29b34 )
+	rom ( name ROZH34.DFW size 1024 crc 22bf629b md5 64bd44a6cb54627874c81b44db5d30ac )
+	rom ( name ROZH42.DFW size 742 crc 2af38c50 md5 e457348925fe98cb8c90ac7a71d55ee0 )
+	rom ( name ROZH45.DFW size 278 crc 040143b5 md5 5984eb4b899b25ea787a7ec1851ac7d6 )
+	rom ( name ROZH7.DFW size 1554 crc ae7e80fc md5 f7e21e19f8b0324349f6571e87156c1a )
+	rom ( name ROZH8.DFW size 1038 crc d852d119 md5 c0c139126657b717131246e354ca0623 )
+	rom ( name ROZH9.DFW size 1464 crc 3705d3a3 md5 85711eae0784d9eecb8c4fd728565a98 )
+	rom ( name SAVEGAME.MAP size 5512 crc 947f9ef9 md5 36ef7749403f6185c5e6667d4e7a080a )
+	rom ( name SMALL.FON size 13802 crc 622301a9 md5 f44746b3a58686caf43b2a5d96728210 )
+)
+
+resource (
+	name dracres
+	description "ZZZ - Dragon History Resources"
+	year 1995
+	manufacturer "NoSense"
+	sourcefile draci
+	rom ( name ANIM.DFW size 126330 crc 28578368 md5 98c6c080833d56b1e62454e45bd0c3a4 )
+	rom ( name CD.SAM size 144451283 crc 38437c90 md5 580b1ae1c5dc8598148199a70d0cd77f )
+	rom ( name CD2.SAM size 1329698 crc 8eac1f48 md5 3cf24eadd3f9a60c88efa5d09b73a179 )
+	rom ( name CMF.INS size 2048 crc 03e8a44f md5 e69cc2c00db24ecd20c3bb7223fdf118 )
+	rom ( name HRA.DFW size 14759 crc 722d4e56 md5 903bf69b1e419eb8bf968fa060ff4417 )
+	rom ( name HUDBA1.MID size 10379 crc b8549017 md5 884f755ec671ab1b14f76ab1bd5897b3 )
+	rom ( name HUDBA10.MID size 3966 crc e0aa4920 md5 b2e604fbabc66af9cfd1253b7f2dabba )
+	rom ( name HUDBA11.MID size 11839 crc 5614478a md5 8536e6746105a9a112925771a7e5f083 )
+	rom ( name HUDBA12.MID size 5177 crc 545a759b md5 0f4ba1cec8f905f734fac5bcc160a75b )
+	rom ( name HUDBA13.MID size 18982 crc 1f3e3e51 md5 09d6a1acedb3f0cb0b4b8d3abf0dcbb6 )
+	rom ( name HUDBA14.MID size 4362 crc 3ee1d481 md5 4d50589fc5e13008f5aae043416d9c5c )
+	rom ( name HUDBA15.MID size 3937 crc c583e02f md5 b6aae5dc2c6754fadec452d0d61ca369 )
+	rom ( name HUDBA2.MID size 11357 crc 108b3e49 md5 41941e6a01d715a45259ac7a72bc678f )
+	rom ( name HUDBA3.MID size 6784 crc 955be9f9 md5 92dbe4542bf485d84c458fad4b34cef0 )
+	rom ( name HUDBA4.MID size 8416 crc fcc721e0 md5 11c14f864c612d0a06ffb83cae677e43 )
+	rom ( name HUDBA5.MID size 2515 crc 56d482f5 md5 6e038e5fe9573c64f55f2177ab2b532e )
+	rom ( name HUDBA6.MID size 5284 crc a2b4a0fe md5 9f7acb3d3cd7dca9ffa4b84f77cc6156 )
+	rom ( name HUDBA7.MID size 9243 crc a761ff4c md5 3ca0f4e75a00f585d2e6bdac788df127 )
+	rom ( name HUDBA8.MID size 15219 crc 96e66d78 md5 25429b5fd1bba74b2cd44aa4760a380b )
+	rom ( name HUDBA9.MID size 11409 crc 5b70c3fe md5 e9048aff4d65b2d9194bc7262de1be6c )
+	rom ( name OBR_AN.DFW size 5728598 crc b05f40eb md5 35d658de2de220c67ab0985fa1691cb0 )
+	rom ( name OBR_IK.DFW size 31882 crc 5bc1f6fe md5 c9a7290e3c3e86fb2b0118c9989159d1 )
+	rom ( name OBR_MAS.DFW size 2463585 crc 29bf04f0 md5 6e796a9225a0692a8d8edbee2038edbb )
+	rom ( name PALETY.DFW size 35802 crc 12230186 md5 097a4765dd39f0de562a9383bcf79374 )
+	rom ( name ROZH1.DFW size 56 crc 534651d8 md5 f27eaff5e30a89116a17d43d95d068a2 )
+	rom ( name ROZH19.DFW size 110 crc 510e7137 md5 0dec4ffa38abdd92c1183202df8a273b )
+	rom ( name ROZH20.DFW size 88 crc 6345ffc4 md5 9ad951f9732429119207591275114af6 )
+	rom ( name ROZH21.DFW size 184 crc 69e33f5a md5 2477bf7c8236fed85dc83de82a1d7804 )
+	rom ( name ROZH23.DFW size 256 crc 4d8e77f8 md5 a1d9a93880b3a060941c6d1179bfd12d )
+	rom ( name ROZH25.DFW size 116 crc 16f32706 md5 1b4b0bffe5281b60e1e38aba6778b4db )
+	rom ( name ROZH27.DFW size 442 crc 09036039 md5 f7bcd11cd571565f179b68ed7f0cc58b )
+	rom ( name ROZH30.DFW size 96 crc 3418f541 md5 25f50441a2135844eb64fd16e6eeac3c )
+	rom ( name ROZH32.DFW size 594 crc 95baab53 md5 ef9d7b3009aab74b7a540bd9237d5a29 )
+	rom ( name ROZH35.DFW size 252 crc 2669f3c5 md5 28288b0166f90d2350e1fb7b59c13457 )
+	rom ( name ROZH36.DFW size 256 crc 59d2384a md5 1c27097a3f9a7ef6ab070ed897258025 )
+	rom ( name ROZH37.DFW size 328 crc 42bd7f33 md5 052e383f094ab797738fa0f79dde468e )
+	rom ( name ROZH38.DFW size 126 crc 9efd7fd3 md5 6a4994462a1eb54378f399dd38524482 )
+	rom ( name ROZH39.DFW size 96 crc 4a739f28 md5 cd891c609e4b2f4baeee7614c83a5281 )
+	rom ( name ROZH4.DFW size 502 crc 1c7399cd md5 8d457261a1fbcbfc9ae6cfed58968cb1 )
+	rom ( name ROZH40.DFW size 198 crc 58f0a3ef md5 58454d5cbfcc963fe1cbfc5273ba94e8 )
+	rom ( name ROZH41.DFW size 78 crc e160c1ff md5 35be6bcfd7d4e317e6847eb2b5e05cab )
+	rom ( name ROZH43.DFW size 270 crc 4d20d6f1 md5 a24715bc1a222c347d1cdc2b1f18e5a7 )
+	rom ( name ROZH44.DFW size 238 crc 8844fb89 md5 e07a52a4b73be55b9682399c8f0528e9 )
+	rom ( name ROZH5.DFW size 140 crc 122be049 md5 9f2e3a94099b50a13cbee0d528ab0138 )
+	rom ( name ROZH6.DFW size 144 crc 3fdf400a md5 4110f5db28cc86660757426fccefe376 )
+)
+

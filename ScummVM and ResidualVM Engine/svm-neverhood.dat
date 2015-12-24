@@ -1,0 +1,52 @@
+clrmamepro (
+	name "ScummVM NEVERHOOD"
+	description "ScummVM - NEVERHOOD Engine Games"
+	category "ScummVM"
+	version v1.00
+	date 2015-09-26
+	author "Gruby"
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name neverhood-demo-win
+	description "Neverhood Chronicles, The (Demo/Windows)"
+	year 1996
+	manufacturer "The Neverhood Inc."
+	sourcefile neverhood
+	rom ( name A.BLB size 11973 crc ab1de4b7 md5 b42c5692e6490f4ee4302d03284060af )
+	rom ( name NEVDEMO.BLB size 22564568 crc c9f6b87f md5 1175e361709ff543499bff81d2523942 )
+	rom ( name NEVDEMO.EXE size 324608 crc 7c8267f1 md5 09c84543b72a03d2b230ba8baa463587 )
+)
+
+game (
+	name neverhood-win
+	description "Neverhood Chronicles, The (Windows)[!]"
+	year 1996
+	manufacturer "The Neverhood Inc."
+	sourcefile neverhood
+	rom ( name a.blb size 50571893 crc 49660ca0 md5 90e2b47a562df6d0df87e50247040330 )
+	rom ( name c.blb size 241856188 crc 0cbd7cb7 md5 238721c3465d8fdcb8c51f6a4e6b49ac )
+	rom ( name hd.blb size 4279716 crc d2b5cd2f md5 13aae91bebac0f4e81cf7eb921a8143d )
+	rom ( name i.blb size 42015045 crc e2c22a90 md5 0af9995cb40bfde614abf6249173e31c )
+	rom ( name m.blb size 53797472 crc c4ed2f90 md5 dd9464d65ab6cae231720f3f768378a8 )
+	rom ( name NHC.exe size 810496 crc 051eba9a md5 37d654a2a7bbb01f8c419ab849ff29d4 )
+	rom ( name s.blb size 16622792 crc a78476c7 md5 187369731ef1ab24cf1cdc271ed4c67c )
+	rom ( name t.blb size 228979468 crc 1f8ba31c md5 e5587ce78666016a567fd428da6fdae7 )
+)
+
+game (
+	name neverhood-win-ru
+	description "Neverhood Chronicles, The (DR/Windows/Russian)"
+	year 1996
+	manufacturer "The Neverhood Inc."
+	sourcefile neverhood
+	rom ( name A.BLB size 50437664 crc effef236 md5 4c2ac649f53b863c2b601a73367fb5ac )
+	rom ( name C.BLB size 233971458 crc 43129e6c md5 060dc30ef7c54b5237d15cbc0da54e4b )
+	rom ( name HD.BLB size 4248635 crc 34c515e5 md5 be3a91186a815f1653fd80b82f1d0727 )
+	rom ( name I.BLB size 41654674 crc 3f5d18c0 md5 6730b72e6da1ef2e7669bdf92bf7c92d )
+	rom ( name M.BLB size 53797472 crc c4ed2f90 md5 dd9464d65ab6cae231720f3f768378a8 )
+	rom ( name S.BLB size 16622792 crc a78476c7 md5 187369731ef1ab24cf1cdc271ed4c67c )
+	rom ( name T.BLB size 228370309 crc 12422039 md5 70e499ff4e70d558c2807e4c1d4ebe0f )
+)

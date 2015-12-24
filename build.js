@@ -3,7 +3,8 @@ var fs = require('fs');
 var path = require('path');
 
 // Regex to extract version information from a DAT file.
-var regexVersion = /version\s*#*>*[\d+\-?\s?+?x?\d*]+/
+var regexVersion = /version\s*#*>*[v?\d.?+\-?\s?+?x?\d*]+/
+var regexName = /<?name>?(.+?)<?\/?n?a?m?e?>?$/m
 
 glob('**/*.dat', function (err, files) {
   if (err) {
@@ -25,9 +26,9 @@ glob('**/*.dat', function (err, files) {
         var match = regexVersion.exec(contents);
         var version = match[0];
         version = version.replace('version ', '').replace('version>', '').replace(/(\r\n|\n|\r)/gm, '').replace('\t', '')
-        var name = path.basename(files[i], '.dat');
         var author = path.dirname(files[i])
-        console.log('    ' + author + ': ' + name + ' (' + version + ')')
+        var nameMatch = regexName.exec(contents);
+        name = nameMatch[0].replace('<name>', '').replace('</name>', '').replace('"', '').replace('name ', '').replace('"', '')
 
         // Append the information to the output.
         dats.push({
@@ -40,7 +41,7 @@ glob('**/*.dat', function (err, files) {
       }
     }
 
-    // Sort the DAT files.
+    // Sort the DATs.
     dats.sort(function (a, b) {
       return a.name.localeCompare(b.name);
     });

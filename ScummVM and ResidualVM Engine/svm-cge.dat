@@ -1,0 +1,61 @@
+clrmamepro (
+	name "ScummVM CGE"
+	description "ScummVM - CGE Engine Games"
+	category "ScummVM"
+	version v1.00
+	date 2015-10-13
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name sfinx-pl-2
+	description "Sfinx (Freeware/DOS/Polish)[cge]"
+	year 1994
+	manufacturer "L.K. Avalon"
+	sourcefile cge
+	rom ( name VOL.CAT size 129024 crc 674c10f4 md5 f5f27cfbd12c736eb34fe1880c1aeaff )
+	rom ( name VOL.DAT size 34180844 crc ac3309ae md5 141f234cd1981ea3b18600996a26efd0 )
+)
+
+game (
+	name soltys
+	description "Soltys (Freeware v1.0/DOS)"
+	year 1994
+	manufacturer "L.K. Avalon"
+	sourcefile cge
+	rom ( name vol.cat size 50176 crc 2523b152 md5 de93496e6973d8716f38e4d25b1985f3 )
+	rom ( name vol.dat size 8430868 crc 5fc3ac97 md5 2f2250df3e6284b3acbda4f8865740fe )
+)
+
+game (
+	name soltys-es
+	description "Soltys (Freeware v1.0/DOS/Spanish)"
+	year 1994
+	manufacturer "L.K. Avalon"
+	sourcefile cge
+	rom ( name vol.cat size 50176 crc e86a7f2e md5 6699114f2c36ba7dfdd0ba6753d456b7 )
+	rom ( name vol.dat size 8450151 crc fa2a4665 md5 01e1cc533f1643ddaa1df0f0ad83c4ac )
+)
+
+game (
+	name soltys-pl
+	description "Soltys (Freeware/DOS/Polish)"
+	year 1994
+	manufacturer "L.K. Avalon"
+	sourcefile cge
+	rom ( name VOL.CAT size 50176 crc 0c3d3021 md5 6855e614730910c74de7070e3dbd114b )
+	rom ( name VOL.DAT size 8437676 crc 6204c678 md5 fa05c971b0534bb9020251910d83f47c )
+)
+
+game (
+	name soltys-pl-1
+	description "Soltys (Freeware v1.0/DOS/Polish)"
+	year 1994
+	manufacturer "L.K. Avalon"
+	sourcefile cge
+	rom ( name vol.cat size 50176 crc 3bd4d296 md5 c49eba3fb2ffd22a43accceab43a2f98 )
+	rom ( name vol.dat size 8439339 crc df5d22b4 md5 02663efe42de5ec13f0a6fd69e27f9bd )
+)
+

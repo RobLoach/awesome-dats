@@ -1,0 +1,101 @@
+clrmamepro (
+	name "ScummVM TSAGE"
+	description "ScummVM - TSAGE Engine Games"
+	category "ScummVM"
+	version v1.00
+	date 2015-11-15
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name blueforce
+	description "Blue Force (DOS)"
+	year 1993
+	manufacturer "Tsunami Games"
+	sourcefile tsage
+	rom ( name BLUE.RLB size 10032614 crc 5077a6b0 md5 467da43c848cc0e800b547c59d84ccb1 )
+	rom ( name FILES.RLB size 188515 crc 8e2de365 md5 92e3563a5c49f1e64207735bbeb0ec6e )
+	rom ( name TSAGE.RLB size 38870 crc b3d87a12 md5 576b27f4bfd5b7e38b1b822ddd1b6ead )
+)
+
+game (
+	name blueforce-1
+	description "Blue Force (DOS)[v1.10]"
+	year 1993
+	manufacturer "Tsunami Games"
+	sourcefile tsage
+	rom ( name BLUE.RLB size 10032614 crc 5077a6b0 md5 467da43c848cc0e800b547c59d84ccb1 )
+	rom ( name FILES.RLB size 183955 crc 6c9f6f14 md5 e5f27d304f541a0d621e7eef74094f1d )
+	rom ( name TSAGE.RLB size 38865 crc ce6a817a md5 766d1bc0b2213932027fac46e29443c2 )
+)
+
+game (
+	name blueforce-cd
+	description "Blue Force (CD/DOS)"
+	year 1995
+	manufacturer "Tsunami Games"
+	sourcefile tsage
+	rom ( name BLUE.RLB size 63863322 crc 507412da md5 ac29f38184cb3b874ea18523059872ba )
+)
+
+game (
+	name ringworld
+	description "Ringworld: Revenge of the Patriarch (Floppy/DOS)"
+	year 1992
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	rom ( name RING.RLB size 8438770 crc 1b6db576 md5 61f78f68a56832ae95fe06748c403234 )
+	rom ( name TSAGE.RLB size 32235 crc d81cf6aa md5 205a6883ef64e32d5675398fd6adeeab )
+)
+
+game (
+	name ringworld-cd
+	description "Ringworld: Revenge of the Patriarch (CD/DOS)"
+	year 1992
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	rom ( name RING.RLB size 37847618 crc d5ad6c75 md5 0a25b4ee58d44a54425c0b47e5096bbc )
+	rom ( name TSAGE.RLB size 32235 crc d81cf6aa md5 205a6883ef64e32d5675398fd6adeeab )
+)
+
+game (
+	name ringworld-cd-es
+	description "Ringworld: Revenge of the Patriarch (CD/DOS/Spanish)"
+	year 1992
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	rom ( name RING.RLB size 7427980 crc dad890d5 md5 c2fb9bc8522f2d7064f678852cf59710 )
+	rom ( name TSAGE.RLB size 28443 crc a3715637 md5 b0b251763bc20b3f18e61ceced927fba )
+)
+
+game (
+	name ringworld-demo
+	description "Ringworld: Revenge of the Patriarch (Floppy Demo/DOS)"
+	year 1992
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	rom ( name TSAGE.RLB size 833453 crc d4580bc6 md5 bf4e8525d0cab84b08b57126092eeacd )
+)
+
+game (
+	name ringworld2-cd
+	description "Return to Ringworld (CD/DOS)"
+	year 1994
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	rom ( name R2RW.RLB size 47586928 crc 07dad1ce md5 f5dd9ef0b5ceda876bb3d63ce06f7c13 )
+	rom ( name SND4K.RES size 234516992 crc af86619c md5 7fffc9a054195dc1fd6bc00a92372ef4 )
+)
+
+game (
+	name ringworld2-cd-demo
+	description "Return to Ringworld (CD Demo/DOS)"
+	year 1994
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	rom ( name R2RW.RLB size 32384464 crc 296e9f48 md5 fa86abd3d6590a5728910e740a6eb92b )
+	rom ( name SND4K.RES size 110838272 crc 7c796bc9 md5 0887a77d96598f37b6fbbe69f66d4a61 )
+)
+
