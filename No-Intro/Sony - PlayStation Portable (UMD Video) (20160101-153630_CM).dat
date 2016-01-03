@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Sony - PlayStation Portable (UMD Video)"
 	description "Sony - PlayStation Portable (UMD Video)"
-	version 20151213-034718
+	version 20160101-153630
 	comment "no-intro | www.no-intro.org"
 )
 
@@ -32,14 +32,14 @@ game (
 game (
 	name "24 Season 1 (Europe)"
 	description "24 Season 1 (Europe)"
-	rom ( name "24 Season 1 (Europe) (Disc 6).iso" size 1602846720 crc B0B16AAD md5 FEC61C1BBCF11CAF7580EC42A5341729 sha1 BDBCFC8B907A6600D21E0C719D42302A587F52C5 )
-	rom ( name "24 Season 1 (Europe) (Disc 3).iso" size 1608744960 crc 0BD35D48 md5 7C7F7A9C3E797DA46B7211E421A9693B sha1 985290DE3A671B790AC673E65C10FEFF8461C554 )
-	rom ( name "24 Season 1 (Europe) (Disc 7).iso" size 1588494336 crc 7A8DB284 md5 673BC46A3D84D09DE350C0B9B387EEC0 sha1 A874B4D589AD97E4F353339C65749B0ED4CC8074 )
-	rom ( name "24 Season 1 (Europe) (Disc 4).iso" size 1606418432 crc 0F3DCC13 md5 9B10428435BA4C68D7421E0721AEFFCF sha1 5F6D77F65A62BFF328BFDD91CC7B7E6DA173F474 )
 	rom ( name "24 Season 1 (Europe) (Disc 1).iso" size 1583316992 crc 4AB84445 md5 7BD0761873EEBFCDDEAB70778EB694CC sha1 E593EDC8C1E20275F9536A11E087573A83910BE0 )
 	rom ( name "24 Season 1 (Europe) (Disc 8).iso" size 1603010560 crc 3CB2EFD0 md5 3D3B37AB128DFA07E65ED67E77DDA526 sha1 998A3C49CF25CD2DD20F2D1A4B705EF06324DE8E )
 	rom ( name "24 Season 1 (Europe) (Disc 5).iso" size 1588822016 crc D4B1C07D md5 BE6DCF2C9BAD16F82C3AD7AFB25CE2E3 sha1 378265DD1E291C0B5D58DD8238AE6D77FACA4A8E )
 	rom ( name "24 Season 1 (Europe) (Disc 2).iso" size 1586135040 crc B95C7506 md5 4292A6DBF72DE91EC2EBCAC5114AB1D7 sha1 AD575B05B39804AB07A18BB7785BFD048B0567A1 )
+	rom ( name "24 Season 1 (Europe) (Disc 6).iso" size 1602846720 crc B0B16AAD md5 FEC61C1BBCF11CAF7580EC42A5341729 sha1 BDBCFC8B907A6600D21E0C719D42302A587F52C5 )
+	rom ( name "24 Season 1 (Europe) (Disc 3).iso" size 1608744960 crc 0BD35D48 md5 7C7F7A9C3E797DA46B7211E421A9693B sha1 985290DE3A671B790AC673E65C10FEFF8461C554 )
+	rom ( name "24 Season 1 (Europe) (Disc 7).iso" size 1588494336 crc 7A8DB284 md5 673BC46A3D84D09DE350C0B9B387EEC0 sha1 A874B4D589AD97E4F353339C65749B0ED4CC8074 )
+	rom ( name "24 Season 1 (Europe) (Disc 4).iso" size 1606418432 crc 0F3DCC13 md5 9B10428435BA4C68D7421E0721AEFFCF sha1 5F6D77F65A62BFF328BFDD91CC7B7E6DA173F474 )
 )
 
 game (
@@ -111,6 +111,14 @@ game (
 )
 
 game (
+	name "Aki no Urara no Akaneiro Shoutengai (Japan)"
+	description "Aki no Urara no Akaneiro Shoutengai (Japan)"
+	serial "PLCE-0028"
+	rom ( name "Aki no Urara no Akaneiro Shoutengai (Japan) (Disc 1).iso" size 1649735680 crc 24C0814A md5 C9C6901890D3831736AA89A358A35B35 sha1 2063F40EEDD13C9DDD08B3CE387CCF022172DA8E )
+	rom ( name "Aki no Urara no Akaneiro Shoutengai (Japan) (Disc 2).iso" size 1512241152 crc BE7A6A10 md5 DA14DD24F5AE7118611E5170B344D377 sha1 5DE26103C150408A6614BDFE90B73C1BCCC70C2A )
+)
+
+game (
 	name "Akira (Europe)"
 	description "Akira (Europe)"
 	rom ( name "Akira (Europe).iso" size 1645412352 crc 1A2CDAA1 md5 ED2A7233B5AD85AEC5A29F06652BBA60 sha1 8ABB37A4C4962E3E7E080F52ECE8E863AFD01728 )
@@ -162,6 +170,15 @@ game (
 	name "Anacondas (Japan, Europe)"
 	description "Anacondas (Japan, Europe)"
 	rom ( name "Anacondas (Japan, Europe).iso" size 1775403008 crc 109BFB7D md5 A126A4F0C044AE9EE0E07DCE934A03DF sha1 DDC2AAFCF916631ACA708254B62BF3AE05F5367E )
+)
+
+game (
+	name "Aneimo 2 - Second Stage (Japan)"
+	description "Aneimo 2 - Second Stage (Japan)"
+	serial "PLCE-0018"
+	rom ( name "Aneimo 2 - Second Stage (Japan) (Disc 1).iso" size 1673689088 crc 5E5737ED md5 B217CBDA5CBAA405B65F40EA7E633DEC sha1 3D5F91BDF62CB0B4C3A9D1FC1E3CC34B70B1A655 )
+	rom ( name "Aneimo 2 - Second Stage (Japan) (Disc 2).iso" size 1727559680 crc 4037AF4C md5 E8ACC78254140DDC3776E4D594B732B0 sha1 49B55D2BB39359FD7D6FDA20E7C9644D529B3334 )
+	rom ( name "Aneimo 2 - Second Stage (Japan) (Disc 3).iso" size 1736538112 crc 0419463B md5 3D15BFBF1552AEC211B4FED4BEB8CB48 sha1 3559FB030BEC76451765C9824746D6369A1ED1E1 )
 )
 
 game (
@@ -459,6 +476,14 @@ game (
 	name "Clockwork Orange (USA)"
 	description "Clockwork Orange (USA)"
 	rom ( name "Clockwork Orange (USA).iso" size 1706524672 crc 32F1D32F md5 3B99A23494771EA6F5DBE655CFB987BE sha1 87164B247898EF2A8EE1ED9A35CC5C8ED5942B0F )
+)
+
+game (
+	name "Clover Heart's Rea Hen (Japan)"
+	description "Clover Heart's Rea Hen (Japan)"
+	serial "PLCE-0011"
+	rom ( name "Clover Heart's Rea Hen (Japan) (Disc 1).iso" size 1635121152 crc C0091548 md5 68BE5461C4219ECE3636B17C06BEB03A sha1 699E4984651BF4566CC432731F3BD6DABE09EE68 )
+	rom ( name "Clover Heart's Rea Hen (Japan) (Disc 2).iso" size 1749612544 crc A14F4AF4 md5 84B0F171B31DACED62A5ABA52F2C5330 sha1 383DB27BD3989D468FB264D08B49DBA41384E0FB )
 )
 
 game (
@@ -784,6 +809,13 @@ game (
 )
 
 game (
+	name "Gekitou! Sexy Yakyuuken 2nd (Japan)"
+	description "Gekitou! Sexy Yakyuuken 2nd (Japan)"
+	serial "SEUM-002"
+	rom ( name "Gekitou! Sexy Yakyuuken 2nd (Japan).iso" size 1226670080 crc 4C84F324 md5 61C5229F6027C9DF3BC82B2F553788E3 sha1 A7886FC9AF5ECBE5BC1D3FDD6C64A98177739668 )
+)
+
+game (
 	name "Ghost in the Shell (Europe)"
 	description "Ghost in the Shell (Europe)"
 	rom ( name "Ghost in the Shell (Europe).iso" size 1566670848 crc B9CE72CB md5 F7344D9040C9C13FC659623938FF8A7A sha1 52671AC453BB4564C8B3E410B9EED2768D9355B3 )
@@ -817,10 +849,10 @@ game (
 	name "Gitai Saimin (Japan)"
 	description "Gitai Saimin (Japan)"
 	serial "PLCE-0019"
-	rom ( name "Gitai Saimin (Japan) (Disc 3).iso" size 1258389504 crc 9F441A05 md5 67C2C6110CA83422437C09B3A78706EF sha1 B7D3F41F57AF83D2E9F009632516C3377C55EED4 )
-	rom ( name "Gitai Saimin (Japan) (Disc 4).iso" size 1392443392 crc 64AA2124 md5 C8BEA30E6ACA6DC1764D3175892FAEF3 sha1 BB65A331195921E0A8A9A5523995C4DEE837F021 )
 	rom ( name "Gitai Saimin (Japan) (Disc 1).iso" size 1231126528 crc 6B3210BE md5 AC0C4193FADEAFC229ADD0922254AD5D sha1 9CC8CE832549337825AAC894B8CD389852BCEE10 )
 	rom ( name "Gitai Saimin (Japan) (Disc 2).iso" size 1357119488 crc 5E9873E6 md5 B947EF9EBE509EFD55A5C0D81254C5AC sha1 C52783F319F30C565E5CA41808B03C7B11B2934E )
+	rom ( name "Gitai Saimin (Japan) (Disc 3).iso" size 1258389504 crc 9F441A05 md5 67C2C6110CA83422437C09B3A78706EF sha1 B7D3F41F57AF83D2E9F009632516C3377C55EED4 )
+	rom ( name "Gitai Saimin (Japan) (Disc 4).iso" size 1392443392 crc 64AA2124 md5 C8BEA30E6ACA6DC1764D3175892FAEF3 sha1 BB65A331195921E0A8A9A5523995C4DEE837F021 )
 )
 
 game (
@@ -851,6 +883,13 @@ game (
 	name "Grand Theft Auto (Europe)"
 	description "Grand Theft Auto (Europe)"
 	rom ( name "Grand Theft Auto (Europe).iso" size 1624670208 crc 1DD191E9 md5 0BB28F00A76C7E15A53032C593DFC785 sha1 5753AA37F431764C4072690A6B28C486F3095789 )
+)
+
+game (
+	name "Growlanser V - Characters Guide (Japan)"
+	description "Growlanser V - Characters Guide (Japan)"
+	serial "AUMD-1000"
+	rom ( name "Growlanser V - Characters Guide (Japan).iso" size 1635090432 crc 1BFC7E16 md5 62A4F9427A142D2B55E544281215AB21 sha1 C36B01EF89B17BBA8889BFD65D98E42F5F407011 )
 )
 
 game (
@@ -1243,6 +1282,13 @@ game (
 )
 
 game (
+	name "Love Fetish - Te Koki Hen (Japan) (UMD-PG Edition)"
+	description "Love Fetish - Te Koki Hen (Japan) (UMD-PG Edition)"
+	serial "PLCE-021"
+	rom ( name "Love Fetish - Te Koki Hen (Japan) (UMD-PG Edition).iso" size 1697480704 crc D24ECC09 md5 71E87E46C6299C974C3B375934634AB7 sha1 96E8C43D1BFDFDFA1B66C13D8016B8A8283E0191 )
+)
+
+game (
 	name "LOVERS -Koi ni Ochitara...- (Japan) [b]"
 	description "LOVERS -Koi ni Ochitara...- (Japan) [b]"
 	serial "PLCE-00021"
@@ -1404,6 +1450,13 @@ game (
 )
 
 game (
+	name "Nugase!! Super Sexy Mahjong 6 (Japan)"
+	description "Nugase!! Super Sexy Mahjong 6 (Japan)"
+	serial "PEA-12"
+	rom ( name "Nugase!! Super Sexy Mahjong 6 (Japan).iso" size 1712717824 crc F57EE2D0 md5 0DBAA03DE701C36BE7C120BDE5EAE40B sha1 BB81D71930071A1B73C6986A80D08123AB52FB14 )
+)
+
+game (
 	name "Ocean's Thirteen (Europe)"
 	description "Ocean's Thirteen (Europe)"
 	rom ( name "Ocean's Thirteen (Europe).iso" size 1617002496 crc 203E88B1 md5 A6FF28E06B405AFAA81B800A7AD9E23D sha1 7B9A86E245336F4593C04ED30A4ADDA51E4AF1E5 )
@@ -1413,6 +1466,13 @@ game (
 	name "Oceans 11 (Japan, Europe)"
 	description "Oceans 11 (Japan, Europe)"
 	rom ( name "Oceans 11 (Japan, Europe).iso" size 1654816768 crc 9837E8E9 md5 4BAD0DEE4418E1A3DD6A71C4E50BB4E2 sha1 7CE09CFC9F75098126ED13827B02E2318DBBC1A2 )
+)
+
+game (
+	name "Ogura Yuko - Milky & Duo (Japan)"
+	description "Ogura Yuko - Milky & Duo (Japan)"
+	serial "FSCU-6002"
+	rom ( name "Ogura Yuko - Milky & Duo (Japan).iso" size 1678508032 crc 5C8BA54A md5 88334904EE307D20330BC17324B0AF92 sha1 8A6F12CF019089E3DBD89A7C04CF889A3EA1B4EC )
 )
 
 game (
@@ -1498,15 +1558,15 @@ game (
 game (
 	name "Prison Break Season 1 (Europe)"
 	description "Prison Break Season 1 (Europe)"
-	serial "PBS1D6"
-	rom ( name "Prison Break Season 1 (Europe) (Disc 6).iso" size 1746927616 crc 30DDA0AB md5 E3AE17F62E9DE6C4441F29D23474E03D sha1 CEC94CEBF07F007EE03A8679AFFCE745AC8F9E57 )
-	rom ( name "Prison Break Season 1 (Europe) (Disc 3).iso" size 1736441856 crc B881BBB1 md5 21E4F7C7F965A1E10E57CB458E8FF6E9 sha1 03443C002429F22D8C973B494F499146F6C9EBE0 )
-	rom ( name "Prison Break Season 1 (Europe) (Disc 7).iso" size 1154449408 crc 6BE32AB3 md5 0E7060B293128A5C937E2B53463FFF30 sha1 6D31A031796B1363E8AA99A532862DA28D589035 )
-	rom ( name "Prison Break Season 1 (Europe) (Disc 4).iso" size 1738604544 crc D2377FCC md5 65C3A17EFCDF056E068608019EA197CA sha1 5A8981F8C3F2810C171238A120F4380E17FC15BD )
+	serial "PBS1D1"
 	rom ( name "Prison Break Season 1 (Europe) (Disc 1).iso" size 1748271104 crc 102CC4B8 md5 9FD7196BC30098FDACA36F4825A5E59D sha1 35B2F3BAA6E7C917D19214FA25108C36F7649272 )
 	rom ( name "Prison Break Season 1 (Europe) (Disc 8).iso" size 1151238144 crc A4D4E82F md5 0F90149F4947CB66B26CAAA4742BE3BC sha1 009722C3F3D91D3387A5A53946F9874B4A7E0C44 )
 	rom ( name "Prison Break Season 1 (Europe) (Disc 5).iso" size 1733689344 crc 7BD0D200 md5 1325D39EDBBB0C706A2518968555DCFF sha1 C05F55FB748D5707795DD1A497E3F74EC640028C )
 	rom ( name "Prison Break Season 1 (Europe) (Disc 2).iso" size 1750269952 crc 01151E55 md5 E30BB73F5DA1605CACF0CD93551D6ED2 sha1 C8942544703CA5CB2D7675A418D1373D3663B32E )
+	rom ( name "Prison Break Season 1 (Europe) (Disc 6).iso" size 1746927616 crc 30DDA0AB md5 E3AE17F62E9DE6C4441F29D23474E03D sha1 CEC94CEBF07F007EE03A8679AFFCE745AC8F9E57 )
+	rom ( name "Prison Break Season 1 (Europe) (Disc 3).iso" size 1736441856 crc B881BBB1 md5 21E4F7C7F965A1E10E57CB458E8FF6E9 sha1 03443C002429F22D8C973B494F499146F6C9EBE0 )
+	rom ( name "Prison Break Season 1 (Europe) (Disc 7).iso" size 1154449408 crc 6BE32AB3 md5 0E7060B293128A5C937E2B53463FFF30 sha1 6D31A031796B1363E8AA99A532862DA28D589035 )
+	rom ( name "Prison Break Season 1 (Europe) (Disc 4).iso" size 1738604544 crc D2377FCC md5 65C3A17EFCDF056E068608019EA197CA sha1 5A8981F8C3F2810C171238A120F4380E17FC15BD )
 )
 
 game (
@@ -1658,11 +1718,11 @@ game (
 game (
 	name "School Days (Japan) [b]"
 	description "School Days (Japan) [b]"
-	serial "PLCE00093"
-	rom ( name "School Days (Japan) (Disc 3).iso" size 1766555648 crc AD11F166 md5 1570F043A1928F97D13DE7BA19A2D349 sha1 BC5069173AF0CCBA434C0D67E3FBAB4B1D528CA0 flags baddump )
-	rom ( name "School Days (Japan) (Disc 4) [b].iso" size 1766815744 crc 4216B31F md5 1C8054389649F6EFF2A9F3C79ED4F8E5 sha1 59269667E6171EF0C54054968B7E70595B1738D7 flags baddump )
+	serial "PLCE00091"
 	rom ( name "School Days (Japan) (Disc 1).iso" size 1760524288 crc 251706F1 md5 CD6D5D3C9F94DF737DE64E1C9EB9CD2C sha1 108EF644E1FA282C46402F7E7F1E764E28EFF623 flags baddump )
 	rom ( name "School Days (Japan) (Disc 2).iso" size 1763835904 crc CEC5DF0E md5 25970E6CFC0F506D5E538BD5D6E241D9 sha1 87209C9059E4796A0F2DCCBF54A02C4FA4594561 flags baddump )
+	rom ( name "School Days (Japan) (Disc 3).iso" size 1766555648 crc AD11F166 md5 1570F043A1928F97D13DE7BA19A2D349 sha1 BC5069173AF0CCBA434C0D67E3FBAB4B1D528CA0 flags baddump )
+	rom ( name "School Days (Japan) (Disc 4) [b].iso" size 1766815744 crc 4216B31F md5 1C8054389649F6EFF2A9F3C79ED4F8E5 sha1 59269667E6171EF0C54054968B7E70595B1738D7 flags baddump )
 )
 
 game (
@@ -1680,6 +1740,14 @@ game (
 )
 
 game (
+	name "Sekai wo Seifuku Suru Tame no, 3tsu no Houhou (Japan)"
+	description "Sekai wo Seifuku Suru Tame no, 3tsu no Houhou (Japan)"
+	serial "PLCE-0030"
+	rom ( name "Sekai wo Seifuku Suru Tame no, 3tsu no Houhou (Japan) (Disc 1).iso" size 1609531392 crc 4112D560 md5 FDE17A7869EE7487CB52ADCE2B44472B sha1 65615E417F3AFD3EA2FB4DDC2AD23785D743FDC6 )
+	rom ( name "Sekai wo Seifuku Suru Tame no, 3tsu no Houhou (Japan) (Disc 2).iso" size 1622769664 crc 56F7A72E md5 0181F444FF67BAF66A98B2A4DF4DB2A6 sha1 2C980E9BE9599EB7EF16E1DFDB0A22BB75EC3BB9 )
+)
+
+game (
 	name "Serenity (Japan, Europe)"
 	description "Serenity (Japan, Europe)"
 	rom ( name "Serenity (Japan, Europe).iso" size 1394049024 crc 6A80B095 md5 51D141693D9CE6BC72152E44C018A6A6 sha1 1786BE8852595F04D05946750F38DE189F31F8AC )
@@ -1694,11 +1762,11 @@ game (
 game (
 	name "Sharin no Kuni Himawari no Shoujo (Japan)"
 	description "Sharin no Kuni Himawari no Shoujo (Japan)"
-	serial "PLCE-00013"
-	rom ( name "Sharin no Kuni Himawari no Shoujo (Japan) (Disc 3).iso" size 1192753152 crc AD95F3F3 md5 38AA8D5FB18F74173712BDAAFBA6C1DB sha1 DBBAAE0420EE3F15D2CC9BF1C7D2F43CD8A43279 )
-	rom ( name "Sharin no Kuni Himawari no Shoujo (Japan) (Disc 4).iso" size 967213056 crc 8ACE81CB md5 ECE3686264B289847DCCB9F78B6852BE sha1 5C5FA53641B8D7BA044B639D9BEE709038E72D90 )
+	serial "PLCE-00011"
 	rom ( name "Sharin no Kuni Himawari no Shoujo (Japan) (Disc 1).iso" size 1768292352 crc 61603FA5 md5 CC9F36C7988376AD663F1EB223FA4377 sha1 6ADB8FEED052468EC3492523CC580D7E2219006E )
 	rom ( name "Sharin no Kuni Himawari no Shoujo (Japan) (Disc 2).iso" size 1527513088 crc BA0E06D2 md5 95279C1599A6DB0B13F2769A93E6E0A8 sha1 EEB6F300F79D547FA87D154BE6008C3BA6ED7467 )
+	rom ( name "Sharin no Kuni Himawari no Shoujo (Japan) (Disc 3).iso" size 1192753152 crc AD95F3F3 md5 38AA8D5FB18F74173712BDAAFBA6C1DB sha1 DBBAAE0420EE3F15D2CC9BF1C7D2F43CD8A43279 )
+	rom ( name "Sharin no Kuni Himawari no Shoujo (Japan) (Disc 4).iso" size 967213056 crc 8ACE81CB md5 ECE3686264B289847DCCB9F78B6852BE sha1 5C5FA53641B8D7BA044B639D9BEE709038E72D90 )
 )
 
 game (
@@ -1818,12 +1886,12 @@ game (
 )
 
 game (
-	name "Summer Days (Japan) [b]"
-	description "Summer Days (Japan) [b]"
+	name "Summer Days (Japan)"
+	description "Summer Days (Japan)"
 	serial "PLCE00171"
-	rom ( name "Summer Days - Disc 1 (Japan) [b].iso" size 1762326528 crc 622E7C59 md5 B973B80F744CFC7886F363551ADCEFC5 sha1 C9ACB7EF3921B2D0245F1C346901EB5B34184A32 flags baddump )
-	rom ( name "Summer Days - Disc 2 (Japan) [b].iso" size 1711831040 crc 68433287 md5 87C811CD9458B8BD63CD0DF5AFB2D2F4 sha1 DCB9B94781B909B65BDC67F4BCA8FC826511F537 flags baddump )
-	rom ( name "Summer Days - Disc 3 (Japan) [b].iso" size 1735817216 crc 823FBEB6 md5 5658217305DD74549F17060624133FB2 sha1 BC9550A2D428462ADAE81E601B0F7F9B2E167CD9 flags baddump )
+	rom ( name "Summer Days (Japan) (Disc 1).iso" size 1762326528 crc 622E7C59 md5 B973B80F744CFC7886F363551ADCEFC5 sha1 C9ACB7EF3921B2D0245F1C346901EB5B34184A32 )
+	rom ( name "Summer Days (Japan) (Disc 2).iso" size 1711831040 crc 68433287 md5 87C811CD9458B8BD63CD0DF5AFB2D2F4 sha1 DCB9B94781B909B65BDC67F4BCA8FC826511F537 )
+	rom ( name "Summer Days (Japan) (Disc 3).iso" size 1735817216 crc 823FBEB6 md5 5658217305DD74549F17060624133FB2 sha1 BC9550A2D428462ADAE81E601B0F7F9B2E167CD9 )
 )
 
 game (
@@ -1982,6 +2050,14 @@ game (
 	name "Unleashed (USA)"
 	description "Unleashed (USA)"
 	rom ( name "Unleashed (USA).iso" size 1671036928 crc 9CEAAB29 md5 1CE643928F8B7AB546019D6FC48B5671 sha1 4F0E5BBEC95EC82DE6D71C4C922CB20481991893 )
+)
+
+game (
+	name "Ura Saiminjyutsu 2 (Japan)"
+	description "Ura Saiminjyutsu 2 (Japan)"
+	serial "PLCE-0008"
+	rom ( name "Ura Saiminjyutsu 2 (Japan) (Disc 1).iso" size 1743878144 crc 430430CF md5 3B66D3DC0453B1C4CC59BCEBA2518313 sha1 0AAC582982B3621096AF6BA4488BD9E2D2777B55 )
+	rom ( name "Ura Saiminjyutsu 2 (Japan) (Disc 2).iso" size 1216116736 crc 3D1ADDA0 md5 B8B74FA1E0D75556438CE5A4ADB71BE1 sha1 503FD2B7722E48245ABDDA186358AA85B481B8CA )
 )
 
 game (

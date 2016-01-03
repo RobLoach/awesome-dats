@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Nintendo - Nintendo 3DS (DLC)"
 	description "Nintendo - Nintendo 3DS (DLC)"
-	version #713
+	version #744
 	comment "no-intro | www.no-intro.org"
 )
 
@@ -4024,6 +4024,55 @@ game (
 )
 
 game (
+	name "0575 - Shippuu no Usagi-Maru - Megumi no Tama to Fuuma no Shirushi (Japan) (eShop)"
+	description "0575 - Shippuu no Usagi-Maru - Megumi no Tama to Fuuma no Shirushi (Japan) (eShop)"
+	serial "CTR-N-JSPJ"
+	rom ( name "0575 - Shippuu no Usagi-Maru - Megumi no Tama to Fuuma no Shirushi (Japan) (eShop).3ds" size 134217728 crc 54530F65 md5 8003695FFE68769F59A3494119364988 sha1 AC613D96B3D671F1BBB5CB262086E815E7BF8DC5 )
+)
+
+game (
+	name "0576 - Shippuu no Usagi-Maru - Nazo no Karakurijou (Japan) (eShop)"
+	description "0576 - Shippuu no Usagi-Maru - Nazo no Karakurijou (Japan) (eShop)"
+	serial "CTR-N-KRBJ"
+	rom ( name "0576 - Shippuu no Usagi-Maru - Nazo no Karakurijou (Japan) (eShop).3ds" size 134217728 crc 2DF1C5C9 md5 67736FF8CA7D057A4FFB813B88563071 sha1 63E2575045E397E4CB29BEB8D5E6E6F4B76582D1 )
+)
+
+game (
+	name "0577 - Kirby's Dream Land (Europe) (GB) (Virtual Console)"
+	description "0577 - Kirby's Dream Land (Europe) (GB) (Virtual Console)"
+	serial "CTR-N-RAFP"
+	rom ( name "0577 - Kirby's Dream Land (Europe) (GB) (Virtual Console).3ds" size 134217728 crc F061C0E6 md5 65DDD38DD4D1789E4FD45C5D220B1CC6 sha1 50A78D2B16B7B1D7B5DF34DD7F03ADB8E6921E77 )
+)
+
+game (
+	name "0578 - Kirby's Dream Land 2 (Europe) (GB) (Virtual Console)"
+	description "0578 - Kirby's Dream Land 2 (Europe) (GB) (Virtual Console)"
+	serial "CTR-N-RBNP"
+	rom ( name "0578 - Kirby's Dream Land 2 (Europe) (GB) (Virtual Console).3ds" size 134217728 crc 7C66110D md5 B002E681F7D186E580D2A9649A63732D sha1 621B061AB802B420C511FF7039BEC4A843922410 )
+)
+
+game (
+	name "0579 - Kirby's Block Ball (Europe) (GB) (Virtual Console)"
+	description "0579 - Kirby's Block Ball (Europe) (GB) (Virtual Console)"
+	serial "CTR-N-RBKP"
+	rom ( name "0579 - Kirby's Block Ball (Europe) (GB) (Virtual Console).3ds" size 134217728 crc 2ECE0735 md5 67FBB245AD71642DE40F8BA3BF76AA07 sha1 4A3243D7452DA9AC62BB50F475B37E296E1AF630 )
+)
+
+game (
+	name "0580 - Kirby's Star Stacker (Europe) (GB) (Virtual Console)"
+	description "0580 - Kirby's Star Stacker (Europe) (GB) (Virtual Console)"
+	serial "CTR-N-RBYP"
+	rom ( name "0580 - Kirby's Star Stacker (Europe) (GB) (Virtual Console).3ds" size 134217728 crc 81505A54 md5 10E85E8E7CD8EE6A6F9D1800B83E2BA6 sha1 EA195168D909B9CE434EB5BF99DAACBCA49636E0 )
+)
+
+game (
+	name "0581 - Kirby's Pinball Land (Europe) (GB) (Virtual Console)"
+	description "0581 - Kirby's Pinball Land (Europe) (GB) (Virtual Console)"
+	serial "CTR-N-RBZP"
+	rom ( name "0581 - Kirby's Pinball Land (Europe) (GB) (Virtual Console).3ds" size 134217728 crc C8C5A346 md5 7AE3C9F74E783356B00F836E09B20D93 sha1 FA53CBDF2A1FDF524B3B058D2E2440D1579E0187 )
+)
+
+game (
 	name "z001 - Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It) (Legit Cia)"
 	description "z001 - Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It) (Legit Cia)"
 	serial "CTR-P-EGDP"
@@ -4994,5 +5043,173 @@ game (
 	description "z139 - Pokemon Picross (World) (En,Ja,Fr,De,Es,It) (eShop)"
 	serial "CTR-N-JFJA"
 	rom ( name "z139 - Pokemon Picross (World) (En,Ja,Fr,De,Es,It) (eShop).3ds" size 134217728 crc 57AF96CC md5 B1459E8AC0C1B6D99559E3F2ECD411A3 sha1 423F4EAC802322E85EEAD20737EC79365B37828C )
+)
+
+game (
+	name "z140 - 3D Classics - Twinbee (Europe) (eShop)"
+	description "z140 - 3D Classics - Twinbee (Europe) (eShop)"
+	serial "CTR-N-SACP"
+	rom ( name "z140 - 3D Classics - Twinbee (Europe) (eShop).3ds" size 134217728 crc AAC57D6C md5 4D5E2A32301E557F5B5ABAF896C1E3D8 sha1 F0519F70B630F1A817C9369B36015F47885F5332 )
+)
+
+game (
+	name "z141 - 3D Classics Urban Champion (Europe) (eShop)"
+	description "z141 - 3D Classics Urban Champion (Europe) (eShop)"
+	serial "CTR-N-SADP"
+	rom ( name "z141 - 3D Classics Urban Champion (Europe) (eShop).3ds" size 134217728 crc B8561C4E md5 EE4D3B3749D57652D36F346E2CD4DAFA sha1 8E1C20C826F66E96B76DD2A7662D37696C4CB323 )
+)
+
+game (
+	name "z142 - Toki Tori 3D (Europe) (En,Fr,De,Es,It) (eShop)"
+	description "z142 - Toki Tori 3D (Europe) (En,Fr,De,Es,It) (eShop)"
+	serial "CTR-N-KT2P"
+	rom ( name "z142 - Toki Tori 3D (Europe) (En,Fr,De,Es,It) (eShop).3ds" size 134217728 crc BD367BAD md5 5453E751B05E426359D1F230FE41EC11 sha1 D1E1ECBC1D5A7D786F311ED7F96FECBB9F20E54C )
+)
+
+game (
+	name "z143 - Johnny's Payday Panic (Europe) (En,Fr,De,Es,It) (eShop) [b]"
+	description "z143 - Johnny's Payday Panic (Europe) (En,Fr,De,Es,It) (eShop) [b]"
+	serial "CTR-N-KAKP"
+	rom ( name "z143 - Johnny's Payday Panic (Europe) (En,Fr,De,Es,It) (eShop) [b].3ds" size 134217728 crc 9841392E md5 B224CFDF7133FC822BCFFBF3DB28ECB4 sha1 198099631BDB7D531478CF587D2B84AE266BAB88 flags baddump )
+)
+
+game (
+	name "z144 - Angry Video Game Nerd Adventures, The (Europe) (eShop) [b]"
+	description "z144 - Angry Video Game Nerd Adventures, The (Europe) (eShop) [b]"
+	serial "CTR-N-KNAP"
+	rom ( name "z144 - Angry Video Game Nerd Adventures, The (Europe) (eShop) [b].3ds" size 134217728 crc 661C6761 md5 8E4E3B30E552FFC6DA62A31903701979 sha1 AC8E1EEA44F42E7B9C72083BF8ED1C422BC0C42B flags baddump )
+)
+
+game (
+	name "z145 - Magic Hammer, The (Europe) (eShop) [b]"
+	description "z145 - Magic Hammer, The (Europe) (eShop) [b]"
+	serial "CTR-N-KHMP"
+	rom ( name "z145 - Magic Hammer, The (Europe) (eShop) [b].3ds" size 134217728 crc 64CA6994 md5 553F7596C0B55A556043267829C866F4 sha1 07BAE302794C2522E808139E0705BEE274EA4F76 flags baddump )
+)
+
+game (
+	name "z146 - Q (Japan) (eShop)"
+	description "z146 - Q (Japan) (eShop)"
+	serial "CTR-N-KQRJ"
+	rom ( name "z146 - Q (Japan) (eShop).3ds" size 134217728 crc 9806F756 md5 67DAF6BB0FCF2075E0F79180D5672600 sha1 2DB3594FC3F0B007071383A4E95D0E95262F70D8 )
+)
+
+game (
+	name "z147 - Dementium Remastered (USA) (eShop)"
+	description "z147 - Dementium Remastered (USA) (eShop)"
+	serial "CTR-N-KDDE"
+	rom ( name "z147 - Dementium Remastered (USA) (eShop).3ds" size 134217728 crc 4E42F780 md5 510F2A807276C826768A0A688671A179 sha1 39FBD0E469363F514E2E54BB632F52C0C0247561 )
+)
+
+game (
+	name "z148 - Terraria (USA) (eShop)"
+	description "z148 - Terraria (USA) (eShop)"
+	serial "CTR-P-BTEE"
+	rom ( name "z148 - Terraria (USA) (eShop).3ds" size 134217728 crc F283B957 md5 9EA98A6BD3BAC2ABEC1F8E0A54F8B4C9 sha1 4BF885285CA5ADEE7B572DEA5690AF0E22E2A84F )
+)
+
+game (
+	name "z149 - Simple DL Series Vol. 31 - The Misshitsu Kara no Dasshutsu - Enchou Hisshi no Karaoke Hen (Japan) (eShop)"
+	description "z149 - Simple DL Series Vol. 31 - The Misshitsu Kara no Dasshutsu - Enchou Hisshi no Karaoke Hen (Japan) (eShop)"
+	serial "CTR-N-KRDJ"
+	rom ( name "z149 - Simple DL Series Vol. 31 - The Misshitsu Kara no Dasshutsu - Enchou Hisshi no Karaoke Hen (Japan) (eShop).3ds" size 134217728 crc 1066AA00 md5 AEC4A1B497E3393267F224877A71F9B0 sha1 DADC730D0CD89904032C20764097BE8E43F661B3 )
+)
+
+game (
+	name "z150 - SolitiBa (Japan) (eShop)"
+	description "z150 - SolitiBa (Japan) (eShop)"
+	serial "CTR-N-JVAJ"
+	rom ( name "z150 - SolitiBa (Japan) (eShop).3ds" size 134217728 crc 1B3C8258 md5 2482642DC7956F4FA2934A5C89A85B98 sha1 62CBEF3AABADD896F992F6CAD9B5D1D25F1BFAA3 )
+)
+
+game (
+	name "z151 - Cube Creator 3D (USA) (Rev 1) (eShop)"
+	description "z151 - Cube Creator 3D (USA) (Rev 1) (eShop)"
+	serial "CTR-N-KCCE"
+	rom ( name "z151 - Cube Creator 3D (USA) (Rev 1) (eShop).3ds" size 134217728 crc 2723F201 md5 F72CCFB21989D828957C97A172A3E3CB sha1 FEE5954DFF1C91F0257C684FC5E2E61E420F9A01 )
+)
+
+game (
+	name "z152 - Shovel Knight + Shovel Knight - Plague of Shadows (Europe) (En,Fr,De,Es,It) (Rev 2.1) (eShop)"
+	description "z152 - Shovel Knight + Shovel Knight - Plague of Shadows (Europe) (En,Fr,De,Es,It) (Rev 2.1) (eShop)"
+	serial "CTR-N-JK8P"
+	rom ( name "z152 - Shovel Knight + Shovel Knight - Plague of Shadows (Europe) (En,Fr,De,Es,It) (Rev 2.1) (eShop).3ds" size 134217728 crc 9AC6FDB8 md5 14E05F8C64B459FBA541755D2AE03929 sha1 A3B0BCF1DC5AB30BA0BE60837C3C6B0D8A1E56BC )
+)
+
+game (
+	name "z153 - Simple DL Series Vol. 3 - The Misshitsu Kara no Dasshutsu - Celeb na Goutei Hen (Japan) (eShop)"
+	description "z153 - Simple DL Series Vol. 3 - The Misshitsu Kara no Dasshutsu - Celeb na Goutei Hen (Japan) (eShop)"
+	serial "CTR-N-JM3J"
+	rom ( name "z153 - Simple DL Series Vol. 3 - The Misshitsu Kara no Dasshutsu - Celeb na Goutei Hen (Japan) (eShop).3ds" size 134217728 crc 3DAE6178 md5 6393C737BF63793E3E32615E1166924F sha1 D123C805752CB86E3119216E6B166F00290A6134 )
+)
+
+game (
+	name "z154 - Simple DL Series Vol. 9 - The Misshitsu Kara no Dasshutsu - Tv Kyoku Micchaku 24-Ji Hen (Japan) (eShop)"
+	description "z154 - Simple DL Series Vol. 9 - The Misshitsu Kara no Dasshutsu - Tv Kyoku Micchaku 24-Ji Hen (Japan) (eShop)"
+	serial "CTR-N-JM7J"
+	rom ( name "z154 - Simple DL Series Vol. 9 - The Misshitsu Kara no Dasshutsu - Tv Kyoku Micchaku 24-Ji Hen (Japan) (eShop).3ds" size 134217728 crc DA415F8C md5 B7217E3F21B7313C4310C9D2FE2F8966 sha1 ED0FCFC492D8B0403266FCCD6BAD2CF6F2C0A331 )
+)
+
+game (
+	name "z155 - Escape From Zombie City (USA) (eShop)"
+	description "z155 - Escape From Zombie City (USA) (eShop)"
+	serial "CTR-N-JZBE"
+	rom ( name "z155 - Escape From Zombie City (USA) (eShop).3ds" size 134217728 crc 91BDA4EB md5 8D60132A12E727500B4334CED1119CD7 sha1 005141AD6BF57758A87703C9839F6F20B5EB5FCB )
+)
+
+game (
+	name "z156 - Rytmik Ultimate (USA) (eShop)"
+	description "z156 - Rytmik Ultimate (USA) (eShop)"
+	serial "CTR-N-KRUE"
+	rom ( name "z156 - Rytmik Ultimate (USA) (eShop).3ds" size 134217728 crc 6975BC39 md5 0F23E57D718FB2DDB091ECA1ED015F45 sha1 5D187F082E51B110E06C40BB5A8F9DFF9DA8EADF )
+)
+
+game (
+	name "z157 - Legend of Dark Witch 2, The (USA) (eShop)"
+	description "z157 - Legend of Dark Witch 2, The (USA) (eShop)"
+	serial "CTR-N-KMJE"
+	rom ( name "z157 - Legend of Dark Witch 2, The (USA) (eShop).3ds" size 536870912 crc 655E0571 md5 083263C2CE1F829977FF677DBD9B441D sha1 7FFDB2AAD7E42D65F65B012420C1C33808543CDB )
+)
+
+game (
+	name "z158 - Gunslugs 2 (USA) (eShop)"
+	description "z158 - Gunslugs 2 (USA) (eShop)"
+	serial "CTR-N-KGVE"
+	rom ( name "z158 - Gunslugs 2 (USA) (eShop).3ds" size 134217728 crc F56A6413 md5 38169FE3D5530315A838A618404E09B0 sha1 AC098A76FCBAE0CC2B8FA999A0067E7B012DDDF7 )
+)
+
+game (
+	name "z159 - Japanese Rail Sim 3D - Journey to Kyoto (Europe) (eShop)"
+	description "z159 - Japanese Rail Sim 3D - Journey to Kyoto (Europe) (eShop)"
+	serial "CTR-N-BEDP"
+	rom ( name "z159 - Japanese Rail Sim 3D - Journey to Kyoto (Europe) (eShop).3ds" size 1073741824 crc 32A99D41 md5 2BC931E16AB1A14181E2CF3C671BB6EC sha1 A2F43B9D602E786E82A80C919F9AFCC1AAFC8E7A )
+)
+
+game (
+	name "z160 - Cube Creator 3D (Europe) (En,Fr,De,Es) (Rev 1) (eShop)"
+	description "z160 - Cube Creator 3D (Europe) (En,Fr,De,Es) (Rev 1) (eShop)"
+	serial "CTR-N-KCCP"
+	rom ( name "z160 - Cube Creator 3D (Europe) (En,Fr,De,Es) (Rev 1) (eShop).3ds" size 134217728 crc 64F446BC md5 CCEB8BA40DB7E34AEE8B452F4AEBA204 sha1 7DA454F74637EEB6E1C1A295DE8C77A320FE1C51 )
+)
+
+game (
+	name "z161 - Delusions of Von Sottendorff and His Squared Mind, The (Europe) (En,Fr,De,Es,It,Pt) (eShop)"
+	description "z161 - Delusions of Von Sottendorff and His Squared Mind, The (Europe) (En,Fr,De,Es,It,Pt) (eShop)"
+	serial "CTR-N-JDHP"
+	rom ( name "z161 - Delusions of Von Sottendorff and His Squared Mind, The (Europe) (En,Fr,De,Es,It,Pt) (eShop).3ds" size 536870912 crc 6AF9D7C6 md5 FEC606C426B8D1644D1A2F8DC7DD1E53 sha1 26280EAB73A232CDCA2663E4C1DA869910A7F108 )
+)
+
+game (
+	name "z162 - Gunslugs 2 (Europe) (eShop)"
+	description "z162 - Gunslugs 2 (Europe) (eShop)"
+	serial "CTR-N-KGVP"
+	rom ( name "z162 - Gunslugs 2 (Europe) (eShop).3ds" size 134217728 crc 673F3F22 md5 4B858743CAEFAF6F01B335EF97AC31BB sha1 C6D539D58687836440B6C0B1C0B1CB99CB3DAFE0 )
+)
+
+game (
+	name "z163 - Chronus Arc (Europe) (eShop)"
+	description "z163 - Chronus Arc (Europe) (eShop)"
+	serial "CTR-N-JCNP"
+	rom ( name "z163 - Chronus Arc (Europe) (eShop).3ds" size 134217728 crc 626791BB md5 2465E744AC1FFF4DCCFADC6AC0367928 sha1 790933B136DF040B4A51EE173202D6FB3CAE7AD1 )
 )
 
