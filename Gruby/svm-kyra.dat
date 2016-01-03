@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM KYRA"
 	description "ScummVM - KYRA Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2015-12-03
+	version v1.02
+	date 2015-12-30
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -5397,7 +5397,7 @@ game (
 
 game (
 	name lol-fm-jp
-	description "Lands of Lore: The Throne of Chaos (FM-TOWNS/Japanese)"
+	description "Lands of Lore: The Throne of Chaos (FM-Towns/Japanese)"
 	year 1995
 	manufacturer "Westwood Studios"
 	sourcefile kyra

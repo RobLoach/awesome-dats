@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM GOB"
 	description "ScummVM - GOB Engine Games"
 	category "ScummVM"
-	version v1.09
-	date 2015-12-12
+	version v1.12
+	date 2015-12-30
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -984,7 +984,7 @@ game (
 
 game (
 	name dynasty-uk
-	description "Last Dynasty, The (DOS/English (UK))[!]"
+	description "Last Dynasty, The (DOS/UK)[!]"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1311,19 +1311,6 @@ game (
 
 game (
 	name gob1
-	description "Gobliiins (VGA/DOS)[GOG][!]"
-	year 1992
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	rom ( name DISK1.STK size 496145 crc c209b551 md5 604cbe12f143cc841223d0670f6428eb )
-	rom ( name DISK2.STK size 628628 crc ad991442 md5 aefab95365d966d1413d72c57267db38 )
-	rom ( name DISK3.STK size 644169 crc 9627b236 md5 e8e4151705f87a515a309d225f83a01f )
-	rom ( name DISK4.STK size 571911 crc deb4d18e md5 3cde14de82a30dc559e00e7ef7fade88 )
-	rom ( name INTRO.STK size 233466 crc d05bd5b2 md5 a5e232fcd02733c7dffff107d22d36eb )
-)
-
-game (
-	name gob1-1
 	description "Gobliiins (EGA/DOS)"
 	year 1992
 	manufacturer "Coktel Vision"
@@ -1336,7 +1323,7 @@ game (
 )
 
 game (
-	name gob1-2
+	name gob1-1
 	description "Gobliiins (EGA/DOS)[a1]"
 	year 1992
 	manufacturer "Coktel Vision"
@@ -1349,7 +1336,7 @@ game (
 )
 
 game (
-	name gob1-3
+	name gob1-2
 	description "Gobliiins (EGA/DOS)[a2]"
 	year 1992
 	manufacturer "Coktel Vision"
@@ -1399,6 +1386,19 @@ game (
 	sourcefile gob
 	rom ( name DISK1.STK size 588595 crc 61fbf3af md5 b6bb374e108490d19f901c0b7fd1592a )
 	rom ( name INTRO.STK size 116582 crc bfc28e63 md5 0f4997181908ffb489b48c6acc49f982 )
+)
+
+game (
+	name gob1-gog
+	description "Gobliiins (VGA/DOS)[GOG][!]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name DISK1.STK size 496145 crc c209b551 md5 604cbe12f143cc841223d0670f6428eb )
+	rom ( name DISK2.STK size 628628 crc ad991442 md5 aefab95365d966d1413d72c57267db38 )
+	rom ( name DISK3.STK size 644169 crc 9627b236 md5 e8e4151705f87a515a309d225f83a01f )
+	rom ( name DISK4.STK size 571911 crc deb4d18e md5 3cde14de82a30dc559e00e7ef7fade88 )
+	rom ( name INTRO.STK size 233466 crc d05bd5b2 md5 a5e232fcd02733c7dffff107d22d36eb )
 )
 
 game (
@@ -1489,9 +1489,9 @@ game (
 	year 2009
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof g1a
 	rom ( name GOB.LIC size 949 crc 21ac85cd md5 3d53324939418df5815e613635ac1d8a )
 	rom ( name INTRO.STK size 4049248 crc 523c9561 md5 e02dd8d52b2222e1a4e8340ca6fc73c7 )
-	rom ( name Track1.mp3 size 47410991 crc 9b95073a md5 6b8df9f1c4a72c73ae1ea0038c1ddcb4 )
 )
 
 game (
@@ -1540,7 +1540,7 @@ game (
 
 game (
 	name gob1cd-uk
-	description "Gobliiins CD (v1.02/DOS/English (UK))[!]"
+	description "Gobliiins CD (v1.02/DOS/UK)[GOG][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3200,6 +3200,26 @@ game (
 )
 
 game (
+	name playtoons2-de
+	description "Playtoons 2: The Case of the Counterfeit Collaborator (DOS/German)"
+	year 1994
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name DEMO.ITK size 13715456 crc ec55791a md5 fed7676992fc86ace883190e4170d7c8 )
+	rom ( name DISK.002 size 1 crc 1ad5be0d md5 c81e728d9d4c2f636f067f89cc14862c )
+	rom ( name INTRO.ITK size 3844096 crc 227879b4 md5 b8727f88c9174544e5ac93f84e3d82a9 )
+	rom ( name INTRO2.STK size 328806 crc 0d65041c md5 cb96d3d4dbe8e3566820094d0e1bc58a )
+	rom ( name PLAYTOON.ITK size 87711744 crc 156d8cf6 md5 5ebb453fa621811c6dd19a804ef8d709 )
+	rom ( name PLAYTOON.STK size 25158926 crc 6d93bd7a md5 ea228753fb5e8782944ca7a0b542a416 )
+	rom ( name PLAYTOON.VER size 6 crc 47d43ceb md5 23dca308b302cbe1af5533790f688c30 )
+	rom ( name SPIROU.ITK size 404934656 crc e9657eec md5 4d014afe885aad79b9159a77d66cc84f )
+	rom ( name SPIROU.STK size 9817086 crc 2157b82c md5 004f1e88b9a373c03aa607a08ae06aab )
+	rom ( name TITRE.001 size 116 crc 1678bf30 md5 bde1c8ed6f80f51b916b43d86ce23a5d )
+	rom ( name TITRE.002 size 168 crc 7e76e419 md5 cfc6eed2f9090bcf6f1b83db6a01ac2e )
+	rom ( name TITRE.003 size 172 crc abd4fee1 md5 7c1988641c09af76706a3bffa233f5fe )
+)
+
+game (
 	name playtoons2-fr
 	description "Playtoons 2: The Case of the Counterfeit Collaborator (DOS/French)"
 	year 1994
@@ -3239,6 +3259,26 @@ game (
 	rom ( name TITRE.002 size 168 crc 7e76e419 md5 cfc6eed2f9090bcf6f1b83db6a01ac2e )
 	rom ( name TITRE.003 size 172 crc ac973d8a md5 70c73f96abe679ff31439204a3dae20e )
 	rom ( name TITRE.004 size 154 crc 12c95930 md5 2c6f946731addbe3d4d42250fb6d2bb5 )
+)
+
+game (
+	name playtoons3-de
+	description "Playtoons 3: The Secret of the Castle (DOS/German)"
+	year 1994
+	manufacturer "Sierra Studios"
+	sourcefile gob
+	rom ( name CHATO.ITK size 196513792 crc f4e0fe79 md5 35fada843c1acc4c1cd7f803656d30ea )
+	rom ( name CHATO.STK size 6033791 crc 23725169 md5 417ff1ad207737e24ce044ea00b04793 )
+	rom ( name DEMO.ITK size 13715456 crc ec55791a md5 fed7676992fc86ace883190e4170d7c8 )
+	rom ( name DISK.003 size 1 crc 6dd28e9b md5 eccbc87e4b5ce2fe28308fd9f2a7baf3 )
+	rom ( name INTRO.ITK size 3844096 crc 227879b4 md5 b8727f88c9174544e5ac93f84e3d82a9 )
+	rom ( name INTRO2.STK size 328806 crc 0d65041c md5 cb96d3d4dbe8e3566820094d0e1bc58a )
+	rom ( name PLAYTOON.ITK size 87904256 crc 969cebba md5 ba50bbd89e9ab1b9847e220138d9ca4f )
+	rom ( name PLAYTOON.STK size 25158926 crc 6d93bd7a md5 ea228753fb5e8782944ca7a0b542a416 )
+	rom ( name PLAYTOON.VER size 6 crc 47d43ceb md5 23dca308b302cbe1af5533790f688c30 )
+	rom ( name TITRE.001 size 116 crc 1678bf30 md5 bde1c8ed6f80f51b916b43d86ce23a5d )
+	rom ( name TITRE.002 size 168 crc 7e76e419 md5 cfc6eed2f9090bcf6f1b83db6a01ac2e )
+	rom ( name TITRE.003 size 172 crc abd4fee1 md5 7c1988641c09af76706a3bffa233f5fe )
 )
 
 game (
@@ -6062,7 +6102,7 @@ resource (
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
-	rom ( name Track1.flac size 142044239 crc 402da0ca md5 c0bd42a8c3b65e89b16b1937c549a35a )
+	rom ( name Track1.mp3 size 47410991 crc 9b95073a md5 6b8df9f1c4a72c73ae1ea0038c1ddcb4 )
 )
 
 resource (

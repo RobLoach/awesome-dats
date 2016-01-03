@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM AGI"
 	description "ScummVM - AGI Engine Games"
 	category "ScummVM"
-	version v1.04
-	date 2015-12-18
+	version v1.05
+	date 2015-12-25
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -88,7 +88,7 @@ game (
 
 game (
 	name agi-fanmade-102
-	description "Naturette 4: From a Planet to Another Planet (2007-10-05 Fanmade/DOS/English/French)"
+	description "Naturette 4: From a Planet to Another Planet (2007-10-05 Fanmade/DOS/English, French)"
 	year 2007
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -277,7 +277,7 @@ game (
 	name agi-fanmade-113
 	description "Pirate Quest (Fanmade/DOS)"
 	year 2000
-	manufacturer "Unknown"
+	manufacturer "Ian C. Smith"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 7f45f1a9 md5 bb612a919ed2b9ea23bbf03ce69fed42 )
 	rom ( name OBJECT size 61 crc dd9da41b md5 af5088bf9f53e16bf55c254579b06ff3 )
@@ -697,7 +697,7 @@ game (
 	name agi-fanmade-139
 	description "Speeder Bike Challenge (v1.0 Fanmade/DOS)"
 	year 1999
-	manufacturer "Unknown"
+	manufacturer "Randy Dykstra"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc f65f9b1c md5 2deb25bab379285ca955df398d96c1e7 )
 	rom ( name OBJECT size 23 crc fedc35f4 md5 120acb1d39e89b1767364eb33097b051 )
@@ -743,7 +743,7 @@ game (
 	name agi-fanmade-141
 	description "Star Pilot: Bigger Fish (Fanmade/DOS)"
 	year 2004
-	manufacturer "Unknown"
+	manufacturer "M Wood"
 	sourcefile agi
 	rom ( name LOGDIR size 315 crc 6f66b422 md5 8cb26f8e1c045b75c6576c839d4a0172 )
 	rom ( name OBJECT size 98 crc 0310e2b5 md5 7ab07883f32cdf9c2b2ea07bad041bea )
@@ -758,7 +758,7 @@ game (
 	name agi-fanmade-142
 	description "Street Quest (Demo Fanmade/DOS)"
 	year 2002
-	manufacturer "Unknown"
+	manufacturer "Eigen Lenk"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc e97d31ed md5 cf2aa94a7eb78dce6892c37f03e310d6 )
 	rom ( name OBJECT size 36 crc c103e631 md5 7ebc9347db6f9da78d0cee70f731e450 )
@@ -775,7 +775,7 @@ game (
 	name agi-fanmade-143
 	description "Tales of the Tiki (Fanmade/DOS)"
 	year 2006
-	manufacturer "Unknown"
+	manufacturer "Kon Tiki"
 	sourcefile agi
 	rom ( name LOGDIR size 615 crc 3131d90b md5 8103c9c87e3964690a14a3d0d83f7ddc )
 	rom ( name OBJECT size 138 crc b8c0bc86 md5 ed6be6c698870cd1740e4b3bcca4a61e )
@@ -910,7 +910,7 @@ game (
 	name agi-fanmade-151
 	description "Legend of Zelda, The: The Fungus of Time (Demo v1.00 Fanmade/DOS)"
 	year 2000
-	manufacturer "Unknown"
+	manufacturer "Justin Kerk"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 19a77cef md5 dcaf8166ceb62a3d9b9aea7f3b197c09 )
 	rom ( name OBJECT size 23 crc fedc35f4 md5 120acb1d39e89b1767364eb33097b051 )
@@ -955,7 +955,7 @@ game (
 	name agi-fanmade-154
 	description "Long Haired Dude, The: Encounter of the 18-th Kind (Fanmade/DOS)"
 	year 2004
-	manufacturer "Unknown"
+	manufacturer "Eigen Lenk"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 57956f92 md5 86ea17b9fc2f3e537a7e40863d352c29 )
 	rom ( name OBJECT size 8 crc 37e17e93 md5 48f3689985df7c6a5ca7f28cb8ec76dd )
@@ -1090,7 +1090,7 @@ game (
 	name agi-fanmade-162
 	description "Tonight The Shrieking Corpses Bleed (Demo v0.11 Fanmade/DOS)"
 	year 2002
-	manufacturer "Unknown"
+	manufacturer "James Dover"
 	sourcefile agi
 	rom ( name LOGDIR size 762 crc 70678154 md5 bcc57a7c8d563fa0c333107ae1c0a6e6 )
 	rom ( name OBJECT size 68 crc 7b793aed md5 9de406211308189c65e86cf5ab1a6b9f )
@@ -1105,7 +1105,7 @@ game (
 	name agi-fanmade-163
 	description "Tonight The Shrieking Corpses Bleed (v1.01 Fanmade/DOS)"
 	year 2002
-	manufacturer "Magick Poultry Productions"
+	manufacturer "James Dover"
 	sourcefile agi
 	rom ( name LOGDIR size 762 crc 8566ce8f md5 36b38f621b38e8d104aa0807302dc8c9 )
 	rom ( name OBJECT size 352 crc d817df16 md5 3685c4aeb2a9b8e37a3627e910422203 )
@@ -1225,7 +1225,7 @@ game (
 	name agi-fanmade-170
 	description "V: The Graphical Adventure (Demo 2  Fanmade/DOS)"
 	year 2002
-	manufacturer "Unknown"
+	manufacturer "Bjoern Kahlenberg"
 	sourcefile agi
 	rom ( name OBJECT size 470 crc 442e73c7 md5 619ac462f2c19787d17b6fe213fed57c )
 	rom ( name TONE50.PCM size 88200 crc a1820ad3 md5 7d2a4b7c3e25d2130769bc8b71df1cf6 )
@@ -1557,7 +1557,7 @@ game (
 	name agi-fanmade-25
 	description "Band Quest (Demo Fanmade/DOS)"
 	year 2002
-	manufacturer "Unknown"
+	manufacturer "Eigen Lenk"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 1d4dd806 md5 7326abefd793571cc17ed0db647bdf34 )
 	rom ( name OBJECT size 26 crc e38e10f4 md5 b58f43bd313641369c01135b774a1c51 )
@@ -1572,7 +1572,7 @@ game (
 	name agi-fanmade-26
 	description "Band Quest (Early Demo Fanmade/DOS)"
 	year 2002
-	manufacturer "Unknown"
+	manufacturer "Eigen Lenk"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 31d3e373 md5 de4758dd34676b248c8301b32d93bc6f )
 	rom ( name OBJECT size 18 crc a68da8ef md5 7b8ee08a545789d08ec1ad8fba50db95 )
@@ -1692,7 +1692,7 @@ game (
 	name agi-fanmade-33
 	description "Brian's Quest (v1.0 Fanmade/DOS)"
 	year 2003
-	manufacturer "Unknown"
+	manufacturer "Brian"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc ac4fb9ad md5 0964aa79b9cdcff7f33a12b1d7e04b9c )
 	rom ( name OBJECT size 136 crc 84e83d42 md5 5a7d57d9a9b48828661814217ee7884e )
@@ -1919,7 +1919,7 @@ game (
 	name agi-fanmade-47
 	description "Disco Nights (Demo Fanmade/DOS)"
 	year 2001
-	manufacturer "Unknown"
+	manufacturer "Andrew Dickerson"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc fc26a44b md5 dc5a2b21182ba38bdcd992a3a978e690 )
 	rom ( name OBJECT size 55 crc f2195d2d md5 85a4441f572917917521869c6cbedef7 )
@@ -1934,7 +1934,7 @@ game (
 	name agi-fanmade-48
 	description "Dogs Quest: The Quest for the Golden Bone (v1.0 Fanmade/DOS)"
 	year 2001
-	manufacturer "Unknown"
+	manufacturer "Kool Productions"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc f7547b1e md5 f197357edaaea0ff70880602d2f09b3e )
 	rom ( name OBJECT size 35 crc 7d81b08b md5 1a8e2b3ae1adde8c79c07942dfddb6b8 )
@@ -1949,7 +1949,7 @@ game (
 	name agi-fanmade-49
 	description "Dr.Jummybummy's Space Adventure (Fanmade/DOS)"
 	year 2003
-	manufacturer "Unknown"
+	manufacturer "Eigen Lenk"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc dcfc9bf3 md5 988bd81785f8a452440a2a8ac67f96aa )
 	rom ( name OBJECT size 51 crc 4f5b09ed md5 fecdf6fd164f373167dc69edf929f381 )
@@ -1979,7 +1979,7 @@ game (
 	name agi-fanmade-50
 	description "Ed Ward (Fanmade/DOS)"
 	year 2002
-	manufacturer "Unknown"
+	manufacturer "Oliver Rull"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 74726e2c md5 98be839b9f30cbedea4c9cee5442d827 )
 	rom ( name OBJECT size 52 crc a2b52618 md5 57824cf036bef86d9c96617b11976b68 )
@@ -2089,7 +2089,7 @@ game (
 	name agi-fanmade-57
 	description "Escape from the Salesman (Fanmade/DOS)"
 	year 2005
-	manufacturer "Unknown"
+	manufacturer "Oliver Rull"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc b08f2bba md5 e723ca4fe0f6f56affe039fbb4dbeb6c )
 	rom ( name OBJECT size 27 crc 8f59fd7c md5 0817e4250a5fb5ecfef196e6f257138a )
@@ -2194,7 +2194,7 @@ game (
 	name agi-fanmade-63
 	description "Get Outta Space Quest (Fanmade/DOS)"
 	year 2001
-	manufacturer "Unknown"
+	manufacturer "Joey Rinella"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 841c1787 md5 aaea5b4a348acb669d13b0e6f22d4dc9 )
 	rom ( name OBJECT size 40 crc a6765350 md5 4e31b5b40e22a4b4e16cee791566ec8e )
@@ -2209,7 +2209,7 @@ game (
 	name agi-fanmade-64
 	description "Go West, Young Hippie (Fanmade/DOS)"
 	year 1995
-	manufacturer "Unknown"
+	manufacturer "Jeremiah Kauffman"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 1f9b4bb5 md5 ff31484ea465441cb5f3a0f8e956b716 )
 	rom ( name OBJECT size 43 crc 1de78025 md5 19db1dc1e489e1353dc6057e31482eef )
@@ -2379,7 +2379,7 @@ game (
 	name agi-fanmade-74
 	description "Jack & Julia: VAMPYR (Fanmade/DOS)"
 	year 1998
-	manufacturer "Unknown"
+	manufacturer "Adam McCoy"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc e30b1757 md5 8aa0b9a26f8d5a4421067ab8cc3706f6 )
 	rom ( name OBJECT size 8 crc 37e17e93 md5 48f3689985df7c6a5ca7f28cb8ec76dd )
@@ -2470,7 +2470,7 @@ game (
 	name agi-fanmade-8
 	description "AGI Piano (v1.0 Fanmade/DOS)"
 	year 1998
-	manufacturer "Unknown"
+	manufacturer "Rainer De Temple"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 39817b7d md5 8778b3d89eb93c1d50a70ef06ef10310 )
 	rom ( name OBJECT size 23 crc fedc35f4 md5 120acb1d39e89b1767364eb33097b051 )
@@ -2485,7 +2485,7 @@ game (
 	name agi-fanmade-80
 	description "Jimmy In: The Alien Attack (v0.1 Fanmade/DOS)"
 	year 2005
-	manufacturer "Unknown"
+	manufacturer "Oliver Rull"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc b9ac36f1 md5 a4e9db0564a494728de7873684a4307c )
 	rom ( name OBJECT size 57 crc 1caec3d7 md5 a9d491a38ae4466a81916753a797839a )
@@ -2500,7 +2500,7 @@ game (
 	name agi-fanmade-81
 	description "Joe McMuffin In 'What's Cooking, Doc' (v1.0 Fanmade/DOS)"
 	year 2004
-	manufacturer "Unknown"
+	manufacturer "Nick Olsen"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 0c313be8 md5 8a3de7e61a99cb605fa6d233dd91c8e1 )
 	rom ( name OBJECT size 17 crc 70118681 md5 3938cf17cfa8907e8982731501d36829 )
@@ -2515,7 +2515,7 @@ game (
 	name agi-fanmade-82
 	description "Journey Of Chef (Fanmade/DOS)"
 	year 2004
-	manufacturer "Unknown"
+	manufacturer "Eigen Lenk"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc d63e506c md5 aa0a0b5a6364801ae65fdb96d6741df5 )
 	rom ( name OBJECT size 17 crc 4e30bf72 md5 bcb0b543a59cec6d250a8249c62385c5 )
@@ -2575,7 +2575,7 @@ game (
 	name agi-fanmade-86
 	description "Kings Quest 2: Breast Intentions (v2.0 Aug 16 Fanmade/DOS)"
 	year 2005
-	manufacturer "Unknown"
+	manufacturer "Intermezzo"
 	sourcefile agi
 	rom ( name LOGDIR size 471 crc 6dcc6f0d md5 6b4f796d0421d2e12e501b511962e03a )
 	rom ( name OBJECT size 517 crc 6376c0d1 md5 66b21027ab7a197b00fe3e961edaa575 )
@@ -2590,7 +2590,7 @@ game (
 	name agi-fanmade-87
 	description "Kings Quest 2: Breast Intentions (v2.0 Mar 26 Fanmade/DOS)"
 	year 2005
-	manufacturer "Unknown"
+	manufacturer "Intermezzo"
 	sourcefile agi
 	rom ( name LOGDIR size 471 crc f334b393 md5 a25d7379d281b1b296d4785df90a8e78 )
 	rom ( name OBJECT size 517 crc 6376c0d1 md5 66b21027ab7a197b00fe3e961edaa575 )
@@ -2605,7 +2605,7 @@ game (
 	name agi-fanmade-88
 	description "Lasse Holm: The Quest for Revenge (v1.0 Fanmade/DOS)"
 	year 2002
-	manufacturer "Unknown"
+	manufacturer "Lemur"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 1ab3ef01 md5 f9fbcc8a4ef510bfbb92423296ff4abb )
 	rom ( name OBJECT size 53 crc 62b76bd8 md5 96403ca827f37d310cca4878f8db781b )
@@ -2620,7 +2620,7 @@ game (
 	name agi-fanmade-89
 	description "Lawman for Hire (Fanmade/DOS)"
 	year 2000
-	manufacturer "Unknown"
+	manufacturer "Karl-Johan Lundberg"
 	sourcefile agi
 	rom ( name LOGDIR size 768 crc 7ed113bc md5 c78b28bfd3767dd455b992cd8b7854fa )
 	rom ( name OBJECT size 23 crc fedc35f4 md5 120acb1d39e89b1767364eb33097b051 )
@@ -2650,7 +2650,7 @@ game (
 	name agi-fanmade-90
 	description "Lefty Goes on Vacation (Not in The Right Place) (Fanmade/DOS)"
 	year 2003
-	manufacturer "Unknown"
+	manufacturer "Oliver Rull"
 	sourcefile agi
 	rom ( name LOGDIR size 603 crc 8574b081 md5 ccdc49a33870310b01f2c48b8a1f3c34 )
 	rom ( name OBJECT size 105 crc 0cafac5d md5 c2209e6740d25f275aeb9e169fb37b80 )
@@ -2696,7 +2696,7 @@ game (
 	name agi-fanmade-93
 	description "Lost Eternity (v1.0 Fanmade/DOS)"
 	year 2004
-	manufacturer "Unknown"
+	manufacturer "Chad Goulding"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 541774e0 md5 95f15c5632feb8a39e9ca3d9af35fcc9 )
 	rom ( name OBJECT size 17 crc 77bd83b7 md5 4ea78ddc0d02efdf9efed45a7f4cde64 )
@@ -2711,7 +2711,7 @@ game (
 	name agi-fanmade-94
 	description "MD Quest: The Search for Michiel (v0.10 Fanmade/DOS)"
 	year 1999
-	manufacturer "Unknown"
+	manufacturer "Derek Smit"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 9a1ea3ac md5 2a6fcb21d2b5e4144c38ed817fabe8ee )
 	rom ( name OBJECT size 17 crc 6ec409c9 md5 1e3a8ac38d5c4ebd9ef7824ae0438a23 )
@@ -2726,7 +2726,7 @@ game (
 	name agi-fanmade-95
 	description "Maale Adummin Quest (Fanmade/DOS)"
 	year 2004
-	manufacturer "Unknown"
+	manufacturer "Ron Niddam"
 	sourcefile agi
 	rom ( name LOGDIR size 333 crc 39a1d9c7 md5 ddfbeb33feb7cf78504fe4dba14ec63b )
 	rom ( name OBJECT size 109 crc 70be1d12 md5 aa3948c6959295461a761a8d0d516cee )
@@ -2820,7 +2820,7 @@ game (
 	name agi-fanmade-coco3-1
 	description "V: The Graphical Adventure (Fanmade/CoCo3)"
 	year 2002
-	manufacturer "Unknown"
+	manufacturer "Bjoern Kahlenberg"
 	sourcefile agi
 	rom ( name logDir size 768 crc 8c305170 md5 1646eaade74f137a9041eb427a389969 )
 	rom ( name object size 470 crc 442e73c7 md5 619ac462f2c19787d17b6fe213fed57c )

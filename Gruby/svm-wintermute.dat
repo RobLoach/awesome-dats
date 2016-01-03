@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM WINTERMUTE"
 	description "ScummVM - WINTERMUTE Engine Games"
 	category "ScummVM"
-	version v1.05
-	date 2015-12-18
+	version v1.06
+	date 2015-12-19
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -596,20 +596,24 @@ game (
 )
 
 game (
-	name whitechamber-win
-	description "White Chamber, The (v1.7/Windows/Multi-Language)[NonEngine]"
+	name twc-win
+	description "White Chamber, The (Windows/Multi-Language)"
 	year 2013
 	manufacturer "Studio Trophis"
 	sourcefile wintermute
-	rom ( name assets\Cyberbit.ttf size 13353848 crc 9bb7cf82 md5 7b8d97097d64b4aeecc4e1ae2df82014 )
-	rom ( name assets\DATA0001.ogg size 8148139 crc d70e4061 md5 21543aef680cf3a79765a661729fb02e )
-	rom ( name assets\DATA0002.ogg size 666774 crc 3dfc92c0 md5 d24f3585cd88571e4a66621c734e18d6 )
-	rom ( name assets\DATA0003.OGG size 26628628 crc cacef700 md5 d35748b6efae60bfa564868cf36105f2 )
-	rom ( name assets\DATA0004.OGG size 23341595 crc 2ec01c32 md5 fc6961d198310c330893c1c8b3826ed2 )
-	rom ( name assets\DATA0005.ogg size 1272682 crc 59093bac md5 b02c293e67088c4da6c01d99a91a7c14 )
-	rom ( name assets\data0006.ogg size 380127 crc 29fd5fa9 md5 b3719080c515065e28b9a6951d265332 )
-	rom ( name assets\DATA0007.OGG size 19475944 crc e614f46b md5 36e2c47711d6d88293cbd60bf0395d2e )
-	rom ( name assets\DATA0008.OGG size 15363885 crc 98c6fb6b md5 7322981ef769bc8061117c73251d5ab5 )
+	romof twres
+	rom ( name data.dcp size 186451273 crc c2f5d8f3 md5 d3082e15e981681c7e93d22c2538b3b5 )
+	rom ( name language.dcp size 258513 crc c35a7513 md5 9e0c04c1e4e26b6c269ca25a4c7abcad )
+	rom ( name speech.dcp size 96672162 crc a211e6a7 md5 ce8e3075ed1478b31e85b413a2a36575 )
+)
+
+game (
+	name twc-win-1
+	description "White Chamber, The (Windows/Multi-Language)[NonEngine]"
+	year 2013
+	manufacturer "Studio Trophis"
+	sourcefile wintermute
+	romof twres
 	rom ( name data.dcp size 186451273 crc 4bd2019e md5 c311f2a67c7da189fb3f7d4edb7e4601 )
 	rom ( name language.dcp size 258513 crc 3cae0228 md5 19d9bd42d68c2463d1d4434ff8ac982d )
 	rom ( name speech.dcp size 96672161 crc c6be4ccb md5 88adb06155fc19ad3a20c0a07c0eb779 )
@@ -664,5 +668,22 @@ resource (
 	rom ( name fonts\Fontin_Sans_B_45b.otf size 24984 crc f1accce8 md5 c3668a5f459c69d7e79d3a1915cfe3ff )
 	rom ( name fonts\Fontin_Sans_B_45b_polish.otf size 36860 crc 084c50ca md5 04a2456ab9ff27ae2f05d2051d9546e7 )
 	rom ( name fonts\YanoneKaffeesatz-Regular.ttf size 3564264 crc 56770437 md5 a1dec417e74322f7d07d9e66a8bf0825 )
+)
+
+resource (
+	name twres
+	description "ZZZ - The White Chamber Resources"
+	year 2013
+	manufacturer "Studio Trophis"
+	sourcefile wintermute
+	rom ( name assets\DATA0001.ogg size 8148139 crc d70e4061 md5 21543aef680cf3a79765a661729fb02e )
+	rom ( name assets\DATA0002.ogg size 666774 crc 3dfc92c0 md5 d24f3585cd88571e4a66621c734e18d6 )
+	rom ( name assets\DATA0003.OGG size 26628628 crc cacef700 md5 d35748b6efae60bfa564868cf36105f2 )
+	rom ( name assets\DATA0004.OGG size 23341595 crc 2ec01c32 md5 fc6961d198310c330893c1c8b3826ed2 )
+	rom ( name assets\DATA0005.ogg size 1272682 crc 59093bac md5 b02c293e67088c4da6c01d99a91a7c14 )
+	rom ( name assets\data0006.ogg size 380127 crc 29fd5fa9 md5 b3719080c515065e28b9a6951d265332 )
+	rom ( name assets\DATA0007.OGG size 19475944 crc e614f46b md5 36e2c47711d6d88293cbd60bf0395d2e )
+	rom ( name assets\DATA0008.OGG size 15363885 crc 98c6fb6b md5 7322981ef769bc8061117c73251d5ab5 )
+	rom ( name Cyberbit.ttf size 13353848 crc 9bb7cf82 md5 7b8d97097d64b4aeecc4e1ae2df82014 )
 )
 
