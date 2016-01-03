@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM SCUMM"
 	description "ScummVM - SCUMM Engine Games"
 	category "ScummVM"
-	version v1.11
-	date 2015-11-28
+	version v1.12
+	date 2015-12-26
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -32,7 +32,7 @@ game (
 
 game (
 	name atlantis-2
-	description "Indiana Jones and the Fate of Atlantis (Floppy/DOS)[a]"
+	description "Indiana Jones and the Fate of Atlantis (Floppy/DOS)[a1]"
 	year 1992
 	manufacturer "LucasArts"
 	sourcefile scumm
@@ -83,7 +83,7 @@ game (
 
 game (
 	name atlantis-amiga-1
-	description "Indiana Jones and the Fate of Atlantis (Floppy/Amiga)[a]"
+	description "Indiana Jones and the Fate of Atlantis (Floppy/Amiga)[a1]"
 	year 1992
 	manufacturer "LucasArts"
 	sourcefile scumm
@@ -513,7 +513,7 @@ game (
 
 game (
 	name atlantis-hu-2
-	description "Indiana Jones and the Fate of Atlantis (Floppy/DOS/Hungarian)[a]"
+	description "Indiana Jones and the Fate of Atlantis (Floppy/DOS/Hungarian)[a1]"
 	year 1992
 	manufacturer "LucasArts"
 	sourcefile scumm
@@ -585,7 +585,7 @@ game (
 
 game (
 	name atlantis-mac-2
-	description "Indiana Jones and the Fate of Atlantis (Floppy/Macintosh)[6 data files]"
+	description "Indiana Jones and the Fate of Atlantis (Floppy/Macintosh)[a1]"
 	year 1992
 	manufacturer "LucasArts"
 	sourcefile scumm
@@ -600,7 +600,7 @@ game (
 
 game (
 	name atlantis-mac-3
-	description "Indiana Jones and the Fate of Atlantis (Floppy/Macintosh)[2 data files]"
+	description "Indiana Jones and the Fate of Atlantis (Floppy/Macintosh)[a2]"
 	year 1992
 	manufacturer "LucasArts"
 	sourcefile scumm
@@ -998,7 +998,7 @@ game (
 
 game (
 	name dig-br
-	description "Dig, The (DOS/Portuguese)"
+	description "Dig, The (Portuguese)"
 	year 1995
 	manufacturer "LucasArts"
 	sourcefile scumm
@@ -7586,7 +7586,7 @@ game (
 
 game (
 	name indyloom-demo-fm
-	description "Indiana Jones and the Last Crusade & Loom (Demo/FM-TOWNS)"
+	description "Indiana Jones and the Last Crusade & Loom (Demo/FM-Towns)"
 	year 1989
 	manufacturer "Lucasfilm"
 	sourcefile scumm
@@ -7613,7 +7613,7 @@ game (
 
 game (
 	name indyzak-demo-fm
-	description "Indiana Jones and the Last Crusade & Zak McKracken (Demo/FM-TOWNS)"
+	description "Indiana Jones and the Last Crusade & Zak McKracken (Demo/FM-Towns)"
 	year 1989
 	manufacturer "Lucasfilm"
 	sourcefile scumm
@@ -15434,7 +15434,7 @@ game (
 
 game (
 	name zak-fm-pl
-	description "Zak McKracken and the Alien Mindbenders (FM-TOWNS-Polish)"
+	description "Zak McKracken and the Alien Mindbenders (FM-Towns/Polish)"
 	year 1988
 	manufacturer "Lucasfilm"
 	sourcefile scumm
@@ -17115,7 +17115,7 @@ game (
 
 game (
 	name zakloom-demo-fm
-	description "Zak McKracken & Loom (Demo/FM-TOWNS)"
+	description "Zak McKracken & Loom (Demo/FM-Towns)"
 	year 1989
 	manufacturer "Lucasfilm"
 	sourcefile scumm

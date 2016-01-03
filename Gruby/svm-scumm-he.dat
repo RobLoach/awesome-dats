@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM SCUMM-HE"
 	description "ScummVM - SCUMM-Humongous Engine Games"
 	category "ScummVM"
-	version v1.15
-	date 2015-12-05
+	version v1.16
+	date 2015-12-30
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -9457,7 +9457,7 @@ game (
 
 game (
 	name spyfox
-	description "SPY Fox 1: Dry Cereal (ALL/Updated English)"
+	description "SPY Fox 1: Dry Cereal (ALL/Updated)"
 	year 1997
 	manufacturer "Humongous Entertainment"
 	sourcefile scumm-he
