@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - Naomi</name>
+		<description>Arcade - Sega - Naomi 20140529 02-43-08</description>
+		<version>20140529 02-43-08</version>
+		<date>20140529 02-43-08</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Dynamic Golf (Virtua Golf) (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Dynamic Golf (Virtua Golf) (Japan) (Rev A)</description>
+		<rom name="Dynamic Golf (Virtua Golf) (Japan) (Rev A).gdi" size="234" crc="b228357a" md5="61d34f32b6111667ae5bd9270fc29ae7" sha1="a937a0cd50d2738a4794d0f91b4a6bd5452b6882"/>
+		<rom name="Dynamic Golf (Virtua Golf) (Japan) (Rev A) (Track 1).bin" size="1058400" crc="3844ca3c" md5="d42339b7949585091a5a50186c96afe9" sha1="821f5cac0e29be895330c5a1bf1bdbfb4ad2466d"/>
+		<rom name="Dynamic Golf (Virtua Golf) (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Dynamic Golf (Virtua Golf) (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="61f4fa45" md5="8490d08f4b8b623e911f42c7620aa0b6" sha1="bb85ba2c98e19487fa761c9da1e5ee886a70f1e5"/>
+	</game>
+</datafile>
