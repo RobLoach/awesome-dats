@@ -1,0 +1,49 @@
+clrmamepro (
+	name "Nintendo GameCube - BIOS Images"
+	description "Nintendo GameCube - BIOS Images (7) (v2011-06-07)"
+	category Console
+	version 2011-06-07
+	author "ElBarto, Jackal | redump.org"
+)
+
+game (
+	name "gc-ntsc-10"
+	description "DOL-001(USA) / DOL-001(JPN) / SL-GC10 (NTSC Revision 1.0)"
+	rom ( name gc-ntsc-10.bin size 2097152 crc 6dac1f2a md5 fc924a7c879b661abc37cec4f018fdf3 sha1 a1837968288253ed541f2b11440b68f5a9b33875 )
+)
+
+game (
+	name "gc-pal-10"
+	description "DOL-001(EUR) / DOT-001P (PAL Revision 1.0)"
+	rom ( name gc-pal-10.bin size 2097152 crc 4f319f43 md5 0cdda509e2da83c85bfe423dd87346cc sha1 f27c63e5394e2fd1606f70df004c4fc2d6027700 )
+)
+
+game (
+	name "gc-pal-12"
+	description "DOL-101(EUR) (PAL Revision 1.2)"
+	rom ( name gc-pal-12.bin size 2097152 crc ad1b7f16 md5 db92574caab77a7ec99d4605fd6f2450 sha1 80b8744ff5e43585392f55546bd03a673d11ef5f )
+)
+
+game (
+	name "gc-dvd-20010608"
+	description "DVD Drive (Version 2001/06/08)"
+	rom ( name gc-dvd-20010608.bin size 131072 crc c047465a md5 561532ad496f644897952d2cef5bb431 sha1 27872c201e87b06a19bf85d36c796ef383f8d52d )
+)
+
+game (
+	name "gc-dvd-20010831"
+	description "DVD Drive (Version 2001/08/31)"
+	rom ( name gc-dvd-20010831.bin size 131072 crc 54c7d10e md5 b953eb1a8fc9922b3f7051c1cdc451f1 sha1 ae7233cae8f94749796e0b740d6021e3b00a8926 )
+)
+
+game (
+	name "gc-dvd-20020402"
+	description "DVD Drive (Version 2002/04/02)"
+	rom ( name gc-dvd-20020402.bin size 131072 crc 8bbef508 md5 413154dd0e2c824c9b18b807fd03ec4e sha1 691e46213d8428befdf568157e670b971ab94e1d )
+)
+
+game (
+	name "gc-dvd-20020823"
+	description "DVD Drive (Version 2002/08/23)"
+	rom ( name gc-dvd-20020823.bin size 131072 crc 5205222b md5 c03f6bbaf644eb9b3ee261dbe199eb42 sha1 2faaf92bcaffe675f54f7249d30f3791507e22ab )
+)
