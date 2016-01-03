@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Nintendo - Nintendo 3DS"
 	description "Nintendo - Nintendo 3DS"
-	version #1418+x040
+	version #1424+x042
 	comment "no-intro | www.no-intro.org"
 )
 
@@ -9897,6 +9897,41 @@ game (
 )
 
 game (
+	name "1414 - Barbie & Her Sisters - Puppy Rescue (Europe) (Fr,Es,It)"
+	description "1414 - Barbie & Her Sisters - Puppy Rescue (Europe) (Fr,Es,It)"
+	serial "CTR-P-BRQZ"
+	rom ( name "1414 - Barbie & Her Sisters - Puppy Rescue (Europe) (Fr,Es,It).3ds" size 268435456 crc ED4C0C25 md5 52032A2849CFCD69F652B2690F6BD001 sha1 B93C316CE4B823FFBC9AA60641149285FAD85617 )
+)
+
+game (
+	name "1415 - Gudetama - Hanjuku de Tanomuwa (Japan)"
+	description "1415 - Gudetama - Hanjuku de Tanomuwa (Japan)"
+	serial "CTR-P-BGLJ"
+	rom ( name "1415 - Gudetama - Hanjuku de Tanomuwa (Japan).3ds" size 134217728 crc 76741041 md5 711D4A1D5EC78FE5A977D53C71A66AD2 sha1 E756BBECF6FE81616EBCBA5E2D8EF13F32018C30 )
+)
+
+game (
+	name "1416 - Monster Strike (Japan)"
+	description "1416 - Monster Strike (Japan)"
+	serial "CTR-P-BFLJ"
+	rom ( name "1416 - Monster Strike (Japan).3ds" size 1073741824 crc 925E8C59 md5 10127B19CF4E36DC384A2F4D41D0ED6B sha1 BB647C2A64DBD1412F6D48957E8E4D3AD5EB9D00 )
+)
+
+game (
+	name "1420 - Story of Seasons (Europe) (En,Fr,De,Es,It)"
+	description "1420 - Story of Seasons (Europe) (En,Fr,De,Es,It)"
+	serial "CTR-P-BTSP"
+	rom ( name "1420 - Story of Seasons (Europe) (En,Fr,De,Es,It).3ds" size 1073741824 crc CC4FD72D md5 FD61A727AEEAFF5E9779B2418F1AB945 sha1 15E1E4A4155D12E7EE455DB1BC106AAE9B3B7DFE )
+)
+
+game (
+	name "1424 - Shantae - Kaizoku no Noroi (Japan)"
+	description "1424 - Shantae - Kaizoku no Noroi (Japan)"
+	serial "CTR-P-BP8J"
+	rom ( name "1424 - Shantae - Kaizoku no Noroi (Japan).3ds" size 536870912 crc 5AEC5839 md5 FAA6B3D2A386366CA2B5A7E99224DF2A sha1 52D376BC691FBCAF8164FE42D7C2C20171CF06A3 )
+)
+
+game (
 	name "x001 - AR Games (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
 	description "x001 - AR Games (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
 	serial "CTR-B-HARP"
@@ -10149,17 +10184,17 @@ game (
 )
 
 game (
-	name "x037 - Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It) (Demo)"
-	description "x037 - Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It) (Demo)"
+	name "x037 - Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+	description "x037 - Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
 	serial "CTR-B-AJRP"
-	rom ( name "x037 - Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It) (Demo).3ds" size 268435456 crc ABAF4D87 md5 B745357C4D09B78F1EA9D0BB85F1ED41 sha1 4D9FFE28610F6989F7D63C7F1DCEFB1078460E4A )
+	rom ( name "x037 - Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size 268435456 crc ABAF4D87 md5 B745357C4D09B78F1EA9D0BB85F1ED41 sha1 4D9FFE28610F6989F7D63C7F1DCEFB1078460E4A )
 )
 
 game (
-	name "x038 - Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition (Europe) (En,Fr,De,Es,It) (Demo)"
-	description "x038 - Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition (Europe) (En,Fr,De,Es,It) (Demo)"
+	name "x038 - Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+	description "x038 - Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
 	serial "CTR-B-KPMP"
-	rom ( name "x038 - Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition (Europe) (En,Fr,De,Es,It) (Demo).3ds" size 268435456 crc 2F86485A md5 CEFCCC5A96BED01E8731A4F46BBFF641 sha1 C36A0BF0AB16EDC449544208F2D339D1D14A86BF )
+	rom ( name "x038 - Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size 268435456 crc 2F86485A md5 CEFCCC5A96BED01E8731A4F46BBFF641 sha1 C36A0BF0AB16EDC449544208F2D339D1D14A86BF )
 )
 
 game (
@@ -10174,6 +10209,20 @@ game (
 	description "x040 - Legend of Zelda, The - Majora's Mask 3D (USA) (Demo) (Kiosk)"
 	serial "CTR-B-AJRE"
 	rom ( name "x040 - Legend of Zelda, The - Majora's Mask 3D (USA) (Demo) (Kiosk).3ds" size 268435456 crc CF79AAB2 md5 BF3F3F7D95ED3EA5108DA35C8C95C9FD sha1 47E712B44637FCB00F2994BA05CB7C860BD84831 )
+)
+
+game (
+	name "x041 - LEGO City Undercover - The Chase Begins (Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Ru) (Demo) (Kiosk)"
+	description "x041 - LEGO City Undercover - The Chase Begins (Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Ru) (Demo) (Kiosk)"
+	serial "CTR-B-AA8P"
+	rom ( name "x041 - LEGO City Undercover - The Chase Begins (Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Ru) (Demo) (Kiosk).3ds" size 268435456 crc 1E2B3506 md5 3391291AE7AF62A5046D47793BFA4B4D sha1 2899EC8C0ED67329EFB352516BEAC54EE7DF4D29 )
+)
+
+game (
+	name "x042 - Sonic - Lost World (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+	description "x042 - Sonic - Lost World (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)"
+	serial "CTR-B-ARVP"
+	rom ( name "x042 - Sonic - Lost World (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size 134217728 crc AAF85555 md5 60116EB5B904E194D0319AB40B0E26FF sha1 D2B0206A654844F784F50D91430EF2089E19A5BA )
 )
 
 game (
@@ -10209,5 +10258,12 @@ game (
 	description "z005 - Mario & Luigi RPG - Paper Mario MIX (Japan)"
 	serial "CTR-P-AYNJ"
 	rom ( name "z005 - Mario & Luigi RPG - Paper Mario MIX (Japan).3ds" size 536870912 crc 8DACDB8D md5 219AD8A3EBEE63F911C33EF954D0D10D sha1 07A60B63C94F94D1296D9295CB9AA3CA9BDCB378 )
+)
+
+game (
+	name "z006 - Shokugeki no Soma - Yuujou to Kizuna no Hitosara (Japan)"
+	description "z006 - Shokugeki no Soma - Yuujou to Kizuna no Hitosara (Japan)"
+	serial "CTR-P-BYDJ"
+	rom ( name "z006 - Shokugeki no Soma - Yuujou to Kizuna no Hitosara (Japan).3ds" size 536870912 crc B534A2DC md5 38F7A4D454D3235BE6FF0572697753DA sha1 E7CAB635B63734B3654C196E2686099DCE76A0E2 )
 )
 

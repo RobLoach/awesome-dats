@@ -6,8 +6,8 @@
 		<description>Nintendo - Nintendo Entertainment System Parent-Clone</description>
 		<clrmamepro header="No-Intro_NES.xml"/>
 		<romcenter plugin="nes.dll"/>
-		<version>20151210-235501</version>
-		<date>20151210-235501</date>
+		<version>20151230-115107</version>
+		<date>20151230-115107</date>
 		<author>kazumi213</author>
 		<url>www.no-intro.org</url>
 	</header>
@@ -2145,6 +2145,11 @@
 		<release name="Chip to Dale no Daisakusen 2 (Japan)" region="JPN"/>
 		<rom name="Chip to Dale no Daisakusen 2 (Japan).nes" size="262144" crc="99686DAD" md5="7E69985BB43DB4686BA59C08406C716C" sha1="BF1EE3765229AA4A1F5B5E540AC0661107099CB6"/>
 	</game>
+	<game name="Chip's Challenge (USA) (v0.924B) (Proto)">
+		<description>Chip's Challenge (USA) (v0.924B) (Proto)</description>
+		<release name="Chip's Challenge (USA) (v0.924B) (Proto)" region="USA"/>
+		<rom name="Chip's Challenge (USA) (v0.924B) (Proto).nes" size="131072" crc="6ED31CCD" md5="3657479C166707152169777570DD4E32" sha1="8B681FC7169096EC2FAA12E21E20811DAAFD45A6"/>
+	</game>
 	<game name="Chiyonofuji no Ooichou (Japan)">
 		<description>Chiyonofuji no Ooichou (Japan)</description>
 		<release name="Chiyonofuji no Ooichou (Japan)" region="JPN"/>
@@ -2825,11 +2830,6 @@
 		<description>Devil World (Japan) (Rev A)</description>
 		<release name="Devil World (Japan) (Rev A)" region="JPN"/>
 		<rom name="Devil World (Japan) (Rev A).nes" size="24576" crc="145A9A6C" md5="7BC1F99BF64AE561EC71F5564C1E321F" sha1="B07C874BE0C36B1D071F4E5005215926ED0F0D20"/>
-	</game>
-	<game name="Dezaemon (Japan)">
-		<description>Dezaemon (Japan)</description>
-		<release name="Dezaemon (Japan)" region="JPN"/>
-		<rom name="Dezaemon (Japan).nes" size="131072" crc="D1E50064" md5="15AC8468CD7259A2B267CED7EAF27771" sha1="BD442A386741EE63C0DCBBD46B3F53FB60A6D45D"/>
 	</game>
 	<game name="Dick Tracy (USA)">
 		<description>Dick Tracy (USA)</description>
@@ -4331,6 +4331,11 @@
 		<description>Gambler Jiko Chuushinha 2 (Japan)</description>
 		<release name="Gambler Jiko Chuushinha 2 (Japan)" region="JPN"/>
 		<rom name="Gambler Jiko Chuushinha 2 (Japan).nes" size="262144" crc="85F12D37" md5="AFAF9408F0092100B52BD07CDF7925F0" sha1="8EF9616555199946C3224125337016FC5CF13E95"/>
+	</game>
+	<game name="Game Designer Yousei Soft - Dezaemon (Japan)">
+		<description>Game Designer Yousei Soft - Dezaemon (Japan)</description>
+		<release name="Game Designer Yousei Soft - Dezaemon (Japan)" region="JPN"/>
+		<rom name="Game Designer Yousei Soft - Dezaemon (Japan).nes" size="131072" crc="D1E50064" md5="15AC8468CD7259A2B267CED7EAF27771" sha1="BD442A386741EE63C0DCBBD46B3F53FB60A6D45D"/>
 	</game>
 	<game name="Game Genie (USA) (Unl)">
 		<description>Game Genie (USA) (Unl)</description>
@@ -12816,6 +12821,11 @@
 		<description>Wolverine (USA)</description>
 		<release name="Wolverine (USA)" region="USA"/>
 		<rom name="Wolverine (USA).nes" size="262144" crc="35476E87" md5="5EA6BB7F2995A8FC47A105412B88AB76" sha1="37B143AB583244D64E9CE7F7AC90543202970F69"/>
+	</game>
+	<game name="Wonderland Dizzy (Unknown) (Proto) (1993-09-24) (Unl)">
+		<description>Wonderland Dizzy (Unknown) (Proto) (1993-09-24) (Unl)</description>
+		<release name="Wonderland Dizzy (Unknown) (Proto) (1993-09-24) (Unl)" region="USA"/>
+		<rom name="Wonderland Dizzy (Unknown) (Proto) (1993-09-24) (Unl).nes" size="262144" crc="4F74E236" md5="C2D2FF4EF1F817E000AE6C5D60ECE6C6" sha1="AE9CC1584FB50C2A8885B2EBDC57CED81F900ED0"/>
 	</game>
 	<game name="Woody Poko (Japan)">
 		<description>Woody Poko (Japan)</description>

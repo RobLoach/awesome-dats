@@ -4,8 +4,8 @@
 	<header>
 		<name>Nintendo - Game Boy Advance Parent-Clone</name>
 		<description>Nintendo - Game Boy Advance Parent-Clone</description>
-		<version>20151211-000055</version>
-		<date>20151211-000055</date>
+		<version></version>
+		<date>20151230-112929</date>
 		<author>kazumi213</author>
 		<url>www.no-intro.org</url>
 	</header>
@@ -3704,7 +3704,6 @@
 	<game name="Downforce (Europe) (En,Fr,De,Es,It)">
 		<description>Downforce (Europe) (En,Fr,De,Es,It)</description>
 		<release name="Downforce (Europe) (En,Fr,De,Es,It)" region="EUR"/>
-		<release name="Downforce (Europe) (En,Fr,De,Es,It)" region="USA"/>
 		<rom name="Downforce (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="EB326294" md5="2F14E9E9357B04EE867D837A3DD3FCDD" sha1="939ED52B73ACFCF4E724D71A62C240B9585F6B41"/>
 	</game>
 	<game name="Dr. Muto (Europe) (En,Fr,De,Es,It)">
@@ -4905,6 +4904,7 @@
 	</game>
 	<game name="Frank Herbert's Dune - Ornithopter Assault (Europe) (En,Fr,De,Es,It) (Proto)">
 		<description>Frank Herbert's Dune - Ornithopter Assault (Europe) (En,Fr,De,Es,It) (Proto)</description>
+		<release name="Frank Herbert's Dune - Ornithopter Assault (Europe) (En,Fr,De,Es,It) (Proto)" region="EUR"/>
 		<rom name="Frank Herbert's Dune - Ornithopter Assault (Europe) (En,Fr,De,Es,It) (Proto).gba" size="4194304" crc="298D627B" md5="4605B16D7D9162A77E26C090AB7A28DA" sha1="1D317FB050F6D5B850F4B88B72F3420CB175EDF3"/>
 	</game>
 	<game name="Franklin the Turtle (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Rev 2)">
@@ -6968,9 +6968,9 @@
 		<release name="Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1)" region="JPN"/>
 		<rom name="Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1).gba" size="16777216" crc="683D772C" md5="9937B1FD45C37EEC09188C1516DA4CEA" sha1="75C95413EB5BB98E8E2549BCEBCF590A0CE75C8B"/>
 	</game>
-	<game name="Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Beta)" cloneof="Kirby &amp; the Amazing Mirror (Europe) (En,Fr,De,Es,It)">
-		<description>Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Beta)</description>
-		<rom name="Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Beta).gba" size="16777216" crc="BF80F1A1" md5="C77F9DEAC4047B9844795B6C18E7A5C4" sha1="D84DD2AD9CAF2754DD76BC1F8F534B6A80A13B04"/>
+	<game name="Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Demo) (Kiosk)" cloneof="Kirby &amp; the Amazing Mirror (Europe) (En,Fr,De,Es,It)">
+		<description>Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Demo) (Kiosk)</description>
+		<rom name="Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Demo) (Kiosk).gba" size="16777216" crc="BF80F1A1" md5="C77F9DEAC4047B9844795B6C18E7A5C4" sha1="D84DD2AD9CAF2754DD76BC1F8F534B6A80A13B04"/>
 	</game>
 	<game name="Kirby &amp; the Amazing Mirror (USA)" cloneof="Kirby &amp; the Amazing Mirror (Europe) (En,Fr,De,Es,It)">
 		<description>Kirby &amp; the Amazing Mirror (USA)</description>
@@ -8725,14 +8725,14 @@
 		<release name="Minna no Soft Series - Minna no Mahjong (Japan)" region="JPN"/>
 		<rom name="Minna no Soft Series - Minna no Mahjong (Japan).gba" size="4194304" crc="66B779B0" md5="40F90B4F45A78C1810C59EB066201638" sha1="B4BE9E8E8062F0764376821465B72C35D770B5EB"/>
 	</game>
-	<game name="Minna no Soft Series - Minna no Shougi (Japan)">
-		<description>Minna no Soft Series - Minna no Shougi (Japan)</description>
-		<release name="Minna no Soft Series - Minna no Shougi (Japan)" region="JPN"/>
-		<rom name="Minna no Soft Series - Minna no Shougi (Japan).gba" size="4194304" crc="08B62391" md5="612F5672AE601B796DB01DCE034A5548" sha1="7440C18668813A6FF2A51205B79FBF19AB96F09D"/>
-	</game>
-	<game name="Minna no Soft Series - Minna no Shougi (Japan) (Rev 1)" cloneof="Minna no Soft Series - Minna no Shougi (Japan)">
+	<game name="Minna no Soft Series - Minna no Shougi (Japan) (Rev 1)">
 		<description>Minna no Soft Series - Minna no Shougi (Japan) (Rev 1)</description>
+		<release name="Minna no Soft Series - Minna no Shougi (Japan) (Rev 1)" region="JPN"/>
 		<rom name="Minna no Soft Series - Minna no Shougi (Japan) (Rev 1).gba" size="4194304" crc="C62C15C6" md5="1690C80A29F8096D50422E38517674DC" sha1="1B34D8BDF085E2276E103E72E29CE58867433068"/>
+	</game>
+	<game name="Minna no Soft Series - Minna no Shougi (Japan)" cloneof="Minna no Soft Series - Minna no Shougi (Japan) (Rev 1)">
+		<description>Minna no Soft Series - Minna no Shougi (Japan)</description>
+		<rom name="Minna no Soft Series - Minna no Shougi (Japan).gba" size="4194304" crc="08B62391" md5="612F5672AE601B796DB01DCE034A5548" sha1="7440C18668813A6FF2A51205B79FBF19AB96F09D"/>
 	</game>
 	<game name="Minna no Soft Series - Shanghai (Japan)">
 		<description>Minna no Soft Series - Shanghai (Japan)</description>
@@ -11075,14 +11075,14 @@
 		<release name="Salt Lake 2002 (USA) (En,Fr,De,Es,It,Nl)" region="USA"/>
 		<rom name="Salt Lake 2002 (USA) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="4603205A" md5="7A5B0F8F5CCC714DC754CEF30190159E" sha1="377DBCE06068147260D9CF05225E2504230FFF2B"/>
 	</game>
-	<game name="Samsara Naga 1x2 (Japan)">
-		<description>Samsara Naga 1x2 (Japan)</description>
-		<release name="Samsara Naga 1x2 (Japan)" region="JPN"/>
-		<rom name="Samsara Naga 1x2 (Japan).gba" size="8388608" crc="68076B62" md5="BBE5C39533AAF3C912CF1B3EE9FEE2EA" sha1="D4023E0A54A48999A46BF6B63C3BB91E3A795738"/>
-	</game>
-	<game name="Samsara Naga 1x2 (Japan) (Rev 2)" cloneof="Samsara Naga 1x2 (Japan)">
+	<game name="Samsara Naga 1x2 (Japan) (Rev 2)">
 		<description>Samsara Naga 1x2 (Japan) (Rev 2)</description>
+		<release name="Samsara Naga 1x2 (Japan) (Rev 2)" region="JPN"/>
 		<rom name="Samsara Naga 1x2 (Japan) (Rev 2).gba" size="8388608" crc="B3780A4F" md5="0EB87D04C5BE8AB25E8F2CF211650683" sha1="B18E525A3A4B008D76A9C5A7B47CDD4A03B0BAEC"/>
+	</game>
+	<game name="Samsara Naga 1x2 (Japan)" cloneof="Samsara Naga 1x2 (Japan) (Rev 2)">
+		<description>Samsara Naga 1x2 (Japan)</description>
+		<rom name="Samsara Naga 1x2 (Japan).gba" size="8388608" crc="68076B62" md5="BBE5C39533AAF3C912CF1B3EE9FEE2EA" sha1="D4023E0A54A48999A46BF6B63C3BB91E3A795738"/>
 	</game>
 	<game name="Samurai Deeper Kyo (USA)">
 		<description>Samurai Deeper Kyo (USA)</description>
@@ -14058,14 +14058,14 @@
 		<release name="Wanko Mix Chiwanko World (Japan)" region="JPN"/>
 		<rom name="Wanko Mix Chiwanko World (Japan).gba" size="8388608" crc="253AD05E" md5="77CF6A578131F4CCB2D94532A80E12AE" sha1="993A4BD4C63318A11ABD54C006ECBA57C646107C"/>
 	</game>
-	<game name="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan)">
-		<description>Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan)</description>
-		<release name="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan)" region="JPN"/>
-		<rom name="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan).gba" size="4194304" crc="6DE82857" md5="96B1FE74B2D1AE2B36973ACCE0AC0BC2" sha1="36786BFEDB96E003B2A9C17376FF7277E0F9660D"/>
-	</game>
-	<game name="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan) (Rev 1)" cloneof="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan)">
+	<game name="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan) (Rev 1)">
 		<description>Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan) (Rev 1)</description>
+		<release name="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan) (Rev 1)" region="JPN"/>
 		<rom name="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan) (Rev 1).gba" size="4194304" crc="B12D2724" md5="5CE228ED956C5AD5F0BC95ECFBEFC848" sha1="D146E7D83965B8F05CD5C18C2B297A1B376AAF16"/>
+	</game>
+	<game name="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan)" cloneof="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan) (Rev 1)">
+		<description>Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan)</description>
+		<rom name="Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan).gba" size="4194304" crc="6DE82857" md5="96B1FE74B2D1AE2B36973ACCE0AC0BC2" sha1="36786BFEDB96E003B2A9C17376FF7277E0F9660D"/>
 	</game>
 	<game name="Wanwan Meitantei (Japan)">
 		<description>Wanwan Meitantei (Japan)</description>

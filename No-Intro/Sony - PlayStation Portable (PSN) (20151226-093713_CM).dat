@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Sony - PlayStation Portable (PSN)"
 	description "Sony - PlayStation Portable (PSN)"
-	version 20151128-021932
+	version 20151226-093713
 	comment "no-intro | www.no-intro.org"
 )
 
@@ -5066,8 +5066,15 @@ game (
 game (
 	name "Legend of Heroes - Trails in the Sky - Second Chapter (Europe) (PSN)"
 	description "Legend of Heroes - Trails in the Sky - Second Chapter (Europe) (PSN)"
-	rom ( name "Legend of Heroes - Trails in the Sky - Second Chapter (Europe) (PSN) (Disc 2).iso" size 1608417280 crc C145F479 md5 6245E7004A14840997DCA0FE5E81BEAF sha1 AFB4B969F60F21A39ACEFD664ABFBC24377C8A72 )
 	rom ( name "Legend of Heroes - Trails in the Sky - Second Chapter (Europe) (PSN) (Disc 1).iso" size 1359249408 crc 1BA3CEAB md5 6068DE10A299443CD65BB49691C9970A sha1 392B9D24D6F3538BEEFC4EB2155B19B948FD137A )
+	rom ( name "Legend of Heroes - Trails in the Sky - Second Chapter (Europe) (PSN) (Disc 2).iso" size 1608417280 crc C145F479 md5 6245E7004A14840997DCA0FE5E81BEAF sha1 AFB4B969F60F21A39ACEFD664ABFBC24377C8A72 )
+)
+
+game (
+	name "Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN)"
+	description "Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN)"
+	rom ( name "Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 1).iso" size 1359249408 crc 692B4894 md5 5FCDC01D4049D9F6E7259DE495F071B8 sha1 E8D3E80938EF45936B7A1E6A1F16C7B13061B69C )
+	rom ( name "Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 2).iso" size 1608417280 crc 56E99ECD md5 FB9B050D8F58461CBB5DCEF8E6E82175 sha1 53C47B56CB8548460AB772ACF1B81C6E82A506E0 )
 )
 
 game (

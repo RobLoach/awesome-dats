@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Sony - PlayStation Portable (UMD Music)"
 	description "Sony - PlayStation Portable (UMD Music)"
-	version 20150713-001127
+	version 20151229-221104
 	comment "no-intro | www.no-intro.org"
 )
 
@@ -114,9 +114,23 @@ game (
 )
 
 game (
+	name "Shiina Hekiru - Hequil VI (Japan)"
+	description "Shiina Hekiru - Hequil VI (Japan)"
+	serial "SRUL-10002"
+	rom ( name "Shiina Hekiru - Hequil VI (Japan).iso" size 1682341888 crc 0A797445 md5 DF674BD17B933C22432557D99B4EE004 sha1 D3C778FA716F3C950EE628EB196E2CAEB218CE1D )
+)
+
+game (
 	name "Silbermond - Verschwende Deine Zeit Live (Japan, Europe)"
 	description "Silbermond - Verschwende Deine Zeit Live (Japan, Europe)"
 	rom ( name "Silbermond - Verschwende Deine Zeit Live (Japan, Europe).iso" size 1763999744 crc D4AD36C5 md5 65F1EED576CF9D66B8803DC4B785BAB6 sha1 343596526C09276631C27BC7EA6097B6B18F5705 )
+)
+
+game (
+	name "Skoop On Somebody - SOS CLIPS Vol.2 (Japan)"
+	description "Skoop On Somebody - SOS CLIPS Vol.2 (Japan)"
+	serial "SEUL-10005"
+	rom ( name "Skoop On Somebody - SOS CLIPS Vol.2 (Japan).iso" size 1646002176 crc E65FD316 md5 DC743D71C8DB1141CEECC4060953E398 sha1 0FCAA9BFDB0431491EC6F6CFB67F692F89D51243 )
 )
 
 game (
