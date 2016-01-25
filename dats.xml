@@ -186,7 +186,7 @@
     <description>Doom</description>
     <version>07-08-2015</version>
     <author>Obiwantje</author>
-    <url>https://github.com/libretro/libretro-database/raw/d1a6eff3df40d1436fb414b9339813bd47caea7d/dat/DOOM.dat</url>
+    <url>https://raw.githubusercontent.com/libretro/libretro-database/c4ddf8084a1ed048a0a68e100a3a83142278b0c0/dat/DOOM.dat</url>
   </datfile>
   <datfile>
     <name>Emerson - Arcadia 2001 Parent-Clone</name>
