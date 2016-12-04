@@ -1,0 +1,161 @@
+clrmamepro (
+	name "Nintendo - New Nintendo 3DS (DLC)"
+	description "Nintendo - New Nintendo 3DS (DLC)"
+	version #22+x000
+	comment "no-intro | www.no-intro.org"
+)
+
+game (
+	name "z001 - Binding of Isaac - Rebirth, The (USA) (eShop)"
+	description "z001 - Binding of Isaac - Rebirth, The (USA) (eShop)"
+	serial "KTR-N-CBRE"
+	rom ( name "z001 - Binding of Isaac - Rebirth, The (USA) (eShop).3ds" size 536870912 crc 6DEE3D72 md5 279FC7C577BE8F1D4100582E9FA597F5 sha1 EE4960EDC5747ED3D61BE63F589AD7617BC9463A )
+)
+
+game (
+	name "z002 - Binding of Isaac - Rebirth, The (USA) (v1.051) (eShop)"
+	description "z002 - Binding of Isaac - Rebirth, The (USA) (v1.051) (eShop)"
+	serial "KTR-N-CBRE"
+	rom ( name "z002 - Binding of Isaac - Rebirth, The (USA) (v1.051) (eShop).3ds" size 536870912 crc BBD6860F md5 DF47F8638ED0FA029A3DD809B34F3C98 sha1 48CD3EE3976725C012C5D922079B5180AF90A449 )
+)
+
+game (
+	name "z003 - Binding of Isaac - Rebirth, The (USA) (v1.052) (eShop)"
+	description "z003 - Binding of Isaac - Rebirth, The (USA) (v1.052) (eShop)"
+	serial "KTR-N-CBRE"
+	rom ( name "z003 - Binding of Isaac - Rebirth, The (USA) (v1.052) (eShop).3ds" size 536870912 crc 3F8A3535 md5 54A4CBE930EFB5B93A6153F72204DA5A sha1 6D343BAAF4F8BA0AA1DC01A204571BBCC956F9D6 )
+)
+
+game (
+	name "z004 - Donkey Kong Country (USA, Europe) (SNES) (Virtual Console)"
+	description "z004 - Donkey Kong Country (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UAGE"
+	rom ( name "z004 - Donkey Kong Country (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc B028A6CA md5 1C04848C60882C25824FD5A9D07330FE sha1 C03EB8621063D0DB472B2CAD8401581AB6147F4F )
+)
+
+game (
+	name "z005 - F-Zero (USA, Europe) (SNES) (Virtual Console)"
+	description "z005 - F-Zero (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UAFE"
+	rom ( name "z005 - F-Zero (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc 4BCBAAB5 md5 E4584331195520A2F95BD11646A32334 sha1 C0CDC99B41D56BB75C091BC97E95F1A58D54ACEF )
+)
+
+game (
+	name "z006 - Legend of Zelda, The - A Link to the Past (USA, Europe) (SNES) (Virtual Console)"
+	description "z006 - Legend of Zelda, The - A Link to the Past (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UABE"
+	rom ( name "z006 - Legend of Zelda, The - A Link to the Past (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc 3FEB01D4 md5 E94BFD04E308CD77890EC47813F3354A sha1 3956A2B7943CE01DCE403A2A68DF5FA876FBFA5A )
+)
+
+game (
+	name "z007 - Super Metroid (USA, Europe) (SNES) (Virtual Console)"
+	description "z007 - Super Metroid (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UACE"
+	rom ( name "z007 - Super Metroid (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc 65268E46 md5 5E46F3A01E507CB752FE37A526E3A90C sha1 E8F041CC1250176C0B87A3C2554A110C28AAACEF )
+)
+
+game (
+	name "z008 - Super Mario Kart (USA, Europe) (SNES) (Virtual Console)"
+	description "z008 - Super Mario Kart (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UADE"
+	rom ( name "z008 - Super Mario Kart (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc E491E953 md5 89BE5F3AD9C564A7371C5CC9FFBE0435 sha1 E0DD519C2AB341788B75E0B98D206E75A171A17D )
+)
+
+game (
+	name "z009 - EarthBound (USA, Europe) (SNES) (Virtual Console)"
+	description "z009 - EarthBound (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UAEE"
+	rom ( name "z009 - EarthBound (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc 7B95C740 md5 FE1665C6F8C11F5B278DF1C40F54BB4B sha1 289F2ACE77CA2D17D991BA1847937B539BE19D47 )
+)
+
+game (
+	name "z010 - Super Mario World (USA, Europe) (SNES) (Virtual Console)"
+	description "z010 - Super Mario World (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UAAE"
+	rom ( name "z010 - Super Mario World (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc 1E682D71 md5 E3A9EC07823C071F4B03B9B7DBEEF21D sha1 E3D2C1DC8AEAFE692C7DC703185B28200AC309EC )
+)
+
+game (
+	name "z011 - Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (SNES) (Virtual Console)"
+	description "z011 - Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UAJE"
+	rom ( name "z011 - Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc AD4FF5EB md5 A4C6FF12CA9DF9C3B28AD2749B96BB91 sha1 7CAE2ED8BEEE62BB54EA7F5B875547F2B08FC222 )
+)
+
+game (
+	name "z012 - Pilotwings (USA, Europe) (SNES) (Virtual Console)"
+	description "z012 - Pilotwings (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UAKE"
+	rom ( name "z012 - Pilotwings (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc 4F873B87 md5 57E92EDA87D5B858F6297A7CA2B38DF9 sha1 9E9DA5E57F863ECFAEF770581B8C1915C805256E )
+)
+
+game (
+	name "z013 - Mother 2 - Gyiyg no Gyakushuu (Japan) (SNES) (Virtual Console)"
+	description "z013 - Mother 2 - Gyiyg no Gyakushuu (Japan) (SNES) (Virtual Console)"
+	serial "KTR-N-UAEJ"
+	rom ( name "z013 - Mother 2 - Gyiyg no Gyakushuu (Japan) (SNES) (Virtual Console).3ds" size 134217728 crc BEC041A4 md5 B1C18ED9F01A839B4D2BBC214B9FF55B sha1 DFA27F4DAA38B470AA7FA44FAF4554050BB25F08 )
+)
+
+game (
+	name "z014 - Binding of Isaac - Rebirth, The (Europe) (eShop)"
+	description "z014 - Binding of Isaac - Rebirth, The (Europe) (eShop)"
+	serial "KTR-N-CBRP"
+	rom ( name "z014 - Binding of Isaac - Rebirth, The (Europe) (eShop).3ds" size 536870912 crc 661B3E08 md5 BD6A6FE5C59DD3D366DBABF39DEB0C77 sha1 480D9EAE9A60D94298EF9F38B3C100174A580229 )
+)
+
+game (
+	name "z015 - Super Punch-Out!! (USA, Europe) (SNES) (Virtual Console)"
+	description "z015 - Super Punch-Out!! (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UALE"
+	rom ( name "z015 - Super Punch-Out!! (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc CA8E8FE9 md5 33544531C5078AF2477D182D278FB8EF sha1 B1F9DE6D8135F3F65F3A8E2C0C92E584203858EE )
+)
+
+game (
+	name "z016 - RockMan X (Japan) (SNES) (Virtual Console)"
+	description "z016 - RockMan X (Japan) (SNES) (Virtual Console)"
+	serial "KTR-N-UAMJ"
+	rom ( name "z016 - RockMan X (Japan) (SNES) (Virtual Console).3ds" size 134217728 crc 46642F0B md5 3F7D6F9B9F41BC700A4E9A93B9FDA8A8 sha1 847858320E55A09E8BDFB447D8DA479805047FB2 )
+)
+
+game (
+	name "z017 - Binding of Isaac - Rebirth, The (Japan) (eShop)"
+	description "z017 - Binding of Isaac - Rebirth, The (Japan) (eShop)"
+	serial "KTR-N-CBRJ"
+	rom ( name "z017 - Binding of Isaac - Rebirth, The (Japan) (eShop).3ds" size 536870912 crc 64DD2D1D md5 D5DBC18FB563D642C6D12DF36D70C9B1 sha1 EE573BDA0424B44597E3A2C3DD5D64CD9286F102 )
+)
+
+game (
+	name "z018 - Zelda no Densetsu - Kamigami no Triforce (Japan) (SNES) (Virtual Console)"
+	description "z018 - Zelda no Densetsu - Kamigami no Triforce (Japan) (SNES) (Virtual Console)"
+	serial "KTR-N-UABJ"
+	rom ( name "z018 - Zelda no Densetsu - Kamigami no Triforce (Japan) (SNES) (Virtual Console).3ds" size 134217728 crc A35C759A md5 7285F5580F8A5B7554DF60AA2C7611F6 sha1 3B3131A22F6EEC155F50CF060C64C00BEECC3B38 )
+)
+
+game (
+	name "z019 - Super Mario World (Japan) (SNES) (Virtual Console)"
+	description "z019 - Super Mario World (Japan) (SNES) (Virtual Console)"
+	serial "KTR-N-UAAJ"
+	rom ( name "z019 - Super Mario World (Japan) (SNES) (Virtual Console).3ds" size 134217728 crc 814FADD9 md5 A0154096F32F05CD57EE62F50C1BADD1 sha1 BDF4F2A2A0CD586186FCFFCD321BA4B6E84F6F56 )
+)
+
+game (
+	name "z020 - Donkey Kong Country 3 - Dixie Kong's Double Trouble (USA, Europe) (SNES) (Virtual Console)"
+	description "z020 - Donkey Kong Country 3 - Dixie Kong's Double Trouble (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UARE"
+	rom ( name "z020 - Donkey Kong Country 3 - Dixie Kong's Double Trouble (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc 23A104B3 md5 30BF4A5D70B293A7085C8FAAFD15580B sha1 E6B75052D19F3E9CE1D27CC72899A6D8D3D0BE4F )
+)
+
+game (
+	name "z021 - Contra III - The Alien Wars (USA, Europe) (SNES) (Virtual Console)"
+	description "z021 - Contra III - The Alien Wars (USA, Europe) (SNES) (Virtual Console)"
+	serial "KTR-N-UAQE"
+	rom ( name "z021 - Contra III - The Alien Wars (USA, Europe) (SNES) (Virtual Console).3ds" size 134217728 crc D78E1D0E md5 467485D809A25A506F3E77D84CD23598 sha1 17125BEDE9FD588620B527067E6018FA3E56D91B )
+)
+
+game (
+	name "z022 - amiibo Kuji Biki Apuri (Japan)"
+	description "z022 - amiibo Kuji Biki Apuri (Japan)"
+	serial "KTR-N-YGAA"
+	rom ( name "z022 - amiibo Kuji Biki Apuri (Japan).3ds" size 134217728 crc A0D2B276 md5 3BE0386D2CE7720465FD6EE93BE8554D sha1 EBBC42EDC877A768B9221A6590FD49ED51D75138 )
+)
+

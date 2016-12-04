@@ -11,7 +11,7 @@
 	</header>
 	<game name="[BIOS] Fairchild Channel F (USA) (SL90025)">
 		<description>[BIOS] Fairchild Channel F (USA) (SL90025)</description>
-		<release name="[BIOS] Fairchild Channel F" region="USA"/>
+		<release name="[BIOS] Fairchild Channel F (USA) (SL90025)" region="USA"/>
 		<rom name="[BIOS] Fairchild Channel F (USA) (SL90025).bin" size="1024" crc="015C1E38" md5="95D339631D867C8F1D15A5F2EC26069D" sha1="759E2ED31FBDE4A2D8DAF8B9F3E0DFFEBC90DAE2"/>
 	</game>
 	<game name="[BIOS] Fairchild Channel F (USA) (SL31253)" cloneof="[BIOS] Fairchild Channel F (USA) (SL90025)">
@@ -84,17 +84,17 @@
 	</game>
 	<game name="Hangman (USA)">
 		<description>Hangman (USA)</description>
-		<release name="Hangman" region="USA"/>
+		<release name="Hangman (USA)" region="USA"/>
 		<rom name="Hangman (USA).bin" size="3072" crc="9238D6CE" md5="0124CD0B61DF5502AABD59029CCB6D5A" sha1="19166D49DEC273CAE1F2DBAC983B130D282ED231"/>
 	</game>
 	<game name="Ordtaevling (Sweden)" cloneof="Hangman (USA)">
 		<description>Ordtaevling (Sweden)</description>
-		<release name="Ordtaevling" region="SWE"/>
+		<release name="Ordtaevling (Sweden)" region="SWE"/>
 		<rom name="Ordtaevling (Sweden).bin" size="3072" crc="3A386E79" md5="C2A44D22D3865B036479E9311C74D3AD" sha1="62509545B8EEF641C432705FF82CD8264C3E1D82"/>
 	</game>
 	<game name="Rat' Mal (Germany)" cloneof="Hangman (USA)">
 		<description>Rat' Mal (Germany)</description>
-		<release name="Rat' Mal" region="GER"/>
+		<release name="Rat' Mal (Germany)" region="GER"/>
 		<rom name="Rat' Mal (Germany).bin" size="3072" crc="87752425" md5="913ECBAA30816C6D78DE8651251761FC" sha1="35F3FB741B643C4B8E8FDBFF4ED0EA24402C4528"/>
 	</game>
 	<game name="Magic Numbers - Mind Reader + Nim (USA)">
@@ -114,7 +114,7 @@
 	</game>
 	<game name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)">
 		<description>Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)</description>
-		<release name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer" region="USA"/>
+		<release name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)" region="USA"/>
 		<rom name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA).bin" size="2048" crc="4D42B296" md5="6565DF74539476D66FD78DE1BAC0259C" sha1="A7B70FB6F24BB1DD79F2CBB1E57B3EDB04332E04"/>
 	</game>
 	<game name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)" cloneof="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)">
@@ -128,7 +128,7 @@
 	</game>
 	<game name="Pinball Challenge (USA)">
 		<description>Pinball Challenge (USA)</description>
-		<release name="Pinball Challenge" region="USA"/>
+		<release name="Pinball Challenge (USA)" region="USA"/>
 		<rom name="Pinball Challenge (USA).bin" size="2048" crc="C610B330" md5="E90339B7068C6227D54F3C0CA637E017" sha1="9267D85982414AF753172E4C9998863463C32C99"/>
 	</game>
 	<game name="Pinball Challenge (USA) (Alt 1)" cloneof="Pinball Challenge (USA)">
@@ -172,12 +172,12 @@
 	</game>
 	<game name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)">
 		<description>Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)</description>
-		<release name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle" region="USA"/>
+		<release name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)" region="USA"/>
 		<rom name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA).bin" size="2048" crc="FF4768B0" md5="7E5C26A6D1F9A90C68669A9800BA522D" sha1="8EDFB668B3EB759F8597FB13B1AEAF43AAF53680"/>
 	</game>
 	<game name="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)" cloneof="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)">
 		<description>Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)</description>
-		<release name="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope" region="GER"/>
+		<release name="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)" region="GER"/>
 		<rom name="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany).bin" size="2048" crc="7124DC59" md5="1FBD86DCCA0E4619963B902C48AE77F2" sha1="15D5E6D152D93A2099B97A2BD5DCF7134DD1A770"/>
 	</game>
 	<game name="Video Blackjack (USA)">

@@ -46,7 +46,7 @@
 	</game>
 	<game name="Atari PAM Diagnostics (USA) (v2.3)">
 		<description>Atari PAM Diagnostics (USA) (v2.3)</description>
-		<release name="Atari PAM Diagnostics" region="USA"/>
+		<release name="Atari PAM Diagnostics (USA) (v2.3)" region="USA"/>
 		<rom name="Atari PAM Diagnostics (USA) (v2.3).a52" size="16384" crc="CE07D9AD" md5="32A6D0DE4F1728DEE163EB2D4B3F49F1" sha1="E086E9868AA913E87F94676FD600F003892E73A1"/>
 	</game>
 	<game name="Atari PAM Diagnostics (USA) (v2.0)" cloneof="Atari PAM Diagnostics (USA) (v2.3)">
@@ -385,7 +385,7 @@
 	</game>
 	<game name="RealSports Basketball (USA)">
 		<description>RealSports Basketball (USA)</description>
-		<release name="RealSports Basketball" region="USA"/>
+		<release name="RealSports Basketball (USA)" region="USA"/>
 		<rom name="RealSports Basketball (USA).a52" size="32768" crc="DD217276" md5="E056001D304DB597BDD21B2968FCC3E6" sha1="9B21AC7FEC8D556585C6970231318EF1F501B2B5"/>
 	</game>
 	<game name="RealSports Basketball (USA) (82-11-05) (Proto)" cloneof="RealSports Basketball (USA)">

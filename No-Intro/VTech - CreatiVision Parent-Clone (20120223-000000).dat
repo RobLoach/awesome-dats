@@ -35,8 +35,8 @@
 	</game>
 	<game name="Chopper Rescue (Asia, Europe)">
 		<description>Chopper Rescue (Asia, Europe)</description>
-		<release name="Chopper Rescue" region="ASI"/>
-		<release name="Chopper Rescue" region="EUR"/>
+		<release name="Chopper Rescue (Asia, Europe)" region="ASI"/>
+		<release name="Chopper Rescue (Asia, Europe)" region="EUR"/>
 		<rom name="Chopper Rescue (Asia, Europe).rom" size="18432" crc="14179570" md5="6C3ABD51286EE689D3576CD6F50269FF" sha1="FDE339C8DBD44B3332E888CD24D3D492CF066B94"/>
 	</game>
 	<game name="Chopper Rescue (Asia, Europe) (Alt 1)" cloneof="Chopper Rescue (Asia, Europe)">
@@ -87,8 +87,8 @@
 	</game>
 	<game name="Planet Defender (Asia, Europe)">
 		<description>Planet Defender (Asia, Europe)</description>
-		<release name="Planet Defender" region="ASI"/>
-		<release name="Planet Defender" region="EUR"/>
+		<release name="Planet Defender (Asia, Europe)" region="ASI"/>
+		<release name="Planet Defender (Asia, Europe)" region="EUR"/>
 		<rom name="Planet Defender (Asia, Europe).rom" size="8192" crc="4B463C18" md5="8AECBD20173BF4AF56A1EB641CBA492E" sha1="1FD80A3921F2487D9EEE2B6D8BB3955D22857D0E"/>
 	</game>
 	<game name="Planet Defender (Asia, Europe) (Alt 1)" cloneof="Planet Defender (Asia, Europe)">
@@ -121,8 +121,8 @@
 	</game>
 	<game name="Tennis (Asia, Europe) (VTL)">
 		<description>Tennis (Asia, Europe) (VTL)</description>
-		<release name="Tennis" region="ASI"/>
-		<release name="Tennis" region="EUR"/>
+		<release name="Tennis (Asia, Europe) (VTL)" region="ASI"/>
+		<release name="Tennis (Asia, Europe) (VTL)" region="EUR"/>
 		<rom name="Tennis (Asia, Europe) (VTL).rom" size="8192" crc="8BED8745" md5="1A60104942EF675D6D34C0C3361025DE" sha1="690A4DCB412E517B172EC5B44C86863EF63B1246"/>
 	</game>
 	<game name="Tennis (Asia, Europe) (DSE)" cloneof="Tennis (Asia, Europe) (VTL)">

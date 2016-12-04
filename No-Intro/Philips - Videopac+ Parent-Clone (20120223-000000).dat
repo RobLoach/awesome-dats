@@ -11,12 +11,12 @@
 	</header>
 	<game name="[BIOS] Philips Videopac+ (Europe)">
 		<description>[BIOS] Philips Videopac+ (Europe)</description>
-		<release name="[BIOS] Philips Videopac+" region="EUR"/>
+		<release name="[BIOS] Philips Videopac+ (Europe)" region="EUR"/>
 		<rom name="[BIOS] Philips Videopac+ (Europe).bin" size="1024" crc="E20A9F41" md5="C500FF71236068E0DC0D0603D265AE76" sha1="5130243429B40B01A14E1304D0394B8459A6FBAE"/>
 	</game>
 	<game name="[BIOS] Brandt Jopac (France)" cloneof="[BIOS] Philips Videopac+ (Europe)">
 		<description>[BIOS] Brandt Jopac (France)</description>
-		<release name="[BIOS] Brandt Jopac" region="FRA"/>
+		<release name="[BIOS] Brandt Jopac (France)" region="FRA"/>
 		<rom name="[BIOS] Brandt Jopac (France).bin" size="1024" crc="11647CA5" md5="279008E4A0DB2DC5F1C048853B033828" sha1="54B8D2C1317628DE51A85FC1C424423A986775E4"/>
 	</game>
 	<game name="Air Battle (Europe)">
@@ -31,12 +31,12 @@
 	</game>
 	<game name="Billard Electrique (France)">
 		<description>Billard Electrique (France)</description>
-		<release name="Billard Electrique" region="FRA"/>
+		<release name="Billard Electrique (France)" region="FRA"/>
 		<rom name="Billard Electrique (France).bin" size="8192" crc="AC5C74E6" md5="5AA0B4BFF06106CDD5D8B370BFE65DE9" sha1="215439C1044B93888B71BD6A210EBFDA93D97C22"/>
 	</game>
 	<game name="Electronic Billiards (Europe) (Proto)" cloneof="Billard Electrique (France)">
 		<description>Electronic Billiards (Europe) (Proto)</description>
-		<release name="Electronic Billiards" region="EUR"/>
+		<release name="Electronic Billiards (Europe) (Proto)" region="EUR"/>
 		<rom name="Electronic Billiards (Europe) (Proto).bin" size="8192" crc="3C949A57" md5="D4DA5C0EF72A977A081A040A31522C1D" sha1="4C7F1DC569E9ABE829E36DBE42D91D39419BFD60"/>
 	</game>
 	<game name="Chez Maxime (France)">
@@ -46,7 +46,7 @@
 	</game>
 	<game name="Clay Pigeon (Europe) (Proto)">
 		<description>Clay Pigeon (Europe) (Proto)</description>
-		<release name="Clay Pigeon" region="EUR"/>
+		<release name="Clay Pigeon (Europe) (Proto)" region="EUR"/>
 		<rom name="Clay Pigeon (Europe) (Proto).bin" size="8192" crc="6FABCB7E" md5="C107B06694D18C4D702D0404CF65C93B" sha1="3F6DBEF6BF13427A52F4F7324D9C33CFCE52ADB0"/>
 	</game>
 	<game name="Clay Pigeon (Europe) (Proto) (Alt 1)" cloneof="Clay Pigeon (Europe) (Proto)">
@@ -55,12 +55,12 @@
 	</game>
 	<game name="Cosmic Conflict (Europe)">
 		<description>Cosmic Conflict (Europe)</description>
-		<release name="Cosmic Conflict" region="EUR"/>
+		<release name="Cosmic Conflict (Europe)" region="EUR"/>
 		<rom name="Cosmic Conflict (Europe).bin" size="8192" crc="A8DBED92" md5="9DA67F2E5D6C898699CBEEB51738E1FB" sha1="99932BE5496A0DAA7DFFC70C7A3AB85BFA726043"/>
 	</game>
 	<game name="Guerre de l'Espace (France)" cloneof="Cosmic Conflict (Europe)">
 		<description>Guerre de l'Espace (France)</description>
-		<release name="Guerre de l'Espace" region="FRA"/>
+		<release name="Guerre de l'Espace (France)" region="FRA"/>
 		<rom name="Guerre de l'Espace (France).bin" size="8192" crc="105231F8" md5="944517ABF1BC9059A82DEFA5B1CE8958" sha1="9220DC32D3BB9225292F3E709D1320B9B1052140"/>
 	</game>
 	<game name="Demon Attack (France)">
@@ -90,22 +90,22 @@
 	</game>
 	<game name="Jeu de Quilles + Basketball (France)">
 		<description>Jeu de Quilles + Basketball (France)</description>
-		<release name="Jeu de Quilles + Basketball" region="FRA"/>
+		<release name="Jeu de Quilles + Basketball (France)" region="FRA"/>
 		<rom name="Jeu de Quilles + Basketball (France).bin" size="8192" crc="B5FB1416" md5="E92E9BE76ECEA8265DED122FB68D00A9" sha1="C341ED24346546B75DE2AB24AF1A9223CA2D1AAC"/>
 	</game>
 	<game name="Tenpin Bowling + Basketball (Europe) (Proto)" cloneof="Jeu de Quilles + Basketball (France)">
 		<description>Tenpin Bowling + Basketball (Europe) (Proto)</description>
-		<release name="Tenpin Bowling + Basketball" region="EUR"/>
+		<release name="Tenpin Bowling + Basketball (Europe) (Proto)" region="EUR"/>
 		<rom name="Tenpin Bowling + Basketball (Europe) (Proto).bin" size="8192" crc="E5FB4260" md5="50D975845CF80F25ADD0BDEB0A704A92" sha1="29D5C9B252E65D257F1472E343039ED8C47EEB05"/>
 	</game>
 	<game name="Killer Bees (Europe)">
 		<description>Killer Bees (Europe)</description>
-		<release name="Killer Bees" region="EUR"/>
+		<release name="Killer Bees (Europe)" region="EUR"/>
 		<rom name="Killer Bees (Europe).bin" size="8192" crc="DEE70B33" md5="D9722861BC5D7F611C21ABF26CF8FD5B" sha1="9253586337917BDA0B7C43DBB251999B6C974F30"/>
 	</game>
 	<game name="Ruche Infernale, La (France)" cloneof="Killer Bees (Europe)">
 		<description>Ruche Infernale, La (France)</description>
-		<release name="Ruche Infernale, La" region="FRA"/>
+		<release name="Ruche Infernale, La (France)" region="FRA"/>
 		<rom name="Ruche Infernale, La (France).bin" size="8192" crc="20E2F7BE" md5="1A87158864B877EE2FAF0F9246DB3784" sha1="34F91468BF42B26EB237AF342164043C16D173CA"/>
 	</game>
 	<game name="Loony Balloon (Europe)">
@@ -140,12 +140,12 @@
 	</game>
 	<game name="Race + Spin-out + Cryptogram (Europe)">
 		<description>Race + Spin-out + Cryptogram (Europe)</description>
-		<release name="Race + Spin-out + Cryptogram" region="EUR"/>
+		<release name="Race + Spin-out + Cryptogram (Europe)" region="EUR"/>
 		<rom name="Race + Spin-out + Cryptogram (Europe).bin" size="8192" crc="EE3EE642" md5="CC8CD8D9BF6AADD296B316E1F28EE270" sha1="69A73208C0C0A6D1B879E62D0CCF3A5A534510BD"/>
 	</game>
 	<game name="Course de Voitures + Autodrome + Cryptogramme (France)" cloneof="Race + Spin-out + Cryptogram (Europe)">
 		<description>Course de Voitures + Autodrome + Cryptogramme (France)</description>
-		<release name="Course de Voitures + Autodrome + Cryptogramme" region="FRA"/>
+		<release name="Course de Voitures + Autodrome + Cryptogramme (France)" region="FRA"/>
 		<rom name="Course de Voitures + Autodrome + Cryptogramme (France).bin" size="8192" crc="9BC04EBB" md5="23F1759E69162E88F034C533D33604F7" sha1="E69E524EBA10976310333787EAFEF1D18DA6D568"/>
 	</game>
 	<game name="Satellite Attack (Europe)">

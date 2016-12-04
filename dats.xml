@@ -51,9 +51,9 @@
   <datfile>
     <name>Atari - Jaguar Parent-Clone</name>
     <description>Atari - Jaguar Parent-Clone</description>
-    <version>20130217-102044</version>
+    <version>20160723-061006</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Atari - Jaguar Parent-Clone (20130217-102044).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Atari - Jaguar Parent-Clone (20160723-061006).dat</url>
   </datfile>
   <datfile>
     <name>Atari - Lynx Parent-Clone</name>
@@ -86,16 +86,16 @@
   <datfile>
     <name>Bandai - WonderSwan Color Parent-Clone</name>
     <description>Bandai - WonderSwan Color Parent-Clone</description>
-    <version>20151122-100257</version>
+    <version>20160925-023748</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Bandai - WonderSwan Color Parent-Clone (20151122-100257).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Bandai - WonderSwan Color Parent-Clone (20160925-023748).dat</url>
   </datfile>
   <datfile>
     <name>Bandai - WonderSwan Parent-Clone</name>
     <description>Bandai - WonderSwan Parent-Clone</description>
-    <version>20140803-052611</version>
+    <version>20161023-173917</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Bandai - WonderSwan Parent-Clone (20140803-052611).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Bandai - WonderSwan Parent-Clone (20161023-173917).dat</url>
   </datfile>
   <datfile>
     <name>Bandai / Apple - Pippin</name>
@@ -112,11 +112,18 @@
     <url>https://robloach.github.io/awesome-dats/Redump/BD-Video (20150405 11-05-42).dat</url>
   </datfile>
   <datfile>
+    <name>Benesse - Pocket Challenge V2</name>
+    <description>Benesse - Pocket Challenge V2</description>
+    <version>20161122-113409</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Benesse - Pocket Challenge V2 (20161122-113409_CM).dat</url>
+  </datfile>
+  <datfile>
     <name>Casio - Loopy Parent-Clone</name>
     <description>Casio - Loopy Parent-Clone</description>
-    <version>20090617-182443</version>
+    <version>20160222-213751</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Casio - Loopy Parent-Clone (20090617-182443).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Casio - Loopy Parent-Clone (20160222-213751).dat</url>
   </datfile>
   <datfile>
     <name>Casio - PV-1000 Parent-Clone</name>
@@ -156,9 +163,9 @@
   <datfile>
     <name>Commodore - Amiga</name>
     <description>Commodore - Amiga</description>
-    <version>20151129-144541</version>
+    <version>20161024-114614</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - Amiga (20151129-144541_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - Amiga (20161024-114614_CM).dat</url>
   </datfile>
   <datfile>
     <name>Commodore - Amiga CD</name>
@@ -191,9 +198,9 @@
   <datfile>
     <name>Commodore - VIC-20</name>
     <description>Commodore - VIC-20</description>
-    <version>20130331-065627</version>
+    <version>20161023-222239</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - VIC-20 (20130331-065627_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Commodore - VIC-20 (20161023-222239_CM).dat</url>
   </datfile>
   <datfile>
     <name>Doom</name>
@@ -261,9 +268,9 @@
   <datfile>
     <name>GCE - Vectrex Parent-Clone</name>
     <description>GCE - Vectrex Parent-Clone</description>
-    <version>20081109-035804</version>
+    <version>20161023-051728</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/GCE - Vectrex Parent-Clone (20081109-035804).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/GCE - Vectrex Parent-Clone (20161023-051728).dat</url>
   </datfile>
   <datfile>
     <name>Hartung - Game Master Parent-Clone</name>
@@ -282,9 +289,9 @@
   <datfile>
     <name>LeapFrog - Leapster Learning Game System</name>
     <description>LeapFrog - Leapster Learning Game System</description>
-    <version>20151122-100147</version>
+    <version>20160528-084828</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/LeapFrog - Leapster Learning Game System (20151122-100147_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/LeapFrog - Leapster Learning Game System (20160528-084828_CM).dat</url>
   </datfile>
   <datfile>
     <name>Magnavox - Odyssey2 Parent-Clone</name>
@@ -301,18 +308,18 @@
     <url>https://robloach.github.io/awesome-dats/Redump/Mattel - HyperScan (20141214 20-56-56).dat</url>
   </datfile>
   <datfile>
-    <name>Microsoft - MSX 2 Parent-Clone</name>
-    <description>Microsoft - MSX 2 Parent-Clone</description>
-    <version>20150803-001512</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Microsoft - MSX 2 Parent-Clone (20150803-001512).dat</url>
-  </datfile>
-  <datfile>
     <name>Microsoft - MSX Parent-Clone</name>
     <description>Microsoft - MSX Parent-Clone</description>
-    <version>20140821-082335</version>
+    <version>20161022-211858</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Microsoft - MSX Parent-Clone (20140821-082335).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Microsoft - MSX Parent-Clone (20161022-211858).dat</url>
+  </datfile>
+  <datfile>
+    <name>Microsoft - MSX2 Parent-Clone</name>
+    <description>Microsoft - MSX2 Parent-Clone</description>
+    <version>20150803-001512</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Microsoft - MSX2 Parent-Clone (20150803-001512).dat</url>
   </datfile>
   <datfile>
     <name>Microsoft - Xbox</name>
@@ -338,16 +345,16 @@
   <datfile>
     <name>Microsoft - XBOX 360 (DLC)</name>
     <description>Microsoft - XBOX 360 (DLC)</description>
-    <version>20151031-202801</version>
+    <version>20161202-073738</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Microsoft - XBOX 360 (DLC) (20151031-202801_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Microsoft - XBOX 360 (DLC) (20161202-073738_CM).dat</url>
   </datfile>
   <datfile>
     <name>Microsoft - XBOX 360 (Games on Demand)</name>
     <description>Microsoft - XBOX 360 (Games on Demand)</description>
-    <version>20130309-014616</version>
+    <version>20130311-024112</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Microsoft - XBOX 360 (Games on Demand) (20130309-014616_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Microsoft - XBOX 360 (Games on Demand) (20130311-024112_CM).dat</url>
   </datfile>
   <datfile>
     <name>Microsoft - XBOX 360 (Title Updates)</name>
@@ -366,9 +373,9 @@
   <datfile>
     <name>NEC - PC Engine - TurboGrafx 16 Parent-Clone</name>
     <description>NEC - PC Engine - TurboGrafx 16 Parent-Clone</description>
-    <version>20151117-000629</version>
+    <version>20161023-001335</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/NEC - PC Engine - TurboGrafx 16 Parent-Clone (20151117-000629).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/NEC - PC Engine - TurboGrafx 16 Parent-Clone (20161023-001335).dat</url>
   </datfile>
   <datfile>
     <name>NEC - PC Engine CD / TurboGrafx-CD</name>
@@ -376,6 +383,13 @@
     <version>20161106 21-53-24</version>
     <author>Redump</author>
     <url>https://robloach.github.io/awesome-dats/Redump/NEC - PC Engine CD - TurboGrafx-CD (20161106 21-53-24).dat</url>
+  </datfile>
+  <datfile>
+    <name>NEC - PC Engine SuperGrafx Parent-Clone</name>
+    <description>NEC - PC Engine SuperGrafx Parent-Clone</description>
+    <version>20161023-001148</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/NEC - PC Engine SuperGrafx Parent-Clone (20161023-001148).dat</url>
   </datfile>
   <datfile>
     <name>NEC - PC-88 series</name>
@@ -399,46 +413,39 @@
     <url>https://robloach.github.io/awesome-dats/Redump/NEC - PC-FX - PC-FXGA (20160604 20-12-56).dat</url>
   </datfile>
   <datfile>
-    <name>NEC - Super Grafx Parent-Clone</name>
-    <description>NEC - Super Grafx Parent-Clone</description>
-    <version>20110307-113453</version>
+    <name>Nintendo - Family Computer Disk System Parent-Clone</name>
+    <description>Nintendo - Family Computer Disk System Parent-Clone</description>
+    <version>20161203-122905</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/NEC - Super Grafx Parent-Clone (20110307-113453).dat</url>
-  </datfile>
-  <datfile>
-    <name>Nintendo - Famicom Disk System Parent-Clone</name>
-    <description>Nintendo - Famicom Disk System Parent-Clone</description>
-    <version>20151127-104125</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Famicom Disk System Parent-Clone (20151127-104125).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Family Computer Disk System Parent-Clone (20161203-122905).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Game Boy Advance (e-Cards)</name>
     <description>Nintendo - Game Boy Advance (e-Cards)</description>
-    <version>20150731-041700</version>
+    <version>20160328-074818</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Game Boy Advance (e-Cards) (20150731-041700_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Game Boy Advance (e-Cards) (20160328-074818_CM).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Game Boy Advance Parent-Clone</name>
     <description>Nintendo - Game Boy Advance Parent-Clone</description>
     <version>	</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Game Boy Advance Parent-Clone (20151230-112929).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Game Boy Advance Parent-Clone (20161204-101552).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Game Boy Color Parent-Clone</name>
     <description>Nintendo - Game Boy Color Parent-Clone</description>
-    <version>20151210-233800</version>
+    <version>20161127-102023</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Game Boy Color Parent-Clone (20151210-233800).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Game Boy Color Parent-Clone (20161127-102023).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Game Boy Parent-Clone</name>
     <description>Nintendo - Game Boy Parent-Clone</description>
-    <version>20151210-233426</version>
+    <version>20161106-155610</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Game Boy Parent-Clone (20151210-233426).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Game Boy Parent-Clone (20161106-155610).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - GameCube</name>
@@ -450,79 +457,79 @@
   <datfile>
     <name>Nintendo - New Nintendo 3DS</name>
     <description>Nintendo - New Nintendo 3DS</description>
-    <version>#3+x000</version>
+    <version>#4+x000</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - New Nintendo 3DS (3+x000_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - New Nintendo 3DS (4+x000_CM).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - New Nintendo 3DS (DLC)</name>
     <description>Nintendo - New Nintendo 3DS (DLC)</description>
-    <version>#1+x000</version>
+    <version>#22+x000</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - New Nintendo 3DS (DLC) (1+x000_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - New Nintendo 3DS (DLC) (22+x000_CM).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Nintendo 3DS</name>
     <description>Nintendo - Nintendo 3DS</description>
-    <version>#1424+x042</version>
+    <version>#1630+x051</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo 3DS (1424+x042_CM).dat</url>
-  </datfile>
-  <datfile>
-    <name>Nintendo - Nintendo 3DS (DLC)</name>
-    <description>Nintendo - Nintendo 3DS (DLC)</description>
-    <version>#744</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo 3DS (DLC) (744_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo 3DS (1630+x051_CM).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Nintendo 64 Parent-Clone</name>
     <description>Nintendo - Nintendo 64 Parent-Clone</description>
-    <version>20151122-045954</version>
+    <version>20161204-220000</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo 64 Parent-Clone (20151122-045954).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo 64 Parent-Clone (20161204-220000).dat</url>
+  </datfile>
+  <datfile>
+    <name>Nintendo - Nintendo 64DD Parent-Clone</name>
+    <description>Nintendo - Nintendo 64DD Parent-Clone</description>
+    <version>20160310-053930</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo 64DD Parent-Clone (20160310-053930).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Nintendo DS</name>
     <description>Nintendo - Nintendo DS</description>
-    <version>#6733+x197</version>
+    <version>#6783+x200</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo DS Decrypted (6733+x197_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo DS (6783+x200_CM).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Nintendo DS (Download Play) (BETA)</name>
     <description>Nintendo - Nintendo DS (Download Play) (BETA)</description>
-    <version>20151129-031849</version>
+    <version>20160925-084555</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo DS (Download Play) (BETA) (20151129-031849_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo DS (Download Play) (BETA) (20160925-084555_CM).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Nintendo DSi</name>
     <description>Nintendo - Nintendo DSi</description>
-    <version>#10+x000</version>
+    <version>#11+x000</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo DSi Decrypted (10+x000_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo DSi (11+x000_CM).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Nintendo DSi (DLC)</name>
     <description>Nintendo - Nintendo DSi (DLC)</description>
-    <version>#324</version>
+    <version>#646</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo DSi (DLC) (324_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo DSi (DLC) (646_CM).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Nintendo Entertainment System Parent-Clone</name>
     <description>Nintendo - Nintendo Entertainment System Parent-Clone</description>
-    <version>20151230-115107</version>
+    <version>20161121-011006</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo Entertainment System Parent-Clone (20151230-115107).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo Entertainment System Parent-Clone (20161121-011006).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Nintendo Wii (DLC)</name>
     <description>Nintendo - Nintendo Wii (DLC)</description>
-    <version>20151225-001801</version>
+    <version>20161201-014143</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo Wii (DLC) (20151225-001801_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Nintendo Wii (DLC) (20161201-014143_CM).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Pokemon Mini Parent-Clone</name>
@@ -534,9 +541,9 @@
   <datfile>
     <name>Nintendo - Satellaview Parent-Clone</name>
     <description>Nintendo - Satellaview Parent-Clone</description>
-    <version>20151211-004837</version>
+    <version>20161121-104824</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Satellaview Parent-Clone (20151211-004837).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Satellaview Parent-Clone (20161121-104824).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Sufami Turbo Parent-Clone</name>
@@ -548,16 +555,16 @@
   <datfile>
     <name>Nintendo - Super Nintendo Entertainment System Parent-Clone</name>
     <description>Nintendo - Super Nintendo Entertainment System Parent-Clone</description>
-    <version>20151211-012908</version>
+    <version>20161130-222348</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Super Nintendo Entertainment System Parent-Clone (20151211-012908).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Super Nintendo Entertainment System Parent-Clone (20161130-222348).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Virtual Boy Parent-Clone</name>
     <description>Nintendo - Virtual Boy Parent-Clone</description>
-    <version>20140803-080208</version>
+    <version>20160317-160921</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Virtual Boy Parent-Clone (20140803-080208).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Nintendo - Virtual Boy Parent-Clone (20160317-160921).dat</url>
   </datfile>
   <datfile>
     <name>Nintendo - Wii</name>
@@ -996,9 +1003,9 @@
   <datfile>
     <name>Sega - 32X Parent-Clone</name>
     <description>Sega - 32X Parent-Clone</description>
-    <version>20130217-102211</version>
+    <version>20161022-095033</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - 32X Parent-Clone (20130217-102211).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - 32X Parent-Clone (20161022-095033).dat</url>
   </datfile>
   <datfile>
     <name>Sega - Dreamcast</name>
@@ -1010,23 +1017,23 @@
   <datfile>
     <name>Sega - Game Gear Parent-Clone</name>
     <description>Sega - Game Gear Parent-Clone</description>
-    <version>20150407-151407</version>
+    <version>20161022-094907</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - Game Gear Parent-Clone (20150407-151407).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - Game Gear Parent-Clone (20161022-094907).dat</url>
   </datfile>
   <datfile>
     <name>Sega - Master System - Mark III Parent-Clone</name>
     <description>Sega - Master System - Mark III Parent-Clone</description>
-    <version>20141028-150443</version>
+    <version>20160925-050521</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - Master System - Mark III Parent-Clone (20141028-150443).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - Master System - Mark III Parent-Clone (20160925-050521).dat</url>
   </datfile>
   <datfile>
     <name>Sega - Mega Drive - Genesis Parent-Clone</name>
     <description>Sega - Mega Drive - Genesis Parent-Clone</description>
-    <version>20151211-000621</version>
+    <version>20161201-220716</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - Mega Drive - Genesis Parent-Clone (20151211-000621).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - Mega Drive - Genesis Parent-Clone (20161201-220716).dat</url>
   </datfile>
   <datfile>
     <name>Sega - Mega-CD / Sega CD</name>
@@ -1038,9 +1045,9 @@
   <datfile>
     <name>Sega - PICO Parent-Clone</name>
     <description>Sega - PICO Parent-Clone</description>
-    <version>20151004-123620</version>
+    <version>20161114-043330</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - PICO Parent-Clone (20151004-123620).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sega - PICO Parent-Clone (20161114-043330).dat</url>
   </datfile>
   <datfile>
     <name>Sega - Saturn</name>
@@ -1122,23 +1129,23 @@
   <datfile>
     <name>Sony - PlayStation 3 (DLC)</name>
     <description>Sony - PlayStation 3 (DLC)</description>
-    <version>20150209-000000</version>
+    <version>20160917-000000</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (DLC) (20150209-000000_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (DLC) (20160917-000000_CM).dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation 3 (Downloadable)</name>
     <description>Sony - PlayStation 3 (Downloadable)</description>
-    <version>20130309-000000</version>
+    <version>20160401-000000</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (Downloadable) (20130309-000000_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (Downloadable) (20160401-000000_CM).dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation 3 (PSN)</name>
     <description>Sony - PlayStation 3 (PSN)</description>
-    <version>20151121-000000</version>
+    <version>20160918-040400</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (PSN) (20151121-000000_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation 3 (PSN) (20160918-040400_CM).dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation 4</name>
@@ -1150,30 +1157,30 @@
   <datfile>
     <name>Sony - PlayStation Portable</name>
     <description>Sony - PlayStation Portable</description>
-    <version>20151229-220618</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (20151229-220618_CM).dat</url>
-  </datfile>
-  <datfile>
-    <name>Sony - PlayStation Portable</name>
-    <description>Sony - PlayStation Portable</description>
     <version>20161019 12-12-03</version>
     <author>Redump</author>
     <url>https://robloach.github.io/awesome-dats/Redump/Sony - PlayStation Portable (20161019 12-12-03).dat</url>
   </datfile>
   <datfile>
+    <name>Sony - PlayStation Portable</name>
+    <description>Sony - PlayStation Portable</description>
+    <version>20161105-102403</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (20161105-102403_CM).dat</url>
+  </datfile>
+  <datfile>
     <name>Sony - PlayStation Portable (DLC)</name>
     <description>Sony - PlayStation Portable (DLC)</description>
-    <version>20150125-000000</version>
+    <version>20160702-105900</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (DLC) (20150125-000000_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (DLC) (20160702-105900_CM).dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation Portable (PSN)</name>
     <description>Sony - PlayStation Portable (PSN)</description>
-    <version>20151226-093713</version>
+    <version>20161106-120333</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (PSN) (20151226-093713_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (PSN) (20161106-120333_CM).dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation Portable (PSX2PSP)</name>
@@ -1185,16 +1192,37 @@
   <datfile>
     <name>Sony - PlayStation Portable (UMD Music)</name>
     <description>Sony - PlayStation Portable (UMD Music)</description>
-    <version>20151229-221104</version>
+    <version>20160607-064145</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (UMD Music) (20151229-221104_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (UMD Music) (20160607-064145_CM).dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation Portable (UMD Video)</name>
     <description>Sony - PlayStation Portable (UMD Video)</description>
-    <version>20160101-153630</version>
+    <version>20161202-142921</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (UMD Video) (20160101-153630_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (UMD Video) (20161202-142921_CM).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Vita</name>
+    <description>Sony - PlayStation Vita</description>
+    <version>20161204-043132</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Vita (20161204-043132_CM).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Vita (DLC)</name>
+    <description>Sony - PlayStation Vita (DLC)</description>
+    <version>20161118-223152</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Vita (DLC) (20161118-223152_CM).dat</url>
+  </datfile>
+  <datfile>
+    <name>Sony - PlayStation Vita (PSN)</name>
+    <description>Sony - PlayStation Vita (PSN)</description>
+    <version>20161011-113835</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Vita (PSN) (20161011-113835_CM).dat</url>
   </datfile>
   <datfile>
     <name>Tiger - Game.com Parent-Clone</name>
@@ -1227,9 +1255,9 @@
   <datfile>
     <name>VTech - V.Smile</name>
     <description>VTech - V.Smile</description>
-    <version>20151122-095152</version>
+    <version>20160423-031609</version>
     <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/VTech - V.Smile (20151122-095152_CM).dat</url>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/VTech - V.Smile (20160423-031609_CM).dat</url>
   </datfile>
   <datfile>
     <name>Watara - Supervision Parent-Clone</name>
