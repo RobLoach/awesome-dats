@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>BD-Video</name>
+		<description>BD-Video 20150405 11-05-42</description>
+		<version>20150405 11-05-42</version>
+		<date>20150405 11-05-42</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Street Fighter IV - The Ties That Bind (Europe) (En,Ja) (Bonus Disc)">
+		<category>Bonus Discs</category>
+		<description>Street Fighter IV - The Ties That Bind (Europe) (En,Ja) (Bonus Disc)</description>
+		<rom name="Street Fighter IV - The Ties That Bind (Europe) (En,Ja) (Bonus Disc).iso" size="19814547456" crc="8ac97fc0" md5="23812992110afba77254018067da9632" sha1="9e7fc8e069c21156131c5730310c11ee3669cd5e"/>
+	</game>
+</datafile>

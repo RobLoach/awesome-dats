@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Apple - Macintosh</name>
+		<description>Apple - Macintosh 20160324 19-26-51</description>
+		<version>20160324 19-26-51</version>
+		<date>20160324 19-26-51</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Monopoly Casino (USA)">
+		<category>Games</category>
+		<description>Monopoly Casino (USA)</description>
+		<rom name="Monopoly Casino (USA).cue" size="1017" crc="1ecf195b" md5="0c3e7ecc8221175996766a7d084e748b" sha1="002441b436916297defc3743195fd63e800a868a"/>
+		<rom name="Monopoly Casino (USA) (Track 1).bin" size="381360336" crc="6a9d9b9c" md5="595c987dde0eae62b8b269631de1cfe1" sha1="22a1e5f18c9563754086745d1cf50c79de7a68e3"/>
+		<rom name="Monopoly Casino (USA) (Track 2).bin" size="41345808" crc="541e2bc1" md5="0f5d9d1616ddf825fc36cfe2ba47d8e0" sha1="c4da6d0eb49ad9563a1c23e0f2efc269c73df781"/>
+		<rom name="Monopoly Casino (USA) (Track 3).bin" size="35613984" crc="816dba5c" md5="92e07e180c9f6ccf30a0b5ec713cf913" sha1="6d4d85ef6f181b634e7f879428527d9f718ea49a"/>
+		<rom name="Monopoly Casino (USA) (Track 4).bin" size="35482272" crc="3600b2f0" md5="54bd613f440967ec6498861607d8c1ae" sha1="7cecb9eed9de22f75972ef261432891222faf7d1"/>
+		<rom name="Monopoly Casino (USA) (Track 5).bin" size="36176112" crc="1d522c33" md5="df7c3034ac99f5f0c57343a3b9c5ee8d" sha1="b038d04d34e0d9ea2f33813a7bfa2463c44b97bf"/>
+		<rom name="Monopoly Casino (USA) (Track 6).bin" size="35503440" crc="4e66e8d6" md5="578da812f5097bebff35bb75fe791ff7" sha1="5c58ef2b5746755299fb7f54272ea43c47563c9f"/>
+		<rom name="Monopoly Casino (USA) (Track 7).bin" size="37653168" crc="22c3be71" md5="9d1894b1bd1584b7833509c240dcc3e3" sha1="7b072f767f743d00313a0628544247de9c8a0893"/>
+		<rom name="Monopoly Casino (USA) (Track 8).bin" size="39570048" crc="1d640983" md5="4a68116a507484981f59ca1c2c4c6d34" sha1="fc9716c40676b61499b13d855d4a89cbdb862959"/>
+		<rom name="Monopoly Casino (USA) (Track 9).bin" size="39191376" crc="283febb4" md5="70e993f38cd4475ee0bed6375b722418" sha1="aa2220f41d86481e03c240bd9680abde298f3abc"/>
+	</game>
+	<game name="Postal (Europe) (Postal Manual)">
+		<category>Demos</category>
+		<description>Postal (Europe) (Postal Manual)</description>
+		<rom name="Postal (Europe) (Postal Manual).cue" size="97" crc="1d26215b" md5="3d229f988814b48fd387092435c570b4" sha1="630985dec8f3a598518f63ecc829fc7abe0227e8"/>
+		<rom name="Postal (Europe) (Postal Manual).bin" size="4090128" crc="99c05610" md5="bd34614f39450689e88858687e652f7c" sha1="5fecdb3e89a31d95d2054a2e30e88afba128d473"/>
+	</game>
+	<game name="Bungie Mac Action Sack (Europe)">
+		<category>Games</category>
+		<description>Bungie Mac Action Sack (Europe)</description>
+		<rom name="Bungie Mac Action Sack (Europe).cue" size="97" crc="3f03616d" md5="8bc2e11506ce23d012fb3cc4e5ddbfab" sha1="c9992f41a2e63bbaeddc77c30b1f09e4316747bd"/>
+		<rom name="Bungie Mac Action Sack (Europe).bin" size="583472400" crc="01c12cc1" md5="ece6a79ec058d3168ca3369c115ed902" sha1="11c82113ae83fde5aa3f1a0c423d55ae0342e42f"/>
+	</game>
+	<game name="Tomb Raider - The Last Revelation (Europe)">
+		<category>Games</category>
+		<description>Tomb Raider - The Last Revelation (Europe)</description>
+		<rom name="Tomb Raider - The Last Revelation (Europe).cue" size="108" crc="680c800c" md5="0fc3fc19350e1a04a5e4f720f4ec74cf" sha1="42b4da5394e4ddf5dac6ac9f5e9802b74632b3a1"/>
+		<rom name="Tomb Raider - The Last Revelation (Europe).bin" size="783829872" crc="c402398d" md5="ced313fbb8e6e6ae8167bf729df80175" sha1="13fd888dbb3926087953fb2ca0f70753174addf7"/>
+	</game>
+	<game name="Tomb Raider Gold (Europe)">
+		<category>Games</category>
+		<description>Tomb Raider Gold (Europe)</description>
+		<rom name="Tomb Raider Gold (Europe).cue" size="91" crc="e04713e9" md5="1edf8b0b84d6e26c426828f62b5be247" sha1="db0d539746a3d952d152b8464c07591ebeaddb4d"/>
+		<rom name="Tomb Raider Gold (Europe).bin" size="482068272" crc="e6495766" md5="79a189ba9db419807359530c0d9164b5" sha1="095615f0930398ce682d58a3cf04afe7a70cc6d8"/>
+	</game>
+	<game name="Tomb Raider III - Adventures of Lara Croft (Europe)">
+		<category>Games</category>
+		<description>Tomb Raider III - Adventures of Lara Croft (Europe)</description>
+		<rom name="Tomb Raider III - Adventures of Lara Croft (Europe).cue" size="117" crc="66371aa7" md5="14060b57662731ccb3a6e32559e3439b" sha1="3264e36d84d689a4fe9b67e1922718011632535e"/>
+		<rom name="Tomb Raider III - Adventures of Lara Croft (Europe).bin" size="698828592" crc="8c867713" md5="77c3fbebea9118c9452714efcf1f3c2a" sha1="35c55c19995acf947ad3c677c7570eae90309fa7"/>
+	</game>
+	<game name="Tomb Raider II - Starring Lara Croft (Europe)">
+		<category>Games</category>
+		<description>Tomb Raider II - Starring Lara Croft (Europe)</description>
+		<rom name="Tomb Raider II - Starring Lara Croft (Europe).cue" size="111" crc="06995133" md5="067a3265bcd55da6dd556815bdf14d49" sha1="8e01585313e36cf340c52effe7d351ceb088f4b9"/>
+		<rom name="Tomb Raider II - Starring Lara Croft (Europe).bin" size="783124272" crc="64c4db13" md5="168855e1e20e598b4521fe33fd06c21c" sha1="86fe3aae884ddebe4564644c6f68c5f1f1b66846"/>
+	</game>
+	<game name="Unreal Tournament (USA)">
+		<category>Games</category>
+		<description>Unreal Tournament (USA)</description>
+		<rom name="Unreal Tournament (USA).cue" size="89" crc="8b8b093e" md5="f219b3e2632d4ceca5e9fd95866426ad" sha1="1d30dce4de21209017148e892b2d41c12d444121"/>
+		<rom name="Unreal Tournament (USA).bin" size="663054672" crc="856ac3a4" md5="ea4721232a46da5263fc07dd65141b50" sha1="cf90b7ad4a2d7cb64dc844301c28f02298ed3b0b"/>
+	</game>
+	<game name="Deus Ex (USA)">
+		<category>Games</category>
+		<description>Deus Ex (USA)</description>
+		<rom name="Deus Ex (USA).cue" size="79" crc="a6415534" md5="b6de07c7f77a0a282c2c89b6fc663e0d" sha1="7e04d07968ecef36655d14c0bf9383489a9aa6bb"/>
+		<rom name="Deus Ex (USA).bin" size="783477072" crc="9c096c85" md5="5c63c7f81a24473a643ee3960c27ffa0" sha1="a6f72f17fc0f9fd0196d9d159986b7bde838856d"/>
+	</game>
+	<game name="Dark Corona Pegasus (Europe)">
+		<category>Games</category>
+		<description>Dark Corona Pegasus (Europe)</description>
+		<rom name="Dark Corona Pegasus (Europe).cue" size="94" crc="1723a91a" md5="799d12b15e74256b71b4b3fb9680cbb0" sha1="b87ae194b2f56f48121390f9cd5cf8020e2ae2f0"/>
+		<rom name="Dark Corona Pegasus (Europe).bin" size="13573392" crc="6dc7a717" md5="b60af85c313e3f5e277e49dbf07629cf" sha1="355a2c662dd029e33377864edc421fa3792a4902"/>
+	</game>
+	<game name="MacAttack (Europe)">
+		<category>Games</category>
+		<description>MacAttack (Europe)</description>
+		<rom name="MacAttack (Europe).cue" size="84" crc="16ecff9e" md5="617bb82cf6d99d588c1f640a8454afd3" sha1="1bb300f00706467c33d2e3308216f7fd9c2b8fec"/>
+		<rom name="MacAttack (Europe).bin" size="4104240" crc="0be17d38" md5="4291bbeae79b14af1f55ac79dd58d257" sha1="4bc8379c2a9b86d071458b3cd67d9ec29a278b4e"/>
+	</game>
+	<game name="Doom II (USA)">
+		<category>Games</category>
+		<description>Doom II (USA)</description>
+		<rom name="Doom II (USA).cue" size="79" crc="e6cac366" md5="f477e161cf9efa540146928801597ff9" sha1="abc8023d9a1febafc6d591a781300298b37d885e"/>
+		<rom name="Doom II (USA).bin" size="783458256" crc="3c2ada96" md5="4f99f3050428957ebd575f1ac5ebeab0" sha1="119a868c89c825ee7e0d8b019785d58ac2c4384c"/>
+	</game>
+	<game name="Unreal (USA)">
+		<category>Games</category>
+		<description>Unreal (USA)</description>
+		<rom name="Unreal (USA).cue" size="78" crc="0576dd2a" md5="ff9dec46eb6e961c65165fe3dafb75cb" sha1="e2a88514422c86333b2906b8fee2a75332f3de46"/>
+		<rom name="Unreal (USA).bin" size="783477072" crc="9958449a" md5="6e2f3ff50684c07fbd02e3a0ef039b74" sha1="e73ac5ca4f55c8f00489a4183da5e17ce94615bd"/>
+	</game>
+	<game name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 1)">
+		<category>Games</category>
+		<description>Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 1)</description>
+		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 1).cue" size="120" crc="46676bee" md5="0a141deed231bd59306b097bcfaa8e54" sha1="13d80174fd8bd7a5f952c79876414c3dd5c55bef"/>
+		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 1).bin" size="783143088" crc="fc654621" md5="ea7c8894981a394ae44c09176393b09a" sha1="2f91ef91895fea031fbaed562b36ace3980c9ad4"/>
+	</game>
+	<game name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 2)">
+		<category>Games</category>
+		<description>Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 2)</description>
+		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 2).cue" size="120" crc="473a4d3f" md5="e9394f5ba62be2808ed28cf5a39a871e" sha1="8200e69314fafe5a137eaced420faa3cd74843ae"/>
+		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 2).bin" size="722908368" crc="5cac3eaa" md5="61032e21146ed7ecca43170c1607448b" sha1="f543f188f5fdd0881f06b50e4de4799788b7663b"/>
+	</game>
+	<game name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 3)">
+		<category>Games</category>
+		<description>Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 3)</description>
+		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 3).cue" size="120" crc="f121ad4f" md5="477e63fd7d76fcf1248c508b98634b6d" sha1="466d9c31f635c6152a0c8e5cb6ad4e6c2ed3feeb"/>
+		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 3).bin" size="783143088" crc="62471696" md5="4acd643b9423e034fd3d3063a7e541b7" sha1="82cd43fde2bbd2a46c28590764c71ecb154c6364"/>
+	</game>
+	<game name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4)">
+		<category>Games</category>
+		<description>Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4)</description>
+		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4).cue" size="120" crc="4580009d" md5="16b1241edbb59dfc971b864b012cb0b3" sha1="ac76eb4dbefd80d6e4a91a1949573e3587af9e7e"/>
+		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4).bin" size="482082384" crc="25b64380" md5="35e6dabfe648b1c62db095848445957c" sha1="3fd8918c9c2a00c71b0e3e6bfaae3e34f3f4a745"/>
+	</game>
+	<game name="Lords of the Realm II + Siege Pack (USA)">
+		<category>Games</category>
+		<description>Lords of the Realm II + Siege Pack (USA)</description>
+		<rom name="Lords of the Realm II + Siege Pack (USA).cue" size="106" crc="7d940501" md5="ffecda7f2ba4983647a8cdb58ca28df1" sha1="0558e99ee25a9cef6ce3397d0a2745515e9da18a"/>
+		<rom name="Lords of the Realm II + Siege Pack (USA).bin" size="633475920" crc="b5a18318" md5="fcd4dfd0a53c193a68d7cf0a41041af7" sha1="658627f1ffe1fa69337628fd5488d6106846edb2"/>
+	</game>
+	<game name="Myst (USA)">
+		<category>Games</category>
+		<description>Myst (USA)</description>
+		<rom name="Myst (USA).cue" size="76" crc="ae26f96a" md5="52eaaecb5f85876e75ba2e073783e974" sha1="b8df2c7cff960bb75bfc8f9de7434d375983e204"/>
+		<rom name="Myst (USA).bin" size="635816160" crc="c7030819" md5="9310d88d3c5fc17e74d0b44177e043c3" sha1="481b780df3740a99162cfa068eabf1f887f47ebb"/>
+	</game>
+	<game name="Giants - Citizen Kabuto (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Giants - Citizen Kabuto (USA) (Disc 1)</description>
+		<rom name="Giants - Citizen Kabuto (USA) (Disc 1).cue" size="104" crc="0bb41532" md5="9a8625250a5ffe960cedd9554965263d" sha1="66806734094e1744e2dd693744344b05a1fbf90e"/>
+		<rom name="Giants - Citizen Kabuto (USA) (Disc 1).bin" size="780038448" crc="7269409c" md5="2523ebddf184dc2504ff2e2931dc5495" sha1="6c1bc77597001ea99797bf8101b4efa37f14553b"/>
+	</game>
+	<game name="Giants - Citizen Kabuto (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Giants - Citizen Kabuto (USA) (Disc 2)</description>
+		<rom name="Giants - Citizen Kabuto (USA) (Disc 2).cue" size="104" crc="0ae933e3" md5="219066d44f4671bafabccc0f59e95293" sha1="3981a2eb2040e5d274de2989a5b63541439f169f"/>
+		<rom name="Giants - Citizen Kabuto (USA) (Disc 2).bin" size="780038448" crc="6702cdc7" md5="d75c79e38369143b47a49f3738fd348c" sha1="8b794d9ab084d90f90505b0327bd24ac4bbb86f0"/>
+	</game>
+	<game name="Worms 3D (USA)">
+		<category>Games</category>
+		<description>Worms 3D (USA)</description>
+		<rom name="Worms 3D (USA).iso" size="4699488256" crc="b9d49ddd" md5="62f4f3c85f0da0b21f929f2f77bd1077" sha1="4b2ae2d81a21a8d0a8798d97cfb53f55d3414372"/>
+	</game>
+	<game name="Full Throttle (Europe)">
+		<category>Games</category>
+		<description>Full Throttle (Europe)</description>
+		<rom name="Full Throttle (Europe).cue" size="111" crc="fa291bfa" md5="fa0b58a99db202c4219ddec30fb004cf" sha1="1d26e8b0b9edcb4cec7ab9b8f9e3dec4f6654889"/>
+		<rom name="Full Throttle (Europe).bin" size="696170832" crc="8b78b7e5" md5="50137d78f67fb86b17bed019be37abf1" sha1="d7481dc00aa46524c5fbf40a21d50994e7c5ead9"/>
+	</game>
+	<game name="Sotsugyou - Graduation (Japan)">
+		<category>Games</category>
+		<description>Sotsugyou - Graduation (Japan)</description>
+		<rom name="Sotsugyou - Graduation (Japan).cue" size="96" crc="90f78b42" md5="07d94d477579f6a1c996722b8ca4a8b2" sha1="26661ffcf946a73a49bf374a014fe071da2b7705"/>
+		<rom name="Sotsugyou - Graduation (Japan).bin" size="117576480" crc="69aff86e" md5="41a422ca9cc076e57e8b17beda137a38" sha1="f59a5bcfdc5ccb44bfdb43a5524e0cddaa90be23"/>
+	</game>
+	<game name="XXX Vol. 1 (Japan)">
+		<category>Multimedia</category>
+		<description>XXX Vol. 1 (Japan)</description>
+		<rom name="XXX Vol. 1 (Japan).cue" size="84" crc="e8fc0fa1" md5="97d736e018797edde68f1664f2c0b545" sha1="9ecf4177159d67b08079ec54aac14b37ef163801"/>
+		<rom name="XXX Vol. 1 (Japan).bin" size="752578848" crc="9cf4995c" md5="968c72004cad94a9e76727728b8664d6" sha1="3a35706eedce0cb336e6204c0f5234b3ff25f560"/>
+	</game>
+	<game name="Marathon 2 - Durandal (USA)">
+		<category>Games</category>
+		<description>Marathon 2 - Durandal (USA)</description>
+		<rom name="Marathon 2 - Durandal (USA).cue" size="345" crc="a80431ff" md5="5fb30032d05206b3e011e0fa9cce0607" sha1="b68b12089f267631bc59f0ec3d2679eeec5e83df"/>
+		<rom name="Marathon 2 - Durandal (USA) (Track 1).bin" size="96951792" crc="81455538" md5="fdf6805ad690d2e3bb25df9599091af4" sha1="c9ffba1765a2a78355560b86105a1e61d13a783b"/>
+		<rom name="Marathon 2 - Durandal (USA) (Track 2).bin" size="32970336" crc="4e51ce55" md5="9273b498512cbdba747932b9ff6028d3" sha1="0f9837e07e9fff7ffd039feb1516c009f9343f7f"/>
+		<rom name="Marathon 2 - Durandal (USA) (Track 3).bin" size="8577744" crc="e6d0fcdd" md5="4f8cab1e78f635fee4336ef2247e2fec" sha1="46da5ee1c119ae5ef8589aa40934bcab6e8cd701"/>
+	</game>
+	<game name="Crystal Caliburn (USA)">
+		<category>Games</category>
+		<description>Crystal Caliburn (USA)</description>
+		<rom name="Crystal Caliburn (USA).cue" size="111" crc="7987c3fb" md5="6389fc5b8294feb23ee45aca6a26a070" sha1="f015575e120c14d6dea5e88fbcb03c0f8840ee4f"/>
+		<rom name="Crystal Caliburn (USA).bin" size="39537120" crc="25f79827" md5="864471c3963307ac5e7369d18a6416a8" sha1="fb6da4bda47b2a57d8d95d7b5f50df555c98a1b8"/>
+	</game>
+	<game name="Meshitsukai 2 (Japan)">
+		<category>Games</category>
+		<description>Meshitsukai 2 (Japan)</description>
+		<rom name="Meshitsukai 2 (Japan).cue" size="87" crc="063fd4e8" md5="917450724858fd919fc3656a00394018" sha1="89a9aa2e845d026f550927b49b01da641e92cfae"/>
+		<rom name="Meshitsukai 2 (Japan).bin" size="747326832" crc="e8fe60bc" md5="fa7a6f6abe826d6e86dbce2e12a0bde0" sha1="65ed7634ddf45b6898fc8f6ef00e501dd89ff58f"/>
+	</game>
+	<game name="Saikyou Kareshi - Dynamic Darling (Japan)">
+		<category>Games</category>
+		<description>Saikyou Kareshi - Dynamic Darling (Japan)</description>
+		<rom name="Saikyou Kareshi - Dynamic Darling (Japan).cue" size="107" crc="903b7caf" md5="6089b893c7052eed2fbc4e4b17b355ff" sha1="4f3b98637c08187399b5a31eee3c2674f3428674"/>
+		<rom name="Saikyou Kareshi - Dynamic Darling (Japan).bin" size="414509424" crc="483b483e" md5="68a94c3137d5c8f5fbb01828319c1936" sha1="b6483c66316176998f0be9bd6b5910613f3ef6c1"/>
+	</game>
+	<game name="Crescent Satsujin Jiken - Tozasareta Nikki (Japan)">
+		<category>Games</category>
+		<description>Crescent Satsujin Jiken - Tozasareta Nikki (Japan)</description>
+		<rom name="Crescent Satsujin Jiken - Tozasareta Nikki (Japan).cue" size="131" crc="e041d1db" md5="e9571c2d5e72437dd05946ddff79f894" sha1="bb19a4b7bf0981d174d304335b9ca20f56d4f5d1"/>
+		<rom name="Crescent Satsujin Jiken - Tozasareta Nikki (Japan).bin" size="758896320" crc="c96364d9" md5="b1d4174fd4933da22b4a9820af98606d" sha1="ca0d66eaafe8a221c4b96389f3ca54e5c1b8217a"/>
+	</game>
+	<game name="Bandai Visual CD-ROM Previews for Macintosh Vol. 1 (Japan)">
+		<category>Multimedia</category>
+		<description>Bandai Visual CD-ROM Previews for Macintosh Vol. 1 (Japan)</description>
+		<rom name="Bandai Visual CD-ROM Previews for Macintosh Vol. 1 (Japan).cue" size="124" crc="2901b8c6" md5="c661de7c1c1ef403b312c9e3cce52fca" sha1="baeb4d165dfc7ef0985344bf8581dca4451787c0"/>
+		<rom name="Bandai Visual CD-ROM Previews for Macintosh Vol. 1 (Japan).bin" size="421480752" crc="fe0c4416" md5="bc1cb01a4989597587378df1c6a9730e" sha1="bdcf31e55c18e8ac97377afb46d79d52e3ec8809"/>
+	</game>
+	<game name="Kidou Senshi Gundam Illustration World Vol. 1 (Japan)">
+		<category>Multimedia</category>
+		<description>Kidou Senshi Gundam Illustration World Vol. 1 (Japan)</description>
+		<rom name="Kidou Senshi Gundam Illustration World Vol. 1 (Japan).cue" size="119" crc="c6660e98" md5="1f1b4a214c2e5aa27b7a0aca37d78f93" sha1="1f7b82fcdb7a00ea16047677c996464870338cd5"/>
+		<rom name="Kidou Senshi Gundam Illustration World Vol. 1 (Japan).bin" size="439609968" crc="8af506c3" md5="40ea73ff320299856100daacec890428" sha1="78b98cbe770e2146b647202037fb62847fbf05e3"/>
+	</game>
+	<game name="id Anthology (USA) (Disc 4) (Mac)">
+		<category>Games</category>
+		<description>id Anthology (USA) (Disc 4) (Mac)</description>
+		<rom name="id Anthology (USA) (Disc 4) (Mac).cue" size="99" crc="b0b99bc4" md5="51b626d4783651830bb1926a080fc4e5" sha1="2b68410e80252211a73e225ec306b3d6cc262bb0"/>
+		<rom name="id Anthology (USA) (Disc 4) (Mac).bin" size="582764448" crc="b13c6a52" md5="9ff69025c0af9a3fa3d406c558d92847" sha1="e79e2ee47d5bdeaa300f1a8a57f5dea5ad42ae37"/>
+	</game>
+	<game name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
+		<category>Games</category>
+		<description>J.B. Harold - Blue Chicago Blues (Japan) (Disc 1)</description>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 1).cue" size="138" crc="f2f9b746" md5="761b9408b9b86886d01fab2ed412e79a" sha1="78110aca5ea77005808d5df0731f1c723f6f4d9d"/>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 1).bin" size="667450560" crc="26eaba02" md5="15aef0cdbdd6b384dfd2b993380e92a4" sha1="f0be9b858d11224730a4e6a7fd274068bb18400e"/>
+	</game>
+	<game name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 2)">
+		<category>Games</category>
+		<description>J.B. Harold - Blue Chicago Blues (Japan) (Disc 2)</description>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 2).cue" size="138" crc="f3a49197" md5="d33bd690f054ed32a6044fec2450d4e7" sha1="203c6c72aa9326d757e3c3e76fb761828e224cfd"/>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 2).bin" size="667546992" crc="0fa707f6" md5="9d1a61c0f138f41383d2f4726bbc0e47" sha1="c498ad35172b7b8c2961df119db00d246e539b7e"/>
+	</game>
+	<game name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 3)">
+		<category>Games</category>
+		<description>J.B. Harold - Blue Chicago Blues (Japan) (Disc 3)</description>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 3).cue" size="138" crc="45bf71e7" md5="51bd61d200e339f62bf83b6dfc0faa66" sha1="ac8c7155c5027631ee957e0841cf66e7cda89564"/>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 3).bin" size="667546992" crc="002fe298" md5="c14cad06ff900cbe0b0b5bce959f8d8b" sha1="69aec0c308f956229b45af44b59af0cdf2f1eb1f"/>
+	</game>
+	<game name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 4)">
+		<category>Games</category>
+		<description>J.B. Harold - Blue Chicago Blues (Japan) (Disc 4)</description>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 4).cue" size="138" crc="f11edc35" md5="c574226969d6e6d71e1f8e0e0ca2a4c6" sha1="b4623b8993aecbb2c0071c976515aa11814a03b6"/>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 4).bin" size="667544640" crc="b540d361" md5="ffc3ffbed7756ead5d1b26879d65d829" sha1="9ae6b81a1e0c62300ba5257d14606b7f19cbdda7"/>
+	</game>
+	<game name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 5)">
+		<category>Games</category>
+		<description>J.B. Harold - Blue Chicago Blues (Japan) (Disc 5)</description>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 5).cue" size="138" crc="47053c45" md5="ff886390b2e55195a7ffc20f3165abe1" sha1="aa3ed195b3345ec8b23a9b52e193859b6fe38503"/>
+		<rom name="J.B. Harold - Blue Chicago Blues (Japan) (Disc 5).bin" size="667542288" crc="a509b77a" md5="b5f29f29cb2f3b12234b6dd1ddcb5e56" sha1="a43079c70123911500200067bababfa2005b5f5e"/>
+	</game>
+	<game name="Crescent Satsujin Jiken - Hyena no Jijou (Japan)">
+		<category>Games</category>
+		<description>Crescent Satsujin Jiken - Hyena no Jijou (Japan)</description>
+		<rom name="Crescent Satsujin Jiken - Hyena no Jijou (Japan).cue" size="129" crc="beb1e916" md5="22049d3a7e3cdd4e5891b715803d349d" sha1="f5c154698cf101e96702488bfc542694fbf277a6"/>
+		<rom name="Crescent Satsujin Jiken - Hyena no Jijou (Japan).bin" size="615713616" crc="5bf3e292" md5="983b7787239c9536778cab049a37399e" sha1="245a27c3be874d35313a2911ab93c3fdf5975c2d"/>
+	</game>
+	<game name="Crescent Satsujin Jiken - Reporter Saotome Kyouko (Japan)">
+		<category>Games</category>
+		<description>Crescent Satsujin Jiken - Reporter Saotome Kyouko (Japan)</description>
+		<rom name="Crescent Satsujin Jiken - Reporter Saotome Kyouko (Japan).cue" size="138" crc="8a10b329" md5="49fdc8c3d985ac378e119312c1c6d16a" sha1="83ab8f65606291a7f607c10683d2076b4c2749c0"/>
+		<rom name="Crescent Satsujin Jiken - Reporter Saotome Kyouko (Japan).bin" size="625149840" crc="14a50af9" md5="289ff325758eb0ee9c81930e07ed2be0" sha1="589f4999c8f80f558c8c9df9ca1b680568eba9cc"/>
+	</game>
+	<game name="Call of Duty 4 - Modern Warfare (Europe)">
+		<category>Games</category>
+		<description>Call of Duty 4 - Modern Warfare (Europe)</description>
+		<rom name="Call of Duty 4 - Modern Warfare (Europe).iso" size="7301693440" crc="a9862798" md5="41b76caee596c52177f6c760f927c3b6" sha1="26b004c19bb10fe5b35798f02fa3605e494321d9"/>
+	</game>
+	<game name="Call of Duty 2 (Europe)">
+		<category>Games</category>
+		<description>Call of Duty 2 (Europe)</description>
+		<rom name="Call of Duty 2 (Europe).iso" size="3873996800" crc="9cbf08a4" md5="b1107862ab7a48d25a9004f21a15bf6a" sha1="83220d700ae8e4b01f28759144289b9096fa60da"/>
+	</game>
+	<game name="Call of Duty (Europe) (Deluxe Edition)">
+		<category>Games</category>
+		<description>Call of Duty (Europe) (Deluxe Edition)</description>
+		<rom name="Call of Duty (Europe) (Deluxe Edition).iso" size="2427289600" crc="462a78ad" md5="5613e5d425197a520013b70c9572e4a9" sha1="c7bb1a9873d20289b4fdf8ea52fff5f18e876a30"/>
+	</game>
+	<game name="Pathways into Darkness (USA)">
+		<category>Games</category>
+		<description>Pathways into Darkness (USA)</description>
+		<rom name="Pathways into Darkness (USA).cue" size="117" crc="99aaa53e" md5="54ec004606eb5a78e9d08dcc068cc123" sha1="c98011cd97e05a860c5c0ddc1f8d88f31c0db536"/>
+		<rom name="Pathways into Darkness (USA).bin" size="39720576" crc="477b6d2a" md5="da607d6c83bf81235fbc00246add7619" sha1="542938406d7aaa7e007e44d030ac887e2f743e35"/>
+	</game>
+	<game name="Freedom Force (USA)">
+		<category>Games</category>
+		<description>Freedom Force (USA)</description>
+		<rom name="Freedom Force (USA).cue" size="85" crc="24dc5bb5" md5="9904f0d495f5471e563bb82a3b096054" sha1="260dd7b729cd09d397628c129d10e571635f61ae"/>
+		<rom name="Freedom Force (USA).bin" size="764606976" crc="a45a5e1c" md5="a3341f683fb979536adb46325c377eec" sha1="b617f6a3c88a3305b2c4f20ec14f31196727691c"/>
+	</game>
+</datafile>

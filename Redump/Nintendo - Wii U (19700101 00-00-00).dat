@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - Wii U</name>
+		<description>Nintendo - Wii U 19700101 00-00-00</description>
+		<version>19700101 00-00-00</version>
+		<date>19700101 00-00-00</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+</datafile>

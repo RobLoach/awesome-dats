@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Philips - CD-i</name>
+		<description>Philips - CD-i 20160814 17-28-56</description>
+		<version>20160814 17-28-56</version>
+		<date>20160814 17-28-56</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Voyeur (Europe)">
+		<category>Games</category>
+		<description>Voyeur (Europe)</description>
+		<rom name="Voyeur (Europe).cue" size="102" crc="596213fe" md5="385cb04ae61e0dbb866826ef6478d58f" sha1="1b61ba0e757de6d8440bbe0d1bfc0d9a5f019d81"/>
+		<rom name="Voyeur (Europe).bin" size="787626000" crc="c9641bec" md5="027e110498d6a27329556a659635e6b4" sha1="9fc7731fd9ff8c93d045808691cebdfc9fe1212b"/>
+	</game>
+	<game name="Mystic Midway - Rest in Pieces (USA, Europe)">
+		<category>Games</category>
+		<description>Mystic Midway - Rest in Pieces (USA, Europe)</description>
+		<rom name="Mystic Midway - Rest in Pieces (USA, Europe).cue" size="108" crc="3657d66c" md5="4b77e27d246131ee91d0313660961af9" sha1="f0828362913890c041326a822650b4f573216ba5"/>
+		<rom name="Mystic Midway - Rest in Pieces (USA, Europe).bin" size="195145440" crc="16febb9d" md5="bd693f7ec0b5216a336ae63cf42de8a9" sha1="82a11bfbdc23d8f07b5e1b623ceca687e8f9f674"/>
+	</game>
+	<game name="Power Hitter (Europe)">
+		<category>Games</category>
+		<description>Power Hitter (Europe)</description>
+		<rom name="Power Hitter (Europe).cue" size="85" crc="bc6dc7b3" md5="3e3f0fffffc1800712e5201d70e4096e" sha1="45dd79c0d74ecfa88d8cbb17a2c808bd3c592e18"/>
+		<rom name="Power Hitter (Europe).bin" size="394223424" crc="5ec51c48" md5="936d28d99381544e021061d2aaeaa214" sha1="9f19819e14d62ae0e51b5b93842da99200935d8d"/>
+	</game>
+	<game name="International Tennis Open (Europe)">
+		<category>Games</category>
+		<description>International Tennis Open (Europe)</description>
+		<rom name="International Tennis Open (Europe).cue" size="98" crc="90698a7d" md5="742dfe60df8b31f836b62f6135930179" sha1="b6514b0b6b449981ce3cbfc8e809104597f3bade"/>
+		<rom name="International Tennis Open (Europe).bin" size="375202800" crc="3a92072b" md5="b2af7886107582bc410fca16640820e2" sha1="7284d40f6e2f82d6945af795349d1280e0e51d7b"/>
+	</game>
+	<game name="Space Ace (Europe)">
+		<category>Games</category>
+		<description>Space Ace (Europe)</description>
+		<rom name="Space Ace (Europe).cue" size="105" crc="f7be6eed" md5="409319c648c42286bb300fa721d0a8fe" sha1="7022f969cb770c4b7f16ec4d9197f2a801213e7f"/>
+		<rom name="Space Ace (Europe).bin" size="455112000" crc="50eae148" md5="3e94ed78689a7894b78dc7a9f280d8cc" sha1="748fec82d33d0c40c7e163883612ab855a8e2b74"/>
+	</game>
+	<game name="Chaos Control (Europe) (v1.16)">
+		<category>Games</category>
+		<description>Chaos Control (Europe) (v1.16)</description>
+		<rom name="Chaos Control (Europe) (v1.16).cue" size="117" crc="4e1780cc" md5="8bfca024f5fe12ad0f7ce33bc1cd4e4a" sha1="19733f7455a51e0fa956a1d41a60b6395a7744ea"/>
+		<rom name="Chaos Control (Europe) (v1.16).bin" size="487040400" crc="e1b0c5c0" md5="ff6996caf6f7c93f6fad489f5abca411" sha1="74a5fb47d613588f7fa50c3a2f8908904d13b6cd"/>
+	</game>
+	<game name="Mad Dog McCree (Europe)">
+		<category>Games</category>
+		<description>Mad Dog McCree (Europe)</description>
+		<rom name="Mad Dog McCree (Europe).cue" size="87" crc="845727e7" md5="673b5479c1a6933d7a3faa38df154541" sha1="945a8d642f99f06501742ab9f3f315e1ff00860b"/>
+		<rom name="Mad Dog McCree (Europe).bin" size="460145280" crc="2d69679c" md5="d4f14f6d2d7122fbf7a2302d23961d42" sha1="4f92f0ec52ae28a31885b67271e2585bd383a467"/>
+	</game>
+	<game name="Dragon's Lair II - Time Warp (Europe)">
+		<category>Games</category>
+		<description>Dragon's Lair II - Time Warp (Europe)</description>
+		<rom name="Dragon's Lair II - Time Warp (Europe).cue" size="101" crc="632236be" md5="de46e171ce3f9321dfc909e13d7d5d24" sha1="afaa19ebf0dbf7f1679aa3becc0f8e9077611deb"/>
+		<rom name="Dragon's Lair II - Time Warp (Europe).bin" size="541371600" crc="3c93bfc6" md5="3a4efcb469effa4f76dcd3537f0cf7c7" sha1="8c4411c4fb93424e717066d29001984436e7cf1f"/>
+	</game>
+	<game name="Dragon's Lair (Europe)">
+		<category>Games</category>
+		<description>Dragon's Lair (Europe)</description>
+		<rom name="Dragon's Lair (Europe).cue" size="86" crc="6d059045" md5="42a4751b5d70219e7a4992a305d9fc05" sha1="b38bae58258566c63f4faab48c502be43fa57839"/>
+		<rom name="Dragon's Lair (Europe).bin" size="343098000" crc="1d095d3c" md5="9b37b7d8fbc7cb4b7b5cf6979a3db4e0" sha1="e66c7166d8876a6b7fd8696300e5657db6b29800"/>
+	</game>
+	<game name="Monty Python's Invasion from the Planet Skyron (Europe)">
+		<category>Games</category>
+		<description>Monty Python's Invasion from the Planet Skyron (Europe)</description>
+		<rom name="Monty Python's Invasion from the Planet Skyron (Europe).cue" size="119" crc="2a3a3ba9" md5="408de592ea7fa9dba8b2fca20d747d63" sha1="b50e2b138688021fc789558404f2eaffdb1e7898"/>
+		<rom name="Monty Python's Invasion from the Planet Skyron (Europe).bin" size="514029600" crc="ca8a2b5c" md5="21c28cb5892b63c1e440c35e64eba4d8" sha1="9f572fe58ffc047ad9e2f1c79bd0084642537454"/>
+	</game>
+	<game name="World Cup Golf (Europe)">
+		<category>Games</category>
+		<description>World Cup Golf (Europe)</description>
+		<rom name="World Cup Golf (Europe).cue" size="87" crc="3713d9db" md5="6d8d008a183e3113a903c07191ab5eb6" sha1="7e12cb8412470b05958a681ed69c30179d42e703"/>
+		<rom name="World Cup Golf (Europe).bin" size="744231600" crc="1b672a8a" md5="6c1eb9cca72cd7874b8f8282340e78e5" sha1="2e4f740366e099509e4a11d0439d1299c1a83d88"/>
+	</game>
+	<game name="Who Shot Johnny Rock (Europe)">
+		<category>Games</category>
+		<description>Who Shot Johnny Rock (Europe)</description>
+		<rom name="Who Shot Johnny Rock (Europe).cue" size="93" crc="cea64a55" md5="0ebc4efa03d968be346748e4903fbbf2" sha1="daf0255aebf0113fdb02efbf2340da593f1b8fc3"/>
+		<rom name="Who Shot Johnny Rock (Europe).bin" size="347649120" crc="15f3ed92" md5="6a4357a8dbfffd33f5f622f2e2813440" sha1="a4d9b089eae54e97b366c6601f9d9c22d4db4bb7"/>
+	</game>
+	<game name="Surf City (Europe)">
+		<category>Games</category>
+		<description>Surf City (Europe)</description>
+		<rom name="Surf City (Europe).cue" size="82" crc="6c66391e" md5="9f223af0fdb300e0a3b76e583f76069d" sha1="85db77fef67ea19551813b9924e7de96af74e763"/>
+		<rom name="Surf City (Europe).bin" size="774631200" crc="75defc31" md5="d39571ba9bb7ee75906404af768fd55f" sha1="bc2d7a042aa4b938e3dc3d0b91e8cb3a94e21581"/>
+	</game>
+	<game name="Flashback (Europe)">
+		<category>Games</category>
+		<description>Flashback (Europe)</description>
+		<rom name="Flashback (Europe).cue" size="105" crc="d19c7984" md5="7f49d79c9cda89e3e114319a0a17f76e" sha1="171e96e8c74a903ee7c20f7783f78eab9f74fa45"/>
+		<rom name="Flashback (Europe).bin" size="259484400" crc="d5c68797" md5="d2871941b140ead3d2086c674956d138" sha1="def4e2a40ddd82bea3f6b6882e1f2bfce4aab02b"/>
+	</game>
+	<game name="Hotel Mario (Europe)">
+		<category>Games</category>
+		<description>Hotel Mario (Europe)</description>
+		<rom name="Hotel Mario (Europe).cue" size="84" crc="82b3623e" md5="c3e178e530f99c1a3ce518f325ca25c2" sha1="7a3e8cb614f8d9b5a49ccf42b7fe60ec76bc9f55"/>
+		<rom name="Hotel Mario (Europe).bin" size="366794400" crc="8305fbca" md5="eaba42fc6572a66cb91ceeb976595485" sha1="8d671f7bc729ed8d6a07d1d40ba48cbc9530bd30"/>
+	</game>
+	<game name="Kether (Europe) (En,Fr)">
+		<category>Games</category>
+		<description>Kether (Europe) (En,Fr)</description>
+		<rom name="Kether (Europe) (En,Fr).cue" size="87" crc="adb32833" md5="727e169f58cbcabda27cd6debde1f9ed" sha1="9f7602b2788c9f7451845b1f9b6cdc1842cfafa2"/>
+		<rom name="Kether (Europe) (En,Fr).bin" size="383140800" crc="91b489ef" md5="703af6cf94291517f0142c67423e709d" sha1="2b86fd9e3d953bd5f1f286598ba30dc7a2887624"/>
+	</game>
+	<game name="Lost Eden (Europe)">
+		<category>Games</category>
+		<description>Lost Eden (Europe)</description>
+		<rom name="Lost Eden (Europe).cue" size="82" crc="8aa2c60e" md5="db717c5b5e06b57f81366b55e212aa54" sha1="f6d99d26a1c7b1b69733b592de969ca695c007a4"/>
+		<rom name="Lost Eden (Europe).bin" size="760813200" crc="c5d53d49" md5="5d1f8602f0db52d3c39f3bcfe689ac56" sha1="3965c6bccad22a1f277e17eb5abcde640a01bb8d"/>
+	</game>
+	<game name="Striker Pro (Europe)">
+		<category>Games</category>
+		<description>Striker Pro (Europe)</description>
+		<rom name="Striker Pro (Europe).cue" size="84" crc="58fbf9b0" md5="da693821b866fba2cdfe8d5d2f1f8c8d" sha1="1451acbdf64bd5cdb6a9fe28abffa730b36a6039"/>
+		<rom name="Striker Pro (Europe).bin" size="77968800" crc="360c3520" md5="f5cbc328811a7669723df0ef53da0c3f" sha1="15bdb43422a3c6fad6a25c94a5d62f405136dbc4"/>
+	</game>
+	<game name="Caesars World of Boxing (Europe)">
+		<category>Games</category>
+		<description>Caesars World of Boxing (Europe)</description>
+		<rom name="Caesars World of Boxing (Europe).cue" size="119" crc="3cbdaae6" md5="59d767d5607447784c27f06212ad5c39" sha1="5b6c1dbfa1ae391b8ad83d62152b4a717e61bf26"/>
+		<rom name="Caesars World of Boxing (Europe).bin" size="592701648" crc="25334277" md5="5d649bdebfe61c76a577fd4c513f7caf" sha1="b95b02b10b64c1463c9445bb36ab6a7d1fc6b5b6"/>
+	</game>
+	<game name="Thunder in Paradise (Europe)">
+		<category>Games</category>
+		<description>Thunder in Paradise (Europe)</description>
+		<rom name="Thunder in Paradise (Europe).cue" size="115" crc="6538ca3d" md5="199936d5c20bc3942d853cad0521fe27" sha1="078c9748e9f6231da53e1dd0c3238e5b08d7f459"/>
+		<rom name="Thunder in Paradise (Europe).bin" size="737528400" crc="40ea9f1d" md5="b4c320f607d0d508efb5078ff874c2cd" sha1="082dd3264f706a0ce72cba3d86b88d2e2ba11d2b"/>
+	</game>
+	<game name="Defender of the Crown (USA, Europe)">
+		<category>Games</category>
+		<description>Defender of the Crown (USA, Europe)</description>
+		<rom name="Defender of the Crown (USA, Europe).cue" size="99" crc="93973f34" md5="25baa5f4dab0b28945823655db615523" sha1="25aea208117b98969c02ffc07cb8c76e87383df7"/>
+		<rom name="Defender of the Crown (USA, Europe).bin" size="301973280" crc="e3783236" md5="000f6239966734ee1db35da01759bfd5" sha1="3e8c64473491ef9160810d2067d5e26475c516c7"/>
+	</game>
+	<game name="Escape from CyberCity (USA, Europe)">
+		<category>Games</category>
+		<description>Escape from CyberCity (USA, Europe)</description>
+		<rom name="Escape from CyberCity (USA, Europe).cue" size="99" crc="7b151e6d" md5="ad74a3224ed64402244be223592dc7d0" sha1="35665acd46fdeaf1ba68ded0321f7f59d87564c7"/>
+		<rom name="Escape from CyberCity (USA, Europe).bin" size="459275040" crc="5d5496cb" md5="ddb39ad3f8122e87d8a7f1b22764d021" sha1="ed330c3238cef06de78332c77c649fbcac7de8ef"/>
+	</game>
+	<game name="Caesars World of Gambling (USA)">
+		<category>Games</category>
+		<description>Caesars World of Gambling (USA)</description>
+		<rom name="Caesars World of Gambling (USA).cue" size="95" crc="3b4bc0c0" md5="99f6dc5c00c926fd014c23a0b2ed1e0f" sha1="95d94b4c1593885ebdeb3e7c1e5bea7141771b14"/>
+		<rom name="Caesars World of Gambling (USA).bin" size="464684640" crc="51d9f711" md5="d2394cd787fff0a6d3e9d88dcc11c5dd" sha1="0b94326ff48d8f16a4fad804ee80eeca2a962bbf"/>
+	</game>
+	<game name="Sargon Chess (USA)">
+		<category>Games</category>
+		<description>Sargon Chess (USA)</description>
+		<rom name="Sargon Chess (USA).cue" size="82" crc="4cdb2231" md5="5c2afabab1b96d1d01fe73332e4c294e" sha1="ce35c2f53e4be83242f4f9a6f22a59d76287866a"/>
+		<rom name="Sargon Chess (USA).bin" size="396170880" crc="1b60a603" md5="6735cd5ec37ac322f60587316b1f5d1f" sha1="c1320ab7f7a976f08773753868c3bf6fb42a49df"/>
+	</game>
+	<game name="CD Shoot (Europe)">
+		<category>Games</category>
+		<description>CD Shoot (Europe)</description>
+		<rom name="CD Shoot (Europe).cue" size="81" crc="edc4ad82" md5="e1753499343d124c311b266c1c6279ee" sha1="d68fa54bc43a1d2f1373bb2cb70772190303c1ec"/>
+		<rom name="CD Shoot (Europe).bin" size="636756960" crc="61d8a285" md5="23386d0e8b0135d82aece2add41a7f81" sha1="d0f062ee492806f68acd227479feea7e14f18abe"/>
+	</game>
+	<game name="Tetris (USA)">
+		<category>Games</category>
+		<description>Tetris (USA)</description>
+		<rom name="Tetris (USA).cue" size="76" crc="3494ad54" md5="0a582071e1a2e6cf7805d27714bea436" sha1="2a309295d4834637600fc12477767db95f2f11cf"/>
+		<rom name="Tetris (USA).bin" size="599548320" crc="77c17e6b" md5="2c9681af3cf698fc94129d53f036a975" sha1="c8b2f55ef1289f574d083e10c23e78675aae1754"/>
+	</game>
+	<game name="Lemmings (Europe)">
+		<category>Games</category>
+		<description>Lemmings (Europe)</description>
+		<rom name="Lemmings (Europe).cue" size="104" crc="7f138700" md5="992886f3a2d1d31b70bb9bb2ee928fd0" sha1="ac8f4196f1d1ee18be872b00b8a271f2a03e253d"/>
+		<rom name="Lemmings (Europe).bin" size="136886400" crc="21ef2122" md5="a8b3f337c0851adb80abd39bb3390805" sha1="6d64345978a281535620b0c89758006d668f79e2"/>
+	</game>
+	<game name="Mega Maze (Europe)">
+		<category>Games</category>
+		<description>Mega Maze (Europe)</description>
+		<rom name="Mega Maze (Europe).cue" size="105" crc="d49f9337" md5="6c42a1e6b6d51e95112fc0427db9577d" sha1="9287e279e1094248004bac41aa2bf770f4504f12"/>
+		<rom name="Mega Maze (Europe).bin" size="89775840" crc="39661973" md5="4aee20d05830458603939660121e5835" sha1="b0f10fb7c60a95963d3477f942415e3a02940007"/>
+	</game>
+	<game name="Pinball (USA, Europe)">
+		<category>Games</category>
+		<description>Pinball (USA, Europe)</description>
+		<rom name="Pinball (USA, Europe).cue" size="85" crc="cebc38bd" md5="9f8bfe91a0e26a912c7c5a95ab0412d0" sha1="e330d5cb3dc687bde44549496295758b3621f08b"/>
+		<rom name="Pinball (USA, Europe).bin" size="88552800" crc="0f949411" md5="0bc117af3a3f025bd0245330c289cacd" sha1="7f51ccf082e06b7fa1867cf8d2dce7b207759bb2"/>
+	</game>
+	<game name="Lords of the Rising Sun (USA)">
+		<category>Games</category>
+		<description>Lords of the Rising Sun (USA)</description>
+		<rom name="Lords of the Rising Sun (USA).cue" size="93" crc="7a64e81e" md5="bdd932fc7a085412e390efd7ca4cbd4d" sha1="241f938262dd6bcbe8aa4bccfd4bc81cb0431292"/>
+		<rom name="Lords of the Rising Sun (USA).bin" size="314685840" crc="26a40823" md5="27fcd09e96852463874371888a9b006e" sha1="8116e42dbe01d127321f34d5d59399d901130fe8"/>
+	</game>
+	<game name="Dark Castle (USA)">
+		<category>Games</category>
+		<description>Dark Castle (USA)</description>
+		<rom name="Dark Castle (USA).cue" size="81" crc="9f84935d" md5="d68862a91a26d6ee3fd2371a6b599204" sha1="62e1fc7dc7fa84a27be1d0e49f7d4459ceaeb29c"/>
+		<rom name="Dark Castle (USA).bin" size="142178400" crc="7adf9390" md5="a477aa7d5652349babcd742c40953843" sha1="608f5ada0e1714a8639bd52d3e6e15da82a0edb9"/>
+	</game>
+	<game name="Family Games I (Europe)">
+		<category>Games</category>
+		<description>Family Games I (Europe)</description>
+		<rom name="Family Games I (Europe).cue" size="110" crc="58d47ac2" md5="7d1a35901ce9b1e4432260332d74b67e" sha1="4518da0944d6b67a63721130dec299623589af36"/>
+		<rom name="Family Games I (Europe).bin" size="210974400" crc="5cdc1af0" md5="149c8b6d9076ae963e7050fe10747f4e" sha1="66d3c34b5d93152fd49ea4003c3376baf672d4de"/>
+	</game>
+	<game name="Compton's Interactive Encyclopedia (Europe)">
+		<category>Multimedia</category>
+		<description>Compton's Interactive Encyclopedia (Europe)</description>
+		<rom name="Compton's Interactive Encyclopedia (Europe).cue" size="107" crc="4afff9ee" md5="32ccf19aa9d872a3cd09708fb8f680bd" sha1="10b669e42259a5a762ecc4c02ab6f858221510e6"/>
+		<rom name="Compton's Interactive Encyclopedia (Europe).bin" size="690288480" crc="07267176" md5="34a676613e20aab4c585ed569a6b529c" sha1="0bd81378e60a10afc31759794311d606f049722c"/>
+	</game>
+	<game name="Burn-Cycle (Spain)">
+		<category>Games</category>
+		<description>Burn-Cycle (Spain)</description>
+		<rom name="Burn-Cycle (Spain).cue" size="105" crc="10aa0f7c" md5="f76af964632afe23852482a81b35721f" sha1="2d4931524e6028a4d16eb37c0894e75460a2b632"/>
+		<rom name="Burn-Cycle (Spain).bin" size="739233600" crc="f7119954" md5="d7af0a5f3f22bf6d5b7274526c47ee7c" sha1="24c624d0388415c0999a4b48aae5522176d4f613"/>
+	</game>
+	<game name="USA '94 World Cup (Europe)">
+		<category>Games</category>
+		<description>USA '94 World Cup (Europe)</description>
+		<rom name="USA '94 World Cup (Europe).cue" size="113" crc="f694a787" md5="cc4310e80ed2747012744b84cc3ee507" sha1="0018adbd933e97826a9ada4c97e9908105dcd046"/>
+		<rom name="USA '94 World Cup (Europe).bin" size="651268800" crc="bfaa9d74" md5="9627ea7ef77f8d801e11077b4734c962" sha1="1b7932978fc61cc031accacaab0411f1f59f561b"/>
+	</game>
+	<game name="7th Guest, The (USA) (Disc 1) (The Game)">
+		<category>Games</category>
+		<description>7th Guest, The (USA) (Disc 1) (The Game)</description>
+		<rom name="7th Guest, The (USA) (Disc 1) (The Game).cue" size="127" crc="6c23cf1c" md5="292383c4c0bf46647147f7bad3091a9b" sha1="65970a0d4be59fc6732626ad861768dfa5f88abd"/>
+		<rom name="7th Guest, The (USA) (Disc 1) (The Game).bin" size="724124352" crc="058e3cdd" md5="cb1f5d87d546f92603fd57d137afcfd2" sha1="c300940cba83a571601d32751772afbaee6fbf74"/>
+	</game>
+	<game name="Pac-Panic (Europe)">
+		<category>Games</category>
+		<description>Pac-Panic (Europe)</description>
+		<rom name="Pac-Panic (Europe).cue" size="105" crc="0ebea4c8" md5="18045ea674dadaa3cf5242902f4bf75c" sha1="d6b6becec137457aa5bc5f8868b09d5f28a293f4"/>
+		<rom name="Pac-Panic (Europe).bin" size="67208400" crc="905a0608" md5="2b1e49aee1dabccf321005eeefd6a68b" sha1="60f154716b477eb7a016decc4b09db3ed9adc08f"/>
+	</game>
+	<game name="Burn-Cycle (France) (Jeu)">
+		<category>Games</category>
+		<description>Burn-Cycle (France) (Jeu)</description>
+		<rom name="Burn-Cycle (France) (Jeu).cue" size="112" crc="9394695b" md5="0298bf2c403732bd200c1abab9eadaa6" sha1="723ef6f33a0e5ff898e7f2d2981f261c4f422b3f"/>
+		<rom name="Burn-Cycle (France) (Jeu).bin" size="739948608" crc="812d7ddc" md5="bee289327ea15e84b91cc5cb8f1a3db7" sha1="fb7da8e264f9f9803ae1f9ac0ce92e27e5c785e6"/>
+	</game>
+	<game name="Palm Springs Open, The (USA, Europe)">
+		<category>Games</category>
+		<description>Palm Springs Open, The (USA, Europe)</description>
+		<rom name="Palm Springs Open, The (USA, Europe).cue" size="100" crc="b6b9054e" md5="1bdee8513548fa99c35d987363a46c9b" sha1="2289f2aacd1e13ca95f58c719aae0cc2871394d5"/>
+		<rom name="Palm Springs Open, The (USA, Europe).bin" size="266787360" crc="02a9d271" md5="780161e564efa150499c762603202f9b" sha1="2c34bb7539fd2285b2eebcaa4c38336234f325b3"/>
+	</game>
+	<game name="Video Speedway - The Ultimate Racing Experience (Europe)">
+		<category>Games</category>
+		<description>Video Speedway - The Ultimate Racing Experience (Europe)</description>
+		<rom name="Video Speedway - The Ultimate Racing Experience (Europe).cue" size="143" crc="0c596232" md5="585da32ef901327827aa59f4b9ab563f" sha1="b557013485f14357d4800ab137f1f0fe15768a7b"/>
+		<rom name="Video Speedway - The Ultimate Racing Experience (Europe).bin" size="648531072" crc="8ae682ba" md5="5de8062543fced40a607e457b17904e4" sha1="715c64e599acfa5eefaf3e236720c7855424d74e"/>
+	</game>
+	<game name="International Tennis Open (Europe) (En,Fr)">
+		<category>Games</category>
+		<description>International Tennis Open (Europe) (En,Fr)</description>
+		<rom name="International Tennis Open (Europe) (En,Fr).cue" size="129" crc="11a7e428" md5="77983842c1588da63da3d86329586e15" sha1="714dcac015af3e0f4ec4591446c6ec4e90b85728"/>
+		<rom name="International Tennis Open (Europe) (En,Fr).bin" size="368499600" crc="3aee0a76" md5="06dbde0d51fa9cd25d51b50cca3eb610" sha1="424c6263ac34f38f0d9678b3b87a76078ce6286b"/>
+	</game>
+	<game name="Visit to Sesame Street, A - Letters (USA)">
+		<category>Games</category>
+		<description>Visit to Sesame Street, A - Letters (USA)</description>
+		<rom name="Visit to Sesame Street, A - Letters (USA).cue" size="105" crc="884ef6b3" md5="588960ddcdc4e1e58778d95d9ea9dc8b" sha1="46ec8944c9c0dace939b48421e725183822451ff"/>
+		<rom name="Visit to Sesame Street, A - Letters (USA).bin" size="673448160" crc="256c2a7b" md5="2a04c233ffa967fadfd7010bb0b5e10a" sha1="f00c6a2372155a31bb587ba0aa2903e3255c242a"/>
+	</game>
+	<game name="Rise of the Robots (Europe)">
+		<category>Games</category>
+		<description>Rise of the Robots (Europe)</description>
+		<rom name="Rise of the Robots (Europe).cue" size="114" crc="26654be5" md5="874e40611dfad5eeb121bc3a1fa6701d" sha1="7fba83443db8091045a551c7421b71fd4f461105"/>
+		<rom name="Rise of the Robots (Europe).bin" size="305877600" crc="ae6a3fe4" md5="3c18191ff226d4cb7d281b5505b01762" sha1="cc109ead9bf4204eab3345a89347f0d6c37cc117"/>
+	</game>
+	<game name="Zelda's Adventure (Europe)">
+		<category>Games</category>
+		<description>Zelda's Adventure (Europe)</description>
+		<rom name="Zelda's Adventure (Europe).cue" size="113" crc="c3abdc59" md5="7ae5883df11136e6ed7b24549585f4bc" sha1="a82fc4ca99b6dc689b0bc5ada8d7748af552edf6"/>
+		<rom name="Zelda's Adventure (Europe).bin" size="517204800" crc="af26eded" md5="4e9a8db4358c4a6d6e1f3bea18caa881" sha1="2984bb234fe0a746958dec0923337995f7f23e69"/>
+	</game>
+	<game name="Atlantis - The Lost Resort (Europe)">
+		<category>Games</category>
+		<description>Atlantis - The Lost Resort (Europe)</description>
+		<rom name="Atlantis - The Lost Resort (Europe).cue" size="122" crc="d96cf241" md5="e269f55574fcf5d0f7f83187ae18513f" sha1="ab8e3ef1f1bbe28c423043dd17a423910449d852"/>
+		<rom name="Atlantis - The Lost Resort (Europe).bin" size="598172400" crc="afa266cc" md5="b54e17fa8d07ada25ba9dd0c9216113f" sha1="999b66c3a688280766d2f09eecf915f408fc9370"/>
+	</game>
+	<game name="Zenith (Europe)">
+		<category>Games</category>
+		<description>Zenith (Europe)</description>
+		<rom name="Zenith (Europe).cue" size="102" crc="cce348d6" md5="1dfc3cb5eae6cdbf5de8a8cef2178c01" sha1="75be8a4859c29605c682bef9e6f64da405e5373a"/>
+		<rom name="Zenith (Europe).bin" size="37048704" crc="4e4e7300" md5="a5e9d9e3faa528668afa4326a0e81a4c" sha1="461dbcc9c0ca0affe052e30c88050e559a29b6fa"/>
+	</game>
+	<game name="Lost Ride, The (Europe)">
+		<category>Games</category>
+		<description>Lost Ride, The (Europe)</description>
+		<rom name="Lost Ride, The (Europe).cue" size="110" crc="98c3acb6" md5="aa90ae87c69ce350d3b33e402d765595" sha1="a14f0c604d6b3776fd316b004518592478e7a96d"/>
+		<rom name="Lost Ride, The (Europe).bin" size="299355504" crc="9fb543ed" md5="c35db1ef0919fa20406220e12ee48e0e" sha1="e7228cb70bf50e1006eb0e636016194fc469434d"/>
+	</game>
+	<game name="Chaos Control (Europe) (v1.17)">
+		<category>Games</category>
+		<description>Chaos Control (Europe) (v1.17)</description>
+		<rom name="Chaos Control (Europe) (v1.17).cue" size="117" crc="84c40e43" md5="8398a44848161fa3e2ff181d9d627fff" sha1="5c2a3a3197b9524088f730a54bea3ffce5cf6981"/>
+		<rom name="Chaos Control (Europe) (v1.17).bin" size="487040400" crc="34f271ce" md5="ee82bf5adaada06836c2f0f223a8122a" sha1="1004adf1307c1c94d2b0bdfea6baf18c88b13ed2"/>
+	</game>
+	<game name="7th Guest, The (Europe) (Disc 1) (The Game)">
+		<category>Games</category>
+		<description>7th Guest, The (Europe) (Disc 1) (The Game)</description>
+		<rom name="7th Guest, The (Europe) (Disc 1) (The Game).cue" size="130" crc="52da65c1" md5="f3471af044e8748e7b831dcc4444be7f" sha1="67caf4fb1d0bda6b9964885e0b6df67689f2798e"/>
+		<rom name="7th Guest, The (Europe) (Disc 1) (The Game).bin" size="723771552" crc="ce377426" md5="78062b7777eeff31171f6d682bf7ee5a" sha1="b0785510f6397750e02f0426277030527a15a9c4"/>
+	</game>
+	<game name="Litil Divil (Europe)">
+		<category>Games</category>
+		<description>Litil Divil (Europe)</description>
+		<rom name="Litil Divil (Europe).cue" size="107" crc="c6e6a08c" md5="6953581d4abd62d2aed83353ef497942" sha1="ed6dd0de5560f5721c92a8ee1ceaf5d957f961f1"/>
+		<rom name="Litil Divil (Europe).bin" size="578944800" crc="4250912d" md5="e1a87a3d9ff9b11a0845be1777a32c24" sha1="6419da32e204ef3ee9b4ecc137fe551ba4893013"/>
+	</game>
+	<game name="Myst (Europe)">
+		<category>Games</category>
+		<description>Myst (Europe)</description>
+		<rom name="Myst (Europe).cue" size="77" crc="da5090b9" md5="cba56bf326611f0ab0f4709770102dc5" sha1="cb195a131c33b536c7f055576fe6b55ff2f00653"/>
+		<rom name="Myst (Europe).bin" size="775694304" crc="aa334f1b" md5="28dc3bfe524c6ad5310768a87f9d4698" sha1="3e03cc8eb57e72467a02efd5ab3d6ac5aa9c464b"/>
+	</game>
+	<game name="Affaire Morlov, L' (Europe) (En,Fr)">
+		<category>Games</category>
+		<description>Affaire Morlov, L' (Europe) (En,Fr)</description>
+		<rom name="Affaire Morlov, L' (Europe) (En,Fr).cue" size="122" crc="47f5ad0c" md5="d2bfcd5bfd459669635a69576fae9922" sha1="5cfdc0c3d9ef5de1d10adc173c190975d32ea773"/>
+		<rom name="Affaire Morlov, L' (Europe) (En,Fr).bin" size="677827584" crc="725039f3" md5="cd0d2f791d6d11c37716043b619c4520" sha1="3042fe66ae9f0a27e7561bb51fdd7111c2f430ca"/>
+	</game>
+	<game name="Creature Shock (Europe) (Disc 1)">
+		<category>Games</category>
+		<description>Creature Shock (Europe) (Disc 1)</description>
+		<rom name="Creature Shock (Europe) (Disc 1).cue" size="119" crc="f385b0ac" md5="6261cad08ef9a9e867089f4ebb00744d" sha1="a39da932babb55fe504e9d69495e89526b444962"/>
+		<rom name="Creature Shock (Europe) (Disc 1).bin" size="773337600" crc="d3d4a7ab" md5="ce5900c982b5b27385e19c64d6060f96" sha1="003147f7ed4d04fd2460914e0df5e0145da78fae"/>
+	</game>
+	<game name="Creature Shock (Europe) (Disc 2)">
+		<category>Games</category>
+		<description>Creature Shock (Europe) (Disc 2)</description>
+		<rom name="Creature Shock (Europe) (Disc 2).cue" size="119" crc="7780257c" md5="b4ded834c6defafb88f489b1948c5116" sha1="8f2f984314989d1d0a9036438dc3f1eee90cf325"/>
+		<rom name="Creature Shock (Europe) (Disc 2).bin" size="717418800" crc="b961f290" md5="6a2623a321d508393af170dc0e699054" sha1="1c5fb71716d3a3c5a09b6558683802ddee590954"/>
+	</game>
+	<game name="Dimo's Quest (Europe)">
+		<category>Games</category>
+		<description>Dimo's Quest (Europe)</description>
+		<rom name="Dimo's Quest (Europe).cue" size="2227" crc="f19eb451" md5="d308d347776d683a82d29ba374984784" sha1="e780470a39e3d921b304ef75317fe8a81cc4c92e"/>
+		<rom name="Dimo's Quest (Europe) (Track 01).bin" size="216266400" crc="a68b94ef" md5="526e27b3fbb2227ebdfb7c0b6b38e66b" sha1="82c3d487eaafce45aae258ea1c1f1e3bae486285"/>
+		<rom name="Dimo's Quest (Europe) (Track 02).bin" size="30870000" crc="fdaff865" md5="9e8c877a64a770b701f32a9532761bdf" sha1="5fd5f1b2fc299e5abed5bd0a3d0f7b37a5aeb6c0"/>
+		<rom name="Dimo's Quest (Europe) (Track 03).bin" size="35280000" crc="59440a0a" md5="9a59e580ef83ac3e44f70710a3a8ce39" sha1="8d789a56eb9f1193e98ea5328eff50a9aba34654"/>
+		<rom name="Dimo's Quest (Europe) (Track 04).bin" size="34750800" crc="a4c65214" md5="53789af98d07931c462a3793d77071b3" sha1="85fcb71cb85c829d990ed7f0de443cf27110db47"/>
+		<rom name="Dimo's Quest (Europe) (Track 05).bin" size="36338400" crc="1518436d" md5="34a5705019ea8d6e53d92ec3e1171bb5" sha1="5105b137a56e58cdd841bad07c4efb2fc5b86b43"/>
+		<rom name="Dimo's Quest (Europe) (Track 06).bin" size="39513600" crc="a27edf88" md5="a95d52dbaf0d527a1bacbca11c7b3771" sha1="48789fcddd173c8e16a6b995aa2139c061c9d067"/>
+		<rom name="Dimo's Quest (Europe) (Track 07).bin" size="31399200" crc="8732976c" md5="f10377a762ca29b5efaf656f4faca047" sha1="2b2e4a9d5a6322efd03063e2a9697fa0d16dcc89"/>
+		<rom name="Dimo's Quest (Europe) (Track 08).bin" size="33516000" crc="6a688ff8" md5="026799e12ce5af253efdb9908203d047" sha1="9ecbcb146b26c364cce8f5ecf9a0997916827469"/>
+		<rom name="Dimo's Quest (Europe) (Track 09).bin" size="33692400" crc="bd767233" md5="0d74cf4617c78839822f650e482a11f7" sha1="29694ec79e97a40598ef2f14cb7619b7746e26cf"/>
+		<rom name="Dimo's Quest (Europe) (Track 10).bin" size="41806800" crc="9da6bdc7" md5="f81335424af022d61a81cd4624db20b4" sha1="7a705b457fabf037b6db3f481866dcd87450afc1"/>
+		<rom name="Dimo's Quest (Europe) (Track 11).bin" size="5644800" crc="71da963b" md5="d5fa915a1fa57a3024ac87f8ef10721b" sha1="26c7ae77bae2998690aac4e98320b8d068f8b37a"/>
+		<rom name="Dimo's Quest (Europe) (Track 12).bin" size="11113200" crc="6181f764" md5="38c44ca1dcd0fd5700751664f8862797" sha1="07d871017b93203130e01f1f85d924b5e56014a6"/>
+		<rom name="Dimo's Quest (Europe) (Track 13).bin" size="13053600" crc="48e03211" md5="72dc0c30f07db300b1095975de2710f2" sha1="64155d6348cc1d9936413403dbcd2260721b3800"/>
+		<rom name="Dimo's Quest (Europe) (Track 14).bin" size="6174000" crc="5e2e198a" md5="cae18fa0744ba79204db5e1ddfa87dfe" sha1="a7fa2a749eb7e063867580a558e1f63ed5779ad5"/>
+		<rom name="Dimo's Quest (Europe) (Track 15).bin" size="4762800" crc="676b62db" md5="9a47646590aa46c40fab073ba675ed5d" sha1="8734ebfa59695c415d8ff0e413999faef6aadfa2"/>
+		<rom name="Dimo's Quest (Europe) (Track 16).bin" size="10936800" crc="121891d2" md5="5c446f1bf8f71d546c6e3fa6f384ca64" sha1="354393f85b62e2a0e48cc10b3482ee4bd2966a71"/>
+		<rom name="Dimo's Quest (Europe) (Track 17).bin" size="24696000" crc="4b8ca71a" md5="e3504487838354bbd8abcb99a0b8d499" sha1="5502ebf5ebcaab106e0f075057c60e77c2500b21"/>
+		<rom name="Dimo's Quest (Europe) (Track 18).bin" size="6703200" crc="20c4209d" md5="b03d13636d7a8311c92b8cd001f24b0b" sha1="920493b6b4ecb210946b1b3993896673d1f319d6"/>
+		<rom name="Dimo's Quest (Europe) (Track 19).bin" size="16052400" crc="11f8d6a8" md5="a652f7ebdf225c6937a9834d5c80caf4" sha1="911c232580cecb643c21347c3baf3615f0ab9dc5"/>
+	</game>
+	<game name="Master Labyrinth (Europe) (En,Fr,Nl)">
+		<category>Games</category>
+		<description>Master Labyrinth (Europe) (En,Fr,Nl)</description>
+		<rom name="Master Labyrinth (Europe) (En,Fr,Nl).cue" size="123" crc="f4c2928b" md5="d9e82dd7335c8dbd673a5c3c4f156e2b" sha1="8de4f7ab62cb06c044be9c7e5fdf2215efdbbf12"/>
+		<rom name="Master Labyrinth (Europe) (En,Fr,Nl).bin" size="686019600" crc="ac7a7b27" md5="7d331f64c9c0dfa70c1b32e0a24d4c8e" sha1="a92b0b2e21e63afce66ef1b731e335427f6f6a0b"/>
+	</game>
+	<game name="Cluedo (Europe)">
+		<category>Games</category>
+		<description>Cluedo (Europe)</description>
+		<rom name="Cluedo (Europe).cue" size="102" crc="93b38113" md5="5e201fa048a916061105f5078055fcbe" sha1="a5d742adeceb9b4e6f9ac05574b1189d539f4fc0"/>
+		<rom name="Cluedo (Europe).bin" size="661147200" crc="102cab6d" md5="7ce520717147b5cbe36195d39dd26f6c" sha1="486c9cdd12323a7f6fce2614ade2fd3c2d385dae"/>
+	</game>
+	<game name="Cluedo - The Mystery Continues (Europe)">
+		<category>Games</category>
+		<description>Cluedo - The Mystery Continues (Europe)</description>
+		<rom name="Cluedo - The Mystery Continues (Europe).cue" size="126" crc="242d9b6e" md5="daa3482dd63f354d4e0fe502e6ec4e89" sha1="174aca37be4ab2412366844ca9bab0f986579ca8"/>
+		<rom name="Cluedo - The Mystery Continues (Europe).bin" size="653914800" crc="961f45aa" md5="20ec20dc5cbf2091ba10f73e575e28a3" sha1="e9cd1c4b19f823723bdfe9c14fba586e99891ef3"/>
+	</game>
+	<game name="Burn-Cycle (Europe) (The Game)">
+		<category>Games</category>
+		<description>Burn-Cycle (Europe) (The Game)</description>
+		<rom name="Burn-Cycle (Europe) (The Game).cue" size="117" crc="a93f36a1" md5="0ea008ed557ef7afb421c5465d8236c5" sha1="32ee113859d3bde5ae6e0d0f06ff1322a82a2363"/>
+		<rom name="Burn-Cycle (Europe) (The Game).bin" size="730390080" crc="9dd34126" md5="19a5d0135ebcf13a5a970ceb092059e5" sha1="ca12a05aa0479a4ce44382274b47ccde7a08cff0"/>
+	</game>
+	<game name="Family Games II - Junkfood Jive (Europe)">
+		<category>Games</category>
+		<description>Family Games II - Junkfood Jive (Europe)</description>
+		<rom name="Family Games II - Junkfood Jive (Europe).cue" size="127" crc="4c58cb88" md5="10d1a2d927a23f315be3d7b7d7ce3df4" sha1="19acb461cce55585e18e0179e55e12391e4f0c84"/>
+		<rom name="Family Games II - Junkfood Jive (Europe).bin" size="436590000" crc="3579d874" md5="041850e4ca77569bb0f71749e14aa3b6" sha1="78c206b6dadd56259c61e124a29977d1338b6570"/>
+	</game>
+	<game name="Karaoke Schlager 2 (Sweden)">
+		<category>Games</category>
+		<description>Karaoke Schlager 2 (Sweden)</description>
+		<rom name="Karaoke Schlager 2 (Sweden).cue" size="91" crc="9924c0ba" md5="7e86c80f1007f3c15dcb29312bf12ee3" sha1="3e80e4ce591ae9be38ac6dd8cddc6c30cddd2863"/>
+		<rom name="Karaoke Schlager 2 (Sweden).bin" size="477338400" crc="e5033840" md5="6a0e1e97fdaaaabe0cb315ed81dc4f9f" sha1="51204c316fc1b43bb29c20c3cda08b832826562e"/>
+	</game>
+	<game name="Great Day at the Races, A (Europe)">
+		<category>Games</category>
+		<description>Great Day at the Races, A (Europe)</description>
+		<rom name="Great Day at the Races, A (Europe).cue" size="121" crc="e6454876" md5="2c9705d6b58dfe298a4ff0583557ddf8" sha1="b576335ce96164e76da26a9c84dbc31b82bb7a4d"/>
+		<rom name="Great Day at the Races, A (Europe).bin" size="717712800" crc="13edce0d" md5="c2d82e4a416b8868787173669c392c68" sha1="314e4eecce24d385cf0c29d1a152db29f4673dc7"/>
+	</game>
+	<game name="Othello (Europe)">
+		<category>Games</category>
+		<description>Othello (Europe)</description>
+		<rom name="Othello (Europe).cue" size="105" crc="21efbf04" md5="217efc35e9e9fc65b39dfc5fd327aad5" sha1="6e91c76b7d58b2885c0a08b8adc1bcc258c6bb25"/>
+		<rom name="Othello (Europe).bin" size="685306944" crc="e1b7c685" md5="e5983dd09590a5b60a55eaecea3dfddc" sha1="cbb05cbbd3a79144f3929ff525db49b9e0476c6a"/>
+	</game>
+	<game name="Caesar's Boxing (USA) (Demonstration Disc)">
+		<category>Games</category>
+		<description>Caesar's Boxing (USA) (Demonstration Disc)</description>
+		<rom name="Caesar's Boxing (USA) (Demonstration Disc).cue" size="129" crc="e90dcd16" md5="b2eef95b7fdc07a8a3602b545a2e6038" sha1="b4c4068d02ec7ddab8487fe1d45fa8a477315eb9"/>
+		<rom name="Caesar's Boxing (USA) (Demonstration Disc).bin" size="593233200" crc="c93c85de" md5="169ac250b2bfa25f0fb59fb1f9ebdd81" sha1="ad3fde412fd0c3705f33fd52fd27274a2fd96750"/>
+	</game>
+	<game name="Mad Dog McCree (Europe) (Alt)">
+		<category>Games</category>
+		<description>Mad Dog McCree (Europe) (Alt)</description>
+		<rom name="Mad Dog McCree (Europe) (Alt).cue" size="116" crc="52fbfe4c" md5="de3d1b46bb04e6c84f412cd3daeff159" sha1="8c7173c7a5bc93fe5a51b0df8883408d96123b1b"/>
+		<rom name="Mad Dog McCree (Europe) (Alt).bin" size="459797184" crc="85a1836d" md5="1ae230ab3ec31fde8d1cec4b1a30cd82" sha1="396962033f7e8f275cdd6ff93a5bfa6b0e247713"/>
+	</game>
+	<game name="Apprentice, The (Europe)">
+		<category>Games</category>
+		<description>Apprentice, The (Europe)</description>
+		<rom name="Apprentice, The (Europe).cue" size="2641" crc="ce42b8bd" md5="bccfe8aeb1e7bdb2752e409de37b2300" sha1="bcb36428b95eaa515492ad9ac0f3d75baa84ce35"/>
+		<rom name="Apprentice, The (Europe) (Track 01).bin" size="208504800" crc="2e11075a" md5="f2bb8ffcb5dc57f05f5c95e1ac5f241c" sha1="39d54661ce1bf0a3b505a23d74861c100780fa1f"/>
+		<rom name="Apprentice, The (Europe) (Track 02).bin" size="44276400" crc="295e28c6" md5="63b7c14c0da57e7ed4c2f77904ed1e2f" sha1="fe10e48eaf7ee1c064e709fdad379dc658864856"/>
+		<rom name="Apprentice, The (Europe) (Track 03).bin" size="10760400" crc="adcf0017" md5="e896e807ca32bf89f92178375fe85079" sha1="5151a06c09840abf0260ce5d42641eaecdf8d344"/>
+		<rom name="Apprentice, The (Europe) (Track 04).bin" size="50450400" crc="e8556704" md5="33364e94c4ae3fd5c3bf8296efef8be2" sha1="2c0bf3fc9dfccd69bd0f94c2c90d2ceb33a677ea"/>
+		<rom name="Apprentice, The (Europe) (Track 05).bin" size="10760400" crc="a52a7c49" md5="f1cf67c3ab73411506ae591ef534248b" sha1="a83268209628308b1a0a72acd8a27d7ce5fc74b4"/>
+		<rom name="Apprentice, The (Europe) (Track 06).bin" size="50803200" crc="60085f2d" md5="6b36be54079a956144192f43a07869c3" sha1="6dc3a40c715fd582a92b1f6daf8a91601a72f9e0"/>
+		<rom name="Apprentice, The (Europe) (Track 07).bin" size="11642400" crc="ab39803c" md5="2476633bf6c2d0b9bce4c2f3286346c0" sha1="e39ce747d4e98aea9c4e42e213424c29436d0392"/>
+		<rom name="Apprentice, The (Europe) (Track 08).bin" size="48510000" crc="20796584" md5="7e33d82e8217318ac026cca81646b15e" sha1="ede95de19c9482203564cd9fa5863190c2bbf65e"/>
+		<rom name="Apprentice, The (Europe) (Track 09).bin" size="11113200" crc="7ee644ec" md5="28ef06c3188a126cb8307fce99887b99" sha1="6582256fc8b59a2553a8be0be13a63dc3f9b1c7b"/>
+		<rom name="Apprentice, The (Europe) (Track 10).bin" size="44100000" crc="5332272f" md5="6bfdac68e94b1640e7f0a659d0bc5307" sha1="e3fcdda346e7ce4414f7fde107fc185ed08237b4"/>
+		<rom name="Apprentice, The (Europe) (Track 11).bin" size="9702000" crc="a9099fc6" md5="78e25c3a8ec9406683326d44af9d1b56" sha1="3e7e5a4696ee4b19fe8fc010c88432359c2323e4"/>
+		<rom name="Apprentice, The (Europe) (Track 12).bin" size="45158400" crc="08384118" md5="d180d10d279a5b7999cf0320f07cdcf0" sha1="c9c26cf9e5915ae8b23066eeae45a629f71b0fcb"/>
+		<rom name="Apprentice, The (Europe) (Track 13).bin" size="10584000" crc="0a5db4b6" md5="a58b758d62ce8a452a36f6965b56b025" sha1="5eae82f5279e305e99a9f3654566a5f30bf7e09e"/>
+		<rom name="Apprentice, The (Europe) (Track 14).bin" size="12171600" crc="fd452af7" md5="a36395c5209896931df057a292d0dcbb" sha1="f992403f8d48e4842075dc414cf15f53cd7cb159"/>
+		<rom name="Apprentice, The (Europe) (Track 15).bin" size="33516000" crc="3a2f7241" md5="09b29e609d91f54fe5ebcf8a64d5c9d8" sha1="970a6395f22f0a011b5880f42c54e0e5a87ddb8b"/>
+		<rom name="Apprentice, The (Europe) (Track 16).bin" size="1764000" crc="ef28a5bd" md5="2b5c78c356d914cad3760dc44c310dae" sha1="b5174381cfb68963898e9e64d0fb4aded6c5b7cf"/>
+		<rom name="Apprentice, The (Europe) (Track 17).bin" size="20638800" crc="199e0118" md5="c8d4d44bbdc2041e438535cc90b95cbd" sha1="4026c4c9ad5b7905a38924a536430577e2171c61"/>
+		<rom name="Apprentice, The (Europe) (Track 18).bin" size="4057200" crc="b41db58f" md5="a29434098a721abbb37bff14a287d594" sha1="bab78b5750b9de86f1089cb5dd83379dce2faf95"/>
+		<rom name="Apprentice, The (Europe) (Track 19).bin" size="6174000" crc="220805f2" md5="3552a6c7215a541cfef23330775d477d" sha1="fca960418617965b022d87837ddb8a00160d0a87"/>
+		<rom name="Apprentice, The (Europe) (Track 20).bin" size="3880800" crc="3247fad2" md5="b67998ffa0003419ec64d6004c41ae14" sha1="c0593c3a3c98e274eef3de7139d3a17031a12bdb"/>
+		<rom name="Apprentice, The (Europe) (Track 21).bin" size="6174000" crc="b9b5cb3a" md5="c8132c3cf85caf38309fc661a6c389c5" sha1="0264d4e4ea319c6d78014501d6383e1a2e5d0dd3"/>
+		<rom name="Apprentice, The (Europe) (Track 22).bin" size="12171600" crc="bd496298" md5="e4ce416d75a7f92b3c5920ca33456b83" sha1="e946149960f042877ac33c961c2cefcda8b65749"/>
+	</game>
+	<game name="Ultra CD-i Soccer (Europe)">
+		<category>Games</category>
+		<description>Ultra CD-i Soccer (Europe)</description>
+		<rom name="Ultra CD-i Soccer (Europe).cue" size="113" crc="41236020" md5="8b43b51c02167be9430249f1a0aa901c" sha1="6009112569c9b478813f408b63b7b8988d95dd2d"/>
+		<rom name="Ultra CD-i Soccer (Europe).bin" size="18522000" crc="cd1bf857" md5="f78e506c613d249329ff65fc9dcfd3b0" sha1="4786daddd69aa978f815b391646c4e987d3e0a3d"/>
+	</game>
+	<game name="Marco Polo (Europe) (Disc 1) (The Game)">
+		<category>Games</category>
+		<description>Marco Polo (Europe) (Disc 1) (The Game)</description>
+		<rom name="Marco Polo (Europe) (Disc 1) (The Game).cue" size="126" crc="430a10a0" md5="2910231ef23ec8f362646b3f8636c4db" sha1="8a3ebfe0f74cc2b46a0dd383f900b6d9613fb8d5"/>
+		<rom name="Marco Polo (Europe) (Disc 1) (The Game).bin" size="710362800" crc="59c003f0" md5="0dc3fd4b79f80e41ff3fa78d8c4ca1a0" sha1="efb3ce39f717125b5f5ebd81974937cd756c93f0"/>
+	</game>
+	<game name="Marco Polo (Europe) (Disc 2) (The Documentation)">
+		<category>Games</category>
+		<description>Marco Polo (Europe) (Disc 2) (The Documentation)</description>
+		<rom name="Marco Polo (Europe) (Disc 2) (The Documentation).cue" size="135" crc="32526981" md5="049a9c1065b9b28b5f81e0591e73ce48" sha1="7478afd1772bb886b8ad1b909e843f6a477e3e75"/>
+		<rom name="Marco Polo (Europe) (Disc 2) (The Documentation).bin" size="206564400" crc="3c0c58b6" md5="08f348bf10f45cdf80988d92fe481685" sha1="7a973fcb8333132c13870d793f037ecdf5cc0b2f"/>
+	</game>
+</datafile>

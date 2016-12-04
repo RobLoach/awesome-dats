@@ -1,0 +1,2348 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>DVD-Video</name>
+		<description>DVD-Video 20161109 01-13-21</description>
+		<version>20161109 01-13-21</version>
+		<date>20161109 01-13-21</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Xenosaga Episode II - Jenseits von Gut und Boese - Special Movie (Bonus DVD-Video) (Europe) (En,Ja,Fr,De)">
+		<category>Bonus Discs</category>
+		<description>Xenosaga Episode II - Jenseits von Gut und Boese - Special Movie (Bonus DVD-Video) (Europe) (En,Ja,Fr,De)</description>
+		<rom name="Xenosaga Episode II - Jenseits von Gut und Boese - Special Movie (Bonus DVD-Video) (Europe) (En,Ja,Fr,De).iso" size="8432091136" crc="0831e476" md5="b324ebc6f10e59c48185710d96fdfb3c" sha1="064e33d477bf09cc2cd4a5c52777e3bf48348b72"/>
+	</game>
+	<game name="Final Fantasy X-2 - Prologue - Eternal Calm (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It)">
+		<category>Bonus Discs</category>
+		<description>Final Fantasy X-2 - Prologue - Eternal Calm (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Final Fantasy X-2 - Prologue - Eternal Calm (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It).iso" size="1084243968" crc="740774ae" md5="f25cdbdcaca9a6b6e9863d1139653dca" sha1="8f5c322b8864f2dde2bbd8e0b1f3bc30228cb55c"/>
+	</game>
+	<game name="Metal Gear Solid 2 - Sons of Liberty (Bonus DVD-Video) (Europe) (En,Ja)">
+		<category>Bonus Discs</category>
+		<description>Metal Gear Solid 2 - Sons of Liberty (Bonus DVD-Video) (Europe) (En,Ja)</description>
+		<rom name="Metal Gear Solid 2 - Sons of Liberty (Bonus DVD-Video) (Europe) (En,Ja).iso" size="450953216" crc="d6fce0ec" md5="c6552b4c5575cdf42bf7ba1139714d46" sha1="6488502d77215455387517b502a87ff1756678d3"/>
+	</game>
+	<game name="Beyond Final Fantasy (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It)">
+		<category>Bonus Discs</category>
+		<description>Beyond Final Fantasy (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Beyond Final Fantasy (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It).iso" size="4657584128" crc="2628231c" md5="d245ddfcea12a14a8bb892faec1f89b5" sha1="9af8c370c4eaa215fdf423e460fe7a79df4e6cbc"/>
+	</game>
+	<game name="Making of Metal Gear Solid 2, The - Sons of Liberty (Europe) (En,Es)">
+		<category>Bonus Discs</category>
+		<description>Making of Metal Gear Solid 2, The - Sons of Liberty (Europe) (En,Es)</description>
+		<rom name="Making of Metal Gear Solid 2, The - Sons of Liberty (Europe) (En,Es).iso" size="4274487296" crc="369a2b23" md5="c786a900bc971a1e0bab798c8f38bd83" sha1="cac06d5675451b288b55c4fdf1fb61c54e569ee3"/>
+	</game>
+	<game name="God of War II (USA) (Disc 2) (Special Features)">
+		<category>Bonus Discs</category>
+		<description>God of War II (USA) (Disc 2) (Special Features)</description>
+		<rom name="God of War II (USA) (Disc 2) (Special Features).iso" size="6652805120" crc="aa98775e" md5="b2c84787fff2dec0446246cf79348c3f" sha1="eac58fad2c5fecdc02e8f86c8533b6113f32d066"/>
+	</game>
+	<game name="Driv3r (Europe) (Bonus DVD)">
+		<category>Bonus Discs</category>
+		<description>Driv3r (Europe) (Bonus DVD)</description>
+		<rom name="Driv3r (Europe) (Bonus DVD).iso" size="246312960" crc="0a8d94b1" md5="d04a663c6e31bccb62c87c3a44bb706e" sha1="2abf6f7ced48c3426632fe6fcb16452a6ca9445d"/>
+	</game>
+	<game name="Making of Gran Turismo 4, The (Europe) (En,Fr,De,Es,It)">
+		<category>Bonus Discs</category>
+		<description>Making of Gran Turismo 4, The (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Making of Gran Turismo 4, The (Europe) (En,Fr,De,Es,It).iso" size="2248421376" crc="d43835f6" md5="212e227450ca9a5f37ef6fd9917054e4" sha1="5ca2a9e79d75d497b2380d142dd88dd93ff6a84e"/>
+	</game>
+	<game name="Sakura Taisen - Atsuki Chishio ni (Bonus DVD-Video) (Japan)">
+		<category>Bonus Discs</category>
+		<description>Sakura Taisen - Atsuki Chishio ni (Bonus DVD-Video) (Japan)</description>
+		<rom name="Sakura Taisen - Atsuki Chishio ni (Bonus DVD-Video) (Japan).iso" size="3122524160" crc="5ea1b34f" md5="a01ad66984cdadef182f205501673bbc" sha1="6b0adcb29369c85dcdd7d54fd80f17efceb31ad0"/>
+	</game>
+	<game name="Espgaluda Tokuten Special DVD (Japan)">
+		<category>Bonus Discs</category>
+		<description>Espgaluda Tokuten Special DVD (Japan)</description>
+		<rom name="Espgaluda Tokuten Special DVD (Japan).iso" size="4492734464" crc="8e062f39" md5="9c7ab98e28c3b0a049f645254e0e9854" sha1="e1f1048af8755905e5af877173555ab77d617090"/>
+	</game>
+	<game name="DoDonPachi Dai-Ou-Jou (Japan) (Special DVD)">
+		<category>Bonus Discs</category>
+		<description>DoDonPachi Dai-Ou-Jou (Japan) (Special DVD)</description>
+		<rom name="DoDonPachi Dai-Ou-Jou (Japan) (Special DVD).iso" size="2911111168" crc="db9462f2" md5="305388be4fa3ca2e252f34a6e32b8760" sha1="3f9b1e6d08772cf124bb9ba7513ecf2b03251322"/>
+	</game>
+	<game name="Need for Speed - Most Wanted - Black Edition (Bonus DVD-Video) (Australia)">
+		<category>Bonus Discs</category>
+		<description>Need for Speed - Most Wanted - Black Edition (Bonus DVD-Video) (Australia)</description>
+		<rom name="Need for Speed - Most Wanted - Black Edition (Bonus DVD-Video) (Australia).iso" size="1367244800" crc="4f0a8337" md5="dd50b7275030344d832108a350dd75dc" sha1="52bb9ae833260e4cf39972f476d34c8a7016bda7"/>
+	</game>
+	<game name="Making of Silent Hill 2, The (Europe) (En,Ja,Fr)">
+		<category>Bonus Discs</category>
+		<description>Making of Silent Hill 2, The (Europe) (En,Ja,Fr)</description>
+		<rom name="Making of Silent Hill 2, The (Europe) (En,Ja,Fr).iso" size="4501274624" crc="44024f7f" md5="0e924d84a625a1404050b7a8b2db41ca" sha1="68b04398cd21bf861887310299159582bd911ef9"/>
+	</game>
+	<game name="Rueckblick auf die FIA Formel-Eins-Weltmeisterschaft 2000 (Germany)">
+		<category>Bonus Discs</category>
+		<description>Rueckblick auf die FIA Formel-Eins-Weltmeisterschaft 2000 (Germany)</description>
+		<rom name="Rueckblick auf die FIA Formel-Eins-Weltmeisterschaft 2000 (Germany).iso" size="8271233024" crc="021b4018" md5="22ead566d4ac948e72709e512702c434" sha1="7ddc567e87142702ea9b85195efde11393d9f1b4"/>
+	</game>
+	<game name="Making of Metal Gear Solid 2, The - Sons of Liberty (Europe) (Fr,De)">
+		<category>Bonus Discs</category>
+		<description>Making of Metal Gear Solid 2, The - Sons of Liberty (Europe) (Fr,De)</description>
+		<rom name="Making of Metal Gear Solid 2, The - Sons of Liberty (Europe) (Fr,De).iso" size="4209934336" crc="003cfcc5" md5="33205f062bdb613ff64bc0c1e50f60c0" sha1="f4be748247f80192d7b054b94aa6191e297be638"/>
+	</game>
+	<game name="Limbo of the Lost (Bonus DVD-Video) (Europe)">
+		<category>Bonus Discs</category>
+		<description>Limbo of the Lost (Bonus DVD-Video) (Europe)</description>
+		<rom name="Limbo of the Lost (Bonus DVD-Video) (Europe).iso" size="1528889344" crc="3022143f" md5="dbdde09cb2b14e98320fba674c2d3c41" sha1="15ddd06f813637584e1a6119aa0a2942a06b8f51"/>
+	</game>
+	<game name="Prince of Persia - Warrior Within (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Bonus Discs</category>
+		<description>Prince of Persia - Warrior Within (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Prince of Persia - Warrior Within (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It,Nl).iso" size="788103168" crc="db46350f" md5="da8531f208e53fe6b082982332acc7f6" sha1="a6df82b49345b398f71763c5c3b817771a620be2"/>
+	</game>
+	<game name="King of Fighters, The - Maximum Impact (Australia) (Bonus-Disc)">
+		<category>Bonus Discs</category>
+		<description>King of Fighters, The - Maximum Impact (Australia) (Bonus-Disc)</description>
+		<rom name="King of Fighters, The - Maximum Impact (Australia) (Bonus-Disc).iso" size="3424256000" crc="753a58ac" md5="da9f7f46df21ea2b9ee6a30743492c50" sha1="2b3d0eb2898d5b25e3cb6229ada680ac74ee2c1c"/>
+	</game>
+	<game name="GAA Fun Do Football Resource (Bonus DVD-Video) (Europe)">
+		<category>Bonus Discs</category>
+		<description>GAA Fun Do Football Resource (Bonus DVD-Video) (Europe)</description>
+		<rom name="GAA Fun Do Football Resource (Bonus DVD-Video) (Europe).iso" size="5690490880" crc="48653507" md5="bbb9e0d94301adc54f891cbcc32574ae" sha1="53a4e10eee61193d23288e7fbb2b7127f51dff4d"/>
+	</game>
+	<game name="Shenmue - The Movie (Europe)">
+		<category>Bonus Discs</category>
+		<description>Shenmue - The Movie (Europe)</description>
+		<rom name="Shenmue - The Movie (Europe).iso" size="3876048896" crc="2bb0098a" md5="14266cce786ccc7d9c6336bab016c67a" sha1="3261bf1637aee21c021384f2938d6091cd990c16"/>
+	</game>
+	<game name="Final Fantasy XII (USA) (Bonus Disc) (Collector's Edition)">
+		<category>Bonus Discs</category>
+		<description>Final Fantasy XII (USA) (Bonus Disc) (Collector's Edition)</description>
+		<rom name="Final Fantasy XII (USA) (Bonus Disc) (Collector's Edition).iso" size="6470664192" crc="c810eb1e" md5="1012524f674efbdae1401ba21dd38f04" sha1="cf8cd82bce4ed7b450f9eff3b4a609fb66963819"/>
+	</game>
+	<game name="Ninja Gaiden Sigma (USA) (Behind the Sword)">
+		<category>Bonus Discs</category>
+		<description>Ninja Gaiden Sigma (USA) (Behind the Sword)</description>
+		<rom name="Ninja Gaiden Sigma (USA) (Behind the Sword).iso" size="1520173056" crc="251a1282" md5="12ceb414bbb916519655367bf553b2a7" sha1="2b1138c4e7261a9ebb46cbc10de452bef13dfa2b"/>
+	</game>
+	<game name="Need for Speed - Carbon - Edition Collector (Bonus DVD-Video) (France)">
+		<category>Bonus Discs</category>
+		<description>Need for Speed - Carbon - Edition Collector (Bonus DVD-Video) (France)</description>
+		<rom name="Need for Speed - Carbon - Edition Collector (Bonus DVD-Video) (France).iso" size="3405426688" crc="44f4442f" md5="6e5cc9df1cd1b1368610cebf9dd9dda8" sha1="832fe31ef041021d2ce62df2e3be5f6aa0c697f4"/>
+	</game>
+	<game name="Lara Croft Tomb Raider - Anniversary (Europe) (Bonus Disc and Soundtrack)">
+		<category>Bonus Discs</category>
+		<description>Lara Croft Tomb Raider - Anniversary (Europe) (Bonus Disc and Soundtrack)</description>
+		<rom name="Lara Croft Tomb Raider - Anniversary (Europe) (Bonus Disc and Soundtrack).iso" size="4055203840" crc="acdb03cb" md5="6d42b5d10101ce95fdcea3fe24878999" sha1="afecf1c215e4f23f958808129f097c65d27d1de5"/>
+	</game>
+	<game name="Command &amp; Conquer - The First Decade (USA) (Bonus DVD)">
+		<category>Bonus Discs</category>
+		<description>Command &amp; Conquer - The First Decade (USA) (Bonus DVD)</description>
+		<rom name="Command &amp; Conquer - The First Decade (USA) (Bonus DVD).iso" size="2572091392" crc="8a96f078" md5="2c45119b98d8d2a3b07b9611936fa6b1" sha1="1ed49c4a18ee8041b32704758bc26751a8b64293"/>
+	</game>
+	<game name="Halo 2 - Limited Collector's Edition Disc (USA)">
+		<category>Bonus Discs</category>
+		<description>Halo 2 - Limited Collector's Edition Disc (USA)</description>
+		<rom name="Halo 2 - Limited Collector's Edition Disc (USA).iso" size="3876657152" crc="e787eca5" md5="4a17e13574621d91d8d3e6c95bb5d204" sha1="185d310909a9b110923152007b48c033a102958d"/>
+	</game>
+	<game name="Dino Crisis 5th Anniversary - CG Movie Collection (Japan) (En,Ja)">
+		<category>Video</category>
+		<description>Dino Crisis 5th Anniversary - CG Movie Collection (Japan) (En,Ja)</description>
+		<rom name="Dino Crisis 5th Anniversary - CG Movie Collection (Japan) (En,Ja).iso" size="2775984128" crc="6bade2b6" md5="a4ce2a065138ba84babb6841443c2a1d" sha1="b850c1434bc40aad2d70e4106a5d5b5d9598038b"/>
+	</game>
+	<game name="Resident Evil Zero Non-Interactive Demo (USA)">
+		<category>Video</category>
+		<description>Resident Evil Zero Non-Interactive Demo (USA)</description>
+		<rom name="Resident Evil Zero Non-Interactive Demo (USA).iso" size="532695040" crc="797b3775" md5="888eec4b3a4f43671473062b55b14500" sha1="5ea77bbf083a8a7312a5145336c722e8a1df01e2"/>
+	</game>
+	<game name="Resident Evil 5th Anniversary - Wesker's Report (Europe)">
+		<category>Video</category>
+		<description>Resident Evil 5th Anniversary - Wesker's Report (Europe)</description>
+		<rom name="Resident Evil 5th Anniversary - Wesker's Report (Europe).iso" size="4020033536" crc="441976c9" md5="e7f1884bcfa33614040fc9493373774a" sha1="fc6ab8c63cf911cb57b7523d49ff5c28b7a6ffee"/>
+	</game>
+	<game name="Capcom Secret DVD (Japan) (En,Ja)">
+		<category>Video</category>
+		<description>Capcom Secret DVD (Japan) (En,Ja)</description>
+		<rom name="Capcom Secret DVD (Japan) (En,Ja).iso" size="616589312" crc="56c91adc" md5="087222bde27e79d5eb731900f03c73cc" sha1="76f0d1d7e8bbb9e36ac69e01e5c8616b47a60488"/>
+	</game>
+	<game name="Devil May Cry 4 (Japan) (En,Ja)">
+		<category>Video</category>
+		<description>Devil May Cry 4 (Japan) (En,Ja)</description>
+		<rom name="Devil May Cry 4 (Japan) (En,Ja).iso" size="381777920" crc="5be6efbb" md5="9da015b3c90773f5f9d7c1858dda707d" sha1="d926dadb25738c7ad9924bf4240b2ab87e719df9"/>
+	</game>
+	<game name="Biohazard Zero (Japan) (En,Ja)">
+		<category>Video</category>
+		<description>Biohazard Zero (Japan) (En,Ja)</description>
+		<rom name="Biohazard Zero (Japan) (En,Ja).iso" size="295464960" crc="e6ad10b0" md5="97667bf34b901bb8459ea11a2f2dde7e" sha1="0c58aa0031a9ac15eea959b8002e573738756576"/>
+	</game>
+	<game name="Biohazard 4 (Japan) (En,Ja)">
+		<category>Video</category>
+		<description>Biohazard 4 (Japan) (En,Ja)</description>
+		<rom name="Biohazard 4 (Japan) (En,Ja).iso" size="435630080" crc="883285c2" md5="fc57e2eb0e1e57b35eaa27169af56c1b" sha1="21181be9777be5c94d0716d4e4a26cf2ccca67dc"/>
+	</game>
+	<game name="Biohazard 4 - Wii Edition (Japan) (En,Ja)">
+		<category>Video</category>
+		<description>Biohazard 4 - Wii Edition (Japan) (En,Ja)</description>
+		<rom name="Biohazard 4 - Wii Edition (Japan) (En,Ja).iso" size="351463424" crc="346b3936" md5="136aabff1d69c3f9a2d587f2da965030" sha1="eb7b3342327af068f0c5eced95fcfc82f3476ec5"/>
+	</game>
+	<game name="Lara Croft Tomb Raider - Anniversary (Bonus DVD-Video) (UK)">
+		<category>Bonus Discs</category>
+		<description>Lara Croft Tomb Raider - Anniversary (Bonus DVD-Video) (UK)</description>
+		<rom name="Lara Croft Tomb Raider - Anniversary (Bonus DVD-Video) (UK).iso" size="3252781056" crc="55aa4bfd" md5="4d78b4f785deba7b7c811c853bf4a2b1" sha1="e69dc44ae096bc76925526bbb616101b9d8f939d"/>
+	</game>
+	<game name="Making of Resident Evil 4, The (USA)">
+		<category>Video</category>
+		<description>Making of Resident Evil 4, The (USA)</description>
+		<rom name="Making of Resident Evil 4, The (USA).iso" size="620167168" crc="6b1507d1" md5="f9e37a6377e494eea1b19a35c8df96bd" sha1="d93bfcff9412c43e9ff7ae6851ddb88f38e31b8e"/>
+	</game>
+	<game name="Command &amp; Conquer 3 - Kane's Wrath (Europe) (Bonus DVD-Video)">
+		<category>Bonus Discs</category>
+		<description>Command &amp; Conquer 3 - Kane's Wrath (Europe) (Bonus DVD-Video)</description>
+		<rom name="Command &amp; Conquer 3 - Kane's Wrath (Europe) (Bonus DVD-Video).iso" size="7514161152" crc="880fba6b" md5="46efc9a4092a2654c3e9cf8be73a3329" sha1="ebeaab21d1018797576154fd3b07785d9c176974"/>
+	</game>
+	<game name="God of War II (Bonus DVD-Video) (Europe)">
+		<category>Video</category>
+		<description>God of War II (Bonus DVD-Video) (Europe)</description>
+		<rom name="God of War II (Bonus DVD-Video) (Europe).iso" size="7517962240" crc="e08e4c01" md5="4e2d95ced0964950f73f7d6dd78769c7" sha1="3bea300b49bdc121e83fd52f057db5b3ca9d8434"/>
+	</game>
+	<game name="Raiden Fighters Aces (Bonus DVD-Video) (Japan)">
+		<category>Bonus Discs</category>
+		<description>Raiden Fighters Aces (Bonus DVD-Video) (Japan)</description>
+		<rom name="Raiden Fighters Aces (Bonus DVD-Video) (Japan).iso" size="7551203328" crc="1bac6dc9" md5="3417ca07bd2918a19a59423eb2ac0bec" sha1="9e969b28b43153cb6abc1d3784fab6d43898206a"/>
+	</game>
+	<game name="Resident Evil - Collector's Edition (Europe)">
+		<category>Video</category>
+		<description>Resident Evil - Collector's Edition (Europe)</description>
+		<rom name="Resident Evil - Collector's Edition (Europe).iso" size="486041600" crc="5996c1f9" md5="1a5e28a63f8db38109c89fec9b1099c7" sha1="4a1e5dec270b384dd67ec1a1c89d8e8da97680d9"/>
+	</game>
+	<game name="Buzz! The Music Quiz (Europe)">
+		<category>Multimedia</category>
+		<description>Buzz! The Music Quiz (Europe)</description>
+		<rom name="Buzz! The Music Quiz (Europe).iso" size="749406208" crc="78f1601d" md5="93393bd8e69600037ff295dd04ed97e4" sha1="77f69764d9e3f1d6ba1a61248a55c7e4af9a42ae"/>
+	</game>
+	<game name="Strawberry Shortcake (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Games</category>
+		<description>Strawberry Shortcake (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Strawberry Shortcake (Europe) (En,Fr,De,Es,It,Nl).iso" size="2564546560" crc="f5fafc63" md5="ae1cbee4586fd57cdb8bd31460d10c3a" sha1="a8832474bd01e54b2eb80713024dc1fbedd5ada4"/>
+	</game>
+	<game name="Tokyo Game Show 2008 Capcom Special DVD (Japan)">
+		<category>Video</category>
+		<description>Tokyo Game Show 2008 Capcom Special DVD (Japan)</description>
+		<rom name="Tokyo Game Show 2008 Capcom Special DVD (Japan).iso" size="4281004032" crc="8f3836a9" md5="35c5b2f5ed9aa1663a2ce731c57968e1" sha1="ca2feffe6b6a4ef0eb478609462aeda4f661b608"/>
+	</game>
+	<game name="Bad Mojo - The Roach Game Redux (USA) (Bonus DVD)">
+		<category>Bonus Discs</category>
+		<description>Bad Mojo - The Roach Game Redux (USA) (Bonus DVD)</description>
+		<rom name="Bad Mojo - The Roach Game Redux (USA) (Bonus DVD).iso" size="2291924992" crc="6a6e01e3" md5="04f5159691602569fa0712cda4792c1a" sha1="23cab6487bc61fd65cfe435593b89c3894ad94d6"/>
+	</game>
+	<game name="Fullmetal Alchemist 2 - Curse of the Crimson Elixir (Bonus DVD-Video) (USA)">
+		<category>Bonus Discs</category>
+		<description>Fullmetal Alchemist 2 - Curse of the Crimson Elixir (Bonus DVD-Video) (USA)</description>
+		<rom name="Fullmetal Alchemist 2 - Curse of the Crimson Elixir (Bonus DVD-Video) (USA).iso" size="1960902656" crc="4c7190ab" md5="54a30d3be167a03f272907cc42f7f401" sha1="1566ec929a4bd3eafe40206168cb4f5ed741b01f"/>
+	</game>
+	<game name="Xbox Play More (Europe)">
+		<category>Video</category>
+		<description>Xbox Play More (Europe)</description>
+		<rom name="Xbox Play More (Europe).iso" size="4631920640" crc="d88815f9" md5="a868e899c2469fd15441a83c42cf54f1" sha1="b987deadb6fb81671ca1a4628488491d2823763d"/>
+	</game>
+	<game name="Eco-Rangers - Rainforest Adventure (USA)">
+		<category>Games</category>
+		<description>Eco-Rangers - Rainforest Adventure (USA)</description>
+		<rom name="Eco-Rangers - Rainforest Adventure (USA).iso" size="946798592" crc="e5db3e98" md5="657e75dbc32c000a044cd07536298c07" sha1="0287d5bab00f9333cb852df8605d9c1094d2233e"/>
+	</game>
+	<game name="Dante's Inferno (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It)">
+		<category>Bonus Discs</category>
+		<description>Dante's Inferno (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Dante's Inferno (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It).iso" size="2641494016" crc="5d6ab715" md5="dc072875f0d746332a053316831e369e" sha1="28ed5087bebc1b01651154940fea86c2c45b489e"/>
+	</game>
+	<game name="God of War - Promotional Reel (USA)">
+		<category>Video</category>
+		<description>God of War - Promotional Reel (USA)</description>
+		<rom name="God of War - Promotional Reel (USA).iso" size="1057726464" crc="7663f8a0" md5="05b8e3e2ddee9c3a79371932433d7ef1" sha1="fa957ea6cd9d3329898f34ac130e5d24b579e6ad"/>
+	</game>
+	<game name="Command &amp; Conquer - Die ersten 10 Jahre (Germany) (Bonus-DVD)">
+		<category>Bonus Discs</category>
+		<description>Command &amp; Conquer - Die ersten 10 Jahre (Germany) (Bonus-DVD)</description>
+		<rom name="Command &amp; Conquer - Die ersten 10 Jahre (Germany) (Bonus-DVD).iso" size="2798354432" crc="2a20e670" md5="8566cf23f9d5bbe75cfe38fd17f83f1e" sha1="b8dc27c57f13c6a5173d997f87add5f98a5747a1"/>
+	</game>
+	<game name="Metal Gear Saga Vol. 1 (Bonus DVD-Video) (USA)">
+		<category>Bonus Discs</category>
+		<description>Metal Gear Saga Vol. 1 (Bonus DVD-Video) (USA)</description>
+		<rom name="Metal Gear Saga Vol. 1 (Bonus DVD-Video) (USA).iso" size="3489368064" crc="9116a021" md5="27532367b63740fda07e7d90da058d68" sha1="e1e690c1826576e5d9b7750ffb6e9ba11b5687a5"/>
+	</game>
+	<game name="Xenosaga Episode II - Jenseits von Gut und Boese (Bonus DVD-Video) (USA)">
+		<category>Bonus Discs</category>
+		<description>Xenosaga Episode II - Jenseits von Gut und Boese (Bonus DVD-Video) (USA)</description>
+		<rom name="Xenosaga Episode II - Jenseits von Gut und Boese (Bonus DVD-Video) (USA).iso" size="8523841536" crc="695ecab3" md5="2770bc203331d866df588e4f691d050c" sha1="5e3a2b46ebd7e0620ac24b1038f2d2d7fb0c4e7a"/>
+	</game>
+	<game name="Chaos Wars (Bonus DVD-Video) (Japan)">
+		<category>Bonus Discs</category>
+		<description>Chaos Wars (Bonus DVD-Video) (Japan)</description>
+		<rom name="Chaos Wars (Bonus DVD-Video) (Japan).iso" size="2472280064" crc="17c1b68e" md5="b14359cf8195fae2910e25229f9185c5" sha1="618244b2f199c01f88ae84fb10f008b44295ccd8"/>
+	</game>
+	<game name="Driver - Parallel Lines (Bonus DVD-Video) (USA)">
+		<category>Bonus Discs</category>
+		<description>Driver - Parallel Lines (Bonus DVD-Video) (USA)</description>
+		<rom name="Driver - Parallel Lines (Bonus DVD-Video) (USA).iso" size="819265536" crc="134ed5f6" md5="d55ee87cdf66941b1b045bfa35b9e31f" sha1="06005d972aa0d604ae151d8e8684c557d7f31752"/>
+	</game>
+	<game name="Call of Duty 2 (USA) (Collector's Bonus DVD) (Game of the Year Edition)">
+		<category>Bonus Discs</category>
+		<description>Call of Duty 2 (USA) (Collector's Bonus DVD) (Game of the Year Edition)</description>
+		<rom name="Call of Duty 2 (USA) (Collector's Bonus DVD) (Game of the Year Edition).iso" size="2283800576" crc="66e88571" md5="f24a1758359e502da7efd2666d9c4219" sha1="7b6ce823240b07a7a85183bfe13af2f37114fdaf"/>
+	</game>
+	<game name="Super Mario Galaxy 2 for Beginners (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It) (v1.01)">
+		<category>Bonus Discs</category>
+		<description>Super Mario Galaxy 2 for Beginners (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It) (v1.01)</description>
+		<rom name="Super Mario Galaxy 2 for Beginners (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It) (v1.01).iso" size="4545708032" crc="1dec5713" md5="84003e986160b745d09645f3c5706e34" sha1="dcef4c78f20d24671f341d417dfebab08c62b5b0"/>
+	</game>
+	<game name="StarCraft II - Wings of Liberty (Europe) (Behind the Scenes)">
+		<category>Bonus Discs</category>
+		<description>StarCraft II - Wings of Liberty (Europe) (Behind the Scenes)</description>
+		<rom name="StarCraft II - Wings of Liberty (Europe) (Behind the Scenes).iso" size="6967820288" crc="6ef4cd29" md5="45e6793d2cf41b007511348a665a8c6f" sha1="96e5d22cf003a7fc3260be5e488998a8946fd0e7"/>
+	</game>
+	<game name="Biohazard 5 (China) (Disc B) (The Others)">
+		<category>Video</category>
+		<description>Biohazard 5 (China) (Disc B) (The Others)</description>
+		<rom name="Biohazard 5 (China) (Disc B) (The Others).iso" size="4510754816" crc="24a74074" md5="bc387461604a0af5ed242c307c285d23" sha1="229e5023dd24b7182baba491a074aef5810e0cde"/>
+	</game>
+	<game name="Tony Hawk's Project 8 (Europe)">
+		<category>Video</category>
+		<description>Tony Hawk's Project 8 (Europe)</description>
+		<rom name="Tony Hawk's Project 8 (Europe).iso" size="2347827200" crc="ef080c86" md5="012bc49f075d2c8f342e7a2c1b07dee8" sha1="c5c781110a8870bc7b5fc6f319ab352ab9c10e25"/>
+	</game>
+	<game name="Metal Gear Saga Vol. 2 (Europe)">
+		<category>Video</category>
+		<description>Metal Gear Saga Vol. 2 (Europe)</description>
+		<rom name="Metal Gear Saga Vol. 2 (Europe).iso" size="4280838144" crc="48a1e143" md5="c6b720d9a2ab6816b133513762020bd0" sha1="bf8ac5d565ee58c60826b5d60f2b264b3a246355"/>
+	</game>
+	<game name="No Limits! DVD (Europe)">
+		<category>Video</category>
+		<description>No Limits! DVD (Europe)</description>
+		<rom name="No Limits! DVD (Europe).iso" size="4012324864" crc="eb0854ee" md5="df8dea6e9ba30d08d26b55a734054df5" sha1="2430f330decbab1479c65a2f6b70366927ae6ca5"/>
+	</game>
+	<game name="Official Review of the 2000 FIA Formula One World Championship, The (Europe)">
+		<category>Bonus Discs</category>
+		<description>Official Review of the 2000 FIA Formula One World Championship, The (Europe)</description>
+		<rom name="Official Review of the 2000 FIA Formula One World Championship, The (Europe).iso" size="8268742656" crc="65679d24" md5="305c586c9889c89acade801e8d465c8e" sha1="319964cf3fb8f066694af0e5a6fcd9ee146753be"/>
+	</game>
+	<game name="I Spy - A DVD Game of Picture Riddles (USA)">
+		<category>Games</category>
+		<description>I Spy - A DVD Game of Picture Riddles (USA)</description>
+		<rom name="I Spy - A DVD Game of Picture Riddles (USA).iso" size="3536070656" crc="ec42af18" md5="85cc4c0bbb80c594fc636e5d08d0c718" sha1="f2e7bdaf5907d9616c67ddc123fc6c048d9c7449"/>
+	</game>
+	<game name="GamePro 03-2005 (Germany)">
+		<category>Coverdiscs</category>
+		<description>GamePro 03-2005 (Germany)</description>
+		<rom name="GamePro 03-2005 (Germany).iso" size="4686071808" crc="98831d27" md5="3e526751c269af5a6b885e0731e89ceb" sha1="f8b4b1bb00cd537eb2e6ea6d441a24763e7dfb6d"/>
+	</game>
+	<game name="Play Zone DVD Vol. 5 - Avril 2001 (France)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD Vol. 5 - Avril 2001 (France)</description>
+		<rom name="Play Zone DVD Vol. 5 - Avril 2001 (France).iso" size="3859939328" crc="54f79db9" md5="605ea2c6dbf1e48698a18a40e0043bb9" sha1="f138f845dc8b1b537de67130ec7e87bdd0b65443"/>
+	</game>
+	<game name="Play Zone DVD Vol. 6 - Mai 2001 (France)">
+		<category>Video</category>
+		<description>Play Zone DVD Vol. 6 - Mai 2001 (France)</description>
+		<rom name="Play Zone DVD Vol. 6 - Mai 2001 (France).iso" size="3592634368" crc="97dc3c00" md5="84160060a7e0b773402ce07f61da60d8" sha1="564b9744ab567d18fdc136a4eb4cee2c80b58ac2"/>
+	</game>
+	<game name="Play Zone DVD Vol. 8 - Juillet-Aout 2001 (France)">
+		<category>Video</category>
+		<description>Play Zone DVD Vol. 8 - Juillet-Aout 2001 (France)</description>
+		<rom name="Play Zone DVD Vol. 8 - Juillet-Aout 2001 (France).iso" size="4663621632" crc="92a342a8" md5="dbc9753d1cf486fa6aefd621933809d3" sha1="c7ba5cb4fa094b76f4ae8ddb002f1d2fde0f366f"/>
+	</game>
+	<game name="PSM2 DVD n27 (France)">
+		<category>Video</category>
+		<description>PSM2 DVD n27 (France)</description>
+		<rom name="PSM2 DVD n27 (France).iso" size="3567550464" crc="afc44451" md5="aff1c29de6161b02d760ef973ccfd5f3" sha1="cc0baaa98053db81d56380fb7b42e8a1e04e4944"/>
+	</game>
+	<game name="Other Side of the Final Fantasy 2 (Japan)">
+		<category>Bonus Discs</category>
+		<description>Other Side of the Final Fantasy 2 (Japan)</description>
+		<rom name="Other Side of the Final Fantasy 2 (Japan).iso" size="4372043776" crc="23380c3b" md5="c512e2fabc0938c60cca1c747438ae76" sha1="d1e06bf468f636ae869439ebe049a690a60c13bf"/>
+	</game>
+	<game name="Hologram Time Traveler (Europe)">
+		<category>Games</category>
+		<description>Hologram Time Traveler (Europe)</description>
+		<rom name="Hologram Time Traveler (Europe).iso" size="4606132224" crc="92c80d12" md5="ce32bd0b8f4fda5e947e61e948e7fc61" sha1="50f6bdf96972aef2aa88329145390f17ecb9bfce"/>
+	</game>
+	<game name="Making of Resident Evil 5, The (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Bonus Discs</category>
+		<description>Making of Resident Evil 5, The (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Making of Resident Evil 5, The (Europe) (En,Fr,De,Es,It,Nl).iso" size="2759485440" crc="11019e15" md5="dacdca166e5500e25f570ae7856b5afe" sha1="27f3b3191e4c30b84d9ff1d51f4487e3d1d3a6b5"/>
+	</game>
+	<game name="Games Aktuell 10-10 (Germany) (Seite 1)">
+		<category>Coverdiscs</category>
+		<description>Games Aktuell 10-10 (Germany) (Seite 1)</description>
+		<rom name="Games Aktuell 10-10 (Germany) (Seite 1).iso" size="4263673856" crc="1e07c3f9" md5="96e69db8ba459349436beb07441b1bbc" sha1="2caeaec9a32cea9edb954c845221bc1d01273933"/>
+	</game>
+	<game name="Space Ace (Germany)">
+		<category>Games</category>
+		<description>Space Ace (Germany)</description>
+		<rom name="Space Ace (Germany).iso" size="4144037888" crc="c0bcb150" md5="b4e3c64d6f69f239db222d13e8c773f8" sha1="8333ce76ac834c058ad400dabf15815e15a614e7"/>
+	</game>
+	<game name="Dragon's Lair (USA)">
+		<category>Games</category>
+		<description>Dragon's Lair (USA)</description>
+		<rom name="Dragon's Lair (USA).iso" size="8010760192" crc="55a35226" md5="0c2d07de0fb0a1b4ff2b8e174bf6afc7" sha1="78d7c9fbbb26050076a46046e975f48cb0db35d2"/>
+	</game>
+	<game name="Dragon's Lair II - Time Warp (USA)">
+		<category>Games</category>
+		<description>Dragon's Lair II - Time Warp (USA)</description>
+		<rom name="Dragon's Lair II - Time Warp (USA).iso" size="4092231680" crc="f44b7155" md5="6901735f6d96fe6b56c330088caa422b" sha1="7398ce63c5a6cddc71772ac64ba0c6d7d60977fb"/>
+	</game>
+	<game name="Space Ace (USA)">
+		<category>Games</category>
+		<description>Space Ace (USA)</description>
+		<rom name="Space Ace (USA).iso" size="4547018752" crc="982c7697" md5="d43acf6a82c983c08945af04e42d738d" sha1="e1314ed9672577eaf3be465a61214cfcb793f0fc"/>
+	</game>
+	<game name="Godfather, The (Europe) (Bonus Disc) (Limited Edition)">
+		<category>Bonus Discs</category>
+		<description>Godfather, The (Europe) (Bonus Disc) (Limited Edition)</description>
+		<rom name="Godfather, The (Europe) (Bonus Disc) (Limited Edition).iso" size="3165034496" crc="399a8811" md5="3515f25a20830733ba31363c00e4656e" sha1="06a3c2666b8413cce8b54cb1aaf3169b6c81bf82"/>
+	</game>
+	<game name="LEGO Harry Potter - Years 1-4 (Europe) (En,De,Es,It,Nl,Da) (Bonus Disc)">
+		<category>Bonus Discs</category>
+		<description>LEGO Harry Potter - Years 1-4 (Europe) (En,De,Es,It,Nl,Da) (Bonus Disc)</description>
+		<rom name="LEGO Harry Potter - Years 1-4 (Europe) (En,De,Es,It,Nl,Da) (Bonus Disc).iso" size="1920831488" crc="e855b0d4" md5="0b89c30f5ba2d7da0d39f56a372569bd" sha1="3f4954462dbe7e70406520c4e2a18e7e63392e64"/>
+	</game>
+	<game name="Official Review of the 2001 FIA Formula One World Championship, The (Germany)">
+		<category>Bonus Discs</category>
+		<description>Official Review of the 2001 FIA Formula One World Championship, The (Germany)</description>
+		<rom name="Official Review of the 2001 FIA Formula One World Championship, The (Germany).iso" size="8402632704" crc="ed59c877" md5="33ae77e82c57204bf5af26347b8e7d6d" sha1="fea432d5cd23558da51e0deb69dddb2881cfeab7"/>
+	</game>
+	<game name="Driv3r (Europe) (En,Fr,De,Es,It) (Bonus DVD)">
+		<category>Bonus Discs</category>
+		<description>Driv3r (Europe) (En,Fr,De,Es,It) (Bonus DVD)</description>
+		<rom name="Driv3r (Europe) (En,Fr,De,Es,It) (Bonus DVD).iso" size="1179987968" crc="25168430" md5="a367988f80fa0e81019f6849a924b9d9" sha1="c9d1bf2efb64ea90d958a4d1cadbcd7ff4bad387"/>
+	</game>
+	<game name="Dot Hack Liminality Vol. 4 - Trismegistus (Europe) (En,Fr,De,Es,It)">
+		<category>Bonus Discs</category>
+		<description>Dot Hack Liminality Vol. 4 - Trismegistus (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Dot Hack Liminality Vol. 4 - Trismegistus (Europe) (En,Fr,De,Es,It).iso" size="4437620736" crc="d172941b" md5="98ca17f7c872e347d7c82f4a48dbe0a5" sha1="7adab40e228673985f0f87ca2e2a569288bbcd43"/>
+	</game>
+	<game name="Dot Hack Liminality Vol. 3 - In the Case of Kyoko Tohno (Europe) (En,Fr,De,Es,It)">
+		<category>Bonus Discs</category>
+		<description>Dot Hack Liminality Vol. 3 - In the Case of Kyoko Tohno (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Dot Hack Liminality Vol. 3 - In the Case of Kyoko Tohno (Europe) (En,Fr,De,Es,It).iso" size="2667335680" crc="e726631e" md5="86813df47d70e55149012a3f20d3823c" sha1="481f56f34a83ef62f44e4a47fda3a941c75d9fc6"/>
+	</game>
+	<game name="Fable (Europe) (En,Fr,De,Es,It,Nl) (Bonus DVD) (Limited Edition)">
+		<category>Bonus Discs</category>
+		<description>Fable (Europe) (En,Fr,De,Es,It,Nl) (Bonus DVD) (Limited Edition)</description>
+		<rom name="Fable (Europe) (En,Fr,De,Es,It,Nl) (Bonus DVD) (Limited Edition).iso" size="1776740352" crc="5e39bf70" md5="191e7db83f909d899194ce9a7d220f41" sha1="3d569b748cac175e797566c08f75b9ee3cc9c086"/>
+	</game>
+	<game name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials)">
+		<category>Bonus Discs</category>
+		<description>Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials)</description>
+		<rom name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials).iso" size="2580703232" crc="207c6697" md5="a5f0b598982203fa21843421b1d229df" sha1="ea960416b06f04bf9473ee43e27da43c07e8921c"/>
+	</game>
+	<game name="Forza Motorsport (Europe) (En,Fr,De,Es) (Limited Edition Bonus Content)">
+		<category>Bonus Discs</category>
+		<description>Forza Motorsport (Europe) (En,Fr,De,Es) (Limited Edition Bonus Content)</description>
+		<rom name="Forza Motorsport (Europe) (En,Fr,De,Es) (Limited Edition Bonus Content).iso" size="1837305856" crc="99672b1e" md5="1ad4c396349ddb4bdd7525b28cca314e" sha1="ce6883a8673a5ec129f2a84901ea6feb4fc2abde"/>
+	</game>
+	<game name="Marc Ecko's Getting Up - Contents Under Pressure (Europe) (En,Fr,De,Es,It) (Getting Up Video)">
+		<category>Bonus Discs</category>
+		<description>Marc Ecko's Getting Up - Contents Under Pressure (Europe) (En,Fr,De,Es,It) (Getting Up Video)</description>
+		<rom name="Marc Ecko's Getting Up - Contents Under Pressure (Europe) (En,Fr,De,Es,It) (Getting Up Video).iso" size="6993117184" crc="00ae53de" md5="f5c8a75b72c4f0ab9f76994c929f1c8a" sha1="793dd9be67a7febdecb578d2fb81e718b0de3312"/>
+	</game>
+	<game name="Burnout - Exclusive DVD Trailer (Europe)">
+		<category>Video</category>
+		<description>Burnout - Exclusive DVD Trailer (Europe)</description>
+		<rom name="Burnout - Exclusive DVD Trailer (Europe).iso" size="118030336" crc="a6b74634" md5="c4c7745c439c44a7fe8c001418fe2b01" sha1="b55516fea86108fba9612add5522ca6589d032f3"/>
+	</game>
+	<game name="Metal Gear Solid 3 - Snake Eater - Trailer-DVD (Europe) (En,Ja)">
+		<category>Video</category>
+		<description>Metal Gear Solid 3 - Snake Eater - Trailer-DVD (Europe) (En,Ja)</description>
+		<rom name="Metal Gear Solid 3 - Snake Eater - Trailer-DVD (Europe) (En,Ja).iso" size="1796603904" crc="d5a21663" md5="3404b82a98ad5411e626781c24b509ee" sha1="8d8c0b54bab6fceb084459776c154c58132d6251"/>
+	</game>
+	<game name="Play Zone DVD 04-2001 (Germany) (Metal Gear Solid 2 - Sons of Liberty)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 04-2001 (Germany) (Metal Gear Solid 2 - Sons of Liberty)</description>
+		<rom name="Play Zone DVD 04-2001 (Germany) (Metal Gear Solid 2 - Sons of Liberty).iso" size="4592828416" crc="1a8c6fc2" md5="2ad02745b84f55cc2ba91f20cebe51b0" sha1="591e218014c23c9220d99e9f19322b6b431fbdba"/>
+	</game>
+	<game name="Play Zone DVD 05-2001 (Germany) (Silent Hill 2)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 05-2001 (Germany) (Silent Hill 2)</description>
+		<rom name="Play Zone DVD 05-2001 (Germany) (Silent Hill 2).iso" size="4593647616" crc="96a85532" md5="38e4b7949da350651106c52039b6dc63" sha1="d833800d5ef44838656777164e270dc9547c8973"/>
+	</game>
+	<game name="Play Zone DVD 06-2001 (Germany) (Resident Evil - Code - Veronica &amp; Devil May Cry)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 06-2001 (Germany) (Resident Evil - Code - Veronica &amp; Devil May Cry)</description>
+		<rom name="Play Zone DVD 06-2001 (Germany) (Resident Evil - Code - Veronica &amp; Devil May Cry).iso" size="4655218688" crc="8ee60c8d" md5="4eda97c5b5ddf4da014d5fba3ac93dc2" sha1="7781a02a153011edbd9759ec79887208f5dff5a4"/>
+	</game>
+	<game name="Play Zone DVD 07-2001 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 07-2001 (Germany)</description>
+		<rom name="Play Zone DVD 07-2001 (Germany).iso" size="4624744448" crc="c447349e" md5="e135bfd0ea1fc584d561ce9f50e3dc45" sha1="9388f4f270fea07931d5470c96443e73724fb8c6"/>
+	</game>
+	<game name="Play Zone DVD 08-2001 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 08-2001 (Germany)</description>
+		<rom name="Play Zone DVD 08-2001 (Germany).iso" size="4603379712" crc="7344a65b" md5="1ec32dc25db7cd58e88ddc566a0bb545" sha1="6697e0029f48c7da7591d27a50affcc2b5a20406"/>
+	</game>
+	<game name="Play Zone DVD 11-2001 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 11-2001 (Germany)</description>
+		<rom name="Play Zone DVD 11-2001 (Germany).iso" size="4381769728" crc="915633d6" md5="2bcfcb2d10b3dd7d85df5d3d27654a21" sha1="420e1b9635ac2ec81356c07dd52e1796f6e15fbc"/>
+	</game>
+	<game name="Play Zone DVD 12-2001 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 12-2001 (Germany)</description>
+		<rom name="Play Zone DVD 12-2001 (Germany).iso" size="4599414784" crc="e0df2332" md5="75c61e65c92895ab6a1371d3a139b538" sha1="73a23664998bdeb99603fc7d88cda64e16d73ee8"/>
+	</game>
+	<game name="Play Zone DVD 01-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 01-2002 (Germany)</description>
+		<rom name="Play Zone DVD 01-2002 (Germany).iso" size="4457365504" crc="6e6ba2b6" md5="ae8879cad5a448884b0bb46861f39834" sha1="fdd1c7b6eb4fe74487431e65aa9c694f6ed29c09"/>
+	</game>
+	<game name="Play Zone DVD 02-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 02-2002 (Germany)</description>
+		<rom name="Play Zone DVD 02-2002 (Germany).iso" size="4100390912" crc="7c3c88e5" md5="06822641a654c0fae683e498aad9619d" sha1="180036114698df9c697e0294548d0a01954f275b"/>
+	</game>
+	<game name="Play Zone DVD 03-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 03-2002 (Germany)</description>
+		<rom name="Play Zone DVD 03-2002 (Germany).iso" size="4619403264" crc="d4811db3" md5="153e2957aa6bd4b3ae25cd9ff5d92d7c" sha1="c7a7311a8a00c2ae9ca6431324be2e2988a17872"/>
+	</game>
+	<game name="Play Zone DVD 04-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 04-2002 (Germany)</description>
+		<rom name="Play Zone DVD 04-2002 (Germany).iso" size="4563501056" crc="27da51ac" md5="2a54ac902defa5d48db13b13799e66fd" sha1="c2ce459dc0cde1efb75742fe35deef7badfd9aaf"/>
+	</game>
+	<game name="Play Zone DVD 06-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 06-2002 (Germany)</description>
+		<rom name="Play Zone DVD 06-2002 (Germany).iso" size="4513300480" crc="d53a2553" md5="f4eb13ef2cff2754affa16241950f874" sha1="c4aec2b71fc8dbd54983b1db7dc1b8b64086240f"/>
+	</game>
+	<game name="Play Zone DVD 07-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 07-2002 (Germany)</description>
+		<rom name="Play Zone DVD 07-2002 (Germany).iso" size="4616454144" crc="76ebdaee" md5="3451a61e4d585699b9d71e4ffef10eb4" sha1="21b407635761ec641490196bcd6ba18e9c364ba6"/>
+	</game>
+	<game name="Play Zone DVD 08-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 08-2002 (Germany)</description>
+		<rom name="Play Zone DVD 08-2002 (Germany).iso" size="4554817536" crc="ef8ce12f" md5="b59ae50faae6247d2eacd607bb5d23cc" sha1="57e7eb17a5fd423c5912022a56431a64b63ee3ee"/>
+	</game>
+	<game name="Play Zone DVD 09-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 09-2002 (Germany)</description>
+		<rom name="Play Zone DVD 09-2002 (Germany).iso" size="4455333888" crc="b5c062ea" md5="09915a8de4b1a715a84f112d9bb397c8" sha1="9c616008369e026cf1f798d087fd562e723f26b0"/>
+	</game>
+	<game name="Play Zone DVD 10-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 10-2002 (Germany)</description>
+		<rom name="Play Zone DVD 10-2002 (Germany).iso" size="4038164480" crc="3ebd50d7" md5="e2fa09b3dd61e0c22795c91723554d98" sha1="ea583afebe50a719363099b46dda54983d4aac00"/>
+	</game>
+	<game name="Play Zone DVD 11-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 11-2002 (Germany)</description>
+		<rom name="Play Zone DVD 11-2002 (Germany).iso" size="4150198272" crc="6cd06913" md5="e41a6237cb38bfbcbe0c96c15e4a6439" sha1="491e65b679ec86bb13b15efb30bb0135312b1dd1"/>
+	</game>
+	<game name="Play Zone DVD 12-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 12-2002 (Germany)</description>
+		<rom name="Play Zone DVD 12-2002 (Germany).iso" size="4630740992" crc="e9fc6b27" md5="be2b3124fd2349c3a296eee933be5ca6" sha1="ddfa307da637b7b86731c54b795664480fc2c5d1"/>
+	</game>
+	<game name="EA Trailer-DVD (Sweden) (En,Sv)">
+		<category>Video</category>
+		<description>EA Trailer-DVD (Sweden) (En,Sv)</description>
+		<rom name="EA Trailer-DVD (Sweden) (En,Sv).iso" size="673513472" crc="99734a5a" md5="68d2883af69bd3273de83bdb1232f5e2" sha1="000f48219d2ca8df06c79849f5ecca640f1bdafa"/>
+	</game>
+	<game name="Play Zone DVD 01-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 01-2003 (Germany)</description>
+		<rom name="Play Zone DVD 01-2003 (Germany).iso" size="4338515968" crc="1fb63fef" md5="83508f9d8e72f3bf0af5cecc624428c0" sha1="ed195ca0a3c1378d8ac9717847d778e1ccae1c33"/>
+	</game>
+	<game name="Play Zone DVD 02-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 02-2003 (Germany)</description>
+		<rom name="Play Zone DVD 02-2003 (Germany).iso" size="4548558848" crc="dca08923" md5="267437affb0a487f7ae75f71fe512150" sha1="c2b44d4e6e140d4c7542c9f9bdae8d5159bc9e4f"/>
+	</game>
+	<game name="Play Zone DVD 03-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 03-2003 (Germany)</description>
+		<rom name="Play Zone DVD 03-2003 (Germany).iso" size="4133421056" crc="97cab31f" md5="2076e8f8044d1dc397a40258f2b046e8" sha1="81c8f1ec31c9591238448d509cc09fd1dccab012"/>
+	</game>
+	<game name="Play Zone DVD 04-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 04-2003 (Germany)</description>
+		<rom name="Play Zone DVD 04-2003 (Germany).iso" size="4507828224" crc="5b361e93" md5="895bc75471ffef0868f5b157062b336e" sha1="3495cccac6d083c23dda581fd020412204444f49"/>
+	</game>
+	<game name="Play Zone DVD 05-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 05-2003 (Germany)</description>
+		<rom name="Play Zone DVD 05-2003 (Germany).iso" size="4635754496" crc="8c4d4794" md5="3d9dc865236683e251e38182cd611fab" sha1="3daeee5d0fd250a029aa173398fd2ab0604af2f3"/>
+	</game>
+	<game name="Play Zone DVD 06-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 06-2003 (Germany)</description>
+		<rom name="Play Zone DVD 06-2003 (Germany).iso" size="4333043712" crc="91fd48f2" md5="b72eeaf706ba3ca15a92a1d572c97529" sha1="7688a1c11597607bb4a1cb3b0d11d9d7c1806d0a"/>
+	</game>
+	<game name="Play Zone DVD 07-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 07-2003 (Germany)</description>
+		<rom name="Play Zone DVD 07-2003 (Germany).iso" size="4630347776" crc="74c4f701" md5="33a7fd7f3fc9737e43e7450e96641651" sha1="dd950baa190a1acb7dbed37e63004b9fe33d2395"/>
+	</game>
+	<game name="Play Zone DVD 08-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 08-2003 (Germany)</description>
+		<rom name="Play Zone DVD 08-2003 (Germany).iso" size="4611014656" crc="bc124677" md5="506d20b3da8cbe05a711fb488afa54dc" sha1="87de801d4bf8efdce3cc873242da3d35f0e542dd"/>
+	</game>
+	<game name="Play Zone DVD 09-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 09-2003 (Germany)</description>
+		<rom name="Play Zone DVD 09-2003 (Germany).iso" size="4644438016" crc="629defbf" md5="ad4f998830641a2f4b600ac8c8539740" sha1="f8534a7908040b18443747fcce255cbaec925113"/>
+	</game>
+	<game name="Play Zone DVD 10-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 10-2003 (Germany)</description>
+		<rom name="Play Zone DVD 10-2003 (Germany).iso" size="4648960000" crc="887f1986" md5="52f09e664d1ce96117d44c30932a3a64" sha1="49b1c76723b2fae2f801092c687e83fa824677fa"/>
+	</game>
+	<game name="Play Zone DVD 11-2003 (Germany) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 11-2003 (Germany) (Side A)</description>
+		<rom name="Play Zone DVD 11-2003 (Germany) (Side A).iso" size="4590829568" crc="e5bad18a" md5="520d04e014c84c742f828302c1ac7326" sha1="b86e0c0c0fc67262ed3dbb9eeee83ffea41871df"/>
+	</game>
+	<game name="Play Zone DVD 11-2003 (Germany) (Side B) (Dragon's Lair)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 11-2003 (Germany) (Side B) (Dragon's Lair)</description>
+		<rom name="Play Zone DVD 11-2003 (Germany) (Side B) (Dragon's Lair).iso" size="4641685504" crc="51dc7db2" md5="2b32680b6140d75013418bf003c78967" sha1="3ff1ccb267a10bcb11c6628d289ec128e10af845"/>
+	</game>
+	<game name="Play Zone DVD 12-2003 (Germany) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 12-2003 (Germany) (Side A)</description>
+		<rom name="Play Zone DVD 12-2003 (Germany) (Side A).iso" size="4657938432" crc="0fa95ab0" md5="b26044755afdd9296bd91c5fd1adb106" sha1="88d45cbd08cc81bb78b00d3735442da1dc736513"/>
+	</game>
+	<game name="Play Zone DVD 12-2003 (Germany) (Side B) (Space Ace)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 12-2003 (Germany) (Side B) (Space Ace)</description>
+		<rom name="Play Zone DVD 12-2003 (Germany) (Side B) (Space Ace).iso" size="4087218176" crc="a1d372ce" md5="337fce1e663caa5ad98e1fafb2aed039" sha1="7ab2a89c52fdf388b65d5efae0c04b0e5921e819"/>
+	</game>
+	<game name="Play Zone DVD 13-2003 (Germany) (Side B) (450 Testvideos)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 13-2003 (Germany) (Side B) (450 Testvideos)</description>
+		<rom name="Play Zone DVD 13-2003 (Germany) (Side B) (450 Testvideos).iso" size="3420225536" crc="03756e36" md5="dc5fcd5ed69accf6207440aa47cdd151" sha1="72c90101f6e5552e0a24ac1e25089d328ec06840"/>
+	</game>
+	<game name="Play Zone DVD 13-2003 (Germany) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 13-2003 (Germany) (Side A)</description>
+		<rom name="Play Zone DVD 13-2003 (Germany) (Side A).iso" size="4649320448" crc="543c0fa5" md5="fff883af4fd72b0b1a45126c40ea2119" sha1="349a924b6d54a48b426a9bbb44375f4bd748960c"/>
+	</game>
+	<game name="Play Zone DVD 01-2004 (Germany) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 01-2004 (Germany) (Side A)</description>
+		<rom name="Play Zone DVD 01-2004 (Germany) (Side A).iso" size="4666785792" crc="645d4988" md5="5ee6c4e2361b35ba84f3fccf7aca1615" sha1="ab6271602dfe910769490d5169f8d7c4d3369eb2"/>
+	</game>
+	<game name="Play Zone DVD 01-2004 (Germany) (Side B) (Best of 2003)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 01-2004 (Germany) (Side B) (Best of 2003)</description>
+		<rom name="Play Zone DVD 01-2004 (Germany) (Side B) (Best of 2003).iso" size="4611473408" crc="b8b0e057" md5="87454562518a5a37f708e2573f3edec0" sha1="991b81475201701ddec19551974fd8c8547e7f53"/>
+	</game>
+	<game name="Play Zone DVD 02-2004 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 02-2004 (Germany)</description>
+		<rom name="Play Zone DVD 02-2004 (Germany).iso" size="4654891008" crc="79030592" md5="d7519b7b951755dea0950324b7ccc809" sha1="75cd4f6b87ed794d5a20a9f883ea6fe581683e41"/>
+	</game>
+	<game name="Play Zone DVD 03-2004 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 03-2004 (Germany)</description>
+		<rom name="Play Zone DVD 03-2004 (Germany).iso" size="4664786944" crc="7904b619" md5="e1ce4c995fb301baca0c17d47caebcc6" sha1="13ab440c051437b692ccbb2b3357dc707c3226af"/>
+	</game>
+	<game name="Play Zone DVD 04-2004 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 04-2004 (Germany)</description>
+		<rom name="Play Zone DVD 04-2004 (Germany).iso" size="4691034112" crc="b4193c53" md5="c7c6eb8118b38cbcbbd3b693c5cd3230" sha1="0c6593d14062c9f3b93f3b7b381b467e70c4c88c"/>
+	</game>
+	<game name="Play Zone DVD 05-2004 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 05-2004 (Germany)</description>
+		<rom name="Play Zone DVD 05-2004 (Germany).iso" size="4651155456" crc="ac67ed68" md5="5867fa501d3da9cdf8a1e0c4040ba695" sha1="9bc19de3201b9602e10e61152fbd50dfc76a19b2"/>
+	</game>
+	<game name="Play Zone DVD 06-2004 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 06-2004 (Germany)</description>
+		<rom name="Play Zone DVD 06-2004 (Germany).iso" size="4571955200" crc="990edec4" md5="2648c85fd4ac924de5d7169114c11435" sha1="6a462889087dbfe3482ac0f2096d83dd46c61413"/>
+	</game>
+	<game name="Play Zone DVD 07-2004 (Germany) (Side A) (E3-Reportage)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 07-2004 (Germany) (Side A) (E3-Reportage)</description>
+		<rom name="Play Zone DVD 07-2004 (Germany) (Side A) (E3-Reportage).iso" size="4607148032" crc="13ac67e9" md5="37b95bd3dbb9dd9b459d05448bc2c6c7" sha1="ac10f8bd7249a464febc5186348be112e3d19e94"/>
+	</game>
+	<game name="Play Zone DVD 07-2004 (Germany) (Side B) (Tests, Extras)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 07-2004 (Germany) (Side B) (Tests, Extras)</description>
+		<rom name="Play Zone DVD 07-2004 (Germany) (Side B) (Tests, Extras).iso" size="4026531840" crc="e594dcc4" md5="4d918e7b7975465242e4114527ff3a4a" sha1="f6a86a8998f707faa77761dabfead89687b96285"/>
+	</game>
+	<game name="Play Zone DVD 08-2004 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 08-2004 (Germany)</description>
+		<rom name="Play Zone DVD 08-2004 (Germany).iso" size="4610195456" crc="86aeb83b" md5="f462d8ecfaf2331f5c21f76dd95cdce7" sha1="a04a605dc8c89cceffe1f622529df0308a134472"/>
+	</game>
+	<game name="Play Zone DVD 09-2004 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 09-2004 (Germany)</description>
+		<rom name="Play Zone DVD 09-2004 (Germany).iso" size="4508745728" crc="88e06024" md5="357dacdb014acbe4ccfdfec1e85d9d02" sha1="1ccf8fda9188e857cd01a8082f2dfa16414f4f02"/>
+	</game>
+	<game name="Play Zone DVD 05-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Play Zone DVD 05-2002 (Germany)</description>
+		<rom name="Play Zone DVD 05-2002 (Germany).iso" size="3910238208" crc="6e713123" md5="b842358dfabcb297d3b18dc1aee4fae3" sha1="0ed9df116801fd7f11c866b1796d0c4c98cf2254"/>
+	</game>
+	<game name="King of Fighters, The - Maximum Impact (Bonus-Disc) (Germany) (En,Ja)">
+		<category>Bonus Discs</category>
+		<description>King of Fighters, The - Maximum Impact (Bonus-Disc) (Germany) (En,Ja)</description>
+		<rom name="King of Fighters, The - Maximum Impact (Bonus-Disc) (Germany) (En,Ja).iso" size="3407183872" crc="4e12f773" md5="b2917c6c71b611712728fb2f5f43eea3" sha1="443853638a473bd987e34ecec6ec9b8a70f3acd0"/>
+	</game>
+	<game name="Official Review of the 2001 FIA Formula One World Championship, The (Europe)">
+		<category>Bonus Discs</category>
+		<description>Official Review of the 2001 FIA Formula One World Championship, The (Europe)</description>
+		<rom name="Official Review of the 2001 FIA Formula One World Championship, The (Europe).iso" size="8402042880" crc="baf22eb5" md5="19f2fdf47055261c1469c470663ce57a" sha1="5955f5521d77141ba4e59dc1f50fac9a65515bbd"/>
+	</game>
+	<game name="FIFA TF2 - EA Sports Sound Trax DVD (Japan)">
+		<category>Bonus Discs</category>
+		<description>FIFA TF2 - EA Sports Sound Trax DVD (Japan)</description>
+		<rom name="FIFA TF2 - EA Sports Sound Trax DVD (Japan).iso" size="3632586752" crc="76a65d3c" md5="df2bed968ba4c78d759122bff808136d" sha1="c4666255f1f7909ad994529779fae50f3985a534"/>
+	</game>
+	<game name="Xbox 360 World 100 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 100 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 100 (Europe) (Side A).iso" size="3546415104" crc="581c3f03" md5="f6cd6bf67d94b01823bef453a6e06ef6" sha1="d2c178a8c52f13870a43d30f540696449aafba18"/>
+	</game>
+	<game name="Xbox 360 World 85 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 85 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 85 (Europe) (Side A).iso" size="4156325888" crc="6cc1ff10" md5="d387d9976202e073daddfb5063097174" sha1="8ea0463c0beb9b683269fe09b499118348aca2ae"/>
+	</game>
+	<game name="Tokyo Game Show 2003 Capcom Special DVD (Japan)">
+		<category>Video</category>
+		<description>Tokyo Game Show 2003 Capcom Special DVD (Japan)</description>
+		<rom name="Tokyo Game Show 2003 Capcom Special DVD (Japan).iso" size="3319136256" crc="b53b40e6" md5="1b98e1fd4bd2fb171ec8fc044b3372be" sha1="f6e7786475e81f2905a588ccd1501465d860fd65"/>
+	</game>
+	<game name="Tokyo Game Show 2004 Capcom Special DVD (Japan)">
+		<category>Video</category>
+		<description>Tokyo Game Show 2004 Capcom Special DVD (Japan)</description>
+		<rom name="Tokyo Game Show 2004 Capcom Special DVD (Japan).iso" size="3522019328" crc="9eae0986" md5="8acf8f5341979f01f0f1628b9bab6cca" sha1="2697f08f4e6884381063191894c5a479da91861e"/>
+	</game>
+	<game name="Tokyo Game Show 2005 Capcom Special DVD (Japan)">
+		<category>Video</category>
+		<description>Tokyo Game Show 2005 Capcom Special DVD (Japan)</description>
+		<rom name="Tokyo Game Show 2005 Capcom Special DVD (Japan).iso" size="3842525184" crc="988b34c3" md5="a84f6606bf5ab868d1a898956f178481" sha1="80d7e31868a6df8d4b7308b39824f4fbec5bf714"/>
+	</game>
+	<game name="Anniversary Special DVD (Japan)">
+		<category>Video</category>
+		<description>Anniversary Special DVD (Japan)</description>
+		<rom name="Anniversary Special DVD (Japan).iso" size="2508199936" crc="2e6a2671" md5="c0cfe79945c40d4183ef8dfa0adbd732" sha1="6b5099ef1a9ee3ba6478a813d660f705de7a4d18"/>
+	</game>
+	<game name="England's Path to Portugal (Europe)">
+		<category>Games</category>
+		<description>England's Path to Portugal (Europe)</description>
+		<rom name="England's Path to Portugal (Europe).iso" size="7573424128" crc="a1b9a012" md5="b930b857e29981b6f4f3ff9070062395" sha1="471c51bea54e857a986c2213283466d86043cd87"/>
+	</game>
+	<game name="Xbox 360 Vision Volume 22 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 Vision Volume 22 (Europe)</description>
+		<rom name="Xbox 360 Vision Volume 22 (Europe).iso" size="4642832384" crc="7110b8dc" md5="04221427f2fcb63c3086db8bba47f584" sha1="dd8e9c5941d49bcabcf154d2c659cc5148bb4117"/>
+	</game>
+	<game name="Xbox World 22 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox World 22 (Europe)</description>
+		<rom name="Xbox World 22 (Europe).iso" size="4033282048" crc="07e5d57a" md5="1d489f713526d415b9aba65979bfa7cf" sha1="eb0306316610fa4265f9324e4e60058c0a738c5d"/>
+	</game>
+	<game name="Xbox 360 World 42 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 42 (Europe)</description>
+		<rom name="Xbox 360 World 42 (Europe).iso" size="3236855808" crc="1865634e" md5="69e118203cab606f033cdf546cac1376" sha1="ab8a29f07013b55072a72bcb58c7888bda42ef6a"/>
+	</game>
+	<game name="Xbox 360 Vision Volume 53 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 Vision Volume 53 (Europe)</description>
+		<rom name="Xbox 360 Vision Volume 53 (Europe).iso" size="3557031936" crc="961fbddc" md5="e7b6a951fd1356de5e463d31e51ceeea" sha1="f54e55495953d4b1441105dd7847e4d02f86724d"/>
+	</game>
+	<game name="Xbox 360 Vision Volume 44 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 Vision Volume 44 (Europe)</description>
+		<rom name="Xbox 360 Vision Volume 44 (Europe).iso" size="3247538176" crc="6aec3791" md5="826a1dd96836a752fece6d3a2d35fd87" sha1="798f41fb6f7e0af36fbea1b9d50c7cc434e2cfc1"/>
+	</game>
+	<game name="Xbox 360 Vision Volume 49 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 Vision Volume 49 (Europe)</description>
+		<rom name="Xbox 360 Vision Volume 49 (Europe).iso" size="4168515584" crc="edc8b963" md5="b88fa6b27cc468ab8bd19ca5316638d2" sha1="b8d62897536b1c5fe4f45f6d11e01a69109e43c4"/>
+	</game>
+	<game name="Xbox 360 Vision Volume 48 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 Vision Volume 48 (Europe)</description>
+		<rom name="Xbox 360 Vision Volume 48 (Europe).iso" size="4319543296" crc="c9c5fef3" md5="df171d614aee60387a09c610aa2cde6f" sha1="90ed43b4ba5d450a84a31345fdba8c65b2d56fac"/>
+	</game>
+	<game name="Xbox 360 Vision Volume 62 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 Vision Volume 62 (Europe)</description>
+		<rom name="Xbox 360 Vision Volume 62 (Europe).iso" size="4532666368" crc="578d17ea" md5="1163bc550ab310f80b065679d113f904" sha1="8cd71c0bec4bada51bae84588e40bfa7a4091cef"/>
+	</game>
+	<game name="PSM2 Volume 45 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 45 (Europe)</description>
+		<rom name="PSM2 Volume 45 (Europe).iso" size="4402642944" crc="c200ed61" md5="a944b176e0f3529c743417754a0a9be5" sha1="6b2e071c136c2a00d9a1541128547d9a4654efc9"/>
+	</game>
+	<game name="PSM2 Volume 44 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 44 (Europe)</description>
+		<rom name="PSM2 Volume 44 (Europe).iso" size="4452843520" crc="baef1de5" md5="35874bf19cfe313a492ac1084718778c" sha1="678e12ccf4b406b253dff7f54b6f10969b9ac9fe"/>
+	</game>
+	<game name="PSM2 Volume 43 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 43 (Europe)</description>
+		<rom name="PSM2 Volume 43 (Europe).iso" size="4389634048" crc="0b83d831" md5="984c3af567f62f284aab4bb3a16c5d5f" sha1="ab69f6e210bfecd1cfcf6621a99b580ad501442f"/>
+	</game>
+	<game name="PSM2 Volume 42 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 42 (Europe)</description>
+		<rom name="PSM2 Volume 42 (Europe).iso" size="4544823296" crc="456c2e3f" md5="bed9a18f5e3a21b00dce8a80d9082440" sha1="b3b54f694ae1732c7a47ced8dd96b26c548e19fb"/>
+	</game>
+	<game name="PSM2 Volume 41 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 41 (Europe)</description>
+		<rom name="PSM2 Volume 41 (Europe).iso" size="4227465216" crc="f6654a07" md5="121a39ef5ed10701b516d8d3967e55ab" sha1="b88019ada029794f2115742c33d32235d6ceb208"/>
+	</game>
+	<game name="PSM2 Volume 36 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 36 (Europe)</description>
+		<rom name="PSM2 Volume 36 (Europe).iso" size="4137418752" crc="41f9ec73" md5="e93d2bc3c2d93608794d0754eedb7c28" sha1="55d7e16efcd473a2ce0aabdd7c6d289a63f021e8"/>
+	</game>
+	<game name="PSWorld Volume 39 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 39 (Europe) (Side A)</description>
+		<rom name="PSWorld Volume 39 (Europe) (Side A).iso" size="4643348480" crc="2d625ecd" md5="6ce5a9c6194c7d4b2509be72ab3e7f5e" sha1="b436d7942261fb5608b5c47028103022f49fde0a"/>
+	</game>
+	<game name="PSWorld Volume 39 (Europe) (Side B) (Space Ace)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 39 (Europe) (Side B) (Space Ace)</description>
+		<rom name="PSWorld Volume 39 (Europe) (Side B) (Space Ace).iso" size="4086759424" crc="389456de" md5="8a1e877d60126f1acbafcf6340e27141" sha1="c136d280d47a6f1e0c88d8672a2854619aad663a"/>
+	</game>
+	<game name="PSWorld Volume 40 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 40 (Europe) (Side A)</description>
+		<rom name="PSWorld Volume 40 (Europe) (Side A).iso" size="4253032448" crc="92c0aa29" md5="960decef2c201cd0ab4ffb325df63ac1" sha1="f4221322642122f0ea1432fa39e27db371d68d41"/>
+	</game>
+	<game name="PSWorld Volume 40 (Europe) (Side B) (Mad Dog McRee)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 40 (Europe) (Side B) (Mad Dog McRee)</description>
+		<rom name="PSWorld Volume 40 (Europe) (Side B) (Mad Dog McRee).iso" size="3382935552" crc="5d88fe93" md5="93a7d17582b0f829f227ddc24d7f9108" sha1="11c50e69fcc59f8dae4171153777f6ff6be72c54"/>
+	</game>
+	<game name="PSM3 91 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 91 (Europe) (Side A)</description>
+		<rom name="PSM3 91 (Europe) (Side A).iso" size="3469574144" crc="a1704a48" md5="287c98b3ac63634e6a509da6b34048f3" sha1="8f08b2158f1cab0f387aa3c1e385823662bb8277"/>
+	</game>
+	<game name="Xbox 360 World 81 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 81 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 81 (Europe) (Side A).iso" size="4653842432" crc="a1b59657" md5="cfa3f9fd75f34388ef2a3653e77224b0" sha1="792b0799037fbed4673aca25661c66bb6522f64b"/>
+	</game>
+	<game name="Xbox 360 World 83 (Europe) (Side A)">
+		<category>Games</category>
+		<description>Xbox 360 World 83 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 83 (Europe) (Side A).iso" size="4494884864" crc="9316ccab" md5="9e2c20979f1071a2c93e1fb3a7511c3b" sha1="93e2d78ff19f5bb4f2734f0f8fe4e11841f7a444"/>
+	</game>
+	<game name="PSM2 Volume 35 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 35 (Europe)</description>
+		<rom name="PSM2 Volume 35 (Europe).iso" size="4567465984" crc="b33fffc1" md5="eddf2a45012442a2116bb9f1bd73a7b9" sha1="a1c748a6238728e9c341bf72bbd95e03cc7260cc"/>
+	</game>
+	<game name="PSM2 Volume 33 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 33 (Europe)</description>
+		<rom name="PSM2 Volume 33 (Europe).iso" size="4498194432" crc="6a31cb45" md5="ee12ff69eb31f13a5e885fe3bb3fa107" sha1="cbba83e2e30e02c1fa2808fd8c1ae0e2bf6babcf"/>
+	</game>
+	<game name="PSM2 Volume 30 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 30 (Europe)</description>
+		<rom name="PSM2 Volume 30 (Europe).iso" size="3877994496" crc="121ec382" md5="e47af41ab73ca60e53fa802b61747dd6" sha1="dad67cf4912177a61da23d30918c75adbb891265"/>
+	</game>
+	<game name="PSM2 Volume 29 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 29 (Europe)</description>
+		<rom name="PSM2 Volume 29 (Europe).iso" size="8204845056" crc="08e4710b" md5="6f1e57f09ba62446e9bd73a30a5730c7" sha1="99e4b80e47be031d6fa320fa184690da47bdf9d3"/>
+	</game>
+	<game name="PSWorld Volume 5 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 5 (Europe)</description>
+		<rom name="PSWorld Volume 5 (Europe).iso" size="3704498176" crc="9a267b46" md5="8537f4a597f04942f42157cd03c87c76" sha1="6f62b38bf898aab44ad431349222bb6ebdb73469"/>
+	</game>
+	<game name="PSWorld Volume 6 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 6 (Europe)</description>
+		<rom name="PSWorld Volume 6 (Europe).iso" size="4464265216" crc="aa315504" md5="7e421e99805542f6c7d267c22d651ee5" sha1="d14375d11380838a9f74b683e46e5fa387cff46d"/>
+	</game>
+	<game name="PSWorld Volume 7 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 7 (Europe)</description>
+		<rom name="PSWorld Volume 7 (Europe).iso" size="4329705472" crc="8fffa024" md5="25c4fae5297f462d6342ae6dfe146d9c" sha1="77912cf989d9ee328da9123ee10c8a2d1c3e4bf9"/>
+	</game>
+	<game name="PSWorld Volume 8 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 8 (Europe)</description>
+		<rom name="PSWorld Volume 8 (Europe).iso" size="4177633280" crc="b3d41771" md5="f702812748b634308c2c2270ebf371a9" sha1="d6276b4a58e87568fbde5de779a6b0a26a053429"/>
+	</game>
+	<game name="PSWorld Volume 9 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 9 (Europe)</description>
+		<rom name="PSWorld Volume 9 (Europe).iso" size="3986245632" crc="9e83091b" md5="8ff3b6fa89788b4dd18b371fd535c357" sha1="f61ab1ad3a519969f2d032ba129d5561c7eef0aa"/>
+	</game>
+	<game name="PSWorld Volume 10 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 10 (Europe)</description>
+		<rom name="PSWorld Volume 10 (Europe).iso" size="3677403136" crc="54d437a6" md5="cc00cc70d03a8d5aebdf61ddc46b7180" sha1="997bcf97675777dba9c1a36875f63f9e5f2018b0"/>
+	</game>
+	<game name="PSWorld Volume 13 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 13 (Europe)</description>
+		<rom name="PSWorld Volume 13 (Europe).iso" size="4363929600" crc="d50eec59" md5="d087b6510ef34db4466aa5e3b12fa0d4" sha1="0f99753d55bb46fddd4bc01fbc8ca3e6d197463a"/>
+	</game>
+	<game name="PSWorld Volume 14 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 14 (Europe)</description>
+		<rom name="PSWorld Volume 14 (Europe).iso" size="4437911552" crc="47755aa5" md5="0d073bfcee4f897959786546707f2f35" sha1="f0ab09fbcd5f60d95bee28501481559c9471cbc5"/>
+	</game>
+	<game name="PSWorld Volume 18 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 18 (Europe)</description>
+		<rom name="PSWorld Volume 18 (Europe).iso" size="4539985920" crc="ba8232cb" md5="cabdd688c7e070d124c0c6b5f982cd4a" sha1="0bd9e342619bf6c9887db116abad7e16edc07426"/>
+	</game>
+	<game name="PSWorld Volume 24 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 24 (Europe)</description>
+		<rom name="PSWorld Volume 24 (Europe).iso" size="4579139584" crc="922e8abb" md5="dc7a785da617dc258359d3f35303cb92" sha1="5bbdd09f17a5bc0c21df621a886142501a13b671"/>
+	</game>
+	<game name="PSWorld Volume 29 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 29 (Europe)</description>
+		<rom name="PSWorld Volume 29 (Europe).iso" size="4483231744" crc="8915c411" md5="ca133fdfe95a2404489adee54cff8411" sha1="4d8e87836ad0148c6644adfc45e5b0f1367ac71c"/>
+	</game>
+	<game name="PSWorld Volume 30 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 30 (Europe)</description>
+		<rom name="PSWorld Volume 30 (Europe).iso" size="4577001472" crc="f0546bd0" md5="54bc7dd224a321e5147aef524d5aa882" sha1="1e14445c26a8aa9936cb0a8cecf544ef9aec6a99"/>
+	</game>
+	<game name="PSWorld Volume 31 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 31 (Europe)</description>
+		<rom name="PSWorld Volume 31 (Europe).iso" size="4647026688" crc="a53d48c8" md5="94c3b1c1137ee2b1e6490a5fd1cf54f1" sha1="5758cd3566ba63bc2933e60809405e445d1ae3d4"/>
+	</game>
+	<game name="PSWorld Volume 33 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 33 (Europe)</description>
+		<rom name="PSWorld Volume 33 (Europe).iso" size="4649943040" crc="9b0baab1" md5="23e2e2449955d096729938fc9fcdf148" sha1="8b74242993b56c0ed2e66caaf8c0d180928263ac"/>
+	</game>
+	<game name="PSWorld Volume 35 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 35 (Europe)</description>
+		<rom name="PSWorld Volume 35 (Europe).iso" size="4345982976" crc="ba61b271" md5="bc56fd3513ddb71f66595b860dc7c6e3" sha1="dd179e9b0d4d27d13d572b66fb9fc0982781a5d9"/>
+	</game>
+	<game name="PSWorld Volume 38 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 38 (Europe)</description>
+		<rom name="PSWorld Volume 38 (Europe).iso" size="4635756544" crc="c80f0423" md5="98cc9b2c7965b288f80f6b31fc765aff" sha1="096bb92eae2b799f061deb2d1ba789697839b9f9"/>
+	</game>
+	<game name="Madden NFL 07 (USA) (Bonus Content) (Hall of Fame Edition)">
+		<category>Games</category>
+		<description>Madden NFL 07 (USA) (Bonus Content) (Hall of Fame Edition)</description>
+		<rom name="Madden NFL 07 (USA) (Bonus Content) (Hall of Fame Edition).iso" size="3541762048" crc="f28134ac" md5="3bf475be25aee0e8f91f51062c99874c" sha1="dd7b942721a27b6ce7263b9dce882efcdb3e4714"/>
+	</game>
+	<game name="X-Zone DVD 01-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>X-Zone DVD 01-2002 (Germany)</description>
+		<rom name="X-Zone DVD 01-2002 (Germany).iso" size="3267919872" crc="ddf96af9" md5="8fd935bda215b61172e95f16f35b52a4" sha1="163c5714afe1fd2f6d2c47c00102b0dfa32a27c4"/>
+	</game>
+	<game name="X-Zone DVD 02-2002 (Germany)">
+		<category>Coverdiscs</category>
+		<description>X-Zone DVD 02-2002 (Germany)</description>
+		<rom name="X-Zone DVD 02-2002 (Germany).iso" size="2636578816" crc="1e2ac76e" md5="d172bf84a4b7cd0b3ca22e0d6b3d09f5" sha1="4f806ffe62289b3e8bebabff11b0476eff75d7c0"/>
+	</game>
+	<game name="X-Zone DVD 01-2003 (Germany)">
+		<category>Coverdiscs</category>
+		<description>X-Zone DVD 01-2003 (Germany)</description>
+		<rom name="X-Zone DVD 01-2003 (Germany).iso" size="2997223424" crc="844284bb" md5="85e78311b36a7edf7d564a41b5cf1a6a" sha1="15a11df2c9cd487135f8b243ef7facd61d92da80"/>
+	</game>
+	<game name="Xbox Zone DVD 05-06-2006 (Germany)">
+		<category>Coverdiscs</category>
+		<description>Xbox Zone DVD 05-06-2006 (Germany)</description>
+		<rom name="Xbox Zone DVD 05-06-2006 (Germany).iso" size="4690739200" crc="e11a6aad" md5="9d9ecc92a3fc51923a72d0b73b401550" sha1="c55900240bb622ff671d3b6c8af3060f4e4394f5"/>
+	</game>
+	<game name="Games Aktuell DVD 01-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Games Aktuell DVD 01-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Games Aktuell DVD 01-11 (Germany) (Seite 1) (Video-DVD).iso" size="3617783808" crc="bc7ede2a" md5="78980d6f8024ec60a875ef1e3cc41c96" sha1="9f7a2c9bbf310908d71f06010b0d10e97cfc9a3c"/>
+	</game>
+	<game name="Games Aktuell DVD 04-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Games Aktuell DVD 04-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Games Aktuell DVD 04-11 (Germany) (Seite 1) (Video-DVD).iso" size="4145184768" crc="7c411052" md5="61c9603a472e665d982e42aa4dd660ec" sha1="83b89a9a64c75cd37c155772384d91c2a25c9b7c"/>
+	</game>
+	<game name="Games Aktuell DVD 05-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Games Aktuell DVD 05-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Games Aktuell DVD 05-11 (Germany) (Seite 1) (Video-DVD).iso" size="4270456832" crc="24bb019f" md5="374dbf8e1682c136ba45e799fa3fe664" sha1="9d6005e1b652353cf5c2358792f56f9dbb9f875f"/>
+	</game>
+	<game name="Games Aktuell DVD 07-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Games Aktuell DVD 07-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Games Aktuell DVD 07-11 (Germany) (Seite 1) (Video-DVD).iso" size="4390879232" crc="136c9c14" md5="d908dedf7b7cace068c82e027e479d79" sha1="f78a8e41d6ddd5d3d306a51400dcf2c59c64495e"/>
+	</game>
+	<game name="Play 3 DVD 03-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Play 3 DVD 03-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Play 3 DVD 03-11 (Germany) (Seite 1) (Video-DVD).iso" size="4633460736" crc="c25294db" md5="46d30cf0c38d3852a8438377192b295c" sha1="a303f77cfaf0f66814a5b11115047b401e7e12eb"/>
+	</game>
+	<game name="Play 3 DVD 04-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Play 3 DVD 04-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Play 3 DVD 04-11 (Germany) (Seite 1) (Video-DVD).iso" size="4624384000" crc="38c39ecb" md5="9ed74f334e1f53f3b663d12c6cde8652" sha1="6b1406212d43390f8d86ff216ab1a1078fa21aad"/>
+	</game>
+	<game name="Play 3 DVD 05-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Play 3 DVD 05-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Play 3 DVD 05-11 (Germany) (Seite 1) (Video-DVD).iso" size="4553277440" crc="70ce1a8d" md5="4638f493a8d738c75213d1e05b417080" sha1="84005875dd5e0b2a72d55117dde55c33ea67fafe"/>
+	</game>
+	<game name="Play 3 DVD 06-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Play 3 DVD 06-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Play 3 DVD 06-11 (Germany) (Seite 1) (Video-DVD).iso" size="4546199552" crc="f7cba29b" md5="9add280fe2a8babd6f624cb624ff8d7b" sha1="2d0ab281bf3d06820549f48ffc85a0ba4122704d"/>
+	</game>
+	<game name="Play 3 DVD 07-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Play 3 DVD 07-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Play 3 DVD 07-11 (Germany) (Seite 1) (Video-DVD).iso" size="4260200448" crc="e5af1ce9" md5="c5b07a7445edd0c9778b2fa775420310" sha1="9db842152c583e5ee649e963aff532cb56567bfb"/>
+	</game>
+	<game name="Play 3 DVD 09-11 (Germany) (Seite 1) (Video-DVD)">
+		<category>Coverdiscs</category>
+		<description>Play 3 DVD 09-11 (Germany) (Seite 1) (Video-DVD)</description>
+		<rom name="Play 3 DVD 09-11 (Germany) (Seite 1) (Video-DVD).iso" size="4651089920" crc="74c422cc" md5="4d5ef1f7799e27e16da7fd9815cbb6d4" sha1="163135b2d9e6b2d717a5d12983e799fb0ae9e902"/>
+	</game>
+	<game name="Scarface - The World Is Yours (Bonus DVD-Video) (USA)">
+		<category>Bonus Discs</category>
+		<description>Scarface - The World Is Yours (Bonus DVD-Video) (USA)</description>
+		<rom name="Scarface - The World Is Yours (Bonus DVD-Video) (USA).iso" size="4613406720" crc="e61dfd99" md5="955ef38fea7ff6f7d212c22a6c58b16e" sha1="b6651a65ce741cf29adf46567c6b27fd1914a906"/>
+	</game>
+	<game name="Lime-iro Senkitan Jun (Japan) (Premium Eizou DVD - Lime-iro Tai Jun)">
+		<category>Bonus Discs</category>
+		<description>Lime-iro Senkitan Jun (Japan) (Premium Eizou DVD - Lime-iro Tai Jun)</description>
+		<rom name="Lime-iro Senkitan Jun (Japan) (Premium Eizou DVD - Lime-iro Tai Jun).iso" size="2717673472" crc="cf91df83" md5="fe9e2feda9dc5681a20d4e46d914ed52" sha1="e11d44abaf3a390737407bca1afa6f05398dc57e"/>
+	</game>
+	<game name="Mobile Suit Gundam - From Game Animation Digest-ban (Japan)">
+		<category>Bonus Discs</category>
+		<description>Mobile Suit Gundam - From Game Animation Digest-ban (Japan)</description>
+		<rom name="Mobile Suit Gundam - From Game Animation Digest-ban (Japan).iso" size="1475915776" crc="9c99d8c4" md5="82d3cd6ac07882c55d9e523327f30804" sha1="b59767df7073cb6fc28c9b93ee71ff0f6dcd9351"/>
+	</game>
+	<game name="Elder Scrolls IV, The - Oblivion (Poland) (En,Fr,De,Es,It) (Plyta Bonusowa)">
+		<category>Bonus Discs</category>
+		<description>Elder Scrolls IV, The - Oblivion (Poland) (En,Fr,De,Es,It) (Plyta Bonusowa)</description>
+		<rom name="Elder Scrolls IV, The - Oblivion (Poland) (En,Fr,De,Es,It) (Plyta Bonusowa).iso" size="2580709376" crc="822c8e8d" md5="f24087d4f136ae1572d60c8995dee5ca" sha1="99865cf8a6a37eaf59c2a67aeff0646f31f24ea7"/>
+	</game>
+	<game name="Wiedzmin 2 - Zabojcy Krolow (Poland) (En,Fr,De,Pl) (Video DVD)">
+		<category>Bonus Discs</category>
+		<description>Wiedzmin 2 - Zabojcy Krolow (Poland) (En,Fr,De,Pl) (Video DVD)</description>
+		<rom name="Wiedzmin 2 - Zabojcy Krolow (Poland) (En,Fr,De,Pl) (Video DVD).iso" size="4572741632" crc="4150ce9c" md5="09fb9abf82f8d6bb21676ded9acd8d77" sha1="8a04b456ef42a1068252da9d83a4a26f18d616cd"/>
+	</game>
+	<game name="Ninja Gaiden 3 Tentou Promotion Movie (Japan)">
+		<category>Video</category>
+		<description>Ninja Gaiden 3 Tentou Promotion Movie (Japan)</description>
+		<rom name="Ninja Gaiden 3 Tentou Promotion Movie (Japan).iso" size="357591040" crc="a07343f6" md5="cb1fb91d364379a3328c1b5f66724c59" sha1="93500e11d5e4bc4c66c36cfcfbebe2a366b504b5"/>
+	</game>
+	<game name="Dragon Ball Z - Budokai 3 Exclusive Bonus DVD (USA)">
+		<category>Bonus Discs</category>
+		<description>Dragon Ball Z - Budokai 3 Exclusive Bonus DVD (USA)</description>
+		<rom name="Dragon Ball Z - Budokai 3 Exclusive Bonus DVD (USA).iso" size="1882488832" crc="e77acecc" md5="9c31102a5722056e2ef295d7fc010c70" sha1="020548e07c8ae8fe607e07c425ee68997fa9da14"/>
+	</game>
+	<game name="Who Shot Johnny Rock (USA)">
+		<category>Games</category>
+		<description>Who Shot Johnny Rock (USA)</description>
+		<rom name="Who Shot Johnny Rock (USA).iso" size="4095901696" crc="8872939b" md5="87352deec99c70c3f6c843c7473af314" sha1="86a8e9cfe3851b25316e5a3c68b955e08ea9c7e2"/>
+	</game>
+	<game name="Thayer's Quest (USA)">
+		<category>Games</category>
+		<description>Thayer's Quest (USA)</description>
+		<rom name="Thayer's Quest (USA).iso" size="4474634240" crc="2db8b723" md5="8612853c7fdb0d812bff54d8b8be35ab" sha1="1e0b08d9245f1b7cab5ef0eece8c17655db7b4a9"/>
+	</game>
+	<game name="Kingdom II - Shadoan (USA)">
+		<category>Games</category>
+		<description>Kingdom II - Shadoan (USA)</description>
+		<rom name="Kingdom II - Shadoan (USA).iso" size="4381925376" crc="2d2fb144" md5="86a2964978788d12916decebf695af45" sha1="b7b62f106136eff461b8d70d7152672a42927c69"/>
+	</game>
+	<game name="Star Wars - The Force Unleashed (Europe) (En,De) (Cinematic DVD)">
+		<category>Bonus Discs</category>
+		<description>Star Wars - The Force Unleashed (Europe) (En,De) (Cinematic DVD)</description>
+		<rom name="Star Wars - The Force Unleashed (Europe) (En,De) (Cinematic DVD).iso" size="4094132224" crc="7bf1e1c4" md5="98577686ac38f8fe90f69d63ad8ec0e1" sha1="ee711d305ba0cfea882e4e1f1d05e6de24e473ca"/>
+	</game>
+	<game name="Need for Speed - Carbon - Collector's Edition (Europe) (Bonus Disc)">
+		<category>Bonus Discs</category>
+		<description>Need for Speed - Carbon - Collector's Edition (Europe) (Bonus Disc)</description>
+		<rom name="Need for Speed - Carbon - Collector's Edition (Europe) (Bonus Disc).iso" size="3346866176" crc="5a7fd00d" md5="15f0c466c73d7b9d39f0bbb807e90e9b" sha1="3bd46e055edd91aee4888c032f895d1f21f20d65"/>
+	</game>
+	<game name="Dragon's Lair (Europe)">
+		<category>Games</category>
+		<description>Dragon's Lair (Europe)</description>
+		<rom name="Dragon's Lair (Europe).iso" size="4641685504" crc="51dc7db2" md5="2b32680b6140d75013418bf003c78967" sha1="3ff1ccb267a10bcb11c6628d289ec128e10af845"/>
+	</game>
+	<game name="Space Ace (Europe)">
+		<category>Games</category>
+		<description>Space Ace (Europe)</description>
+		<rom name="Space Ace (Europe).iso" size="4087218176" crc="a1d372ce" md5="337fce1e663caa5ad98e1fafb2aed039" sha1="7ab2a89c52fdf388b65d5efae0c04b0e5921e819"/>
+	</game>
+	<game name="Dragon's Lair II - Time Warp (USA) (Alt)">
+		<category>Games</category>
+		<description>Dragon's Lair II - Time Warp (USA) (Alt)</description>
+		<rom name="Dragon's Lair II - Time Warp (USA) (Alt).iso" size="4400578560" crc="1aa7e212" md5="cc2e803e3640d5162cac7f9e78e2162f" sha1="b31819d5cb12940f9fbbee02adbb6319320b90c1"/>
+	</game>
+	<game name="Space Pirates (Europe)">
+		<category>Games</category>
+		<description>Space Pirates (Europe)</description>
+		<rom name="Space Pirates (Europe).iso" size="4441767936" crc="9198815c" md5="2586726557abdf5f1835fab44de81f09" sha1="900a984b8b94df13285374ee8b8998c82e05b6a7"/>
+	</game>
+	<game name="Growlanser IV - Original Animation (Japan)">
+		<category>Bonus Discs</category>
+		<description>Growlanser IV - Original Animation (Japan)</description>
+		<rom name="Growlanser IV - Original Animation (Japan).iso" size="3911763968" crc="a778d783" md5="c4caf6256a5d094d11d81fd17d6f59f6" sha1="95de8185a3698221eb9d75813b3e5e471863a1ea"/>
+	</game>
+	<game name="Play Season 24 (Issue 158) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 24 (Issue 158) (Europe)</description>
+		<rom name="Play Season 24 (Issue 158) (Europe).iso" size="4448813056" crc="85db8e32" md5="db484b5b236daea5c555a74241cd6e6d" sha1="85be0d80c91e46430fb2cfd5562c72237a479821"/>
+	</game>
+	<game name="Play Season 25 (Issue 159) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 25 (Issue 159) (Europe)</description>
+		<rom name="Play Season 25 (Issue 159) (Europe).iso" size="4352671744" crc="1292864a" md5="aa49cd299ee9341feddc2cdffca0abd0" sha1="d3fa47b8d2a1e4eb33d59205b00ddd25b99e7776"/>
+	</game>
+	<game name="Wiedzmin - Edycja Rozszerzona (Poland) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Video DVD - Materialy Filmowe)">
+		<category>Bonus Discs</category>
+		<description>Wiedzmin - Edycja Rozszerzona (Poland) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Video DVD - Materialy Filmowe)</description>
+		<rom name="Wiedzmin - Edycja Rozszerzona (Poland) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Video DVD - Materialy Filmowe).iso" size="8187215872" crc="902367a3" md5="b0e2835a8a8b988dffb2724763453d87" sha1="cb659447171be6c085e728fd5089cdc90c32fcfe"/>
+	</game>
+	<game name="Play Season 28 (Issue 162) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 28 (Issue 162) (Europe)</description>
+		<rom name="Play Season 28 (Issue 162) (Europe).iso" size="4457267200" crc="2c2e08af" md5="352b518aed603fbc29204abdc6fc94d5" sha1="9c8ca6fe445eb30990e3b75f2e5c1b929950192f"/>
+	</game>
+	<game name="Play Season 29 (Issue 163) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 29 (Issue 163) (Europe)</description>
+		<rom name="Play Season 29 (Issue 163) (Europe).iso" size="4085153792" crc="bf6b2b28" md5="7f7dc3cc1b7e6426dc762159b057d538" sha1="78d85070f26c763db441cce72da06d1e1ba33860"/>
+	</game>
+	<game name="Play Season 30 (Issue 164) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 30 (Issue 164) (Europe)</description>
+		<rom name="Play Season 30 (Issue 164) (Europe).iso" size="4396679168" crc="1b462534" md5="71099f95cb7c1870a4e28938d298a4f1" sha1="08e7b9a6d3532e788ae0581893ae4c5671cae738"/>
+	</game>
+	<game name="Play Season 32 (Issue 166) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 32 (Issue 166) (Europe)</description>
+		<rom name="Play Season 32 (Issue 166) (Europe).iso" size="4142301184" crc="bb00ba7b" md5="40e7ff983c28a87466603fef3942dbe4" sha1="b35d3eda3116e02e69f983c96425a8f1cc49a8de"/>
+	</game>
+	<game name="Play Season 34 (Issue 168) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 34 (Issue 168) (Europe)</description>
+		<rom name="Play Season 34 (Issue 168) (Europe).iso" size="4182802432" crc="1f55803a" md5="9eeeda3cbe66233e4b35cbeaec1d552c" sha1="c3b670115f8cc7078e1da8e74b9e81a3bf23e348"/>
+	</game>
+	<game name="Play Season 35 (Issue 169) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 35 (Issue 169) (Europe)</description>
+		<rom name="Play Season 35 (Issue 169) (Europe).iso" size="4261249024" crc="42fe3760" md5="4d47ee8dac2dd61288ce0dfa63cd2ba6" sha1="43b68f5fe969a7577539c0e5787705d3920d873b"/>
+	</game>
+	<game name="Play Season 38 (Issue 172) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 38 (Issue 172) (Europe)</description>
+		<rom name="Play Season 38 (Issue 172) (Europe).iso" size="4199055360" crc="80cf06a3" md5="f2ec3ae57454d6732b9342e78fad354b" sha1="7e3653c30d9277a5c74d4fb003bef068389cffe8"/>
+	</game>
+	<game name="Play Season 40 (Issue 174) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 40 (Issue 174) (Europe)</description>
+		<rom name="Play Season 40 (Issue 174) (Europe).iso" size="3174334464" crc="c8301077" md5="90786991d4f462de59b265d3d64af5fe" sha1="e17bc8f7bee375450353ff88c2a587a5417df98d"/>
+	</game>
+	<game name="Play Season 43 (Issue 177) (Europe)">
+		<category>Coverdiscs</category>
+		<description>Play Season 43 (Issue 177) (Europe)</description>
+		<rom name="Play Season 43 (Issue 177) (Europe).iso" size="4391239680" crc="a26a59c0" md5="449a1dd76e6e34b6f9846c6e0b405b16" sha1="df3da6d04e9278492a874aa338b62e8ccff13e62"/>
+	</game>
+	<game name="PSWorld Volume 93 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 93 (Europe)</description>
+		<rom name="PSWorld Volume 93 (Europe).iso" size="4417978368" crc="b74ca28a" md5="e78262dd7a37ce9ca09f2d311da79a5e" sha1="2b3048d2096eca6c85cb15cfeb69f6db2f566b08"/>
+	</game>
+	<game name="PSWorld Volume 108 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 108 (Europe) (Side A)</description>
+		<rom name="PSWorld Volume 108 (Europe) (Side A).iso" size="3570892800" crc="aa934dc2" md5="de1e3784886d88f4449f78ceb9de8bac" sha1="bb250c37bf66c71320c9b1b9bd82c7076621bb82"/>
+	</game>
+	<game name="PSWorld Volume 110 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 110 (Europe) (Side A)</description>
+		<rom name="PSWorld Volume 110 (Europe) (Side A).iso" size="4057137152" crc="af2a84cb" md5="8d9ac9edef202c9652ea123286c3c178" sha1="3be246c27ff775af9e1058339fab3551fa9edd97"/>
+	</game>
+	<game name="PSWorld Volume 111 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 111 (Europe) (Side A)</description>
+		<rom name="PSWorld Volume 111 (Europe) (Side A).iso" size="4152623104" crc="65de9e2a" md5="10d40c782dc6753a243be290b841d70d" sha1="6c4cd79b11038619a209a0f7367e7d57e6fec5cd"/>
+	</game>
+	<game name="PSWorld Volume 115 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 115 (Europe) (Side A)</description>
+		<rom name="PSWorld Volume 115 (Europe) (Side A).iso" size="3337191424" crc="b934f01f" md5="3cfc336723958e7ccde681810d3a0efb" sha1="623e3e48e475f7b3649ac214f2573c18cda01e7e"/>
+	</game>
+	<game name="PSWorld Volume 120 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 120 (Europe) (Side A)</description>
+		<rom name="PSWorld Volume 120 (Europe) (Side A).iso" size="2603483136" crc="4857d352" md5="eeb1748f6c8c02a0ec82aa9e45a187a8" sha1="abd87c3e7d55477fdb373b480addf74ed785c7dc"/>
+	</game>
+	<game name="PSWorld Volume 121 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 121 (Europe) (Side A)</description>
+		<rom name="PSWorld Volume 121 (Europe) (Side A).iso" size="3065020416" crc="e724c2f3" md5="a7996bd9d751e5bbfbaae3861de180a9" sha1="0eeb48ab60e0e60be020565a9ad841eaabb1df3f"/>
+	</game>
+	<game name="PSM3 114 (Europe) (Side B)">
+		<category>Coverdiscs</category>
+		<description>PSM3 114 (Europe) (Side B)</description>
+		<rom name="PSM3 114 (Europe) (Side B).iso" size="3411509248" crc="faa224da" md5="13620f2bb0839dc877e489a24bb64694" sha1="2f06a2ce31b036a8efa7ab55975b4115345b3de8"/>
+	</game>
+	<game name="PSM3 137 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 137 (Europe) (Side A)</description>
+		<rom name="PSM3 137 (Europe) (Side A).iso" size="3927048192" crc="686eb75a" md5="4b852cb23a4588506c7d2860d3b80424" sha1="6ee9e232e0d37c0f093a3e3c25d3013d0c42401d"/>
+	</game>
+	<game name="PSM3 130 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 130 (Europe) (Side A)</description>
+		<rom name="PSM3 130 (Europe) (Side A).iso" size="4535451648" crc="4de338ee" md5="fe38d0328ed03378c5215aab1e0d12a4" sha1="3d9a1950c955b64fa8210a7aabb7f69e58e9b4af"/>
+	</game>
+	<game name="PSM3 131 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 131 (Europe) (Side A)</description>
+		<rom name="PSM3 131 (Europe) (Side A).iso" size="4036722688" crc="aabb6481" md5="dd7767b329dbd11c3b1baf5ad155cd77" sha1="a564903e195519501c21d920cb7b1c1fb664c256"/>
+	</game>
+	<game name="PSM3 132 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 132 (Europe) (Side A)</description>
+		<rom name="PSM3 132 (Europe) (Side A).iso" size="4375805952" crc="e43f473b" md5="3866c60a5383113049ee252a5435e621" sha1="d04ae08dfe456303d796a995df50091094853477"/>
+	</game>
+	<game name="PSM3 133 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 133 (Europe) (Side A)</description>
+		<rom name="PSM3 133 (Europe) (Side A).iso" size="4505993216" crc="3ab47064" md5="9e8b9db8ab1c351058adc398caf820dc" sha1="d8d0c2834c660cd6fc6f282c25a7d03c8590006f"/>
+	</game>
+	<game name="PSM3 134 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 134 (Europe) (Side A)</description>
+		<rom name="PSM3 134 (Europe) (Side A).iso" size="4206034944" crc="7f905637" md5="b9ff4fb10a1071552ce41273e732d052" sha1="d404cf6f991da459166dce9d23cadd3baa07c022"/>
+	</game>
+	<game name="PSM3 135 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 135 (Europe) (Side A)</description>
+		<rom name="PSM3 135 (Europe) (Side A).iso" size="4253122560" crc="417a6675" md5="4739d6d5fbf00ed02cca9624d4c2de2a" sha1="9916aff34f66b148e2dd0bac0b66edc037921015"/>
+	</game>
+	<game name="PSM3 136 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 136 (Europe) (Side A)</description>
+		<rom name="PSM3 136 (Europe) (Side A).iso" size="4135649280" crc="f65b6065" md5="a7c5038d6051146fb414c5ba56a159a7" sha1="de89b2f477709ac303d37d732f1782013a03b722"/>
+	</game>
+	<game name="PSM3 129 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 129 (Europe) (Side A)</description>
+		<rom name="PSM3 129 (Europe) (Side A).iso" size="4468277248" crc="6d4b4471" md5="6a5befdf9c74844e370cdcc32ed5c808" sha1="28d52e8ebb933ed4b70397badafaa9871a4f2379"/>
+	</game>
+	<game name="PSM3 128 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 128 (Europe) (Side A)</description>
+		<rom name="PSM3 128 (Europe) (Side A).iso" size="4244832256" crc="b4a8c791" md5="d45488d57594772c6aca72c7fe0c4212" sha1="90cce01c32d274cf4925cff38e10d637748df3bc"/>
+	</game>
+	<game name="PSM3 127 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 127 (Europe) (Side A)</description>
+		<rom name="PSM3 127 (Europe) (Side A).iso" size="4378591232" crc="e90f982d" md5="083bc6258dbb9a21c0e1e8a8ccec97e9" sha1="ea14d58714e7b80e5eb2ddfced3c463c1dd0f4d2"/>
+	</game>
+	<game name="PSM3 119 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 119 (Europe) (Side A)</description>
+		<rom name="PSM3 119 (Europe) (Side A).iso" size="3808198656" crc="38267bd3" md5="ea9372ffa7014ac1bd32bb1bb2e86a89" sha1="8d1f09fbe27030f6ba857217ea51167b359e26b5"/>
+	</game>
+	<game name="PSM3 115 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 115 (Europe) (Side A)</description>
+		<rom name="PSM3 115 (Europe) (Side A).iso" size="4049469440" crc="c95a675d" md5="c4ac0f9aac7434591775e55bfd5546d3" sha1="58801f9e4644719d91a83ec0662bf5874648401e"/>
+	</game>
+	<game name="PSM3 113 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 113 (Europe) (Side A)</description>
+		<rom name="PSM3 113 (Europe) (Side A).iso" size="4159078400" crc="0b3e09cf" md5="4bb95e050516d539e2adcfa35cb8e606" sha1="cb1db052128d4c2d13b6e0964149eee68f239dca"/>
+	</game>
+	<game name="PSM3 105 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 105 (Europe) (Side A)</description>
+		<rom name="PSM3 105 (Europe) (Side A).iso" size="3767697408" crc="d7d82b3f" md5="24b59f3ff29bd8c7aff3eb9ca578797f" sha1="243943a6817095ce6b5554138d371f1b5e535cf2"/>
+	</game>
+	<game name="PSM3 104 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 104 (Europe) (Side A)</description>
+		<rom name="PSM3 104 (Europe) (Side A).iso" size="4015325184" crc="a41fd68a" md5="179997dfe1f6968bb7190b74de4bbc8e" sha1="f418e31a356ea79d0d1905e540d2f4cd33f53fb0"/>
+	</game>
+	<game name="PSM3 99 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 99 (Europe) (Side A)</description>
+		<rom name="PSM3 99 (Europe) (Side A).iso" size="3751444480" crc="31ac317b" md5="28d5629dc3a4eaa240f01e14fca6af66" sha1="82238769af150e53e150dbc54b45592a63f1a01e"/>
+	</game>
+	<game name="PSM3 98 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 98 (Europe) (Side A)</description>
+		<rom name="PSM3 98 (Europe) (Side A).iso" size="3222667264" crc="1e943fe5" md5="5563dd7ce00cad25a0f177d79ab66632" sha1="45e3f8d14eb346057d2fd9559c39cfbbc9f51ea5"/>
+	</game>
+	<game name="PSM3 97 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 97 (Europe) (Side A)</description>
+		<rom name="PSM3 97 (Europe) (Side A).iso" size="3544809472" crc="72942ea9" md5="7618c0119b3bd38d6157bb4cb74933ba" sha1="7010377ae63fcbea3858bb984bdb80c29dca12d7"/>
+	</game>
+	<game name="PSM3 95 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 95 (Europe) (Side A)</description>
+		<rom name="PSM3 95 (Europe) (Side A).iso" size="4498227200" crc="3341c624" md5="1e325ce8b6d7fe325a8c1dffc4083cb0" sha1="a68397013325e2521f3e94252e31c8ee476dac2b"/>
+	</game>
+	<game name="PSM3 94 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 94 (Europe) (Side A)</description>
+		<rom name="PSM3 94 (Europe) (Side A).iso" size="3424256000" crc="552f6067" md5="fdece3ce2291fbc260969b100e43410a" sha1="0310fcf46347b0ae63ca0a87e51da49f62afa7be"/>
+	</game>
+	<game name="PSM3 93 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 93 (Europe) (Side A)</description>
+		<rom name="PSM3 93 (Europe) (Side A).iso" size="3491430400" crc="89d9a686" md5="5a65648cf5d2a0aa020908162fa1ef64" sha1="43c2ef7deff4c36fba74c76bd825335855bbae10"/>
+	</game>
+	<game name="PSM3 92 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>PSM3 92 (Europe) (Side A)</description>
+		<rom name="PSM3 92 (Europe) (Side A).iso" size="4361519104" crc="402ade75" md5="bbad471b97e3b1764177e5bfaea0cc57" sha1="f0199f79ad63ff01f923fe8b15abc8a9ca172812"/>
+	</game>
+	<game name="PSM3 78 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM3 78 (Europe)</description>
+		<rom name="PSM3 78 (Europe).iso" size="3306815488" crc="18d96428" md5="eef1cf99798a8595c350bd4ee3d06b25" sha1="d5d40849741896142cc30d1bca3ddf043437cd33"/>
+	</game>
+	<game name="PSM3 80 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM3 80 (Europe)</description>
+		<rom name="PSM3 80 (Europe).iso" size="3295281152" crc="5ff1565f" md5="2652a1add16de030f23b5d3d2bb1203b" sha1="04d4b9944e17fa08f8d04848cba1c7c5fbae8c6d"/>
+	</game>
+	<game name="PSM3 83 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM3 83 (Europe)</description>
+		<rom name="PSM3 83 (Europe).iso" size="2769387520" crc="f714725f" md5="7b2df46c4b930f7a36d1fc8334f9826c" sha1="649dc2d0e1662082472993f5cc2f1a3e916a9698"/>
+	</game>
+	<game name="PSM3 85 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM3 85 (Europe)</description>
+		<rom name="PSM3 85 (Europe).iso" size="3641704448" crc="943995f0" md5="15914c65ebdb8f83f079c2536376e47f" sha1="2320c547ba9cfb48464c6f8a63bcc567679ab1c2"/>
+	</game>
+	<game name="PSM3 86 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM3 86 (Europe)</description>
+		<rom name="PSM3 86 (Europe).iso" size="3506208768" crc="ca71e25e" md5="0593992f5be9d396b94b5f93faa5f83e" sha1="ba42ac179bb9064999f622bd5e41b3ca8ecbaf69"/>
+	</game>
+	<game name="Xbox 360 World 50 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 50 (Europe)</description>
+		<rom name="Xbox 360 World 50 (Europe).iso" size="3043753984" crc="5699e7b1" md5="2c33f5d812d51312180fbdde59aa5317" sha1="d8c140daf58319de2c70a9d11ad05d0b20673891"/>
+	</game>
+	<game name="Xbox 360 World 47 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 47 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 47 (Europe) (Side A).iso" size="4567236608" crc="f2c8aea2" md5="64770bf9d93270901ad4e0366ed80ac9" sha1="69ded9b7be69e319265dcda5ceb5db254f70dd32"/>
+	</game>
+	<game name="Xbox 360 World 47 (Europe) (Side B)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 47 (Europe) (Side B)</description>
+		<rom name="Xbox 360 World 47 (Europe) (Side B).iso" size="3002859520" crc="de882430" md5="69614130f729c069c4ef86f958d09fcb" sha1="7e05b04311f46cc88de44ad2b1ea33257c41ff78"/>
+	</game>
+	<game name="Xbox 360 World 51 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 51 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 51 (Europe) (Side A).iso" size="3277619200" crc="a1a3aacb" md5="8188969487d8649302cce2720cce1fd2" sha1="703e71c091c8e65e49883d9334bbcf59cc361201"/>
+	</game>
+	<game name="Xbox 360 World 73 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 73 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 73 (Europe) (Side A).iso" size="4372398080" crc="78f8fbed" md5="fc5e025a4f9e72987737cbbef683061a" sha1="e66964f8d7b236e027312487b7cdd055f94d0663"/>
+	</game>
+	<game name="Xbox 360 World 76 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 76 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 76 (Europe) (Side A).iso" size="4645126144" crc="bcf56358" md5="759e2c7428ea66019b471780e0340c6b" sha1="9604b6f1a8396c2dce266ffa2c38375c65509796"/>
+	</game>
+	<game name="Xbox 360 World 77 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 77 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 77 (Europe) (Side A).iso" size="4678254592" crc="8a61cd7f" md5="ee005338b304d5c136ec9ea0dc6f0805" sha1="9b6c624599af2bf03ef3bd9070b9966ffbf66456"/>
+	</game>
+	<game name="Xbox 360 World 82 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 82 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 82 (Europe) (Side A).iso" size="4667670528" crc="9c52eba9" md5="427edda93c70fb44a8818cdcaf71c1e5" sha1="acbf9b5df89944b680234d1f28f5c56721bd52c6"/>
+	</game>
+	<game name="Xbox 360 World 87 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 87 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 87 (Europe) (Side A).iso" size="3491823616" crc="52722324" md5="fc88ec49f45c006c5add1fbee775ed98" sha1="3c8ecdce5a09598efa75c5718e8c3eae0463d750"/>
+	</game>
+	<game name="Xbox 360 World 88 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 88 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 88 (Europe) (Side A).iso" size="4057628672" crc="b2b16ae5" md5="48441a2823b278a688e5fc81b951844f" sha1="e82aef4f5063975c20d0f1b805ef5c6cd36b0e7d"/>
+	</game>
+	<game name="Xbox 360 World 89 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 89 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 89 (Europe) (Side A).iso" size="3586588672" crc="67103b54" md5="8345785bcfea287ee42c463e176066a6" sha1="3d6b9b813c627d8ed3b7d9c95138841de65c28fe"/>
+	</game>
+	<game name="Xbox 360 World 93 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 93 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 93 (Europe) (Side A).iso" size="4212326400" crc="999bb9b7" md5="4852bd67f12719722b7baf0e46073cf0" sha1="b5ed1f54623a52b5faa2ed404d05ee771668ea69"/>
+	</game>
+	<game name="Xbox 360 World 94 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 94 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 94 (Europe) (Side A).iso" size="4293722112" crc="a86751a3" md5="e1664084fa857bb1563718678c522776" sha1="9010a2c29a98b1933f14ad86e5fb498a66d4d11a"/>
+	</game>
+	<game name="Xbox 360 World 95 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 95 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 95 (Europe) (Side A).iso" size="4223991808" crc="0a4d1542" md5="d3ffb78b599fea3c56a49bea9fccba18" sha1="026032b4da44c8013891d903860443996280d29e"/>
+	</game>
+	<game name="Xbox 360 World 96 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 96 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 96 (Europe) (Side A).iso" size="4347232256" crc="274f8b1d" md5="f1a93ec7c687235c77c359d489cd72f1" sha1="e9f9c5bf9e8a38fd66ba2bbc34fb0b409dcf07ff"/>
+	</game>
+	<game name="Xbox 360 World 97 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 97 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 97 (Europe) (Side A).iso" size="4001529856" crc="6ef391de" md5="8e0c4fb7e77991d0e5658ed48ce858f8" sha1="be9ff8bed19db3e40cf2f8cef0c2c74755e9adc2"/>
+	</game>
+	<game name="Xbox 360 World 98 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 98 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 98 (Europe) (Side A).iso" size="4309123072" crc="25a8d09e" md5="5b2dd02ba591a1d85df127a6c6af78d0" sha1="d7ad18164388dec1e8479d23ae5d66f1e79f5fd3"/>
+	</game>
+	<game name="Xbox 360 World 99 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 99 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 99 (Europe) (Side A).iso" size="4097015808" crc="67520f6e" md5="21ca9111dbf905937dc9479e25e37e3b" sha1="ae5408174ed7bbc2564a05cdb76b59809233cdd9"/>
+	</game>
+	<game name="Street Fighter IV - Aratanaru Kizuna (Asia) (En,Ja)">
+		<category>Games</category>
+		<description>Street Fighter IV - Aratanaru Kizuna (Asia) (En,Ja)</description>
+		<rom name="Street Fighter IV - Aratanaru Kizuna (Asia) (En,Ja).iso" size="4221323264" crc="23df9c2b" md5="ee8fd656f2ccf3c10cdaf52afb2b96a6" sha1="a9a90c014f41a163e95f01bd05edab3a3194075e"/>
+	</game>
+	<game name="Revelations Report (Japan)">
+		<category>Video</category>
+		<description>Revelations Report (Japan)</description>
+		<rom name="Revelations Report (Japan).iso" size="4571801600" crc="f3bee7de" md5="88a943044f2fd538ea3ddf77a8de9434" sha1="81f0223848bcb1ce6765c08a83a0f840e481f70b"/>
+	</game>
+	<game name="Xbox 360 World 101 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 101 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 101 (Europe) (Side A).iso" size="3989012480" crc="be9601ef" md5="67f4e7cd96c89b6266defad5be47a4d2" sha1="8c23cdf22668d0bdc3500f2cb1b13bab110f0a8c"/>
+	</game>
+	<game name="Xbox 360 World 103 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 103 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 103 (Europe) (Side A).iso" size="3980656640" crc="7b85a147" md5="37a9c0b6280af5f6c46e6d55ac95486f" sha1="186e2a27f9fe1f041d4a2f84808ce30dec5e1201"/>
+	</game>
+	<game name="Xbox 360 World 104 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 104 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 104 (Europe) (Side A).iso" size="4036722688" crc="b6a2cc84" md5="72ddf2e73b03ccca8d7f0fb408da3111" sha1="9e9e9e5716ac8000b6c2e6745756a72ae1a245a5"/>
+	</game>
+	<game name="Xbox 360 World 105 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 105 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 105 (Europe) (Side A).iso" size="4534829056" crc="ecf54078" md5="dccaee20ff76c4d6ef42ac4c1ed474d7" sha1="da702bd9c7323b9679c2d3d746242dd42290a762"/>
+	</game>
+	<game name="Xbox 360 World 106 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 106 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 106 (Europe) (Side A).iso" size="3822747648" crc="18e793a0" md5="cd62040822a2ca3188c4f816647e9302" sha1="4a7bff81c40403ce53a8b957f5eddf2a2112d571"/>
+	</game>
+	<game name="Xbox 360 World 107 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 107 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 107 (Europe) (Side A).iso" size="4117889024" crc="44d013d8" md5="19335e1c24e2de39b03cecd93e7f88ba" sha1="5eb356548650e24c2180eed1a102c2a858ae84f5"/>
+	</game>
+	<game name="Devil May Cry 4 (Asia) (En,Ja) (Special DVD)">
+		<category>Video</category>
+		<description>Devil May Cry 4 (Asia) (En,Ja) (Special DVD)</description>
+		<rom name="Devil May Cry 4 (Asia) (En,Ja) (Special DVD).iso" size="1204682752" crc="64a75c5e" md5="83aa4bd177509ca0394053fa279d53a6" sha1="81f760171b4f7718f17fea9a272048edded7a2df"/>
+	</game>
+	<game name="Xenosaga Premium Disc (Japan) (En,Ja)">
+		<category>Bonus Discs</category>
+		<description>Xenosaga Premium Disc (Japan) (En,Ja)</description>
+		<rom name="Xenosaga Premium Disc (Japan) (En,Ja).iso" size="2747072512" crc="97c214ec" md5="9182919ec3ae99fe5f36613ceaf3c1d5" sha1="e6062116e2c25b63c38b8c29b3fcbef1fc782be8"/>
+	</game>
+	<game name="Other Side of the Final Fantasy (Japan)">
+		<category>Bonus Discs</category>
+		<description>Other Side of the Final Fantasy (Japan)</description>
+		<rom name="Other Side of the Final Fantasy (Japan).iso" size="3036094464" crc="a977771f" md5="f8f638ad4290309b45ce9f7f29e1d58d" sha1="065bec23d92d7746ffd5d3463175438e5d5792d9"/>
+	</game>
+	<game name="Eve Memories (Japan)">
+		<category>Bonus Discs</category>
+		<description>Eve Memories (Japan)</description>
+		<rom name="Eve Memories (Japan).iso" size="2550179840" crc="092f3e2a" md5="e267ba904bb682cfdd4c50ad037d07d2" sha1="6696984aa1f1049eb2c6c293c3faede2a28fcfb6"/>
+	</game>
+	<game name="Kishin Houkou Demonbane Original Video Animation (Japan)">
+		<category>Bonus Discs</category>
+		<description>Kishin Houkou Demonbane Original Video Animation (Japan)</description>
+		<rom name="Kishin Houkou Demonbane Original Video Animation (Japan).iso" size="1822386176" crc="3d281af4" md5="17b67e95df2787af1124af49f2dae31e" sha1="7a3904a4bbded9e3b2d65a8a5d600a4535c9c38b"/>
+	</game>
+	<game name="Final Fantasy XII Archives &amp; Final Fantasy 20th Anniversary DVD (Japan)">
+		<category>Bonus Discs</category>
+		<description>Final Fantasy XII Archives &amp; Final Fantasy 20th Anniversary DVD (Japan)</description>
+		<rom name="Final Fantasy XII Archives &amp; Final Fantasy 20th Anniversary DVD (Japan).iso" size="7433818112" crc="f6e0b669" md5="83234a96eb2bca61013f60a50df2770c" sha1="1f321f4fb49b4b7ef7660e767d2e0c2bfbd07de7"/>
+	</game>
+	<game name="Meitantei Conan - Daiei Teikoku no Isan (Japan) (Special File Disc)">
+		<category>Bonus Discs</category>
+		<description>Meitantei Conan - Daiei Teikoku no Isan (Japan) (Special File Disc)</description>
+		<rom name="Meitantei Conan - Daiei Teikoku no Isan (Japan) (Special File Disc).iso" size="248264704" crc="8359f72a" md5="0ac7b6537223cc65ba6d8100c9c7d170" sha1="4357403d42eab1622c79556cbbc83e9d9eb3d5e5"/>
+	</game>
+	<game name="Hayarigami the Movie - Kyoufu DVD (Japan)">
+		<category>Bonus Discs</category>
+		<description>Hayarigami the Movie - Kyoufu DVD (Japan)</description>
+		<rom name="Hayarigami the Movie - Kyoufu DVD (Japan).iso" size="3294855168" crc="63f59acb" md5="0ea06ec34a69a504896195d1093cc644" sha1="c43b7a833c1de87990287e72e7d2010e746777de"/>
+	</game>
+	<game name="Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta - Special PV (Japan)">
+		<category>Demos</category>
+		<description>Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta - Special PV (Japan)</description>
+		<rom name="Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta - Special PV (Japan).iso" size="617652224" crc="1a0907ba" md5="bb6d288b58bf9f2da16fc8067b8599a1" sha1="1da85c541679fa7ac394a35ee8e9cf441339906f"/>
+	</game>
+	<game name="Tantei Jinguji Saburo - Premium DVD (Japan)">
+		<category>Demos</category>
+		<description>Tantei Jinguji Saburo - Premium DVD (Japan)</description>
+		<rom name="Tantei Jinguji Saburo - Premium DVD (Japan).iso" size="2987786240" crc="0527d378" md5="7b0c750fb298a6291ef3e76b660cb12f" sha1="a4116dc487c86768ad0e36aa6a59b706ad1fe40a"/>
+	</game>
+	<game name="Musou Orochi 2 Special Tentou Promotion Movie (Japan)">
+		<category>Video</category>
+		<description>Musou Orochi 2 Special Tentou Promotion Movie (Japan)</description>
+		<rom name="Musou Orochi 2 Special Tentou Promotion Movie (Japan).iso" size="127412224" crc="2d825d7e" md5="e9b3ad4dcb04600df8097d0fdec2d136" sha1="2486d04e1740a524cea045556d24547de53df226"/>
+	</game>
+	<game name="WWE DVD Tokubetsu Hensyuu-Ban (Japan)">
+		<category>Bonus Discs</category>
+		<description>WWE DVD Tokubetsu Hensyuu-Ban (Japan)</description>
+		<rom name="WWE DVD Tokubetsu Hensyuu-Ban (Japan).iso" size="2187847680" crc="f8517ad1" md5="76b92f943f13112697385da3a3585803" sha1="bc1bbbc8c1f04888c438d917f0b9d62904d2dcdd"/>
+	</game>
+	<game name="Majima no Maji-Rock (Japan)">
+		<category>Bonus Discs</category>
+		<description>Majima no Maji-Rock (Japan)</description>
+		<rom name="Majima no Maji-Rock (Japan).iso" size="314722304" crc="b40b2f93" md5="1e8c31c6af5b8f51364c8280da5d0052" sha1="d4bb8e6152006569548b95f2d4cccf0c80facc2a"/>
+	</game>
+	<game name="Enter the Matrix (Japan) (En,Ja)">
+		<category>Bonus Discs</category>
+		<description>Enter the Matrix (Japan) (En,Ja)</description>
+		<rom name="Enter the Matrix (Japan) (En,Ja).iso" size="1127254016" crc="7cb7655c" md5="a52cc5d940ceebffafecbb888477b35a" sha1="65f5ca317ae5c44a98ac7f0183a4d0a0cbd12c1b"/>
+	</game>
+	<game name="Biohazard 5 (China) (Disc A) (The Story)">
+		<category>Video</category>
+		<description>Biohazard 5 (China) (Disc A) (The Story)</description>
+		<rom name="Biohazard 5 (China) (Disc A) (The Story).iso" size="4489019392" crc="e4ab68bd" md5="da6a720491e039a9a1d733d239ea002e" sha1="c1e5c89161b4ab4090999a7ed54ed9de4bb80334"/>
+	</game>
+	<game name="Lord of the Rings - Futatsu no Tou (Japan) (Game Shoukaiyou DVD Video)">
+		<category>Games</category>
+		<description>Lord of the Rings - Futatsu no Tou (Japan) (Game Shoukaiyou DVD Video)</description>
+		<rom name="Lord of the Rings - Futatsu no Tou (Japan) (Game Shoukaiyou DVD Video).iso" size="769884160" crc="95e28ff7" md5="2cbc76b9b70cc589ba9d388c76b229a4" sha1="3699129919bee5c8bb6d4fa55e7755a1e42891a0"/>
+	</game>
+	<game name="StarCraft II - Wings of Liberty (USA) (Behind the Scenes)">
+		<category>Bonus Discs</category>
+		<description>StarCraft II - Wings of Liberty (USA) (Behind the Scenes)</description>
+		<rom name="StarCraft II - Wings of Liberty (USA) (Behind the Scenes).iso" size="6943866880" crc="bc693d7e" md5="6134aa999e86fdeff4901bd4c6e82a72" sha1="93ab14bd9965641b10f901325751cca20cc46501"/>
+	</game>
+	<game name="Winning Post 7 2013 - Dead or Alive 5 + Special Tentou Promotion Movie (Japan)">
+		<category>Video</category>
+		<description>Winning Post 7 2013 - Dead or Alive 5 + Special Tentou Promotion Movie (Japan)</description>
+		<rom name="Winning Post 7 2013 - Dead or Alive 5 + Special Tentou Promotion Movie (Japan).iso" size="323178496" crc="54c7fd08" md5="54e0dba2f627b17932167980008b958a" sha1="1b98f2cb99ad52d1598e655530ed3fe9effcbdbf"/>
+	</game>
+	<game name="Shin Sangoku Musou 5 - Empires (Japan) (Tentou Promotion Movie)">
+		<category>Video</category>
+		<description>Shin Sangoku Musou 5 - Empires (Japan) (Tentou Promotion Movie)</description>
+		<rom name="Shin Sangoku Musou 5 - Empires (Japan) (Tentou Promotion Movie).iso" size="146601984" crc="580d1134" md5="a5ab3df225c1ce65c219c4b88ba7c07f" sha1="74edda4c0a4a86f14bf3f0a875f778369cda74bb"/>
+	</game>
+	<game name="Musou Orochi Z - Winning Post World - Tentou Promotion Movie (Japan)">
+		<category>Video</category>
+		<description>Musou Orochi Z - Winning Post World - Tentou Promotion Movie (Japan)</description>
+		<rom name="Musou Orochi Z - Winning Post World - Tentou Promotion Movie (Japan).iso" size="340058112" crc="81be5864" md5="99730231ce1ee7470de7697ffe9a327b" sha1="7596f6a9d31d5648275c925c17981c31be1172d2"/>
+	</game>
+	<game name="Ninja Gaiden Sigma 2 (Japan) (Shin Sangoku Musou Multi Raid Special - Tentou Promotion Movie)">
+		<category>Video</category>
+		<description>Ninja Gaiden Sigma 2 (Japan) (Shin Sangoku Musou Multi Raid Special - Tentou Promotion Movie)</description>
+		<rom name="Ninja Gaiden Sigma 2 (Japan) (Shin Sangoku Musou Multi Raid Special - Tentou Promotion Movie).iso" size="522143744" crc="eaf9f769" md5="2e3a8c7c107aaf115078cadcc51731f0" sha1="1af50d56f559803564371913c5c7da387f098838"/>
+	</game>
+	<game name="SD Gundam - GGeneration Portable (Japan) (Premium Disc)">
+		<category>Video</category>
+		<description>SD Gundam - GGeneration Portable (Japan) (Premium Disc)</description>
+		<rom name="SD Gundam - GGeneration Portable (Japan) (Premium Disc).iso" size="2209234944" crc="75f71dba" md5="e355784613193b19b52b709c8d2be102" sha1="43ac0a7d5bedad748849535e0b613afe0e8702d7"/>
+	</game>
+	<game name="Tales of Phantasia X Dramatic DVD (Japan)">
+		<category>Video</category>
+		<description>Tales of Phantasia X Dramatic DVD (Japan)</description>
+		<rom name="Tales of Phantasia X Dramatic DVD (Japan).iso" size="3575687168" crc="dd7d465d" md5="69a69358aefd2ab51e460daa7b559d86" sha1="b8665539cbe1f66432c003dbc219b3fe72522915"/>
+	</game>
+	<game name="Lara Croft - Lethal and Loaded (Europe, Australia)">
+		<category>Video</category>
+		<description>Lara Croft - Lethal and Loaded (Europe, Australia)</description>
+		<rom name="Lara Croft - Lethal and Loaded (Europe, Australia).iso" size="2432774144" crc="1ba49596" md5="50d82c686ee4086506540fe0239deed8" sha1="6df757a0e8818156032a909b05c0d2dd13e5af6e"/>
+	</game>
+	<game name="Kikou Heidan J-Phoenix PF Lips Shoutai Dai-3-wa - Chuu Suru Yousai! (Japan)">
+		<category>Bonus Discs</category>
+		<description>Kikou Heidan J-Phoenix PF Lips Shoutai Dai-3-wa - Chuu Suru Yousai! (Japan)</description>
+		<rom name="Kikou Heidan J-Phoenix PF Lips Shoutai Dai-3-wa - Chuu Suru Yousai! (Japan).iso" size="1914400768" crc="adf2624f" md5="df18aac1e21c7bf804567ac2d5daabca" sha1="7fa472d5c79981e69717712914c362a9ebd70868"/>
+	</game>
+	<game name="Tokyo Game Show 2011 Capcom Special DVD (Japan)">
+		<category>Video</category>
+		<description>Tokyo Game Show 2011 Capcom Special DVD (Japan)</description>
+		<rom name="Tokyo Game Show 2011 Capcom Special DVD (Japan).iso" size="4437303296" crc="32f7c285" md5="2c51560c7504494398b32dbaeeaa1339" sha1="2d7604212412bb7633c8853369e581e97bfb4208"/>
+	</game>
+	<game name="Winning Post 7 - Boukoku no Aegis 2035 - Warship Gunner - Tentou Promotion Movie (Japan)">
+		<category>Video</category>
+		<description>Winning Post 7 - Boukoku no Aegis 2035 - Warship Gunner - Tentou Promotion Movie (Japan)</description>
+		<rom name="Winning Post 7 - Boukoku no Aegis 2035 - Warship Gunner - Tentou Promotion Movie (Japan).iso" size="145440768" crc="960913a0" md5="9e5e2877a618f81d1cc6a4026a70f7f8" sha1="2b429162a1d33989eed337b0733bd98dbf5a93ac"/>
+	</game>
+	<game name="Xbox 360 World 78 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 78 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 78 (Europe) (Side A).iso" size="4513923072" crc="398f5d7e" md5="a090496958f1a10b7ae25d7729acf07c" sha1="f7a273c40a86dd2a88df0d3d4ce38c3b1a32f711"/>
+	</game>
+	<game name="Tales of Innocence - Voice Adventure DVD (Japan)">
+		<category>Video</category>
+		<description>Tales of Innocence - Voice Adventure DVD (Japan)</description>
+		<rom name="Tales of Innocence - Voice Adventure DVD (Japan).iso" size="2656239616" crc="6976118e" md5="648b5e4c5b2b761cc9345d95b9846f01" sha1="4bcd2fe5ed09f585cead8ae11f3c7e00f212cea7"/>
+	</game>
+	<game name="Tokyo Game Show 2012 Capcom Special DVD (Japan)">
+		<category>Video</category>
+		<description>Tokyo Game Show 2012 Capcom Special DVD (Japan)</description>
+		<rom name="Tokyo Game Show 2012 Capcom Special DVD (Japan).iso" size="4451493888" crc="f84a6cac" md5="c21e6a25ac9f90bbeba9276225850f11" sha1="36c36796686493ac3802df96f009a5d5920ea3ae"/>
+	</game>
+	<game name="Viva Heart Full! Tales of DVD - Hearts Channel Hen (Japan)">
+		<category>Games</category>
+		<description>Viva Heart Full! Tales of DVD - Hearts Channel Hen (Japan)</description>
+		<rom name="Viva Heart Full! Tales of DVD - Hearts Channel Hen (Japan).iso" size="2159575040" crc="cc6781b9" md5="14b8f2b7a674bd0a42726afe7e4fcced" sha1="1e84793976ba754a4d0e95861265b96275245788"/>
+	</game>
+	<game name="Tales of Rebirth - Special DVD (Japan)">
+		<category>Video</category>
+		<description>Tales of Rebirth - Special DVD (Japan)</description>
+		<rom name="Tales of Rebirth - Special DVD (Japan).iso" size="3787399168" crc="08d1ac2f" md5="833e1a694f6253f350327c4728f17a2b" sha1="15b0eb647e1bdc188a2714fae8bddf9bdf9a09bb"/>
+	</game>
+	<game name="Tales of Legendia - Premium DVD (Japan)">
+		<category>Video</category>
+		<description>Tales of Legendia - Premium DVD (Japan)</description>
+		<rom name="Tales of Legendia - Premium DVD (Japan).iso" size="2114600960" crc="ec8e39d0" md5="cdff1e5d8c41d6ff79a2425cdde8aee8" sha1="9debf77989f39dea4b05b17b65906e1412aeabe2"/>
+	</game>
+	<game name="Tales of VS Dramatic DVD - Dark Hero Hen (Japan)">
+		<category>Video</category>
+		<description>Tales of VS Dramatic DVD - Dark Hero Hen (Japan)</description>
+		<rom name="Tales of VS Dramatic DVD - Dark Hero Hen (Japan).iso" size="2326861824" crc="6c37aa82" md5="23d2886bc7104ecd587908496cc81683" sha1="37779a3c7a8986a4a8b6a25b8cea256cae1e25b2"/>
+	</game>
+	<game name="Tales of Destiny Dramatic DVD - Orange Gumi Hen (Japan)">
+		<category>Video</category>
+		<description>Tales of Destiny Dramatic DVD - Orange Gumi Hen (Japan)</description>
+		<rom name="Tales of Destiny Dramatic DVD - Orange Gumi Hen (Japan).iso" size="2653782016" crc="64c914fe" md5="1db5859ab2e52580d0ffd5c3f448f732" sha1="5dd2bcfb8a322b9947bf0e25c8b3321d78de9f8e"/>
+	</game>
+	<game name="Tales of Phandam Gaiden DVD (Japan)">
+		<category>Video</category>
+		<description>Tales of Phandam Gaiden DVD (Japan)</description>
+		<rom name="Tales of Phandam Gaiden DVD (Japan).iso" size="3467214848" crc="a7e24039" md5="5c7d08080095ec8f022468ce992a9153" sha1="1f98db1c84999f769fc77b92e5c1172524b253fd"/>
+	</game>
+	<game name="Tales of Destiny 2 - Special Disc (Japan)">
+		<category>Video</category>
+		<description>Tales of Destiny 2 - Special Disc (Japan)</description>
+		<rom name="Tales of Destiny 2 - Special Disc (Japan).iso" size="1718009856" crc="ebf64021" md5="f933eeec1d0dc05854387bb0d4d8f48a" sha1="b17ad21bbfa6e25e12dbfdb7f304075a2e705e1d"/>
+	</game>
+	<game name="Zero - Akai Chou - Crimson Report - Akai Chou no Himitsu (Japan)">
+		<category>Video</category>
+		<description>Zero - Akai Chou - Crimson Report - Akai Chou no Himitsu (Japan)</description>
+		<rom name="Zero - Akai Chou - Crimson Report - Akai Chou no Himitsu (Japan).iso" size="529510400" crc="9885ba37" md5="7b0a4fe3cf7dce71a72160151d2ec7c0" sha1="572be362233ab6a8826ea1478b118eba130d506a"/>
+	</game>
+	<game name="Naruto - Narutimate Animation (Japan)">
+		<category>Bonus Discs</category>
+		<description>Naruto - Narutimate Animation (Japan)</description>
+		<rom name="Naruto - Narutimate Animation (Japan).iso" size="1685716992" crc="b44baed5" md5="3be75a6dabf50379f0ed36564d0874e4" sha1="249ee755de70e656e0220d173a3a5e5a83983c5f"/>
+	</game>
+	<game name="Eiga K-ON (Japan)">
+		<category>Video</category>
+		<description>Eiga K-ON (Japan)</description>
+		<rom name="Eiga K-ON (Japan).iso" size="6736050176" crc="7bcb9439" md5="d7bfaabf0cf149e2d3507159ce9d1ddb" sha1="ba6b9a2a2e5f5488f5c4f8a35c47099bf9cbdf9c"/>
+	</game>
+	<game name="History of Project Zero - Kurosawa Report (Japan)">
+		<category>Video</category>
+		<description>History of Project Zero - Kurosawa Report (Japan)</description>
+		<rom name="History of Project Zero - Kurosawa Report (Japan).iso" size="4619468800" crc="7c51408e" md5="aa0ccebf3cc901c85d813d7a66a3bd94" sha1="24c8da87a1c7f6522f18ef8d4757bc1d14f8e741"/>
+	</game>
+	<game name="KOF - Maximum Impact (Bonus DVD-Video) (Japan)">
+		<category>Bonus Discs</category>
+		<description>KOF - Maximum Impact (Bonus DVD-Video) (Japan)</description>
+		<rom name="KOF - Maximum Impact (Bonus DVD-Video) (Japan).iso" size="2365229056" crc="bfbf162f" md5="4f1a990cd93c507268c1395b4a2be2bd" sha1="aa40e7e5e0273877935d40870a12833935498b2c"/>
+	</game>
+	<game name="Shenmue - The Movie (USA) (En,Ja)">
+		<category>Bonus Discs</category>
+		<description>Shenmue - The Movie (USA) (En,Ja)</description>
+		<rom name="Shenmue - The Movie (USA) (En,Ja).iso" size="3805554688" crc="3bf4ed95" md5="f61787bba87fe104dd57a066c5e48caa" sha1="b04392c03b77f509fb83bf5c1f924abf156f2148"/>
+	</game>
+	<game name="Dot Hack Liminality Vol. 1 - In Case of Minase, Mai (Japan)">
+		<category>Bonus Discs</category>
+		<description>Dot Hack Liminality Vol. 1 - In Case of Minase, Mai (Japan)</description>
+		<rom name="Dot Hack Liminality Vol. 1 - In Case of Minase, Mai (Japan).iso" size="3343140864" crc="c37077a5" md5="0d2f5e9781228da24b223b938ed25e78" sha1="adc0d893dad6ea4827dc49f2a817a308316bcd3c"/>
+	</game>
+	<game name="Dot Hack Liminality Vol. 2 - In Case of Aihara, Yuki (Japan)">
+		<category>Bonus Discs</category>
+		<description>Dot Hack Liminality Vol. 2 - In Case of Aihara, Yuki (Japan)</description>
+		<rom name="Dot Hack Liminality Vol. 2 - In Case of Aihara, Yuki (Japan).iso" size="2070806528" crc="7d3cd759" md5="688273136098db9b437ccbe92b83fd64" sha1="a3e1758271ae9a8cca881629552162f8da279a8a"/>
+	</game>
+	<game name="Dot Hack Liminality Vol. 3 - In Case of Tohno, Kyoko (Japan)">
+		<category>Bonus Discs</category>
+		<description>Dot Hack Liminality Vol. 3 - In Case of Tohno, Kyoko (Japan)</description>
+		<rom name="Dot Hack Liminality Vol. 3 - In Case of Tohno, Kyoko (Japan).iso" size="2236891136" crc="4873ddbf" md5="4d295541293b20dd7b3eacd6a2a14a3f" sha1="6ce1b6df0e4439283326c5251c10fc2885567fea"/>
+	</game>
+	<game name="Ryuu ga Gotoku 2 - Yokokuhen DVD (Japan)">
+		<category>Bonus Discs</category>
+		<description>Ryuu ga Gotoku 2 - Yokokuhen DVD (Japan)</description>
+		<rom name="Ryuu ga Gotoku 2 - Yokokuhen DVD (Japan).iso" size="1071190016" crc="8ad4ab9f" md5="b5df322975b3830c3fe953bedfbcb60e" sha1="890006565be11074f880d24f005243ea57af5ab6"/>
+	</game>
+	<game name="Atelier Escha &amp; Logy - Tentou Promotion Movie (Japan)">
+		<category>Video</category>
+		<description>Atelier Escha &amp; Logy - Tentou Promotion Movie (Japan)</description>
+		<rom name="Atelier Escha &amp; Logy - Tentou Promotion Movie (Japan).iso" size="130013184" crc="b65a4671" md5="2b7512952f96a687978bce8c758cb388" sha1="9e355d24d778f13bbbe2b48a4c275fcea664b6e0"/>
+	</game>
+	<game name="Toukiden - Tentou Promotion Movie Dai 2 Dan (Japan)">
+		<category>Video</category>
+		<description>Toukiden - Tentou Promotion Movie Dai 2 Dan (Japan)</description>
+		<rom name="Toukiden - Tentou Promotion Movie Dai 2 Dan (Japan).iso" size="307462144" crc="b80ff56f" md5="504bf10c295775a365fc2fa75099e9be" sha1="40f2a80a22338d2dcc9c3d5406942bd9798fe553"/>
+	</game>
+	<game name="Dead or Alive 5 Ultimate (Japan) (Tentou Promotion Movie)">
+		<category>Video</category>
+		<description>Dead or Alive 5 Ultimate (Japan) (Tentou Promotion Movie)</description>
+		<rom name="Dead or Alive 5 Ultimate (Japan) (Tentou Promotion Movie).iso" size="225529856" crc="a206c483" md5="480bde11ac44cbfa4edba8a5e7e583e5" sha1="fb7eea5a9b3d4c90d8f85a6d5d20555dfc451712"/>
+	</game>
+	<game name="Attouteki Yuugi - Mugen Souls (Japan) (Tentou Houeiyou PV)">
+		<category>Games</category>
+		<description>Attouteki Yuugi - Mugen Souls (Japan) (Tentou Houeiyou PV)</description>
+		<rom name="Attouteki Yuugi - Mugen Souls (Japan) (Tentou Houeiyou PV).iso" size="158564352" crc="28e955d6" md5="a96a0a057d8cd326e66249079611b7dd" sha1="060853a087845bc97de5f8d49b06138377ea49ad"/>
+	</game>
+	<game name="Marvelous Entertainment Premium Game Eizou DVD 2008 Spring (Japan)">
+		<category>Video</category>
+		<description>Marvelous Entertainment Premium Game Eizou DVD 2008 Spring (Japan)</description>
+		<rom name="Marvelous Entertainment Premium Game Eizou DVD 2008 Spring (Japan).iso" size="1093804032" crc="7587385a" md5="9128416b8678b08468d98d8cf0281311" sha1="966b90d9d0ac37d4775805d93ea042c5f4cff162"/>
+	</game>
+	<game name="Dot Hack - Welcome to 'The World' (Japan)">
+		<category>Video</category>
+		<description>Dot Hack - Welcome to 'The World' (Japan)</description>
+		<rom name="Dot Hack - Welcome to 'The World' (Japan).iso" size="4249647104" crc="d4024164" md5="871841a568630fbfbf9b32e7626ed99f" sha1="c9eff76447814b13ace231fa53138da606bda76e"/>
+	</game>
+	<game name="Level-5 Premium Himitsu Disc - Ano Uwasa no Title no Himitsu Eizou ga Kokoni (Japan)">
+		<category>Games</category>
+		<description>Level-5 Premium Himitsu Disc - Ano Uwasa no Title no Himitsu Eizou ga Kokoni (Japan)</description>
+		<rom name="Level-5 Premium Himitsu Disc - Ano Uwasa no Title no Himitsu Eizou ga Kokoni (Japan).iso" size="2487844864" crc="d25d739b" md5="6b54852da0b7bacdbba34c8bc057682a" sha1="2005a89d8d7f438cf04ab826a2ae6320e52b931d"/>
+	</game>
+	<game name="Making of Resident Evil 5 (Asia)">
+		<category>Bonus Discs</category>
+		<description>Making of Resident Evil 5 (Asia)</description>
+		<rom name="Making of Resident Evil 5 (Asia).iso" size="2508750848" crc="95a2dda5" md5="f658d7e657e03eb348d84bd1f2500e61" sha1="6af66a673cb0f79c3353e838b7e4d51f00f3aed1"/>
+	</game>
+	<game name="Musou Orochi 2 Ultimate - Sangokushi 12 with PowerUP Kit - Kin'iro no Koruda Full Voice Special (Tentou Promotion Video) (Japan)">
+		<category>Video</category>
+		<description>Musou Orochi 2 Ultimate - Sangokushi 12 with PowerUP Kit - Kin'iro no Koruda Full Voice Special (Tentou Promotion Video) (Japan)</description>
+		<rom name="Musou Orochi 2 Ultimate - Sangokushi 12 with PowerUP Kit - Kin'iro no Koruda Full Voice Special (Tentou Promotion Video) (Japan).iso" size="807856128" crc="dc8d1f36" md5="e613b433e5ffcf2b8cca4a3fc0d8609e" sha1="e01ca425b953c85c0f02ed6d2500c1f61ff6996b"/>
+	</game>
+	<game name="Scooby-Doo! DVD Game - Funland of Freaky Frights (USA)">
+		<category>Games</category>
+		<description>Scooby-Doo! DVD Game - Funland of Freaky Frights (USA)</description>
+		<rom name="Scooby-Doo! DVD Game - Funland of Freaky Frights (USA).iso" size="8383954944" crc="af22ed10" md5="2330a64a70cb073af4c1a2b69ea44aef" sha1="2d8625d35ef658da0f0543764e280c2dddddaa6a"/>
+	</game>
+	<game name="StarCraft II - Heart of the Swarm (Europe) (Behind the Scenes)">
+		<category>Games</category>
+		<description>StarCraft II - Heart of the Swarm (Europe) (Behind the Scenes)</description>
+		<rom name="StarCraft II - Heart of the Swarm (Europe) (Behind the Scenes).iso" size="8475987968" crc="9b234fbd" md5="44fbef5518951217791424dc4a7e449c" sha1="e65f9e84383991b47f5ab452cfc25d1c85f0eafe"/>
+	</game>
+	<game name="Diablo III (Europe) (Behind the Scenes)">
+		<category>Games</category>
+		<description>Diablo III (Europe) (Behind the Scenes)</description>
+		<rom name="Diablo III (Europe) (Behind the Scenes).iso" size="7649853440" crc="04b6bfbb" md5="57719aef7fb57f344ab0b89fbe38830a" sha1="c611e0184e54d3a821fe1957368e14b3f95ba29e"/>
+	</game>
+	<game name="World of WarCraft - Mists of Pandaria (Europe) (Behind the Scenes)">
+		<category>Games</category>
+		<description>World of WarCraft - Mists of Pandaria (Europe) (Behind the Scenes)</description>
+		<rom name="World of WarCraft - Mists of Pandaria (Europe) (Behind the Scenes).iso" size="4846362624" crc="6f4d5f36" md5="d0d860f453be9d95aec4413883afc30b" sha1="ee87619e2ef3c00d6be0ad0f3790f42bf517c6f6"/>
+	</game>
+	<game name="Atelier Rorona - Hajimari no Monogatari - Tentou Promotion Movie (Japan)">
+		<category>Video</category>
+		<description>Atelier Rorona - Hajimari no Monogatari - Tentou Promotion Movie (Japan)</description>
+		<rom name="Atelier Rorona - Hajimari no Monogatari - Tentou Promotion Movie (Japan).iso" size="120784896" crc="516f1339" md5="77e2d163ed51cdcc8ab0e2560590187e" sha1="53da01aa7fcabed8498eef89c8275e1fbee7422b"/>
+	</game>
+	<game name="Nobunaga no Yabou - Souzou - Shin Sangoku Musou 7 Moushouden - Tentou Promotion Video Dai 1 Dan (Japan)">
+		<category>Video</category>
+		<description>Nobunaga no Yabou - Souzou - Shin Sangoku Musou 7 Moushouden - Tentou Promotion Video Dai 1 Dan (Japan)</description>
+		<rom name="Nobunaga no Yabou - Souzou - Shin Sangoku Musou 7 Moushouden - Tentou Promotion Video Dai 1 Dan (Japan).iso" size="266297344" crc="38df1540" md5="8eb8657ad6a735601ee259e90352573a" sha1="4aeecc8b56f0e151e4e732e9beee3a12ea89884d"/>
+	</game>
+	<game name="Shin Sangoku Musou 7 with Moushouden - Tentou Promotion Movie Dai 2 Dan (Japan)">
+		<category>Video</category>
+		<description>Shin Sangoku Musou 7 with Moushouden - Tentou Promotion Movie Dai 2 Dan (Japan)</description>
+		<rom name="Shin Sangoku Musou 7 with Moushouden - Tentou Promotion Movie Dai 2 Dan (Japan).iso" size="426731520" crc="4532ef83" md5="4118201a9b2445c5f0b6da3a94076c8a" sha1="56600d4e4b7a14fde28eea106d3f9204f8997ce9"/>
+	</game>
+	<game name="Tales of Graces F - Behind the Scenes (Europe) (En,Ja)">
+		<category>Bonus Discs</category>
+		<description>Tales of Graces F - Behind the Scenes (Europe) (En,Ja)</description>
+		<rom name="Tales of Graces F - Behind the Scenes (Europe) (En,Ja).iso" size="3996975104" crc="d483bbbd" md5="a744246f576cf3856224bdc7746e59d9" sha1="ae86c2c1b7cfb6e443ef824bb858f805d331616a"/>
+	</game>
+	<game name="Eien no Nagi setsu - Final Fantasy X Another Story (Japan) ([PS2] Final Fantasy X/X-2 Ultimate Box Bundle)">
+		<category>Video</category>
+		<description>Eien no Nagi setsu - Final Fantasy X Another Story (Japan) ([PS2] Final Fantasy X/X-2 Ultimate Box Bundle)</description>
+		<rom name="Eien no Nagi setsu - Final Fantasy X Another Story (Japan) ([PS2] Final Fantasy X/X-2 Ultimate Box Bundle).iso" size="926711808" crc="6482de0e" md5="f80679ba67b57398d4ea7d17da461a78" sha1="9d739d6010bc8b2879d21fc9b91078d5403b00a8"/>
+	</game>
+	<game name="BlazBlue - Calamity Trigger (World) (Tutorial Fighting Guide)">
+		<category>Video</category>
+		<description>BlazBlue - Calamity Trigger (World) (Tutorial Fighting Guide)</description>
+		<rom name="BlazBlue - Calamity Trigger (World) (Tutorial Fighting Guide).iso" size="4658561024" crc="7657c4a0" md5="e2df6587738dcabe045487ffb90436b4" sha1="b28bbd1e37ca225aee25f5fcbabcd66fe19029dc"/>
+	</game>
+	<game name="Assassin's Creed - Embers (World) (En,Fr,De,Es,It,Nl,Pl,Ru)">
+		<category>Video</category>
+		<description>Assassin's Creed - Embers (World) (En,Fr,De,Es,It,Nl,Pl,Ru)</description>
+		<rom name="Assassin's Creed - Embers (World) (En,Fr,De,Es,It,Nl,Pl,Ru).iso" size="879788032" crc="74beef97" md5="7b82f49016b550ac2f95bbe0fdaf8042" sha1="c78f55434a2ec429faf57b5daf9375d5fffaa8c6"/>
+	</game>
+	<game name="Sengoku Musou 4 - Tentou PV Dai 1 Dan - Kiniro no Corda Another Sky feat. Jinnan (Japan)">
+		<category>Video</category>
+		<description>Sengoku Musou 4 - Tentou PV Dai 1 Dan - Kiniro no Corda Another Sky feat. Jinnan (Japan)</description>
+		<rom name="Sengoku Musou 4 - Tentou PV Dai 1 Dan - Kiniro no Corda Another Sky feat. Jinnan (Japan).iso" size="425857024" crc="5cb41045" md5="cd7a168970d88cdfcec495aa429def79" sha1="3d9a5292a069af786cacbee39e2089c08485e6a6"/>
+	</game>
+	<game name="Sengoku Musou 4 - Tentou PV Dai 3 Dan - System hen - Drama hen (Japan)">
+		<category>Video</category>
+		<description>Sengoku Musou 4 - Tentou PV Dai 3 Dan - System hen - Drama hen (Japan)</description>
+		<rom name="Sengoku Musou 4 - Tentou PV Dai 3 Dan - System hen - Drama hen (Japan).iso" size="588515328" crc="280729a0" md5="b9d6ebc2fd99cb22f02430bf092342be" sha1="ef8d18a3afdcb7203c64c854ef43e85570ea9ee8"/>
+	</game>
+	<game name="Sengoku Musou 4 - Tentou PV Dai 2 Dan - Ar nosurge - Umareizuru Hoshi he Inoru Uta - Geten no Hana - Yume Akari (Japan)">
+		<category>Video</category>
+		<description>Sengoku Musou 4 - Tentou PV Dai 2 Dan - Ar nosurge - Umareizuru Hoshi he Inoru Uta - Geten no Hana - Yume Akari (Japan)</description>
+		<rom name="Sengoku Musou 4 - Tentou PV Dai 2 Dan - Ar nosurge - Umareizuru Hoshi he Inoru Uta - Geten no Hana - Yume Akari (Japan).iso" size="774594560" crc="67093462" md5="9c428b6a1d3e1c4677f544db95aaadb4" sha1="5029c4f53634dec2e0a5ae57a83206c4b47f37bd"/>
+	</game>
+	<game name="CR Biohazard (Japan)">
+		<category>Video</category>
+		<description>CR Biohazard (Japan)</description>
+		<rom name="CR Biohazard (Japan).iso" size="1036113920" crc="b352fbb1" md5="c46d3f9fe3335649071f358ab74aa18d" sha1="ee34bd26d40580ca874439f5a6006fc43af8af8f"/>
+	</game>
+	<game name="Nobunaga no Yabou - Souzou Tentou Promotion Movie (Japan)">
+		<category>Video</category>
+		<description>Nobunaga no Yabou - Souzou Tentou Promotion Movie (Japan)</description>
+		<rom name="Nobunaga no Yabou - Souzou Tentou Promotion Movie (Japan).iso" size="194922496" crc="6f1416d0" md5="d4cab3db3b32cf03c8de4dedea997c6c" sha1="19ee15104aada3fe482fc5da0da635daece5721d"/>
+	</game>
+	<game name="Command &amp; Conquer - The First Decade (Europe) (Bonus DVD)">
+		<category>Bonus Discs</category>
+		<description>Command &amp; Conquer - The First Decade (Europe) (Bonus DVD)</description>
+		<rom name="Command &amp; Conquer - The First Decade (Europe) (Bonus DVD).iso" size="2890792960" crc="ada8b7b4" md5="5bb0b993391a1f4b030a2ace1a04b047" sha1="e9fa5432e3edac1ea4168007e6554c2f980a94e0"/>
+	</game>
+	<game name="Tenchu 3 - Takumi no Sho (Japan) (Bundled with [PS2] Tenchu 3)">
+		<category>Video</category>
+		<description>Tenchu 3 - Takumi no Sho (Japan) (Bundled with [PS2] Tenchu 3)</description>
+		<rom name="Tenchu 3 - Takumi no Sho (Japan) (Bundled with [PS2] Tenchu 3).iso" size="1444161536" crc="68e8005d" md5="261d52ee65861d087c7aac1b4765d052" sha1="78cbed80d5d82fba026f86921a7de7b8cc6f1506"/>
+	</game>
+	<game name="Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It) (Bonus Disc)">
+		<category>Bonus Discs</category>
+		<description>Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It) (Bonus Disc)</description>
+		<rom name="Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It) (Bonus Disc).iso" size="3322068992" crc="6d3e3a62" md5="a4bf4823eec8efaa0d23946a278d3650" sha1="bd9ad361cd947c87b3ef4f3195687e7002afc619"/>
+	</game>
+	<game name="Nintendo GameCube Preview DVD (Germany)">
+		<category>Video</category>
+		<description>Nintendo GameCube Preview DVD (Germany)</description>
+		<rom name="Nintendo GameCube Preview DVD (Germany).iso" size="2842525696" crc="9882c084" md5="f7b2f9caa1b617e7bd324afdf1c7103a" sha1="c24bc91e547e545f0f90ef7dcc9d85840ad5f096"/>
+	</game>
+	<game name="Godfather, The - The Game (USA) (Bonus Disc) (Limited Edition)">
+		<category>Bonus Discs</category>
+		<description>Godfather, The - The Game (USA) (Bonus Disc) (Limited Edition)</description>
+		<rom name="Godfather, The - The Game (USA) (Bonus Disc) (Limited Edition).iso" size="3143335936" crc="2b7dd7a4" md5="6dab219f51d86de9a192633bbe217416" sha1="f1f1d36118d7472576c7648a2aad8eabe91719dd"/>
+	</game>
+	<game name="Shadow Hearts II (Japan) (Tokuten Eizou DVD)">
+		<category>Bonus Discs</category>
+		<description>Shadow Hearts II (Japan) (Tokuten Eizou DVD)</description>
+		<rom name="Shadow Hearts II (Japan) (Tokuten Eizou DVD).iso" size="2824740864" crc="54e98d02" md5="037c245ac5abed90454fc6f7dc17258f" sha1="082bb223fc40bc02e67e24d71da30ebe61591eaa"/>
+	</game>
+	<game name="Musou Orochi 2 Ultimate - Souzou Tentou Promotion Video (Japan)">
+		<category>Video</category>
+		<description>Musou Orochi 2 Ultimate - Souzou Tentou Promotion Video (Japan)</description>
+		<rom name="Musou Orochi 2 Ultimate - Souzou Tentou Promotion Video (Japan).iso" size="153739264" crc="ef55324e" md5="f8c73274dc9ba66b3f3b2f038c2a30e8" sha1="70f38f85ce209fe9384d4454675b9be9839bafda"/>
+	</game>
+	<game name="Ciel nosurge Offline - Ushinawareta Hoshi e Sasagu Uta &amp; Ar nosurge Plus - Umareizuru Hoshi e Inoru Uta - Tentou Promotion Video (Japan)">
+		<category>Video</category>
+		<description>Ciel nosurge Offline - Ushinawareta Hoshi e Sasagu Uta &amp; Ar nosurge Plus - Umareizuru Hoshi e Inoru Uta - Tentou Promotion Video (Japan)</description>
+		<rom name="Ciel nosurge Offline - Ushinawareta Hoshi e Sasagu Uta &amp; Ar nosurge Plus - Umareizuru Hoshi e Inoru Uta - Tentou Promotion Video (Japan).iso" size="372594688" crc="9b05c24f" md5="92d41a5720ecacbe76ea6be76bb1becf" sha1="c56558aafe5eac7068e6e7328d8c24a2967e2251"/>
+	</game>
+	<game name="Backyard Wrestling 2 - There Goes the Neighborhood (USA) (Music &amp; Mayhem 2 DVD)">
+		<category>Bonus Discs</category>
+		<description>Backyard Wrestling 2 - There Goes the Neighborhood (USA) (Music &amp; Mayhem 2 DVD)</description>
+		<rom name="Backyard Wrestling 2 - There Goes the Neighborhood (USA) (Music &amp; Mayhem 2 DVD).iso" size="7640350720" crc="1f6a49ff" md5="03352503e7983982e5d2e8f06fbc4b24" sha1="012236b1f7138a076999a52fe3eb88c91018ed18"/>
+	</game>
+	<game name="Dot Hack Extension Disc (Japan)">
+		<category>Bonus Discs</category>
+		<description>Dot Hack Extension Disc (Japan)</description>
+		<rom name="Dot Hack Extension Disc (Japan).iso" size="4471777280" crc="ae9a1bc3" md5="1e82e9a7d72f5777bda69c9dd93f1b2a" sha1="7b65bd2f41fc74758814be6eed20f8ef4b3d3cd4"/>
+	</game>
+	<game name="Ryuu ga Gotoku - Kenzan! Yokokuhen DVD (Japan)">
+		<category>Bonus Discs</category>
+		<description>Ryuu ga Gotoku - Kenzan! Yokokuhen DVD (Japan)</description>
+		<rom name="Ryuu ga Gotoku - Kenzan! Yokokuhen DVD (Japan).iso" size="1473372160" crc="8fb58f57" md5="f11c572354bee5108df40ee540aac4f9" sha1="400deae200dc5222be3b62a6c7ab072f2e0cfcac"/>
+	</game>
+	<game name="Kikou Heidan J-Phoenix PF Lips Shoutai Dai-1-wa - Chuu Odekake Lips! (Japan)">
+		<category>Bonus Discs</category>
+		<description>Kikou Heidan J-Phoenix PF Lips Shoutai Dai-1-wa - Chuu Odekake Lips! (Japan)</description>
+		<rom name="Kikou Heidan J-Phoenix PF Lips Shoutai Dai-1-wa - Chuu Odekake Lips! (Japan).iso" size="676780032" crc="e58c50af" md5="c6fdf6ee0e2d08ec3e0790069d1dad27" sha1="5f1174772f833ad33e6718e6655963f9f5a86291"/>
+	</game>
+	<game name="Driver - Parallel Lines (USA) (Bonus Disc)">
+		<category>Bonus Discs</category>
+		<description>Driver - Parallel Lines (USA) (Bonus Disc)</description>
+		<rom name="Driver - Parallel Lines (USA) (Bonus Disc).iso" size="446070784" crc="954e8194" md5="d1e265487810f78ee8997668caaae92d" sha1="32b5ea2f6ae8332e609966bed699e21b6e149329"/>
+	</game>
+	<game name="KOF - Maximum Impact (USA) (Bonus - Behind the Scenes)">
+		<category>Bonus Discs</category>
+		<description>KOF - Maximum Impact (USA) (Bonus - Behind the Scenes)</description>
+		<rom name="KOF - Maximum Impact (USA) (Bonus - Behind the Scenes).iso" size="2995912704" crc="87e6ba07" md5="041b5d8d8500b29a4fd3cd479ae8bdb0" sha1="83eb13621f83178cf4456ab3f6be24a099c5d8df"/>
+	</game>
+	<game name="Lara Croft Tomb Raider - Legend (USA) (A First Look)">
+		<category>Bonus Discs</category>
+		<description>Lara Croft Tomb Raider - Legend (USA) (A First Look)</description>
+		<rom name="Lara Croft Tomb Raider - Legend (USA) (A First Look).iso" size="539361280" crc="6606ec56" md5="c4c9e21f4066c5b1d1a26cefdfc40ed2" sha1="42ef55febd9b0cb1d1084ef915c2c689913b0689"/>
+	</game>
+	<game name="Marc Ecko's Getting Up - Contents Under Pressure (USA) (Making of...)">
+		<category>Bonus Discs</category>
+		<description>Marc Ecko's Getting Up - Contents Under Pressure (USA) (Making of...)</description>
+		<rom name="Marc Ecko's Getting Up - Contents Under Pressure (USA) (Making of...).iso" size="3940892672" crc="39f124a7" md5="8af28116b10e795f222c6e1338d21721" sha1="7448ba1f728187a1746231551c35f1f1eb9cfc5a"/>
+	</game>
+	<game name="Ultimate Halo Companion DVD, The (USA)">
+		<category>Video</category>
+		<description>Ultimate Halo Companion DVD, The (USA)</description>
+		<rom name="Ultimate Halo Companion DVD, The (USA).iso" size="4526592000" crc="bff035c4" md5="615e2e1a3fc7e2c0365aefedca2b4d6e" sha1="86b27b0652161224f24949355933129fbf2ee096"/>
+	</game>
+	<game name="D.C.II TV Anime Remix-DVD (Japan)">
+		<category>Bonus Discs</category>
+		<description>D.C.II TV Anime Remix-DVD (Japan)</description>
+		<rom name="D.C.II TV Anime Remix-DVD (Japan).iso" size="2905419776" crc="6745325a" md5="6aedeb7d8a62d39d9f127ae24d4382bc" sha1="0fcfcc9213f0563ba341b9186e105c23e4ac92c2"/>
+	</game>
+	<game name="Tokyo Majin Gakuen - Gehouchou Keppuuroku (Bonus DVD-Video) (Japan)">
+		<category>Bonus Discs</category>
+		<description>Tokyo Majin Gakuen - Gehouchou Keppuuroku (Bonus DVD-Video) (Japan)</description>
+		<rom name="Tokyo Majin Gakuen - Gehouchou Keppuuroku (Bonus DVD-Video) (Japan).iso" size="900988928" crc="67e78e2d" md5="10373748699d6e7f4360ff1b82759cd5" sha1="b1eedfe365914f316eac2d34a6c912d3c6c208af"/>
+	</game>
+	<game name="Halo 2 - Premium DVD (Japan)">
+		<category>Bonus Discs</category>
+		<description>Halo 2 - Premium DVD (Japan)</description>
+		<rom name="Halo 2 - Premium DVD (Japan).iso" size="3875608576" crc="19a6c513" md5="2abe2679b72d5f1a2f5006a832fa503e" sha1="0c02e4c17c252729dbb98dce6086296cfc3af2c3"/>
+	</game>
+	<game name="Motion Gravure Series - Kitagawa Tomomi (Bonus DVD-Video) (Japan)">
+		<category>Bonus Discs</category>
+		<description>Motion Gravure Series - Kitagawa Tomomi (Bonus DVD-Video) (Japan)</description>
+		<rom name="Motion Gravure Series - Kitagawa Tomomi (Bonus DVD-Video) (Japan).iso" size="2294808576" crc="31ec6216" md5="ff88f33af46cf5f40f58a69c5af5d693" sha1="1872b2ae1c61f75150e765604b2400f44e6675cd"/>
+	</game>
+	<game name="Official Xbox Magazine Demo Disc 01 - Premiere Issue (USA)">
+		<category>Coverdiscs</category>
+		<description>Official Xbox Magazine Demo Disc 01 - Premiere Issue (USA)</description>
+		<rom name="Official Xbox Magazine Demo Disc 01 - Premiere Issue (USA).iso" size="3395747840" crc="0a292aa9" md5="b674df4b7908cf6d1fe71a8987b1f15a" sha1="ac443e0ebc24bf18f6e06d995cd37cc09e2fbdc4"/>
+	</game>
+	<game name="Gunparade Orchestra - Shiro no Shou - OVA Oishii Seikatsu (Japan)">
+		<category>Bonus Discs</category>
+		<description>Gunparade Orchestra - Shiro no Shou - OVA Oishii Seikatsu (Japan)</description>
+		<rom name="Gunparade Orchestra - Shiro no Shou - OVA Oishii Seikatsu (Japan).iso" size="1964105728" crc="1a72768d" md5="af8b6188cadfea3376e4e5b7ed7b24ce" sha1="232545ad6d509c58dbce0cdedfa0ace2211cd520"/>
+	</game>
+	<game name="IL-2 Sturmovik - 1946 (Europe) (Bonus)">
+		<category>Games</category>
+		<description>IL-2 Sturmovik - 1946 (Europe) (Bonus)</description>
+		<rom name="IL-2 Sturmovik - 1946 (Europe) (Bonus).iso" size="4666314752" crc="b64fa96d" md5="086cf290cae7c6157701755aa2e64bda" sha1="1be428636ccb1e6882195a0228708d356eea534f"/>
+	</game>
+	<game name="Making of Onimusha (Japan)">
+		<category>Video</category>
+		<description>Making of Onimusha (Japan)</description>
+		<rom name="Making of Onimusha (Japan).iso" size="3373531136" crc="592009f7" md5="1416d867e2fdf27db18599075f4a7c6f" sha1="40bfa5b4eba7cd345ef51f28df3e244f2178ddcc"/>
+	</game>
+	<game name="Devil May Cry 4 (Japan) (Special DVD)">
+		<category>Video</category>
+		<description>Devil May Cry 4 (Japan) (Special DVD)</description>
+		<rom name="Devil May Cry 4 (Japan) (Special DVD).iso" size="3625320448" crc="e6b29e9a" md5="f38628f4f590e0938174c9f5b6e1148c" sha1="9c2accb75a1b2baca0853829e3699728a9de776a"/>
+	</game>
+	<game name="Nobunaga no Yabou - Souzou with Power-Up Kit Tentou PV (Japan)">
+		<category>Video</category>
+		<description>Nobunaga no Yabou - Souzou with Power-Up Kit Tentou PV (Japan)</description>
+		<rom name="Nobunaga no Yabou - Souzou with Power-Up Kit Tentou PV (Japan).iso" size="377749504" crc="130a0c63" md5="c4fd5b9dc93f47816cecc6e8f30c411d" sha1="80a2d223abd16a83785d84c41e3b68dcc8df0b24"/>
+	</game>
+	<game name="Kagero - Mou Hitori no Princess Tentou PV (Japan)">
+		<category>Video</category>
+		<description>Kagero - Mou Hitori no Princess Tentou PV (Japan)</description>
+		<rom name="Kagero - Mou Hitori no Princess Tentou PV (Japan).iso" size="216997888" crc="64030a0e" md5="0b74290d6f2af29b9281efe90dba7eda" sha1="ca8fd70c31bba8ce16d6382a70820e00fbacbaa8"/>
+	</game>
+	<game name="Super Mario Galaxy 2 for Beginners (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It) (v1.02)">
+		<category>Bonus Discs</category>
+		<description>Super Mario Galaxy 2 for Beginners (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It) (v1.02)</description>
+		<rom name="Super Mario Galaxy 2 for Beginners (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It) (v1.02).iso" size="4546199552" crc="0146c46e" md5="754f373bc52ada2a267e0797c34fa744" sha1="b9efd354696cd5e73a5e6e7b6e0247b4bbb84c33"/>
+	</game>
+	<game name="Biohazard 4 Secret DVD (Japan)">
+		<category>Video</category>
+		<description>Biohazard 4 Secret DVD (Japan)</description>
+		<rom name="Biohazard 4 Secret DVD (Japan).iso" size="2094727168" crc="e63943bd" md5="3d87f4e41d25ed67325ceab96ac525cc" sha1="7317554ad1db7bad145df405bee9ab92dec779bb"/>
+	</game>
+	<game name="Super Mario Galaxy 2 for Beginners (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It) (v1.03)">
+		<category>Bonus Discs</category>
+		<description>Super Mario Galaxy 2 for Beginners (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It) (v1.03)</description>
+		<rom name="Super Mario Galaxy 2 for Beginners (Bonus DVD-Video) (Europe) (En,Fr,De,Es,It) (v1.03).iso" size="4541841408" crc="542af47d" md5="85ce2e70501b674d863b2f6e1a2c0969" sha1="f66681af0141468239ca9ef80f3f61a048c4ba12"/>
+	</game>
+	<game name="Toukiden - Kiwami Tentou Promotion Video (Japan)">
+		<category>Video</category>
+		<description>Toukiden - Kiwami Tentou Promotion Video (Japan)</description>
+		<rom name="Toukiden - Kiwami Tentou Promotion Video (Japan).iso" size="123781120" crc="100d1a74" md5="51f85c243c4ba78ba53d571701741597" sha1="4002092270306219725bdb979215ceb7d1a87985"/>
+	</game>
+	<game name="Dot Hack Liminality Vol. 4 - Trismegistus (Japan)">
+		<category>Bonus Discs</category>
+		<description>Dot Hack Liminality Vol. 4 - Trismegistus (Japan)</description>
+		<rom name="Dot Hack Liminality Vol. 4 - Trismegistus (Japan).iso" size="2254739456" crc="bd2d0071" md5="1cab4213c4fed06c0e730b947ee255d2" sha1="07f8cffd977474d438de38f7612b7148bafa2c9c"/>
+	</game>
+	<game name="Mad Dog II - The Lost Gold (USA)">
+		<category>Games</category>
+		<description>Mad Dog II - The Lost Gold (USA)</description>
+		<rom name="Mad Dog II - The Lost Gold (USA).iso" size="4495179776" crc="802c2a3a" md5="aaa7d14b6a1c5e0133e0c67b4aa0f9b6" sha1="93e7d4d9956cddaa0429c8876bb7ac3c9658c68f"/>
+	</game>
+	<game name="Yoru no Nai Kuni (Japan)">
+		<category>Video</category>
+		<description>Yoru no Nai Kuni (Japan)</description>
+		<rom name="Yoru no Nai Kuni (Japan).iso" size="135526400" crc="ff255265" md5="54667519bb59d343bed5f77a0aa0b2b0" sha1="bb60e9d63ce81b3cc1680cae0d63601c28fccb6a"/>
+	</game>
+	<game name="Taiho Shichauzo - Bokutou-sho Kakushigei Taikai!! Natsumi to Miyuki no Taiho Shichauzo Ningyougeki (Japan) (Bundled with [PSX] Taiho Shichauzo - You're Under Arrest (Shokai Genteiban)">
+		<category>Bonus Discs</category>
+		<description>Taiho Shichauzo - Bokutou-sho Kakushigei Taikai!! Natsumi to Miyuki no Taiho Shichauzo Ningyougeki (Japan) (Bundled with [PSX] Taiho Shichauzo - You're Under Arrest (Shokai Genteiban)</description>
+		<rom name="Taiho Shichauzo - Bokutou-sho Kakushigei Taikai!! Natsumi to Miyuki no Taiho Shichauzo Ningyougeki (Japan) (Bundled with [PSX] Taiho Shichauzo - You're Under Arrest (Shokai Genteiban).iso" size="1431461888" crc="ec5f1cc3" md5="e16c186b79c6e6d7dd97b9fae5a70af6" sha1="d32aa34b18fea211ffbf35b9e0b4fc6370587e01"/>
+	</game>
+	<game name="School Days (Japan) (Commentary DVD)">
+		<category>Video</category>
+		<description>School Days (Japan) (Commentary DVD)</description>
+		<rom name="School Days (Japan) (Commentary DVD).iso" size="4036040704" crc="dbee6a5f" md5="ec27244137d35b3c19efc823da153001" sha1="198bb7d7e12060933f1683c1c6bf12fa0bed6793"/>
+	</game>
+	<game name="Dot Hack Liminality Vol. 1 - In the Case of Mai Minase (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Dot Hack Liminality Vol. 1 - In the Case of Mai Minase (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Dot Hack Liminality Vol. 1 - In the Case of Mai Minase (Europe) (En,Fr,De,Es,It).iso" size="4558569472" crc="ab087fd8" md5="7439fc4c9744ae459e4ee959767573f1" sha1="8059700142874fdea5043aeea7726d44e75d2ed7"/>
+	</game>
+	<game name="Famitsu x Capcom Special DVD (Japan)">
+		<category>Video</category>
+		<description>Famitsu x Capcom Special DVD (Japan)</description>
+		<rom name="Famitsu x Capcom Special DVD (Japan).iso" size="4313563136" crc="d3ee1541" md5="8771e2a734fc44c66bc6597c5ccb32e9" sha1="f1c299f609117e9720b22d4ac81b57334b4c40ff"/>
+	</game>
+	<game name="Command &amp; Conquer 3 - Kane's Wrath (USA) (Pre-Order Bonus DVD)">
+		<category>Bonus Discs</category>
+		<description>Command &amp; Conquer 3 - Kane's Wrath (USA) (Pre-Order Bonus DVD)</description>
+		<rom name="Command &amp; Conquer 3 - Kane's Wrath (USA) (Pre-Order Bonus DVD).iso" size="7522615296" crc="c5032b90" md5="063b329146246b809f02321bb84e5148" sha1="c2d66cd14e14fd6c2011e9e2ab2e1a8cd48e7b30"/>
+	</game>
+	<game name="Sega Press SP 11 - 2008 November (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 11 - 2008 November (Japan)</description>
+		<rom name="Sega Press SP 11 - 2008 November (Japan).iso" size="2467588096" crc="5e81382f" md5="ffac25c3e6902ccb65762249fd65a0ba" sha1="983c01fa89625145e706bd1a4856499148200067"/>
+	</game>
+	<game name="Sega Press SP 3 - 2008 March (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 3 - 2008 March (Japan)</description>
+		<rom name="Sega Press SP 3 - 2008 March (Japan).iso" size="3142752256" crc="c07fb554" md5="7c5f9aaf557f8dfcda37ec714909ad1c" sha1="2961c000628c2bf98fb9b2fa0f9e7f32794575e1"/>
+	</game>
+	<game name="Sega Press SP 3 - 2009 March (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 3 - 2009 March (Japan)</description>
+		<rom name="Sega Press SP 3 - 2009 March (Japan).iso" size="1982920704" crc="f6cd0f12" md5="09cdf076e6cee3000d58ca042e1bb288" sha1="e7015f22d9ec2bb76cb37e1009e3849a11f08db8"/>
+	</game>
+	<game name="Sega Press SP 3 - 2011 March (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 3 - 2011 March (Japan)</description>
+		<rom name="Sega Press SP 3 - 2011 March (Japan).iso" size="1339363328" crc="69d10bcc" md5="7fe23202668c187c4ccced5736fb72fa" sha1="f64613170178853e05ad4c702512943620680433"/>
+	</game>
+	<game name="Sega Press SP 4 - 2009 April (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 4 - 2009 April (Japan)</description>
+		<rom name="Sega Press SP 4 - 2009 April (Japan).iso" size="2922575872" crc="4a629a60" md5="c8adb9dcecb59c3cc390ce4db58ca5ba" sha1="aa4db84e25ee4ebd51cec2dec1db69dd7c533154"/>
+	</game>
+	<game name="Sega Press SP 4 - 2011 April (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 4 - 2011 April (Japan)</description>
+		<rom name="Sega Press SP 4 - 2011 April (Japan).iso" size="1697984512" crc="ee38d15f" md5="42662337d9327506e3f498db1287810d" sha1="10602931c9bfb35494af90a532455a778098420e"/>
+	</game>
+	<game name="Sega Press SP 5 - 2011 May (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 5 - 2011 May (Japan)</description>
+		<rom name="Sega Press SP 5 - 2011 May (Japan).iso" size="998057984" crc="d5db983b" md5="f89c934c6177c3d665c971c5cf38f5d7" sha1="48b1ae581f2426c30d5697c2ba83d986d735768f"/>
+	</game>
+	<game name="Sega Press SP 6 - 2008 June (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 6 - 2008 June (Japan)</description>
+		<rom name="Sega Press SP 6 - 2008 June (Japan).iso" size="3677988864" crc="8a551cd7" md5="7a48f0c4c9f7a3ab22c8f4103cfbbc01" sha1="8a758560f91b43be62c49e0bfa597edc0ab9f7e0"/>
+	</game>
+	<game name="Sega Press SP 7 - 2008 July (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 7 - 2008 July (Japan)</description>
+		<rom name="Sega Press SP 7 - 2008 July (Japan).iso" size="2467430400" crc="07f61d6d" md5="3e7d88ce05fd341eb0d8834f31ab2096" sha1="b0e64f9b2d43c3b44a881ac6d19dd7b243048954"/>
+	</game>
+	<game name="Sega Press SP 9 - 2008 September (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 9 - 2008 September (Japan)</description>
+		<rom name="Sega Press SP 9 - 2008 September (Japan).iso" size="1869340672" crc="2722bc37" md5="aa1f10df2baff5b51160c578fe3fc52d" sha1="d9f9da073bec8c0a9ace44f7914aaa76f24e7614"/>
+	</game>
+	<game name="Sega Press SP 1 - 2008 January (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 1 - 2008 January (Japan)</description>
+		<rom name="Sega Press SP 1 - 2008 January (Japan).iso" size="2003347456" crc="fddadf8e" md5="5ec7670e1d25227a5316e5156658423a" sha1="a075a805100072147f634b0682d414194f8a43b7"/>
+	</game>
+	<game name="Sega Press SP 10 - 2008 October (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 10 - 2008 October (Japan)</description>
+		<rom name="Sega Press SP 10 - 2008 October (Japan).iso" size="2483202048" crc="95d83d61" md5="2d6737019be8214d66831d4d736d2cf4" sha1="0c3b52148f5202bfce07bb2aa65e6e28e64ca415"/>
+	</game>
+	<game name="Sega Press SP 12 - 2008 December (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 12 - 2008 December (Japan)</description>
+		<rom name="Sega Press SP 12 - 2008 December (Japan).iso" size="3080767488" crc="aff7c602" md5="fd6e659e20b837478a65404365a0f838" sha1="a86f7e9cd233ff77bb902a44510d6870168e6f34"/>
+	</game>
+	<game name="Sega Press SP 2 - 2009 February (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 2 - 2009 February (Japan)</description>
+		<rom name="Sega Press SP 2 - 2009 February (Japan).iso" size="1857069056" crc="3357c87e" md5="df9ceb8565c33e405e8f1de39b0764ba" sha1="63fb28cf200d6087b2e2e73fdfbe07497a38ef8c"/>
+	</game>
+	<game name="Sega Press SP 3 - 2003 March (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 3 - 2003 March (Japan)</description>
+		<rom name="Sega Press SP 3 - 2003 March (Japan).iso" size="1477281792" crc="3a537feb" md5="6060cac8d7f74209e3a705b4efaaf527" sha1="c0b90979ba6154bd2a98ce55132c0550af187a36"/>
+	</game>
+	<game name="Sega Press SP 5 - 2003 May (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 5 - 2003 May (Japan)</description>
+		<rom name="Sega Press SP 5 - 2003 May (Japan).iso" size="1244481536" crc="53a0111d" md5="ed4154c3034614de8d4dba49ba0a3cda" sha1="5c128e07df98e3cf8361bc4f437318f3855b19d7"/>
+	</game>
+	<game name="Sega Press SP 5 - 2008 May (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 5 - 2008 May (Japan)</description>
+		<rom name="Sega Press SP 5 - 2008 May (Japan).iso" size="3085559808" crc="dd4ce4bd" md5="3257b2f28c98473fc3e515ca8d0d2efb" sha1="c718d7dc1ceae6cd4aa983773476386ea94ffd65"/>
+	</game>
+	<game name="Sega Press SP 5 - 2009 May (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 5 - 2009 May (Japan)</description>
+		<rom name="Sega Press SP 5 - 2009 May (Japan).iso" size="2226458624" crc="15bc2b2b" md5="515c6fff08964a63aef3ec7a7034a52b" sha1="89bfbabc4673e4b8aa7852d59b5186fc8117c6b4"/>
+	</game>
+	<game name="Sega Press SP 6 - 2009 June (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 6 - 2009 June (Japan)</description>
+		<rom name="Sega Press SP 6 - 2009 June (Japan).iso" size="1306406912" crc="584bb053" md5="a231c8dd176921964b59d5b99a4e67b2" sha1="9d53669627e73637446b662e200e313d7a5ce106"/>
+	</game>
+	<game name="Sega Press SP 7 - 2003 July (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 7 - 2003 July (Japan)</description>
+		<rom name="Sega Press SP 7 - 2003 July (Japan).iso" size="1568616448" crc="b61662b3" md5="3156f8b8b5c135970b86d4e262ac823b" sha1="a77232e83c288c18f8a2b7e14bda3be5a2fcc750"/>
+	</game>
+	<game name="Sega Press SP 7 - 2004 July (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 7 - 2004 July (Japan)</description>
+		<rom name="Sega Press SP 7 - 2004 July (Japan).iso" size="2677747712" crc="78cc085a" md5="da683a284da3ec4da195d8c5e46bf5c8" sha1="1bd82ebfde89f27cb512e5fc008f09f93207a837"/>
+	</game>
+	<game name="Sega Press SP 8 - 2008 August (Japan)">
+		<category>Video</category>
+		<description>Sega Press SP 8 - 2008 August (Japan)</description>
+		<rom name="Sega Press SP 8 - 2008 August (Japan).iso" size="2727921664" crc="69f66c01" md5="ba25f069cb092ff6fcf34f4f8d7a05c2" sha1="6f17aedfc931d9c7eab3684664945f057f48c596"/>
+	</game>
+	<game name="Gunslinger Girl. Volume.III (Japan)">
+		<category>Video</category>
+		<description>Gunslinger Girl. Volume.III (Japan)</description>
+		<rom name="Gunslinger Girl. Volume.III (Japan).iso" size="7795953664" crc="3a3f6535" md5="cbd648e3626a104ebf02bfa59b91677b" sha1="700fa556c4e9c7403451e6b0bedaa1e40a6b2bde"/>
+	</game>
+	<game name="Gunslinger Girl. Volume.I (Japan)">
+		<category>Video</category>
+		<description>Gunslinger Girl. Volume.I (Japan)</description>
+		<rom name="Gunslinger Girl. Volume.I (Japan).iso" size="7964645376" crc="49ec3d59" md5="6fdd43f26bb390afaf7389ee0a9da46b" sha1="af68ebf8ba46fcfecd94fd4fd580070ffc5077b8"/>
+	</game>
+	<game name="Halo 3 - Essentials (USA) (Disc 2)">
+		<category>Bonus Discs</category>
+		<description>Halo 3 - Essentials (USA) (Disc 2)</description>
+		<rom name="Halo 3 - Essentials (USA) (Disc 2).iso" size="7706476544" crc="4bd16520" md5="bd3a90260fa90fd654de4321b764c148" sha1="62534f44a44d716d04498bc6885804446b5dea54"/>
+	</game>
+	<game name="Jikkyou Powerful Major League 3 Wii-PS2 (Japan)">
+		<category>Video</category>
+		<description>Jikkyou Powerful Major League 3 Wii-PS2 (Japan)</description>
+		<rom name="Jikkyou Powerful Major League 3 Wii-PS2 (Japan).iso" size="711188480" crc="40792123" md5="7b099c3ffe11e61501a28ad174f9f00d" sha1="51c053d695b2f07e0b3a585d069db012922a8e05"/>
+	</game>
+	<game name="Pro Yakyuu Spirits 2004 Climax (Japan)">
+		<category>Video</category>
+		<description>Pro Yakyuu Spirits 2004 Climax (Japan)</description>
+		<rom name="Pro Yakyuu Spirits 2004 Climax (Japan).iso" size="255012864" crc="1c9b24d4" md5="9329559a38f4f20d2e88b2137f7d347a" sha1="3ae7e07c53bd67b1001e37f70b3c9a814d682f8a"/>
+	</game>
+	<game name="G1 Jockey 4 + Nobunaga no Yabou - Kakushin (Japan)">
+		<category>Video</category>
+		<description>G1 Jockey 4 + Nobunaga no Yabou - Kakushin (Japan)</description>
+		<rom name="G1 Jockey 4 + Nobunaga no Yabou - Kakushin (Japan).iso" size="144613376" crc="263d5008" md5="e4d973f00335fac1c22c1db9953dc93f" sha1="a82c832370541a8203cc5deb65320c75c1c45ede"/>
+	</game>
+	<game name="World Soccer Winning Eleven 10 (Japan)">
+		<category>Video</category>
+		<description>World Soccer Winning Eleven 10 (Japan)</description>
+		<rom name="World Soccer Winning Eleven 10 (Japan).iso" size="356581376" crc="c5cbcd25" md5="bee3f0785b75ff0083f5907bbbc8b3e8" sha1="3b525c5b6e1017ceff79dd82e57a2e37b584922d"/>
+	</game>
+	<game name="Kamiwaza (Japan)">
+		<category>Video</category>
+		<description>Kamiwaza (Japan)</description>
+		<rom name="Kamiwaza (Japan).iso" size="150151168" crc="cf7f8146" md5="c6d0d277c785c97776dfc18d8db0efed" sha1="9a18b28d6d23b4c6bcc3c2ec87b54e4d20533f16"/>
+	</game>
+	<game name="Pro Soccer Club o Tsukurou! Europe Championship (Japan)">
+		<category>Video</category>
+		<description>Pro Soccer Club o Tsukurou! Europe Championship (Japan)</description>
+		<rom name="Pro Soccer Club o Tsukurou! Europe Championship (Japan).iso" size="378843136" crc="dfeab306" md5="aa2adf00741c3ce40143fe2f6908c33f" sha1="442e8a551328d870504a938fda866e4bc29e3ff9"/>
+	</game>
+	<game name="Katamari Damacy + Netchuu! Pro Yakyuu 2004 + Kaena (Japan)">
+		<category>Video</category>
+		<description>Katamari Damacy + Netchuu! Pro Yakyuu 2004 + Kaena (Japan)</description>
+		<rom name="Katamari Damacy + Netchuu! Pro Yakyuu 2004 + Kaena (Japan).iso" size="1093709824" crc="98b6b4bf" md5="8f8dbf81f419dbd9e52dff018bca5e44" sha1="3dd7d1ac11ee31c8c9b4d50bdba87288dc50720f"/>
+	</game>
+	<game name="Oshare Majo Love and Berry - DS Collection (Japan)">
+		<category>Video</category>
+		<description>Oshare Majo Love and Berry - DS Collection (Japan)</description>
+		<rom name="Oshare Majo Love and Berry - DS Collection (Japan).iso" size="139886592" crc="47656f09" md5="13c53b4c98bb5dc0a5a929a42903a4b0" sha1="66589778b07ae54207bf0d22cfa8d95facff2ca7"/>
+	</game>
+	<game name="Soccer Life! (Japan)">
+		<category>Video</category>
+		<description>Soccer Life! (Japan)</description>
+		<rom name="Soccer Life! (Japan).iso" size="522119168" crc="716e05a2" md5="da61ac9cd4aa11c4bd1b150e8b85757e" sha1="40580484023ce6c3e3cbe8165a20fbfad14679c0"/>
+	</game>
+	<game name="King of Fighters, The - Another Day (Japan)">
+		<category>Video</category>
+		<description>King of Fighters, The - Another Day (Japan)</description>
+		<rom name="King of Fighters, The - Another Day (Japan).iso" size="2810085376" crc="14bcec56" md5="e6f85032fe23582251f16ec6fd4031a2" sha1="cf838b42511a57d3b3998f92e155fdb04f3c146d"/>
+	</game>
+	<game name="Naruto - Narutimate Hero 2 (Japan)">
+		<category>Video</category>
+		<description>Naruto - Narutimate Hero 2 (Japan)</description>
+		<rom name="Naruto - Narutimate Hero 2 (Japan).iso" size="878804992" crc="ccdc5110" md5="83c7bf096780220637d65457029dc0fc" sha1="7737fc7bf830ae0ae19d5fd2aedec64b86829283"/>
+	</game>
+	<game name="J.League Winning Eleven 2007 - Club Championship (Japan)">
+		<category>Video</category>
+		<description>J.League Winning Eleven 2007 - Club Championship (Japan)</description>
+		<rom name="J.League Winning Eleven 2007 - Club Championship (Japan).iso" size="610693120" crc="f36f3c2a" md5="7978a7eb1705b687f05aeac447c5a371" sha1="5054a67d45fa30fd07d8e9503e7e1de45f7ffe8f"/>
+	</game>
+	<game name="Need for Speed - Most Wanted - Tokuten Eizou (Japan)">
+		<category>Video</category>
+		<description>Need for Speed - Most Wanted - Tokuten Eizou (Japan)</description>
+		<rom name="Need for Speed - Most Wanted - Tokuten Eizou (Japan).iso" size="1522718720" crc="c2c9c107" md5="5d36126133c8ab5fec55abde2b7ac846" sha1="43112427b8f21f21e4d3a0c87f9fb2806d84909e"/>
+	</game>
+	<game name="Oshare Majo Love and Berry - DS Collection + Dance Collection - 2006 Spring &amp; Summer (Japan)">
+		<category>Video</category>
+		<description>Oshare Majo Love and Berry - DS Collection + Dance Collection - 2006 Spring &amp; Summer (Japan)</description>
+		<rom name="Oshare Majo Love and Berry - DS Collection + Dance Collection - 2006 Spring &amp; Summer (Japan).iso" size="537933824" crc="20d71945" md5="c5b7bac443ab9ce2e97d88a6a3554d29" sha1="a7c422f2c4f26891e63ded7fb1e2f15062ad7e2c"/>
+	</game>
+	<game name="Wii - Suzumiya Haruhi no Gekidou + Wii - Suzumiya Haruhi no Heiretsu + Nintendo DS - Suzumiya Haruhi no Heiretsu (Japan)">
+		<category>Video</category>
+		<description>Wii - Suzumiya Haruhi no Gekidou + Wii - Suzumiya Haruhi no Heiretsu + Nintendo DS - Suzumiya Haruhi no Heiretsu (Japan)</description>
+		<rom name="Wii - Suzumiya Haruhi no Gekidou + Wii - Suzumiya Haruhi no Heiretsu + Nintendo DS - Suzumiya Haruhi no Heiretsu (Japan).iso" size="366704640" crc="593557cf" md5="63db2fe49b29cfa43f8b5a5f6ec03785" sha1="07b629ad7949a2109ba8faa4a9ab119104978902"/>
+	</game>
+	<game name="Tokyo Friend Park II Ketteiban - Minna de Chousen! Taikan Attraction! + High School Baseball DS (Japan)">
+		<category>Video</category>
+		<description>Tokyo Friend Park II Ketteiban - Minna de Chousen! Taikan Attraction! + High School Baseball DS (Japan)</description>
+		<rom name="Tokyo Friend Park II Ketteiban - Minna de Chousen! Taikan Attraction! + High School Baseball DS (Japan).iso" size="381419520" crc="8cd0623c" md5="cdd42436aaff9993e33c905635f3518b" sha1="d349d5b7cdacf8b4657338bfdaf671f69324e2e9"/>
+	</game>
+	<game name="Kouchuu Ouja Mushi King - Greatest Champion e no Michi 2 (Japan)">
+		<category>Video</category>
+		<description>Kouchuu Ouja Mushi King - Greatest Champion e no Michi 2 (Japan)</description>
+		<rom name="Kouchuu Ouja Mushi King - Greatest Champion e no Michi 2 (Japan).iso" size="96925696" crc="859229e4" md5="963acee8cdb4698a9f71358e21d6025e" sha1="b4313bdbdd251d0f897bf631cb1f2d77c96e5439"/>
+	</game>
+	<game name="D3 Publisher no Shinsaku Annai - Autumn 2004 (Japan)">
+		<category>Video</category>
+		<description>D3 Publisher no Shinsaku Annai - Autumn 2004 (Japan)</description>
+		<rom name="D3 Publisher no Shinsaku Annai - Autumn 2004 (Japan).iso" size="1576730624" crc="f7aa64aa" md5="a9b9818d1e79224d70128ad03e958f1b" sha1="dfe6b0fa886f5f78d3ac0aadd58adb65b39dc730"/>
+	</game>
+	<game name="Nouryoku Trainer Portable 2, Mogi Kenichiro Hakase Kanshuu - Nou ni Kaikan AHA Taiken! (Japan)">
+		<category>Video</category>
+		<description>Nouryoku Trainer Portable 2, Mogi Kenichiro Hakase Kanshuu - Nou ni Kaikan AHA Taiken! (Japan)</description>
+		<rom name="Nouryoku Trainer Portable 2, Mogi Kenichiro Hakase Kanshuu - Nou ni Kaikan AHA Taiken! (Japan).iso" size="649078784" crc="92703a82" md5="dd8c98815a790528388c281bdaabd290" sha1="fa9451b19c8fd0e3c7d1f04bab522be82f80519a"/>
+	</game>
+	<game name="D3 Publisher no Shinsaku Annai - Spring 2004 (Japan)">
+		<category>Video</category>
+		<description>D3 Publisher no Shinsaku Annai - Spring 2004 (Japan)</description>
+		<rom name="D3 Publisher no Shinsaku Annai - Spring 2004 (Japan).iso" size="2179223552" crc="1d4c7a49" md5="ded89e267269b8b28ea5f99554b6ef97" sha1="eeb93458dd28d0d980205a12a75a0092aaabcd13"/>
+	</game>
+	<game name="Famitsuu Wave DVD July 2008 (Japan) (Disc 1)">
+		<category>Video</category>
+		<description>Famitsuu Wave DVD July 2008 (Japan) (Disc 1)</description>
+		<rom name="Famitsuu Wave DVD July 2008 (Japan) (Disc 1).iso" size="4358936576" crc="5a031a28" md5="a76b0a409d874827b78cc4edebc0ea18" sha1="2c19e721cb27bb7c4bc7e6aa8747881678558922"/>
+	</game>
+	<game name="Famitsuu Wave DVD July 2008 (Japan) (Disc 2)">
+		<category>Video</category>
+		<description>Famitsuu Wave DVD July 2008 (Japan) (Disc 2)</description>
+		<rom name="Famitsuu Wave DVD July 2008 (Japan) (Disc 2).iso" size="4392374272" crc="160f17de" md5="fe314673a38f96beb1fb87643418a37a" sha1="e15c8758bcf6283a6102bc91a9ca53232eaaa9b7"/>
+	</game>
+	<game name="Xbox 360 Vision Volume 100 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 Vision Volume 100 (Europe)</description>
+		<rom name="Xbox 360 Vision Volume 100 (Europe).iso" size="3200647168" crc="7a8a7686" md5="57f4ecc2d054cf9b3032149207aaa241" sha1="eca29ccc1d33ffa33b904087c484f49748085dd2"/>
+	</game>
+	<game name="Xbox 360 Vision Volume 25 (Europe)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 Vision Volume 25 (Europe)</description>
+		<rom name="Xbox 360 Vision Volume 25 (Europe).iso" size="4358569984" crc="c09f5f42" md5="d2513c8268d0c148123b420a1b31ad89" sha1="be85f8e32d15ed2e3d15859b6f9592f4bfe308b8"/>
+	</game>
+	<game name="Xbox 360 World 62 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 62 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 62 (Europe) (Side A).iso" size="4632018944" crc="7b51e7ba" md5="72a53e84c9bbe184e7b43e8b77f3b86a" sha1="2ebbdb6233e39afdd90bc3583e633d7988968629"/>
+	</game>
+	<game name="Xbox 360 World 67 (Europe) (Side A)">
+		<category>Coverdiscs</category>
+		<description>Xbox 360 World 67 (Europe) (Side A)</description>
+		<rom name="Xbox 360 World 67 (Europe) (Side A).iso" size="4418764800" crc="0d53ca91" md5="11f99543ab9a532e3860f917a0153bc4" sha1="1762755a68e34d47a8d5f1987fbc8fc18c2b66c2"/>
+	</game>
+	<game name="PSM2 Volume 71 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 71 (Europe)</description>
+		<rom name="PSM2 Volume 71 (Europe).iso" size="2076049408" crc="3104efc4" md5="ae157b4e7adc58ea027496f9f2a184ed" sha1="25573caf7dffe5218d4db641751fa3429d57fb8a"/>
+	</game>
+	<game name="PSWorld Volume 78 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 78 (Europe)</description>
+		<rom name="PSWorld Volume 78 (Europe).iso" size="4104257536" crc="6fdde69d" md5="acebbb56061260468567600ce039cb03" sha1="18185f984e0a350d1eb1b416f4d8fa768f243b00"/>
+	</game>
+	<game name="PSWorld Volume 84 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 84 (Europe)</description>
+		<rom name="PSWorld Volume 84 (Europe).iso" size="4447240192" crc="7fcb3d57" md5="a5f8537b172990fd55eb964dd19a434f" sha1="6b505cd3595e65b622488f1f5ec3e28e8b944e76"/>
+	</game>
+	<game name="PSM2 Volume 8 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 8 (Europe)</description>
+		<rom name="PSM2 Volume 8 (Europe).iso" size="4629102592" crc="c832f80e" md5="9062a8b14b5f2dcf7e63000882eb8ca0" sha1="8eb9d866ad58d7adf59318152ff3c6e14a90faa8"/>
+	</game>
+	<game name="PSWorld Volume 27 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 27 (Europe)</description>
+		<rom name="PSWorld Volume 27 (Europe).iso" size="4633741312" crc="8d82f575" md5="8fd206b75a84ce24b905cdab87e295b8" sha1="a9c91426540095ad5b0c7507b721cb58575a297d"/>
+	</game>
+	<game name="Gunslinger Girl. Volume.II (Japan)">
+		<category>Games</category>
+		<description>Gunslinger Girl. Volume.II (Japan)</description>
+		<rom name="Gunslinger Girl. Volume.II (Japan).iso" size="7190380544" crc="96e06cdf" md5="de2039f0c89c7884cb84c5e0297b0ae5" sha1="41e688fdb5e461e3691da6ccd2253f9192c4fd1f"/>
+	</game>
+	<game name="Armored Core - Machine Side Box 1997-2006 - Movie Archive (Japan)">
+		<category>Video</category>
+		<description>Armored Core - Machine Side Box 1997-2006 - Movie Archive (Japan)</description>
+		<rom name="Armored Core - Machine Side Box 1997-2006 - Movie Archive (Japan).iso" size="3985485824" crc="b068e51a" md5="b9af6b1486935cb245015115d80b624b" sha1="d6c6a4281ea586901ac91649b5921f91ccce1b05"/>
+	</game>
+	<game name="Super Mic-chan - Toriatsukai Setsumei DVD - Oshiete! Komukai Minako (Japan)">
+		<category>Bonus Discs</category>
+		<description>Super Mic-chan - Toriatsukai Setsumei DVD - Oshiete! Komukai Minako (Japan)</description>
+		<rom name="Super Mic-chan - Toriatsukai Setsumei DVD - Oshiete! Komukai Minako (Japan).iso" size="1433632768" crc="cae23284" md5="8380e2b073970de5fc91a1d9121959d6" sha1="ddcb3d712574fc507fc6e968edb5df3ef8de2c2b"/>
+	</game>
+	<game name="D-A - Black - Tokuten Eizou DVD (Japan) (Bundled with [PS2] D-A - Black (Shokai Genteiban)">
+		<category>Bonus Discs</category>
+		<description>D-A - Black - Tokuten Eizou DVD (Japan) (Bundled with [PS2] D-A - Black (Shokai Genteiban)</description>
+		<rom name="D-A - Black - Tokuten Eizou DVD (Japan) (Bundled with [PS2] D-A - Black (Shokai Genteiban).iso" size="3731304448" crc="9c271345" md5="cac68718bb7d1257bc05c069d6537b08" sha1="81fa8012caee7a31fda0cddc725fa51b1b066ea0"/>
+	</game>
+	<game name="D-A - White - Tokuten Eizou DVD (Japan)">
+		<category>Bonus Discs</category>
+		<description>D-A - White - Tokuten Eizou DVD (Japan)</description>
+		<rom name="D-A - White - Tokuten Eizou DVD (Japan).iso" size="6331828224" crc="ecdaff2c" md5="b04bb545fd19a80808b3003ff6892cc7" sha1="e220f738479e78a43a492147abf37bbd75e95728"/>
+	</game>
+	<game name="PSWorld Volume 81 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSWorld Volume 81 (Europe)</description>
+		<rom name="PSWorld Volume 81 (Europe).iso" size="4648173568" crc="c38de3fb" md5="8e2660afcbee306d395104a9ffbaec1b" sha1="39708dec2b84d274f929b5b3e934b43d35375563"/>
+	</game>
+	<game name="PSM2 Volume 26 (Europe)">
+		<category>Coverdiscs</category>
+		<description>PSM2 Volume 26 (Europe)</description>
+		<rom name="PSM2 Volume 26 (Europe).iso" size="7894398976" crc="82594a83" md5="fb5a9a492127b1a2b5873ddb1840214b" sha1="3bac14d6f67524dd085e87834de72d0dae60ff9b"/>
+	</game>
+</datafile>

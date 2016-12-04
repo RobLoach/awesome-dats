@@ -351,14 +351,6 @@
 		<rom name="Golf Links 386 Pro (Japan).cue" size="92" crc="2f39ce25" md5="7b971ef29af37dc896f91b76398a26b0" sha1="81a07ca4334675f87ea175f0103dc2b14a3988a2"/>
 		<rom name="Golf Links 386 Pro (Japan).bin" size="20815200" crc="99a1878d" md5="164db67263c00939fc9ceb8f3d1a96cb" sha1="bc5a1e3c0773dcba00720728351661da6fd8a75c"/>
 	</game>
-	<game name="Game Drama Series - Ms. Detective File #2 - Sugata-naki Irainin (Japan)">
-		<category>Games</category>
-		<description>Game Drama Series - Ms. Detective File #2 - Sugata-naki Irainin (Japan)</description>
-		<rom name="Game Drama Series - Ms. Detective File #2 - Sugata-naki Irainin (Japan).cue" size="477" crc="d798b59d" md5="58d1a9775ee9cc352be83006214f2cd4" sha1="e685c03006018a7247d2db8a3dbcaaab8d9065be"/>
-		<rom name="Game Drama Series - Ms. Detective File #2 - Sugata-naki Irainin (Japan) (Track 1).bin" size="411717600" crc="b19bf465" md5="93e24005d771e4528d3007908b94ceb1" sha1="1c1e17b564a524f7a5ed44f758fcda205e564aae"/>
-		<rom name="Game Drama Series - Ms. Detective File #2 - Sugata-naki Irainin (Japan) (Track 2).bin" size="5997600" crc="3b1cd37e" md5="63739ddc9be3830b5e054daf6f9de282" sha1="6ecc47538dd2e211d732204258dcee947dad6eb9"/>
-		<rom name="Game Drama Series - Ms. Detective File #2 - Sugata-naki Irainin (Japan) (Track 3).bin" size="56459760" crc="4b6d7133" md5="a4a4533bee1ca63a668de7b995360cb2" sha1="b40d51dfe5eb7c66062680b7aa7342b5cac2d440"/>
-	</game>
 	<game name="Psychic Detective Series Vol. 5 - Nightmare (Japan)">
 		<category>Games</category>
 		<description>Psychic Detective Series Vol. 5 - Nightmare (Japan)</description>
@@ -372,15 +364,6 @@
 		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 7).bin" size="26928048" crc="0364eaa6" md5="571d2b19e87a90cb1dc0025aed5f19fd" sha1="f2123d332f75cf5f2dbabd7dde3cd8f13f45c4f9"/>
 		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 8).bin" size="29766912" crc="bb26f92b" md5="63d44a9303590e28aead360f5628528f" sha1="79ab44f8e18e7d29bd69b0e1ca139700f3a58c31"/>
 		<rom name="Psychic Detective Series Vol. 5 - Nightmare (Japan) (Track 9).bin" size="12540864" crc="99416f24" md5="5303229d435e3b226a68f365d0c3325a" sha1="e42f29b4509c798a85a8743c7664981b19f80d82"/>
-	</game>
-	<game name="Psychic Detective Series Vol. 1 - Invitation (Japan)">
-		<category>Games</category>
-		<description>Psychic Detective Series Vol. 1 - Invitation (Japan)</description>
-		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan).cue" size="566" crc="9afc3dcf" md5="86761c4d6b2a9eab559e5cc10d465678" sha1="302d3f07b80744317252e3e3b099eae02f0c6a46"/>
-		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan) (Track 1).bin" size="201448800" crc="5d2529aa" md5="6ecf9272bef2c24d83eab727434bea63" sha1="24dda7bd89762a5b7280c9b83542ed042b6ff34b"/>
-		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan) (Track 2).bin" size="72335760" crc="72a4dd12" md5="482ae7fa7f01eab1adef099a42f48a2d" sha1="aef73c8cda5335fb05c43c9e57ad7cfa64573bc7"/>
-		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan) (Track 3).bin" size="31328640" crc="b3cb10bf" md5="8039fb311e6dd9c1767557cf42fd4302" sha1="8cfd1a51ec1caa3ac26c158f8700f2bf929a1820"/>
-		<rom name="Psychic Detective Series Vol. 1 - Invitation (Japan) (Track 4).bin" size="50097600" crc="a0a77753" md5="426627ed4e972e67470314a26ce0fa2d" sha1="c29cb243ac9ac9580a69d7bbaebb044d9775eafd"/>
 	</game>
 	<game name="Finish Hold 2 - Tag (Japan)">
 		<category>Games</category>
@@ -434,20 +417,6 @@
 		<description>Alice no Yakata 3 (Japan)</description>
 		<rom name="Alice no Yakata 3 (Japan).cue" size="91" crc="1b6f82e8" md5="20906adedcb9c00fb8bc041987db431a" sha1="347e3b6f9cd34a8996a00364dbb5424dbada6d9e"/>
 		<rom name="Alice no Yakata 3 (Japan).bin" size="29056608" crc="15389958" md5="d01d12fc6cf11b1329ade1739641e020" sha1="f724c3868be81c28ecc0082e1e3f98bb2ad8429e"/>
-	</game>
-	<game name="Psychic Detective Series Vol. 2 - Memories (Japan)">
-		<category>Games</category>
-		<description>Psychic Detective Series Vol. 2 - Memories (Japan)</description>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan).cue" size="1301" crc="5ff70490" md5="ee383de011e371996cdf8da682886459" sha1="9ebc063879c53f075f4b1f1595dbcd1b8d58ce8b"/>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 1).bin" size="154408800" crc="06cc6b63" md5="1232b6f9683e9d142580348ca632e1ec" sha1="3fd6918ce160c2d71ad6f0c3b12cd2bbafdd2ae0"/>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 2).bin" size="59606736" crc="bf88d997" md5="421ebb432572d1a82c5c0f901d05645f" sha1="95ced84ebb70039c1d60cb0dcde5bcb21452dc72"/>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 3).bin" size="17957520" crc="edb6daec" md5="d0b8e7a3f9ddf566554e7fc927bbefa9" sha1="caa2aaef7e75387af788d99a98843a33c4d0e78e"/>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 4).bin" size="20777568" crc="5d495539" md5="8d743ff8332acdad5bf692c6196c3cad" sha1="664c50d425c896628ee0f11794c42b8ffef6b7d9"/>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 5).bin" size="11400144" crc="9c01fed1" md5="095616ff0937b234383a750a378a498f" sha1="be51217750f6e8b0740e6c2b2fce808bab9a8d7a"/>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 6).bin" size="14387184" crc="c452db38" md5="fc0c45b75606673f6392e3fc10a79a9c" sha1="c37f7a5cd86d8ec4277ccc7642c5821990600799"/>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 7).bin" size="12733728" crc="7c71e12f" md5="c9240db0c7bb192faddb0d1a02d1b71b" sha1="a9643b99815a482c5ceab0a86212ac0a1746a79b"/>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 8).bin" size="15306816" crc="955da58b" md5="aecc725d3d73739aa3e6af713c1ce6ff" sha1="7529962c13bde82640df4e10098092f795d254ac"/>
-		<rom name="Psychic Detective Series Vol. 2 - Memories (Japan) (Track 9).bin" size="49850640" crc="a97077a9" md5="3214b2bbe272bb5f29a7f45d4777b0ef" sha1="a6a5876182bd52b6c571a84486557a7e1501e2f9"/>
 	</game>
 	<game name="Psychic Detective Series Vol. 3 - Aya (Japan)">
 		<category>Games</category>

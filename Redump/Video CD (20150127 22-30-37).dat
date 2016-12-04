@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Video CD</name>
+		<description>Video CD 20150127 22-30-37</description>
+		<version>20150127 22-30-37</version>
+		<date>20150127 22-30-37</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Thunder in Paradise - The Episode (Europe)">
+		<category>Games</category>
+		<description>Thunder in Paradise - The Episode (Europe)</description>
+		<rom name="Thunder in Paradise - The Episode (Europe).cue" size="541" crc="ac7d59bf" md5="67f204cc2798f9d4b9020d13411590ef" sha1="2e4121fc08450c9b9a649cfbf42521661910f87a"/>
+		<rom name="Thunder in Paradise - The Episode (Europe) (Track 1).bin" size="7585200" crc="f1e2ff54" md5="9ea7ff4866a4ffef4ffc8b2ebd9d9de0" sha1="edc45d4e3424c002c7001ac7ef01150c754e801c"/>
+		<rom name="Thunder in Paradise - The Episode (Europe) (Track 2).bin" size="1587600" crc="2d13a8d7" md5="8f200d977e5021631e32a0baeff1a131" sha1="ce8f761c1015c93dcec254e327dfc4f447b09ecf"/>
+		<rom name="Thunder in Paradise - The Episode (Europe) (Track 3).bin" size="1411200" crc="794bff58" md5="6eb07727715dccc5598253057fe30001" sha1="f7b9afcbad8aac1ffd0d84d7f60606c6ac2f3788"/>
+		<rom name="Thunder in Paradise - The Episode (Europe) (Track 4).bin" size="705635280" crc="99106167" md5="3ea59a5bfc749e04c3372a6fb6dbe383" sha1="f379e3d60f9ee4042c8a04724e4d5ab0e138f01a"/>
+	</game>
+	<game name="Video CD Music Sampler (Europe) (Published by SEGA)">
+		<category>Video</category>
+		<description>Video CD Music Sampler (Europe) (Published by SEGA)</description>
+		<rom name="Video CD Music Sampler (Europe) (Published by SEGA).cue" size="277" crc="70151ce9" md5="da509f77a22674ef9d510bb3685bbf6c" sha1="9686eafc9912ed67d0e5d8f9dad7f0f48fd025c3"/>
+		<rom name="Video CD Music Sampler (Europe) (Published by SEGA) (Track 1).bin" size="7587552" crc="5205c752" md5="06a03b7bdb5c3aa3d66ddc00e577158d" sha1="c359e35bc47088efcae130683e7978284359d214"/>
+		<rom name="Video CD Music Sampler (Europe) (Published by SEGA) (Track 2).bin" size="312743088" crc="b6dc93c1" md5="2981ec09ff197565bc5718b7e4a2cacb" sha1="aecbea511cdbd5372447305c0e249eaec1cd908a"/>
+	</game>
+	<game name="Video CD Music Sampler (Europe) (Published by PolyGram Video)">
+		<category>Video</category>
+		<description>Video CD Music Sampler (Europe) (Published by PolyGram Video)</description>
+		<rom name="Video CD Music Sampler (Europe) (Published by PolyGram Video).cue" size="297" crc="b11e4809" md5="049f25cad12ac4e8d44271eb0c26398a" sha1="deb010c08d70d95dc4fdcdfff1c9763dec41a53d"/>
+		<rom name="Video CD Music Sampler (Europe) (Published by PolyGram Video) (Track 1).bin" size="13761552" crc="f16c54ab" md5="c433e9d53aa81c110e8c8ac6239bf618" sha1="b053658e4bc4dbed8ee0fa04c3337f86181544af"/>
+		<rom name="Video CD Music Sampler (Europe) (Published by PolyGram Video) (Track 2).bin" size="281386224" crc="5496d1b1" md5="0271675d1cc01c3b41c01e4fe2246ad8" sha1="2c699b578242ba01647b011c7fb48b01a9b67d9b"/>
+	</game>
+</datafile>
