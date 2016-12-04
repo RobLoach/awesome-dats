@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM CGE"
 	description "ScummVM - CGE Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2015-10-13
+	version v1.01
+	date 2016-07-24
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name sfinx-pl-2
-	description "Sfinx (Freeware/DOS/Polish)[cge]"
+	description "Sfinx (DOS/Polish Freeware)[cge]"
 	year 1994
 	manufacturer "L.K. Avalon"
 	sourcefile cge
@@ -21,7 +21,7 @@ game (
 
 game (
 	name soltys
-	description "Soltys (Freeware v1.0/DOS)"
+	description "Soltys (DOS/Freeware v1.0)"
 	year 1994
 	manufacturer "L.K. Avalon"
 	sourcefile cge
@@ -31,7 +31,7 @@ game (
 
 game (
 	name soltys-es
-	description "Soltys (Freeware v1.0/DOS/Spanish)"
+	description "Soltys (DOS/Spanish Freeware v1.0)"
 	year 1994
 	manufacturer "L.K. Avalon"
 	sourcefile cge
@@ -41,7 +41,7 @@ game (
 
 game (
 	name soltys-pl
-	description "Soltys (Freeware/DOS/Polish)"
+	description "Soltys (DOS/Polish Freeware)"
 	year 1994
 	manufacturer "L.K. Avalon"
 	sourcefile cge
@@ -51,7 +51,7 @@ game (
 
 game (
 	name soltys-pl-1
-	description "Soltys (Freeware v1.0/DOS/Polish)"
+	description "Soltys (DOS/Polish Freeware v1.0)"
 	year 1994
 	manufacturer "L.K. Avalon"
 	sourcefile cge

@@ -1,0 +1,1498 @@
+clrmamepro (
+	name GARGOYLE
+	description "Gargoyle Engine Games"
+	category "Gargoyle"
+	version v1.07
+	date 2016-10-13
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name amfv
+	description "Mind Forever Voyaging, A (79, 851122)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name amfv_79.z4 size 262036 crc dbc5d94f md5 4787ceeec990c5bafc8767a50e2cf301 )
+)
+
+game (
+	name amfv-1
+	description "Mind Forever Voyaging, A (77, 850814)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name amfv_77.z4 size 262016 crc c469d4ec md5 c9c0b36e7b3a93acd5174169d91d793f )
+)
+
+game (
+	name arthurgarg
+	description "Arthur: The Quest for Excalibur (74, 890714)[IBM]"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof arthurgargres
+	rom ( name arthur.z6 size 269200 crc 9343bc2c md5 fadcbb81bd74072387e767638a67ed82 )
+)
+
+game (
+	name arthurgarg-1
+	description "Arthur: The Quest for Excalibur (63, 890622)[Apple II]"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof arthurgargres
+	rom ( name arthur.z6 size 271304 crc 64cbf47a md5 7848bd8b8f1fe6fd2b023ced7fa98019 )
+)
+
+game (
+	name arthurgarg-2
+	description "Arthur: The Quest for Excalibur (54, 890606)[Amiga/Macintosh]"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof arthurgargres
+	rom ( name arthur.z6 size 270848 crc 546a3755 md5 453e525ef75c64c95a8e07ccc620198a )
+)
+
+game (
+	name ballyhoo
+	description "Ballyhoo (97, 851218)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Ballyhoo_97.z3 size 153600 crc ade9dc8b md5 feed2aa8b7eeac2f60c3f6ac536954d7 )
+)
+
+game (
+	name beyondzork
+	description "Beyond Zork: The Coconut of Quendor (57, 871221)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name beyondzo.mg1 size 18966 crc f094c017 md5 e4af432b9f2658b694865c8ed06c1ef0 )
+	rom ( name beyondzo.z5 size 261388 crc 625a63cf md5 c8d08c8ae50e845a197f1831e1beee5c )
+)
+
+game (
+	name beyondzork-1
+	description "Beyond Zork: The Coconut of Quendor (51, 870923)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name beyondzo.mg1 size 18966 crc f094c017 md5 e4af432b9f2658b694865c8ed06c1ef0 )
+	rom ( name beyondzo.z5 size 261548 crc 507bb141 md5 1bbf43828d95bb94feee52262da96472 )
+)
+
+game (
+	name beyondzork-2
+	description "Beyond Zork: The Coconut of Quendor (49, 870917)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name beyondzo.mg1 size 18966 crc f094c017 md5 e4af432b9f2658b694865c8ed06c1ef0 )
+	rom ( name beyondzo.z5 size 261900 crc 8125b116 md5 24f9ded94a74d688916183358987dcca )
+)
+
+game (
+	name beyondzork-3
+	description "Beyond Zork: The Coconut of Quendor (47, 870915)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name beyondzo.mg1 size 18966 crc f094c017 md5 e4af432b9f2658b694865c8ed06c1ef0 )
+	rom ( name beyondzo.z5 size 261952 crc 4dde2364 md5 3671853351bf84f4ca3263cd159ce685 )
+)
+
+game (
+	name beyondzork-gog
+	description "Beyond Zork: The Coconut of Quendor (57, 871221)[!]"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name BEYONDZO.DAT size 276480 crc 27d97873 md5 743c4a97b9c85d89d85d4f1e8e8bfe85 )
+	rom ( name beyondzo.mg1 size 18966 crc f094c017 md5 e4af432b9f2658b694865c8ed06c1ef0 )
+)
+
+game (
+	name borderzone
+	description "Border Zone: A Game of Intrigue (9, 871008)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Borderzone_9.z5 size 178372 crc 1d7e8f54 md5 2197c5ea8a0649d3900134a3814a0488 )
+)
+
+game (
+	name bureaucracy
+	description "Bureaucracy: A Paranoid Fantasy (116, 870602)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Bureaucracy_116.z4 size 243340 crc 36e91831 md5 6fb8c33765e7cdc59c9a3c4e0725b745 )
+)
+
+game (
+	name bureaucracy-1
+	description "Bureaucracy: A Paranoid Fantasy (86, 870212)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Bureaucracy_86.z4 size 243144 crc 43915fea md5 eb752917f2f1c88e3f2ee9eb29243516 )
+)
+
+game (
+	name cutthroats
+	description "Cutthroats (23, 840809)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Cutthroats_23.z3 size 112558 crc 2f15ac1a md5 ec7d273fd79d4a7dd69a9bf7001f6193 )
+)
+
+game (
+	name deadline
+	description "Deadline (27, 831005)[!]"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Deadline_27.z3 size 108454 crc 0fc930dc md5 b7361f0ac3200b6a9b84429cfae1b2e3 )
+)
+
+game (
+	name deadline-1
+	description "Deadline (26, 821108)[!]"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Deadline_26.z3 size 108372 crc 36239ae3 md5 e307caeb9f9d1022b16f1bcf77edc651 )
+)
+
+game (
+	name deadline-2
+	description "Deadline (22, 820809)[!]"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Deadline_22.z3 size 111782 crc 5dc8972f md5 89dd7c3a902dbd07ac2d7a998e626f3e )
+)
+
+game (
+	name deadline-3
+	description "Deadline (21, 820512)[!]"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Deadline_21.z3 size 111706 crc 4b777269 md5 a27fd98b37aae58a431e45faaead46d0 )
+)
+
+game (
+	name deadline-4
+	description "Deadline (19, 820427)[!]"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Deadline_19.z3 size 111420 crc d0fc441b md5 b08f2a8d0c1b43dde756d1201056d035 )
+)
+
+game (
+	name deadline-5
+	description "Deadline (18, 820311)[!]"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Deadline_18.z3 size 111342 crc 0b4ddbe8 md5 d5a75eb79d3ef54348d8eaa39f88b5c1 )
+)
+
+game (
+	name enchanter
+	description "Enchanter (29, 860820)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Ench_29.z3 size 111126 crc 3786b9f4 md5 1cbfd0c27a1b61b12ab013b848ff83e9 )
+)
+
+game (
+	name enchanter-1
+	description "Enchanter (24, 851118)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Ench_24.z3 size 108638 crc 459e2c09 md5 ad3cdea88d81033fe29167688bd98c31 )
+)
+
+game (
+	name enchanter-2
+	description "Enchanter (16, 831118)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Ench_16.z3 size 109234 crc e53469be md5 8033a976d89669e3480942e9363d194b )
+)
+
+game (
+	name enchanter-3
+	description "Enchanter (15, 831107)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Ench_15.z3 size 109230 crc d65843f2 md5 4ba1f22ecb5a6d1644b0bdb2949007e7 )
+)
+
+game (
+	name enchanter-4
+	description "Enchanter (15, 999999)[h]"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Ench_15h.z3 size 109230 crc a5446a42 md5 f712e7a77552a5c99c391ed90e17ba46 )
+)
+
+game (
+	name enchanter-5
+	description "Enchanter (10, 830810)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Ench_10.z3 size 109126 crc 55494129 md5 b7d4e4d549288c8ccd7a6ea3fa63ad1c )
+)
+
+game (
+	name freefall
+	description "Freefall (2, 951111)"
+	year 1995
+	manufacturer "Andrew Plotkin"
+	sourcefile gargoyle
+	rom ( name FREEFALL.Z5 size 3584 crc afd072d9 md5 3e7898a1e767a2de61336ff2ff4bb1f4 )
+)
+
+game (
+	name hhgttg
+	description "Hitchhiker's Guide to the Galaxy, The (59, 851108)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name hhgttg_59.z3 size 113334 crc 0beec589 md5 f7b84f101c1beb99e8b77218907f99c7 )
+)
+
+game (
+	name hhgttg-1
+	description "Hitchhiker's Guide to the Galaxy, The (58, 851002)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name hhgttg_58.z3 size 113332 crc ed006ced md5 1833cd765a57fcf3210972838a4c1aaf )
+)
+
+game (
+	name hhgttg-2
+	description "Hitchhiker's Guide to the Galaxy, The (56, 841221)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name hhgttg_56.z3 size 113444 crc d2ceba45 md5 9b2a500cc3705e3f5f935962617d9e8b )
+)
+
+game (
+	name hhgttg-3
+	description "Hitchhiker's Guide to the Galaxy, The (47, 840914)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name hhgttg_47.z3 size 112622 crc 05254127 md5 4050ccee81d60558a985e04ab8707c64 )
+)
+
+game (
+	name hhgttg-4
+	description "Hitchhiker's Guide to the Galaxy, The (42, 850323)[h]"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name hhgttg_42h.z3 size 113444 crc 760b53ee md5 234a4bbc30a3867e8eedb754b1741222 )
+)
+
+game (
+	name hhgttg-5
+	description "Hitchhiker's Guide to the Galaxy SG, The (31, 871119)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name hhgttg_31.z5 size 158412 crc dabbaf2e md5 c44b2cd392b505c123fade5dfe1e1be0 )
+)
+
+game (
+	name hijinx
+	description "Hollywood Hijinx (37, 861215)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name hhijinx_37.z3 size 109650 crc 1f552771 md5 c528811e6058d840369af44344c8f202 )
+)
+
+game (
+	name hijinx-1
+	description "Hollywood Hijinx (235, 861118)[beta]"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name hhijinx_235.z3 size 118626 crc e5707504 md5 1ea91a064941a3f612b20833f0a47df7 )
+)
+
+game (
+	name infidel
+	description "Infidel (22, 830916)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name infidel_22.z3 size 93556 crc fc5d66b1 md5 2fe5b5693fa60b0cf8621402423994b1 )
+)
+
+game (
+	name journey
+	description "Journey: The Golden Age Trilogy Part One (83, 890706)[IBM]"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof journeyres
+	rom ( name Journey.z6 size 282312 crc 7da5fb98 md5 c5c07c23c69e0ff88687bb81fc2a7704 )
+)
+
+game (
+	name journey-1
+	description "Journey: The Golden Age Trilogy Part One (77, 890616)[Apple II]"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof journeyres
+	rom ( name Journey.z6 size 282176 crc 9f07234c md5 455925fce7c95a3a81472fd2ec498c22 )
+)
+
+game (
+	name journey-2
+	description "Journey: The Golden Age Trilogy Part One (30, 890322)[Amiga]"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof journeyres
+	rom ( name Journey.z6 size 280472 crc 9b175431 md5 a4421c55dc726a02ea7446982d7b7978 )
+)
+
+game (
+	name journey-3
+	description "Journey: The Golden Age Trilogy Part One (26, 890316)[Macintosh]"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof journeyres
+	rom ( name Journey.z6 size 279872 crc b7b735e3 md5 5b8a74dc3b15eacb8a38f722c4aac792 )
+)
+
+game (
+	name lgop
+	description "Leather Goddesses of Phobos SG (4, 880405)"
+	year 1988
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name lgop_4.z5 size 159928 crc 612b4932 md5 a2915d33dfa3e029b727684e734de303 )
+)
+
+game (
+	name lgop-1
+	description "Leather Goddesses of Phobos (59, 860730)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name lgop_59.z3 size 129022 crc 5beee555 md5 007a88dd76a4981616b631a355fd6caa )
+)
+
+game (
+	name lgop-2
+	description "Leather Goddesses of Phobos (50, 860711)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name lgop_50.z3 size 128998 crc c3cada1c md5 08598bfc22acfa24b147f1dc76eec2b4 )
+)
+
+game (
+	name lgop-3
+	description "Leather Goddesses of Phobos (0, 000000)[h]"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name lgop_0h.z3 size 128998 crc fe0cb87e md5 2d8e3e3a1a3fcca995750cbe9e6d9571 )
+)
+
+game (
+	name lgop-4
+	description "Leather Goddesses of Phobos (160, 860521)[beta]"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name lgop_160h.z3 size 128998 crc 503045ce md5 8241afdadbdcdb934ee06afc6ba59b67 )
+)
+
+game (
+	name lgop-5
+	description "Leather Goddesses of Phobos (50, 000001)[h]"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name lgop_50h.z3 size 129022 crc f292ef83 md5 bfd7521967e563313dc4e525f81af8f2 )
+)
+
+game (
+	name lgop-6
+	description "Leather Goddesses of Phobos (59, 000001)[h]"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name lgop_59h.z3 size 129022 crc eb38de46 md5 9ad67a38289278dfdb028da23d779f67 )
+)
+
+game (
+	name lgop-7
+	description "Leather Goddesses of Phobos (87, 000000)[h]"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name lgop_87h.z3 size 129022 crc 94b3f855 md5 8fef6af3c28f5837434a42d80aa271b7 )
+)
+
+game (
+	name lurking
+	description "Lurking Horror, The (221, 870918)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof lurkingres
+	rom ( name lurkin.z3 size 129944 crc a78eb710 md5 e54305d07d08f3f414671ad1d6e1505f )
+)
+
+game (
+	name lurking-1
+	description "Lurking Horror, The (219, 870912)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof lurkingres
+	rom ( name lurkin.z3 size 129704 crc 2b20401e md5 c13765e6a52aafc86fd9be248ebff4d5 )
+)
+
+game (
+	name lurking-2
+	description "Lurking Horror, The (203, 870506)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name lurking.z3 size 128986 crc 4de2a326 md5 3911b9343a6aa36e46bdeb4ee91928f4 )
+)
+
+game (
+	name minizork1
+	description "Mini-Zork I: The Great Underground Empire (34, 871124)[C64 Tape]"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name minizork.z3 size 52216 crc ee75f65c md5 e9fc04a4e4576c547dac32af77be434c )
+)
+
+game (
+	name moonmist
+	description "Moonmist (9, 861022)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name moonmist_9.z3 size 128866 crc 4e066ac1 md5 2a4d167f35792d415c243f61b4ff0923 )
+)
+
+game (
+	name moonmist-1
+	description "Moonmist (4, 860918)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name moonmist_4.z3 size 129002 crc fdfe0201 md5 b785826afd33860366d51246b848a717 )
+)
+
+game (
+	name moonmist-2
+	description "Moonmist (65, 000000)[beta]"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name moonmist_65.z3 size 128986 crc 76f9a1df md5 44397569bfeb3e325321dd1d02014f3d )
+)
+
+game (
+	name nordbert
+	description "Nord and Bert Couldn't Make Head or Tail of It (19, 870722)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name NORDANDB.z4 size 170284 crc 06dd905b md5 fb5dc5737a446c287a34c3a3e0b1edfc )
+)
+
+game (
+	name planetfall
+	description "Planetfall SG (10, 880531)"
+	year 1988
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name planetfa_10.z5 size 136560 crc 370ee4d8 md5 1df938b320af642219bdb0deb99a0902 )
+)
+
+game (
+	name planetfall-1
+	description "Planetfall (29, 840118)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name planetfa_29.z3 size 109052 crc 51122b3f md5 6487dc814b280f5603c53155de378d27 )
+)
+
+game (
+	name planetfall-2
+	description "Planetfall (26, 831014)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name planetfa_26.z3 size 108674 crc 143893ef md5 6832c694b6b83d71214ac54f398f8b4b )
+)
+
+game (
+	name planetfall-3
+	description "Planetfall (20, 830708)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name planetfa_20.z3 size 107958 crc 286bad33 md5 31c87f07f462fccf4ec18ae75759047d )
+)
+
+game (
+	name planetfall-4
+	description "Planetfall (37, 851003)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name planetfa_37.z3 size 109398 crc 83163934 md5 68e31f85afdcadb00b42345336e2d6e7 )
+)
+
+game (
+	name planetfall-gog
+	description "Planetfall (37, 851003)[!]"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Planetfa.dat size 122880 crc 1affb82d md5 d7bbc3de5ad590c3ab641c020a936c41 )
+)
+
+game (
+	name plundered
+	description "Plundered Hearts (26, 870730)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name ph_26.z3 size 128962 crc 943c380c md5 29fc7b270af2fbd406a0548a8298da7f )
+)
+
+game (
+	name sampler1
+	description "Four-In-One Sampler 1 (55, 850823)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name SAMPLER1.z3 size 126902 crc 1030d649 md5 8c6f2d966dc2ae145d83c340c0d694e1 )
+)
+
+game (
+	name sampler1-1
+	description "Four-In-One Sampler 1 (53, 850407)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name SAMPR53.z3 size 126708 crc 2ed60329 md5 fbb8fa8365720cfcc79654bb7de82450 )
+)
+
+game (
+	name sampler1-2
+	description "Four-In-One Sampler 1 (26, 840731)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name SAMPR26.z3 size 112610 crc cdfcd26f md5 ecb00d5e2d40f2d6833b7a135ae215e0 )
+)
+
+game (
+	name sampler1-3
+	description "Four-In-One Sampler 1 (52, 850402)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name samplr52.z3 size 126976 crc 9fc5e71d md5 f14d76c01ceaea1ad7c0ad697d2c5504 )
+)
+
+game (
+	name sampler2
+	description "Four-In-One Sampler 2 (97, 870601)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name SAMPLER2.z3 size 125314 crc d7b95901 md5 c3a056e4039b986127468a05e30a9093 )
+)
+
+game (
+	name seastalker
+	description "Seastalker (16, 850603)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Seast_16b.z3 size 117762 crc 5bf68d6f md5 89b0ece4376ab49ba81c1e7da2ef15cf )
+)
+
+game (
+	name seastalker-1
+	description "Seastalker (16, 850515)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Seast_16a.z3 size 117752 crc d6c7041c md5 a4888a6a0c1722cfcbeffe61f551a5c1 )
+)
+
+game (
+	name seastalker-2
+	description "Seastalker (15, 840522)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Seast_15b.z3 size 117728 crc 806e5353 md5 82a3e2e07e0a2715982c59519bf236a8 )
+)
+
+game (
+	name seastalker-3
+	description "Seastalker (15, 840501)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Seast_15a.z3 size 117738 crc 2f4c6c68 md5 c38f86fb37a7056ed942df47c5b8def7 )
+)
+
+game (
+	name seastalker-4
+	description "Seastalker (86, 840320)[Beta]"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Seast_86.z3 size 116456 crc ccd8a044 md5 ee339dbdbb0792f67e20bd71bafe0ea5 )
+)
+
+game (
+	name sherlock
+	description "Sherlock: The Riddle of the Crown Jewels (26, 880127)"
+	year 1988
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name SHERLO.CNV size 190180 crc 0e59d5e4 md5 1ffa0e4811a60c928d36b337b8cdc7b0 )
+	rom ( name SHERLO.Z5 size 190180 crc 4ffd0b98 md5 d6f9c9804977af1ece26f3a7edabf768 )
+	rom ( name SOUND\SHERLO03.SND size 33290 crc 14ac7fb3 md5 5fcd70691be33155580c8f33b5d6a1e0 )
+	rom ( name SOUND\SHERLO04.SND size 38650 crc 1aec244a md5 508ddbca0b1cf275aa84169dd7dac4e5 )
+	rom ( name SOUND\SHERLO05.SND size 6508 crc a640645a md5 006bf774dbe49c2a1749fd949f9f1041 )
+	rom ( name SOUND\SHERLO06.SND size 53130 crc c80ccd86 md5 63d334f77c4b57295b1df9d46f78677c )
+	rom ( name SOUND\SHERLO07.SND size 38180 crc 26356601 md5 23dc3a5d69e3e5edf204a6189f59226b )
+	rom ( name SOUND\SHERLO08.SND size 25830 crc c7971039 md5 9902c784cbda1ce149e2fd3c2ecd3031 )
+	rom ( name SOUND\SHERLO09.SND size 56602 crc 5e199fb8 md5 d7f725a0da44f7f6c9ed09e28cd9a7d9 )
+	rom ( name SOUND\SHERLO10.SND size 50488 crc 1bb69a49 md5 a54a4c4c90632d58417de6ab0f4ad910 )
+	rom ( name SOUND\SHERLO11.SND size 14010 crc feb520c8 md5 16e2b03236e5d6070ab4267b13fe816d )
+	rom ( name SOUND\SHERLO12.SND size 14010 crc 9a3c534d md5 36c6139fcdbb1b7698bb57f4dc3dad0b )
+	rom ( name SOUND\SHERLO13.SND size 14010 crc fd4c65e0 md5 3ed7d1c64d2575fe49264fac4a856670 )
+	rom ( name SOUND\SHERLO14.SND size 19410 crc a4660cb1 md5 76fa21990d3fbfa9cb5fb4060e173f60 )
+	rom ( name SOUND\SHERLO15.SND size 48218 crc e57d832f md5 21fd992b5ad3b86218c9b6c0762879d3 )
+	rom ( name SOUND\SHERLO16.SND size 49930 crc 50172635 md5 9055391fd8e176adaf335674188a7c2e )
+	rom ( name SOUND\SHERLO17.SND size 25454 crc 25e909be md5 3e19ece17c3e635e027d6587a995433e )
+)
+
+game (
+	name sherlock-1
+	description "Sherlock: The Riddle of the Crown Jewels (26, 880127)[a]"
+	year 1988
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name SHERLOCK.BLB size 488794 crc 00072e91 md5 31c887fb7d4c8c21aa15d2c314edc2d4 )
+	rom ( name SHERLOCK.Z5 size 190180 crc 4ffd0b98 md5 d6f9c9804977af1ece26f3a7edabf768 )
+)
+
+game (
+	name sherlock-2
+	description "Sherlock: The Riddle of the Crown Jewels (21, 871214)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name SHERLO21.Z5 size 188444 crc 33fd0481 md5 33100e22129638cde4ecdce06d52cbbe )
+)
+
+game (
+	name shogun
+	description "Shogun: A Story of Japan (322, 890706)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof shogunres
+	rom ( name shogun.z6 size 344816 crc a78ebda9 md5 e60d3b3e6af96913d99642fa49fd4411 )
+)
+
+game (
+	name shogun-1
+	description "Shogun: A Story of Japan (311, 890510)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof shogunres
+	rom ( name shogun.z6 size 344224 crc 1e7d0fb7 md5 fd901318b95fd599ef6b5818f3a16395 )
+)
+
+game (
+	name shogun-2
+	description "Shogun: A Story of Japan (295, 890321)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof shogunres
+	rom ( name shogun.z6 size 341912 crc 34aeb424 md5 0c7c365333dbc7f5b795266022264c3c )
+)
+
+game (
+	name shogun-3
+	description "Shogun: A Story of Japan (292, 890314)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof shogunres
+	rom ( name shogun.z6 size 341416 crc 8a8731df md5 b29c879e8132f3efe50bb49e45109b9f )
+)
+
+game (
+	name sorcerer
+	description "Sorcerer (18, 860904)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name sorcer18.z3 size 111052 crc 0ecf3ea1 md5 20f1468a058d0a6de016ae70022e651c )
+)
+
+game (
+	name sorcerer-1
+	description "Sorcerer (15, 851108)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name sorcer15.z3 size 108682 crc 65d5dfb8 md5 af95d6b28ae6d18cda32baf81195d000 )
+)
+
+game (
+	name sorcerer-2
+	description "Sorcerer (13, 851021)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name sorcer13.z3 size 108692 crc a1940f4b md5 5963ef59da2b6e72f5041c1476d3b11c )
+)
+
+game (
+	name sorcerer-3
+	description "Sorcerer (06, 840508)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name sorcer06.z3 size 109482 crc 908e5087 md5 9937bc59139792e684232a3448f5c8b2 )
+)
+
+game (
+	name sorcerer-4
+	description "Sorcerer (04, 840131)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name sorcer04.z3 size 109734 crc c3f030f6 md5 78262419433cd0ebef488649e635ecb2 )
+)
+
+game (
+	name sorcerer-5
+	description "Sorcerer (67, 000000)[beta]"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name sorcer67.z3 size 107096 crc dda4c6c4 md5 457d6775bcd7244abe578f5b15f3630e )
+)
+
+game (
+	name spellbreaker
+	description "Spellbreaker (87, 860904)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name spelbr87.z3 size 128916 crc 4f109954 md5 af0ff7e83ca0a321efd1a4c22459bf7f )
+)
+
+game (
+	name spellbreaker-1
+	description "Spellbreaker (63, 850916)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name spelbr63.z3 size 128480 crc d0d187bf md5 7a92ce19a39bedd970d0f1e296981f71 )
+)
+
+game (
+	name spellbreaker-2
+	description "Spellbreaker (63, 000000)[h]"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name spelbr63h.z3 size 128480 crc 2164d53c md5 e5f93fc6f08f8c4c30422b048c7b8e28 )
+)
+
+game (
+	name starcross
+	description "Starcross: Interlogic Science Fiction (17, 821021)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name starcr17.z3 size 83792 crc f53b2fea md5 e6db0bf662d7b24f825f92007478ca23 )
+)
+
+game (
+	name starcross-1
+	description "Starcross: Interlogic Science Fiction (15, 820901)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name starcr15.z3 size 84984 crc 70f449b0 md5 cbe68a8ef8523e282daca12c298c9b40 )
+)
+
+game (
+	name starcross-2
+	description "Starcross: Interlogic Science Fiction (17, 000000)[h]"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name starcr17h.z3 size 83792 crc 7968f846 md5 6e0ebfa3aae1ed17e7c6fe78eca96db5 )
+)
+
+game (
+	name stationfall
+	description "Stationfall (107, 870430)"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Stationf.z3 size 128934 crc 82ba6293 md5 9d7be423f2517eed0feebc42e47a75a9 )
+)
+
+game (
+	name stationfall-1
+	description "Stationfall (107, 870430)[h]"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Stationfp.z3 size 128934 crc 1fa58e39 md5 eae65359e24136d8465beebf2bbd50f0 )
+)
+
+game (
+	name suspect
+	description "Suspect: An Interactive Mystery (14, 841005)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name suspec14.z3 size 118692 crc 0eb3399e md5 29693237734f58538910c37af10dd951 )
+)
+
+game (
+	name suspect-1
+	description "Suspect: An Interactive Mystery (14, 000000)[h]"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name suspec14h.z3 size 118692 crc 3d0acf60 md5 eb6ffe52b8ded1d4e25277543f370271 )
+)
+
+game (
+	name suspended
+	description "Suspended: Interlogic Science Fiction (8, 840521)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Suspend_8b.z3 size 105584 crc 9b7f3ed9 md5 2e705076c310542f952702b20ae846e1 )
+)
+
+game (
+	name suspended-1
+	description "Suspended: Interlogic Science Fiction (8, 830521)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Suspend_8a.z3 size 105492 crc 114c6150 md5 7d812e1e389faa575266c587cac8592f )
+)
+
+game (
+	name suspended-2
+	description "Suspended: Interlogic Science Fiction (7, 830419)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Suspend_7.z3 size 105500 crc 1947e768 md5 5965285bbd0002fc9aace3907350c0b3 )
+)
+
+game (
+	name suspended-3
+	description "Suspended: Interlogic Science Fiction (5, 830222)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Suspend_5.z3 size 105418 crc fb7a2c93 md5 ba0609872c97e4be4f6058c57ec6e248 )
+)
+
+game (
+	name suspended-4
+	description "Suspended: Interlogic Science Fiction (5, 000000)[h]"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Suspend_5h.z3 size 105418 crc 75a3c3ac md5 6e76865aef3a26fa9f498fb22fb7d186 )
+)
+
+game (
+	name trinity
+	description "Trinity (12, 860926)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Trinity_12.z4 size 262064 crc bba29eef md5 16e7d89dbdfa5aa0062665710578b798 )
+)
+
+game (
+	name trinity-1
+	description "Trinity (11, 860509)"
+	year 1986
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Trinity_11.z4 size 262016 crc 20243942 md5 635d493f3c2d0c9d4d65d8efa0a8b84a )
+)
+
+game (
+	name wishbringer
+	description "Wishbringer: The Magick Stone of Dreams (69, 850920)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name wishbr69.z3 size 128904 crc a00a628f md5 464813adccee6310d128af12f1865638 )
+)
+
+game (
+	name wishbringer-1
+	description "Wishbringer: The Magick Stone of Dreams (68, 850501)"
+	year 1985
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name wishbr68.z3 size 128952 crc 883e5949 md5 87ed53d854f7e57c36106fca3b9cf5a6 )
+)
+
+game (
+	name wishbringer-2
+	description "Wishbringer: The Magick Stone of Dreams SG (23, 880706)"
+	year 1988
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name wishbr23.z5 size 164712 crc 06c61205 md5 ce7e35970b2f0236d78ef3ec4ad7e94c )
+)
+
+game (
+	name witness
+	description "Witness, The: An Interlogic Mystery (22, 840924)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name witnes22.z3 size 104664 crc edd3c583 md5 12c8b49eedc41b004b594e3770df249d )
+)
+
+game (
+	name witness-1
+	description "Witness, The: An Interlogic Mystery (21, 831208)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name witnes21.z3 size 104704 crc 99769aad md5 f49a56fc2de8ceda546d3d469ca78b93 )
+)
+
+game (
+	name witness-2
+	description "Witness, The: An Interlogic Mystery (20, 831119)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name witnes20.z3 size 104740 crc acb31583 md5 47c3ef9cc5cbcbb7e639df8844d5dba0 )
+)
+
+game (
+	name witness-3
+	description "Witness, The: An Interlogic Mystery (18, 830910)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name witnes18.z3 size 103728 crc 03fa6ea5 md5 dcfda77aaf0e344a098a1c86b35f8851 )
+)
+
+game (
+	name witness-4
+	description "Witness, The: An Interlogic Mystery (13, 830524)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name witnes13.z3 size 102608 crc 45f17ad8 md5 76dd2612c55bdabacd49a0e24beb9077 )
+)
+
+game (
+	name zork0
+	description "Zork Zero: The Revenge of Megaboz (393, 890714)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof zork0res
+	rom ( name zork0.z6 size 299968 crc 6039a514 md5 318d846b050f7cb778267823f7571a5a )
+)
+
+game (
+	name zork0-1
+	description "Zork Zero: The Revenge of Megaboz (383, 890602)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof zork0res
+	rom ( name zork0.z6 size 299392 crc 766b0f32 md5 4458af180b7296500f3da6a1dd781b00 )
+)
+
+game (
+	name zork0-2
+	description "Zork Zero: The Revenge of Megaboz (366, 890323)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof zork0res
+	rom ( name zork0.z6 size 296376 crc 5fd34716 md5 3793d02e20ade4079352c6ae3a652514 )
+)
+
+game (
+	name zork0-3
+	description "Zork Zero: The Revenge of Megaboz (296, 881019)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof zork0res
+	rom ( name zork0.z6 size 295536 crc c0ee987f md5 4a00db5c9941a235ff0c65c4d49a927b )
+)
+
+game (
+	name zork0-demo
+	description "Zork Zero: The Revenge of Megaboz {Demo}(366, 890323)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof zork0res
+	rom ( name zork0.z6 size 296376 crc 09c3f84a md5 0f41204d718d4032fd14d642c75d3563 )
+)
+
+game (
+	name zork0-demo-1
+	description "Zork Zero: The Revenge of Megaboz {Demo}(393, 890714)"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof zork0res
+	rom ( name zork0.z6 size 299968 crc 9a3eeff3 md5 e23f296c5c298793f53a350c8afac3a9 )
+)
+
+game (
+	name zork0-gog
+	description "Zork Zero: The Revenge of Megaboz (393, 890714)[!]"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	romof zork0res
+	rom ( name zork0.zip size 300032 crc 3da54ffa md5 d83c343d71ac4c03661488148876b370 )
+)
+
+game (
+	name zork1
+	description "Zork I: The Great Underground Empire (88, 840726)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_88.z3 size 84876 crc 8fff4d39 md5 dcafbb901b39841013a54f160bd170d5 )
+)
+
+game (
+	name zork1-1
+	description "Zork I: The Great Underground Empire (76, 840509)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_76.z3 size 84874 crc a517fdae md5 6ad12566e6b5aff067e0b21d69b3eacd )
+)
+
+game (
+	name zork1-10
+	description "Zork I: The Great Underground Empire (15, 000000)[h]"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_15h.z2 size 78566 crc 655b7a4f md5 13dcd359832d2e16eeac376c3283bdc5 )
+)
+
+game (
+	name zork1-11
+	description "Zork I: The Great Underground Empire (15, UG3AU5)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_15.z2 size 78566 crc 3abdab54 md5 95577f553bfa35a5fda12c98bda215d8 )
+)
+
+game (
+	name zork1-12
+	description "Zork I: The Great Underground Empire (05, 000000)[h]"
+	year 1981
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_05.z1 size 82836 crc e417c7f3 md5 ec70368a5ea02bc1f69dc36f1dc97bb9 )
+)
+
+game (
+	name zork1-13
+	description "Zork I: The Great Underground Empire (02, AS000C)"
+	year 1980
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_02.z1 size 82944 crc ed424a1c md5 743d2279f2783e0978c4d76144473af5 )
+)
+
+game (
+	name zork1-2
+	description "Zork I: The Great Underground Empire (75, 830929)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_75.z3 size 84868 crc 8abf7f57 md5 78f2af352601eaeb8248062c8c71611e )
+)
+
+game (
+	name zork1-3
+	description "Zork I: The Great Underground Empire SG (52, 871125)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_52.z5 size 105264 crc 0aedf972 md5 d82484e664a8c328364e9814d1f73c60 )
+)
+
+game (
+	name zork1-4
+	description "Zork I: The Great Underground Empire (30, 830330)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_30.z3 size 76324 crc 3d213846 md5 9f61962d0e859004081df09de7ff57d2 )
+)
+
+game (
+	name zork1-5
+	description "Zork I: The Great Underground Empire (28, 821013)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_28.z3 size 76018 crc 9ddb58db md5 628bcbbd83b19afa22ad95b1047ef3e5 )
+)
+
+game (
+	name zork1-6
+	description "Zork I: The Great Underground Empire (26, 820803)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_26.z3 size 75964 crc 57176567 md5 f15f3f405933b9716c57f83d3a7db6b0 )
+)
+
+game (
+	name zork1-7
+	description "Zork I: The Great Underground Empire (25, 820515)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_25.z3 size 75808 crc 8fc737eb md5 f471fbdb03aff891a0ad8158debf04e0 )
+)
+
+game (
+	name zork1-8
+	description "Zork I: The Great Underground Empire (23, 820428)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_23.z3 size 75780 crc 3d1ebff8 md5 669ef2489b6950df42095cd803060c88 )
+)
+
+game (
+	name zork1-9
+	description "Zork I: The Great Underground Empire (20, 000000)[h]"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1_20.z3 size 75734 crc 9a72f40c md5 2bfe3246aa7c1442cecb54a126845f2c )
+)
+
+game (
+	name zork1-de
+	description "Zork I: The Great Underground Empire (03, 880113/German)[beta]"
+	year 1988
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name zork1_3Ger.z5 size 116216 crc 5ba792fa md5 fc123fef2c0ba1d19bdc45d34a60c5de )
+)
+
+game (
+	name zork1-gog
+	description "Zork I: The Great Underground Empire (88, 840726)[!]"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork1.dat size 92160 crc bf60ef9d md5 b732a93a6244ddd92a9b9a3e3a46c687 )
+)
+
+game (
+	name zork2
+	description "Zork II: The Wizard of Frobozz (48, 840904)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork2_48.z3 size 89912 crc 767ca790 md5 71b1bf0bb198d8e7584b95f8527539d9 )
+)
+
+game (
+	name zork2-1
+	description "Zork II: The Wizard of Frobozz (23, 830411)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork2_23.z3 size 81876 crc d9602264 md5 539d75137d3c5993984ca5dd5524d1d5 )
+)
+
+game (
+	name zork2-2
+	description "Zork II: The Wizard of Frobozz (22, 830331)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork2_22.z3 size 82920 crc a4c2af8d md5 6c01e0374913c399219506ffd594b842 )
+)
+
+game (
+	name zork2-3
+	description "Zork II: The Wizard of Frobozz (19, 820721)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork2_19.z3 size 82586 crc f3749e2b md5 39c6b3284e2c1b84bb8bed48d5420151 )
+)
+
+game (
+	name zork2-4
+	description "Zork II: The Wizard of Frobozz (18, 820517)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork2_18b.z3 size 82422 crc 0de71bda md5 f5f0b1ca024fed9eabf6de174e5e60c0 )
+)
+
+game (
+	name zork2-5
+	description "Zork II: The Wizard of Frobozz (18, 820512)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork2_18a.z3 size 82422 crc 3990a796 md5 f4097f9b23434b3be291da6631955e7b )
+)
+
+game (
+	name zork2-6
+	description "Zork II: The Wizard of Frobozz (17, 820427)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork2_17.z3 size 82368 crc 20bdfa58 md5 49db3ed7d012314a97fd3b43e55c6d8f )
+)
+
+game (
+	name zork2-7
+	description "Zork II: The Wizard of Frobozz (15, 820308)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork2_15.z3 size 82110 crc 6e96df28 md5 650c31ddabab4121a49f34db407fc1e5 )
+)
+
+game (
+	name zork2-8
+	description "Zork II: The Wizard of Frobozz (07, UG3AU5)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Zork2_07.z2 size 85260 crc 6f5a1f83 md5 1b56b55cda1c77839cf7e1b20dcf245f )
+)
+
+game (
+	name zork2-gog
+	description "Zork II: The Wizard of Frobozz (48, 840904)[!]"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name ZORK2.DAT size 92160 crc 8c126869 md5 5bcd91ee055e9bd42812617571be227b )
+)
+
+game (
+	name zork3
+	description "Zork III: The Dungeon Master (17, 840727)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name zork3_17.z3 size 82714 crc a00f66ba md5 039ceba0946e778743d7687510dc5e2a )
+)
+
+game (
+	name zork3-1
+	description "Zork III: The Dungeon Master (16, 830410)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name zork3_16.z3 size 81626 crc 930a93a0 md5 ca8c063cdb25c90c3eca10b4e5461414 )
+)
+
+game (
+	name zork3-2
+	description "Zork III: The Dungeon Master (15, 840518)"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name zork3_15b.z3 size 82642 crc 60451413 md5 ad7a7cf17049a5842c6b48329bd58c33 )
+)
+
+game (
+	name zork3-3
+	description "Zork III: The Dungeon Master (15, 830331)"
+	year 1983
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name zork3_15a.z3 size 82558 crc dc242604 md5 7d002caa2cb33232b63cf890f67213ec )
+)
+
+game (
+	name zork3-4
+	description "Zork III: The Dungeon Master (12, 821025)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name zork3_12.z3 size 82396 crc be9738f2 md5 d30cb68b5d2838f3cc3ca3a792243d4e )
+)
+
+game (
+	name zork3-5
+	description "Zork III: The Dungeon Master (10, 820818)"
+	year 1982
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name zork3_10.z3 size 82334 crc b513eb0a md5 a34434efcd4373df7886632484bb896b )
+)
+
+game (
+	name zork3-gog
+	description "Zork III: The Dungeon Master (17, 840727)[!]"
+	year 1984
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name zork3-17.dat size 92160 crc 3df200a4 md5 ffda9ee2d428fa2fa8e75a1914ff6959 )
+)
+
+game (
+	name zorkuu
+	description "Zork: The Undiscovered Underground (16, 970828)"
+	year 1997
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name ZTUU.z5 size 102524 crc a0d78f24 md5 477e5b150e197ee29abfe5424d0b351c )
+)
+
+resource (
+	name arthurgargres
+	description "ZZZ - Arthur: The Quest For Excalibur Resources"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name arthur.cg1 size 209359 crc 5fdcff85 md5 d8da46b286cdd3e44ec749a5fb635618 )
+	rom ( name arthur.eg1 size 223522 crc 999141fc md5 51b3a5081e5185767110943e41e33528 )
+	rom ( name arthur.eg2 size 154137 crc 1adf4e9e md5 52744f585651c78a6b8de5762db88cba )
+	rom ( name arthur.mg1 size 292279 crc c692bdf5 md5 3c58e571f4d84f04f8d05e25768b980e )
+)
+
+resource (
+	name journeyres
+	description "ZZZ - Journey Resources"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name Journey.cg1 size 297105 crc 7a719ed2 md5 1b6ce3352b7273bc793885155b8108c5 )
+	rom ( name Journey.eg1 size 360500 crc 5860115e md5 a600ef3473a5eae46254c788bada42b0 )
+	rom ( name Journey.eg2 size 249241 crc 0192b1c5 md5 9869c6974cd69e386e3c2f9f54d313cb )
+	rom ( name Journey.mg1 size 465606 crc 740404f7 md5 171676ddc1f2c6bee031a014fa44d71d )
+)
+
+resource (
+	name lurkingres
+	description "ZZZ - Lurking Horror Resources"
+	year 1987
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name sound\lurkin03.snd size 49766 crc c9371d20 md5 8572f9bef0894d630d2bfa639b5f6985 )
+	rom ( name sound\lurkin04.snd size 20530 crc e8b69895 md5 2d4323554726d55736144fcea8016c05 )
+	rom ( name sound\lurkin06.snd size 46010 crc 856d4c28 md5 2a8930d64ab7d4297087318bd56e32a7 )
+	rom ( name sound\lurkin07.snd size 60000 crc ac0a83ac md5 30840d9ce20416eab477e9ea541b900f )
+	rom ( name sound\lurkin08.snd size 7738 crc f1f27aac md5 7bee78abf08eeb73ce241d237079baf0 )
+	rom ( name sound\lurkin09.snd size 58024 crc d62394c2 md5 05352e87b23e6be02e8736ec964cd350 )
+	rom ( name sound\lurkin10.snd size 33290 crc 3e613f5e md5 10e4b33d51592af7febbde1a98b37470 )
+	rom ( name sound\lurkin11.snd size 40010 crc e0dea678 md5 ebb43163075d4d875c2b3f2511846830 )
+	rom ( name sound\lurkin12.snd size 44330 crc 4a03bffa md5 fdd561056681c924b4588d64f74787ff )
+	rom ( name sound\lurkin13.snd size 56586 crc f52dcd0c md5 ea1e174099d7d17bf7711f8f3c5cad8a )
+	rom ( name sound\lurkin15.snd size 51610 crc aa5d24d3 md5 4fab014283a65b50e334c4a7ce969e96 )
+	rom ( name sound\lurkin16.snd size 25050 crc 47daf391 md5 5d2d4d79072a043cc4488eae6e977ba6 )
+	rom ( name sound\lurkin17.snd size 39258 crc dc66a5f0 md5 bfa409c41f690be4f5acf2f179c8df98 )
+	rom ( name sound\lurkin18.snd size 50010 crc dcea431e md5 02198254774a244a47a698d4bdb6e820 )
+)
+
+resource (
+	name shogunres
+	description "ZZZ - Shogun: A Story of Japan Resources"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name shogun.cg1 size 141450 crc a29d412c md5 9bb1c8aeab83a52c0fba7216e13e7dc0 )
+	rom ( name shogun.eg1 size 278669 crc 74e5cce5 md5 bf1c78f738181822e7a9f85d499e54ae )
+	rom ( name shogun.mg1 size 213425 crc ae9e8538 md5 e4ad7bd19df764f16def1892fbe2a1f8 )
+)
+
+resource (
+	name zork0res
+	description "ZZZ - Zork Zero: The Revenge of Megaboz Resources"
+	year 1989
+	manufacturer "Infocom"
+	sourcefile gargoyle
+	rom ( name zork0.cg1 size 244507 crc 180f5fa6 md5 8693505c6363b319613a5711186bf179 )
+	rom ( name zork0.eg1 size 333654 crc dc4dec33 md5 115f4f4e62a433f64ef7068899b182b4 )
+	rom ( name zork0.mg1 size 226436 crc 41e156f2 md5 24eb829c3532f3f8d160777d8358fa07 )
+)
+

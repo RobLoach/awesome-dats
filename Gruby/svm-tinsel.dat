@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM TINSEL"
 	description "ScummVM - TINSEL Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2015-11-24
+	version v1.05
+	date 2016-08-18
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -1692,8 +1692,172 @@ game (
 )
 
 game (
+	name dw-cd-ru-1
+	description "Discworld (CD/DOS/Russian)[v1.1]"
+	year 1995
+	manufacturer "Perfect 10 Productions"
+	sourcefile tinsel
+	rom ( name ACT1.SCN size 134608 crc 2f65ecd3 md5 e0c793f1f0bdd36167006aa4ca10d3d2 )
+	rom ( name ACT2.SCN size 135616 crc ee3e4e0d md5 57ba32e25536345acccd6a573cbf2818 )
+	rom ( name ACT3.SCN size 136468 crc 68b7d0c3 md5 6c78092e0e9cd1598209ea987b26921e )
+	rom ( name ACT4.SCN size 136500 crc e75dd9bc md5 eb2073037c53a68c2bbcd1415ca7b867 )
+	rom ( name ALLEY.SCN size 616508 crc 723f0b3d md5 939baeee09ae426e60e83ddc9a63b5ed )
+	rom ( name ALSHOP.SCN size 599356 crc 9cf08e36 md5 5f1bac74d24c91846b7973c50c50dc40 )
+	rom ( name ALTAR.SCN size 323532 crc 0f446cb3 md5 34b1a798235e00d8fdca518a5316388f )
+	rom ( name ANKHMAP.SCN size 169128 crc 875411f7 md5 28b2dda3f73acb2c67bb2bf3ab1e7138 )
+	rom ( name ARCH.SCN size 314916 crc 6ef698a4 md5 7aeb0109f85b44bdf3701c87da09c9fd )
+	rom ( name ATUIN.SCN size 150820 crc 3b801b4a md5 baba45857f5ddc26a78acfd6ed4e3d20 )
+	rom ( name BAR.SCN size 569984 crc 50b28993 md5 1eba1076e24fec72b4bb55c92031963f )
+	rom ( name BARBER.SCN size 272300 crc 0ab1d7a6 md5 cd71a4ed0b4f87479c73f3286b65770f )
+	rom ( name BARN.SCN size 411440 crc aa76c4cc md5 975e2ccef4ab1121d2bebe7200f557b6 )
+	rom ( name BOOK.SCN size 74612 crc 4e798066 md5 9029da9f355ea0db5dd9b448478e557a )
+	rom ( name BRETHREN.SCN size 263284 crc d79dca39 md5 bc506acdf93bcae84f2e093e38a2db52 )
+	rom ( name CAMERA.SCN size 312688 crc fd39ccd5 md5 87c9bf651c059836ed517646b3d4aff0 )
+	rom ( name CATHOUSE.SCN size 127844 crc c12c3261 md5 356b820e71b7ddac4bc82e5d0c0867e4 )
+	rom ( name CELLAR.SCN size 123880 crc 5220fc48 md5 f955d6f8d3ee429ac4f4ea437ac84a78 )
+	rom ( name CITYGATE.SCN size 287860 crc 7f1d808c md5 f6cd68e8efb8434dd7a82277fe82adaa )
+	rom ( name CLAWS1.SCN size 26396 crc 8c5ebdfe md5 97c88db1b553b6848c53d61d66bf441c )
+	rom ( name CLAWS2.SCN size 54676 crc 498b5ee4 md5 95ab0a3f84f818957955dadd511a0666 )
+	rom ( name CLEAVAGE.SCN size 59452 crc a2b730b1 md5 5966de91c384e238b5c82effd5107bd7 )
+	rom ( name CLIMAX.SCN size 979052 crc 3212f3f6 md5 61f9181f0f3aa8894ecb1a621d3be703 )
+	rom ( name CLOSET.SCN size 186316 crc f77320ba md5 cd9861c7dc08712ce1a68563275ff716 )
+	rom ( name CLOSEUP.SCN size 427360 crc 39970c88 md5 14be612205d272d36ad4b3ca34f34cfc )
+	rom ( name CREDITS.SCN size 117788 crc d7e47c9d md5 80790f5f1800ae9fd239ba2f518a0e94 )
+	rom ( name CUSTARD.SCN size 553036 crc cdaef344 md5 e93ae0383e449876d0dee3fd0abb2a18 )
+	rom ( name CUTALLEY.SCN size 178748 crc e1e1abe2 md5 868d35de81c9f8869c85c979cc0f1690 )
+	rom ( name CUTALSHO.SCN size 410624 crc a40fed4c md5 c681a5fb7459270e9427335ee0fc32f3 )
+	rom ( name CUTANKHM.SCN size 74260 crc 039bd598 md5 f79e3c42fb46107f5c065eee114a6ddc )
+	rom ( name CUTBAR.SCN size 241328 crc 3a49cb80 md5 f969d852b2d2689f418ef29996db9660 )
+	rom ( name CUTBARN.SCN size 736540 crc 9a72f219 md5 9529c77bef5a4bc22f64a828ef0dee86 )
+	rom ( name CUTHIDEO.SCN size 79368 crc 838b10d5 md5 4245b593844a9347485b034945248b2d )
+	rom ( name CUTMONKC.SCN size 196008 crc e17e7bb0 md5 45fc80ae1a7ad6e2ed43dd07433c9e06 )
+	rom ( name CUTPALEN.SCN size 122624 crc 45a681f0 md5 3f18fe3c920a39fef6c37fe3750651e0 )
+	rom ( name CUTPUB.SCN size 180284 crc 3c534541 md5 94b7aedc82f74cfffa426c3a690fb59a )
+	rom ( name CUTROOFT.SCN size 373676 crc d9aeb056 md5 f6cc063948d519db1b9528e9022f9f54 )
+	rom ( name CUTSQUAR.SCN size 266360 crc 634ef423 md5 d15ca3eddcca8b6ca1eb5944fc505f7a )
+	rom ( name CUTTEMPL.SCN size 184948 crc 7c47660a md5 a46d2a96f5f8a35b717db59d3fcfe85f )
+	rom ( name CUTTHRON.SCN size 496592 crc 6bd7f8b9 md5 4d3fbf9c18105224ffb7d0be1e12ca0b )
+	rom ( name CUTTOILE.SCN size 443664 crc dc04dccc md5 6de4ec10afab45320d847be508320069 )
+	rom ( name DEATHDUN.SCN size 486272 crc 2a1a563e md5 6276b29529da337f6fad1a42d000db21 )
+	rom ( name DEATHFIS.SCN size 225196 crc 48bbed76 md5 2b08e964dd1d7082c633f8a7b2ffc677 )
+	rom ( name DEATHFOO.SCN size 310448 crc c4c15e98 md5 edf419306cea9ec1d3301c728fcee5e6 )
+	rom ( name DEATHROO.SCN size 238380 crc 25d80a13 md5 862c1dd8f3f7c9a4c3274bc520e724eb )
+	rom ( name DEATHSHA.SCN size 454344 crc 45842901 md5 6a913e423d04def1737d937c6a66bcd2 )
+	rom ( name DEATHTHI.SCN size 215324 crc 0772dca6 md5 db30d685597a84694d4ddfd2f5853a08 )
+	rom ( name DETECTOR.SCN size 107580 crc 7304a1b1 md5 e35c0446f27eb4e3ca3361ebb5e0a0e2 )
+	rom ( name DINING.SCN size 915504 crc 87d382e6 md5 392e1ba4f7751a9afbe0babcdcd1f458 )
+	rom ( name DISCMAP.SCN size 94540 crc a538f6d0 md5 ee8003ce8214c6a839a212b0988fdbde )
+	rom ( name DONKCART.SCN size 78076 crc 98d71d8b md5 aca8489107d5f8caa95cb35a5a7ca6de )
+	rom ( name DRAGCAGE.SCN size 435376 crc df4f3872 md5 0fda34968b0a52e46bfe446babd4f0d8 )
+	rom ( name DRAGON.SCN size 64884 crc 856acd96 md5 c0f92f06674fb187e02e319c1be61bd9 )
+	rom ( name DUNGEON.SCN size 623592 crc 2b6e5e5d md5 fccffca69fb22021039f4e2cc92290cd )
+	rom ( name DUNNYMAN.SCN size 595816 crc f2082699 md5 6d3513ec7a9154c9da48cbc9f1cbee30 )
+	rom ( name DW.SCN size 776524 crc b70b9a80 md5 b56d6c86cbd0a09124a26cd8ce70567b )
+	rom ( name ENDGAME.SCN size 330312 crc ba110e82 md5 bbd3286bc67814fa48396a58f73c1628 )
+	rom ( name ENGLISH.IDX size 27400 crc 544a0452 md5 70e70749091b845d08897cf70a693c8e )
+	rom ( name ENGLISH.SMP size 351359057 crc 79650c9e md5 1f638a501716bfebf5ce3b5257fc4ba6 )
+	rom ( name ENGLISH.TXT size 221656 crc a7aac4d5 md5 0fe44ea72845c830975319c29605a0c5 )
+	rom ( name ENSUITE.SCN size 89284 crc 55a65f33 md5 91f32f643d0fa7a4e4775fdd94655789 )
+	rom ( name FINALE.SCN size 782648 crc 7440d205 md5 2f5b6df66ce3043039f3bdd84ad53cd5 )
+	rom ( name FISHMONG.SCN size 213504 crc 06b5ba1e md5 1a703ebc7db1a14392095b457efd7c50 )
+	rom ( name FOOL.SCN size 233844 crc e9d93678 md5 b985516be98f7370f4badd9f1f3e648b )
+	rom ( name GODS.SCN size 654120 crc ae7d782e md5 56529ea83848ae394da7c8b728577cbb )
+	rom ( name GORGE.SCN size 719080 crc 21deebcd md5 61de9bab104e28749c9bb57b241d549b )
+	rom ( name HAT.SCN size 633884 crc 98a919ac md5 6566010e198f50413d07ffc4073bf398 )
+	rom ( name HIDEOUT.SCN size 101128 crc 39906dd4 md5 a1a2beee26a89caa7b83930adb9c53a3 )
+	rom ( name HOLRECEP.SCN size 220064 crc 7401edbd md5 3fc1f55fcdbda9cf0752f2e2bf94b6b4 )
+	rom ( name HOLRETRO.SCN size 151924 crc 66d9df94 md5 ecc87eb20e25aba0e85f6f2f233c98de )
+	rom ( name INDEX size 2980 crc 8a04eeab md5 e2015e92f3cef4991b8502885f32af9b )
+	rom ( name INN.SCN size 599176 crc e391c158 md5 46e76c242b7a661a83e7de6844679018 )
+	rom ( name INNROOM.SCN size 138464 crc 25387ce7 md5 1653ace5bd7d396b66a3deefa24ab5c6 )
+	rom ( name INTROARC.SCN size 186564 crc b141fe0d md5 0a9d401eb1360c7cc99af58ff11ad3c5 )
+	rom ( name INTROHID.SCN size 106184 crc c08bbcc0 md5 0ad2c9e587531aead17edc1a270482c4 )
+	rom ( name INTROSHA.SCN size 653372 crc 5b739908 md5 ebd204e846fbab9c6d022dee332848bc )
+	rom ( name INTROUNI.SCN size 139572 crc f35904f5 md5 74d75a0146fe226eb7cdd50052fa0906 )
+	rom ( name ISLAND.SCN size 359608 crc 4fa0787a md5 8c2025c61f7ff125fd4d1b800fc30027 )
+	rom ( name KITCHEN.SCN size 301196 crc 59e9493c md5 d77f835fa9fef981670dd53f487b6918 )
+	rom ( name LIBRARY.SCN size 757416 crc 2d44dc43 md5 aabd4410c7dbeea419eb5dac023aa246 )
+	rom ( name LIGHTNIN.SCN size 361712 crc e418cb1a md5 0049751945bb1760c0ee989feae7469d )
+	rom ( name LIVERY.SCN size 175280 crc e5e975e6 md5 f984302a2d358dee64e1162632f008ee )
+	rom ( name LSPACE.SCN size 773728 crc aed28359 md5 e5c1f6b8f129b1378e49bc4f060c49de )
+	rom ( name LWOOD.SCN size 359800 crc a5c0ef51 md5 7e2c1066329f6ca3d6638dce6f7778fd )
+	rom ( name MAGBOOK.SCN size 974324 crc c04bdca0 md5 4a22f3a712ce7679cdc1e55228f75f13 )
+	rom ( name MAMBO.SCN size 282876 crc 8b9ada6b md5 821e0418addd48b43d868f1a9f51dd5b )
+	rom ( name MIDI.DAT size 882402 crc 2fe25ad9 md5 46f249ee4b7f51295701efcfaf81d256 )
+	rom ( name MINE.SCN size 538024 crc b407457b md5 46f915499e8292564402f388614346ee )
+	rom ( name MINEENT.SCN size 203196 crc eec58551 md5 c9fe0539e36472d95d0b5df147d5e6bd )
+	rom ( name MIRROR.SCN size 185944 crc 814a3472 md5 a67de0715f03c4cc2a6db2d0c64c0fe9 )
+	rom ( name MISSILE.SCN size 116880 crc d133d72a md5 1aeb29136477112615e5c622aafdcadc )
+	rom ( name MONK1.SCN size 134304 crc 7778ce54 md5 8470b300ac147c41e76b16f14ca40dd7 )
+	rom ( name MONK2.SCN size 168032 crc 8880fd38 md5 1075dd5490e0ebca5b488d57381198b2 )
+	rom ( name MONK2B.SCN size 168480 crc f502582f md5 e6b631ae6dc01e02b3945e63ad1da993 )
+	rom ( name MONK3.SCN size 85720 crc 038d7c46 md5 53b3ecfeff72f67957029ed22731c144 )
+	rom ( name MONK4.SCN size 261612 crc 96d22fbc md5 5f9dfbeed37b3ed1b0de4c24f9367509 )
+	rom ( name MONK5.SCN size 170796 crc 795e09aa md5 5bf7af649995a55992cd08bbe9cffa44 )
+	rom ( name MONKCORN.SCN size 158972 crc af41ff7e md5 84ac5822aa6c2bbc0b8a309fc768fa33 )
+	rom ( name MOUNTPAS.SCN size 297132 crc 721f264b md5 7899eb5bf6df8a4e0ad3fbc175d1df1c )
+	rom ( name MYSTWOOD.SCN size 356672 crc c904f33d md5 5039dc1edc05e6f32c6ad5c11d9e0f40 )
+	rom ( name OBJECTS.SCN size 162904 crc 3f057588 md5 290e256dd1979e2915b295cfb4740f69 )
+	rom ( name OVEREDGE.SCN size 213644 crc 71fd5634 md5 649a60b581ded3856be4687f9a99c1e4 )
+	rom ( name PALENT.SCN size 288952 crc 3f688b21 md5 0b273de2927afe483d79a57572605e45 )
+	rom ( name PARK.SCN size 117356 crc 60d5dfb9 md5 2759bb2de56aa314e094ae9ec31eca62 )
+	rom ( name PASTANKH.SCN size 199104 crc c961cc6c md5 9423a54218d43d4f5b851a8181a771ca )
+	rom ( name PASTBAR.SCN size 430888 crc 5c11c0e6 md5 c41d85669f112caf666c0b674121fe0b )
+	rom ( name PASTCATH.SCN size 295488 crc 790cd41d md5 3c662672dffbc807eeb1b6cf603abe75 )
+	rom ( name PASTCITY.SCN size 73540 crc 4c0fc4e8 md5 f40a17368e06d91d9ad13990d9ce167e )
+	rom ( name PASTENSU.SCN size 75608 crc ba7fa86f md5 0c34679e925d0bc47e90da9de28e4026 )
+	rom ( name PASTFISH.SCN size 79728 crc 82f9cf11 md5 913456a021d631bc2d7c5451d9ba6c0e )
+	rom ( name PASTHIDE.SCN size 268712 crc b950ab76 md5 e311530a2ec1646037e65c4bf4f0140a )
+	rom ( name PASTINN.SCN size 177228 crc c172d635 md5 dc2eb7b8789b338abb9c65cac240c55d )
+	rom ( name PASTINNR.SCN size 461196 crc fd3a0394 md5 4688c65316372d87372adc6505f285d4 )
+	rom ( name PASTLIBR.SCN size 466304 crc 4d1801d6 md5 804475942e0333d063120b18d26f8273 )
+	rom ( name PASTMONK.SCN size 175692 crc 4534994d md5 111296f5ba9bd58f3376c3f9bab36164 )
+	rom ( name PASTPARK.SCN size 354268 crc c66526a5 md5 b39271795bae9b898b4ae0cad4142eb8 )
+	rom ( name PASTPUB.SCN size 474400 crc cbe1da4a md5 9131a8d023be01ba95f428f5679067ae )
+	rom ( name PASTSHAD.SCN size 601928 crc 192d9302 md5 91e8e5b07c627559d947abe836beb41c )
+	rom ( name PASTSTRE.SCN size 332324 crc 2eddcd6b md5 dc126828797cec785e85c1c45551ad69 )
+	rom ( name PASTTHIE.SCN size 57852 crc dabb84f4 md5 8d3325c3db649f2e79a5a129751aae4c )
+	rom ( name PASTTOIL.SCN size 110192 crc 6bb05a67 md5 b3da874d61cfb8e037ad2dddc3c951c7 )
+	rom ( name PAVEMENT.SCN size 249452 crc 8dacaf2e md5 7f27bacafe0f65c86c7bb764f7b8e5ef )
+	rom ( name PERFECT1.SCN size 489240 crc cfe3e5a8 md5 47f6cea58cdec9ba61d24abed365e6a4 )
+	rom ( name PSYGNOSI.SCN size 34960 crc 9a901624 md5 810b63e17f9f464df1480289e4110c5f )
+	rom ( name PUB.SCN size 166420 crc 6931bed1 md5 449bf416ad5edfd1010e888f44911674 )
+	rom ( name RAMKIN.SCN size 354156 crc d284021c md5 b126a3678920a7e43ae044d9a7e30f34 )
+	rom ( name REAR.SCN size 137336 crc 8ccb4948 md5 09d42e6c005716dbbe5329732c3338c3 )
+	rom ( name RECEPTIO.SCN size 202668 crc dff8a382 md5 3e07386c0415a93cfcb61a5cc46a5d19 )
+	rom ( name RETRO.SCN size 180396 crc f35eeaff md5 f0564a09467f1029439a535bab020a64 )
+	rom ( name RINCEROO.SCN size 637756 crc 07c797c9 md5 99b06316959c4e7818b0576419f21a7b )
+	rom ( name ROCKROLL.SCN size 275144 crc 3c65e550 md5 ab9a6b6dc60475d1dbc335aa56e2b9c3 )
+	rom ( name ROOFTOPS.SCN size 432840 crc 578a962b md5 6d24bbcf12a0e52e5e272d43c0b55c66 )
+	rom ( name SAMPLE.AD size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name SAMPLE.OPL size 3242 crc 11cde28d md5 904b04063ff4e04c8fc33576e41c68a9 )
+	rom ( name SHADES.SCN size 751964 crc 68dee3c6 md5 48c1cdca8134008c5ef08f9c9015f3d1 )
+	rom ( name SHEEP.SCN size 209940 crc 08b135ab md5 c6e630eda93efe7fd7430703de9f0281 )
+	rom ( name SPACE.SCN size 118540 crc dd3a2d3c md5 7cbb513fc2d0ef085efe32155d797bfa )
+	rom ( name SPIRE.SCN size 700840 crc 6197a109 md5 eb8163a0f36712f17576a4b35b444bc9 )
+	rom ( name SQUARE.SCN size 872724 crc ab2c569e md5 29e60e074008c7fbb6649503a158b8ab )
+	rom ( name SQUARE2.SCN size 929452 crc 2ad22435 md5 aaa9d8e0695a5097e206af8e6b41606d )
+	rom ( name SQUARE3.SCN size 863292 crc 927c9bf2 md5 04ccc314e88a24481e33f32dadfe7321 )
+	rom ( name STREET.SCN size 445696 crc d67c1116 md5 7d60aa14f154d613457521a08f7f9154 )
+	rom ( name SUNSET.SCN size 343680 crc d12088f1 md5 d4e6c55c94a8ad1a84540cfff82b0f13 )
+	rom ( name TEMPLE.SCN size 249208 crc 94297dfd md5 ca56c46c5711bccb9b296afd0fbf6e07 )
+	rom ( name THIEF.SCN size 90316 crc 10f73b79 md5 bab14065461e153fe5c67567bb444052 )
+	rom ( name THRONE.SCN size 607440 crc 43ea03d4 md5 dfb60e53644233dea852c562efceedf4 )
+	rom ( name TITLE.SCN size 73420 crc edb19224 md5 5d3e9143c1837f8eb1dc71cd904ac58c )
+	rom ( name TOILET.SCN size 162932 crc 0ce94dca md5 ed5de7d35422f69f694c3ad8f4ebfccf )
+	rom ( name TOYSHOP.SCN size 146400 crc 7353b235 md5 a3b0b753cc5d632046dbb2f735cdd15b )
+	rom ( name TURTLE.SCN size 829536 crc e1aa0251 md5 129d720e596c0c6155967e1130e3be2c )
+	rom ( name TURTLE2.SCN size 673248 crc d8527575 md5 f4cb30cb440c1c936e86cc270b61174d )
+	rom ( name TWG.SCN size 126440 crc d0eb6d0d md5 61e4b9bd03447b16f5ca4dd5a448c1f5 )
+	rom ( name UNIGARD.SCN size 511960 crc b8708720 md5 f309a98803e0b58703348031ae552c11 )
+	rom ( name UNSEEN.SCN size 623904 crc af63083e md5 09124ffed2680616fa27b7c567e7af27 )
+	rom ( name WITCH.SCN size 282964 crc 99b85643 md5 c292749f61cfbbdb6b964fbff657995d )
+	rom ( name WORLDEDG.SCN size 344860 crc bc24b017 md5 95d77881ca7958a7e48281b86b77868b )
+)
+
+game (
 	name dw-demo
-	description "Discworld (Floppy Demo/DOS)"
+	description "Discworld {Demo}(Floppy/DOS)"
 	year 1995
 	manufacturer "Perfect 10 Productions"
 	sourcefile tinsel
@@ -1715,7 +1879,7 @@ game (
 
 game (
 	name dw-demo-cd
-	description "Discworld (CD Demo/DOS)"
+	description "Discworld {Demo}(CD/DOS)[!]"
 	year 1995
 	manufacturer "Perfect 10 Productions"
 	sourcefile tinsel
@@ -1766,7 +1930,7 @@ game (
 
 game (
 	name dw-demo-cd-mac
-	description "Discworld (CD Demo/Macintosh)"
+	description "Discworld {Demo}(CD/Macintosh)"
 	year 1995
 	manufacturer "Perfect 10 Productions"
 	sourcefile tinsel
@@ -1816,7 +1980,7 @@ game (
 
 game (
 	name dw-demo-cd-psx
-	description "Discworld (CD Demo/Sony PlayStation)"
+	description "Discworld {Demo}(CD/Sony PlayStation)"
 	year 1995
 	manufacturer "Perfect 10 Productions"
 	sourcefile tinsel
@@ -2271,7 +2435,7 @@ game (
 
 game (
 	name dw2-demo
-	description "Discworld 2: Missing Presumed ...!? (Demo/DOS)"
+	description "Discworld 2: Missing Presumed ...!? {Demo}(DOS)"
 	year 1996
 	manufacturer "Perfect Entertainment"
 	sourcefile tinsel
@@ -2504,7 +2668,7 @@ game (
 
 game (
 	name dw2-gb
-	description "Discworld 2: Missing Presumed ...!? (CD/DOS/UK)"
+	description "Discworld 2: Missing Presumed ...!? (CD/DOS)[UK]"
 	year 1996
 	manufacturer "Perfect Entertainment"
 	sourcefile tinsel
@@ -2807,7 +2971,7 @@ game (
 
 game (
 	name dw2-us
-	description "Discworld 2: Missing Presumed ...!? (CD/DOS/US)"
+	description "Discworld 2: Missing Presumed ...!? (CD/DOS)[US]"
 	year 1996
 	manufacturer "Perfect Entertainment"
 	sourcefile tinsel

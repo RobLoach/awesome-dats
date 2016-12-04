@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM TONY"
 	description "ScummVM - TONY Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2015-12-13
+	version v1.07
+	date 2016-08-26
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name tony-demo-win
-	description "Tony Tough and the Night of Roasted Moths (Compressed Demo/Windows)"
+	description "Tony Tough and the Night of Roasted Moths {Demo}(Windows)[Compressed]"
 	year 2002
 	manufacturer "Protonic Interactive"
 	sourcefile tony
@@ -20,7 +20,7 @@ game (
 
 game (
 	name tony-demo-win-1
-	description "Tony Tough and the Night of Roasted Moths (Extracted Demo/Windows)"
+	description "Tony Tough and the Night of Roasted Moths {Demo}(Windows)[Extracted]"
 	year 2002
 	manufacturer "Protonic Interactive"
 	sourcefile tony
@@ -52,98 +52,48 @@ game (
 	year 2002
 	manufacturer "Protonic Interactive"
 	sourcefile tony
+	romof tonywres
 	rom ( name data1.cab size 4350 crc 4223a02f md5 ce82907242166bfb594d97bdb68f96d2 )
-	rom ( name Music\00.adp size 1616268 crc 5126e549 md5 73701b441a7fe41750e98710619563cc )
-	rom ( name Music\01.ADP size 5260368 crc 1e1ed947 md5 41edf570dfc9bc432a5d19bfdabe8527 )
-	rom ( name Music\02.ADP size 2710028 crc 9aa94909 md5 27aac6ca94a0ba95cd209ad4ec487b45 )
-	rom ( name Music\03.ADP size 5661052 crc 38c8d99c md5 710c22afa426dcab9b7dfe7ec2556aae )
-	rom ( name Music\04.adp size 153848 crc c4658f0e md5 7b896f1ef6efadd832e6817dfc6d1682 )
-	rom ( name Music\05.ADP size 280812 crc a5b80b43 md5 d6f6f36eae85cf4035366d10563b1498 )
-	rom ( name Music\06.ADP size 4149260 crc b3abb241 md5 caf3aab89305e074e43e3924b7f6a9a9 )
-	rom ( name Music\07.adp size 9186336 crc 67cd04e8 md5 774996ad72b67cd39acbfd16b1da2a1d )
-	rom ( name Music\08.ADP size 1297969 crc 555f7812 md5 7d6e75508f32ffe57ffd16afb9d1649b )
-	rom ( name Music\09.ADP size 161863 crc 151581b8 md5 f43e679811da550077900d8332ed84f3 )
-	rom ( name Music\10.ADP size 2161017 crc e97d0c33 md5 3bcf721a2cb87aef150bdb576721265a )
-	rom ( name Music\11.ADP size 3050124 crc 2c66e379 md5 b5ccd69cf7ec2cd845cc8c60985be908 )
-	rom ( name Music\12.ADP size 2692539 crc f7423fd2 md5 2ad9154c8c4cca1d901fd2057d2312ec )
-	rom ( name Music\13.adp size 1765388 crc ed8ba5ca md5 643027afcc8528246926c85875f64923 )
-	rom ( name Music\14.ADP size 2932043 crc c430434a md5 7088bfc5adabdb9e8f0b7e728d9abae0 )
-	rom ( name Music\15.ADP size 4228620 crc df2e955e md5 dcd9e6355eb5f3bbbee851790099ec5a )
-	rom ( name Music\16.adp size 2168852 crc 6fb1e3f9 md5 1ad5dfa776908898e5615b424d156969 )
-	rom ( name Music\17.adp size 3782616 crc a6dc5d1d md5 5883f6eda031efbc5b71ba8ebf596d92 )
-	rom ( name Music\18.ADP size 3497996 crc a585edf6 md5 1be06462783bb0ec1ee6bcc697bc7428 )
-	rom ( name Music\19.ADP size 2216588 crc 3f84e74d md5 ffd3d256c04fbaff24810d67b237d91f )
-	rom ( name Music\20.ADP size 7981580 crc bbb51cd6 md5 a8bfa5770d4d161f49733e85ed38f362 )
-	rom ( name Music\21.adp size 5172144 crc 3a8fa084 md5 d150fe91833d744a0b48d11db547faa1 )
-	rom ( name Music\22.adp size 1694092 crc 1155a99e md5 143b19657b122f24baf354056d057c19 )
-	rom ( name Music\23.adp size 3940684 crc f496a0f4 md5 bd0b495b3fb3be39efe31b18949313b3 )
-	rom ( name Music\24.ADP size 5852944 crc fe5e8854 md5 cb55bd114017177f890414535a977e14 )
-	rom ( name Music\25.ADP size 507890 crc 0159333f md5 ffc2190d8a651feffcd5425a20589521 )
-	rom ( name Music\26.adp size 3983780 crc 42ad97f8 md5 3fbce52c0512955fb2180aa2c63e8731 )
-	rom ( name Music\27.adp size 1742815 crc a06fd9a0 md5 8f8eb69cb8a2099e2f5af55c1be94759 )
-	rom ( name Music\28.adp size 147052 crc d97c6f97 md5 3f115f9fa7165d61cf1270a661b9a410 )
-	rom ( name Music\29.adp size 110292 crc 1ce8103d md5 d1065eb0e1b05488fa19658d311a52ef )
-	rom ( name Music\30.adp size 1505292 crc 8b2042e9 md5 280da9ad4779c614bab1d80e78445871 )
-	rom ( name Music\31.ADP size 1469640 crc d8ca58b2 md5 7c91705b320079a00752786829f0872e )
-	rom ( name Music\32.ADP size 630791 crc 8c4af068 md5 3afaeb864512a183e397b1d207eb5873 )
-	rom ( name Music\33.ADP size 168323 crc 44e2584f md5 19d8ac953af4345ee8955366a9fa9e6c )
-	rom ( name Music\34.ADP size 265882 crc 7516ba98 md5 234798643e91b075f2dde123b569288f )
-	rom ( name Music\35.ADP size 3588824 crc ec55e4b8 md5 3fa8a7777114a91c302c5cfc332bfd4c )
-	rom ( name Music\36.adp size 4530188 crc d0ba7a27 md5 ee8fcb6f0c7df99b9fc5baa0450f2069 )
-	rom ( name Music\37.adp size 4341344 crc fa2fb6a0 md5 eb1480e90a10b00a13638068629c94a4 )
-	rom ( name Music\38.ADP size 2400268 crc 8dbb46a2 md5 7ad2ff0dbb4518f65eda552e9176195a )
-	rom ( name Music\39.adp size 3162124 crc 5b69f682 md5 30e6c5f38010469814843cb3f0dc444c )
-	rom ( name Music\40.ADP size 2371032 crc c2bad2df md5 ac1c0a50bc450353fd54b3579255789a )
-	rom ( name Music\41.adp size 541708 crc 329d6ba8 md5 ef369a23025b3fae39f356facfbd3209 )
-	rom ( name Music\42.ADP size 70476 crc b6d87224 md5 9260720654560d29e291857f332bca09 )
-	rom ( name Music\43.adp size 1355532 crc f9a59586 md5 434cfc0fffb41771785095553bead4bf )
-	rom ( name Music\44.adp size 2203916 crc 0c99e1bf md5 fdba04b890bbc6c0421c99d7a11660d2 )
-	rom ( name Music\45.adp size 784396 crc 3005ee06 md5 40601452bfc64a2dc25a4a4e09b22e65 )
-	rom ( name Music\46.adp size 747156 crc ecbd9483 md5 50c97e0d2192eca0085ca13206164ce8 )
-	rom ( name Music\47.adp size 347284 crc 0d514abc md5 f072ae9dc02687c52016dd729af551a6 )
-	rom ( name Music\48.adp size 147468 crc 2aa1c420 md5 b2dfd489b2ab8d6bd8d6c55dfc9631cc )
-	rom ( name Music\49.adp size 272908 crc 98401f87 md5 cac8e05d0d0ea0f0210828eff5eb6a45 )
-	rom ( name Music\50.adp size 216076 crc 65eb3512 md5 0fb0f59c481543d39f8adc39be5cf4e8 )
-	rom ( name Music\51.adp size 454156 crc dd3230aa md5 5982086d39628937c785f43432330850 )
-	rom ( name Music\52.adp size 540384 crc f53ae90f md5 8734cd7cf2e200324946735fdc799523 )
-	rom ( name Music\53.adp size 991244 crc 928e4319 md5 feff4549f62576254d3f1c120c36c16f )
-	rom ( name Music\54.adp size 3152140 crc c6a91c87 md5 5fc3b9c745af4d5ebe9e9c06762f224a )
-	rom ( name Music\55.adp size 3209228 crc b6faf4ba md5 1c72083c6de238078d6fa0da8aa7022b )
-	rom ( name Music\56.adp size 542732 crc 8cd15445 md5 f3b31730151390fbf9d093e3764ebde9 )
-	rom ( name Music\57.adp size 1863564 crc be21fcbf md5 4f3f033df7fed5a56d3ccb07d41eb6fe )
-	rom ( name Music\58.adp size 2723928 crc 63bee9db md5 86bc79dced87b2211ed7d87323b328bf )
-	rom ( name Music\59.adp size 1018780 crc d4242f0c md5 7639f2a025aa356bcfcb60fd5a76ba85 )
-	rom ( name Music\Layer\1.ADP size 544780 crc 54fa0b3b md5 43773bb0b9b8cff116c925c5ce9c2281 )
-	rom ( name Music\Layer\2.ADP size 544778 crc 7ba9f3b8 md5 4f24fd6ae41ebcf4c84ca66a4d12f668 )
-	rom ( name Music\Layer\3.ADP size 773132 crc 672a511c md5 fb2e91fa160526014c19bda4e02db305 )
-	rom ( name Music\Layer\4.ADP size 512012 crc b6f41ad6 md5 ad71ef4f102f237e292da77c7fa7d0d3 )
-	rom ( name Music\Layer\5.ADP size 935274 crc c438a5a3 md5 caeffe50598e4635192a3d4c82796eff )
-	rom ( name Music\Layer\6.ADP size 512012 crc 16b221bf md5 feb3e9d86c18a748b615a27c7a392517 )
-	rom ( name Music\s00.adp size 680784 crc 943571c4 md5 38b1201a9fa3b82061e6cd544fec4be8 )
-	rom ( name Music\s01.adp size 606552 crc 1c596b0c md5 5795aeb85424f94301ebd95efcd0cedb )
-	rom ( name Music\s02.adp size 1049690 crc ed5c34b4 md5 079dd444f1b959571b98c80ffe40ef4d )
-	rom ( name Music\s03.adp size 88084 crc 89104449 md5 5b1a96e6efed83d5edac5863213fdbff )
-	rom ( name Music\s04.adp size 601352 crc d14fe6a6 md5 5d8883d2a37c37a72c558470e00bf9de )
-	rom ( name Music\s05.adp size 573708 crc ad9ae6c3 md5 8904754c25dad0ed47e2734e6416a806 )
-	rom ( name Music\s06.adp size 4187148 crc a0fd41f2 md5 ec4a206c4358575cde367272aef15b3d )
-	rom ( name Music\s07.adp size 357968 crc 9749213c md5 e40e40c02daa835ef2218343b13e1930 )
-	rom ( name Music\s08.adp size 441356 crc 27eee80e md5 843ac94ab4d6d6bfc2297a60e3f35e3e )
-	rom ( name Music\s09.adp size 2709516 crc 65f08908 md5 458299b05a10219b3766f126f123476f )
-	rom ( name Music\s10.adp size 1961191 crc 42aaa390 md5 03ea652f5f2e4121f549d5bf3944fecc )
-	rom ( name Music\s11.adp size 1175676 crc 8f8c6561 md5 2fc41a6c479638991318f7bfa50b741c )
-	rom ( name Music\s12.adp size 583120 crc ec1b7233 md5 cf98ea157f5b6fac8893f84425618a2c )
-	rom ( name Music\s13.adp size 427020 crc 16d7d930 md5 04bc5faa39615adf5f030454fca24456 )
-	rom ( name Music\s14.adp size 2879481 crc 8e570a80 md5 a45db6db6eccec69e41e6c1a54f9fa63 )
-	rom ( name Music\s15.adp size 263692 crc f876770e md5 7ff0bc39db72ca8fe4635ba607b5c236 )
-	rom ( name Music\s16.adp size 339980 crc eb8c4bf6 md5 94662680cae66a35a102c44ba6d9e057 )
-	rom ( name Music\s17.adp size 2332733 crc b47cd498 md5 38e7050209ddaa31e068a64f4fdd24f8 )
-	rom ( name Music\s18.adp size 88236 crc c5e8b6cf md5 c75895b1dd49226b5ca020064ef61e5f )
-	rom ( name Music\utilsfx\U01.ADP size 2176 crc cc22eb71 md5 43e8b624c5f8686baa1a83e7524777f9 )
-	rom ( name Music\utilsfx\U02.ADP size 1532 crc 12dfeb2d md5 b8a9b38e41bc5d6d4315c5dc130e4add )
-	rom ( name Roasted\roasted.MPC size 366773 crc a37ac3af md5 5285010b6e9b69b122f8ccec1e9581db )
-	rom ( name Roasted\roasted.MPR size 135911071 crc 2c8b66b6 md5 f369786a4691ea0613a54f18a7741ddc )
-	rom ( name Roasted\roasted.MPU size 766963 crc 139a3e71 md5 d2eab65d6dcee4fbea0a2fca3a1fb533 )
-	rom ( name Voices\VOICES.VDB size 243003502 crc 059fc5b9 md5 0a237c0bd2cededa6b772e897abd4e87 )
+	rom ( name roasted.mpc size 366773 crc a37ac3af md5 5285010b6e9b69b122f8ccec1e9581db )
+	rom ( name roasted.mpu size 766963 crc 139a3e71 md5 d2eab65d6dcee4fbea0a2fca3a1fb533 )
+	rom ( name Voices\voices.vdb size 243003502 crc 059fc5b9 md5 0a237c0bd2cededa6b772e897abd4e87 )
+)
+
+game (
+	name tony-win-cz
+	description "Tony Tough and the Night of Roasted Moths (Windows/Czech)"
+	year 2002
+	manufacturer "Protonic Interactive"
+	sourcefile tony
+	romof tonywres
+	rom ( name data1.cab size 4350 crc c74138a5 md5 c6d5dd8f0c1241a6e3f7861b7f27bf7b )
+	rom ( name roasted.mpc size 386491 crc 8b63a3dc md5 fefe86e160ccb354d6e60ba0021d2329 )
+	rom ( name roasted.mpu size 828605 crc cfdbc238 md5 a5b241dee7acdda512594fd095df547d )
+	rom ( name Voices\VOICES.VDB size 299019523 crc df87276d md5 a61dabaac2840ceb9533f8d71bbf31a6 )
+)
+
+game (
+	name tony-win-de
+	description "Tony Tough and the Night of Roasted Moths (Windows/German)"
+	year 2002
+	manufacturer "Protonic Interactive"
+	sourcefile tony
+	romof tonywres
+	rom ( name roasted.mpc size 389554 crc 8fa29b29 md5 1d42e44d3fd96e743155ef6bd1902797 )
+	rom ( name roasted.mpu size 31747431 crc bafdf144 md5 90913ff27df9f24892ed4d0a39042d9f )
+	rom ( name Voices\voices.vdb size 279745055 crc 8987d3ab md5 744bbf54197fbf4d0ae1693bf43ba158 )
+)
+
+game (
+	name tony-win-fr
+	description "Tony Tough and the Night of Roasted Moths (Windows/French)"
+	year 2002
+	manufacturer "Protonic Interactive"
+	sourcefile tony
+	romof tonywres
+	rom ( name roasted.mpc size 374135 crc 045e1a31 md5 40c7626863cd6b7ad23f88f46279a4d6 )
+	rom ( name roasted.mpu size 821756 crc e8a5b888 md5 7bd196e49956d00550340559adb26770 )
+	rom ( name Voices\voices.vdb size 243003502 crc 059fc5b9 md5 0a237c0bd2cededa6b772e897abd4e87 )
 )
 
 game (
@@ -152,49 +102,72 @@ game (
 	year 2002
 	manufacturer "Protonic Interactive"
 	sourcefile tony
+	romof tonywres
+	rom ( name roasted.mpc size 380183 crc 81b5318a md5 894003dde6e035e3178f48e043daea4e )
+	rom ( name Voices\voices.vdb size 286130226 crc 1d0c3b0d md5 d4cacf034cd1b194c16381bde8cdb2ed )
+)
+
+game (
+	name tony-win-it-1
+	description "Tony Tough and the Night of Roasted Moths (Windows/Italian)[a]"
+	year 2002
+	manufacturer "Protonic Interactive"
+	sourcefile tony
+	romof tonywres
+	rom ( name roasted.mpc size 380001 crc c85548d1 md5 2c87f1a80a1a3846bbc8b11cf675aa65 )
+	rom ( name roasted.mpu size 61647 crc c9818945 md5 638d4319e0fef684c719311a4649f589 )
+	rom ( name Voices\voices.vdb size 286130226 crc 1d0c3b0d md5 d4cacf034cd1b194c16381bde8cdb2ed )
+)
+
+resource (
+	name tonywres
+	description "ZZZ - Tony Tough and the Night of Roasted Moths Resources"
+	year 2002
+	manufacturer "Protonic Interactive"
+	sourcefile tony
 	rom ( name Music\00.adp size 1616268 crc 5126e549 md5 73701b441a7fe41750e98710619563cc )
-	rom ( name Music\01.ADP size 5260368 crc 1e1ed947 md5 41edf570dfc9bc432a5d19bfdabe8527 )
-	rom ( name Music\02.ADP size 2710028 crc 9aa94909 md5 27aac6ca94a0ba95cd209ad4ec487b45 )
-	rom ( name Music\03.ADP size 5661052 crc 38c8d99c md5 710c22afa426dcab9b7dfe7ec2556aae )
+	rom ( name Music\01.adp size 5260368 crc 1e1ed947 md5 41edf570dfc9bc432a5d19bfdabe8527 )
+	rom ( name Music\02.adp size 2710028 crc 9aa94909 md5 27aac6ca94a0ba95cd209ad4ec487b45 )
+	rom ( name Music\03.adp size 5661052 crc 38c8d99c md5 710c22afa426dcab9b7dfe7ec2556aae )
 	rom ( name Music\04.adp size 153848 crc c4658f0e md5 7b896f1ef6efadd832e6817dfc6d1682 )
-	rom ( name Music\05.ADP size 280812 crc a5b80b43 md5 d6f6f36eae85cf4035366d10563b1498 )
-	rom ( name Music\06.ADP size 4149260 crc b3abb241 md5 caf3aab89305e074e43e3924b7f6a9a9 )
+	rom ( name Music\05.adp size 280812 crc a5b80b43 md5 d6f6f36eae85cf4035366d10563b1498 )
+	rom ( name Music\06.adp size 4149260 crc b3abb241 md5 caf3aab89305e074e43e3924b7f6a9a9 )
 	rom ( name Music\07.adp size 9186336 crc 67cd04e8 md5 774996ad72b67cd39acbfd16b1da2a1d )
-	rom ( name Music\08.ADP size 1297969 crc 555f7812 md5 7d6e75508f32ffe57ffd16afb9d1649b )
-	rom ( name Music\09.ADP size 161863 crc 151581b8 md5 f43e679811da550077900d8332ed84f3 )
-	rom ( name Music\10.ADP size 2161017 crc e97d0c33 md5 3bcf721a2cb87aef150bdb576721265a )
-	rom ( name Music\11.ADP size 3050124 crc 2c66e379 md5 b5ccd69cf7ec2cd845cc8c60985be908 )
-	rom ( name Music\12.ADP size 2692539 crc f7423fd2 md5 2ad9154c8c4cca1d901fd2057d2312ec )
+	rom ( name Music\08.adp size 1297969 crc 555f7812 md5 7d6e75508f32ffe57ffd16afb9d1649b )
+	rom ( name Music\09.adp size 161863 crc 151581b8 md5 f43e679811da550077900d8332ed84f3 )
+	rom ( name Music\10.adp size 2161017 crc e97d0c33 md5 3bcf721a2cb87aef150bdb576721265a )
+	rom ( name Music\11.adp size 3050124 crc 2c66e379 md5 b5ccd69cf7ec2cd845cc8c60985be908 )
+	rom ( name Music\12.adp size 2692539 crc f7423fd2 md5 2ad9154c8c4cca1d901fd2057d2312ec )
 	rom ( name Music\13.adp size 1765388 crc ed8ba5ca md5 643027afcc8528246926c85875f64923 )
-	rom ( name Music\14.ADP size 2932043 crc c430434a md5 7088bfc5adabdb9e8f0b7e728d9abae0 )
-	rom ( name Music\15.ADP size 4228620 crc df2e955e md5 dcd9e6355eb5f3bbbee851790099ec5a )
+	rom ( name Music\14.adp size 2932043 crc c430434a md5 7088bfc5adabdb9e8f0b7e728d9abae0 )
+	rom ( name Music\15.adp size 4228620 crc df2e955e md5 dcd9e6355eb5f3bbbee851790099ec5a )
 	rom ( name Music\16.adp size 2168852 crc 6fb1e3f9 md5 1ad5dfa776908898e5615b424d156969 )
 	rom ( name Music\17.adp size 3782616 crc a6dc5d1d md5 5883f6eda031efbc5b71ba8ebf596d92 )
-	rom ( name Music\18.ADP size 3497996 crc a585edf6 md5 1be06462783bb0ec1ee6bcc697bc7428 )
-	rom ( name Music\19.ADP size 2216588 crc 3f84e74d md5 ffd3d256c04fbaff24810d67b237d91f )
-	rom ( name Music\20.ADP size 7981580 crc bbb51cd6 md5 a8bfa5770d4d161f49733e85ed38f362 )
+	rom ( name Music\18.adp size 3497996 crc a585edf6 md5 1be06462783bb0ec1ee6bcc697bc7428 )
+	rom ( name Music\19.adp size 2216588 crc 3f84e74d md5 ffd3d256c04fbaff24810d67b237d91f )
+	rom ( name Music\20.adp size 7981580 crc bbb51cd6 md5 a8bfa5770d4d161f49733e85ed38f362 )
 	rom ( name Music\21.adp size 5172144 crc 3a8fa084 md5 d150fe91833d744a0b48d11db547faa1 )
 	rom ( name Music\22.adp size 1694092 crc 1155a99e md5 143b19657b122f24baf354056d057c19 )
 	rom ( name Music\23.adp size 3940684 crc f496a0f4 md5 bd0b495b3fb3be39efe31b18949313b3 )
-	rom ( name Music\24.ADP size 5852944 crc fe5e8854 md5 cb55bd114017177f890414535a977e14 )
-	rom ( name Music\25.ADP size 507890 crc 0159333f md5 ffc2190d8a651feffcd5425a20589521 )
+	rom ( name Music\24.adp size 5852944 crc fe5e8854 md5 cb55bd114017177f890414535a977e14 )
+	rom ( name Music\25.adp size 507890 crc 0159333f md5 ffc2190d8a651feffcd5425a20589521 )
 	rom ( name Music\26.adp size 3983780 crc 42ad97f8 md5 3fbce52c0512955fb2180aa2c63e8731 )
 	rom ( name Music\27.adp size 1742815 crc a06fd9a0 md5 8f8eb69cb8a2099e2f5af55c1be94759 )
 	rom ( name Music\28.adp size 147052 crc d97c6f97 md5 3f115f9fa7165d61cf1270a661b9a410 )
 	rom ( name Music\29.adp size 110292 crc 1ce8103d md5 d1065eb0e1b05488fa19658d311a52ef )
 	rom ( name Music\30.adp size 1505292 crc 8b2042e9 md5 280da9ad4779c614bab1d80e78445871 )
-	rom ( name Music\31.ADP size 1469640 crc d8ca58b2 md5 7c91705b320079a00752786829f0872e )
-	rom ( name Music\32.ADP size 630791 crc 8c4af068 md5 3afaeb864512a183e397b1d207eb5873 )
-	rom ( name Music\33.ADP size 168323 crc 44e2584f md5 19d8ac953af4345ee8955366a9fa9e6c )
-	rom ( name Music\34.ADP size 265882 crc 7516ba98 md5 234798643e91b075f2dde123b569288f )
-	rom ( name Music\35.ADP size 3588824 crc ec55e4b8 md5 3fa8a7777114a91c302c5cfc332bfd4c )
+	rom ( name Music\31.adp size 1469640 crc d8ca58b2 md5 7c91705b320079a00752786829f0872e )
+	rom ( name Music\32.adp size 630791 crc 8c4af068 md5 3afaeb864512a183e397b1d207eb5873 )
+	rom ( name Music\33.adp size 168323 crc 44e2584f md5 19d8ac953af4345ee8955366a9fa9e6c )
+	rom ( name Music\34.adp size 265882 crc 7516ba98 md5 234798643e91b075f2dde123b569288f )
+	rom ( name Music\35.adp size 3588824 crc ec55e4b8 md5 3fa8a7777114a91c302c5cfc332bfd4c )
 	rom ( name Music\36.adp size 4530188 crc d0ba7a27 md5 ee8fcb6f0c7df99b9fc5baa0450f2069 )
 	rom ( name Music\37.adp size 4341344 crc fa2fb6a0 md5 eb1480e90a10b00a13638068629c94a4 )
-	rom ( name Music\38.ADP size 2400268 crc 8dbb46a2 md5 7ad2ff0dbb4518f65eda552e9176195a )
+	rom ( name Music\38.adp size 2400268 crc 8dbb46a2 md5 7ad2ff0dbb4518f65eda552e9176195a )
 	rom ( name Music\39.adp size 3162124 crc 5b69f682 md5 30e6c5f38010469814843cb3f0dc444c )
-	rom ( name Music\40.ADP size 2371032 crc c2bad2df md5 ac1c0a50bc450353fd54b3579255789a )
+	rom ( name Music\40.adp size 2371032 crc c2bad2df md5 ac1c0a50bc450353fd54b3579255789a )
 	rom ( name Music\41.adp size 541708 crc 329d6ba8 md5 ef369a23025b3fae39f356facfbd3209 )
-	rom ( name Music\42.ADP size 70476 crc b6d87224 md5 9260720654560d29e291857f332bca09 )
+	rom ( name Music\42.adp size 70476 crc b6d87224 md5 9260720654560d29e291857f332bca09 )
 	rom ( name Music\43.adp size 1355532 crc f9a59586 md5 434cfc0fffb41771785095553bead4bf )
 	rom ( name Music\44.adp size 2203916 crc 0c99e1bf md5 fdba04b890bbc6c0421c99d7a11660d2 )
 	rom ( name Music\45.adp size 784396 crc 3005ee06 md5 40601452bfc64a2dc25a4a4e09b22e65 )
@@ -212,12 +185,12 @@ game (
 	rom ( name Music\57.adp size 1863564 crc be21fcbf md5 4f3f033df7fed5a56d3ccb07d41eb6fe )
 	rom ( name Music\58.adp size 2723928 crc 63bee9db md5 86bc79dced87b2211ed7d87323b328bf )
 	rom ( name Music\59.adp size 1018780 crc d4242f0c md5 7639f2a025aa356bcfcb60fd5a76ba85 )
-	rom ( name Music\Layer\1.ADP size 544780 crc 54fa0b3b md5 43773bb0b9b8cff116c925c5ce9c2281 )
-	rom ( name Music\Layer\2.ADP size 544778 crc 7ba9f3b8 md5 4f24fd6ae41ebcf4c84ca66a4d12f668 )
-	rom ( name Music\Layer\3.ADP size 773132 crc 672a511c md5 fb2e91fa160526014c19bda4e02db305 )
-	rom ( name Music\Layer\4.ADP size 512012 crc b6f41ad6 md5 ad71ef4f102f237e292da77c7fa7d0d3 )
-	rom ( name Music\Layer\5.ADP size 935274 crc c438a5a3 md5 caeffe50598e4635192a3d4c82796eff )
-	rom ( name Music\Layer\6.ADP size 512012 crc 16b221bf md5 feb3e9d86c18a748b615a27c7a392517 )
+	rom ( name Music\Layer\1.adp size 544780 crc 54fa0b3b md5 43773bb0b9b8cff116c925c5ce9c2281 )
+	rom ( name Music\Layer\2.adp size 544778 crc 7ba9f3b8 md5 4f24fd6ae41ebcf4c84ca66a4d12f668 )
+	rom ( name Music\Layer\3.adp size 773132 crc 672a511c md5 fb2e91fa160526014c19bda4e02db305 )
+	rom ( name Music\Layer\4.adp size 512012 crc b6f41ad6 md5 ad71ef4f102f237e292da77c7fa7d0d3 )
+	rom ( name Music\Layer\5.adp size 935274 crc c438a5a3 md5 caeffe50598e4635192a3d4c82796eff )
+	rom ( name Music\Layer\6.adp size 512012 crc 16b221bf md5 feb3e9d86c18a748b615a27c7a392517 )
 	rom ( name Music\s00.adp size 680784 crc 943571c4 md5 38b1201a9fa3b82061e6cd544fec4be8 )
 	rom ( name Music\s01.adp size 606552 crc 1c596b0c md5 5795aeb85424f94301ebd95efcd0cedb )
 	rom ( name Music\s02.adp size 1049690 crc ed5c34b4 md5 079dd444f1b959571b98c80ffe40ef4d )
@@ -237,10 +210,8 @@ game (
 	rom ( name Music\s16.adp size 339980 crc eb8c4bf6 md5 94662680cae66a35a102c44ba6d9e057 )
 	rom ( name Music\s17.adp size 2332733 crc b47cd498 md5 38e7050209ddaa31e068a64f4fdd24f8 )
 	rom ( name Music\s18.adp size 88236 crc c5e8b6cf md5 c75895b1dd49226b5ca020064ef61e5f )
-	rom ( name Music\utilsfx\U01.ADP size 2176 crc cc22eb71 md5 43e8b624c5f8686baa1a83e7524777f9 )
-	rom ( name Music\utilsfx\U02.ADP size 1532 crc 12dfeb2d md5 b8a9b38e41bc5d6d4315c5dc130e4add )
-	rom ( name roasted.MPC size 380183 crc 81b5318a md5 894003dde6e035e3178f48e043daea4e )
-	rom ( name roasted.MPR size 135911071 crc 2c8b66b6 md5 f369786a4691ea0613a54f18a7741ddc )
-	rom ( name voices\VOICES.VDB size 286130226 crc 1d0c3b0d md5 d4cacf034cd1b194c16381bde8cdb2ed )
+	rom ( name Music\utilsfx\u01.adp size 2176 crc cc22eb71 md5 43e8b624c5f8686baa1a83e7524777f9 )
+	rom ( name Music\utilsfx\u02.adp size 1532 crc 12dfeb2d md5 b8a9b38e41bc5d6d4315c5dc130e4add )
+	rom ( name roasted.mpr size 135911071 crc 2c8b66b6 md5 f369786a4691ea0613a54f18a7741ddc )
 )
 

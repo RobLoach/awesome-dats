@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM TOLTECS"
 	description "ScummVM - TOLTECS Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2015-11-11
+	version v1.02
+	date 2016-08-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -33,7 +33,7 @@ game (
 
 game (
 	name toltecs-demo
-	description "3 Skulls of the Toltecs (Demo/DOS)"
+	description "3 Skulls of the Toltecs {Demo}(DOS)"
 	year 1996
 	manufacturer "Revistronic"
 	sourcefile toltecs

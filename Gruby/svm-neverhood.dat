@@ -2,21 +2,32 @@ clrmamepro (
 	name "ScummVM NEVERHOOD"
 	description "ScummVM - NEVERHOOD Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2015-09-26
-	author "Gruby"
+	version v1.02
+	date 2016-08-12
+	author Gruby
 	forcemerging split
 	forcenodump required
 )
 
 game (
 	name neverhood-demo-win
-	description "Neverhood Chronicles, The (Demo/Windows)"
+	description "Neverhood Chronicles, The {Demo}(Windows)"
 	year 1996
 	manufacturer "The Neverhood Inc."
 	sourcefile neverhood
 	rom ( name A.BLB size 11973 crc ab1de4b7 md5 b42c5692e6490f4ee4302d03284060af )
 	rom ( name NEVDEMO.BLB size 22564568 crc c9f6b87f md5 1175e361709ff543499bff81d2523942 )
+	rom ( name NEVDEMO.EXE size 324608 crc 7c8267f1 md5 09c84543b72a03d2b230ba8baa463587 )
+)
+
+game (
+	name neverhood-demo-win-1
+	description "Neverhood Chronicles, The {Demo}(Windows)[a]"
+	year 1996
+	manufacturer "The Neverhood Inc."
+	sourcefile neverhood
+	rom ( name A.BLB size 11973 crc ab1de4b7 md5 b42c5692e6490f4ee4302d03284060af )
+	rom ( name NEVDEMO.BLB size 22357020 crc e84fc637 md5 d5ceab16687854dd10ca249ea595711e )
 	rom ( name NEVDEMO.EXE size 324608 crc 7c8267f1 md5 09c84543b72a03d2b230ba8baa463587 )
 )
 
@@ -38,7 +49,7 @@ game (
 
 game (
 	name neverhood-win-ru
-	description "Neverhood Chronicles, The (DR/Windows/Russian)"
+	description "Neverhood Chronicles, The (Windows/Russian)[Dyadyushka Risech]"
 	year 1996
 	manufacturer "The Neverhood Inc."
 	sourcefile neverhood
@@ -50,3 +61,4 @@ game (
 	rom ( name S.BLB size 16622792 crc a78476c7 md5 187369731ef1ab24cf1cdc271ed4c67c )
 	rom ( name T.BLB size 228370309 crc 12422039 md5 70e499ff4e70d558c2807e4c1d4ebe0f )
 )
+

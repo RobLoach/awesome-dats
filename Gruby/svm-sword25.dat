@@ -2,18 +2,27 @@ clrmamepro (
 	name "ScummVM SWORD25"
 	description "ScummVM - SWORD25 Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2015-11-19
+	version v1.02
+	date 2016-07-26
 	author Gruby
 	forcemerging split
 	forcenodump required
 )
 
 game (
+	name sword25-1
+	description "Broken Sword 2.5 (Multi-Language)[!]"
+	year 2015
+	manufacturer "Mindfactory"
+	sourcefile sword25
+	rom ( name data.b25c size 827397764 crc 1659e20f md5 1f89a63e3509aa64626cc90cd2561032 )
+)
+
+game (
 	name sword25-de
 	description "Broken Sword 2.5 (German)"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	rom ( name data.b25c size 654310588 crc eda6196f md5 631b5bc5a7c994cf74a342f681f22f8d )
 	rom ( name dbghelp.dll size 1038848 crc e2dcdfdc md5 148423fdbc7f0b07d8d166414c95b8ab )
@@ -26,7 +35,7 @@ game (
 	name sword25
 	description "Broken Sword 2.5 (English)"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	cloneof sword25-de
 	romof sword25-de
@@ -37,7 +46,7 @@ game (
 	name sword25-br
 	description "Broken Sword 2.5 (Portuguese)"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	cloneof sword25-de
 	romof sword25-de
@@ -48,7 +57,7 @@ game (
 	name sword25-es
 	description "Broken Sword 2.5 (Spanish)"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	cloneof sword25-de
 	romof sword25-de
@@ -59,7 +68,7 @@ game (
 	name sword25-fr
 	description "Broken Sword 2.5 (French)"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	cloneof sword25-de
 	romof sword25-de
@@ -70,7 +79,7 @@ game (
 	name sword25-hr
 	description "Broken Sword 2.5 (Croatian)"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	cloneof sword25-de
 	romof sword25-de
@@ -79,9 +88,9 @@ game (
 
 game (
 	name sword25-hu
-	description "Broken Sword 2.5 (psylog version/Hungarian)"
+	description "Broken Sword 2.5 (Hungarian)[Psylog]"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	cloneof sword25-de
 	romof sword25-de
@@ -92,7 +101,7 @@ game (
 	name sword25-it
 	description "Broken Sword 2.5 (Italian)"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	cloneof sword25-de
 	romof sword25-de
@@ -103,7 +112,7 @@ game (
 	name sword25-pl
 	description "Broken Sword 2.5 (Polish)"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	cloneof sword25-de
 	romof sword25-de
@@ -114,7 +123,7 @@ game (
 	name sword25-ru
 	description "Broken Sword 2.5 (Russian)"
 	year 2008
-	manufacturer "Malte Thiesen, Daniel Queteschiner and Michael Elsdorfer"
+	manufacturer "Mindfactory"
 	sourcefile sword25
 	cloneof sword25-de
 	romof sword25-de

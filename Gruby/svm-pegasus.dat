@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM PEGASUS"
 	description "ScummVM - PEGASUS Engine Games"
 	category "ScummVM"
-	version v1.10
-	date 2015-10-29
+	version v1.12
+	date 2016-08-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name pegasus-demo-mac
-	description "Journeyman Project, The: Pegasus Prime (Demo/Macintosh)"
+	description "Journeyman Project, The: Pegasus Prime {Demo}(Macintosh)"
 	year 1997
 	manufacturer "Presto Studios"
 	sourcefile pegasus
@@ -127,7 +127,7 @@ game (
 
 game (
 	name pegasus-demo-win
-	description "Journeyman Project, The: Pegasus Prime (DVD Demo/Windows)"
+	description "Journeyman Project, The: Pegasus Prime {Demo}(DVD/Windows)"
 	year 1997
 	manufacturer "Presto Studios"
 	sourcefile pegasus
@@ -853,7 +853,7 @@ game (
 
 resource (
 	name pegres
-	description "ZZZ - Journeyman Project, The- Pegasus Prime Macintosh Resources"
+	description "ZZZ - Journeyman Project, The: Pegasus Prime Macintosh Resources"
 	year 1997
 	manufacturer "Presto Studios"
 	sourcefile pegasus

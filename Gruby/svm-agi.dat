@@ -2,16 +2,16 @@ clrmamepro (
 	name "ScummVM AGI"
 	description "ScummVM - AGI Engine Games"
 	category "ScummVM"
-	version v1.05
-	date 2015-12-25
+	version v1.25
+	date 2016-10-12
 	author Gruby
 	forcemerging split
 	forcenodump required
 )
 
 game (
-	name agi-fanmade
-	description "2 Player Demo (Fanmade/DOS)"
+	name agi-fanmade-0
+	description "2 Player Demo (DOS/Fanmade)"
 	year 2002
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -26,7 +26,7 @@ game (
 
 game (
 	name agi-fanmade-1
-	description "AGI Contest 1 Template (Fanmade/DOS)"
+	description "AGI Contest 1 Template (DOS/Fanmade)"
 	year 2004
 	manufacturer "Joey Rinella"
 	sourcefile agi
@@ -41,7 +41,7 @@ game (
 
 game (
 	name agi-fanmade-10
-	description "AGI Trek (Demo/Fanmade/DOS)"
+	description "AGI Trek {Demo}(DOS/Fanmade)"
 	year 1998
 	manufacturer "Unknown"
 	sourcefile agi
@@ -56,7 +56,7 @@ game (
 
 game (
 	name agi-fanmade-100
-	description "Naturette 2: Daughter of the Moon (v1.0 Fanmade/DOS)"
+	description "Naturette 2: Daughter of the Moon (DOS/Fanmade v1.0/English,French)"
 	year 2002
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -73,7 +73,7 @@ game (
 
 game (
 	name agi-fanmade-101
-	description "Naturette 3: Adventure in Treeworld (v1.0a Fanmade/DOS)"
+	description "Naturette 3: Adventure in Treeworld (DOS/Fanmade v1.0a/English,French)"
 	year 2003
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -88,7 +88,7 @@ game (
 
 game (
 	name agi-fanmade-102
-	description "Naturette 4: From a Planet to Another Planet (2007-10-05 Fanmade/DOS/English, French)"
+	description "Naturette 4: From a Planet to Another Planet (DOS/Fanmade 2007-10-05/English,French)"
 	year 2007
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -108,7 +108,7 @@ game (
 
 game (
 	name agi-fanmade-103
-	description "Naturette 4: From a Planet to Another Planet (Not Finished Fanmade/DOS)"
+	description "Naturette 4: From a Planet to Another Planet (DOS/Fanmade Not Finished)"
 	year 2006
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -123,7 +123,7 @@ game (
 
 game (
 	name agi-fanmade-104
-	description "New AGI Hangman Test (Fanmade/DOS)"
+	description "New AGI Hangman Test (DOS/Fanmade)"
 	year 1999
 	manufacturer "Derek Steinmoeller"
 	sourcefile agi
@@ -138,7 +138,7 @@ game (
 
 game (
 	name agi-fanmade-105
-	description "Nick's Quest: In Pursuit of QuakeMovie (v2.1 Gold Fanmade/DOS)"
+	description "Nick's Quest: In Pursuit of QuakeMovie (DOS/Fanmade v2.1 Gold)"
 	year 1999
 	manufacturer "Nick Richard"
 	sourcefile agi
@@ -153,7 +153,7 @@ game (
 
 game (
 	name agi-fanmade-106
-	description "Open Mic Night (v0.1 Fanmade/DOS)"
+	description "Open Mic Night (DOS/Fanmade v0.1)"
 	year 2003
 	manufacturer "Allen Barrett"
 	sourcefile agi
@@ -170,7 +170,7 @@ game (
 
 game (
 	name agi-fanmade-107
-	description "Operation: Recon (Fanmade/DOS)"
+	description "Operation: Recon (DOS/Fanmade)"
 	year 1998
 	manufacturer "Randy Dykstra, Nat Budin and Leigh Ann Frey"
 	sourcefile agi
@@ -185,7 +185,7 @@ game (
 
 game (
 	name agi-fanmade-108
-	description "Patrick's Quest (Demo v1.0 Fanmade/DOS)"
+	description "Patrick's Quest {Demo}(DOS/Fanmade v1.0)"
 	year 2002
 	manufacturer "Smartguy420"
 	sourcefile agi
@@ -200,7 +200,7 @@ game (
 
 game (
 	name agi-fanmade-109
-	description "Phantasmagoria (Fanmade/DOS)"
+	description "Phantasmagoria (DOS/Fanmade)"
 	year 2000
 	manufacturer "Viagra Guy, The"
 	sourcefile agi
@@ -215,7 +215,7 @@ game (
 
 game (
 	name agi-fanmade-11
-	description "AGI256 Demo (Fanmade/DOS)"
+	description "AGI256 Demo (DOS/Fanmade)"
 	year 1998
 	manufacturer "Brian Provinciano"
 	sourcefile agi
@@ -230,7 +230,7 @@ game (
 
 game (
 	name agi-fanmade-110
-	description "Pharaoh Quest (v0.0 Fanmade/DOS)"
+	description "Pharaoh Quest (DOS/Fanmade v0.0)"
 	year 2002
 	manufacturer "Rainer De Temple"
 	sourcefile agi
@@ -245,7 +245,7 @@ game (
 
 game (
 	name agi-fanmade-111
-	description "Phil's Quest: The Search for Tolbaga (Fanmade/DOS)"
+	description "Phil's Quest: The Search for Tolbaga (DOS/Fanmade)"
 	year 2000
 	manufacturer "Unknown"
 	sourcefile agi
@@ -260,7 +260,7 @@ game (
 
 game (
 	name agi-fanmade-112
-	description "Pinkun Maze Quest (v0.1 Fanmade/DOS)"
+	description "Pinkun Maze Quest (DOS/Fanmade v0.1)"
 	year 2002
 	manufacturer "Nick Sonneveld"
 	sourcefile agi
@@ -275,7 +275,7 @@ game (
 
 game (
 	name agi-fanmade-113
-	description "Pirate Quest (Fanmade/DOS)"
+	description "Pirate Quest (DOS/Fanmade)"
 	year 2000
 	manufacturer "Ian C. Smith"
 	sourcefile agi
@@ -290,7 +290,7 @@ game (
 
 game (
 	name agi-fanmade-114
-	description "Pothead (v0.1 Fanmade/DOS)"
+	description "Pothead (DOS/Fanmade v0.1)"
 	year 2006
 	manufacturer "Unknown"
 	sourcefile agi
@@ -305,7 +305,7 @@ game (
 
 game (
 	name agi-fanmade-115
-	description "President's Quest (Fanmade/DOS)"
+	description "President's Quest (DOS/Fanmade)"
 	year 2000
 	manufacturer "Unknown"
 	sourcefile agi
@@ -320,7 +320,7 @@ game (
 
 game (
 	name agi-fanmade-116
-	description "Prince Quest (Fanmade/DOS)"
+	description "Prince Quest (DOS/Fanmade)"
 	year 1999
 	manufacturer "Jonathon Beckwith"
 	sourcefile agi
@@ -335,7 +335,7 @@ game (
 
 game (
 	name agi-fanmade-117
-	description "Professor: The Professor is Missing (Mar 17 Fanmade/DOS)"
+	description "Professor: The Professor is Missing (DOS/Fanmade Mar 17)"
 	year 2005
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -350,7 +350,7 @@ game (
 
 game (
 	name agi-fanmade-118
-	description "Professor: The Professor is Missing (Mar 22 Fanmade/DOS)"
+	description "Professor: The Professor is Missing (DOS/Fanmade Mar 22)"
 	year 2005
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -365,7 +365,7 @@ game (
 
 game (
 	name agi-fanmade-119
-	description "Quest for Glory VI: Hero's Adventure (Fanmade/DOS)"
+	description "Hero's Adventure (DOS/Fanmade)"
 	year 1999
 	manufacturer "John Collier"
 	sourcefile agi
@@ -380,7 +380,7 @@ game (
 
 game (
 	name agi-fanmade-12
-	description "AGI256-2 Demo (Fanmade/DOS)"
+	description "AGI256-2 Demo (DOS/Fanmade)"
 	year 2002
 	manufacturer "Brian Provinciano and Dark Minister"
 	sourcefile agi
@@ -395,7 +395,7 @@ game (
 
 game (
 	name agi-fanmade-120
-	description "Quest for Home (Fanmade/DOS)"
+	description "Quest for Home (DOS/Fanmade)"
 	year 2000
 	manufacturer "Unknown"
 	sourcefile agi
@@ -410,7 +410,7 @@ game (
 
 game (
 	name agi-fanmade-121
-	description "Quest for Ladies (Demo v1.1 Apr 1 Fanmade/DOS)"
+	description "Quest for Ladies {Demo}(DOS/Fanmade v1.1 Apr 1)"
 	year 2003
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -425,7 +425,7 @@ game (
 
 game (
 	name agi-fanmade-122
-	description "Quest for Ladies (Demo v1.1 Apr 6 Fanmade/DOS)"
+	description "Quest for Ladies {Demo}(DOS/Fanmade v1.1 Apr 6)"
 	year 2003
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -440,7 +440,7 @@ game (
 
 game (
 	name agi-fanmade-123
-	description "Quest for Piracy 1: Enter the Silver Pirate (v0.15 Fanmade/DOS)"
+	description "Quest for Piracy 1: Enter the Silver Pirate (DOS/Fanmade v0.15)"
 	year 1998
 	manufacturer "Ian C. Smith"
 	sourcefile agi
@@ -455,7 +455,7 @@ game (
 
 game (
 	name agi-fanmade-124
-	description "Quest for a Record Deal (Fanmade/DOS)"
+	description "Quest for a Record Deal (DOS/Fanmade)"
 	year 2004
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -470,7 +470,7 @@ game (
 
 game (
 	name agi-fanmade-125
-	description "Ralph's Quest (v0.1 Fanmade/DOS)"
+	description "Ralph's Quest (DOS/Fanmade v0.1)"
 	year 1998
 	manufacturer "Matt Jones"
 	sourcefile agi
@@ -485,7 +485,7 @@ game (
 
 game (
 	name agi-fanmade-126
-	description "Residence 44 Quest (v0.99 Fanmade/DOS/Dutch)"
+	description "Residence 44 Quest (DOS/Fanmade/Dutch v0.99)"
 	year 1999
 	manufacturer "Jinwo Versluys"
 	sourcefile agi
@@ -500,7 +500,7 @@ game (
 
 game (
 	name agi-fanmade-127
-	description "Residence 44 Quest (v0.99 Fanmade/DOS)"
+	description "Residence 44 Quest (DOS/Fanmade v0.99)"
 	year 1999
 	manufacturer "Jinwo Versluys"
 	sourcefile agi
@@ -515,7 +515,7 @@ game (
 
 game (
 	name agi-fanmade-128
-	description "Residence 44 Quest (v1.0a Fanmade/DOS)"
+	description "Residence 44 Quest (DOS/Fanmade v1.0a)"
 	year 1999
 	manufacturer "Jinwo Versluys"
 	sourcefile agi
@@ -530,7 +530,7 @@ game (
 
 game (
 	name agi-fanmade-129
-	description "Save Santa (v1.0 Fanmade/DOS)"
+	description "Save Santa (DOS/Fanmade v1.0)"
 	year 2004
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -545,7 +545,7 @@ game (
 
 game (
 	name agi-fanmade-13
-	description "Acidopolis (Fanmade/DOS)"
+	description "Acidopolis (DOS/Fanmade)"
 	year 1998
 	manufacturer "Neutron"
 	sourcefile agi
@@ -560,7 +560,7 @@ game (
 
 game (
 	name agi-fanmade-130
-	description "Save Santa (v1.3 Fanmade/DOS)"
+	description "Save Santa (DOS/Fanmade v1.3)"
 	year 2004
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -575,7 +575,7 @@ game (
 
 game (
 	name agi-fanmade-131
-	description "Schiller (Preview 1/Fanmade/DOS)"
+	description "Schiller {Preview 1}(DOS/Fanmade)"
 	year 2001
 	manufacturer "Han Sunda Lex"
 	sourcefile agi
@@ -590,7 +590,7 @@ game (
 
 game (
 	name agi-fanmade-132
-	description "Shifty (v1.0 Fanmade/DOS)"
+	description "Shifty (DOS/Fanmade v1.0)"
 	year 2001
 	manufacturer "Moss"
 	sourcefile agi
@@ -605,7 +605,7 @@ game (
 
 game (
 	name agi-fanmade-133
-	description "Sliding Tile Game (v1.00 Fanmade/DOS)"
+	description "Sliding Tile Game (DOS/Fanmade v1.00)"
 	year 2001
 	manufacturer "Steven Melenchuk"
 	sourcefile agi
@@ -620,7 +620,7 @@ game (
 
 game (
 	name agi-fanmade-134
-	description "Snowboarding Demo (v1.0 Fanmade/DOS)"
+	description "Snowboarding {Demo}(DOS/Fanmade v1.0)"
 	year 2001
 	manufacturer "Joey Rinella"
 	sourcefile agi
@@ -635,7 +635,7 @@ game (
 
 game (
 	name agi-fanmade-135
-	description "Solar System Tour (Fanmade/DOS)"
+	description "Solar System Tour (DOS/Fanmade)"
 	year 2003
 	manufacturer "Joey Rinella"
 	sourcefile agi
@@ -650,7 +650,7 @@ game (
 
 game (
 	name agi-fanmade-136
-	description "Sorceror's Appraisal (Fanmade/DOS)"
+	description "Sorceror's Appraisal (DOS/Fanmade)"
 	year 2002
 	manufacturer "Ben Croshaw"
 	sourcefile agi
@@ -665,7 +665,7 @@ game (
 
 game (
 	name agi-fanmade-137
-	description "Space Trek (v1.0 Fanmade/DOS)"
+	description "Space Trek (DOS/Fanmade v1.0)"
 	year 1998
 	manufacturer "Derek Steinmoeller"
 	sourcefile agi
@@ -680,7 +680,7 @@ game (
 
 game (
 	name agi-fanmade-138
-	description "Special Delivery (Fanmade/DOS)"
+	description "Special Delivery (DOS/Fanmade)"
 	year 2001
 	manufacturer "Madis Muul"
 	sourcefile agi
@@ -695,7 +695,7 @@ game (
 
 game (
 	name agi-fanmade-139
-	description "Speeder Bike Challenge (v1.0 Fanmade/DOS)"
+	description "Speeder Bike Challenge (DOS/Fanmade v1.0)"
 	year 1999
 	manufacturer "Randy Dykstra"
 	sourcefile agi
@@ -710,7 +710,7 @@ game (
 
 game (
 	name agi-fanmade-14
-	description "Agent 0055 (v1.0 Fanmade/DOS)"
+	description "Agent 0055 (DOS/Fanmade v1.0)"
 	year 1998
 	manufacturer "Adam McCoy"
 	sourcefile agi
@@ -725,7 +725,7 @@ game (
 
 game (
 	name agi-fanmade-140
-	description "Star Commander 1: The Escape (v1.0 Fanmade/DOS)"
+	description "Star Commander 1: The Escape (DOS/Fanmade v1.0)"
 	year 2001
 	manufacturer "Steve Coyle"
 	sourcefile agi
@@ -741,7 +741,7 @@ game (
 
 game (
 	name agi-fanmade-141
-	description "Star Pilot: Bigger Fish (Fanmade/DOS)"
+	description "Star Pilot: Bigger Fish (DOS/Fanmade)"
 	year 2004
 	manufacturer "M Wood"
 	sourcefile agi
@@ -756,7 +756,7 @@ game (
 
 game (
 	name agi-fanmade-142
-	description "Street Quest (Demo Fanmade/DOS)"
+	description "Street Quest {Demo}(DOS/Fanmade)"
 	year 2002
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -773,7 +773,7 @@ game (
 
 game (
 	name agi-fanmade-143
-	description "Tales of the Tiki (Fanmade/DOS)"
+	description "Tales of the Tiki (DOS/Fanmade)"
 	year 2006
 	manufacturer "Kon Tiki"
 	sourcefile agi
@@ -788,7 +788,7 @@ game (
 
 game (
 	name agi-fanmade-144
-	description "Tex McPhilip 1: Quest for the Papacy (Fanmade/DOS)"
+	description "Tex McPhilip 1: Quest for the Papacy (DOS/Fanmade)"
 	year 2000
 	manufacturer "Magick Poultry Productions"
 	sourcefile agi
@@ -803,7 +803,7 @@ game (
 
 game (
 	name agi-fanmade-145
-	description "Tex McPhilip 2: Road to Divinity (v1.5 Fanmade/DOS)"
+	description "Tex McPhilip 2: Road to Divinity (DOS/Fanmade v1.5)"
 	year 2002
 	manufacturer "Magick Poultry Productions"
 	sourcefile agi
@@ -818,7 +818,7 @@ game (
 
 game (
 	name agi-fanmade-146
-	description "Tex McPhilip 3: A Destiny of Sin (Demo v0.25 Fanmade/DOS)"
+	description "Tex McPhilip 3: A Destiny of Sin {Demo}(DOS/Fanmade v0.25)"
 	year 2006
 	manufacturer "Magick Poultry Productions"
 	sourcefile agi
@@ -833,7 +833,7 @@ game (
 
 game (
 	name agi-fanmade-147
-	description "13th Disciple, The (v1.00 Fanmade/DOS)"
+	description "13th Disciple, The (DOS/Fanmade v1.00)"
 	year 2002
 	manufacturer "Perry Hendriks"
 	sourcefile agi
@@ -848,7 +848,7 @@ game (
 
 game (
 	name agi-fanmade-148
-	description "Adventures of a Crazed Hermit, The (Fanmade/DOS)"
+	description "Adventures of a Crazed Hermit, The (DOS/Fanmade)"
 	year 2000
 	manufacturer "Brian Corr"
 	sourcefile agi
@@ -863,7 +863,7 @@ game (
 
 game (
 	name agi-fanmade-149
-	description "Grateful Dead, The (Fanmade/DOS)"
+	description "Grateful Dead, The (DOS/Fanmade)"
 	year 1998
 	manufacturer "John Collier"
 	sourcefile agi
@@ -878,7 +878,7 @@ game (
 
 game (
 	name agi-fanmade-15
-	description "Agent 06 vs. The Super Nazi (Fanmade/DOS)"
+	description "Agent 06 vs. The Super Nazi (DOS/Fanmade)"
 	year 2003
 	manufacturer "Brettman"
 	sourcefile agi
@@ -893,7 +893,7 @@ game (
 
 game (
 	name agi-fanmade-150
-	description "Legend of Shay-Larah 1, The: The Lost Prince (Fanmade/DOS)"
+	description "Legend of Shay-Larah 1, The: The Lost Prince (DOS/Fanmade)"
 	year 1999
 	manufacturer "Jonathan and Lawrence Beckwith"
 	sourcefile agi
@@ -908,7 +908,7 @@ game (
 
 game (
 	name agi-fanmade-151
-	description "Legend of Zelda, The: The Fungus of Time (Demo v1.00 Fanmade/DOS)"
+	description "Legend of Zelda, The: The Fungus of Time {Demo}(DOS/Fanmade v1.00)"
 	year 2000
 	manufacturer "Justin Kerk"
 	sourcefile agi
@@ -923,7 +923,7 @@ game (
 
 game (
 	name agi-fanmade-152
-	description "Legendary Harry Soupsmith, The (Demo 1998 Apr 2 Fanmade/DOS)"
+	description "Legendary Harry Soupsmith, The {Demo}(DOS/Fanmade 1998 Apr 2)"
 	year 1998
 	manufacturer "Magnus Kristiansen"
 	sourcefile agi
@@ -938,7 +938,7 @@ game (
 
 game (
 	name agi-fanmade-153
-	description "Legendary Harry Soupsmith, The (Demo 1998 Aug 19 Fanmade/DOS)"
+	description "Legendary Harry Soupsmith, The {Demo}(DOS/Fanmade 1998 Aug 19)"
 	year 1998
 	manufacturer "Magnus Kristiansen"
 	sourcefile agi
@@ -953,7 +953,7 @@ game (
 
 game (
 	name agi-fanmade-154
-	description "Long Haired Dude, The: Encounter of the 18-th Kind (Fanmade/DOS)"
+	description "Long Haired Dude, The: Encounter of the 18-th Kind (DOS/Fanmade)"
 	year 2004
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -968,7 +968,7 @@ game (
 
 game (
 	name agi-fanmade-155
-	description "Lost Planet, The (v0.9 Fanmade/DOS)"
+	description "Lost Planet, The (DOS/Fanmade v0.9)"
 	year 1998
 	manufacturer "Nick Hudson"
 	sourcefile agi
@@ -983,7 +983,7 @@ game (
 
 game (
 	name agi-fanmade-156
-	description "Lost Planet, The (v1.0 Fanmade/DOS)"
+	description "Lost Planet, The (DOS/Fanmade v1.0)"
 	year 1999
 	manufacturer "Nick Hudson"
 	sourcefile agi
@@ -998,7 +998,7 @@ game (
 
 game (
 	name agi-fanmade-157
-	description "New Adventure of Roger Wilco, The (1.00 Fanmade/DOS)"
+	description "New Adventure of Roger Wilco, The (DOS/Fanmade 1.00)"
 	year 2004
 	manufacturer "Unknown"
 	sourcefile agi
@@ -1013,7 +1013,7 @@ game (
 
 game (
 	name agi-fanmade-158
-	description "Ruby Cast, The (v0.02 Fanmade/DOS)"
+	description "Ruby Cast, The (DOS/Fanmade v0.02)"
 	year 1998
 	manufacturer "Lance Ewing"
 	sourcefile agi
@@ -1028,7 +1028,7 @@ game (
 
 game (
 	name agi-fanmade-159
-	description "Shadow Plan, The (Fanmade/DOS)"
+	description "Shadow Plan, The (DOS/Fanmade)"
 	year 2000
 	manufacturer "John, Dan and Ben Safelippo and Ryan Atwood"
 	sourcefile agi
@@ -1043,7 +1043,7 @@ game (
 
 game (
 	name agi-fanmade-16
-	description "Agent Quest (Fanmade/DOS)"
+	description "Agent Quest (DOS/Fanmade)"
 	year 2001
 	manufacturer "Kool Productions"
 	sourcefile agi
@@ -1058,7 +1058,7 @@ game (
 
 game (
 	name agi-fanmade-160
-	description "Time Quest (Demo v0.1 Fanmade/DOS)"
+	description "Time Quest {Demo}(DOS/Fanmade v0.1)"
 	year 1998
 	manufacturer "Chad Goulding"
 	sourcefile agi
@@ -1073,7 +1073,7 @@ game (
 
 game (
 	name agi-fanmade-161
-	description "Time Quest (Demo v0.2 Fanmade/DOS)"
+	description "Time Quest {Demo}(DOS/Fanmade v0.2)"
 	year 2001
 	manufacturer "Chad Goulding"
 	sourcefile agi
@@ -1088,7 +1088,7 @@ game (
 
 game (
 	name agi-fanmade-162
-	description "Tonight The Shrieking Corpses Bleed (Demo v0.11 Fanmade/DOS)"
+	description "Tonight The Shrieking Corpses Bleed {Demo}(DOS/Fanmade v0.11)"
 	year 2002
 	manufacturer "James Dover"
 	sourcefile agi
@@ -1103,7 +1103,7 @@ game (
 
 game (
 	name agi-fanmade-163
-	description "Tonight The Shrieking Corpses Bleed (v1.01 Fanmade/DOS)"
+	description "Tonight The Shrieking Corpses Bleed (DOS/Fanmade v1.01)"
 	year 2002
 	manufacturer "James Dover"
 	sourcefile agi
@@ -1118,7 +1118,7 @@ game (
 
 game (
 	name agi-fanmade-164
-	description "Turks' Quest: Heir to the Planet (Fanmade/DOS)"
+	description "Turks' Quest: Heir to the Planet (DOS/Fanmade)"
 	year 2002
 	manufacturer "Rai Reno HappyTurk"
 	sourcefile agi
@@ -1133,7 +1133,7 @@ game (
 
 game (
 	name agi-fanmade-165
-	description "URI Quest (v0.173 Feb 27 Fanmade/DOS)"
+	description "URI Quest (DOS/Fanmade v0.173 Feb 27)"
 	year 2002
 	manufacturer "Jeff Carroll"
 	sourcefile agi
@@ -1148,7 +1148,7 @@ game (
 
 game (
 	name agi-fanmade-166
-	description "URI Quest (v0.173 Jan 29 Fanmade/DOS)"
+	description "URI Quest (DOS/Fanmade v0.173 Jan 29)"
 	year 2002
 	manufacturer "Jeff Carroll"
 	sourcefile agi
@@ -1163,7 +1163,7 @@ game (
 
 game (
 	name agi-fanmade-167
-	description "Voodoo Girl: Queen of the Darned (v1.2 2002 Jan 1 Fanmade/DOS)"
+	description "Voodoo Girl: Queen of the Darned (DOS/Fanmade v1.2 2002 Jan 1)"
 	year 2002
 	manufacturer "Andrew Baker"
 	sourcefile agi
@@ -1178,7 +1178,7 @@ game (
 
 game (
 	name agi-fanmade-168
-	description "Voodoo Girl: Queen of the Darned (v1.2 2002 Mar 29 Fanmade/DOS)"
+	description "Voodoo Girl: Queen of the Darned (DOS/Fanmade v1.2 2002 Mar 29)"
 	year 2002
 	manufacturer "Andrew Baker"
 	sourcefile agi
@@ -1193,7 +1193,7 @@ game (
 
 game (
 	name agi-fanmade-169
-	description "Wizaro (v0.1 Fanmade/DOS)"
+	description "Wizaro (DOS/Fanmade v0.1)"
 	year 2003
 	manufacturer "Allen Barrett"
 	sourcefile agi
@@ -1208,7 +1208,7 @@ game (
 
 game (
 	name agi-fanmade-17
-	description "Al Pond: On Holiday (v1.0 Fanmade/DOS)"
+	description "Al Pond: On Holiday (DOS/Fanmade v1.0)"
 	year 2003
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -1223,7 +1223,7 @@ game (
 
 game (
 	name agi-fanmade-170
-	description "V: The Graphical Adventure (Demo 2  Fanmade/DOS)"
+	description "V: The Graphical Adventure {Demo 2}(DOS/Fanmade)"
 	year 2002
 	manufacturer "Bjoern Kahlenberg"
 	sourcefile agi
@@ -1237,7 +1237,7 @@ game (
 
 game (
 	name agi-fanmade-171
-	description "Apocalyptic Quest (Demo v4.00 Alpha)[Unl]"
+	description "Apocalyptic Quest {Demo}(DOS/Fanmade v4.00 Alpha)[Unl]"
 	year 2004
 	manufacturer "Vapoursoft"
 	sourcefile agi
@@ -1267,7 +1267,7 @@ game (
 
 game (
 	name agi-fanmade-173
-	description "Good Man (Demo v4.0)[Unl]"
+	description "Good Man {Demo}(DOS/Fanmade v4.0)[Unl]"
 	year 2000
 	manufacturer "Slavei Karadjov"
 	sourcefile agi
@@ -1282,7 +1282,7 @@ game (
 
 game (
 	name agi-fanmade-174
-	description "Good Man (Demo v4.0T)[Unl]"
+	description "Good Man {Demo}(DOS/Fanmade v4.0T)[Unl]"
 	year 2000
 	manufacturer "Slavei Karadjov"
 	sourcefile agi
@@ -1297,7 +1297,7 @@ game (
 
 game (
 	name agi-fanmade-175
-	description "Inseparables, Les (Demo v0.2 French)[Unl]"
+	description "Inseparables, Les {Demo}(DOS/Fanmade/French v0.2)[Unl]"
 	year 2001
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -1312,7 +1312,7 @@ game (
 
 game (
 	name agi-fanmade-176
-	description "Space Quest X: The Lost Chapter (v10.0 Apr 10)[Unl]"
+	description "Space Quest X: The Lost Chapter (DOS/Fanmade v10.0 Apr 10)[Unl]"
 	year 2001
 	manufacturer "Vonster D Monster"
 	sourcefile agi
@@ -1328,7 +1328,7 @@ game (
 
 game (
 	name agi-fanmade-177
-	description "Adventure Game Interpreter Combat (Fanmade/DOS)"
+	description "Adventure Game Interpreter Combat (DOS/Fanmade)"
 	year 2011
 	manufacturer "Klownstein"
 	sourcefile agi
@@ -1343,7 +1343,7 @@ game (
 
 game (
 	name agi-fanmade-178
-	description "AGI Tetris (1998/Fanmade/DOS)"
+	description "AGI Tetris (DOS/Fanmade 1998)"
 	year 1998
 	manufacturer "Peter Kelly"
 	sourcefile agi
@@ -1358,7 +1358,7 @@ game (
 
 game (
 	name agi-fanmade-179
-	description "Schiller (Preview 2/Fanmade/DOS)"
+	description "Schiller {Preview 2}(DOS/Fanmade)"
 	year 2002
 	manufacturer "Han Sunda Lex"
 	sourcefile agi
@@ -1373,7 +1373,7 @@ game (
 
 game (
 	name agi-fanmade-18
-	description "Al Pond: On Holiday (v1.1 Fanmade/DOS)"
+	description "Al Pond: On Holiday (DOS/Fanmade v1.1)"
 	year 2003
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -1388,7 +1388,7 @@ game (
 
 game (
 	name agi-fanmade-180
-	description "Gourd of the Beans, The (Fanmade/DOS)[Unl]"
+	description "Gourd of the Beans, The (DOS/Fanmade)[Unl]"
 	year 2015
 	manufacturer "Klownstein"
 	sourcefile agi
@@ -1405,7 +1405,7 @@ game (
 
 game (
 	name agi-fanmade-181
-	description "Toby's World (Fanmade/Demo/DOS)"
+	description "Toby's World {Demo}(DOS/Fanmade)"
 	year 2011
 	manufacturer "Nathan Gowan"
 	sourcefile agi
@@ -1420,7 +1420,7 @@ game (
 
 game (
 	name agi-fanmade-182
-	description "Ultimate AGI Fangame (Fanmade/Demo/DOS)"
+	description "Ultimate AGI Fangame {Demo}(DOS/Fanmade)"
 	year 2012
 	manufacturer "Unknown"
 	sourcefile agi
@@ -1435,7 +1435,7 @@ game (
 
 game (
 	name agi-fanmade-183
-	description "Black Cauldron, The (DOS/Italian)[unl]"
+	description "Black Cauldron, The (DOS/Italian)[Unl]"
 	year 2013
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -1449,8 +1449,100 @@ game (
 )
 
 game (
+	name agi-fanmade-184
+	description "Space Quest 3.5 (DOS/Fanmade)"
+	year 2001
+	manufacturer "Brian Lusk"
+	sourcefile agi
+	rom ( name LOGDIR size 618 crc cb354d78 md5 c077bc28d7b36213dd99dc9ecb0147fc )
+	rom ( name OBJECT size 36 crc cbe73f94 md5 861b27c924ae2f450de40f6ec2b7cf30 )
+	rom ( name pal.101 size 192 crc f7313a0a md5 3deb5369e7c18a8093df3b3dfc8f3e74 )
+	rom ( name pal.102 size 192 crc 10d9a11f md5 58034a1fef2a028e2901bb8098b016e0 )
+	rom ( name PICDIR size 618 crc b22ad815 md5 9874511a4904e08dcaed3aa2d62f3e3b )
+	rom ( name SNDDIR size 183 crc 3846126b md5 dadaec668d789b4a8eee9b4e1512a555 )
+	rom ( name VIEWDIR size 663 crc 91562469 md5 8a98b8149e616db84ba61a81ca1c4bfa )
+	rom ( name VOL.0 size 114402 crc 5376723f md5 b0d20ec255cf76768cda3d2fb4b07d68 )
+	rom ( name WORDS.TOK size 532 crc b4343489 md5 e73432d6e98cc9ebd7ff3fcf8f4fb65b )
+)
+
+game (
+	name agi-fanmade-185
+	description "Cloak of Darkness (DOS/Fanmade v1.0)"
+	year 2000
+	manufacturer "Roger Firth"
+	sourcefile agi
+	rom ( name logdir size 300 crc 60902249 md5 5ba6e18bf0b53be10db8f2f3831ee3e5 )
+	rom ( name object size 30 crc f814f8ae md5 c43c9267c4aa759b62847e26116fc2c9 )
+	rom ( name picdir size 18 crc f08a5f04 md5 761ccf5057939a81861c638a4a85bd15 )
+	rom ( name snddir size 0 crc 00000000 )
+	rom ( name viewdir size 663 crc 83a28d70 md5 1a63a8dc9eaca144d2951761dc0b8e91 )
+	rom ( name vol.0 size 150857 crc 0a9c44dd md5 fd2fb2a8a46821079a7f9dbe55abbed2 )
+	rom ( name words.tok size 647 crc e5b545bd md5 f648b6f4f2bb01ae4ae7b7e089f8eaad )
+)
+
+game (
+	name agi-fanmade-186
+	description "SQ2Eye (DOS/Fanmade v0.3)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc cac2ca47 md5 2be2519401d38ad9ce8f43b948d093a3 )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 1c8bbbec md5 d7cffcf3961631903473bf39437bbd2f )
+	rom ( name SNDDIR size 210 crc 8820db52 md5 8a4322a6a08a93cef572e4318df9002a )
+	rom ( name VIEWDIR size 720 crc 091558e6 md5 76d554bdaf031492d34fa597d806ddf3 )
+	rom ( name VOL.0 size 666162 crc 843f0bd1 md5 ba7fd4c092700bd0a8d6565f397909da )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-187
+	description "SQ2Eye (DOS/Fanmade v0.4)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc cac2ca47 md5 2be2519401d38ad9ce8f43b948d093a3 )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 1c8bbbec md5 d7cffcf3961631903473bf39437bbd2f )
+	rom ( name SNDDIR size 210 crc 5dfe686a md5 0b481e7fb99f2927d3d38a9d5644caf8 )
+	rom ( name VIEWDIR size 720 crc 091558e6 md5 76d554bdaf031492d34fa597d806ddf3 )
+	rom ( name VOL.0 size 680142 crc 9b983694 md5 766764bf20be4ea17ff75841c19762b4 )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-188
+	description "SQ2Eye (DOS/Fanmade v0.41)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 3e834473 md5 f0e82c55f10eb3542d7cd96c107ae113 )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 826d6595 md5 c0e49869c96024d447e48eeb26c5bb1e )
+	rom ( name SNDDIR size 213 crc 525c6e17 md5 0b14e2939c1597a5e69fe2701f36a1c9 )
+	rom ( name VIEWDIR size 720 crc ad03e207 md5 074e2f670cab512243afece6336f2d86 )
+	rom ( name VOL.0 size 689263 crc ecfd858d md5 ccd9831e6830b7c83dea68a87969a3bf )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-189
+	description "SQ2Eye (DOS/Fanmade v0.42)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 17fc772d md5 d7beae55f6328ef8b2da47b1aafea40c )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 17c2478e md5 04dafc691bf147fe6056d46fb54ff1cf )
+	rom ( name SNDDIR size 213 crc ee579b2d md5 4534b220b8266f4ff812d5603b9f8055 )
+	rom ( name VIEWDIR size 720 crc 6f9983bc md5 224d1bd0f29c0562beebacb7de7a2636 )
+	rom ( name VOL.0 size 681534 crc 461fc7ff md5 11f87ddb57242d20a0c49e139d6adabd )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
 	name agi-fanmade-19
-	description "Al Pond: On Holiday (v1.3 Fanmade/DOS)"
+	description "Al Pond: On Holiday (DOS/Fanmade v1.3)"
 	year 2004
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -1464,8 +1556,158 @@ game (
 )
 
 game (
+	name agi-fanmade-190
+	description "SQ2Eye (DOS/Fanmade v0.43)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 7e77f8b0 md5 2a895f06e45de153bb4b77c982009e06 )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc cbc9d7d9 md5 b50d5fb456c0dc9cd04545b31fe2baab )
+	rom ( name SNDDIR size 222 crc a69dce20 md5 e194d6b58c5290d1da10935f280c7be2 )
+	rom ( name VIEWDIR size 720 crc 0dcc3e85 md5 6aea7d644fb14b12f605db0a11916546 )
+	rom ( name VOL.0 size 699155 crc 41b71bef md5 c1ef67f2f846a3d44c39387eacf9a013 )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-191
+	description "SQ2Eye (DOS/Fanmade v0.44)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc e38b05ab md5 5174fc4b6d8a477ba0ff0575cd64e0aa )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 33e74216 md5 c03a6a048de11044c725f0e71e251c82 )
+	rom ( name SNDDIR size 222 crc 27e69e87 md5 4b0891d94b0f10709c0199bdf83ad97a )
+	rom ( name VIEWDIR size 720 crc e5f2546e md5 f9320ce7a75900a4c099e73c2c301078 )
+	rom ( name VOL.0 size 692210 crc f506f2d3 md5 7b440277c05222bda23ac0ea3a12f9b2 )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-192
+	description "SQ2Eye (DOS/Fanmade v0.45)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 479282b6 md5 6e06f8bb7b90ce6f6aabf1a0e620159c )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 98df6266 md5 679db7ba875143081f7d02a97ca5e74b )
+	rom ( name SNDDIR size 222 crc 613db901 md5 3fe6614b4e642ae9fd5393c17083529e )
+	rom ( name VIEWDIR size 720 crc c37b8960 md5 941bf967d787f2dcfceff9b94ef4df69 )
+	rom ( name VOL.0 size 689489 crc eca1ddb0 md5 7b0707ce4b59ed24ec3433f69e4c3a11 )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-193
+	description "SQ2Eye (DOS/Fanmade v0.46)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 6fe57f4f md5 bf0ad7a035ff9113951d09d1efe380c4 )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 7065819f md5 93973f2a2d3f50f6d5d63a595eba1b48 )
+	rom ( name SNDDIR size 231 crc be79f9a8 md5 bbaf32f86457117d940484a91729fcb2 )
+	rom ( name VIEWDIR size 720 crc 2af3b6e2 md5 402fd1f1225db230b6bc8a1f94edb4c3 )
+	rom ( name VOL.0 size 718841 crc 71b9cbd4 md5 0686962de1a557b3d6a981aa35a0879a )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-194
+	description "SQ2Eye (DOS/Fanmade v0.47)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 412b7c7b md5 85dc3be1d33ff932c292b74f9037abaa )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 480d9356 md5 0ae0c43f808548f804fae50ac09bf6d9 )
+	rom ( name SNDDIR size 234 crc 5714c757 md5 4cc2c74c963920d825892f0aaa8830cb )
+	rom ( name VIEWDIR size 720 crc cf90ed89 md5 3d559932cc9a042d528db0bc14dab6e5 )
+	rom ( name VOL.0 size 726007 crc 14bd21e0 md5 8d06400b27169d28eae009b475e64df6 )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-195
+	description "SQ2Eye (DOS/Fanmade v0.48)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc d388e7f3 md5 587574252972a5b5c070a647973a9b4a )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 480d9356 md5 0ae0c43f808548f804fae50ac09bf6d9 )
+	rom ( name SNDDIR size 234 crc 5714c757 md5 4cc2c74c963920d825892f0aaa8830cb )
+	rom ( name VIEWDIR size 720 crc cf90ed89 md5 3d559932cc9a042d528db0bc14dab6e5 )
+	rom ( name VOL.0 size 792244 crc 76bc6e51 md5 2e09637703cc7310e030a48d9dca0974 )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-196
+	description "SQ2Eye (DOS/Fanmade v0.481)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 007e4c17 md5 fc9234beb49804ae869696ce5af8ef30 )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 86244a37 md5 efd9388ccfa7d750ad8db0b5a9791f5d )
+	rom ( name SNDDIR size 237 crc cc3ef633 md5 cbfcd64c6567782b9a3fb54cc2adad13 )
+	rom ( name VIEWDIR size 720 crc 5a53272a md5 e6723ba2902ce3772c1d4f9ed572682e )
+	rom ( name VOL.0 size 750716 crc a80c9924 md5 16c963f2c03bb3c8e4fa33fb0d524cea )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-197
+	description "SQ2Eye (DOS/Fanmade v0.482)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 3a832c1b md5 3ed84b7b87fa6840f25c15f250a11ffb )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc f6977e3c md5 8df2d87d30e8585268f517aaac49deef )
+	rom ( name SNDDIR size 237 crc 8f61aedf md5 0180e88d5016d927ae4ed6a9f37eea3b )
+	rom ( name VIEWDIR size 720 crc f3205fa1 md5 b407c3d417ae7578e1f7e627d53f1f42 )
+	rom ( name VOL.0 size 756524 crc 3ff62ff7 md5 550cf4035b09d48f0d872401678d6766 )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-198
+	description "SQ2Eye (DOS/Fanmade v0.483)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 8b90112e md5 647c31298d3f9cda641231b893e347c0 )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 3b63486c md5 e01bf712317314096957146c767d7236 )
+	rom ( name SNDDIR size 240 crc 3e21e506 md5 ca3fea301e2f57113bc7b76d8cb03577 )
+	rom ( name VIEWDIR size 720 crc 83c1db5e md5 0562373dcbd8b0fa1b74e6e0e0fcfd4c )
+	rom ( name VOL.0 size 785193 crc ee020ca2 md5 8c3bb03675a788b0c95256b8b9859c63 )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name agi-fanmade-199
+	description "SQ2Eye (DOS/Fanmade v0.484)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc f1295f48 md5 f2c86fae7b9046d408c62c8c49a4b882 )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 8c9c236d md5 30887a663237354ad8e8a6545f4e6e71 )
+	rom ( name SNDDIR size 243 crc 65b406e8 md5 4645f371e1c4f72d4770a613be6b38cc )
+	rom ( name VIEWDIR size 720 crc 82b7c83e md5 a1946139b72c3fe4d312881da9db8644 )
+	rom ( name VOL.0 size 796494 crc ecf290a9 md5 b6519e248143dd38ab504a3a27c8c994 )
+	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
 	name agi-fanmade-2
-	description "AGI Contest 2 Template (Fanmade/DOS)"
+	description "AGI Contest 2 Template (DOS/Fanmade)"
 	year 2004
 	manufacturer "Chad Goulding"
 	sourcefile agi
@@ -1480,7 +1722,7 @@ game (
 
 game (
 	name agi-fanmade-20
-	description "Al Pond 1: Al Lives Forever (v1.0 Fanmade/DOS)"
+	description "Al Pond 1: Al Lives Forever (DOS/Fanmade v1.1)"
 	year 2002
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -1494,8 +1736,83 @@ game (
 )
 
 game (
+	name agi-fanmade-200
+	description "SQ2Eye (DOS/Fanmade v0.485)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 7892008c md5 af59e36bc28f44545458b68a93e91e67 )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc c253fe3e md5 39508962153db3f4b2d2215eaa91bcff )
+	rom ( name SNDDIR size 246 crc 79b35ff2 md5 cd0d687d2f80a1aa7c40df9751042332 )
+	rom ( name VIEWDIR size 720 crc 61d37f39 md5 ea1f061198d4317cc10872e090413612 )
+	rom ( name VOL.0 size 818873 crc dc1c4943 md5 4b6efc4549dac66ce737eb56f64da00a )
+	rom ( name WORDS.TOK size 6814 crc 4668a576 md5 b827bb2920fde00c5fd9b3175d8947f4 )
+)
+
+game (
+	name agi-fanmade-201
+	description "SQ2Eye (DOS/Fanmade v0.486)"
+	year 2005
+	manufacturer "Vizz and Tiki"
+	sourcefile agi
+	rom ( name LOGDIR size 423 crc 65873740 md5 3fd86436e93456770dbdd4593eded70a )
+	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name PICDIR size 441 crc 8f260413 md5 cbc7c7ec85f656118fbf4f3b8b0570d4 )
+	rom ( name SNDDIR size 246 crc 9030c15e md5 5c4be591c5717e5bfad76b7379734f7c )
+	rom ( name VIEWDIR size 720 crc 496ab798 md5 b6f7ab51b116fa598ae75d87b5df123a )
+	rom ( name VOL.0 size 799399 crc a4556ebb md5 ab733f3e855efa191a87534b0cc86a89 )
+	rom ( name WORDS.TOK size 6814 crc 4668a576 md5 b827bb2920fde00c5fd9b3175d8947f4 )
+)
+
+game (
+	name agi-fanmade-202
+	description "13th Disciple, The (DOS/Fanmade v1.01)"
+	year 2005
+	manufacturer "Perry Hendriks"
+	sourcefile agi
+	rom ( name LOGDIR size 615 crc 0c186a8c md5 58e3ec1b9ac1a79901c472aaa59db832 )
+	rom ( name OBJECT size 128 crc 27e82f4f md5 75bced1b839b896efe495e944e0b0c71 )
+	rom ( name PICDIR size 273 crc 8b336a24 md5 bda99c35727bae82e0c9434d4406310b )
+	rom ( name SNDDIR size 0 crc 00000000 )
+	rom ( name VIEWDIR size 732 crc 38ca547f md5 e57836d38396157f8977885605e661b4 )
+	rom ( name VOL.0 size 209048 crc 40480000 md5 e69347b388d7a03289e87ac77aeff104 )
+	rom ( name WORDS.TOK size 7063 crc abd84126 md5 b61d15fa974f57eae26e9b62819907bb )
+)
+
+game (
+	name agi-fanmade-203
+	description "Fu$k Quest 1 (DOS/Fanmade Spanish)[Unl]"
+	year 1998
+	manufacturer "Richard Eter"
+	sourcefile agi
+	rom ( name LOGDIR size 300 crc 3dad0249 md5 b6c840964146e6621b438a9c2b68d9c1 )
+	rom ( name OBJECT size 62 crc f21104bf md5 a9ade169ef2e6fe6458dd5f508fda11f )
+	rom ( name PICDIR size 96 crc 095442e8 md5 11639e32ce518b5a8604b82d30a14445 )
+	rom ( name SNDDIR size 192 crc afecb131 md5 8916c8535197b12465b579fd0bf244d5 )
+	rom ( name VIEWDIR size 675 crc 30b57699 md5 7b024ba449091ca6e830870eae3166df )
+	rom ( name VOL.0 size 342495 crc b1af28bf md5 0fd9ad843c2b16a29ae741898444627a )
+	rom ( name WORDS.TOK size 2963 crc b4aaf997 md5 c3304079e750be334c15711dd5379059 )
+)
+
+game (
+	name agi-fanmade-204
+	description "Fu$k Quest 2: Romancing the Bone {Teaser}(DOS/Fanmade Spanish)[Unl]"
+	year 1998
+	manufacturer "Richard Eter"
+	sourcefile agi
+	rom ( name LOGDIR size 762 crc 3c01b80c md5 bc51ac07f320ed72f37a2b3750bd42d8 )
+	rom ( name OBJECT size 23 crc fedc35f4 md5 120acb1d39e89b1767364eb33097b051 )
+	rom ( name PICDIR size 765 crc dae9a3a3 md5 95aff245224378a5a7f712e41549d1e1 )
+	rom ( name SNDDIR size 351 crc 2c4e0b8e md5 6204ac69446d9ac59a387a7d4716864c )
+	rom ( name VIEWDIR size 768 crc 2b5e139b md5 3ce4493d4e9bbfc4959a7c25fdc279b4 )
+	rom ( name VOL.0 size 153263 crc c7a0f7ed md5 b18cbc9cc21a54c31728ada7b86fa5b2 )
+	rom ( name WORDS.TOK size 564 crc 915d397f md5 dbf494c923553f1582840736816f13c8 )
+)
+
+game (
 	name agi-fanmade-21
-	description "Al Pond 1: Al Lives Forever (v1.3 Fanmade/DOS)"
+	description "Al Pond 1: Al Lives Forever (DOS/Fanmade v1.3)"
 	year 2004
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -1510,7 +1827,7 @@ game (
 
 game (
 	name agi-fanmade-22
-	description "Apocalyptic Quest (v0.03 Teaser Fanmade/DOS)"
+	description "Apocalyptic Quest {Teaser}(DOS/Fanmade v0.03)"
 	year 2002
 	manufacturer "Vapoursoft"
 	sourcefile agi
@@ -1525,7 +1842,7 @@ game (
 
 game (
 	name agi-fanmade-23
-	description "Apocalyptic Quest (v4.00 Alpha 1 Fanmade/DOS)"
+	description "Apocalyptic Quest (DOS/Fanmade v4.00 Alpha 1)"
 	year 2004
 	manufacturer "Vapoursoft"
 	sourcefile agi
@@ -1540,7 +1857,7 @@ game (
 
 game (
 	name agi-fanmade-24
-	description "Apocalyptic Quest (v4.00 Alpha 2 Fanmade/DOS)"
+	description "Apocalyptic Quest (DOS/Fanmade v4.00 Alpha 2)"
 	year 2004
 	manufacturer "Vapoursoft"
 	sourcefile agi
@@ -1555,7 +1872,7 @@ game (
 
 game (
 	name agi-fanmade-25
-	description "Band Quest (Demo Fanmade/DOS)"
+	description "Band Quest {Demo}(DOS/Fanmade)"
 	year 2002
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -1570,7 +1887,7 @@ game (
 
 game (
 	name agi-fanmade-26
-	description "Band Quest (Early Demo Fanmade/DOS)"
+	description "Band Quest {Early Demo}(DOS/Fanmade)"
 	year 2002
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -1585,7 +1902,7 @@ game (
 
 game (
 	name agi-fanmade-27
-	description "Beyond the Titanic 2 (Fanmade/DOS)"
+	description "Beyond the Titanic 2 (DOS/Fanmade)"
 	year 1999
 	manufacturer "Unknown"
 	sourcefile agi
@@ -1600,7 +1917,7 @@ game (
 
 game (
 	name agi-fanmade-28
-	description "Biru Quest 1 (Fanmade/DOS)"
+	description "Biru Quest 1 (DOS/Fanmade)"
 	year 2006
 	manufacturer "Pinak Dey"
 	sourcefile agi
@@ -1615,7 +1932,7 @@ game (
 
 game (
 	name agi-fanmade-29
-	description "Bob The Farmboy (Fanmade/DOS)"
+	description "Bob The Farmboy (DOS/Fanmade)"
 	year 2003
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -1630,7 +1947,7 @@ game (
 
 game (
 	name agi-fanmade-3
-	description "AGI Mouse Demo 0.60 demo 1 (Fanmade/DOS)"
+	description "AGI Mouse Demo (DOS/Fanmade v0.6)"
 	year 1999
 	manufacturer "Brian Provinciano"
 	sourcefile agi
@@ -1645,7 +1962,7 @@ game (
 
 game (
 	name agi-fanmade-30
-	description "Boring Man 1: The Toad to Robinland (Fanmade/DOS)"
+	description "Boring Man 1: The Road to Robinland (DOS/Fanmade)"
 	year 2003
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -1660,7 +1977,7 @@ game (
 
 game (
 	name agi-fanmade-31
-	description "Boring Man 2: Ho Man! This Game Sucks! (Fanmade/DOS)"
+	description "Boring Man 2: Ho Man! This Game Sucks! (DOS/Fanmade)"
 	year 2006
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -1675,7 +1992,7 @@ game (
 
 game (
 	name agi-fanmade-32
-	description "Botz (Fanmade/DOS)"
+	description "Botz (DOS/Fanmade)"
 	year 1998
 	manufacturer "Nat Budin"
 	sourcefile agi
@@ -1690,7 +2007,7 @@ game (
 
 game (
 	name agi-fanmade-33
-	description "Brian's Quest (v1.0 Fanmade/DOS)"
+	description "Brian's Quest (DOS/Fanmade v1.0)"
 	year 2003
 	manufacturer "Brian"
 	sourcefile agi
@@ -1705,7 +2022,7 @@ game (
 
 game (
 	name agi-fanmade-34
-	description "CPU-21 (v1.0 Fanmade/DOS)"
+	description "CPU-21 (DOS/Fanmade v1.0)"
 	year 1998
 	manufacturer "Luke Roberts"
 	sourcefile agi
@@ -1720,7 +2037,7 @@ game (
 
 game (
 	name agi-fanmade-35
-	description "Car Driver (v1.1 Fanmade/DOS)"
+	description "Car Driver (DOS/Fanmade v1.1)"
 	year 2004
 	manufacturer "Joey Rinella"
 	sourcefile agi
@@ -1735,7 +2052,7 @@ game (
 
 game (
 	name agi-fanmade-36
-	description "Coco Coq In Grostesteing's Base (v.1.0.3 Fanmade/DOS)"
+	description "Coco Coq In Grostesteing's Base (DOS/Fanmade v1.0.3)"
 	year 2004
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -1750,7 +2067,7 @@ game (
 
 game (
 	name agi-fanmade-37
-	description "Corby's Murder Mystery (v1.0 Fanmade/DOS)"
+	description "Corby's Murder Mystery (DOS/Fanmade v1.0)"
 	year 2003
 	manufacturer "Corby LaCroix"
 	sourcefile agi
@@ -1765,7 +2082,7 @@ game (
 
 game (
 	name agi-fanmade-38
-	description "DG: The AGIMouse Adventure (v1.1 Fanmade/DOS)"
+	description "DG: The AGIMouse Adventure (DOS/Fanmade v1.1)"
 	year 2001
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -1782,7 +2099,7 @@ game (
 
 game (
 	name agi-fanmade-39
-	description "DG: The Adventure Game (v1.1 Fanmade/DOS)"
+	description "DG: The Adventure Game (DOS/Fanmade v1.1)"
 	year 2002
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -1797,7 +2114,7 @@ game (
 
 game (
 	name agi-fanmade-4
-	description "AGI Mouse Demo 0.60 demo 2 (Fanmade/DOS)"
+	description "AGI Mouse Demo 2 (DOS/Fanmade v0.6)"
 	year 1999
 	manufacturer "Brian Provinciano"
 	sourcefile agi
@@ -1812,7 +2129,7 @@ game (
 
 game (
 	name agi-fanmade-40
-	description "Dashiki (16 Colors Fanmade/DOS)"
+	description "Dashiki (DOS/Fanmade 16 Colors)"
 	year 1998
 	manufacturer "John Collier"
 	sourcefile agi
@@ -1827,7 +2144,7 @@ game (
 
 game (
 	name agi-fanmade-41
-	description "Dashiki (256 Colors Fanmade/DOS)"
+	description "Dashiki (DOS/Fanmade 256 Colors)"
 	year 1998
 	manufacturer "John Collier"
 	sourcefile agi
@@ -1842,7 +2159,7 @@ game (
 
 game (
 	name agi-fanmade-42
-	description "Date Quest 1 (v1.0 Fanmade/DOS)"
+	description "Date Quest 1 (DOS/Fanmade v1.0)"
 	year 2001
 	manufacturer "Joey Rinella and Jon Swiderski"
 	sourcefile agi
@@ -1857,7 +2174,7 @@ game (
 
 game (
 	name agi-fanmade-43
-	description "Date Quest 2 (v1.0 Demo/Fanmade/DOS)"
+	description "Date Quest 2 {Demo}(DOS/Fanmade v1.0)"
 	year 2002
 	manufacturer "Joey Rinella and Jon Swiderski"
 	sourcefile agi
@@ -1872,7 +2189,7 @@ game (
 
 game (
 	name agi-fanmade-44
-	description "Date Quest 2 (v1.0 Fanmade/DOS)"
+	description "Date Quest 2 (DOS/Fanmade v1.0)"
 	year 2003
 	manufacturer "Joey Rinella and Jon Swiderski"
 	sourcefile agi
@@ -1887,7 +2204,7 @@ game (
 
 game (
 	name agi-fanmade-45
-	description "Dave's Quest (v0.07 Fanmade/DOS)"
+	description "Dave's Quest (DOS/Fanmade v0.07)"
 	year 1998
 	manufacturer "David Smith"
 	sourcefile agi
@@ -1902,7 +2219,7 @@ game (
 
 game (
 	name agi-fanmade-46
-	description "Dave's Quest (v0.17 Fanmade/DOS)"
+	description "Dave's Quest (DOS/Fanmade v0.17)"
 	year 2001
 	manufacturer "David Smith"
 	sourcefile agi
@@ -1917,7 +2234,7 @@ game (
 
 game (
 	name agi-fanmade-47
-	description "Disco Nights (Demo Fanmade/DOS)"
+	description "Disco Nights {Demo}(DOS/Fanmade)"
 	year 2001
 	manufacturer "Andrew Dickerson"
 	sourcefile agi
@@ -1932,7 +2249,7 @@ game (
 
 game (
 	name agi-fanmade-48
-	description "Dogs Quest: The Quest for the Golden Bone (v1.0 Fanmade/DOS)"
+	description "Dogs Quest: The Quest for the Golden Bone (DOS/Fanmade v1.0)"
 	year 2001
 	manufacturer "Kool Productions"
 	sourcefile agi
@@ -1947,7 +2264,7 @@ game (
 
 game (
 	name agi-fanmade-49
-	description "Dr.Jummybummy's Space Adventure (Fanmade/DOS)"
+	description "Dr. Jummybummy's Space Adventure (DOS/Fanmade)"
 	year 2003
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -1962,7 +2279,7 @@ game (
 
 game (
 	name agi-fanmade-5
-	description "AGI Mouse Demo 0.70 (Fanmade/DOS)"
+	description "AGI Mouse Demo (DOS/Fanmade v0.7)"
 	year 1999
 	manufacturer "Brian Provinciano"
 	sourcefile agi
@@ -1977,7 +2294,7 @@ game (
 
 game (
 	name agi-fanmade-50
-	description "Ed Ward (Fanmade/DOS)"
+	description "Ed Ward (DOS/Fanmade)"
 	year 2002
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -1992,7 +2309,7 @@ game (
 
 game (
 	name agi-fanmade-51
-	description "Elfintard (Fanmade/DOS)"
+	description "Elfintard (DOS/Fanmade)"
 	year 1999
 	manufacturer "M.J. Chapman"
 	sourcefile agi
@@ -2007,7 +2324,7 @@ game (
 
 game (
 	name agi-fanmade-52
-	description "Enclosure (v1.01 Fanmade/DOS)"
+	description "Enclosure (DOS/Fanmade v1.01)"
 	year 2006
 	manufacturer "Joker, Hwm and DaMole"
 	sourcefile agi
@@ -2022,7 +2339,7 @@ game (
 
 game (
 	name agi-fanmade-53
-	description "Enclosure (v1.03 Fanmade/DOS)"
+	description "Enclosure (DOS/Fanmade v1.03)"
 	year 2007
 	manufacturer "Joker, Hwm and DaMole"
 	sourcefile agi
@@ -2037,7 +2354,7 @@ game (
 
 game (
 	name agi-fanmade-54
-	description "Epic Fighting (v0.1 Fanmade/DOS)"
+	description "Epic Fighting (DOS/Fanmade v0.1)"
 	year 2006
 	manufacturer "Unknown"
 	sourcefile agi
@@ -2057,7 +2374,7 @@ game (
 
 game (
 	name agi-fanmade-55
-	description "Escape Quest (v0.0.3 Fanmade/DOS)"
+	description "Escape Quest (DOS/Fanmade v0.0.3)"
 	year 1998
 	manufacturer "Rainer De Temple"
 	sourcefile agi
@@ -2072,7 +2389,7 @@ game (
 
 game (
 	name agi-fanmade-56
-	description "Escape from the Desert (beta 1 Fanmade/DOS)"
+	description "Escape from the Desert (DOS/Fanmade beta 1)"
 	year 1997
 	manufacturer "Nuno Costa"
 	sourcefile agi
@@ -2087,7 +2404,7 @@ game (
 
 game (
 	name agi-fanmade-57
-	description "Escape from the Salesman (Fanmade/DOS)"
+	description "Escape from the Salesman (DOS/Fanmade)"
 	year 2005
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -2102,9 +2419,9 @@ game (
 
 game (
 	name agi-fanmade-58
-	description "Fu$k Quest 1 (final Fanmade/DOS)"
+	description "Fu$k Quest 1 (DOS/Fanmade Final)"
 	year 2004
-	manufacturer "Richard Ether"
+	manufacturer "Richard Eter"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 502884d2 md5 1cd0587422313f6ca77d6a95988e88ed )
 	rom ( name OBJECT size 56 crc 09ad6a00 md5 160ebe0b46d5cbb93e3141fdd7531816 )
@@ -2117,9 +2434,9 @@ game (
 
 game (
 	name agi-fanmade-59
-	description "Fu$k Quest 1 (Fanmade/DOS)"
+	description "Fu$k Quest 1 (DOS/Fanmade)"
 	year 1998
-	manufacturer "Richard Ether"
+	manufacturer "Richard Eter"
 	sourcefile agi
 	rom ( name LOGDIR size 300 crc 502884d2 md5 1cd0587422313f6ca77d6a95988e88ed )
 	rom ( name OBJECT size 56 crc 09ad6a00 md5 160ebe0b46d5cbb93e3141fdd7531816 )
@@ -2132,7 +2449,7 @@ game (
 
 game (
 	name agi-fanmade-6
-	description "AGI Mouse Demo 1.00 (Fanmade/DOS)"
+	description "AGI Mouse Demo (DOS/Fanmade v1.00)"
 	year 2000
 	manufacturer "Brian Provinciano"
 	sourcefile agi
@@ -2147,9 +2464,9 @@ game (
 
 game (
 	name agi-fanmade-60
-	description "Fu$k Quest 2: Romancing the Bone (Teaser Fanmade/DOS)"
+	description "Fu$k Quest 2: Romancing the Bone {Teaser}(DOS/Fanmade)"
 	year 1998
-	manufacturer "Richard Ether"
+	manufacturer "Richard Eter"
 	sourcefile agi
 	rom ( name LOGDIR size 762 crc 64beed55 md5 d288355d71d9bb1639260ccaa3b2fbfe )
 	rom ( name OBJECT size 23 crc fedc35f4 md5 120acb1d39e89b1767364eb33097b051 )
@@ -2162,9 +2479,9 @@ game (
 
 game (
 	name agi-fanmade-61
-	description "Fu$k Quest 2: Romancing the Bone (Fanmade/DOS)"
+	description "Fu$k Quest 2: Romancing the Bone (DOS/Fanmade)"
 	year 2004
-	manufacturer "Richard Ether"
+	manufacturer "Richard Eter"
 	sourcefile agi
 	rom ( name LOGDIR size 762 crc 4839c96e md5 294beeb7765c7ea6b05ed7b9bf7bff4f )
 	rom ( name OBJECT size 151 crc 69b63d5c md5 4cec65dbb695328de9893c6bcb383c34 )
@@ -2177,7 +2494,7 @@ game (
 
 game (
 	name agi-fanmade-62
-	description "Gennadi Tahab Autot: Mission Pack 1: Kuressaare (Fanmade/DOS)"
+	description "Gennadi Tahab Autot: Mission Pack 1: Kuressaare (DOS/Fanmade)"
 	year 2006
 	manufacturer "Gennadij"
 	sourcefile agi
@@ -2192,7 +2509,7 @@ game (
 
 game (
 	name agi-fanmade-63
-	description "Get Outta Space Quest (Fanmade/DOS)"
+	description "Get Outta Space Quest (DOS/Fanmade)"
 	year 2001
 	manufacturer "Joey Rinella"
 	sourcefile agi
@@ -2207,7 +2524,7 @@ game (
 
 game (
 	name agi-fanmade-64
-	description "Go West, Young Hippie (Fanmade/DOS)"
+	description "Go West, Young Hippie (DOS/Fanmade)"
 	year 1995
 	manufacturer "Jeremiah Kauffman"
 	sourcefile agi
@@ -2222,7 +2539,7 @@ game (
 
 game (
 	name agi-fanmade-65
-	description "Good Man (demo v3.41 Fanmade/DOS)"
+	description "Good Man {Demo}(DOS/Fanmade v3.41)"
 	year 1998
 	manufacturer "Slavei Karadjov"
 	sourcefile agi
@@ -2237,7 +2554,7 @@ game (
 
 game (
 	name agi-fanmade-66
-	description "Half-Death: Terror at White-Mesa (Fanmade/DOS)"
+	description "Half-Death: Terror at White-Mesa (DOS/Fanmade/English,French)"
 	year 2005
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2252,7 +2569,7 @@ game (
 
 game (
 	name agi-fanmade-67
-	description "Hank's Quest: Victim of Society (v1.0 Fanmade/DOS)"
+	description "Hank's Quest: Victim of Society (DOS/Fanmade v1.0)"
 	year 2002
 	manufacturer "Joker, Hwm and DaMole"
 	sourcefile agi
@@ -2267,7 +2584,7 @@ game (
 
 game (
 	name agi-fanmade-68
-	description "Hank's Quest: Victim of Society (v1.1 Fanmade/DOS)"
+	description "Hank's Quest: Victim of Society (DOS/Fanmade v1.1)"
 	year 2002
 	manufacturer "Joker, Hwm and DaMole"
 	sourcefile agi
@@ -2282,7 +2599,7 @@ game (
 
 game (
 	name agi-fanmade-69
-	description "Hank's Quest: Victim of Society (v1.81 Fanmade/DOS)"
+	description "Hank's Quest: Victim of Society (DOS/Fanmade v1.81)"
 	year 2005
 	manufacturer "Joker, Hwm and DaMole"
 	sourcefile agi
@@ -2297,7 +2614,7 @@ game (
 
 game (
 	name agi-fanmade-7
-	description "AGI Mouse Demo 1.10 (Fanmade/DOS)"
+	description "AGI Mouse Demo (DOS/Fanmade v1.10)"
 	year 2001
 	manufacturer "Brian Provinciano"
 	sourcefile agi
@@ -2314,7 +2631,7 @@ game (
 
 game (
 	name agi-fanmade-70
-	description "Herbao (v0.2 Fanmade/DOS)"
+	description "Herbao (DOS/Fanmade v0.2)"
 	year 2000
 	manufacturer "Samuel 'TheSam' Moritz and Marc Nordlund"
 	sourcefile agi
@@ -2329,7 +2646,7 @@ game (
 
 game (
 	name agi-fanmade-71
-	description "Hitler's Legacy (v.0004q Fanmade/DOS)"
+	description "Hitler's Legacy (DOS/Fanmade v.0004q)"
 	year 2001
 	manufacturer "Brian Corr, Adam Grant, Sami Tervo"
 	sourcefile agi
@@ -2347,7 +2664,7 @@ game (
 
 game (
 	name agi-fanmade-72
-	description "Gourd of the Beans, The (Old version/Fanmade/DOS)"
+	description "Gourd of the Beans, The (DOS/Fanmade Old version)"
 	year 2006
 	manufacturer "Klownstein"
 	sourcefile agi
@@ -2362,7 +2679,7 @@ game (
 
 game (
 	name agi-fanmade-73
-	description "Isabella Coq: A Present For My Dad (Fanmade/DOS)"
+	description "Isabella Coq: A Present For My Dad (DOS/Fanmade)"
 	year 2005
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2377,7 +2694,7 @@ game (
 
 game (
 	name agi-fanmade-74
-	description "Jack & Julia: VAMPYR (Fanmade/DOS)"
+	description "Jack & Julia: VAMPYR (DOS/Fanmade)"
 	year 1998
 	manufacturer "Adam McCoy"
 	sourcefile agi
@@ -2392,7 +2709,7 @@ game (
 
 game (
 	name agi-fanmade-75
-	description "Jeff's Quest (v.5 alpha Jun 1 Fanmade/DOS)"
+	description "Jeff's Quest (DOS/Fanmade v.5 alpha Jun 1)"
 	year 1998
 	manufacturer "Stewart"
 	sourcefile agi
@@ -2407,7 +2724,7 @@ game (
 
 game (
 	name agi-fanmade-76
-	description "Jeff's Quest (v.5 alpha May 31 Fanmade/DOS)"
+	description "Jeff's Quest (DOS/Fanmade v.5 alpha May 31)"
 	year 1998
 	manufacturer "Stewart"
 	sourcefile agi
@@ -2423,7 +2740,7 @@ game (
 
 game (
 	name agi-fanmade-77
-	description "Jen's Quest (Demo 1 Fanmade/DOS)"
+	description "Jen's Quest {Demo 1}(DOS/Fanmade)"
 	year 1998
 	manufacturer "Joel McCormick"
 	sourcefile agi
@@ -2438,7 +2755,7 @@ game (
 
 game (
 	name agi-fanmade-78
-	description "Jen's Quest (Demo 2 Fanmade/DOS)"
+	description "Jen's Quest {Demo 2}(DOS/Fanmade)"
 	year 2002
 	manufacturer "Joel McCormick"
 	sourcefile agi
@@ -2453,7 +2770,7 @@ game (
 
 game (
 	name agi-fanmade-79
-	description "Jiggy Jiggy Uh! Uh! (Fanmade/DOS)"
+	description "Jiggy Jiggy Uh! Uh! (DOS/Fanmade)"
 	year 2002
 	manufacturer "Kon-Tiki"
 	sourcefile agi
@@ -2468,7 +2785,7 @@ game (
 
 game (
 	name agi-fanmade-8
-	description "AGI Piano (v1.0 Fanmade/DOS)"
+	description "AGI Piano (DOS/Fanmade v1.0)"
 	year 1998
 	manufacturer "Rainer De Temple"
 	sourcefile agi
@@ -2483,7 +2800,7 @@ game (
 
 game (
 	name agi-fanmade-80
-	description "Jimmy In: The Alien Attack (v0.1 Fanmade/DOS)"
+	description "Jimmy In: The Alien Attack (DOS/Fanmade v0.1)"
 	year 2005
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -2498,7 +2815,7 @@ game (
 
 game (
 	name agi-fanmade-81
-	description "Joe McMuffin In 'What's Cooking, Doc' (v1.0 Fanmade/DOS)"
+	description "Joe McMuffin In 'What's Cooking, Doc' (DOS/Fanmade v1.0)"
 	year 2004
 	manufacturer "Nick Olsen"
 	sourcefile agi
@@ -2513,7 +2830,7 @@ game (
 
 game (
 	name agi-fanmade-82
-	description "Journey Of Chef (Fanmade/DOS)"
+	description "Journey Of Chef (DOS/Fanmade)"
 	year 2004
 	manufacturer "Eigen Lenk"
 	sourcefile agi
@@ -2528,7 +2845,7 @@ game (
 
 game (
 	name agi-fanmade-83
-	description "Jukebox (v1.0 Fanmade/DOS)"
+	description "Jukebox (DOS/Fanmade v1.0)"
 	year 2000
 	manufacturer "Unknown"
 	sourcefile agi
@@ -2543,7 +2860,7 @@ game (
 
 game (
 	name agi-fanmade-84
-	description "Justin Quest (v1.0 in development Fanmade/DOS)"
+	description "Justin Quest (DOS/Fanmade v1.0 in development)"
 	year 2000
 	manufacturer "Justin"
 	sourcefile agi
@@ -2558,7 +2875,7 @@ game (
 
 game (
 	name agi-fanmade-85
-	description "Joulumaa (v0.05 Fanmade/DOS/Estonian)"
+	description "Joulumaa (DOS/Fanmade/Estonian v0.05)"
 	year 1999
 	manufacturer "Peep Pullerits"
 	sourcefile agi
@@ -2573,7 +2890,7 @@ game (
 
 game (
 	name agi-fanmade-86
-	description "Kings Quest 2: Breast Intentions (v2.0 Aug 16 Fanmade/DOS)"
+	description "Kings Quest 2 1/4: Breast Intentions (DOS/Fanmade v2.0 Aug 16)"
 	year 2005
 	manufacturer "Intermezzo"
 	sourcefile agi
@@ -2588,7 +2905,7 @@ game (
 
 game (
 	name agi-fanmade-87
-	description "Kings Quest 2: Breast Intentions (v2.0 Mar 26 Fanmade/DOS)"
+	description "Kings Quest 2 1/4: Breast Intentions (DOS/Fanmade v2.0 Mar 26)"
 	year 2005
 	manufacturer "Intermezzo"
 	sourcefile agi
@@ -2603,7 +2920,7 @@ game (
 
 game (
 	name agi-fanmade-88
-	description "Lasse Holm: The Quest for Revenge (v1.0 Fanmade/DOS)"
+	description "Lasse Holm: The Quest for Revenge (DOS/Fanmade v1.0)"
 	year 2002
 	manufacturer "Lemur"
 	sourcefile agi
@@ -2618,7 +2935,7 @@ game (
 
 game (
 	name agi-fanmade-89
-	description "Lawman for Hire (Fanmade/DOS)"
+	description "Lawman for Hire (DOS/Fanmade)"
 	year 2000
 	manufacturer "Karl-Johan Lundberg"
 	sourcefile agi
@@ -2633,7 +2950,7 @@ game (
 
 game (
 	name agi-fanmade-9
-	description "AGI Quest (v1.46-TJ0 Fanmade/DOS)"
+	description "AGI Quest (DOS/Fanmade v1.46-TJ0)"
 	year 2003
 	manufacturer "Juha Terho"
 	sourcefile agi
@@ -2648,7 +2965,7 @@ game (
 
 game (
 	name agi-fanmade-90
-	description "Lefty Goes on Vacation (Not in The Right Place) (Fanmade/DOS)"
+	description "Lefty Goes on Vacation (Not in The Right Place) (DOS/Fanmade)"
 	year 2003
 	manufacturer "Oliver Rull"
 	sourcefile agi
@@ -2663,7 +2980,7 @@ game (
 
 game (
 	name agi-fanmade-91
-	description "Inseparables, Les (v1.0 Fanmade/DOS)"
+	description "Inseparables, Les (DOS/Fanmade v1.0)"
 	year 2002
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2678,7 +2995,7 @@ game (
 
 game (
 	name agi-fanmade-92
-	description "Little Pirate (Demo 2 v0.6 Fanmade/DOS)"
+	description "Little Pirate {Demo 2}(DOS/Fanmade v0.6)"
 	year 2002
 	manufacturer "Kon-Tiki"
 	sourcefile agi
@@ -2694,7 +3011,7 @@ game (
 
 game (
 	name agi-fanmade-93
-	description "Lost Eternity (v1.0 Fanmade/DOS)"
+	description "Lost Eternity (DOS/Fanmade v1.0)"
 	year 2004
 	manufacturer "Chad Goulding"
 	sourcefile agi
@@ -2709,7 +3026,7 @@ game (
 
 game (
 	name agi-fanmade-94
-	description "MD Quest: The Search for Michiel (v0.10 Fanmade/DOS)"
+	description "MD Quest: The Search for Michiel (DOS/Fanmade v0.10)"
 	year 1999
 	manufacturer "Derek Smit"
 	sourcefile agi
@@ -2724,7 +3041,7 @@ game (
 
 game (
 	name agi-fanmade-95
-	description "Maale Adummin Quest (Fanmade/DOS)"
+	description "Maale Adummin Quest (DOS/Fanmade)"
 	year 2004
 	manufacturer "Ron Niddam"
 	sourcefile agi
@@ -2740,7 +3057,7 @@ game (
 
 game (
 	name agi-fanmade-96
-	description "Monkey Man (Fanmade/DOS)"
+	description "Monkey Man (DOS/Fanmade)"
 	year 2000
 	manufacturer "Unknown"
 	sourcefile agi
@@ -2755,7 +3072,7 @@ game (
 
 game (
 	name agi-fanmade-97
-	description "Napalm Quest (v0.5 Fanmade/DOS)"
+	description "Napalm Quest (DOS/Fanmade v0.5)"
 	year 1997
 	manufacturer "Marshall Hahn"
 	sourcefile agi
@@ -2770,7 +3087,7 @@ game (
 
 game (
 	name agi-fanmade-98
-	description "Naturette 1 (v1.2 Fanmade/DOS)"
+	description "Naturette 1 (DOS/Fanmade v1.2)"
 	year 2000
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2785,7 +3102,7 @@ game (
 
 game (
 	name agi-fanmade-99
-	description "Naturette 1 (v1.3 Fanmade/DOS)"
+	description "Naturette 1 (DOS/Fanmade v1.3)"
 	year 2001
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2800,7 +3117,7 @@ game (
 
 game (
 	name agi-fanmade-coco3
-	description "Enclosure (Fanmade/CoCo3)"
+	description "Enclosure (CoCo3/Fanmade)"
 	year 2006
 	manufacturer "Joker, Hwm and DaMole"
 	sourcefile agi
@@ -2818,7 +3135,7 @@ game (
 
 game (
 	name agi-fanmade-coco3-1
-	description "V: The Graphical Adventure (Fanmade/CoCo3)"
+	description "V: The Graphical Adventure (CoCo3/Fanmade)"
 	year 2002
 	manufacturer "Bjoern Kahlenberg"
 	sourcefile agi
@@ -2835,8 +3152,23 @@ game (
 )
 
 game (
+	name agi-fanmade-coco3-2
+	description "Time Quest (CoCo3/Fanmade)"
+	year 2001
+	manufacturer "Chad Goulding"
+	sourcefile agi
+	rom ( name logDir size 300 crc efc5b1cb md5 90314f473d8317be5cd1f0306f139aea )
+	rom ( name object size 210 crc 4c1dcef5 md5 ba2207634d1f0e16f84d590a5561f182 )
+	rom ( name picDir size 258 crc a2e42206 md5 ecb1bc78d46e97ac9a04904a59bef813 )
+	rom ( name sndDir size 0 crc 00000000 )
+	rom ( name viewDir size 648 crc e9bebeca md5 6fa6a46adfb8e64d397c53a7be3408cb )
+	rom ( name vol.0 size 213977 crc 6743de2b md5 50a4e662ca56e775ae44a562cbb6a74e )
+	rom ( name words.tok size 3285 crc 00e6517e md5 af30ba8bdadfe39f65b0d2be32e98179 )
+)
+
+game (
 	name agi-fanmade-fr
-	description "Abrah: L'orphelin de l'espace (v1.2 Fanmade/DOS/French)"
+	description "Abrah: L'orphelin de l'espace (DOS/Fanmade/French v1.2)"
 	year 2002
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2854,7 +3186,7 @@ game (
 
 game (
 	name agi-fanmade-fr-1
-	description "Coco Coq Dans la Base de Grostesteing (v1.0.2 Fanmade/DOS/French)"
+	description "Coco Coq Dans la Base de Grostesteing (DOS/Fanmade/French v1.0.2)"
 	year 2002
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2869,7 +3201,7 @@ game (
 
 game (
 	name agi-fanmade-fr-2
-	description "DG: The AGIMouse Adventure (v1.1 Fanmade/DOS/French)"
+	description "DG: The AGIMouse Adventure (DOS/Fanmade/French v1.1)"
 	year 2001
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2886,7 +3218,7 @@ game (
 
 game (
 	name agi-fanmade-fr-3
-	description "DG: The Adventure Game (v1.1 Fanmade/DOS/French)"
+	description "DG: The Adventure Game (DOS/Fanmade/French v1.1)"
 	year 2002
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2901,7 +3233,7 @@ game (
 
 game (
 	name agi-fanmade-fr-4
-	description "Jolimie, le Village Maudit (v0.5 Fanmade/DOS/French)"
+	description "Jolimie, le Village Maudit (DOS/Fanmade/French v0.5)"
 	year 2000
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2919,7 +3251,7 @@ game (
 
 game (
 	name agi-fanmade-fr-5
-	description "Jolimie, le Village Maudit (v1.1 Fanmade/DOS/French)"
+	description "Jolimie, le Village Maudit (DOS/Fanmade/French v1.1)"
 	year 2003
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2941,7 +3273,7 @@ game (
 
 game (
 	name agi-fanmade-fr-6
-	description "Naturette 1 (v1.2 Fanmade/DOS/French)"
+	description "Naturette 1 (DOS/Fanmade/French v1.2)"
 	year 2001
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2956,7 +3288,7 @@ game (
 
 game (
 	name agi-fanmade-fr-7
-	description "Professor: Le Professeur a Disparu (Fanmade/DOS/French)"
+	description "Professor: Le Professeur a Disparu (DOS/Fanmade/French)"
 	year 2005
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -2971,7 +3303,7 @@ game (
 
 game (
 	name agi-fanmade-nl
-	description "Hank's Quest: Slachtoffer Van Het Gebeuren (v1.81 Fanmade/DOS/Dutch)"
+	description "Hank's Quest: Slachtoffer Van Het Gebeuren (DOS/Fanmade/Dutch v1.81)"
 	year 2001
 	manufacturer "Femo Duo Entertainment"
 	sourcefile agi
@@ -2986,7 +3318,7 @@ game (
 
 game (
 	name agi-fanmade-ru
-	description "Groza (AGDS sample Fanmade/DOS/Russian)"
+	description "Groza (DOS/Fanmade Russian)[AGDS sample]"
 	year 1991
 	manufacturer "Intep Software"
 	sourcefile agi
@@ -3004,7 +3336,7 @@ game (
 
 game (
 	name agidemo
-	description "AGI Demo (Demo 1 1987-05-20/DOS)"
+	description "AGI Demo {Demo 1}(DOS)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3019,7 +3351,7 @@ game (
 
 game (
 	name agidemo-1
-	description "AGI Demo (Demo 2 1987-11-24 [version 1] 5.25'/DOS)"
+	description "AGI Demo {Demo 2}(DOS/v1)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3036,7 +3368,7 @@ game (
 
 game (
 	name agidemo-2
-	description "AGI Demo (Demo 2 1987-11-25 [version 2] 5.25'/DOS)"
+	description "AGI Demo {Demo 2}(DOS/v2)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3052,10 +3384,11 @@ game (
 
 game (
 	name agidemo-2gs
-	description "AGI Demo (Demo 2 1987-11-24 1.0C/Apple IIgs) (Censored)"
+	description "AGI Demo {Demo 2}(Apple IIgs)[Censored]"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name DEMO.SYS size 141884 crc 5f3828e9 md5 53f395aa2fd6f9146438bbbca68d697b )
 	rom ( name LOGDIR size 666 crc a605d28a md5 580ffdc569ff158f56fb92761604f70e )
 	rom ( name OBJECT size 8 crc 05853ab3 md5 60175f87421161f368e39de8833c866e )
@@ -3070,7 +3403,7 @@ game (
 
 game (
 	name agidemo-3
-	description "AGI Demo (Demo 2 1987-11-24 3.5'/DOS)"
+	description "AGI Demo {Demo 2}(DOS)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3088,7 +3421,7 @@ game (
 
 game (
 	name agidemo-4
-	description "AGI Demo (Demo 3 1988-09-13/DOS)"
+	description "AGI Demo {Demo 3}(DOS)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3101,7 +3434,7 @@ game (
 
 game (
 	name agidemo-5
-	description "AGI Demo (Demo Kings Quest III and Space Quest I/DOS)"
+	description "AGI Demo: Kings Quest III & Space Quest I (DOS)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3116,7 +3449,7 @@ game (
 
 game (
 	name bc
-	description "Black Cauldron, The (2.00 1987-06-14/DOS)"
+	description "Black Cauldron, The (DOS/2.00 1987-06-14)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3133,7 +3466,7 @@ game (
 
 game (
 	name bc-1
-	description "Black Cauldron, The (2.10 1988-11-10 5.25'/DOS)"
+	description "Black Cauldron, The (DOS/2.10 1988-11-10 5.25')"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3147,7 +3480,7 @@ game (
 
 game (
 	name bc-2
-	description "Black Cauldron, The (2.10/DOS)"
+	description "Black Cauldron, The (DOS/2.10)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3160,10 +3493,11 @@ game (
 
 game (
 	name bc-2gs
-	description "Black Cauldron, The (1.0O 1989-02-24 (CE)/Apple IIgs)"
+	description "Black Cauldron, The (Apple IIgs/1.0O 1989-02-24)"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name BC.SYS16 size 148192 crc b5e19ab3 md5 610b16ff027928592e3b0862486c6490 )
 	rom ( name BCDIR size 1268 crc 9ca6bfc4 md5 dc09d30b147242692f4f85b9811962db )
 	rom ( name BCVOL.0 size 70324 crc 9beaf713 md5 765a40e60e0a2e186e24e4b281b305bf )
@@ -3176,7 +3510,7 @@ game (
 
 game (
 	name bc-3
-	description "Black Cauldron, The (Booter 1.1J/DOS)"
+	description "Black Cauldron, The (DOS/Booter 1.1J)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3186,7 +3520,7 @@ game (
 
 game (
 	name bc-4
-	description "Black Cauldron, The (Booter 1.1K/DOS)"
+	description "Black Cauldron, The (DOS/Booter 1.1K)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3196,7 +3530,7 @@ game (
 
 game (
 	name bc-5
-	description "Black Cauldron, The (Booter 1.1M/DOS)"
+	description "Black Cauldron, The (DOS/Booter 1.1M)[!]"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3206,10 +3540,11 @@ game (
 
 game (
 	name bc-amiga
-	description "Black Cauldron, The (2.00 1987-06-14/Amiga)"
+	description "Black Cauldron, The (Amiga/2.00 1987-06-14)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name LOGDIR size 357 crc 5d4dd7a0 md5 7b01694af21213b4727bb94476f64eb5 )
 	rom ( name OBJECT size 339 crc fb87b16b md5 364239c8772c4a2aecaa8822b5eeb942 )
 	rom ( name PICDIR size 216 crc e8103bdf md5 d8d9f4b760381c212093d3f6948cd140 )
@@ -3219,6 +3554,23 @@ game (
 	rom ( name VOL.1 size 204646 crc 9c3012ea md5 1b1fdebe2af4f824238a2b57bfc5475e )
 	rom ( name VOL.2 size 145491 crc ac9b48f9 md5 07a2594ebc5c5b043bcd5e4ef80448f5 )
 	rom ( name WORDS.TOK size 171 crc d2a71a7b md5 b9ddaf9442f7d897f0131f915f2c80a5 )
+)
+
+game (
+	name bc-coco3
+	description "Black Cauldron, The (CoCo3)[Updated]"
+	year 1987
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 357 crc 68596f31 md5 c4e1937f74e8100cd0152b904434d8b4 )
+	rom ( name object size 312 crc 14b3c6ab md5 8bda909f31057a87ecb6fbff44237e4c )
+	rom ( name picDir size 216 crc 5589833d md5 5753e6406d86205a3727fab38a722e61 )
+	rom ( name sndDir size 87 crc 9d4b5658 md5 cdbf3b70c80583a0bab895e08f254744 )
+	rom ( name viewDir size 549 crc 7a5fdbd4 md5 a84c592c621336fc829ec36eb53f015c )
+	rom ( name vol.0 size 33462 crc 5827ebcc md5 dd18cf938b519891994d0baabdb4bfb6 )
+	rom ( name vol.1 size 202658 crc d9a6cb1a md5 093bdf45814be81814d6bb5eb34edb22 )
+	rom ( name vol.2 size 144945 crc e18518be md5 5ecfe9a2883df24b900c7f5141669453 )
+	rom ( name words.tok size 171 crc d2a71a7b md5 b9ddaf9442f7d897f0131f915f2c80a5 )
 )
 
 game (
@@ -3240,7 +3592,7 @@ game (
 
 game (
 	name caitlyn
-	description "Caitlyn's Destiny (Fanmade/DOS)"
+	description "Caitlyn's Destiny (DOS/Fanmade)"
 	year 2004
 	manufacturer "Corby LaCroix"
 	sourcefile agi
@@ -3256,7 +3608,7 @@ game (
 
 game (
 	name caitlyn-1
-	description "Caitlyn's Destiny (Demo/Fanmade/DOS)"
+	description "Caitlyn's Destiny {Demo}(DOS/Fanmade)"
 	year 2003
 	manufacturer "Corby LaCroix"
 	sourcefile agi
@@ -3272,7 +3624,7 @@ game (
 
 game (
 	name ddp
-	description "Donald Duck's Playground (1.0A 1986-08-08/Atari ST/DOS)"
+	description "Donald Duck's Playground (Atari ST)[1.0A]"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3287,7 +3639,7 @@ game (
 
 game (
 	name ddp-1
-	description "Donald Duck's Playground (Booter 1.0Q/DOS)"
+	description "Donald Duck's Playground (PC Booter)[1.0Q]"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3296,14 +3648,14 @@ game (
 
 game (
 	name ddp-amiga
-	description "Donald Duck's Playground (1.0C 1987-04-27/Amiga - 1.0C 1986-06-09/DOS)"
+	description "Donald Duck's Playground (Amiga or DOS)[1.0C]"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name LOGDIR size 132 crc 6d0d4e18 md5 550971d196f65190a5c760d2479406ef )
 	rom ( name OBJECT size 82 crc 246031c6 md5 c65962b78b00da476d672b4ca67c379d )
 	rom ( name PICDIR size 90 crc 6856bdaa md5 6001d269b48b39404661808d02785bd8 )
-	rom ( name POINTER size 80 crc 13622472 md5 6df17893dafd8479323a3bee7197d275 )
 	rom ( name SNDDIR size 81 crc ff1465e6 md5 c1c043f6d06bf24139fda615235b67de )
 	rom ( name VIEWDIR size 510 crc ced08c41 md5 867c334834551fffb2f9f7e1870428e2 )
 	rom ( name VOL.0 size 170131 crc c6281403 md5 448f18e70ddba26bdde0f1b10634f235 )
@@ -3312,7 +3664,7 @@ game (
 
 game (
 	name goldrush
-	description "Gold Rush! (2.01 1988-12-22 3.5' DOS)"
+	description "Gold Rush! (DOS/3.5')[!]"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3325,32 +3677,12 @@ game (
 )
 
 game (
-	name goldrush-1
-	description "Gold Rush! (2.01 1988-12-22 5.25' DOS)"
-	year 1988
-	manufacturer "Sierra On-Line"
-	sourcefile agi
-	rom ( name GRDIR size 2399 crc 6dfff5b6 md5 db733d199238d4009a9e95f11ece34e9 )
-	rom ( name GRVOL.0 size 25070 crc e6cbcdae md5 099cf878595fea15a4b2506d40b8ea53 )
-	rom ( name GRVOL.1 size 207528 crc 985699e5 md5 8ddf79efdb570d3f56e6fc693ac916a3 )
-	rom ( name GRVOL.10 size 20612 crc 127e2cbb md5 e2291ecbc0ddc036eb15ce2ac3417116 )
-	rom ( name GRVOL.11 size 10123 crc 395bf1d8 md5 eea575e47b1e8fbd915ed34b68ee17c9 )
-	rom ( name GRVOL.12 size 3976 crc 95d58783 md5 0649df472c193ca624dbe5f1327d357e )
-	rom ( name GRVOL.2 size 125702 crc 1bfe2e52 md5 0dcb93d9e2901a8b41035812305ed135 )
-	rom ( name GRVOL.3 size 279567 crc cbe53112 md5 0cacd4aef3c9e3e9135166c8365ae262 )
-	rom ( name GRVOL.4 size 259527 crc e2dd97d8 md5 9e3e470c693a1bfbf545e5fc1bde7982 )
-	rom ( name GRVOL.5 size 227102 crc be407cf8 md5 6d6e1231594b8b5041aa8af64b13a161 )
-	rom ( name GRVOL.9 size 26174 crc ea07285b md5 7b44a218c8ec630c96d9d452e51f43b3 )
-	rom ( name OBJECT size 1814 crc 6f8e1901 md5 9fa64d3f27c489933c6d9700e94f1791 )
-	rom ( name WORDS.TOK size 6110 crc 6f42a9a1 md5 ce085fc2ef513d084c4396d29ab5086b )
-)
-
-game (
 	name goldrush-2gs
-	description "Gold Rush! (1.0M 1989-02-28 (CE) aka 2.01 1988-12-22 Apple IIgs) "
+	description "Gold Rush! (Apple IIgs)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name GR.SYS16 size 148268 crc 3062e482 md5 1050ee79e637059c7464284de058c5c6 )
 	rom ( name GRDIR size 2471 crc 66e58278 md5 3f7b9ce62631434389f85371b11921d6 )
 	rom ( name GRVOL.0 size 183231 crc 58d280ff md5 6213d1026aa924ef24dc24b1574d2f27 )
@@ -3365,10 +3697,11 @@ game (
 
 game (
 	name goldrush-amiga
-	description "Gold Rush! (1.01 1989-01-13 aka 2.05 1989-03-09 Amiga) "
+	description "Gold Rush! (Amiga)"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name DIRS size 2399 crc 07b8b5e0 md5 a1d4de3e75c2688c1e2ca2634ffc3bd8 )
 	rom ( name OBJECT size 1946 crc e0275492 md5 049c6080959c6a8959ee94205f5d87ab )
 	rom ( name VOL.0 size 78902 crc 18c858e1 md5 c5268f6968cdb7fd197a157981c2656e )
@@ -3378,8 +3711,56 @@ game (
 )
 
 game (
+	name goldrush-coco3
+	description "Gold Rush! (CoCo3)[Updated]"
+	year 1989
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 744 crc ea6856c4 md5 c49bf56bf91e31a4601a604e51ef8bfb )
+	rom ( name object size 1814 crc e9b70ee4 md5 43d46ba23274200b85fff05b4b125afc )
+	rom ( name picDir size 735 crc ad113c60 md5 f7b7afd57fdd714c635a31cb8796e045 )
+	rom ( name sndDir size 153 crc 64dd4a5c md5 21672a6215535cf1156af465a7a0284c )
+	rom ( name viewDir size 768 crc 3c1b5e67 md5 352fec32349e20c504a70f71c99df86f )
+	rom ( name vol.0 size 28578 crc fabea6c0 md5 e5fc31489da69f1375a2bd2d6fa7c7c4 )
+	rom ( name vol.1 size 206126 crc e64a657e md5 1b3ac1466714f3f7626428ba9dd22c08 )
+	rom ( name vol.10 size 25666 crc 26c8d6d3 md5 2ebfaa7b4ad2528143940a8ab33541db )
+	rom ( name vol.11 size 10123 crc 395bf1d8 md5 eea575e47b1e8fbd915ed34b68ee17c9 )
+	rom ( name vol.12 size 3976 crc 95d58783 md5 0649df472c193ca624dbe5f1327d357e )
+	rom ( name vol.2 size 125392 crc b6461463 md5 3593d625d13ee7b265f6a04e9201ead0 )
+	rom ( name vol.3 size 274068 crc fad4c7e9 md5 1d2c922f26cc054785e890763587214b )
+	rom ( name vol.4 size 268761 crc 53428ae8 md5 c43dd50639be1e302ba6ce3511204b3f )
+	rom ( name vol.5 size 236609 crc 8925ddcf md5 ed86fe98946ab313ce87b41e8d24e372 )
+	rom ( name vol.9 size 28809 crc cb5d8e58 md5 455fc281d2290602a6b7bbaf3ee84b77 )
+	rom ( name words.tok size 6110 crc 6f42a9a1 md5 ce085fc2ef513d084c4396d29ab5086b )
+)
+
+game (
+	name goldrush-coco3-1
+	description "Gold Rush! (CoCo3)"
+	year 1989
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 744 crc f724f6af md5 0a41b65efc0cd6c4271e957e6ffbbd8e )
+	rom ( name object size 1814 crc d650834b md5 3fe808a38a4d380748b44dfb9b975ea7 )
+	rom ( name picDir size 738 crc f1109ff1 md5 409904860ce95a053f0efb99896945fd )
+	rom ( name sndDir size 153 crc f031eb23 md5 9718e3a750cc6882029d61c6f3606489 )
+	rom ( name viewDir size 768 crc 54b36917 md5 77ba1609b8f691862a3f8ba4c4029351 )
+	rom ( name vol.0 size 49514 crc ae5097ab md5 5783eb86b7d1013989bd67012836db47 )
+	rom ( name vol.1 size 290933 crc 47db3f7b md5 3c5dd9e2a67252546a7fb3bdc9374197 )
+	rom ( name vol.10 size 45038 crc 27ecf5ef md5 df9e373bc88e9f1381702fdf747ba4e4 )
+	rom ( name vol.11 size 16579 crc d84a23f0 md5 93f8813952928022ef53d2b8a0269ba7 )
+	rom ( name vol.12 size 3714 crc 8cc2c8f6 md5 a13662082b1c9c369a2b60b48b11b5fa )
+	rom ( name vol.2 size 167285 crc e01aa677 md5 70fb2c405801d0cf9f8bbc6f1b42ed53 )
+	rom ( name vol.3 size 343216 crc 39eb474f md5 1d8ed7139b63952aa51b0b72efc80fda )
+	rom ( name vol.4 size 318051 crc f2d99708 md5 044615f3f3b8f8ea6ce0ec33110545d5 )
+	rom ( name vol.5 size 275340 crc 452648d2 md5 a56b9bf7640270b4cd834578738e992d )
+	rom ( name vol.9 size 42412 crc aa54fdfd md5 ed6bcb47e891a7fa847c72f654fe00da )
+	rom ( name words.tok size 6110 crc 6f42a9a1 md5 ce085fc2ef513d084c4396d29ab5086b )
+)
+
+game (
 	name goldrush-mac
-	description "Gold Rush! (2.01 1988-12-22/Macintosh)"
+	description "Gold Rush! (DOS/5.25' or Macintosh)[!]"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3400,7 +3781,7 @@ game (
 
 game (
 	name goldrush-st
-	description "Gold Rush! (1.01 1989-01-13 aka 2.01 1988-12-22 Atari ST)"
+	description "Gold Rush! (Atari ST)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3421,7 +3802,7 @@ game (
 
 game (
 	name kq1
-	description "King's Quest I: Quest for the Crown (2.0F 1987-05-05 5.25'/3.5'/DOS)"
+	description "King's Quest I: Quest for the Crown (DOS)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3438,10 +3819,11 @@ game (
 
 game (
 	name kq1-2gs
-	description "King's Quest I: Quest for the Crown (1.0S 1988-02-23/Apple IIgs)"
+	description "King's Quest I: Quest for the Crown (Apple IIgs)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name KQ.SYS16 size 141894 crc 052faf4e md5 dbfefe3f73099f6d7cb3c496ce3b9949 )
 	rom ( name LOGDIR size 315 crc a4abe0cd md5 f4277aa34b43d37382bc424c81627617 )
 	rom ( name OBJECT size 331 crc 2f7911a0 md5 6eca02fa540337308529ff13e9e764aa )
@@ -3457,10 +3839,11 @@ game (
 
 game (
 	name kq1-amiga
-	description "King's Quest I: Quest for the Crown (1.0U 1986/Amiga)"
+	description "King's Quest I: Quest for the Crown (Amiga)"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name LOGDIR size 315 crc 986832ae md5 246c695324f1c514aee2b904fa352fad )
 	rom ( name OBJECT size 368 crc 4974def8 md5 ccf73ee422e76e8d0ceb01ab07e05148 )
 	rom ( name PICDIR size 255 crc 0b7cf352 md5 25b147e51febbfdf8e5dc4727198551f )
@@ -3474,7 +3857,7 @@ game (
 
 game (
 	name kq1-coco3
-	description "King's Quest I: Quest for the Crown (updated/CoCo3)"
+	description "King's Quest I: Quest for the Crown (CoCo3)[Updated]"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3491,7 +3874,7 @@ game (
 
 game (
 	name kq1-mac
-	description "King's Quest I: Quest for the Crown (2.0C 1987-03-26/Macintosh)"
+	description "King's Quest I: Quest for the Crown (Macintosh)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3508,7 +3891,7 @@ game (
 
 game (
 	name kq1-st
-	description "King's Quest I: Quest for the Crown (1.0V 1986/Atari ST)"
+	description "King's Quest I: Quest for the Crown (Atari ST)"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3525,7 +3908,7 @@ game (
 
 game (
 	name kq2
-	description "King's Quest II: Romancing the Throne (2.1 1987-04-10/DOS)"
+	description "King's Quest II: Romancing the Throne (DOS/2.1)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3542,7 +3925,7 @@ game (
 
 game (
 	name kq2-1
-	description "King's Quest II: Romancing the Throne (2.2 1987-05-07 5.25'/3.5'/DOS)"
+	description "King's Quest II: Romancing the Throne (DOS/2.2)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3559,10 +3942,11 @@ game (
 
 game (
 	name kq2-2gs
-	description "King's Quest II: Romancing the Throne (2.0A 1988-06-16 (CE)/Apple IIgs)"
+	description "King's Quest II: Romancing the Throne (Apple IIgs)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name KQ2.SYS16 size 143775 crc f5248e88 md5 b227bd9328fb6dbca404abcd05de56fe )
 	rom ( name LOGDIR size 543 crc 02858327 md5 5203c8b95250a2ecfee93ddb99414753 )
 	rom ( name OBJECT size 601 crc 3a3c3723 md5 ef32575e784ad173671eb780595338b5 )
@@ -3578,10 +3962,11 @@ game (
 
 game (
 	name kq2-amiga
-	description "King's Quest II: Romancing the Throne (2.0J 1987-01-29/Amiga)"
+	description "King's Quest II: Romancing the Throne (Amiga)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name LOGDIR size 543 crc d26e944b md5 b866f0fab2fad91433a637a828cfa410 )
 	rom ( name OBJECT size 687 crc 24df1354 md5 629f6867e412be15404b97ffacac0dea )
 	rom ( name PICDIR size 321 crc c8fdc157 md5 4a8420e8d6fb370a9504cca51304e53a )
@@ -3595,7 +3980,7 @@ game (
 
 game (
 	name kq2-coco3
-	description "King's Quest II: Romancing the Throne (updated/CoCo3)"
+	description "King's Quest II: Romancing the Throne (CoCo3)[Updated]"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3611,8 +3996,25 @@ game (
 )
 
 game (
+	name kq2-coco3-1
+	description "King's Quest II: Romancing the Throne (CoCo3)[fixed]"
+	year 1987
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 768 crc 0b9c9012 md5 fb33ac2768a94a89117a270771db465c )
+	rom ( name object size 601 crc 3a3c3723 md5 ef32575e784ad173671eb780595338b5 )
+	rom ( name picDir size 354 crc a99b4b89 md5 7e8b7100a0110a6bfd1c37e59fb37e76 )
+	rom ( name sndDir size 135 crc 4c31249c md5 37101362c2a66bfb944efe3e5ea6a0b9 )
+	rom ( name viewDir size 705 crc 9dcaadbd md5 e150500935139540a988b73accb75c60 )
+	rom ( name vol.0 size 47769 crc fe4cc4e0 md5 0fdc95b87e079ae6799d69a9d99fdd4a )
+	rom ( name vol.1 size 190509 crc 6a7cf4b8 md5 69ab4e051e959919d56348976084d647 )
+	rom ( name vol.2 size 247952 crc 39a93c58 md5 031d33161cfbf117132a68b77fa1ddb8 )
+	rom ( name words.tok size 3516 crc 6cf8a510 md5 e588b7b3d29f3627023a565e0c806bc5 )
+)
+
+game (
 	name kq2-mac
-	description "King's Quest II: Romancing the Throne (2.0R 1988-03-23/Macintosh)"
+	description "King's Quest II: Romancing the Throne (Macintosh)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3646,7 +4048,7 @@ game (
 
 game (
 	name kq3
-	description "King's Quest III: To Heir is Human (1.01 1986-11-08/DOS)"
+	description "King's Quest III: To Heir is Human (DOS/1.01)"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3664,7 +4066,7 @@ game (
 
 game (
 	name kq3-1
-	description "King's Quest III: To Heir is Human (2.00 1987-05-25 5.25'/DOS)"
+	description "King's Quest III: To Heir is Human (DOS/2.00)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3682,7 +4084,7 @@ game (
 
 game (
 	name kq3-2
-	description "King's Quest III: To Heir is Human (2.14 1988-03-15 3.5'/DOS)"
+	description "King's Quest III: To Heir is Human (DOS/2.14)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3700,10 +4102,11 @@ game (
 
 game (
 	name kq3-2gs
-	description "King's Quest III: To Heir is Human (2.0A 1988-08-28 (CE)/Apple IIgs)"
+	description "King's Quest III: To Heir is Human (Apple IIgs/2.0A)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name KQ3.SYS16 size 144312 crc cdbc06c8 md5 97d9bf6720c97f639d869792d00b3e63 )
 	rom ( name LOGDIR size 402 crc d0b0a68b md5 ac30b7ca5a089b5e642fbcdcbe872c12 )
 	rom ( name OBJECT size 778 crc ba748770 md5 8fc901501e7c92f702bba825e046bd85 )
@@ -3719,10 +4122,11 @@ game (
 
 game (
 	name kq3-amiga
-	description "King's Quest III: To Heir is Human (1.01 1986-11-08/Amiga)"
+	description "King's Quest III: To Heir is Human (Amiga/1.01)"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name LOGDIR size 390 crc 3e5f084b md5 8ab343306df0e2d98f136be4e8cfd0ef )
 	rom ( name OBJECT size 852 crc 89e2a978 md5 64e83af31dab6d1b0dbae6d432742c2b )
 	rom ( name PICDIR size 531 crc 22c536ad md5 81f9b6e19d06f5819d03a95588b33374 )
@@ -3737,10 +4141,11 @@ game (
 
 game (
 	name kq3-amiga-1
-	description "King's Quest III: To Heir is Human (2.15 1989-11-15/Amiga)"
+	description "King's Quest III: To Heir is Human (Amiga/2.15)"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name DIRS size 1805 crc 49051684 md5 8e35bded2bc5cf20f5eec2b15523b155 )
 	rom ( name OBJECT size 896 crc 26763fcc md5 b2347defbe9a458a117f830d6b609454 )
 	rom ( name VOL.0 size 49984 crc 48a3f1b3 md5 5fe2c6032ef90220d20e0d1a2e0877dd )
@@ -3778,7 +4183,7 @@ game (
 
 game (
 	name kq3-mac
-	description "King's Quest III: To Heir is Human (2.14 1988-03-15/Macintosh)"
+	description "King's Quest III: To Heir is Human (Macintosh/2.14)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3796,7 +4201,7 @@ game (
 
 game (
 	name kq3-mac-1
-	description "King's Quest III: To Heir is Human (2.14 1988-03-15 5.25'/Macintosh)"
+	description "King's Quest III: To Heir is Human (Macintosh/2.14 5.25')"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3833,7 +4238,7 @@ game (
 
 game (
 	name kq3-st
-	description "King's Quest III: To Heir is Human (1.02 1986-11-18/Atari ST)"
+	description "King's Quest III: To Heir is Human (Atari ST/1.02)"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3851,7 +4256,7 @@ game (
 
 game (
 	name kq4
-	description "King's Quest IV: The Perils of Rosella (2.0 1988-07-27 3.5'/DOS)"
+	description "King's Quest IV: The Perils of Rosella (DOS/2.0)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3866,7 +4271,7 @@ game (
 
 game (
 	name kq4-1
-	description "King's Quest IV: The Perils of Rosella (2.3 1988-09-27/DOS)"
+	description "King's Quest IV: The Perils of Rosella (DOS/2.3)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3887,10 +4292,11 @@ game (
 
 game (
 	name kq4-2gs
-	description "King's Quest IV: The Perils of Rosella (1.0K 1988-11-22/Apple IIgs)"
+	description "King's Quest IV: The Perils of Rosella (Apple IIgs/1.0K)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name KQ4.SYS16 size 147652 crc ca5693a6 md5 409a222a483baaa5a6cdf3e253c83d05 )
 	rom ( name KQ4DIR size 2786 crc 9b8c8bc5 md5 8536859331159f15012e35dc82cb154e )
 	rom ( name KQ4VOL.0 size 152669 crc c6605cd0 md5 bcff3bbea07b06196fd7e2c9743757c3 )
@@ -3903,8 +4309,32 @@ game (
 )
 
 game (
+	name kq4-coco3
+	description "King's Quest IV: The Perils of Rosella (CoCo3)[Updated]"
+	year 1988
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 741 crc b1800073 md5 1959ca10739edb34069bb504dbd74805 )
+	rom ( name object size 713 crc 9a24c702 md5 99586cbcea06eec3c8c8944ac5c4c46c )
+	rom ( name picDir size 630 crc 75633c4d md5 959a9087b4dcfad3d1798468f9af6723 )
+	rom ( name sndDir size 639 crc e4aa51f3 md5 3392064a7dd20815f0cb371655688a5d )
+	rom ( name viewDir size 768 crc 0dae4d0e md5 41c308b7419bbaa35e6034452a70ebb5 )
+	rom ( name vol.0 size 50985 crc 8871221f md5 32a38de5f5310bc2bebd56762afc4a1d )
+	rom ( name vol.1 size 100322 crc 4ba693cf md5 2300b38c41ec2800c20b71461ec16136 )
+	rom ( name vol.10 size 15247 crc e20f3553 md5 1c1650991822c56b9a223d013e138f50 )
+	rom ( name vol.11 size 14686 crc 0cd19253 md5 9324e24368a1adb58424aa08ac02afb5 )
+	rom ( name vol.2 size 281756 crc 0784cfb5 md5 2de88202315c5be03d1ea6c4cc145d38 )
+	rom ( name vol.3 size 276801 crc 7dfa9c64 md5 613194f84f3ec6d3ac5c50e8479615b8 )
+	rom ( name vol.4 size 287184 crc 521e508c md5 9f16b559b3e27f9fe5d8db9eb6f63671 )
+	rom ( name vol.5 size 155267 crc d9341f4d md5 b5acc859f7b54f8ac6d075c6228d4125 )
+	rom ( name vol.6 size 174519 crc 83128e0e md5 cb650f7d8619a648683f48eea5fbccf8 )
+	rom ( name vol.9 size 25729 crc c01412f5 md5 7c65d6d8ca4d2daec65e87b62e40cfd6 )
+	rom ( name words.tok size 6107 crc b4bfe4d4 md5 371f0340b41dfd6aa89f8cb0b3bad92d )
+)
+
+game (
 	name kq4-demo
-	description "King's Quest IV: The Perils of Rosella (Demo 1988-12-20/DOS)"
+	description "King's Quest IV: The Perils of Rosella {Demo}(DOS)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3917,7 +4347,7 @@ game (
 
 game (
 	name lsl1
-	description "Leisure Suit Larry in the Land of the Lounge Lizzards (1.00 1987-06-01 5.25'/3.5'/DOS)"
+	description "Leisure Suit Larry in the Land of the Lounge Lizzards (DOS/1.00)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -3934,10 +4364,11 @@ game (
 
 game (
 	name lsl1-2gs
-	description "Leisure Suit Larry in the Land of the Lounge Lizzards (1.0E 1987/Apple IIgs)"
+	description "Leisure Suit Larry in the Land of the Lounge Lizzards (Apple IIgs)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name LL.SYS16 size 141003 crc b4fb6b98 md5 4d75fdace965c576d089783a770853b4 )
 	rom ( name LOGDIR size 177 crc 97f7a20d md5 5f9e1dd68d626c6d303131c119582ad4 )
 	rom ( name OBJECT size 311 crc 1cb5f786 md5 aa7bce1ca83f181c92c1feea2c119eec )
@@ -3953,10 +4384,11 @@ game (
 
 game (
 	name lsl1-amiga
-	description "Leisure Suit Larry in the Land of the Lounge Lizzards (1.05 1987-06-26/Amiga)"
+	description "Leisure Suit Larry in the Land of the Lounge Lizzards (Amiga)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name LOGDIR size 177 crc e394b64d md5 3f5d26d8834ca49c147fb60936869d56 )
 	rom ( name OBJECT size 333 crc a34006f5 md5 f1ed523760b3f7854750b68083054bcd )
 	rom ( name PICDIR size 138 crc fddfaf76 md5 a22e109d14d5cff65be77dd1b12af6f3 )
@@ -3989,7 +4421,7 @@ game (
 
 game (
 	name lsl1-mac
-	description "Leisure Suit Larry in the Land of the Lounge Lizzards (1.05 1987-06-26/Macintosh)"
+	description "Leisure Suit Larry in the Land of the Lounge Lizzards (Macintosh)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4006,7 +4438,7 @@ game (
 
 game (
 	name lsl1-pl
-	description "Leisure Suit Larry in the Land of the Lounge Lizards (2.00 2001-12-11 DOS/Polish)"
+	description "Leisure Suit Larry in the Land of the Lounge Lizards (DOS/Polish)"
 	year 2001
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4021,7 +4453,7 @@ game (
 
 game (
 	name lsl1-st
-	description "Leisure Suit Larry in the Land of the Lounge Lizzards (1.04 1987-06-18/Atari ST)"
+	description "Leisure Suit Larry in the Land of the Lounge Lizzards (Atari ST)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4038,7 +4470,7 @@ game (
 
 game (
 	name mh1
-	description "Manhunter 1: New York (1.22 1988-08-31 3.5'/DOS)"
+	description "Manhunter 1: New York (DOS/3.5')"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4052,7 +4484,7 @@ game (
 
 game (
 	name mh1-1
-	description "Manhunter 1: New York (1.22 1988-08-31 5.25'/DOS)"
+	description "Manhunter 1: New York (DOS/5.25')"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4073,10 +4505,11 @@ game (
 
 game (
 	name mh1-2gs
-	description "Manhunter 1: New York (2.0E 1988-10-05 (CE)/Apple IIgs)"
+	description "Manhunter 1: New York (Apple IIgs)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name MH.SYS16 size 147678 crc 047883b3 md5 e7192a22eadceede702193866105f60e )
 	rom ( name MHDIR size 2153 crc 25028dbf md5 2f1509f76f24e6e7d213f2dadebbf156 )
 	rom ( name MHVOL.0 size 347296 crc 5c8fe256 md5 8d76b624bc6bf6b7312e7a9a11a03c6b )
@@ -4091,10 +4524,11 @@ game (
 
 game (
 	name mh1-amiga
-	description "Manhunter 1: New York (1.06 1989-03-18/Amiga)"
+	description "Manhunter 1: New York (Amiga)"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name DIRS size 2114 crc 1e2a71e9 md5 92c6183042d1c2bb76236236a7d7a847 )
 	rom ( name OBJECT size 416 crc 2eaedfad md5 7a989183ccacc1c752b782f32b06ac35 )
 	rom ( name VOL.0 size 156740 crc 0f69bcdf md5 370de7316a1b6a623b5dbdbbc008459d )
@@ -4104,8 +4538,32 @@ game (
 )
 
 game (
+	name mh1-coco3
+	description "Manhunter 1: New York (CoCo3)[Updated]"
+	year 1989
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 495 crc 76b54ada md5 d47da950c62289f8d4ccf36af73365f2 )
+	rom ( name object size 387 crc c1520a64 md5 a729c0a711e3893e3586ebd76fcb04c7 )
+	rom ( name picDir size 768 crc e2d08a2c md5 9253add1a6f71f74cc0057409a3448fd )
+	rom ( name sndDir size 417 crc 561792d6 md5 6c3be573a2be23af5590b1cece9eef56 )
+	rom ( name viewDir size 435 crc de8ebcfc md5 f9d51ba5208be69dea45722788f1ee60 )
+	rom ( name vol.0 size 112798 crc 26547c79 md5 4bd997df649e88f3ec5327bd40125a00 )
+	rom ( name vol.1 size 144308 crc 3f4cf95b md5 297368db84ac0186cc4ce1f5fe9eff71 )
+	rom ( name vol.10 size 23641 crc fd5152e7 md5 72bbf2e2212ab46e8e794cf1df803d8e )
+	rom ( name vol.11 size 36026 crc 956e7370 md5 7c37978180b24fa66839b68e9e87591a )
+	rom ( name vol.12 size 7703 crc bbbb87d6 md5 38f993de966694e53cf21c8e1959ce80 )
+	rom ( name vol.2 size 190427 crc b5071473 md5 304afb562ae98c843b01e8d57630e48d )
+	rom ( name vol.3 size 209172 crc 9c57c82f md5 69c36fbccaf860ef43ad5811c58f5eee )
+	rom ( name vol.4 size 184999 crc 804fc66a md5 2624934372502c4bc3d0e9c8fa8828b1 )
+	rom ( name vol.5 size 124214 crc 0ec4e8a4 md5 3748fb114f6b8d2f749f4319581e7bc6 )
+	rom ( name vol.9 size 10930 crc 8018f851 md5 9f733f7412606f84bf12972b1d49f2fe )
+	rom ( name words.tok size 275 crc 36d2cf43 md5 239700be03a55519a1b7ccd4a6717e98 )
+)
+
+game (
 	name mh1-st
-	description "Manhunter 1: New York (1.03 1988-10-20/Atari ST)"
+	description "Manhunter 1: New York (Atari ST)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4126,7 +4584,7 @@ game (
 
 game (
 	name mh2
-	description "Manhunter 2: San Francisco (3.02 1989-07-26 3.5'/DOS)"
+	description "Manhunter 2: San Francisco (DOS/3.5')"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4144,7 +4602,7 @@ game (
 
 game (
 	name mh2-1
-	description "Manhunter 2: San Francisco (3.03 1989-08-17 5.25'/DOS)"
+	description "Manhunter 2: San Francisco (DOS/5.25')"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4171,10 +4629,11 @@ game (
 
 game (
 	name mh2-amiga
-	description "Manhunter 2: San Francisco (3.06 1989-08-17/Amiga)"
+	description "Manhunter 2: San Francisco (Amiga)"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name DIRS size 2573 crc 9cab5d67 md5 b412e8a126368b76696696f7632d4c16 )
 	rom ( name OBJECT size 432 crc c6db07f1 md5 45c21cde138d6bdf1c30b2b6d68c997d )
 	rom ( name VOL.0 size 118843 crc a628e18c md5 1156926cf3e63c19d735b962d4f4b48b )
@@ -4188,8 +4647,29 @@ game (
 )
 
 game (
+	name mh2-coco3
+	description "Manhunter 2: San Francisco (CoCo3)[Updated]"
+	year 1989
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 591 crc e250b108 md5 c64875766700196e72a92359f70f45a9 )
+	rom ( name object size 399 crc 894f2085 md5 80ddd44ec62062ef517eef278e09cacc )
+	rom ( name picDir size 765 crc d085395b md5 b68f23d9f273c000bb9d902091a1422e )
+	rom ( name sndDir size 651 crc 464b2001 md5 0bc7055a7e822b68a15d699381fe6156 )
+	rom ( name viewDir size 573 crc 2d5d0a69 md5 1d549ae5ac7c2b9b732c2d6292d665bd )
+	rom ( name vol.0 size 134861 crc 927fa615 md5 4341bed59a9558c06a3db735bbaab7ed )
+	rom ( name vol.1 size 292392 crc 21e87622 md5 7943ab4cb141d4906c8a1faed491d6e4 )
+	rom ( name vol.10 size 44854 crc 5874e93f md5 b65c1d2b92cf9e869ebe32d452665ce4 )
+	rom ( name vol.11 size 18616 crc 59ccef6f md5 0d6ffd30d34c5df0684419e5afe2c842 )
+	rom ( name vol.2 size 456068 crc f8c77aaf md5 28fec24399a47d984cd04bd22a248e90 )
+	rom ( name vol.3 size 444637 crc 983007d3 md5 95f6c278a8938e2141b3e10ec8925da3 )
+	rom ( name vol.9 size 47894 crc 3fa26476 md5 2147561af174e59d46a193331d11c157 )
+	rom ( name words.tok size 278 crc ec7b44a3 md5 9a802fac3e5d572ed4eee80f320bfddc )
+)
+
+game (
 	name mh2-st
-	description "Manhunter 2: San Francisco (1.0 1989-07-29/Atari ST)"
+	description "Manhunter 2: San Francisco (Atari ST)"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4428,7 +4908,7 @@ game (
 
 game (
 	name mixedup
-	description "Mixed-Up Mother Goose (1987-11-10/DOS)"
+	description "Mixed-Up Mother Goose (DOS)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4445,10 +4925,11 @@ game (
 
 game (
 	name mixedup-2gs
-	description "Mixed-Up Mother Goose (1987/Apple IIgs)"
+	description "Mixed-Up Mother Goose (Apple IIgs)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name LOGDIR size 609 crc c3372953 md5 3541954a7303467c6df87665312ffb6a )
 	rom ( name MG.SYS16 size 142552 crc 401f9f4f md5 dbd06e1aab18d9b2d9dccba4d586b5cc )
 	rom ( name NEW.CHARACTER size 7832 crc 135a58fe md5 3f9e93c59b8dcf4c71b978141e3bcab8 )
@@ -4482,7 +4963,7 @@ game (
 
 game (
 	name pq1
-	description "Police Quest I: In Pursuit of the Death Angel (2.0A 1987-10-23/DOS)"
+	description "Police Quest I: In Pursuit of the Death Angel (DOS/2.0A)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4500,7 +4981,7 @@ game (
 
 game (
 	name pq1-1
-	description "Police Quest I: In Pursuit of the Death Angel (2.0A 1987-10-23/DOS)[a]"
+	description "Police Quest I: In Pursuit of the Death Angel (DOS/2.0A)[a]"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4518,7 +4999,7 @@ game (
 
 game (
 	name pq1-2
-	description "Police Quest I: In Pursuit of the Death Angel (2.0E 1987-11-17/DOS)"
+	description "Police Quest I: In Pursuit of the Death Angel (DOS/2.0E)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4536,10 +5017,11 @@ game (
 
 game (
 	name pq1-2gs
-	description "Police Quest I: In Pursuit of the Death Angel (2.0A 1988-03-18/Apple IIgs)"
+	description "Police Quest I: In Pursuit of the Death Angel (Apple IIgs/2.0A)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name LOGDIR size 363 crc d0fb7595 md5 8994e39d0901de3d07cecfb954075bb5 )
 	rom ( name OBJECT size 369 crc d5d887f1 md5 d8b3773ff17ed4ed636dedb288f0dda9 )
 	rom ( name PICDIR size 351 crc 37252703 md5 9c719e23de9ccca0895f6b752ef0a10e )
@@ -4555,10 +5037,11 @@ game (
 
 game (
 	name pq1-2gs-1
-	description "Police Quest I: In Pursuit of the Death Angel (2.0B 1988-04-21/Apple IIgs)"
+	description "Police Quest I: In Pursuit of the Death Angel (Apple IIgs/2.0B)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name LOGDIR size 363 crc 69592c03 md5 e7c175918372336461e3811d594f482f )
 	rom ( name OBJECT size 369 crc d5d887f1 md5 d8b3773ff17ed4ed636dedb288f0dda9 )
 	rom ( name PICDIR size 351 crc b345ef62 md5 7c4ae2aa5c29907b813c8e6d1f3886df )
@@ -4574,7 +5057,7 @@ game (
 
 game (
 	name pq1-3
-	description "Police Quest I: In Pursuit of the Death Angel (2.0G 1987-12-03/DOS)[!]"
+	description "Police Quest I: In Pursuit of the Death Angel (DOS/2.0G)[!]"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4591,7 +5074,7 @@ game (
 
 game (
 	name pq1-4
-	description "Police Quest I: In Pursuit of the Death Angel (2.0G 1987-12-03 5.25'/Atari ST)"
+	description "Police Quest I: In Pursuit of the Death Angel (Atari ST)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4609,10 +5092,11 @@ game (
 
 game (
 	name pq1-amiga
-	description "Police Quest I: In Pursuit of the Death Angel (2.0B 1989-02-22/Amiga)"
+	description "Police Quest I: In Pursuit of the Death Angel (Amiga)"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name DIRS size 1613 crc ac50e433 md5 cfa93e5f2aa7378bddd10ad6746a2ffb )
 	rom ( name OBJECT size 395 crc f30ca8b2 md5 94de6b402f9ba4d237b77a830b01c82a )
 	rom ( name VOL.0 size 40310 crc 67448392 md5 1222778713f48f87621ef38986768897 )
@@ -4622,8 +5106,44 @@ game (
 )
 
 game (
+	name pq1-coco3
+	description "Police Quest I: In Pursuit of the Death Angel (CoCo3)[Updated]"
+	year 1989
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 768 crc 1132ff29 md5 63b9a9c6eec154751dd446cd3693e0e2 )
+	rom ( name object size 369 crc 49af9ca0 md5 f16e94ef915fda64a2ceb76141fe82eb )
+	rom ( name picDir size 351 crc 3bc151a9 md5 3bd856ad937861cc2caaf51477d32ac4 )
+	rom ( name sndDir size 126 crc 2e475a4d md5 36f09ee384f3bf4b70592c79839155db )
+	rom ( name viewDir size 768 crc bc2b9af9 md5 cde82d2180d792be90cfa74719c8b7dc )
+	rom ( name vol.0 size 64803 crc 09df1535 md5 5f2b1173f8f545691025aa19db5dca6b )
+	rom ( name vol.1 size 193256 crc 16904e35 md5 f58e8e6e5fe9ece12d0344ad27657f31 )
+	rom ( name vol.2 size 188741 crc 3f1eaa42 md5 d399de15994e46dd3e7256d8b80549e8 )
+	rom ( name vol.3 size 246823 crc cae3c114 md5 bf9a73768348db4410a444f67b4e58e6 )
+	rom ( name words.tok size 6743 crc fc923a8d md5 3d8ce3541ced3956371c0ddfa7c9b83e )
+)
+
+game (
+	name pq1-coco3-1
+	description "Police Quest I: In Pursuit of the Death Angel (CoCo3)"
+	year 1989
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 375 crc 38cd6e4b md5 28a077041f75aab78f66804800940085 )
+	rom ( name object size 369 crc 49af9ca0 md5 f16e94ef915fda64a2ceb76141fe82eb )
+	rom ( name picDir size 351 crc 420f8fe5 md5 c2b811976dc12489bab6b8e6478a34e7 )
+	rom ( name sndDir size 126 crc 3651ac45 md5 d563cedb725afc459e91c75f25cee4fb )
+	rom ( name viewDir size 768 crc 64f1908c md5 6eea8a58447acda1b9bc4780f6588f67 )
+	rom ( name vol.0 size 65068 crc c0fa3656 md5 18b41999e54a33f8356cbaf9bf116bee )
+	rom ( name vol.1 size 192904 crc 75a36844 md5 6c8433f17aee6b3bdb80214708562530 )
+	rom ( name vol.2 size 185395 crc fc953384 md5 00bbadd0cf47ee6f992a8e18ba8313e3 )
+	rom ( name vol.3 size 246565 crc a87afee3 md5 5e75d3623b64d5126f7ac2e033bb8fed )
+	rom ( name words.tok size 6743 crc fc923a8d md5 3d8ce3541ced3956371c0ddfa7c9b83e )
+)
+
+game (
 	name pq1-mac
-	description "Police Quest I: In Pursuit of the Death Angel (2.0G 1987-12-03/Macintosh)"
+	description "Police Quest I: In Pursuit of the Death Angel (Macintosh)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4660,7 +5180,7 @@ game (
 
 game (
 	name serguei1
-	description "Serguei's Destiny 1 (v1.0 Fanmade/DOS)"
+	description "Serguei's Destiny 1 (DOS/Fanmade v1.0)"
 	year 2001
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -4682,7 +5202,7 @@ game (
 
 game (
 	name serguei1-1
-	description "Serguei's Destiny 1 (v1.1 2003 Apr 10 Fanmade/DOS)"
+	description "Serguei's Destiny 1 (DOS/Fanmade v1.1 2003)"
 	year 2003
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -4704,7 +5224,7 @@ game (
 
 game (
 	name serguei1-2
-	description "Serguei's Destiny 1 (v1.1 2002 Sep 05 Fanmade/DOS)"
+	description "Serguei's Destiny 1 (DOS/Fanmade v1.1 2002)"
 	year 2002
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -4726,7 +5246,7 @@ game (
 
 game (
 	name serguei2
-	description "Serguei's Destiny 2 (v1.3.1 Demo March 22nd 2008 Fanmade/DOS)"
+	description "Serguei's Destiny 2 {Demo}(DOS/Fanmade v1.3.1)"
 	year 2008
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -4746,7 +5266,7 @@ game (
 
 game (
 	name serguei2-1
-	description "Serguei's Destiny 2 (v0.1.1 Demo Fanmade/DOS)"
+	description "Serguei's Destiny 2 {Demo}(DOS/Fanmade v0.1.1)"
 	year 2003
 	manufacturer "Robin Gravel"
 	sourcefile agi
@@ -4761,7 +5281,7 @@ game (
 
 game (
 	name sq0
-	description "Space Quest 0: Replicated (v1.03 Fanmade/DOS)"
+	description "Space Quest 0: Replicated (DOS/Fanmade v1.03)"
 	year 2003
 	manufacturer "Jefferson Stewart"
 	sourcefile agi
@@ -4776,7 +5296,7 @@ game (
 
 game (
 	name sq0-1
-	description "Space Quest 0: Replicated (v1.04 Fanmade/DOS)"
+	description "Space Quest 0: Replicated (DOS/Fanmade v1.04)"
 	year 2003
 	manufacturer "Jefferson Stewart"
 	sourcefile agi
@@ -4790,8 +5310,25 @@ game (
 )
 
 game (
+	name sq0-coco3
+	description "Space Quest 0: Replicated (CoCo3/Fanmade)"
+	year 2003
+	manufacturer "Jefferson Stewart"
+	sourcefile agi
+	rom ( name logDir size 762 crc 75a3d400 md5 e1a8e4efcce86e1efcaa14633b9eb986 )
+	rom ( name object size 492 crc e8fc615f md5 54f670b86c2deecf1e356d25e10b86d8 )
+	rom ( name picDir size 768 crc 48b34cf7 md5 fdeed022cd3d70220b3f26c7ebb220a0 )
+	rom ( name sndDir size 303 crc 95b09030 md5 22d5669be715b593c89db437cf311bc9 )
+	rom ( name viewDir size 768 crc 3f9f081d md5 046d564be02f50fe5b794d27fa6f83cf )
+	rom ( name vol.0 size 52298 crc 0b39bf7a md5 b9ccfd600ffb53faf780706965d7d4e5 )
+	rom ( name vol.1 size 164488 crc 771f3f97 md5 c9b8e032dc2f1d46173b93f3221e7b9b )
+	rom ( name vol.2 size 222411 crc 62076c18 md5 a267aeb3a0d83204dfda67f6331e8a1a )
+	rom ( name words.tok size 12587 crc a0587156 md5 2c91756fc469e7c641f18dfbb7f1001d )
+)
+
+game (
 	name sq1
-	description "Space Quest I: The Sarien Encounter (1.0X 1986-09-24/DOS)"
+	description "Space Quest I: The Sarien Encounter (DOS/1.0X)"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4808,7 +5345,7 @@ game (
 
 game (
 	name sq1-1
-	description "Space Quest I: The Sarien Encounter (1.1A 1986-11-13/DOS)"
+	description "Space Quest I: The Sarien Encounter (DOS/1.1A)"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4825,7 +5362,7 @@ game (
 
 game (
 	name sq1-2
-	description "Space Quest I: The Sarien Encounter (2.2 1987-05-07 5.25'/3.5'/DOS)"
+	description "Space Quest I: The Sarien Encounter (DOS/2.2)[!]"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4842,10 +5379,11 @@ game (
 
 game (
 	name sq1-2gs
-	description "Space Quest I: The Sarien Encounter (2.2 1987/Apple IIgs)"
+	description "Space Quest I: The Sarien Encounter (Apple IIgs)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name LOGDIR size 372 crc d210ef19 md5 64b9b3d04c1066d36e6a6e56187a83f7 )
 	rom ( name OBJECT size 331 crc 8524101a md5 b1a713b5061db3f536971e234f261c47 )
 	rom ( name PICDIR size 315 crc d52f1ebc md5 18c0038df38056d573a05e0cc35d0d6e )
@@ -4861,10 +5399,11 @@ game (
 
 game (
 	name sq1-amiga
-	description "Space Quest I: The Sarien Encounter (1.2 1986/Amiga)"
+	description "Space Quest I: The Sarien Encounter (Amiga)"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name LOGDIR size 372 crc a86408a7 md5 0b216d931e95750f1f4837d6a4b821e5 )
 	rom ( name OBJECT size 369 crc db622f8f md5 ab599cef268c9af2532eba2bdb3423ed )
 	rom ( name PICDIR size 315 crc 9cab8a40 md5 0985794bc78ad1c5dcf3e536fa67bcfc )
@@ -4877,8 +5416,42 @@ game (
 )
 
 game (
+	name sq1-coco3
+	description "Space Quest I: The Sarien Encounter (CoCo3)[Updated]"
+	year 1986
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 387 crc b6e05f5c md5 7fa54e6bb7ffeb4cf20eca39d86f5fb2 )
+	rom ( name object size 327 crc ff703ce7 md5 e44a158a20f0ac781bf9726b3bba8651 )
+	rom ( name picDir size 315 crc 7a110c1e md5 745d9ba89d3711001958df4119ca8dd6 )
+	rom ( name sndDir size 198 crc fb421fd7 md5 d04b8385763bfef01cd77ae026c0c3b4 )
+	rom ( name viewDir size 762 crc 9b293814 md5 6d7b1519bfdd45654d0c29e00dbd7303 )
+	rom ( name vol.0 size 34938 crc a0af97e9 md5 e88a733af76fbc8bff265a4cb6e5f76d )
+	rom ( name vol.1 size 220512 crc d2ea0a6d md5 90383bc06070647c47b31316680a279e )
+	rom ( name vol.2 size 257186 crc adbc2cd0 md5 bf9e52fe06f6cd70789a8ad563f49af9 )
+	rom ( name words.tok size 4793 crc 7c9d455a md5 42b35795b6b489cd6e8d326e679f6a25 )
+)
+
+game (
+	name sq1-coco3-1
+	description "Space Quest I: The Sarien Encounter (CoCo3)[fixed]"
+	year 1986
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 768 crc 009394ae md5 ca822b768b6462e410423ea7f498daee )
+	rom ( name object size 327 crc ff703ce7 md5 e44a158a20f0ac781bf9726b3bba8651 )
+	rom ( name picDir size 315 crc 7fd2d036 md5 64680cd14e572be7f46636e819895fdf )
+	rom ( name sndDir size 198 crc d501fbff md5 31cad5711fadcd1e53cc2c392c37622b )
+	rom ( name viewDir size 762 crc e3d0ffbc md5 1868e1ce06e6c3816ec7364085e13f73 )
+	rom ( name vol.0 size 40622 crc 3c7a1d1d md5 ecdb4c40a09883dda1d525a5d8aaa2f2 )
+	rom ( name vol.1 size 222807 crc ff693b57 md5 d86f167a4e5a6010d23a3ef350672177 )
+	rom ( name vol.2 size 264177 crc ea381af5 md5 65048353115b83abe9a6570e2caa5063 )
+	rom ( name words.tok size 4793 crc 7c9d455a md5 42b35795b6b489cd6e8d326e679f6a25 )
+)
+
+game (
 	name sq1-mac
-	description "Space Quest I: The Sarien Encounter (1.5D 1987-04-02/Macintosh)"
+	description "Space Quest I: The Sarien Encounter (Macintosh)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4913,7 +5486,7 @@ game (
 
 game (
 	name sq1-st
-	description "Space Quest I: The Sarien Encounter (1.1A 1986-02-06/Atari ST)"
+	description "Space Quest I: The Sarien Encounter (Atari ST)"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4930,7 +5503,7 @@ game (
 
 game (
 	name sq2
-	description "Space Quest II: Vohaul's Revenge (2.0A 1987-11-06 3.5'/DOS)"
+	description "Space Quest II: Vohaul's Revenge (DOS/2.0A 3.5')"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4948,7 +5521,7 @@ game (
 
 game (
 	name sq2-1
-	description "Space Quest II: Vohaul's Revenge (2.0A 1987-11-06 5.25'/DOS)"
+	description "Space Quest II: Vohaul's Revenge (DOS/2.0A 5.25')"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4966,7 +5539,7 @@ game (
 
 game (
 	name sq2-2
-	description "Space Quest II: Vohaul's Revenge (2.0C 5.25'/DOS - 2.0A/Atari ST)"
+	description "Space Quest II: Vohaul's Revenge (DOS/Atari ST/2.0C)"
 	year 1987
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -4984,10 +5557,11 @@ game (
 
 game (
 	name sq2-2gs
-	description "Space Quest II: Vohaul's Revenge (2.0A 1988-07-25 (CE)/Apple IIgs)"
+	description "Space Quest II: Vohaul's Revenge (Apple IIgs)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name LOGDIR size 426 crc c9fb0d1b md5 5dfdac98dd3c01fcfb166529f917e911 )
 	rom ( name OBJECT size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
 	rom ( name PICDIR size 444 crc fc58a803 md5 6a3a9fe965116d1b7cea5e9d45d5aadf )
@@ -5003,7 +5577,7 @@ game (
 
 game (
 	name sq2-3
-	description "Space Quest II: Vohaul's Revenge (2.0D 1988-03-14 3.5'/DOS)"
+	description "Space Quest II: Vohaul's Revenge (DOS/2.0D)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -5021,7 +5595,7 @@ game (
 
 game (
 	name sq2-4
-	description "Space Quest II: Vohaul's Revenge (2.0F 1989-01-05 3.5'/DOS)"
+	description "Space Quest II: Vohaul's Revenge (DOS/2.0F)[!]"
 	year 1989
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -5039,10 +5613,11 @@ game (
 
 game (
 	name sq2-amiga
-	description "Space Quest II: Vohaul's Revenge (2.0F 1986-12-09/Amiga)[vol.2-picture.16 broken]"
+	description "Space Quest II: Vohaul's Revenge (Amiga)[vol.2-picture.16 broken]"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name LOGDIR size 426 crc 4af29aa5 md5 28add5125484302d213911df60d2aded )
 	rom ( name OBJECT size 372 crc 7d4611f9 md5 5dc52be721257719f4b311a84ce22b16 )
 	rom ( name PICDIR size 444 crc c3509c67 md5 514534df82237848dfcd760e476a766e )
@@ -5052,6 +5627,42 @@ game (
 	rom ( name VOL.1 size 161225 crc 56ddcb7f md5 fa5415f7cbc6e78c69d94ef3c92d000d )
 	rom ( name VOL.2 size 411824 crc 0684fac1 md5 f7015465702a24333a0e799ad0d967bb )
 	rom ( name WORDS.TOK size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name sq2-coco3
+	description "Space Quest II: Vohaul's Revenge (CoCo3)[Updated]"
+	year 1986
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 768 crc c24230da md5 d24f19b047e65e1763eff4b46f3d50df )
+	rom ( name object size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name picDir size 768 crc a303ab4d md5 a26bee8c82202c6eb9ac8ef3289fae99 )
+	rom ( name sndDir size 210 crc 558f9467 md5 a7f199431866358161ca8a96533f3cd6 )
+	rom ( name viewDir size 720 crc 1e2e8aef md5 d9ce609b2234b3e42766cb66256f2282 )
+	rom ( name vol.0 size 68006 crc c9eab1f5 md5 4afb3fca24ba553dcf5ec010ba125070 )
+	rom ( name vol.1 size 155936 crc b9751294 md5 a25ddc66441a589450294454ef88907a )
+	rom ( name vol.2 size 211280 crc e504d357 md5 065257ac38f2615fac5024d727cfc15a )
+	rom ( name vol.3 size 191347 crc f411f353 md5 c1be59fe425554b9db3fa649772f7202 )
+	rom ( name words.tok size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
+)
+
+game (
+	name sq2-coco3-1
+	description "Space Quest II: Vohaul's Revenge (CoCo3)"
+	year 1986
+	manufacturer "Sierra On-Line"
+	sourcefile agi
+	rom ( name logDir size 768 crc 2962d1da md5 12973d39b892dc9d280257fd271e9597 )
+	rom ( name object size 331 crc b67fcb84 md5 5024d50d42801aaea7170a756218a7e6 )
+	rom ( name picDir size 444 crc b6db0c39 md5 38499a3384dd3141cfb0858dd5eacc07 )
+	rom ( name sndDir size 210 crc 7700a783 md5 3b1dfb350be3b7174291c92423693e38 )
+	rom ( name viewDir size 720 crc 2b4c4013 md5 519de870029c6c736871da854254668a )
+	rom ( name vol.0 size 70313 crc c38559ec md5 b17ee358bd8929352685b02119d0d8fc )
+	rom ( name vol.1 size 161225 crc b1fefb0d md5 708bc9fa2be61d0752565802b6815cce )
+	rom ( name vol.2 size 215666 crc a5a032d4 md5 88a14c6b7a91be310a7dd51941569b11 )
+	rom ( name vol.3 size 196169 crc 467bee6f md5 43138d2301e54ff9dd55791144787746 )
+	rom ( name words.tok size 6828 crc aeb974ec md5 552e2b31bf8825eea5a46e6eebb4cb3e )
 )
 
 game (
@@ -5075,7 +5686,7 @@ game (
 
 game (
 	name sq2-mac
-	description "Space Quest II: Vohaul's Revenge (2.0D 1988-04-04/Macintosh)"
+	description "Space Quest II: Vohaul's Revenge (Macintosh)"
 	year 1988
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -5112,7 +5723,7 @@ game (
 
 game (
 	name sqx
-	description "Space Quest X: The Lost Chapter (v10.0 Feb 05 Fanmade/DOS)"
+	description "Space Quest X: The Lost Chapter (DOS/Fanmade v10.0 Feb 05)"
 	year 2001
 	manufacturer "Vonster D Monster"
 	sourcefile agi
@@ -5128,7 +5739,7 @@ game (
 
 game (
 	name sqx-1
-	description "Space Quest X: The Lost Chapter (v10.0 Jul 18 Fanmade/DOS)"
+	description "Space Quest X: The Lost Chapter (DOS/Fanmade v10.0 Jul 18)"
 	year 2001
 	manufacturer "Vonster D Monster"
 	sourcefile agi
@@ -5144,7 +5755,7 @@ game (
 
 game (
 	name sqx-coco3
-	description "Space Quest X: The Lost Chapter (Fanmade/CoCo3)"
+	description "Space Quest X: The Lost Chapter (CoCo3/Fanmade)"
 	year 2001
 	manufacturer "Vonster D Monster"
 	sourcefile agi
@@ -5318,6 +5929,7 @@ game (
 	year 1985
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	rom ( name AGIFONT size 2126 crc e94a439f md5 2b96b9d413d580806886d44b04f220e0 )
 	rom ( name DE size 122 crc e4ccffc6 md5 87d603bb10eb192a20e09f27b452cf43 )
 	rom ( name GAME.OBJ size 5612 crc e6340378 md5 d62a3ba8f34410bd016d7f3955ed23a0 )
 	rom ( name OBJECT1.OBJ size 4 crc abfce9a3 md5 565257812eb7c704fc3d80d250bcf742 )
@@ -5438,6 +6050,7 @@ game (
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
+	romof agifont-amiga
 	rom ( name COMPASS size 114 crc 5807da3e md5 0641e06c3db66a585015b4c8df69af6f )
 	rom ( name LOGO size 1468 crc 46de58f9 md5 f5eeb4667f24cde8417d645804f958f8 )
 	rom ( name OBJECT.1 size 442 crc bd06a05e md5 3298e21c366186787e5e2345af8d202b )
@@ -5783,7 +6396,7 @@ game (
 
 game (
 	name xmascard
-	description "Xmas Card (1986-11-13/DOS)[version 1]"
+	description "Xmas Card (DOS/1986-11-13)[version 1]"
 	year 1986
 	manufacturer "Sierra On-Line"
 	sourcefile agi
@@ -5809,5 +6422,14 @@ game (
 	rom ( name viewDir size 768 crc c464eab9 md5 6847e7fe3083cf6348e467304563414a )
 	rom ( name vol.0 size 163607 crc 9c1c9f9e md5 48e96987b9d3d1e80d569237c7f82f96 )
 	rom ( name words.tok size 260 crc af629823 md5 5d9d16cf6770256ce1486ae696baa80b )
+)
+
+resource (
+	name agifont-amiga
+	description "ZZZ - AmigaOS 1.3 - Topaz Font"
+	year 1988
+	manufacturer "Commodore"
+	sourcefile agi
+	rom ( name agi-font-amiga.bin size 2048 crc b6ce69e6 md5 7e026deefe5461744dcf4b7653d523fd )
 )
 

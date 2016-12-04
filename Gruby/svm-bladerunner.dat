@@ -1,0 +1,37 @@
+clrmamepro (
+	name "ScummVM BLADERUNNER"
+	description "ScummVM - BLADERUNNER Engine Games"
+	category "ScummVM"
+	version v1.00
+	date 2016-10-14
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name bladerunner-win
+	description "Blade Runner (Windows)[!]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	rom ( name 1.TLK size 5474131 crc 55601246 md5 8309be105294903cbb62bba4ea28ef01 )
+	rom ( name 2.TLK size 38962965 crc bf211ff1 md5 62b1da7c5cc74659d3deec6f62463e33 )
+	rom ( name 3.TLK size 35129729 crc a58eb3d9 md5 e994a2ec5759298fcc4e417318f7b4df )
+	rom ( name A.TLK size 79404698 crc 3ee1858c md5 16a02bf5bcc2951d408ca3b06aec26a7 )
+	rom ( name COREANIM.DAT size 57804524 crc cc0751b3 md5 802e63673d0f0e04d36fa0d01276cc3b )
+	rom ( name HDFRAMES.DAT size 325068488 crc 7d3d1184 md5 c7a688a033a1f14b492531f66b259250 )
+	rom ( name MODE.MIX size 24745685 crc d33f6453 md5 e22de5012d23b17c3eac780e863ccff2 )
+	rom ( name MUSIC.MIX size 30650342 crc 990dcc96 md5 675fe076861c345ac40761eccdc0ac8e )
+	rom ( name OUTTAKE1.MIX size 198190152 crc 1de4ee53 md5 39c35603fa605657e6df3d72ea591e4d )
+	rom ( name OUTTAKE2.MIX size 50298478 crc 86039009 md5 ecc2eab04049463757598781623c865e )
+	rom ( name OUTTAKE3.MIX size 90558282 crc 90375553 md5 1fa8c7cf45905b1e89df5af17e3a3c2f )
+	rom ( name OUTTAKE4.MIX size 123671966 crc 49f5396c md5 68a01ad7158feab904daaaacf8643f9c )
+	rom ( name SFX.MIX size 18953528 crc e4a8fa7b md5 5b9bea8905765fc218669191bed62b3f )
+	rom ( name SPCHSFX.TLK size 2025085 crc 81776211 md5 58fc3e14ea47e310c016d5a712bbbf5a )
+	rom ( name STARTUP.MIX size 2312374 crc 1a8613bd md5 a700461e03b1e28e2b4d7f495997bace )
+	rom ( name VQA1.MIX size 91084510 crc 2d135711 md5 789ba387bb56fb965787137efc05cc39 )
+	rom ( name VQA2.MIX size 227921766 crc 0e0761e0 md5 a13ec779ca00b58196471c6756e9334e )
+	rom ( name VQA3.MIX size 167370640 crc 8c60fd48 md5 4f35283cdd5e697902620ae56d47e3a4 )
+)
+

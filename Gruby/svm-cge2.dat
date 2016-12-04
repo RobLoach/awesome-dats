@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM CGE2"
 	description "ScummVM - CGE2 Engine Games"
 	category "ScummVM"
-	version v1.02
-	date 2015-09-26
+	version v1.03
+	date 2016-07-24
 	author "Gruby"
 	forcemerging split
 	forcenodump required
@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name sfinx
-	description "Sfinx (Freeware v1.1/DOS)"
+	description "Sfinx (DOS/Freeware v1.1)"
 	year 1997
 	manufacturer "L.K. Avalon"
 	sourcefile cge2
@@ -21,7 +21,7 @@ game (
 
 game (
 	name sfinx-1
-	description "Sfinx (Freeware v0.3/DOS)"
+	description "Sfinx (DOS/Freeware v0.3)"
 	year 1997
 	manufacturer "L.K. Avalon"
 	sourcefile cge2
@@ -31,7 +31,7 @@ game (
 
 game (
 	name sfinx-2
-	description "Sfinx (Freeware v1.0/DOS)"
+	description "Sfinx (DOS/Freeware v1.0)"
 	year 1997
 	manufacturer "L.K. Avalon"
 	sourcefile cge2
@@ -41,7 +41,7 @@ game (
 
 game (
 	name sfinx-pl
-	description "Sfinx (Freeware/DOS/Polish)"
+	description "Sfinx (DOS/Polish Freeware)"
 	year 1997
 	manufacturer "L.K. Avalon"
 	sourcefile cge2
@@ -51,7 +51,7 @@ game (
 
 game (
 	name sfinx-pl-1
-	description "Sfinx (Freeware v1.0/DOS/Polish)"
+	description "Sfinx (DOS/Polish Freeware v1.0)"
 	year 1997
 	manufacturer "L.K. Avalon"
 	sourcefile cge2

@@ -1,0 +1,171 @@
+clrmamepro (
+	name "ScummVM CHEWY"
+	description "ScummVM - CHEWY Engine Games"
+	category "ScummVM"
+	version v1.01
+	date 2016-10-17
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name chewy
+	description "Chewy: Esc from F5 (DOS)[!]"
+	year 1995
+	manufacturer "New Generation"
+	sourcefile chewy
+	romof chewyres
+	rom ( name CHEWY.EXE size 590709 crc 30252702 md5 27ebda478657c62372207c463eba63ef )
+	rom ( name CUT\CUT.TAP size 106165828 crc fc6d734c md5 312822b9630afac36a4a2c25bcea22ab )
+	rom ( name SOUND\DETAILS.OLD size 19793236 crc ab88e756 md5 c86609e4c1dc8ab2e06e6c73a534d014 )
+	rom ( name SOUND\SPEECH.TVP size 216428402 crc 5762b755 md5 db7ee0b8050f799962e1cfa85d533f7d )
+	rom ( name TXT\ATDS.TAP size 218857 crc 5ad3a552 md5 fb4772da235fd416bb8f0778387543e9 )
+	rom ( name TXT\DIAH.ADH size 5710 crc 03cc3586 md5 69249852172b154452364f39dfc2319e )
+	rom ( name TXT\INV_ST.S size 140 crc d48a5b5f md5 0812e5a13c230061d921c7b813642bc4 )
+	rom ( name TXT\INV_USE.IDX size 25200 crc 39c9bd0a md5 1ed939e5d97b9ff764a538a5b846d5c9 )
+	rom ( name TXT\ROOM_ST.S size 1000 crc cf7fc391 md5 7ffeeeb8e1aad41f948af78316b0ce67 )
+)
+
+game (
+	name chewy-de
+	description "Chewy: Esc from F5 (DOS/German)[!]"
+	year 1995
+	manufacturer "New Generation"
+	sourcefile chewy
+	romof chewyres
+	rom ( name CHEWY.EXE size 590645 crc 0ccd53fb md5 4e8343bf66975395ad01a0c1ef61ea0e )
+	rom ( name CUT\CUT.TAP size 105139826 crc e02be99f md5 8d617c9f0d14e9279e48caca718895fb )
+	rom ( name SOUND\AD12ACAB.VOC size 56974 crc ffc6aedf md5 c36a68691b07699495923cbffbd6e3c6 )
+	rom ( name SOUND\SPEECH.TVP size 221659944 crc 3ad4169c md5 3132803f5498846b08297c38d03dbff2 )
+	rom ( name TXT\ATDS.TAP size 231001 crc 245cf0e5 md5 a837cafab9138397fe9d8d601f5d40b2 )
+	rom ( name TXT\DIAH.ADH size 5710 crc 3e78ad84 md5 bc8fb59bb2274ef34cba226fd9694bae )
+	rom ( name TXT\INV_ST.S size 140 crc 90c7728e md5 292cca4434858beaa212beeca4c5ff2c )
+	rom ( name TXT\INV_USE.IDX size 25200 crc b941bcfd md5 97610af19d3d01cfdd86c7275c655cc7 )
+	rom ( name TXT\ROOM_ST.S size 1000 crc 6aaf992b md5 9ffe8e240384b7757a06b62856f176d1 )
+)
+
+resource (
+	name chewyres
+	description "ZZZ - Chewy: Esc from F5 Resources"
+	year 1995
+	manufacturer "New Generation"
+	sourcefile chewy
+	rom ( name BACK\COMIC.TGP size 6529814 crc 7e14988b md5 31969d2ca2b841d7fc81745c759f2552 )
+	rom ( name BACK\EPISODE1.GEP size 249146 crc a9d999fe md5 74e015c810f163f4088c36b916902fdb )
+	rom ( name BACK\EPISODE1.TGP size 4962504 crc 89340939 md5 fba8447f84fdf611dee2298a320c61ab )
+	rom ( name BACK\GBOOK.TGP size 131098 crc eeccf227 md5 f03038686a1ac550550f9c1addd7862c )
+	rom ( name CUT\BLENDE.RND size 2000 crc cdfedb23 md5 6d5cd2b787711e46497a4537c6d0ed22 )
+	rom ( name ERR\ERR_D.TCF size 2363 crc da2c3101 md5 06ad19f712fd6bd5e3c8ce883430b456 )
+	rom ( name ERR\ERR_E.TCF size 1505 crc 60601de4 md5 25170a3771f069163344d29235404e56 )
+	rom ( name MISC\CH_BORK.TAF size 44155 crc ea4d2f73 md5 eb0d07454e26e16c9fa0930fcfeef76a )
+	rom ( name MISC\CH_HELM.TAF size 38964 crc 684b2dc4 md5 79e7506fbe072fe2ab96ca49a60aff03 )
+	rom ( name MISC\CH_MANS.TAF size 48824 crc 43e447b6 md5 c89dee9034d9504017efca08ec1364bc )
+	rom ( name MISC\CH_MINI.TAF size 18051 crc 24cdc570 md5 60633ab5867f376234da05d7d4a2d645 )
+	rom ( name MISC\CH_PUMP.TAF size 45285 crc 47a33898 md5 def078e9881c8a59d42260546176df4c )
+	rom ( name MISC\CH_ROCK.TAF size 40601 crc 714ad80f md5 0f973c0b63017addbc08dd55cae4c866 )
+	rom ( name MISC\CH_SPEZ.TAF size 902558 crc 868ddfcb md5 d6b1b41a27f40e5c05dfcad633adac1d )
+	rom ( name MISC\CH_WALK.TAF size 55153 crc acd7d745 md5 258d9738aea31be29c83e7647c150a2c )
+	rom ( name MISC\CHWALK.TAF size 78601 crc ede17a56 md5 53a79d6fb955427bc2b18826a46f9855 )
+	rom ( name MISC\CURSOR.BAK size 8507 crc f3079b13 md5 e38c6a61c9390b94aa31425201f5cc8e )
+	rom ( name MISC\CURSOR.TA1 size 8222 crc 44e77c91 md5 ab5bddf6af097401a42e8a9689bdcb6d )
+	rom ( name MISC\CURSOR.TAF size 10152 crc 2a0f69a0 md5 b769cd06d97a8aa68abdce5e3b907295 )
+	rom ( name MISC\EXIT.EIB size 1994 crc 3561b29e md5 281823c9b0e07be57459321df6ebb3c4 )
+	rom ( name MISC\HO_WALK.TAF size 72038 crc 0733ee76 md5 fd7b55d868c95af47243d08a8ed95b18 )
+	rom ( name MISC\INVENTAR.IIB size 2782 crc e7e25a67 md5 56a9bef2378c61b401830a2e8e11d4f3 )
+	rom ( name MISC\INVENTAR.OLD size 1342 crc 1c4cedcc md5 7e9eef730f91b11edb66bf4248384d98 )
+	rom ( name MISC\INVENTAR.SIB size 2454 crc 6de2818f md5 e50f2b208cbcd5756aed480505205419 )
+	rom ( name MISC\INVENTAR.TAF size 41198 crc dd6696c0 md5 0fe2e6cfc62453e53525a3fdf5da57ca )
+	rom ( name MISC\MENU.TAF size 6761 crc fc856124 md5 d6b37fc8d19ab648ac501d959826aeaa )
+	rom ( name MISC\OPTION.TAF size 35320 crc 0cc70333 md5 dccb6414e7255c024347a7c90a3ee372 )
+	rom ( name ROOM\DET0.TAF size 276757 crc 9fd99d3c md5 decdd4ea6c80987a3255cc08db6945b5 )
+	rom ( name ROOM\DET1.TAF size 317970 crc 99f2384e md5 f12ae7a7dc8ad932e8a3510a3c1ba4c7 )
+	rom ( name ROOM\DET10.TAF size 98454 crc a9135111 md5 5dff1b9b0c05cb29be9fb2ba7f01f440 )
+	rom ( name ROOM\DET11.TAF size 173749 crc c4340d84 md5 3eaf745ee0776d1c19dbc9ab64324a13 )
+	rom ( name ROOM\DET12.TAF size 20823 crc 2cf24e2f md5 f5758ec6f9f954da59e4c4c4d84cc5c1 )
+	rom ( name ROOM\DET13.TAF size 8009 crc 0f657156 md5 76738f89d7230ea30f05fb9848f499d7 )
+	rom ( name ROOM\DET14.TAF size 111606 crc 840ec481 md5 85b65d43ae30b73498be63e83b27d829 )
+	rom ( name ROOM\DET15.TAF size 281436 crc 537f7240 md5 4930928d9975bcbbf93ab68bcbecf0fe )
+	rom ( name ROOM\DET16.TAF size 398554 crc f2c1890b md5 4ee498df0be39ba5a9a5f4b11adbf992 )
+	rom ( name ROOM\DET17.TAF size 198316 crc cdecb2b8 md5 38be696f179df070cf4d80f3d9fa5cbb )
+	rom ( name ROOM\DET18.TAF size 69446 crc 161ac32a md5 b9fabf03974bd7793c382d7871a42127 )
+	rom ( name ROOM\DET19.TAF size 126186 crc e4493802 md5 199eef0bed130fbb0faec069d617aa3b )
+	rom ( name ROOM\DET2.TAF size 106342 crc 53eb6e1f md5 54e003a5029c0179d7b91ee3b336a1b8 )
+	rom ( name ROOM\DET20.TAF size 83514 crc 8c2c61fe md5 5d804c38b306cfda922a4b95bf7283a1 )
+	rom ( name ROOM\DET21.TAF size 77798 crc 3b2ab9ac md5 37368c2634e542509611ad380d645d13 )
+	rom ( name ROOM\DET22.TAF size 66694 crc 8a2a5887 md5 38ba506e79e85cfaeeb55f770c08a213 )
+	rom ( name ROOM\DET23.TAF size 86189 crc 638e5398 md5 e82390c01af331dedb0f11fd4e44becf )
+	rom ( name ROOM\DET24.TAF size 203781 crc f1c293d5 md5 d2b228dc63d7bd2286823b9624e48dd0 )
+	rom ( name ROOM\DET25.TAF size 100120 crc 214b36c8 md5 5eb57787db3ad6f355f23ee2c426652e )
+	rom ( name ROOM\DET26.TAF size 109964 crc 6d2c3de1 md5 5b6400de59848bae412565917ad19d1c )
+	rom ( name ROOM\DET27.TAF size 101070 crc f95d7c11 md5 785cddc076b6d032da73d166526ee105 )
+	rom ( name ROOM\DET28.TAF size 544750 crc 3a3e1e62 md5 416e1ebbea7f694461740fcc650da48f )
+	rom ( name ROOM\DET29.TAF size 194535 crc 71566d84 md5 87f656800401e98a59f57c4bafe3bd28 )
+	rom ( name ROOM\DET3.TAF size 200663 crc aa63ec4d md5 1486a98669e2a78a6424a73d0046c0a3 )
+	rom ( name ROOM\DET30.TAF size 99007 crc bc8ffc40 md5 47183318789baa54f88a9145e181c2dd )
+	rom ( name ROOM\DET31.TAF size 103365 crc 87ef8b65 md5 c2874b8e35b5d1d8d759778d6a806925 )
+	rom ( name ROOM\DET32.TAF size 185540 crc b762b66e md5 48175fa9b0b7687f1ff641eba47a6d36 )
+	rom ( name ROOM\DET33.TAF size 192275 crc 46ddf5ad md5 edd0bcc63028f17c6f08f2b8f72d93d4 )
+	rom ( name ROOM\DET34.TAF size 146264 crc f34a5647 md5 1b037330b55e5059e0196cec23e0ba14 )
+	rom ( name ROOM\DET35.TAF size 219930 crc 2106d219 md5 18613a43491af77ebda4d4576b8b2171 )
+	rom ( name ROOM\DET36.TAF size 182644 crc 7f0b0e6d md5 11eee12c3d926111d76aeb0656467603 )
+	rom ( name ROOM\DET37.TAF size 238004 crc f31f6264 md5 adc9f50357eada790a6e36086bc19c13 )
+	rom ( name ROOM\DET38.TAF size 132475 crc aabb8aa0 md5 8bc8ab140bffbbc63e01e7e9ff21a6c7 )
+	rom ( name ROOM\DET39.TAF size 485097 crc 5f2000a6 md5 ab5466598ea5026f8054b131edf052f6 )
+	rom ( name ROOM\DET4.TAF size 465410 crc 1fef99fe md5 88cea023a5533b611d83bd7512116191 )
+	rom ( name ROOM\DET40.TAF size 175990 crc 9f83a2e6 md5 ee326131b126b404375fec0625e513fb )
+	rom ( name ROOM\DET41.TAF size 160165 crc 6c0997a9 md5 13fd213b1deb4c6c0a27bc895e778c88 )
+	rom ( name ROOM\DET42.TAF size 426721 crc a16056ac md5 0cc0f578d56afaeda52918a693572c4d )
+	rom ( name ROOM\DET43.TAF size 18999 crc 5eb4dbc1 md5 d29b13e75d7a4b5fe509de538fa9dd01 )
+	rom ( name ROOM\DET44.TAF size 20070 crc 3a9ed0e1 md5 0cf4d8c1c09b6caca96e2cc5c65e8807 )
+	rom ( name ROOM\DET45.TAF size 78560 crc 5279e9fc md5 cc8dccc39b47ab10ee4e98f74bb3f37a )
+	rom ( name ROOM\DET46.TAF size 268995 crc 7bf7e5e4 md5 90ae97002692b16b3f7789f4975e1e4c )
+	rom ( name ROOM\DET47.TAF size 231701 crc befd06db md5 ee351f149c477490424581dd678fcc93 )
+	rom ( name ROOM\DET48.TAF size 10411 crc 7c676588 md5 35b9749c93df8ae36154fa57139da8c6 )
+	rom ( name ROOM\DET49.TAF size 280228 crc f4712a6b md5 f11a9d1faf26c8d558ba71840d51b0dc )
+	rom ( name ROOM\DET5.TAF size 267746 crc f7165a2f md5 9a4c654f87f79f5fe670b3eeef42f808 )
+	rom ( name ROOM\DET50.TAF size 141647 crc 01527152 md5 5aad05fab92d12781be300bcdd91a0b4 )
+	rom ( name ROOM\DET51.TAF size 183524 crc 9c2de391 md5 bc27ffe911e8c7e47760456ae88b4ea8 )
+	rom ( name ROOM\DET52.TAF size 4039242 crc 61a41571 md5 9eb29219e5b857e50e117698ecfc2203 )
+	rom ( name ROOM\DET53.TAF size 143844 crc e28539bc md5 1b508a806044d073ac64d1c474ec5e00 )
+	rom ( name ROOM\DET54.TAF size 169931 crc 783dc5bb md5 922d23730abbf04545c0a512c1904bb6 )
+	rom ( name ROOM\DET55.TAF size 421929 crc 1119b522 md5 e823affd180287697b6c2b32daee2fbb )
+	rom ( name ROOM\DET56.TAF size 109362 crc 5da05489 md5 b37d2d7d96ff146d1680a5bd2effad1d )
+	rom ( name ROOM\DET57.TAF size 48980 crc 09544d69 md5 b6c18d37e86815536290025cf607f18e )
+	rom ( name ROOM\DET58.TAF size 149263 crc 0523e8de md5 57bf5d90b26fe436f549910ac30d7021 )
+	rom ( name ROOM\DET59.TAF size 811156 crc 6ec46063 md5 5d3731c6e09215f9af9bdb5f645b7c4c )
+	rom ( name ROOM\DET6.TAF size 74416 crc e9a40352 md5 90533362db2b7e51a83fce372bbfb8a3 )
+	rom ( name ROOM\DET60.TAF size 105193 crc 595a3af8 md5 d5487d4a2db0e67507ae6932443da1c6 )
+	rom ( name ROOM\DET61.TAF size 342298 crc 6bc385bc md5 21acfd31ae299708eabbaacc574466e2 )
+	rom ( name ROOM\DET62.TAF size 796747 crc f28d8312 md5 817bcbed02ba1928ef8375edf1532123 )
+	rom ( name ROOM\DET63.TAF size 248360 crc b1f192db md5 02d16cb5787d2f49e7816b821a2b7138 )
+	rom ( name ROOM\DET7.TAF size 84932 crc 8dee2c5e md5 3db31f661f23d72c9227e44ad1b18cf9 )
+	rom ( name ROOM\DET8.TAF size 95725 crc 7fbfb3ac md5 ca0acb7bd39aee9dd4815690e55e701d )
+	rom ( name ROOM\DET9.TAF size 140089 crc 07825504 md5 5713d9d4648ca5f292170d08cdc8b5ca )
+	rom ( name ROOM\DUMMY.TAF size 814 crc 708d539d md5 e51d02b5fca42c9fad3c55750f7bb259 )
+	rom ( name ROOM\TEST.BAK size 378406 crc 5e70a7f7 md5 a3fa61683c5bfe9b7e09753df1ab605b )
+	rom ( name ROOM\TEST.RDI size 378406 crc c1a39c5c md5 2cd6629b34edc8f6291a345c673b8ae6 )
+	rom ( name SOUND\ADRV688.DIG size 11278 crc 96dfb75d md5 feabc78729e3a458ae2f6ab40146f0d9 )
+	rom ( name SOUND\AILDRVR.LST size 16073 crc 338ed056 md5 a1ce7dd36b05fdc9a2a781c443ed7c9b )
+	rom ( name SOUND\CHKLIST.MS size 54 crc f18732ef md5 ce4569a47dc0bb67c9308aabf2ed6f5e )
+	rom ( name SOUND\DETAILS.TAP size 19700253 crc 0c506bc1 md5 394dfe29363a27181b3165617bbf3cf9 )
+	rom ( name SOUND\INH_TAP.TXT size 4798 crc 9bab4db7 md5 cba77104147e67756e863ff88bfee3fc )
+	rom ( name SOUND\JAMMER.DIG size 3219 crc 230129e0 md5 4922c729c5e7b347089a2be44f296859 )
+	rom ( name SOUND\PROAUDIO.DIG size 2127 crc 4b071066 md5 a054071be574b2bcf47a0386f1a98ae6 )
+	rom ( name SOUND\RAP10.DIG size 2849 crc 47373ef0 md5 bb846bb23ee9065a09373afdb73cf054 )
+	rom ( name SOUND\SB16.DIG size 2836 crc 6ddaa5d2 md5 b24e361b7634b9b3eafcd2cbb592ba9b )
+	rom ( name SOUND\SBLASTER.DIG size 2914 crc bdc65841 md5 05c4b52546cea64ed1f0b1216278e884 )
+	rom ( name SOUND\SBPRO.DIG size 2763 crc 1061490f md5 b0fe50da778c24cc4066e960a3d1a7c3 )
+	rom ( name SOUND\SETSOUND.EXE size 168741 crc 3e57d826 md5 c0b0895aade8dae1fbc1934d301c5412 )
+	rom ( name SOUND\SNDSCAPE.DIG size 4171 crc 708a96a2 md5 9d7a052a680f45d244e0ee4735b7b55f )
+	rom ( name SOUND\SNDSYS.DIG size 3332 crc 86ecb774 md5 c67142fe53599b28ff7d53565576dbae )
+	rom ( name SOUND\SOUND.DSK size 2046 crc 04de314a md5 ab63f02ec90f03d6193444d552f5de82 )
+	rom ( name SOUND\SOUND.PRJ size 4801 crc de315d6d md5 6cad3f34932b094d975554476c23f647 )
+	rom ( name SOUND\SPEECH.TXT size 22182 crc c3095d5c md5 d594cf452f1f5e443bc78a1b8ebfaa8c )
+	rom ( name SOUND\ULTRA.DIG size 9478 crc 430d67f5 md5 000e584a06712d2f2b58eb2e17b65248 )
+	rom ( name SOUND\UMID.DIG size 2301 crc a4b55815 md5 daed08f29c289edbbb2ec08a716d12b8 )
+	rom ( name TXT\4X5.TFF size 1148 crc 20ba0788 md5 eed94ae31b7ac28141bdc6eec82234cd )
+	rom ( name TXT\6X8.TFF size 2058 crc 8284f54f md5 c2c3c3963b32918b3d1bc072fff06da2 )
+	rom ( name TXT\8X8.TFF size 2058 crc ddaec652 md5 76feb093daa707d834fb2325e4f1f7a1 )
+)
+

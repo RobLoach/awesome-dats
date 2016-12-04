@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM TOUCHE"
 	description "ScummVM - TOUCHE Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2015-11-14
+	version v1.02
+	date 2016-08-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -31,7 +31,7 @@ game (
 
 game (
 	name touche-demo
-	description "Touche: The Adventures of the 5th Musketeer (Demo/DOS)"
+	description "Touche: The Adventures of the 5th Musketeer {Demo}(DOS)"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
@@ -82,7 +82,7 @@ game (
 
 game (
 	name touche-pl
-	description "Touche: The Adventures of the Fifth Musketeer (DOS/Polish)"
+	description "Touche: The Adventures of the 5th Musketeer (DOS/Polish)"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche

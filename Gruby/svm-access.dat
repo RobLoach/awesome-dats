@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM ACCESS"
 	description "ScummVM - ACCESS Engine Games"
 	category "ScummVM"
-	version v1.04
-	date 2015-11-28
+	version v1.05
+	date 2016-08-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -649,7 +649,7 @@ game (
 
 game (
 	name amazon-demo
-	description "Amazon: Guardians of Eden (Demo/DOS)"
+	description "Amazon: Guardians of Eden {Demo}(DOS)"
 	year 1992
 	manufacturer "Access Software"
 	sourcefile access
@@ -879,7 +879,7 @@ game (
 
 game (
 	name martian-demo
-	description "Martian Memorandum (Demo/DOS)"
+	description "Martian Memorandum {Demo}(DOS)"
 	year 1991
 	manufacturer "Access Software"
 	sourcefile access

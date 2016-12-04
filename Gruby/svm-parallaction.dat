@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM PARALLACTION"
 	description "ScummVM - PARALLACTION Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2015-12-06
+	version v1.02
+	date 2016-08-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name bra
-	description "Big Red Adventure, The (Multi-Lingual/DOS)[En,Fr,De,It]"
+	description "Big Red Adventure, The (DOS/English,French,German,Italian)"
 	year 1995
 	manufacturer "Dynabyte"
 	sourcefile parallaction
@@ -2545,7 +2545,7 @@ game (
 
 game (
 	name bra-amiga
-	description "Big Red Adventure, The (Multi-lingual/Amiga)[En,Fr,De,It]"
+	description "Big Red Adventure, The (Amiga/English,French,German,Italian)"
 	year 1995
 	manufacturer "Dynabyte"
 	sourcefile parallaction
@@ -4934,7 +4934,7 @@ game (
 
 game (
 	name bra-demo
-	description "Big Red Adventure, The (Demo/DOS)"
+	description "Big Red Adventure, The {Demo}(DOS)"
 	year 1995
 	manufacturer "Dynabyte"
 	sourcefile parallaction
@@ -5155,7 +5155,7 @@ game (
 
 game (
 	name bra-demo-amiga
-	description "Big Red Adventure, The (Demo/Amiga)"
+	description "Big Red Adventure, The {Demo}(Amiga)"
 	year 1997
 	manufacturer "Dynabyte"
 	sourcefile parallaction
@@ -5264,7 +5264,7 @@ game (
 
 game (
 	name nippon
-	description "Nippon Safes Inc. (Multi-Lingual/DOS)[En,Fr,De,It]"
+	description "Nippon Safes Inc. (DOS/English,French,German,Italian)"
 	year 1992
 	manufacturer "Dynabyte"
 	sourcefile parallaction
@@ -5311,7 +5311,7 @@ game (
 
 game (
 	name nippon-amiga
-	description "Nippon Safes Inc. (Multi-Lingual/Amiga)[En,Fr,De]"
+	description "Nippon Safes Inc. (Amiga/English,French,German)"
 	year 1993
 	manufacturer "Dynabyte"
 	sourcefile parallaction
@@ -5349,7 +5349,7 @@ game (
 
 game (
 	name nippon-demo-amiga
-	description "Nippon Safes Inc. (Demo/Amiga)"
+	description "Nippon Safes Inc. {Demo}(Amiga)"
 	year 1993
 	manufacturer "Dynabyte"
 	sourcefile parallaction

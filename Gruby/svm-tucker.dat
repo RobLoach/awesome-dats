@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM TUCKER"
 	description "ScummVM - TUCKER Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2015-10-30
+	version v1.02
+	date 2016-08-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -2056,7 +2056,7 @@ game (
 
 game (
 	name tucker-demo
-	description "Bud Tucker in Double Trouble (Demo/DOS)"
+	description "Bud Tucker in Double Trouble {Demo}(DOS)"
 	year 1996
 	manufacturer "Merit Studios"
 	sourcefile tucker
@@ -3274,7 +3274,7 @@ game (
 
 game (
 	name tucker-demo-1
-	description "Bud Tucker in Double Trouble (Non-Interactive Demo/DOS)"
+	description "Bud Tucker in Double Trouble {Demo}(DOS)[Non-Interactive]"
 	year 1996
 	manufacturer "Merit Studios"
 	sourcefile tucker

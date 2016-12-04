@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM GROOVIE"
 	description "ScummVM - GROOVIE Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2015-11-10
+	version v1.05
+	date 2016-09-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -16,10 +16,6 @@ game (
 	manufacturer "Trilobyte"
 	sourcefile groovie
 	romof 11res
-	rom ( name DISK.1 size 227 crc dd0398ea md5 5c0428cd3659fc7bbcd0aa16485ed5da )
-	rom ( name DISK.2 size 227 crc 65fa9250 md5 6ec0c81e34c65ba46704e05cd92d6af9 )
-	rom ( name DISK.3 size 227 crc bb7d69f9 md5 d3eee4e8236cf9534ead891ff7fab4fc )
-	rom ( name DISK.4 size 227 crc cf798165 md5 9abc0cec43ee26ea0329840eef558cfb )
 	rom ( name GROOVIE\AL.GRV size 6121 crc 2a658716 md5 6f80af7ec85f750b11a135b82c1cadc4 )
 	rom ( name GROOVIE\BC.GRV size 1735 crc 4117da47 md5 c2c2bf8d7c366658f7c7585ba78b9fe0 )
 	rom ( name GROOVIE\BS.GRV size 2484 crc 8bfb8638 md5 3eb5c98e028d409e799d64690de9fdf7 )
@@ -27,7 +23,6 @@ game (
 	rom ( name GROOVIE\CR.GRV size 3707 crc 03543ec6 md5 104f6ca910ce96e55eb75aabc100b965 )
 	rom ( name GROOVIE\DIR.RL size 166432 crc 9920f2c0 md5 dc2512abdeb658b6adb68385f9e94ba0 )
 	rom ( name GROOVIE\FS.GRV size 1358 crc 9f9bd332 md5 6ce6f0de3869c8f7965bf2fe036fd8c3 )
-	rom ( name GROOVIE\GJD.GJD size 716 crc 319af8f5 md5 b1e0b617638b2e2464f5ff3787179e97 )
 	rom ( name GROOVIE\HS.GRV size 4180 crc 832f2cc8 md5 d5d5353ee2e7a132b20b669a9025ca0b )
 	rom ( name GROOVIE\ITSAWRAP.GRV size 517 crc 1f05c497 md5 e4513093a126d18546a3791d57b03b56 )
 	rom ( name GROOVIE\KM.GRV size 2184 crc ff796b63 md5 6043407e670149b3e0d9ed6fcff2a135 )
@@ -42,22 +37,12 @@ game (
 	rom ( name GROOVIE\SM.GRV size 1594 crc f352cfca md5 0f8b29744c61030cc7f37a640eee4ad3 )
 	rom ( name GROOVIE\SW.GRV size 2998 crc 12b914de md5 929e7e4d6b9278ace68b4e5bb28c6a9e )
 	rom ( name GROOVIE\TB.GRV size 841 crc 126c621b md5 0d897edf953750171a7fff8150397f9b )
-	rom ( name GROOVIE\TRAILER.GRV size 6 crc c2c0231b md5 a7c8bdc4e8bff621f4f50928a95eaaba )
 	rom ( name GROOVIE\TX.GRV size 3034 crc ca2d0e86 md5 eee2e159d84fbfc51c5f2e32d37ae476 )
 	rom ( name GROOVIE\WL.GRV size 3251 crc 2b108666 md5 ca872e2f0263d8f90a03599cd51173ef )
-	rom ( name MEDIA\ATPUZ.GJD size 39065474 crc cfd81f38 md5 9d95b1a9b7735cc9239865f87b3dbdd0 )
-	rom ( name MEDIA\BAPUZ.GJD size 2854016 crc f601cce4 md5 8259cb9569eb133870ea88f53adf9d94 )
-	rom ( name MEDIA\BDPUZ.GJD size 6197983 crc 841dc913 md5 52e17d0cd8b6d657b9639471c472ab50 )
-	rom ( name MEDIA\BIG_OL.ROL size 11646976 crc cdc91e94 md5 f7145a61d639989fbebd672d1aef1dd3 )
-	rom ( name MEDIA\CHPUZ.GJD size 357442 crc efebedb6 md5 989ec4e6e6ce9d567ea606a353821e54 )
 	rom ( name MEDIA\COMMON1.GJD size 47724403 crc 94b327b5 md5 a827aae8b33c906b7b3923f52aa4e5fe )
 	rom ( name MEDIA\COMMON2.GJD size 32407429 crc 3eca8efc md5 4cd3bbcc45c3545e79f53ee9b5db9f93 )
 	rom ( name MEDIA\COMMON3.GJD size 9557829 crc b9e8afd1 md5 5ac953e6ccad533d7e25c22088b1d4b7 )
-	rom ( name MEDIA\COMMON4.GJD size 24754158 crc de6e2316 md5 9054d4abbc881fedaabbb1926ec3eb54 )
 	rom ( name MEDIA\COMROOMS.GJD size 20985339 crc 1da921d3 md5 f6532f8d828746d5c0816a0486def326 )
-	rom ( name MEDIA\CREDITS.GJD size 1582254 crc 41978f11 md5 4e72e06a95460e563b63b56f3a72a726 )
-	rom ( name MEDIA\DOPUZ.GJD size 3235795 crc 338f6130 md5 c93abb25dbce205c15222e278f788d06 )
-	rom ( name MEDIA\DRPUZ.GJD size 15913398 crc bf3c0e1d md5 5c390db3a3a2f8c8aca4498a8f2b2977 )
 	rom ( name MEDIA\DVMOD1A.GJD size 78832457 crc e0afe630 md5 9cd4255a48a428389a21d70e003e9f02 )
 	rom ( name MEDIA\DVMOD1B.GJD size 96548148 crc 5cbb4a8f md5 d4a51e8f8dea5328d713791417eff5d1 )
 	rom ( name MEDIA\DVMOD1C.GJD size 52380402 crc 29f0a47a md5 2a0371951814c1fd48db72fafc3103d8 )
@@ -67,50 +52,135 @@ game (
 	rom ( name MEDIA\DVMOD3B.GJD size 85174866 crc b5257ce7 md5 dc6c5fe1a724cd1d14950321c58b9a43 )
 	rom ( name MEDIA\DVMOD3C.GJD size 51166895 crc 5d52c9cf md5 4ea4be207ff588662ac10ede77cfec98 )
 	rom ( name MEDIA\DVMOD4.GJD size 72297254 crc b598b2a2 md5 0fac1539efbfefcb4f916c818a5349de )
-	rom ( name SYSTEM\ADLIB.MDI size 14986 crc 6871f64c md5 5cb112d060d70a43ee7c89b7ffe4f029 )
-	rom ( name SYSTEM\ADLIBG.MDI size 16377 crc 1d2a278b md5 79d8137d4e6b78735b78cd8a4bd14827 )
-	rom ( name SYSTEM\ADRV688.DIG size 11278 crc 96dfb75d md5 feabc78729e3a458ae2f6ab40146f0d9 )
-	rom ( name SYSTEM\AILDRVR.LST size 17340 crc 95dd989f md5 957fc8cef97bf9a3a931548f6d0ab26b )
-	rom ( name SYSTEM\BACK.RAW size 25687 crc 31012dc8 md5 c336eafb982ceba8662571d42403c449 )
-	rom ( name SYSTEM\COVER.RAW size 921600 crc b0708925 md5 f3fd6601b2a9597d0585cd9dbbbfb114 )
-	rom ( name SYSTEM\ESFM.MDI size 15084 crc 1aa86b62 md5 133a6b2b01da252dfa11b6e2ec5f5ebf )
-	rom ( name SYSTEM\ICONS.PH size 203676 crc 17e96d39 md5 0b2477d8dbd321185e166e91e9b03313 )
-	rom ( name SYSTEM\JAMMER.DIG size 3219 crc 230129e0 md5 4922c729c5e7b347089a2be44f296859 )
-	rom ( name SYSTEM\LOAD.RAW size 226717 crc 7f5327d5 md5 2a4d83d9fe46e7f3da76e39ae1f4306a )
-	rom ( name SYSTEM\MAKZ_11H.EXE size 9276 crc c2632514 md5 3e66488f30b64999650ebd4fa94a594d )
-	rom ( name SYSTEM\MPU401.MDI size 1915 crc 70a67ea6 md5 965a57d16212beb0f68cb9f62bc7259b )
-	rom ( name SYSTEM\MT32MPU.MDI size 6980 crc bdaf0222 md5 609666cbd6fe795d576a9b6aff5ac7d0 )
-	rom ( name SYSTEM\NULL.MDI size 1609 crc 93d88470 md5 8416b75a9db53a3a25f254ed45da4c57 )
-	rom ( name SYSTEM\OPL3.MDI size 16387 crc 74aad2f1 md5 84ce740acea5af9ef8d118174bff88c8 )
-	rom ( name SYSTEM\PAS.MDI size 15425 crc 01d01110 md5 bcc2a72a36663f40c019d0af2c95df13 )
-	rom ( name SYSTEM\PASPLUS.MDI size 16458 crc c5a2ded9 md5 f5515c19a269ca2b1af13e9b3e3c3d3a )
-	rom ( name SYSTEM\PROAUDIO.DIG size 2127 crc 4b071066 md5 a054071be574b2bcf47a0386f1a98ae6 )
-	rom ( name SYSTEM\RAP10.DIG size 2849 crc 47373ef0 md5 bb846bb23ee9065a09373afdb73cf054 )
-	rom ( name SYSTEM\READ.ME1 size 252 crc da28a143 md5 b66c2b1911da8bae02bc3f937ebbe0fd )
-	rom ( name SYSTEM\SAMPLE.AD size 3622 crc 6fa09977 md5 e32bf4cf3d7f6101d9edd7de4718b2d4 )
-	rom ( name SYSTEM\SAMPLE.MT size 65026 crc 19a6e54b md5 5e57e09ed7b5a2ea6fca5e9c92774756 )
-	rom ( name SYSTEM\SAMPLE.OPL size 3622 crc 6fa09977 md5 e32bf4cf3d7f6101d9edd7de4718b2d4 )
-	rom ( name SYSTEM\SB16.DIG size 2836 crc 6ddaa5d2 md5 b24e361b7634b9b3eafcd2cbb592ba9b )
-	rom ( name SYSTEM\SBAWE32.MDI size 32694 crc dd43a7b8 md5 a66e04b5c067b95932857aff75f48f5d )
-	rom ( name SYSTEM\SBLASTER.DIG size 2914 crc bdc65841 md5 05c4b52546cea64ed1f0b1216278e884 )
-	rom ( name SYSTEM\SBLASTER.MDI size 15118 crc 670d5af4 md5 20fc92cf9e0d0d8e2447cd30252faee4 )
-	rom ( name SYSTEM\SBPRO.DIG size 2763 crc 1061490f md5 b0fe50da778c24cc4066e960a3d1a7c3 )
-	rom ( name SYSTEM\SBPRO1.MDI size 15471 crc 25370f67 md5 998eced7549230f6d621766f0cce4c39 )
-	rom ( name SYSTEM\SBPRO2.MDI size 16541 crc 0ab0493a md5 8879265bf3b414346f66c326389e32ae )
-	rom ( name SYSTEM\SCRATCH1.ROL size 46856 crc 0a95a0ef md5 b1f6e155d9f7f251aec379c30736c0ea )
-	rom ( name SYSTEM\SETSOUND.EXE size 168741 crc 3e57d826 md5 c0b0895aade8dae1fbc1934d301c5412 )
-	rom ( name SYSTEM\SNDSCAPE.DIG size 4171 crc 708a96a2 md5 9d7a052a680f45d244e0ee4735b7b55f )
-	rom ( name SYSTEM\SNDSCAPE.MDI size 2971 crc ad1df3c2 md5 31ec7e6e06a3eb9e0bebff3e52ef1b0f )
-	rom ( name SYSTEM\SNDSYS.DIG size 3328 crc 51e0d45e md5 d5a5685ced05420dde3e4cf3a983ae30 )
-	rom ( name SYSTEM\TRAIL.RAW size 61979 crc d550c69a md5 ed67284a67027e8c41427e1334223a6d )
-	rom ( name SYSTEM\ULTRA.DIG size 9478 crc 430d67f5 md5 000e584a06712d2f2b58eb2e17b65248 )
-	rom ( name SYSTEM\ULTRA.MDI size 49672 crc 04849dc3 md5 9a1b881ab9e8f6d827f6c27c5df40d85 )
-	rom ( name SYSTEM\V32.EXE size 487587 crc 5eed80d1 md5 96a7507423800d3314d363d576bfc52d )
+	rom ( name MEDIA\DVMOD5A.GJD size 63819750 crc d937bb76 md5 d1b34c02119e77d525533eb27cd77fee )
+	rom ( name MEDIA\DVMOD5B.GJD size 57058166 crc 3ab5e9ff md5 0900225cfc67ea8c815fa4d40d1d3c38 )
+	rom ( name MEDIA\DVMOD5C.GJD size 54605691 crc 143face9 md5 5805c012adffe7e041985020f57b6531 )
+	rom ( name MEDIA\NAV2.GJD size 28355090 crc 8a6535d9 md5 55531f84364fe5fbccdd0e065538d939 )
+	rom ( name MEDIA\OMOD1.GJD size 8987466 crc 0898f969 md5 b037f3e448f0ec40588fcf07998cb34d )
+	rom ( name MEDIA\OMOD2.GJD size 13807726 crc c0bebc6f md5 86be991c1bbd0fd68ca8be290bc3d16f )
+	rom ( name MEDIA\OMOD3.GJD size 18631094 crc 7108e7be md5 b7806e441d993220e666b5a514e505d1 )
+	rom ( name MEDIA\OMOD4.GJD size 34414155 crc 11d60185 md5 761ab522185e47558a78a3a3ef83debd )
+	rom ( name MEDIA\OMOD5.GJD size 11226290 crc cf08f2f2 md5 74c200965e301bd1beb3caff61726441 )
+	rom ( name SAMPLE.MT size 65026 crc 19a6e54b md5 5e57e09ed7b5a2ea6fca5e9c92774756 )
+)
+
+game (
+	name 11h-mac
+	description "11th Hour, The: The Sequel to The 7th Guest (Macintosh)[!]"
+	year 1997
+	manufacturer "Trilobyte"
+	sourcefile groovie
+	cloneof 11h
+	romof 11h
+	rom ( name "The 11th Hour Installer" size 1002987 crc b10f83ad md5 5684d56f8ffbca3a10b33da7134fff5d )
+)
+
+game (
+	name 11h-making
+	description "11th Hour, The: The Sequel to The 7th Guest {Making Of}(DOS)[!]"
+	year 1995
+	manufacturer "Trilobyte"
+	sourcefile groovie
+	cloneof 11h
+	romof 11h
+	rom ( name MAKINGOF.ROM size 93 crc 107b0852 md5 dcb4ee33153fca96fd46e0e5cc998ff3 )
+)
+
+game (
+	name 11h-making-mac
+	description "11th Hour, The: The Sequel to The 7th Guest {Making Of}(Macintosh)[!]"
+	year 1995
+	manufacturer "Trilobyte"
+	sourcefile groovie
+	cloneof 11h
+	romof 11h
+	rom ( name MAKINGMAC.ROM size 103 crc 9562a698 md5 bfc579da304cb76eaff3148f759f569a )
+	rom ( name "The 11th Hour Installer" size 1002987 crc b10f83ad md5 5684d56f8ffbca3a10b33da7134fff5d )
+)
+
+game (
+	name clandestiny-trail
+	description "Clandestiny {Trailer}(DOS)[!]"
+	year 1996
+	manufacturer "Trilobyte"
+	sourcefile groovie
+	cloneof 11h
+	romof 11h
+	rom ( name TRAILER.ROM size 66 crc 3bd5e470 md5 ac09948e0e29acf03a1a2ebe8ef5a71a )
+)
+
+game (
+	name clandestiny-trail-mac
+	description "Clandestiny {Trailer}(Macintosh)[!]"
+	year 1996
+	manufacturer "Trilobyte"
+	sourcefile groovie
+	cloneof 11h
+	romof 11h
+	rom ( name "The 11th Hour Installer" size 1002987 crc b10f83ad md5 5684d56f8ffbca3a10b33da7134fff5d )
+	rom ( name TRAILMAC.ROM size 76 crc 89966eb3 md5 7c531be68837d9657816823e8d6d7607 )
+)
+
+game (
+	name 11h-de
+	description "11th Hour, The: The Sequel to The 7th Guest (DOS/German)"
+	year 1995
+	manufacturer "Trilobyte"
+	sourcefile groovie
+	romof 11res
+	rom ( name GROOVIE\_DIR3_0.WMD size 284 crc 96a0861b md5 9f1ade77389d11a71bd211239a3eb281 )
+	rom ( name GROOVIE\AL.GRV size 6121 crc 2a658716 md5 6f80af7ec85f750b11a135b82c1cadc4 )
+	rom ( name GROOVIE\BC.GRV size 1735 crc 4117da47 md5 c2c2bf8d7c366658f7c7585ba78b9fe0 )
+	rom ( name GROOVIE\BS.GRV size 2484 crc 8bfb8638 md5 3eb5c98e028d409e799d64690de9fdf7 )
+	rom ( name GROOVIE\CD.GRV size 4088 crc ff890c3e md5 2ed5aa8f1864b9c759b5cf85cad52824 )
+	rom ( name GROOVIE\CR.GRV size 3707 crc 03543ec6 md5 104f6ca910ce96e55eb75aabc100b965 )
+	rom ( name GROOVIE\DIR.RL size 166432 crc cdb89109 md5 0b3a791f36e0a6ccfb88be305f36a589 )
+	rom ( name GROOVIE\FS.GRV size 1358 crc 9f9bd332 md5 6ce6f0de3869c8f7965bf2fe036fd8c3 )
+	rom ( name GROOVIE\HS.GRV size 4180 crc 832f2cc8 md5 d5d5353ee2e7a132b20b669a9025ca0b )
+	rom ( name GROOVIE\ITSAWRAP.GRV size 517 crc de4be363 md5 e5a73f26c796a888be242ed13fa3575a )
+	rom ( name GROOVIE\KM.GRV size 2184 crc ff796b63 md5 6043407e670149b3e0d9ed6fcff2a135 )
+	rom ( name GROOVIE\KP.GRV size 1637 crc 254363c5 md5 06a3869b12bb8166307d36d85174c326 )
+	rom ( name GROOVIE\MAKINGOF.GRV size 994 crc 21a2d57d md5 03492c6ad3088b3f9f51a3eaba6b8c8e )
+	rom ( name GROOVIE\MH.GRV size 5191 crc 3e335ff8 md5 8dec71b0011697607fd6f7ec68661373 )
+	rom ( name GROOVIE\NC.GRV size 1208 crc 815d73ad md5 bab2a3a0f34f2ab2c81e76cadcc90e39 )
+	rom ( name GROOVIE\NK.GRV size 2540 crc 7de2288c md5 234ebd3a27aebc4ef4e09ac4a9d067e3 )
+	rom ( name GROOVIE\PT.GRV size 13532 crc 30b0b706 md5 608c69e3b86d3a02d37c4f504165d9fc )
+	rom ( name GROOVIE\RR.GRV size 3155 crc 310bc0fd md5 d04c8290fb8d0d5bd07a14e83abf5537 )
+	rom ( name GROOVIE\SCRIPT.GRV size 62447 crc 755f2078 md5 37a5fcc3f58665457fedb250d24218db )
+	rom ( name GROOVIE\SCRIPT_GERMAN.GRV size 62447 crc 755f2078 md5 37a5fcc3f58665457fedb250d24218db )
+	rom ( name GROOVIE\SM.GRV size 1594 crc f352cfca md5 0f8b29744c61030cc7f37a640eee4ad3 )
+	rom ( name GROOVIE\SW.GRV size 2998 crc 12b914de md5 929e7e4d6b9278ace68b4e5bb28c6a9e )
+	rom ( name GROOVIE\TB.GRV size 841 crc 126c621b md5 0d897edf953750171a7fff8150397f9b )
+	rom ( name GROOVIE\TX.GRV size 3034 crc ca2d0e86 md5 eee2e159d84fbfc51c5f2e32d37ae476 )
+	rom ( name GROOVIE\WL.GRV size 3251 crc 2b108666 md5 ca872e2f0263d8f90a03599cd51173ef )
+	rom ( name MEDIA\COMMON1.GJD size 47748651 crc d368d21c md5 d6a3d3be37fbe216cf6fbf656e975d2e )
+	rom ( name MEDIA\COMMON2.GJD size 32438305 crc 9e6a9155 md5 295f59421c5c894271635e0d767787e3 )
+	rom ( name MEDIA\COMMON3.GJD size 9586276 crc d9a18597 md5 9722f73921d573e61d704cd842a74924 )
+	rom ( name MEDIA\COMROOMS.GJD size 15747608 crc fe3cee26 md5 e74d3a599b388780006fbeffe28e6570 )
+	rom ( name MEDIA\DVMOD1A.GJD size 78818181 crc a4019f05 md5 3c4afccd82fd647766f9f2ad155523d3 )
+	rom ( name MEDIA\DVMOD1B.GJD size 96529894 crc d9d36a03 md5 c84c02a52394c48fc8f93687986e4f43 )
+	rom ( name MEDIA\DVMOD1C.GJD size 52368884 crc 2035a5d3 md5 60e724b91188a379f0968e514252befa )
+	rom ( name MEDIA\DVMOD2A.GJD size 62762593 crc 7cb805af md5 1e25af0ffc92dec58b101bdff1bb51e4 )
+	rom ( name MEDIA\DVMOD2B.GJD size 82932375 crc cd8f1a35 md5 46bbb6b1255767de832c738ad357792c )
+	rom ( name MEDIA\DVMOD3A.GJD size 62028053 crc cda3aa4a md5 bc1f8466824c98c547d6864ac5a0851c )
+	rom ( name MEDIA\DVMOD3B.GJD size 85152600 crc a176ced3 md5 f23d373e37a6a202547004e5853bd4ef )
+	rom ( name MEDIA\DVMOD3C.GJD size 51163859 crc c6af8aa1 md5 4ecbb491bfcc638c2b5875f0891a4c40 )
+	rom ( name MEDIA\DVMOD4.GJD size 72281180 crc 27d93e55 md5 ed2dd3252b9bf7351fc3c36bff56c207 )
+	rom ( name MEDIA\DVMOD5A.GJD size 63806230 crc 1aae89fe md5 a441d37b9ec4ecb3d6d455bb48930b85 )
+	rom ( name MEDIA\DVMOD5B.GJD size 57047622 crc 8b47bd13 md5 f5e8b96aceef8693565b44f9eca33959 )
+	rom ( name MEDIA\DVMOD5C.GJD size 54173577 crc 271e1af3 md5 2f8fdd2498f6ec6f2f0da69c91fda0c9 )
+	rom ( name MEDIA\NAV2.GJD size 28348658 crc 3d8d0e7b md5 18de923d30bb26f53ee3a6c91fccc756 )
+	rom ( name MEDIA\OMOD1.GJD size 7930937 crc 393d628c md5 8bb59bdc50ab26e8c7531a4ee9d0cbd2 )
+	rom ( name MEDIA\OMOD2.GJD size 14294914 crc f276d55f md5 b9b212396d7cd267383252db5df2f52a )
+	rom ( name MEDIA\OMOD3.GJD size 17225908 crc f6038653 md5 5fbf61b9067b3e879572fca092ec7269 )
+	rom ( name MEDIA\OMOD4.GJD size 33462172 crc 7f34a251 md5 03c91aaaf85d6f4f1b0a7d386d88d981 )
+	rom ( name MEDIA\OMOD5.GJD size 11010029 crc 0e9dd034 md5 b69d3671f0554678fdb3449aecd775fd )
+	rom ( name SAMPLE.MT size 65026 crc 19a6e54b md5 5e57e09ed7b5a2ea6fca5e9c92774756 )
 )
 
 game (
 	name 11h-demo
-	description "11th Hour, The: The sequel to The 7th Guest (Demo/DOS)"
+	description "11th Hour, The: The sequel to The 7th Guest {Demo}(DOS)"
 	year 1995
 	manufacturer "Trilobyte"
 	sourcefile groovie
@@ -140,6 +210,61 @@ game (
 	rom ( name TH_MUSIC.GJD size 401798 crc d6f45408 md5 54582927433af3150fc32a9f1140472a )
 	rom ( name TRAIL.RAW size 61979 crc d550c69a md5 ed67284a67027e8c41427e1334223a6d )
 	rom ( name ZCLAN.GJD size 20454932 crc c926fd52 md5 69373fcdbbc83391dc1b7083758b6bbb )
+)
+
+game (
+	name 11h-fr
+	description "11th Hour, The: The Sequel to The 7th Guest (DOS/French)[!]"
+	year 1995
+	manufacturer "Trilobyte"
+	sourcefile groovie
+	romof 11res
+	rom ( name GROOVIE\AL.GRV size 6121 crc 054244e8 md5 3b415613521d8765bf70a466431797ad )
+	rom ( name GROOVIE\BC.GRV size 1735 crc 2bcde15a md5 6698c4214c420e186b7c95bf00cf00f4 )
+	rom ( name GROOVIE\BS.GRV size 2484 crc 371941e4 md5 4d8d3b1cda32f4d27e6eaa645504d131 )
+	rom ( name GROOVIE\CD.GRV size 4088 crc cdc0024f md5 e03fc67cae378104f975ce48cd94a03f )
+	rom ( name GROOVIE\CR.GRV size 3707 crc 33c79180 md5 345428f106263b10884534ce250dae2d )
+	rom ( name GROOVIE\DIR.RL size 166304 crc 2b64091a md5 3d27114aaad8ceb9e2473d9770e59708 )
+	rom ( name GROOVIE\FS.GRV size 1358 crc 8f30607d md5 8a48361df3231aabdbbf9169d20b7835 )
+	rom ( name GROOVIE\HS.GRV size 4180 crc ff882b4f md5 d04c659c04558fe6b817d7591b6d5ec5 )
+	rom ( name GROOVIE\ITSAWRAP.GRV size 517 crc bf84e308 md5 88a59a62d86b9b3d08f14712c5800a7c )
+	rom ( name GROOVIE\KM.GRV size 2184 crc cbf7f8f9 md5 98e89776321f5caf6e7d71177a261ee0 )
+	rom ( name GROOVIE\KP.GRV size 1637 crc 6e62020f md5 4f37b6f30c97544da8c0eb62e0ce2596 )
+	rom ( name GROOVIE\MAKINGOF.GRV size 994 crc 7aebd18e md5 77c4ae4deb0e323ccd7dcca0f99de2b9 )
+	rom ( name GROOVIE\MH.GRV size 5191 crc 288ecc2f md5 77c090647a66acc55797531a2c8ee38c )
+	rom ( name GROOVIE\NC.GRV size 1208 crc c804b70a md5 657247ab241f67dc928c06db65367fb5 )
+	rom ( name GROOVIE\NK.GRV size 2540 crc 54921e56 md5 5cd606c59f6dbffac07e780a2b2cb94c )
+	rom ( name GROOVIE\PT.GRV size 13532 crc f133d216 md5 f206f06efe76b45a9b711af1da3848f3 )
+	rom ( name GROOVIE\RR.GRV size 3155 crc f34d2b1a md5 f95b68d58e35da18d7be065405424ebd )
+	rom ( name GROOVIE\SCRIPT.GRV size 62447 crc f9fa0dfd md5 e03d0176b912019ae8810a642cae07d7 )
+	rom ( name GROOVIE\SM.GRV size 1594 crc deaf4a3d md5 2eebc22e622078a018329320844535d6 )
+	rom ( name GROOVIE\SW.GRV size 2998 crc 1266a7e8 md5 dcb8c061d58ad7628729a51bfef2aea2 )
+	rom ( name GROOVIE\TB.GRV size 841 crc c30f9432 md5 260f12a509e9011ff3c2dac418671520 )
+	rom ( name GROOVIE\TX.GRV size 3034 crc 82d66109 md5 3680147e33075d352dc64ab021887890 )
+	rom ( name GROOVIE\WL.GRV size 3251 crc ada31ffc md5 25cac70067c9ef5a9ff9214f577660b9 )
+	rom ( name MEDIA\COMMON1.GJD size 47748636 crc 6445a30e md5 aa93bc826596de3b807c77fa0889a3ba )
+	rom ( name MEDIA\COMMON2.GJD size 32438305 crc 9e6a9155 md5 295f59421c5c894271635e0d767787e3 )
+	rom ( name MEDIA\COMMON3.GJD size 9586282 crc 3584203b md5 6321c3ac9e7f91a287eb73071f9684e6 )
+	rom ( name MEDIA\COMROOMS.GJD size 15332009 crc 41aaf405 md5 0dce845529b8baf100afb3a7833c47bc )
+	rom ( name MEDIA\DVMOD1A.GJD size 78832457 crc 78bbb205 md5 7e00141e104c39a9b880898925c20b57 )
+	rom ( name MEDIA\DVMOD1B.GJD size 96548148 crc e5ba3bb6 md5 680b57895734d3e427467bd56422805e )
+	rom ( name MEDIA\DVMOD1C.GJD size 52380402 crc be1b9b2b md5 673163b0365dcd50ab8b89bb7235a967 )
+	rom ( name MEDIA\DVMOD2A.GJD size 62795641 crc 158bbe83 md5 0e8ef7375331a90be88e59c5e2c5e3a9 )
+	rom ( name MEDIA\DVMOD2B.GJD size 82939421 crc 7b65d031 md5 72504c7f405770f6667a216321c106fc )
+	rom ( name MEDIA\DVMOD3A.GJD size 62042099 crc 1899da6b md5 ccdb38b2971ad01dfcfb3628d6ed85bf )
+	rom ( name MEDIA\DVMOD3B.GJD size 85174866 crc 13c53ec9 md5 2c5b824e75ebd089f8697ae80837a263 )
+	rom ( name MEDIA\DVMOD3C.GJD size 51166895 crc a5dda28e md5 e80af246346620262f9eaa9bb81e38dd )
+	rom ( name MEDIA\DVMOD4.GJD size 72297254 crc 9c0edf2a md5 3617f87b2c475e22f774836ebfba71c4 )
+	rom ( name MEDIA\DVMOD5A.GJD size 63819750 crc 46c9a1b0 md5 09ce8d14690940a633c13ff0e68908c8 )
+	rom ( name MEDIA\DVMOD5B.GJD size 57058166 crc 7207b950 md5 4c4ac6bf2b9a563c1c749abc23eb2a72 )
+	rom ( name MEDIA\DVMOD5C.GJD size 54562043 crc 88cb2c68 md5 2acd2b7e6129b06b8d7c06ecccaf02b0 )
+	rom ( name MEDIA\NAV2.GJD size 28323042 crc 71578e83 md5 65c6d2850b1f5f97812af27fbbd1f575 )
+	rom ( name MEDIA\OMOD1.GJD size 7201617 crc 0d6139e4 md5 fc63fa60d515701c2447ce7dc19e1c58 )
+	rom ( name MEDIA\OMOD2.GJD size 10904139 crc f2a746c3 md5 bcc6645c63e8635379adafa87b927824 )
+	rom ( name MEDIA\OMOD3.GJD size 16295370 crc 073d58d3 md5 0b03999c10589e46d254d6afb07c5162 )
+	rom ( name MEDIA\OMOD4.GJD size 33770126 crc eda02a4c md5 38b2ebbeba2b821689a811a117f107c8 )
+	rom ( name MEDIA\OMOD5.GJD size 10486344 crc 9b77d2b8 md5 63802bba10bb218129a25e700c070d32 )
+	rom ( name SAMPLE.MT size 65026 crc 19a6e54b md5 5e57e09ed7b5a2ea6fca5e9c92774756 )
 )
 
 game (
@@ -333,6 +458,183 @@ game (
 	rom ( name SPHINX.FNT size 11112 crc bdbf5244 md5 64d3d919b5d615e98b70991cdc925195 )
 	rom ( name XMI.GJD size 257251 crc 7bbd39a4 md5 566058e3fad1624c306c54f081cbb8fa )
 	rom ( name XMI.RL size 1420 crc d62ea80f md5 bcec2a30ece33bae04402b486b8f96b8 )
+)
+
+game (
+	name t7g-ios-ru
+	description "7th Guest, The (Apple iOS/Russian)"
+	year 2010
+	manufacturer "Trilobyte"
+	sourcefile groovie
+	rom ( name 7th_Guest_Dolls_from_Hell_OC_ReMix.mp3 size 3252325 crc 1e100b32 md5 09848aa0be9e0226f148064adb510eaa )
+	rom ( name agu16.m4a size 2002504 crc c6d8f4ae md5 65ff08b79b5464fc03fa31427324fdca )
+	rom ( name agu32.m4a size 1344224 crc bff9d0f9 md5 1bf9ca1b234c4fb06b9c2d7efb5cbcde )
+	rom ( name agu38.m4a size 647056 crc 200359d1 md5 96d121d93d58feacaa08aec7af21e764 )
+	rom ( name agu50.m4a size 1534561 crc ddfb6e44 md5 6244d3e62a470aab17bf0af9fcf28cc3 )
+	rom ( name at.gjd size 46711897 crc 96a70870 md5 0aa2c8ff921a18e725b4b4da08fda2d2 )
+	rom ( name at.grv size 6725 crc 22a90682 md5 1b96fe1e03d1f8014dbfae46d691d02a )
+	rom ( name at.rl size 760 crc e21a0ec2 md5 ba494c61da95275cb79a67f8525555d1 )
+	rom ( name b.gjd size 25672908 crc db895b2b md5 da9e17605e5beb385bc7f573f5e2e53d )
+	rom ( name b.grv size 2388 crc c12b3d63 md5 bde8013625bd18c73f3d8b82291708ec )
+	rom ( name b.rl size 2800 crc b96a38f2 md5 44fabe6563455e70f8aa93d2078f7284 )
+	rom ( name ch.gjd size 17114656 crc 4d247400 md5 0406fba33a6ccab3c5a27fd00c851cc3 )
+	rom ( name ch.grv size 7365 crc 4f03534b md5 9c72fc4fa4d21b7423c275647eda5813 )
+	rom ( name ch.rl size 1620 crc bccde883 md5 c8b3a171c8e78b972fa8b29ce9fdc636 )
+	rom ( name cr.grv size 1654 crc ce255881 md5 06aa5392b0b81de082bcce65ee8b2798 )
+	rom ( name d.gjd size 31643740 crc b40cf55f md5 78e363262acdaab9d2765cf44fe3c33e )
+	rom ( name d.grv size 2100 crc c2db42f9 md5 45986342bd5efb8951a35a5e3d069ac9 )
+	rom ( name d.rl size 7100 crc a85eb861 md5 d4928672f4ab47c8d565be15a7837ff5 )
+	rom ( name demo.grv size 466 crc 8ff49ac3 md5 b59ba1089a518fec63142b7233651b51 )
+	rom ( name dr.gjd size 24032463 crc 2913cb0b md5 4baeafb2d03aacc58c28878cc68d4ddd )
+	rom ( name dr.grv size 5546 crc 9b67e1c2 md5 0851ad80c1b734ae90376a3eeb66aeba )
+	rom ( name dr.rl size 2140 crc 1bbde3cb md5 f8c0878ced05009bef60561ab648f0ea )
+	rom ( name ek.grv size 3169 crc 1438337b md5 14c05d8ed81ea6a8516decd828ec1bee )
+	rom ( name f.grv size 1349 crc f89e22a1 md5 83bc5d0956a87b20ba802fd445c0341d )
+	rom ( name fh.gjd size 95374101 crc 5735be65 md5 6b1cb67f2fc8e2a4204226c33e5c9aab )
+	rom ( name fh.rl size 3960 crc 1a48215c md5 a5c8f064fd8c04fe4836aeb2a6b5941b )
+	rom ( name foyer.m4a size 1407739 crc 3912eeb3 md5 bf736e985ed97c2704a896e325111ddc )
+	rom ( name ga.gjd size 27003300 crc bf924d89 md5 16153e95fcc9d3a056bf1c81783f5dd0 )
+	rom ( name ga.grv size 2442 crc 465dc0f6 md5 c796d39a6897fb73ed10261897a78fab )
+	rom ( name ga.rl size 2860 crc 6b3b9ee4 md5 717e9c99ff491beabb173302384e42d8 )
+	rom ( name gamwav.gjd size 13327129 crc ebd13919 md5 893f1e866f94f58491ae0e4c44efe067 )
+	rom ( name gamwav.rl size 3700 crc b1f63f66 md5 5afbeeee8980ba81efd089bc0e2d2510 )
+	rom ( name grate.grv size 1086 crc 1e4f397a md5 c049041f30c6f8be6f691803879d006c )
+	rom ( name gu11a.m4a size 208752 crc 20af0408 md5 80cf003053969cf81988d5563143ae46 )
+	rom ( name gu11b.m4a size 209040 crc 75d9ec41 md5 16bee0ddf1f0ee7433b61e212b296694 )
+	rom ( name gu12.m4a size 944649 crc c12e997d md5 28e0b65e6534e9f0577b7e062e71f1cc )
+	rom ( name gu15.m4a size 1668680 crc 58789a5b md5 88b5c1fc379cdd1481c5d6a03dd07a3b )
+	rom ( name gu16.m4a size 2051214 crc d733ce44 md5 682efdfd0ef58a514670a863d1849306 )
+	rom ( name gu16b.m4a size 845383 crc d0d6d44c md5 8a1436d05f3005c76ecfe37550541544 )
+	rom ( name gu17.m4a size 855995 crc 0a0af1e2 md5 de3aa77e77d52bb149153896229e0a50 )
+	rom ( name gu18.m4a size 98999 crc 232687c5 md5 089e0f7eee1efe6e7504e0c64fbad0d8 )
+	rom ( name gu19.m4a size 550190 crc a99af79a md5 adfb9eccb3fee84bbcd1ff420d95736d )
+	rom ( name gu20.m4a size 107137 crc 3dbbcec3 md5 e86b17e1d55ac4c930172287153999ad )
+	rom ( name gu21.m4a size 500372 crc 6e09c68b md5 086175636759e46114ebd03391ca4a96 )
+	rom ( name gu22.m4a size 317716 crc a6eb2baa md5 8cd86eef22c685cb67a890b3a7441dfc )
+	rom ( name gu23.m4a size 1458278 crc d8022c9c md5 d0e3134c5de2c73e1934572569e0ebd8 )
+	rom ( name gu24.m4a size 189886 crc e22380a3 md5 673486e1d052398b6e0453390ba9f5cb )
+	rom ( name gu25.m4a size 358250 crc 92181ac9 md5 0f4b1571a30b13545d938f0c72e56333 )
+	rom ( name gu26.m4a size 311586 crc af62ff8a md5 8fe06fb842f3dd79033b1f014e3f921e )
+	rom ( name gu27.m4a size 73286 crc 4364ccdb md5 f24923d547d6bae1f3b1838c30b09e86 )
+	rom ( name gu28.m4a size 486539 crc 5389fad4 md5 ecca8600be91fe40dcbe8f56a38c87f8 )
+	rom ( name gu29.m4a size 192316 crc a8d8517d md5 15b265d581900f88cd10738d4787a8ee )
+	rom ( name gu30.m4a size 712462 crc bb448a41 md5 e53428c15521766b7e31a472e1e9b3c6 )
+	rom ( name gu31.m4a size 727329 crc 0dd11bcc md5 aa48ff317437cd91296abf19d6f0ba6a )
+	rom ( name gu32.m4a size 1340786 crc 83badb9f md5 5dd60a89ccdd73da8cff89eaf47dd7e7 )
+	rom ( name gu33.m4a size 824228 crc ce918307 md5 ade536afd01437aa5b0a28e3892c55ce )
+	rom ( name gu34.m4a size 182871 crc 24b39312 md5 9ece5a2a248bf0b44feda3beaffb33ca )
+	rom ( name gu35.m4a size 232017 crc a069173e md5 b82259eeaa18d2647e234289d9b52597 )
+	rom ( name gu36.m4a size 392918 crc 0664a777 md5 d8d6c868aa8601819ac738ff0279533a )
+	rom ( name gu37.m4a size 397889 crc a07cbc3b md5 1965cc02e950fdc670797504814a3e86 )
+	rom ( name gu38.m4a size 648798 crc 62daa641 md5 c78156b838270af39cb0a24d54c694f2 )
+	rom ( name gu40.m4a size 862660 crc 97116cb9 md5 e56ec35cda47a4e5ca87c916b1db5149 )
+	rom ( name gu41.m4a size 897194 crc e18e7b93 md5 7087d81ed30e5ab5dbb474e13335b36c )
+	rom ( name gu42.m4a size 259214 crc 6a2406af md5 9fb1a2a9bb268960178c1d4ccd1e316b )
+	rom ( name gu43.m4a size 239673 crc b18584de md5 e9827ee82c4a37aa3a1f2260a69271b6 )
+	rom ( name gu44.m4a size 1156859 crc 09089a6f md5 549164ad062e98c9c7a5ad07214b7500 )
+	rom ( name gu45.m4a size 416994 crc a907a8e4 md5 bd03fcf6f871e411e2f7929751cfb1cd )
+	rom ( name gu46.m4a size 571493 crc dc7b3739 md5 a3484e78b2c2cf80a8ad8a97513d47f3 )
+	rom ( name gu47.m4a size 1043144 crc 14fcf9d7 md5 63b8defb411fa47a97810f72d6f31751 )
+	rom ( name gu48.m4a size 404582 crc bd42133e md5 bfdcf7500beac441acc5e54391031a1e )
+	rom ( name gu49.m4a size 870284 crc dae2a39a md5 59636cb2e19962fb2db112c39dc56238 )
+	rom ( name gu5.m4a size 440579 crc d294f994 md5 5ca405ebb7c28a706f3be2ee14bd1ac5 )
+	rom ( name gu50.m4a size 1526494 crc cfe33f61 md5 59b6ffd6820db17c29ed22cc26b6c389 )
+	rom ( name gu51.m4a size 874136 crc 626c6e32 md5 6551ee48f3757f6393a740293afaa105 )
+	rom ( name gu52.m4a size 226434 crc b1ddae7c md5 4a0ed9f5d9585f048c40f8c287055cac )
+	rom ( name gu53.m4a size 706114 crc 3e152d22 md5 12b723f5668caa7e61d61a90fe7b268f )
+	rom ( name gu54.m4a size 250353 crc 33c7c527 md5 13e053d7998b351f32a605eadb68e665 )
+	rom ( name gu55.m4a size 436434 crc e77d9fc2 md5 6c33119a59b810798c534025ef3b1080 )
+	rom ( name gu56.m4a size 1748644 crc d08634a1 md5 94ad9628c29588ebfb399252e4a24cc9 )
+	rom ( name gu58.m4a size 1042549 crc f8ae48ad md5 6aa585c6ac66d8215655c665f05c9e35 )
+	rom ( name gu59.m4a size 235525 crc c05b31ae md5 e4b8cc0ce8b56b02e80b052880d07792 )
+	rom ( name gu60.m4a size 475995 crc d9686d97 md5 a5f5e401389513ae988612d41580f350 )
+	rom ( name gu61.m4a size 1254727 crc 986a6db0 md5 1424981856f5341183526555a441a0a4 )
+	rom ( name gu63.m4a size 3436021 crc 9264eb16 md5 7615e10796ed70626929c4f1f2b6b142 )
+	rom ( name gu67.m4a size 163662 crc 25185129 md5 c383eb4d9959dd88bc7f046ba6e869c5 )
+	rom ( name gu68.m4a size 229869 crc ef23ecf2 md5 dbe8217d8b90f037717d5f3df83845ff )
+	rom ( name gu69.m4a size 179319 crc dddbe419 md5 723270c6bb84f187d76897bfa37c4506 )
+	rom ( name gu70.m4a size 170153 crc 9f5a46dc md5 d6e9e803af5f133ead10654842d16835 )
+	rom ( name gu71.m4a size 1286350 crc 8c9e2c21 md5 8893ede1530703136fd09cd4ed114f2d )
+	rom ( name gu72.m4a size 970761 crc 1183fe76 md5 fe72dbff0d29801f8758ec3b4683a4e4 )
+	rom ( name gu73.m4a size 2174225 crc 9d2a5bd9 md5 5dc0adba33c5536e20cd352d71630c6f )
+	rom ( name gu74.m4a size 77919 crc 7a91796d md5 c2654b18320414ca15742c609ac0a13b )
+	rom ( name gu75.m4a size 1266974 crc 480b8f53 md5 938482df6d4eac3b100c4cd0a954e3b5 )
+	rom ( name gu76.m4a size 574175 crc 4cc4fe16 md5 41fad17bfe4300c5ba6fdeb4773b77c1 )
+	rom ( name gu8.m4a size 854501 crc 738055ca md5 9a1e185ab855aae5818b258dd03bbc53 )
+	rom ( name gu9.m4a size 482674 crc 659960ae md5 2d1c7d688d9ab1071b30fe89c8c08810 )
+	rom ( name h.grv size 3140 crc fd0faee4 md5 a499f1c9ecc6ff2adaaabd58e0a83ea7 )
+	rom ( name hdisk.gjd size 3995565 crc f7521f44 md5 fab0a7b26792a143ee359e9814aa7982 )
+	rom ( name hdisk.rl size 160 crc b5aa532a md5 318c333409efcfeabf365e3390e4dba5 )
+	rom ( name hm.grv size 5153 crc bb51fb22 md5 b7256d46a3deee464a98da3c93c12909 )
+	rom ( name htbd.gjd size 43440570 crc ce437b32 md5 0e39a078f929b29a49b5ca89effc5994 )
+	rom ( name htbd.rl size 3960 crc c857bbfc md5 a2048536cc33153f9b7cc6e7c9b13ed3 )
+	rom ( name intro.gjd size 31711554 crc 0c2a42a4 md5 affc8e9d7dc40dd249486af9a037f0e0 )
+	rom ( name intro.m4a size 1066114 crc 1b0f2984 md5 f0dd9df41e541878c14e2ee38b0b5e96 )
+	rom ( name intro.rl size 1960 crc 21210d5d md5 d81b4936dd1b75d6238d1b2859f8bd59 )
+	rom ( name jh.grv size 3224 crc 6a6e4586 md5 2fe64b1354f5410e08ad42f01840255b )
+	rom ( name jhek.gjd size 45606552 crc 4f06df74 md5 447a258449ace23fe3d7678b38ced1e4 )
+	rom ( name jhek.rl size 4760 crc d187b590 md5 c430f20aaca2f1f1ca319f5984f3d0c8 )
+	rom ( name k.gjd size 43911337 crc 45b8bec4 md5 ec1b110bcdd15113babb95dfd93b4173 )
+	rom ( name k.grv size 1873 crc a46a7b93 md5 fc213e7ab7a1af45583c49346b6b7e25 )
+	rom ( name k.rl size 16360 crc 9dfa7492 md5 33d8c0b4931c7cd035b39b798a2c22b8 )
+	rom ( name la.gjd size 31838508 crc 8dd7f196 md5 e7ff5bb72785068741013d08d5e97aa2 )
+	rom ( name la.grv size 5939 crc 001b7022 md5 a81d3015daa89edb408a288cf3753953 )
+	rom ( name la.rl size 2500 crc dbb0f31d md5 921ca47e4b7519bf854f41aa4ee1e859 )
+	rom ( name li.gjd size 53042592 crc 2ed29559 md5 4e4721e91f157936611fbae1191d33db )
+	rom ( name li.grv size 2168 crc 40e3e777 md5 f10f7ed3f27ecdae73329eb01c471783 )
+	rom ( name li.rl size 2000 crc 6e6cdca7 md5 2b7d2be433d0be167b14d1ee5b4d5fb9 )
+	rom ( name maze.grv size 3652 crc 6fe677da md5 d080b4f498370f97e7419c42058034f7 )
+	rom ( name mb.gjd size 24050176 crc faf2d37b md5 56bc30616a42bf65e4bc37b5ee11c5d8 )
+	rom ( name mb.grv size 3981 crc 6a146367 md5 f95da3d88fde86df5a5fb46d46641b4f )
+	rom ( name mb.rl size 1280 crc bd260290 md5 d5695f911e8cabb35a9b4f907b93d38e )
+	rom ( name mc.gjd size 39003220 crc dc81a130 md5 8145a92baedfbff416defc5954976f18 )
+	rom ( name mc.rl size 2240 crc 2c1b89d4 md5 1aff2338d59f7bb9f99369bb5c396dd5 )
+	rom ( name mu.gjd size 15916542 crc 7a7923c7 md5 cc508d2dba1cb7025fd734388cfec18c )
+	rom ( name mu.grv size 1354 crc c8eb020a md5 080a83407ac10111a52bc80e3a042dd8 )
+	rom ( name mu.rl size 860 crc 00da3bbf md5 5b55979990484b74c2c35bbd579e10fe )
+	rom ( name n.gjd size 28296861 crc c677bbde md5 938611ddbcb2263c19f5277fd6425db5 )
+	rom ( name n.grv size 842 crc 59cec2a6 md5 d1cedd3a901003f201a69197e6d9997f )
+	rom ( name n.rl size 10920 crc 63cbc6e1 md5 3e644f898f72cd9045fba2dd29a76478 )
+	rom ( name p.gjd size 11938171 crc ca7f7eed md5 05783a7ad1a09668c642270952a179c7 )
+	rom ( name p.grv size 1125 crc 73444306 md5 1969728168c9145d22b1a58d337a8f58 )
+	rom ( name p.rl size 880 crc 7aba4019 md5 ae433cf9fc6e05001028d31269f90b08 )
+	rom ( name rob.gjd size 47668 crc 0c3bd017 md5 0de4f4056e2efb81226ef043624067e6 )
+	rom ( name script.grv size 16659 crc 75e333b7 md5 c894260a8ea1074a085ae553987b7b81 )
+	rom ( name SeventhGuest size 209744 crc 5cb269d7 md5 52067439d8dab4bb9b82a1df3926693d )
+	rom ( name sphinx.fnt size 9031 crc b58def22 md5 2bb3c3a32f519237068a07b64d03e3f4 )
+	rom ( name xmi.gjd size 257251 crc 7bbd39a4 md5 566058e3fad1624c306c54f081cbb8fa )
+	rom ( name xmi.rl size 1420 crc d62ea80f md5 bcec2a30ece33bae04402b486b8f96b8 )
+)
+
+game (
+	name t7g-mac
+	description "7th Guest, The (Macintosh)"
+	year 1994
+	manufacturer "Trilobyte"
+	sourcefile groovie
+	romof t7a
+	rom ( name ._T7GMac size 1830912 crc 35889d61 md5 09a7c0d4938f9a416b0b45c1efce392d )
+	rom ( name AT.GJD size 45171574 crc 125816a4 md5 a24e6c5e22cfcf6d7653039e7256012a )
+	rom ( name B.GJD size 25672908 crc db895b2b md5 da9e17605e5beb385bc7f573f5e2e53d )
+	rom ( name CH.GJD size 16889832 crc f00b70f0 md5 9bcddb8e2acb2319584cd9f311342a9b )
+	rom ( name D.GJD size 31565570 crc 5a6a4f49 md5 e8115dcdf7f2f4778042b58f23018511 )
+	rom ( name DR.GJD size 23532001 crc 92e27995 md5 065d9f59999343aceeb30b664be883df )
+	rom ( name FH.GJD size 94315192 crc 4e5147d5 md5 2b3ad973e34cd239dfde309f0c08f847 )
+	rom ( name GA.GJD size 26905546 crc 279f8dbd md5 fb4579f2df810223f095f2a0f4769cf9 )
+	rom ( name GAMWAV.GJD size 10709519 crc 98f4546d md5 bab510145b2ff21f92511ddfb3d9e95f )
+	rom ( name HTBD.GJD size 43211514 crc e034b231 md5 3b6e97b627840966ed9e1d2154da1ede )
+	rom ( name INTRO.GJD size 30611047 crc 37783f93 md5 6e206a6729f63d1e115356a3a6a51618 )
+	rom ( name JHEK.GJD size 45053968 crc 54acb032 md5 57eb8238a21ecce022bf4e8f77015296 )
+	rom ( name K.GJD size 41165447 crc 2a329e0f md5 2ccc281078fdc95905700c1b7310ae2a )
+	rom ( name LA.GJD size 31590902 crc caba0773 md5 ba35bbf44931282118bd2a60b4aa1344 )
+	rom ( name LI.GJD size 51284217 crc 0c309dec md5 bfeb51c7cb9931022106dde73ce0cfd4 )
+	rom ( name MB.GJD size 28133514 crc fd30e0ee md5 a2857ba5e7e2e1b0bbe8a2cc1861597a )
+	rom ( name MC.GJD size 38925255 crc 91fd1b64 md5 f148c137f93bf196cce3e2f3fcb97695 )
+	rom ( name MU.GJD size 16087706 crc 21d587b3 md5 dde296b65a6599d7fba1a43688b70adc )
+	rom ( name N.GJD size 45452282 crc 01108e16 md5 76a141f08b2dd5aab3c42c566fb62848 )
+	rom ( name P.GJD size 11897552 crc d0c6d04e md5 4a7372bf105ae2d3542c529931871383 )
+	rom ( name T7GData size 4202291 crc 3caf4c1d md5 74f2ed259a6a2c9a5a4a0a98f4251a81 )
+	rom ( name T7GMac size 0 crc 00000000 )
 )
 
 game (
@@ -606,13 +908,26 @@ game (
 
 resource (
 	name 11res
-	description "ZZZ - 11th Hour, The: The sequel to The 7th Guest Resources"
+	description "ZZZ - The 11th Hour Resources[!]"
 	year 1995
 	manufacturer "Trilobyte"
 	sourcefile groovie
-	rom ( name MEDIA\DVMOD5A.GJD size 63819750 crc d937bb76 md5 d1b34c02119e77d525533eb27cd77fee )
-	rom ( name MEDIA\DVMOD5B.GJD size 57058166 crc 3ab5e9ff md5 0900225cfc67ea8c815fa4d40d1d3c38 )
-	rom ( name MEDIA\DVMOD5C.GJD size 54605691 crc 143face9 md5 5805c012adffe7e041985020f57b6531 )
+	rom ( name DISK.1 size 227 crc dd0398ea md5 5c0428cd3659fc7bbcd0aa16485ed5da )
+	rom ( name DISK.2 size 227 crc 65fa9250 md5 6ec0c81e34c65ba46704e05cd92d6af9 )
+	rom ( name DISK.3 size 227 crc bb7d69f9 md5 d3eee4e8236cf9534ead891ff7fab4fc )
+	rom ( name DISK.4 size 227 crc cf798165 md5 9abc0cec43ee26ea0329840eef558cfb )
+	rom ( name GROOVIE\GJD.GJD size 716 crc 319af8f5 md5 b1e0b617638b2e2464f5ff3787179e97 )
+	rom ( name GROOVIE\TRAILER.GRV size 6 crc c2c0231b md5 a7c8bdc4e8bff621f4f50928a95eaaba )
+	rom ( name ICONS.PH size 203676 crc 17e96d39 md5 0b2477d8dbd321185e166e91e9b03313 )
+	rom ( name MEDIA\ATPUZ.GJD size 39065474 crc cfd81f38 md5 9d95b1a9b7735cc9239865f87b3dbdd0 )
+	rom ( name MEDIA\BAPUZ.GJD size 2854016 crc f601cce4 md5 8259cb9569eb133870ea88f53adf9d94 )
+	rom ( name MEDIA\BDPUZ.GJD size 6197983 crc 841dc913 md5 52e17d0cd8b6d657b9639471c472ab50 )
+	rom ( name MEDIA\BIG_OL.ROL size 11646976 crc cdc91e94 md5 f7145a61d639989fbebd672d1aef1dd3 )
+	rom ( name MEDIA\CHPUZ.GJD size 357442 crc efebedb6 md5 989ec4e6e6ce9d567ea606a353821e54 )
+	rom ( name MEDIA\COMMON4.GJD size 24754158 crc de6e2316 md5 9054d4abbc881fedaabbb1926ec3eb54 )
+	rom ( name MEDIA\CREDITS.GJD size 1582254 crc 41978f11 md5 4e72e06a95460e563b63b56f3a72a726 )
+	rom ( name MEDIA\DOPUZ.GJD size 3235795 crc 338f6130 md5 c93abb25dbce205c15222e278f788d06 )
+	rom ( name MEDIA\DRPUZ.GJD size 15913398 crc bf3c0e1d md5 5c390db3a3a2f8c8aca4498a8f2b2977 )
 	rom ( name MEDIA\FHPUZ.GJD size 7570927 crc 360c8fb2 md5 b6a57cfb3837825b6b821187a5381fe9 )
 	rom ( name MEDIA\FINAL_HR.ROL size 26360598 crc fc198ccf md5 23ca3d658449a3bd1f43cd7cdfe01730 )
 	rom ( name MEDIA\FRONT_OF.ROL size 2271274 crc abbfbbe1 md5 7fb84af0be44965ecc2b77ae39b5439e )
@@ -629,14 +944,8 @@ resource (
 	rom ( name MEDIA\MBPUZ.GJD size 1158041 crc 461c930b md5 66f99db64765d37d4cc71f76579061f7 )
 	rom ( name MEDIA\MRDEATH.ROL size 6181746 crc 9d9010d4 md5 147aa0160316c6e5fb412515fab87730 )
 	rom ( name MEDIA\MUPUZ.GJD size 10879786 crc 03a530bc md5 f569e25d160e4495cd0ff5663610099c )
-	rom ( name MEDIA\NAV2.GJD size 28355090 crc 8a6535d9 md5 55531f84364fe5fbccdd0e065538d939 )
 	rom ( name MEDIA\NAV3.GJD size 62783170 crc 7a997baf md5 cd1a30d87d0685bceb2c0471cdca6cf2 )
 	rom ( name MEDIA\NUPUZ.GJD size 9867877 crc 187e87b6 md5 b5f57ecadf2c6108e3538560489bb68d )
-	rom ( name MEDIA\OMOD1.GJD size 8987466 crc 0898f969 md5 b037f3e448f0ec40588fcf07998cb34d )
-	rom ( name MEDIA\OMOD2.GJD size 13807726 crc c0bebc6f md5 86be991c1bbd0fd68ca8be290bc3d16f )
-	rom ( name MEDIA\OMOD3.GJD size 18631094 crc 7108e7be md5 b7806e441d993220e666b5a514e505d1 )
-	rom ( name MEDIA\OMOD4.GJD size 34414155 crc 11d60185 md5 761ab522185e47558a78a3a3ef83debd )
-	rom ( name MEDIA\OMOD5.GJD size 11226290 crc cf08f2f2 md5 74c200965e301bd1beb3caff61726441 )
 	rom ( name MEDIA\PGPUZ.GJD size 995458 crc 8853f560 md5 a0224283560a4e16e00acfc3d753068a )
 	rom ( name MEDIA\RTPUZ.GJD size 14433730 crc 25e33897 md5 b58742890dfaa4678ceabc4f57608774 )
 	rom ( name MEDIA\TH_MUSIC.GJD size 401798 crc d263d952 md5 0fbe3c6d704def5629a82ec35536b5f0 )
@@ -646,16 +955,16 @@ resource (
 	rom ( name MEDIA\ZMAKD1.GJD size 63551523 crc 87abc6b9 md5 b2b9dd4cff68367a2b97863709918e60 )
 	rom ( name MEDIA\ZMAKD2A.GJD size 104125523 crc ecccbb82 md5 710be0aef557d8a3361ca1fa08a0c55d )
 	rom ( name MEDIA\ZMAKD2B.GJD size 72088094 crc dd966766 md5 dc5281cc0177049a84e802e6dd396063 )
-	rom ( name TBYTE11H size 0 crc 00000000 )
 )
 
 resource (
 	name t7a
-	description "ZZZ - 7th Guest, The Audio [!]"
+	description "ZZZ - The 7th Guest Audio[!]"
 	year 1993
 	manufacturer "Trilobyte"
 	sourcefile groovie
-	rom ( name TRACK01.OGG size 34894236 crc f0ecf29a md5 84c4a66c5e0ead64df84020357c5f983 )
+	rom ( name track1.ogg size 745582 crc 6bdef426 md5 0a687a8b0ac69c75fca81a5f93cccc58 )
+	rom ( name track2.ogg size 18458626 crc 19017c47 md5 c63de4441da8b8df8f619ac3d000f11d )
 )
 
 resource (

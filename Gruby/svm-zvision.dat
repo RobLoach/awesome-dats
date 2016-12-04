@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name zgi-demo-win
-	description "Zork: Grand Inquisitor (Demo/Windows)"
+	description "Zork: Grand Inquisitor {Demo}(Windows)"
 	year 1997
 	manufacturer "Activision"
 	sourcefile zvision
@@ -24323,7 +24323,7 @@ game (
 
 game (
 	name znemesis-demo-win
-	description "Zork Nemesis: The Forbidden Lands (Demo/Windowsh)"
+	description "Zork Nemesis: The Forbidden Lands {Demo}(Windowsh)"
 	year 1996
 	manufacturer "Activision"
 	sourcefile zvision

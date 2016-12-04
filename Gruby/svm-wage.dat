@@ -1,0 +1,1220 @@
+clrmamepro (
+	name "ScummVM WAGE"
+	description "ScummVM - WAGE Engine Games"
+	category "ScummVM"
+	version v1.08
+	date 2016-09-29
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name 3rdfloor
+	description "3rd Floor (Macintosh)"
+	year 1987
+	manufacturer "J. Olson"
+	sourcefile wage
+	rom ( name "._3rd Floor" size 285319 crc d703a54f md5 ffd69b567bbda9018340d84343135a7e )
+	rom ( name "3rd Floor" size 0 crc 00000000 )
+)
+
+game (
+	name 3rdfloor-1
+	description "3rd Floor (Macintosh)[a]"
+	year 1987
+	manufacturer "J. Olson"
+	sourcefile wage
+	rom ( name "._3rd Floor" size 284915 crc cddfe821 md5 3e2e6b00ab4b37721e2d799838a1249d )
+	rom ( name "3rd Floor" size 0 crc 00000000 )
+)
+
+game (
+	name afm
+	description "Another Fine Mess (Macintosh/v1.8)"
+	year 1992
+	manufacturer "Ray Dunakin"
+	sourcefile wage
+	rom ( name "._AFM SOUNDS" size 744193 crc 7fc09f57 md5 8c873c42ce73d943ec09cc1bbd0cbf2f )
+	rom ( name "._Another Fine Mess 1.8" size 1456379 crc 19136d3d md5 556956ece1b376e0fb0bec3fe0972f9c )
+	rom ( name "AFM SOUNDS" size 0 crc 00000000 )
+	rom ( name "Another Fine Mess 1.8" size 0 crc 00000000 )
+)
+
+game (
+	name amot
+	description "A Mess O' Trouble (Macintosh/v1.8)"
+	year 1994
+	manufacturer "Ray Dunakin"
+	sourcefile wage
+	rom ( name "._A Mess O' Trouble 1.8" size 1895841 crc 1731c603 md5 4524ff8cfd0ad981e6b32b863ff0c298 )
+	rom ( name "._MT SOUNDS" size 679805 crc d14107c6 md5 0f6bc50fd38d64bbf7e324c2a25d3112 )
+	rom ( name "A Mess O' Trouble 1.8" size 0 crc 00000000 )
+	rom ( name "MT SOUNDS" size 0 crc 00000000 )
+)
+
+game (
+	name browniesdream
+	description "Brownie's Dream (Macintosh)"
+	year 1998
+	manufacturer "HyperWeasel"
+	sourcefile wage
+	rom ( name "Brownie's Dream" size 446464 crc a600a8f9 md5 0a72d7913a3bbfa9af6c7f7bc8e6305c )
+)
+
+game (
+	name browniestimetravels
+	description "Brownie's Time Travels (Macintosh)"
+	year 1998
+	manufacturer "HyperWeasel"
+	sourcefile wage
+	rom ( name "Brownie's Time Travels v1.2" size 477824 crc 68960859 md5 a39e257203f0f539680a29f0634f1266 )
+)
+
+game (
+	name bughunt
+	description "Bug Hunt (Macintosh)"
+	year 1987
+	manufacturer "Richard E. Rae"
+	sourcefile wage
+	rom ( name "._Bug Hunt" size 200365 crc 165a1504 md5 e30a2cb496ee29f2dc8808fabc333381 )
+	rom ( name "._Bug Hunt Library" size 517042 crc bb60d9ef md5 8e9f9cd832f0d13d755634bcdef18788 )
+	rom ( name "Bug Hunt" size 0 crc 00000000 )
+	rom ( name "Bug Hunt Library" size 0 crc 00000000 )
+)
+
+game (
+	name bughunt-1
+	description "Bug Hunt (Macintosh)[a]"
+	year 1987
+	manufacturer "Richard E. Rae"
+	sourcefile wage
+	rom ( name "._Bug Hunt" size 200704 crc 15c344b4 md5 e9cfde14c26a9798e99840482e9d1597 )
+	rom ( name "._Bug Hunt Library" size 520192 crc aa76fb69 md5 ae00ff2705804922c305e344a3dc230f )
+	rom ( name "Bug Hunt" size 0 crc 00000000 )
+	rom ( name "Bug Hunt Library" size 0 crc 00000000 )
+)
+
+game (
+	name canaldistrict
+	description "Canal District (Macintosh)"
+	year 2001
+	manufacturer "Louise Hope"
+	sourcefile wage
+	rom ( name "._Canal District" size 658024 crc b37f0728 md5 f21fd69f8e2d27c06aa7c1291a5ce3e5 )
+	rom ( name "._Canal Sounds" size 303779 crc 4ee496c6 md5 f06c7c3f3a4b2ba300db2c2e708f5ede )
+	rom ( name "Canal District" size 0 crc 00000000 )
+	rom ( name "Canal Sounds" size 0 crc 00000000 )
+)
+
+game (
+	name cantitoe
+	description "Camp Cantitoe (Macintosh)"
+	year 1990
+	manufacturer "Devin Garrity"
+	sourcefile wage
+	rom ( name "._Camp Cantitoe" size 621354 crc 34d32278 md5 7cc4d89dd0273623847153757747cc31 )
+	rom ( name "Camp Cantitoe" size 0 crc 00000000 )
+)
+
+game (
+	name carboncopy
+	description "Carbon Copy (Macintosh)"
+	year 19xx
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Carbon Copy" size 528081 crc a7990e8b md5 bd82054c2c3e4d245f3d8f0881295501 )
+	rom ( name "Carbon Copy" size 0 crc 00000000 )
+)
+
+game (
+	name castleofert
+	description "Castle of Ert (Macintosh)[a]"
+	year 19xx
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Castle of Ert.1" size 208896 crc 41655bb4 md5 a0c0028833f943b5f24b97d5a5128675 )
+	rom ( name "Castle of Ert.1" size 0 crc 00000000 )
+)
+
+game (
+	name castleofert-1
+	description "Castle of Ert (Macintosh)"
+	year 19xx
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Castle of Ert" size 208896 crc 0cf06369 md5 99451cbca4a2b5e2f8e5b2097a1a7f1c )
+	rom ( name "Castle of Ert" size 0 crc 00000000 )
+)
+
+game (
+	name deathmall-demo
+	description "Death Mall {Demo}(Macintosh)"
+	year 1987
+	manufacturer "Clockwork Universe"
+	sourcefile wage
+	rom ( name "._Death Mall Demo" size 258151 crc a3bcd5c0 md5 80cee36f9ccddd547c5ff6003e0a3aa7 )
+	rom ( name "Death Mall Demo" size 0 crc 00000000 )
+)
+
+game (
+	name deepangst
+	description "Deep Angst (Macintosh)"
+	year 1987
+	manufacturer "Ronald Wartow"
+	sourcefile wage
+	rom ( name "._Deep Angst" size 335872 crc afbfd87d md5 328844b680802eb9cbe8ce7b6ee6d83d )
+	rom ( name "Deep Angst" size 0 crc 00000000 )
+)
+
+game (
+	name deepennui
+	description "Deep Ennui (Macintosh)"
+	year 1987
+	manufacturer "Ron Wartow"
+	sourcefile wage
+	rom ( name "Deep Ennui" size 87680 crc 893f070d md5 03a9768fe275b50fb3648b9df7329f66 )
+)
+
+game (
+	name doubletrouble
+	description "Double Trouble (Macintosh)"
+	year 2001
+	manufacturer "Louise Hope"
+	sourcefile wage
+	rom ( name "._Double Trouble" size 557074 crc 69547c51 md5 b31da6278ee50f856a55e2ca01ccca9c )
+	rom ( name "._DT Sounds" size 262875 crc ff7b6886 md5 025d02bb65a0769a4c1c41d10745ddec )
+	rom ( name "Double Trouble" size 0 crc 00000000 )
+	rom ( name "DT Sounds" size 0 crc 00000000 )
+)
+
+game (
+	name drakmythcastle
+	description "Drakmyth Castle (Macintosh/disk I)"
+	year 1991
+	manufacturer "James C. Gehrig & Virginia Batcheff"
+	sourcefile wage
+	rom ( name "._Drakmyth Castle disk I of II" size 798720 crc c7b9d9de md5 e6ab2a6b9ffe94d85830a33604a9fd0b )
+	rom ( name "Drakmyth Castle disk I of II" size 0 crc 00000000 )
+)
+
+game (
+	name drakmythcastle-1
+	description "Drakmyth Castle (Macintosh/disk II)"
+	year 1991
+	manufacturer "James C. Gehrig & Virginia Batcheff"
+	sourcefile wage
+	rom ( name "._Drakmyth Castle II" size 1695744 crc a3f037ce md5 fa9d175b596c2c3ef12c41ef29ddf7a1 )
+	rom ( name "Drakmyth Castle II" size 0 crc 00000000 )
+)
+
+game (
+	name duneeternity
+	description "Dune Eternity (Macintosh)"
+	year 199x
+	manufacturer "Josh Phillips"
+	sourcefile wage
+	rom ( name "._Dune Eternity" size 292940 crc 3260402d md5 81e81fdadf45b244b631ff9a833d1e5c )
+	rom ( name "._Dune Library" size 674083 crc 29973042 md5 b2ec6604f1ccda340829d2edac2532c2 )
+	rom ( name "Dune Eternity" size 0 crc 00000000 )
+	rom ( name "Dune Library" size 0 crc 00000000 )
+)
+
+game (
+	name dungeonworldii
+	description "Dungeon World II (Macintosh)"
+	year 1987
+	manufacturer "Jeff Derstadt"
+	sourcefile wage
+	rom ( name ._DungeonWorld2 size 237568 crc e5f1d897 md5 91b89b336a6e0c3e7a30ed3335df7c16 )
+	rom ( name DungeonWorld2 size 0 crc 00000000 )
+)
+
+game (
+	name dynastyofdar
+	description "Dynasty of Dar (Macintosh)"
+	year 19xx
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Dynasty of Dar" size 282624 crc 4f34cd7c md5 6be6a7db7f717829c0dc7f3d32c6f8bf )
+	rom ( name "Dynasty of Dar" size 0 crc 00000000 )
+)
+
+game (
+	name edgsworld
+	description "Edg's World (Macintosh)"
+	year 19xx
+	manufacturer "Edg Duveyoung"
+	sourcefile wage
+	rom ( name "._Edg's World" size 114688 crc 3c74cf18 md5 1fad6a23467d4ccecca32f16b31bc7e6 )
+	rom ( name "Edg's World" size 0 crc 00000000 )
+)
+
+game (
+	name eidisii
+	description "Eidisi I (Macintosh)"
+	year 1987
+	manufacturer "Det Connor"
+	sourcefile wage
+	rom ( name "._Eidisi I" size 180818 crc cf0f45c0 md5 23f975c99d3fc85506b1f9b77a405d27 )
+	rom ( name "Eidisi I" size 0 crc 00000000 )
+)
+
+game (
+	name eidisii-1
+	description "Eidisi I (Macintosh)[a]"
+	year 1987
+	manufacturer "Det Connor"
+	sourcefile wage
+	rom ( name "._Eidisi I" size 180414 crc 38222659 md5 e74a2fc367f6c800c2f08da7d0fb587a )
+	rom ( name "Eidisi I" size 0 crc 00000000 )
+)
+
+game (
+	name enchantedpencils
+	description "Enchanted Pencils (Macintosh)"
+	year 1990
+	manufacturer "Andy Backer"
+	sourcefile wage
+	rom ( name "Enchanted Pencils 0.99 (PG)" size 414464 crc 3a57de5e md5 0095d0e069851521c44ca3cdc94bcba3 )
+)
+
+game (
+	name escape
+	description "Escape! (Macintosh)"
+	year 1988
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Escape Docs" size 860 crc ccc6f03f md5 81a034ca884bb9454580c6ebfcadce76 )
+	rom ( name ._Escape! size 67151 crc 8c2d94bc md5 4693da06dae31b63ef6629d7ecd2840f )
+	rom ( name "Escape Docs" size 3542 crc 6373742f md5 2ef8588078ab7cad2d2810d998296a53 )
+	rom ( name Escape! size 0 crc 00000000 )
+)
+
+game (
+	name escapefromschool
+	description "Escape from School! (Macintosh)"
+	year 1986
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Escape from School!" size 51745 crc 68e1c233 md5 dc7e544b5e6818c33dee09ea3c06d0f6 )
+	rom ( name "Escape from School!" size 0 crc 00000000 )
+)
+
+game (
+	name escapefromschool-1
+	description "Escape from School! (Macintosh)[a]"
+	year 1986
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Escape from School!" size 51771 crc 5b1fbde5 md5 33945e33a2d5670a2b7fb50a6409f2f8 )
+	rom ( name "Escape from School!" size 0 crc 00000000 )
+)
+
+game (
+	name everyman1
+	description "Everyman 1 (Macintosh)"
+	year 1988
+	manufacturer "Jeff Wheeler"
+	sourcefile wage
+	rom ( name "._EveryMan 1" size 340521 crc 87599121 md5 c0508e18f31b28517705510db5dcc83d )
+	rom ( name "EveryMan 1" size 0 crc 00000000 )
+)
+
+game (
+	name explorationzeta
+	description "Exploration Zeta! (Macintosh)"
+	year 1996
+	manufacturer "Charles King"
+	sourcefile wage
+	rom ( name "(D)read Me" size 3072 crc 357613d6 md5 52df3c1c9db7f8cdcf99b37590a1f85c )
+	rom ( name "Exploration Zeta!" size 370944 crc 27f2e10f md5 76e78b6f387b69d7e756fc95d8fc2d43 )
+)
+
+game (
+	name explorer-demo
+	description "Explorer {Demo}(Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Explorer DEMO" size 466461 crc a574f4b3 md5 db9749d96ac799cfd4b5b99482023c1a )
+	rom ( name ._Sounds size 316385 crc 9e9323da md5 5eaee2299fc43c49176f101b35ebae7e )
+	rom ( name "Explorer DEMO" size 0 crc 00000000 )
+	rom ( name Sounds size 0 crc 00000000 )
+)
+
+game (
+	name fantasyquest
+	description "Fantasy Quest (Macintosh)"
+	year 1990
+	manufacturer "Thomas Keith Stone"
+	sourcefile wage
+	rom ( name "._Fant Quest Sounds" size 418118 crc 2a96da10 md5 7c3e389ab271159d64c6d1d7d50a2d91 )
+	rom ( name "._Fantasy Quest" size 783180 crc c868d64c md5 44e8c65795129ef7ebdc0d21354513b7 )
+	rom ( name "Fant Quest Sounds" size 0 crc 00000000 )
+	rom ( name "Fantasy Quest" size 0 crc 00000000 )
+	rom ( name wage.dat size 243636 crc 04aec3e8 md5 ec879db4ee6ad0b7ae0015a242895c71 )
+)
+
+game (
+	name findtheheart
+	description "Find the Heart (Macintosh)[From Joshua's Worlds 1.0]"
+	year 1990
+	manufacturer "Joshua Chapman"
+	sourcefile wage
+	rom ( name "._Find the Heart" size 108799 crc 53275731 md5 be3d340933b35f336872a8e3510d6476 )
+	rom ( name "Find the Heart" size 0 crc 00000000 )
+)
+
+game (
+	name findtheheart-1
+	description "Find the Heart (Macintosh)[Standalone]"
+	year 1990
+	manufacturer "Joshua Chapman"
+	sourcefile wage
+	rom ( name "._Find the heart" size 108329 crc f0b7bfb4 md5 674123f8df6682cf2c01bd012abd9d3f )
+	rom ( name "Find the heart" size 0 crc 00000000 )
+)
+
+game (
+	name findtheheart-2
+	description "Find the Heart (Macintosh)[a]"
+	year 1990
+	manufacturer "Joshua Chapman"
+	sourcefile wage
+	rom ( name "._Find the heart" size 108355 crc c4db0903 md5 bee9892f5e5ef04f757fe8c0487ce7e5 )
+	rom ( name "Find the heart" size 0 crc 00000000 )
+)
+
+game (
+	name fortuneteller
+	description "Fortune Teller (Macintosh)"
+	year 1991
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "Fortune Teller 1.1" size 75392 crc 43df3c82 md5 d7285204cb29fb6e6d29ddaf681f7254 )
+	rom ( name "Read Me" size 1280 crc 4464f4ca md5 69753604430f7a23bf0c2226255f9a20 )
+)
+
+game (
+	name hauntedhouse
+	description "Haunted House (Macintosh)"
+	year 1989
+	manufacturer "John Wedoff"
+	sourcefile wage
+	rom ( name "._Haunted House 1.5" size 181182 crc d5ed7841 md5 899b325957e79e259504b71fd49ffbfa )
+	rom ( name "Haunted House 1.5" size 0 crc 00000000 )
+)
+
+game (
+	name introtogothic
+	description "Intro to Gothic (Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Intro to Gothic" size 212283 crc 61b16379 md5 f163818c416e61945984e6d94654dd29 )
+	rom ( name "Intro to Gothic" size 0 crc 00000000 )
+)
+
+game (
+	name jamiethedemonslayer
+	description "Jamie the Demon Slayer (Macintosh)"
+	year 1998
+	manufacturer "HyperWeasel"
+	sourcefile wage
+	rom ( name "Jamie the Demon Slayer" size 236544 crc 26c31c48 md5 b907d85c51118f8a9f7b07a8abd24be6 )
+	rom ( name ReadMe size 2048 crc 8c1b5046 md5 2ac22f31abc4071936ba6f22ef9ddbba )
+)
+
+game (
+	name journeymac
+	description "Journey, The (Macintosh)"
+	year 1996
+	manufacturer "Gokhan Ozar"
+	sourcefile wage
+	rom ( name "._The Journey 1.6.2 US" size 832329 crc 15c87c3b md5 01c03ba65eadfa676f1f79f14783917a )
+	rom ( name "The Journey 1.6.2 US" size 0 crc 00000000 )
+)
+
+game (
+	name jumble
+	description "Jumble (Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name ._LSJUMBLE size 671744 crc af3ad4ad md5 665e012faccc47bd52d7df2d6cfb7c94 )
+	rom ( name "._LSJUMBLE Sounds" size 479232 crc 40db68c4 md5 d7b71ea7ebc0d76bea0dfb3723bebac2 )
+	rom ( name LSJUMBLE size 0 crc 00000000 )
+	rom ( name "LSJUMBLE Sounds" size 0 crc 00000000 )
+)
+
+game (
+	name karthofthejungle
+	description "Karth of the Jungle (Macintosh)"
+	year 1989
+	manufacturer "Erik R. Batzloff"
+	sourcefile wage
+	rom ( name "._Karth of the Jungle" size 99700 crc 7028617a md5 f3a25bdc9c25ab76470b98b596a77156 )
+	rom ( name "._Karth Sounds" size 186019 crc 560886c1 md5 a2d050b904db864236fa48249fc1ae5e )
+	rom ( name "Karth of the Jungle" size 0 crc 00000000 )
+	rom ( name "Karth Sounds" size 0 crc 00000000 )
+)
+
+game (
+	name karthofthejungle-1
+	description "Karth of the Jungle (Macintosh)[a]"
+	year 1989
+	manufacturer "Erik R. Batzloff"
+	sourcefile wage
+	rom ( name "._Karth of the Jungle" size 99365 crc fecb5295 md5 b5082becdc8537afd6a23f89700deced )
+	rom ( name "._Karth Sounds" size 186019 crc 3fbd3769 md5 44cc01d12162d772e9bab1890cb95ee9 )
+	rom ( name "._Karth Text" size 911 crc 4f9c0a16 md5 abd93125e9a6a332a1a4ec910a7551ea )
+	rom ( name "Karth of the Jungle" size 0 crc 00000000 )
+	rom ( name "Karth Sounds" size 0 crc 00000000 )
+	rom ( name "Karth Text" size 26014 crc 0c39d818 md5 c200dc9261d36dbe3fb89d8b1ce06d1b )
+)
+
+game (
+	name karthofthejungleii
+	description "Karth of the Jungle II (Macintosh)"
+	year 1989
+	manufacturer "Erik R. Batzloff"
+	sourcefile wage
+	rom ( name "._Karth of the Jungle II" size 204480 crc 39209dcb md5 bd9ae7ae1572985ae51d7576060cd2ef )
+	rom ( name "._Karth Sounds II" size 122130 crc 5abad1ac md5 156ebf8412173075bddaf9e99fa78316 )
+	rom ( name "Karth of the Jungle II" size 0 crc 00000000 )
+	rom ( name "Karth Sounds II" size 0 crc 00000000 )
+)
+
+game (
+	name littlepythagoras
+	description "Little Pythagoras (Macintosh)"
+	year 1987
+	manufacturer "Kenneth Moodie"
+	sourcefile wage
+	rom ( name "._Little Pythagoras 1.1.1" size 634880 crc a57ffbb1 md5 bd45de774335a3f11b5c25dc15110f42 )
+	rom ( name "Little Pythagoras 1.1.1" size 0 crc 00000000 )
+)
+
+game (
+	name lostcrystal
+	description "Lost Crystal (Macintosh)"
+	year 1994
+	manufacturer "Sylvain Beaudry"
+	sourcefile wage
+	rom ( name "._LC Sounds 1" size 785940 crc 35f54424 md5 d99b42cfc6820d4dfaf8c34dc9117dc0 )
+	rom ( name "._LC Sounds 2" size 781137 crc 0d16fb3a md5 c878971b812f070aa23ffa872144f804 )
+	rom ( name "._Lost Crystal" size 791891 crc f29dd1f1 md5 0f62cbb7575b4f44285eefa2823030c9 )
+	rom ( name "LC Sounds 1" size 0 crc 00000000 )
+	rom ( name "LC Sounds 2" size 0 crc 00000000 )
+	rom ( name "Lost Crystal" size 0 crc 00000000 )
+)
+
+game (
+	name lostinkookyville
+	description "Lost in Kookyville (Macintosh)"
+	year 1997
+	manufacturer "Green Mountain Software"
+	sourcefile wage
+	rom ( name "Kookyville sounds" size 743168 crc 892992eb md5 1ca30a0e01797b3dcb3628c6ec71b9ef )
+	rom ( name "LIK Read Me 1.2.3" size 251520 crc 67400058 md5 ea2fde1b12cc7a4f4639e374c210d1eb )
+	rom ( name "LIK Registration" size 114560 crc bb360eee md5 9610555cf0209259ee4d42be67670ebc )
+	rom ( name "LIK version history" size 2688 crc d3f8385c md5 070eba76773413aac8b99c1a8b7d6e71 )
+	rom ( name "Lost In Kookyville 1.2.4" size 744064 crc afec7ff5 md5 f99eb064a5655257fda6927ae147533d )
+)
+
+game (
+	name magicrings
+	description "Magic Rings (Macintosh)"
+	year 1986
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Magic Rings" size 111843 crc 0c62f4ff md5 3a42991cb09f84c51a45f24eb10ef950 )
+	rom ( name "Magic Rings" size 0 crc 00000000 )
+)
+
+game (
+	name messyhouse
+	description "Messy House (Macintosh)"
+	year 1992
+	manufacturer "Kathryn Steinart"
+	sourcefile wage
+	rom ( name "._Messy House" size 183957 crc 6511ba3e md5 2568931f0212b5a300a432df1affa210 )
+	rom ( name "Messy House" size 0 crc 00000000 )
+)
+
+game (
+	name messyhouse-1
+	description "Messy House (Macintosh)[a]"
+	year 1992
+	manufacturer "Kathryn Steinart"
+	sourcefile wage
+	rom ( name "._Messy House" size 183957 crc 4961ce3f md5 43f194f9670855d347b50e7186c557a0 )
+	rom ( name "Messy House" size 0 crc 00000000 )
+)
+
+game (
+	name midnightsnack
+	description "Midnight Snack (Macintosh)"
+	year 1986
+	manufacturer "Andy Backer"
+	sourcefile wage
+	rom ( name "._Midnight Snack" size 69378 crc c486f757 md5 81c9746089f2de477c8321d13ab89676 )
+	rom ( name "Midnight Snack" size 0 crc 00000000 )
+)
+
+game (
+	name midnightsnack-1
+	description "Midnight Snack (Macintosh)[a]"
+	year 1986
+	manufacturer "Andy Backer"
+	sourcefile wage
+	rom ( name "._Midnight Snack" size 69404 crc 27f99ff8 md5 b09441b11cac08fd613595a9eac8a914 )
+	rom ( name "Midnight Snack" size 0 crc 00000000 )
+)
+
+game (
+	name mikeshouse
+	description "Mike's House (Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._About House" size 851 crc d4b817b8 md5 7b2510cdf00b9bfbfd13360f322461a9 )
+	rom ( name "._Mike's House" size 90177 crc 4db475d1 md5 91eb331d20d94ca3408812db5f1150a0 )
+	rom ( name "About House" size 4312 crc 028ed4f3 md5 d03ea4c194399fcfa05706c73b0170d6 )
+	rom ( name "Mike's House" size 0 crc 00000000 )
+)
+
+game (
+	name minitorian
+	description "Minitorian (Macintosh)"
+	year 1988
+	manufacturer "Gregory & Brian Williams"
+	sourcefile wage
+	rom ( name ._Minitorian size 593920 crc 2c147246 md5 59271ad446ee635e3ab92d69f92375f5 )
+	rom ( name Minitorian size 0 crc 00000000 )
+)
+
+game (
+	name mlordswarrior
+	description "M'Lord's Warrior (Macintosh)"
+	year 1989
+	manufacturer "M. B. Armstrong"
+	sourcefile wage
+	rom ( name "._M'Lord's Warrior" size 470425 crc 3a01797d md5 49df579b24e52e17efa3214b7811c93a )
+	rom ( name "M'Lord's Warrior" size 0 crc 00000000 )
+)
+
+game (
+	name mountainofmayhem
+	description "Mountain of Mayhem (Macintosh)"
+	year 1987
+	manufacturer "Curtis Marsden"
+	sourcefile wage
+	rom ( name "._Mountain of Mayhem" size 761856 crc 9cd1d497 md5 a45e0c70babdab99c265ba33fbedca6a )
+	rom ( name "Mountain of Mayhem" size 0 crc 00000000 )
+)
+
+game (
+	name nightcrawlerned
+	description "Nightcrawler Ned (Macintosh)"
+	year 1998
+	manufacturer "HyperWeasel"
+	sourcefile wage
+	rom ( name "Nightcrawler Ned" size 370816 crc 8aa29fdd md5 c539550f914161b434692ca2f2ce6fa9 )
+	rom ( name "Read Me, I COMMAND YOU!!" size 3456 crc 248ea72b md5 96522f46f3a458b9cf227647fb26ab60 )
+)
+
+game (
+	name parrottalk
+	description "Parrot Talk: Part 1 (Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._About Parrot Talk" size 26155 crc a055a267 md5 3f4c3dd0badfc6edde318982dc194e9c )
+	rom ( name "._PARROT TALK V1" size 120268 crc d16542ab md5 7293853488db229020bc2ea3534d8b64 )
+	rom ( name "About Parrot Talk" size 0 crc 00000000 )
+	rom ( name "PARROT TALK V1" size 0 crc 00000000 )
+)
+
+game (
+	name parrottalk-1
+	description "Parrot Talk: Part 2 (Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._About Parrot Talk" size 26155 crc a055a267 md5 3f4c3dd0badfc6edde318982dc194e9c )
+	rom ( name "._PARROT TALKV2" size 120216 crc 20f2aa98 md5 0404f4bc7831daaf36d6af583ff95634 )
+	rom ( name "About Parrot Talk" size 0 crc 00000000 )
+	rom ( name "PARROT TALKV2" size 0 crc 00000000 )
+)
+
+game (
+	name pavilion
+	description "Pavilion (Macintosh)"
+	year 1998
+	manufacturer "Louise Hope"
+	sourcefile wage
+	rom ( name Pavilion size 235264 crc 865d961e md5 0fd71bcccc08e5be5607d4d5f2ab32e6 )
+	rom ( name "Pavilion ReadMe" size 8832 crc e58b879a md5 88a786445c69b8ebe29563b987c137c8 )
+)
+
+game (
+	name pencils
+	description "Pencils (Macintosh)"
+	year 1990
+	manufacturer "Andy Backer"
+	sourcefile wage
+	rom ( name ._Pencils.99 size 413889 crc 961e8d12 md5 b9b278b763d9b0037fa36dbced062394 )
+	rom ( name Pencils.99 size 0 crc 00000000 )
+)
+
+game (
+	name periapt
+	description "Periapt (Macintosh)"
+	year 1987
+	manufacturer "Robert Serocki"
+	sourcefile wage
+	rom ( name ._Periapt size 417792 crc 2264dd5b md5 1d2499ab577cb4cf5eab7e14dc12bb75 )
+	rom ( name Periapt size 0 crc 00000000 )
+)
+
+game (
+	name psychotic
+	description "Psychotic! (Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Big Psychotic Sounds" size 119270 crc 20db7b32 md5 9b887dc5c50c2309358a8b7e05a90991 )
+	rom ( name ._Psychotic! size 378993 crc a2adcd16 md5 092d322cf89fbe9f3e56d0d1c830c3f9 )
+	rom ( name "Big Psychotic Sounds" size 0 crc 00000000 )
+	rom ( name Psychotic! size 0 crc 00000000 )
+	rom ( name Psychotic.TXT size 2879 crc 33e30a24 md5 9748ce0ee44a2664a8320cfd65be1448 )
+	rom ( name StartupScreen size 21888 crc c2e5196f md5 e7c90ec04e9d6f8996e796050e9f5048 )
+)
+
+game (
+	name puzzlepiecesearch
+	description "Puzzle Piece Search, The (Macintosh)[From Joshua's Worlds 1.0]"
+	year 1990
+	manufacturer "Joshua Chapman"
+	sourcefile wage
+	rom ( name "._Puzzle Piece Search" size 252852 crc 98835d9c md5 af179f437adfa8ca80437b3bcf4b5b39 )
+	rom ( name "Puzzle Piece Search" size 0 crc 00000000 )
+)
+
+game (
+	name pwadventure
+	description "P-W Adventure (Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._P-W Adventure" size 221958 crc 843d7d73 md5 ec99a360c08040a96334d8c7b207d2c2 )
+	rom ( name "._P-W Sound Library" size 175909 crc 13a22f98 md5 50812ebbbd83047f0ab22858a721b1d6 )
+	rom ( name "._Read Me" size 971 crc 0e7b4ad7 md5 9aa9128f0bc7c52c41b8bc6759602d77 )
+	rom ( name "P-W Adventure" size 0 crc 00000000 )
+	rom ( name "P-W Sound Library" size 0 crc 00000000 )
+	rom ( name "Read Me" size 1392 crc 57e08d28 md5 c290a7176505e4ee8e7854a779a332cc )
+	rom ( name StartupScreen size 21888 crc 665d1aaa md5 d36394d787c01d5d6fa35ea74e51ca8c )
+)
+
+game (
+	name pyramidofert
+	description "Pyramid of Ert (Macintosh)"
+	year 19xx
+	manufacturer "Bert Fischer"
+	sourcefile wage
+	rom ( name "._Pyramid of Ert V1.2" size 323584 crc 15013864 md5 47e6882f060fc2375091e422e3013afb )
+	rom ( name "Pyramid of Ert V1.2" size 0 crc 00000000 )
+)
+
+game (
+	name pyramidofnoreturn
+	description "Pyramid of No Return (Macintosh)"
+	year 1992
+	manufacturer "John W. Pragel"
+	sourcefile wage
+	rom ( name "._Pyramid of No Return" size 392090 crc f3c1d1b3 md5 5040219648b0dd1c41ffe39a4f5dd038 )
+	rom ( name periple size 4366 crc a5444224 md5 d4af77a20f0ae8c83589e94ce893bfe9 )
+	rom ( name "Pyramid of No Return" size 0 crc 00000000 )
+)
+
+game (
+	name queenquest
+	description "Queen Quest (Macintosh)"
+	year 1985
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Queen Quest" size 59686 crc b7581704 md5 daf7f6f391d9b7a21ab83c91a56e8efb )
+	rom ( name "Queen Quest" size 0 crc 00000000 )
+)
+
+game (
+	name questforthedarksword
+	description "Quest for the Dark Sword (Macintosh)"
+	year 1993
+	manufacturer "Iain Becker"
+	sourcefile wage
+	rom ( name "._Quest for the Dark Sword" size 590631 crc 37f6f825 md5 53aae52a35dcf939d7139270861c125b )
+	rom ( name "Quest for the Dark Sword" size 0 crc 00000000 )
+	rom ( name wage.dat size 243636 crc 04aec3e8 md5 ec879db4ee6ad0b7ae0015a242895c71 )
+)
+
+game (
+	name questfortrex
+	description "Quest for T-Rex (Macintosh)"
+	year 19xx
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Quest for T-Rex" size 604266 crc 5f5a405c md5 d1a020a183d66c9dfc7b0ba726b86ffb )
+	rom ( name ._Sounds1 size 166525 crc b7d3ca1c md5 497e5cc4fd954dd1d86dd0d3ab94f9f0 )
+	rom ( name "Quest for T-Rex" size 0 crc 00000000 )
+	rom ( name Sounds1 size 0 crc 00000000 )
+)
+
+game (
+	name radicalcastle
+	description "Radical Castle (Macintosh)"
+	year 1986
+	manufacturer "Christopher Kent Wigginton"
+	sourcefile wage
+	rom ( name "._Radical Castle" size 363992 crc 76e6df05 md5 a93714a34fa3889b3695849560aa2e5b )
+	rom ( name "Radical Castle" size 0 crc 00000000 )
+)
+
+game (
+	name radicalcastle10
+	description "Radical Castle 1.0 (Macintosh)"
+	year 1986
+	manufacturer "Christopher Kent Wigginton"
+	sourcefile wage
+	rom ( name "._Radical Castle 1.0" size 356352 crc e3d0d63e md5 bf88e4dc198563fe2861be7e684fc1fa )
+	rom ( name "Radical Castle 1.0" size 0 crc 00000000 )
+)
+
+game (
+	name raysmaze
+	description "Ray's Maze (Macintosh/v1.5)"
+	year 1990
+	manufacturer "Ray Dunakin"
+	sourcefile wage
+	rom ( name "._Ray's Maze1.5" size 1437138 crc 4ad6ea78 md5 a0d99438edaa9a34cd2ff8acf9130826 )
+	rom ( name "._RM SOUNDS" size 730701 crc fcd819d9 md5 e9ab751790a690503e942eb2a1ad45a8 )
+	rom ( name "Ray's Maze1.5" size 0 crc 00000000 )
+	rom ( name "RM SOUNDS" size 0 crc 00000000 )
+)
+
+game (
+	name raysmaze-1
+	description "Ray's Maze (Macintosh/v1.5)[a]"
+	year 1990
+	manufacturer "Ray Dunakin"
+	sourcefile wage
+	rom ( name "._Ray's Maze1.5" size 1437138 crc e8c4b6f3 md5 2917296cd9ad216e99ddb8661a30aada )
+	rom ( name "._RM SOUNDS" size 730701 crc fcd819d9 md5 e9ab751790a690503e942eb2a1ad45a8 )
+	rom ( name "Ray's Maze1.5" size 0 crc 00000000 )
+	rom ( name "RM SOUNDS" size 0 crc 00000000 )
+)
+
+game (
+	name raysworldbuilderdemo
+	description "Ray's World Builder Demo (Macintosh)"
+	year 1995
+	manufacturer "Ray Dunakin"
+	sourcefile wage
+	rom ( name "._Demo Sounds.1" size 225350 crc 619d412b md5 06c41b7c93d14f875432efcbc5a4cac4 )
+	rom ( name "._Ray's World Builder Demo" size 119666 crc 2fe0518a md5 86e6f363d5572ad30968424185d6511e )
+	rom ( name "Demo Sounds.1" size 0 crc 00000000 )
+	rom ( name "Ray's World Builder Demo" size 0 crc 00000000 )
+)
+
+game (
+	name sandsoftime
+	description "Sands of Time (Macintosh)"
+	year 1987
+	manufacturer "Jeff Wheeler"
+	sourcefile wage
+	rom ( name ._Intructions size 842 crc 58b6262a md5 fed8153f13a5b952bd9618b59191fef2 )
+	rom ( name "._Sands of Time" size 127348 crc 9410ee8b md5 518b2f9ff853ba8fef9cda4ab84b66fc )
+	rom ( name "._Soft Sounds" size 219118 crc 22de8578 md5 3f3aff8ed04ffa9991733c2e78fe17b6 )
+	rom ( name Intructions size 9574 crc 5fbc49e4 md5 07c83e55d22294d0095c3f7c0e904290 )
+	rom ( name "Sands of Time" size 0 crc 00000000 )
+	rom ( name "Soft Sounds" size 0 crc 00000000 )
+)
+
+game (
+	name scepters
+	description "Enchanted Scepters (Macintosh)"
+	year 1984
+	manufacturer "Silicon Beach Software"
+	sourcefile wage
+	rom ( name ._Scepters size 364544 crc 5565d2aa md5 7d1450a40b7dc3ad15af100d4086f32a )
+	rom ( name art size 6810 crc 48d2d6bc md5 b245f113c194faeedeebc3b780531757 )
+	rom ( name computer size 6810 crc b10e27a9 md5 61cf3d25f2a56e7f8540f14688560184 )
+	rom ( name dogleg size 6810 crc c585dac1 md5 4783ffcf1da0a09c915773530fb477bb )
+	rom ( name Finale size 6810 crc 07cc7a32 md5 62849166c14b03a12bbd833479c13bc9 )
+	rom ( name "lava tunnel" size 6810 crc 6b9b8f55 md5 bd3bfce0d32e869570bd0316be1be808 )
+	rom ( name "main road" size 6810 crc 79bb4427 md5 b799b72edb3b8d51b1602f1a75c63bde )
+	rom ( name "mirror room" size 6810 crc 3794e9e6 md5 b9314be6e8b4997d18bd0165e461bd45 )
+	rom ( name office size 6810 crc 1c3eb62e md5 74d8d5d3ac449d8dd2e058dc6f246372 )
+	rom ( name "Queen's Chamber" size 6810 crc 2627a613 md5 ee36c1ee97e7f5f5cb1c17b980208112 )
+	rom ( name Scepters size 0 crc 00000000 )
+)
+
+game (
+	name scepters-1
+	description "Enchanted Scepters (Macintosh)[a]"
+	year 1984
+	manufacturer "Silicon Beach Software"
+	sourcefile wage
+	rom ( name ._Scepters size 361681 crc 63c074bd md5 1a4fb5f88dd6cd1310a33a654de62b85 )
+	rom ( name Scepters size 0 crc 00000000 )
+)
+
+game (
+	name schmoozer
+	description "Schmoozer (Macintosh)"
+	year 19xx
+	manufacturer "Michael J. Bruno"
+	sourcefile wage
+	rom ( name ._Schmoozer size 229376 crc f7496e77 md5 66cb2e82e01d8d33b0fd428405ae511d )
+	rom ( name ._SchmoozerSnd size 483328 crc 64af1b52 md5 56054e6bd15ec10b7825b0e3ed8de9fc )
+	rom ( name Schmoozer size 0 crc 00000000 )
+	rom ( name SchmoozerSnd size 0 crc 00000000 )
+)
+
+game (
+	name spaceadventure
+	description "Space Adventure (Macintosh)"
+	year 1990
+	manufacturer "Richard Reuss"
+	sourcefile wage
+	rom ( name ._SpaceAdventure size 159744 crc 0557d263 md5 d3cc343526f0150cd01309be88bdb114 )
+	rom ( name SpaceAdventure size 0 crc 00000000 )
+)
+
+game (
+	name spaceadventure-1
+	description "Space Adventure (Macintosh)[a]"
+	year 1990
+	manufacturer "Richard Reuss"
+	sourcefile wage
+	rom ( name ._SpaceAdventure size 159744 crc 25ff7c91 md5 f14765e9a44b1f4ccf65e63d5c822acd )
+	rom ( name SpaceAdventure size 0 crc 00000000 )
+)
+
+game (
+	name spearofdestiny
+	description "Spear of Destiny (Macintosh)"
+	year 1990
+	manufacturer "Lemming Software"
+	sourcefile wage
+	rom ( name ._SpearOfDestiny size 339968 crc a7f6bd3c md5 ce050e7fd1a7a1dce2a2c8eef7ddcbbc )
+	rom ( name SpearOfDestiny size 0 crc 00000000 )
+)
+
+game (
+	name startrek
+	description "Star Trek (Macintosh)"
+	year 1986
+	manufacturer "Kluge Services"
+	sourcefile wage
+	rom ( name "._Star Trek" size 55242 crc 5cdc89bb md5 2372b7ee033a4958cb63ad4b10cfb64e )
+	rom ( name "._Star Trek Sounds" size 311530 crc 8745a873 md5 642c867d0520094e08a882646c0b42b6 )
+	rom ( name "Star Trek" size 0 crc 00000000 )
+	rom ( name "Star Trek Sounds" size 0 crc 00000000 )
+	rom ( name StartUpScreen size 21888 crc 122d598c md5 3cd6442b56ea328de1057ebba58e2e9d )
+	rom ( name StartupSound size 166090 crc 50317db3 md5 01dbc6212b4efadcad6018627e432348 )
+)
+
+game (
+	name strangedisappearance
+	description "Strange Disappearance (Macintosh)"
+	year 1988
+	manufacturer "Jason Gall & Lance Lininger"
+	sourcefile wage
+	rom ( name "._Strange Disappearance" size 781154 crc 372442d0 md5 95044c253a8506e414bda4a28552a4e9 )
+	rom ( name "Strange Disappearance" size 0 crc 00000000 )
+)
+
+game (
+	name swampwitch
+	description "Swamp Witch (Macintosh)"
+	year 1988
+	manufacturer "Jim Thompson"
+	sourcefile wage
+	rom ( name "._Swamp Witch" size 753664 crc 7345a86e md5 3a9b09d76bae1ec9d35aa0130834e5ca )
+	rom ( name "._Swamp Witch Sounds" size 192512 crc 00b8f848 md5 f9c03019e45de674f215d0f7b28136e3 )
+	rom ( name "Swamp Witch" size 0 crc 00000000 )
+	rom ( name "Swamp Witch Sounds" size 0 crc 00000000 )
+)
+
+game (
+	name sweetspacenow
+	description "Sweetspace Now! (Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Basic Sounds" size 184320 crc 347352e1 md5 794df937f895acd6cc5a7bf8d4991e40 )
+	rom ( name "._Sweetspace Now!" size 131072 crc c3505c5c md5 15080b66355e02868289627d51020a42 )
+	rom ( name "Basic Sounds" size 0 crc 00000000 )
+	rom ( name "Sweetspace Now!" size 0 crc 00000000 )
+)
+
+game (
+	name swordofsiegfried
+	description "Sword of Siegfried (Macintosh)"
+	year 1990
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Sword of Siegfried 1.0" size 238551 crc 4fe461d1 md5 5722ac490e0d97971851a3f97103ba27 )
+	rom ( name "Sword of Siegfried 1.0" size 0 crc 00000000 )
+)
+
+game (
+	name terrorist
+	description "Terrorist (Macintosh)"
+	year 1987
+	manufacturer "Michael E. Hoffmann"
+	sourcefile wage
+	rom ( name Terrorist size 528896 crc 50e30174 md5 7bfd97e7a0028e71f63bfd4b12d98e84 )
+)
+
+game (
+	name theashlandrevolution-demo
+	description "Ashland Revolution, The {Demo}(Macintosh)"
+	year 1990
+	manufacturer "Andrew W. Duthie"
+	sourcefile wage
+	rom ( name "._The Ashland Revolution Demo" size 148175 crc cb97cc9b md5 72263c68cef55236b89f852406dbf32d )
+	rom ( name "The Ashland Revolution Demo" size 0 crc 00000000 )
+)
+
+game (
+	name theaxeorcist
+	description "Axe-orcist, The (Macintosh)"
+	year 1998
+	manufacturer "HyperWeasel"
+	sourcefile wage
+	rom ( name "Read Me, I COMMAND YOU!!" size 3200 crc cb0f2775 md5 71591ffb8383d4d16430c3fd69b001f9 )
+	rom ( name "The Axe-orcist" size 312320 crc ec8be9d5 md5 7f2f9cc96e60a17b51174717271f7730 )
+	rom ( name "The story of the Axe-orcist" size 2560 crc 450affd6 md5 1ea8ad1f3e5176cdb007b373b8987892 )
+)
+
+game (
+	name thehotelcaper
+	description "Hotel Caper, The (Macintosh)"
+	year 1987
+	manufacturer "Bruce & Aeron Muckala"
+	sourcefile wage
+	rom ( name "._The Hotel Caper V1.0" size 236119 crc f522484d md5 0757f9abcdb95ced7102edc57dbb8e79 )
+	rom ( name "The Hotel Caper V1.0" size 0 crc 00000000 )
+)
+
+game (
+	name thehotelcaper-1
+	description "Hotel Caper, The (Macintosh)[a]"
+	year 1987
+	manufacturer "Bruce & Aeron Muckala"
+	sourcefile wage
+	rom ( name "._About Hotel" size 7159 crc d0c816a4 md5 742b4e07f43b722ebb4a40efbbc02bf2 )
+	rom ( name "._The Hotel Caper V1.0" size 236119 crc d897db7d md5 3a7aac1eed4e7f811e1152f804dbaa8d )
+	rom ( name "About Hotel" size 572 crc f7143f2e md5 c3c5054c1b16c73c4a641e15c249d733 )
+	rom ( name "The Hotel Caper V1.0" size 0 crc 00000000 )
+)
+
+game (
+	name thephoenix
+	description "Phoenix, The (Macintosh)"
+	year 1988
+	manufacturer "Lance Havoc"
+	sourcefile wage
+	rom ( name "._The Phoenix" size 438272 crc c86a2690 md5 2db304743137c819a7a9fede6aaa252f )
+	rom ( name "The Phoenix" size 0 crc 00000000 )
+)
+
+game (
+	name thephoenixv12
+	description "Phoenix, The (Macintosh/v1.2)"
+	year 1988
+	manufacturer "Lance Havoc"
+	sourcefile wage
+	rom ( name "._HAL Files" size 573440 crc c40f632e md5 a1d10ea8c58a080a600ce1b5a6ca0a3b )
+	rom ( name "._The Phoenix" size 438272 crc b49f1d3b md5 bb198017aa1700c12f7e84c1ab6ec920 )
+	rom ( name "HAL Files" size 0 crc 00000000 )
+	rom ( name "The Phoenix" size 0 crc 00000000 )
+)
+
+game (
+	name thepuzzlepiecesearch
+	description "Puzzle Piece Search, The (Macintosh)[Standalone]"
+	year 1990
+	manufacturer "Joshua Chapman"
+	sourcefile wage
+	rom ( name "._The Puzzle Piece Search" size 252377 crc 9a5ee5d4 md5 1f7955a5f6c75dbdc19241612bd327cb )
+	rom ( name "The Puzzle Piece Search" size 0 crc 00000000 )
+)
+
+game (
+	name thepuzzlepiecesearch-1
+	description "Puzzle Piece Search, The (Macintosh)[a]"
+	year 1990
+	manufacturer "Joshua Chapman"
+	sourcefile wage
+	rom ( name "._The puzzle piece search" size 252403 crc f727cb1e md5 2d5b0d412407434726e7692848a7d64b )
+	rom ( name "The puzzle piece search" size 0 crc 00000000 )
+)
+
+game (
+	name thesultanspalace
+	description "Sultan's Palace, The (Macintosh)"
+	year 2001
+	manufacturer "Louise Hope"
+	sourcefile wage
+	rom ( name "._Sultan's Sounds" size 297958 crc 51b03b67 md5 d203c985d63e546f7a158617de72d8b5 )
+	rom ( name "._The Sultan's Palace" size 467931 crc 82eda076 md5 35dbbe5d7e33f94db6eb06e1bb9c859b )
+	rom ( name "Sultan's Sounds" size 0 crc 00000000 )
+	rom ( name "The Sultan's Palace" size 0 crc 00000000 )
+)
+
+game (
+	name thetower
+	description "Tower, The (Macintosh)"
+	year 2001
+	manufacturer "Louise Hope"
+	sourcefile wage
+	rom ( name "._The Tower" size 568274 crc 622a0e81 md5 131a753b1879c46e0d09d936e8fe6b6e )
+	rom ( name "._Tower Sounds" size 326141 crc c73050c7 md5 042efc899aeab5af08cd39e086fb1d9e )
+	rom ( name "The Tower" size 0 crc 00000000 )
+	rom ( name "Tower Sounds" size 0 crc 00000000 )
+)
+
+game (
+	name thevillage
+	description "Village, The (Macintosh)"
+	year 1987
+	manufacturer "Bill Cameron"
+	sourcefile wage
+	rom ( name "._The Village" size 331776 crc 0792cabb md5 7ebc3d69e5f9a15651ba0a059a23fb03 )
+	rom ( name "The Village" size 0 crc 00000000 )
+)
+
+game (
+	name thewizardsapprentice
+	description "Wizard's Apprentice, The (Macintosh)"
+	year 1991
+	manufacturer "Lori A. Hansen"
+	sourcefile wage
+	rom ( name "Read Me First!" size 1920 crc 1b4dccfa md5 a5f9b56569fb9440ca96bf982c835e09 )
+	rom ( name "The Wizard's Apprentice" size 791168 crc 2d1aa3bf md5 d18c5b52e007dab09b68c2fabb0cab57 )
+	rom ( name "Wiz Sounds" size 183680 crc 8283d6cd md5 e42237d395df68502308d93a14ce0f70 )
+)
+
+game (
+	name timebomb
+	description "Time Bomb (Macintosh)"
+	year 1986
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Time Bomb" size 66304 crc 1623b555 md5 e5a40cbec499d7347f6f8dcf08da8ce7 )
+	rom ( name "Time Bomb" size 0 crc 00000000 )
+)
+
+game (
+	name timebomb-1
+	description "Time Bomb (Macintosh)[a]"
+	year 1986
+	manufacturer "Unknown"
+	sourcefile wage
+	rom ( name "._Time Bomb" size 66330 crc 892dc5a2 md5 d339e5c934b18e54948447502a0004f8 )
+	rom ( name "Time Bomb" size 0 crc 00000000 )
+)
+
+game (
+	name tombworld-demo
+	description "Tombworld {Demo}(Macintosh)"
+	year 1988
+	manufacturer "David Lee"
+	sourcefile wage
+	rom ( name "._Demo TombWorld" size 677240 crc 99451d7a md5 dbc87d62df21e74655edf9ebafe92600 )
+	rom ( name "._TombWorld Sound#1" size 796013 crc 49eca9ac md5 c2672943dbcd2c7fc72a9d6ea7d423e9 )
+	rom ( name "Demo TombWorld" size 0 crc 00000000 )
+	rom ( name "TombWorld Sound#1" size 0 crc 00000000 )
+)
+
+game (
+	name twisted
+	description "Twisted! (Macintosh)"
+	year 1998
+	manufacturer "Ray R. Dunakin"
+	sourcefile wage
+	rom ( name "._Command Verbs" size 434 crc 01d8b470 md5 5db212dd72177dbdf340db7eef247765 )
+	rom ( name "._TWIST SOUNDS" size 875268 crc 3bade654 md5 56400c4ae3f66393a1277500011a282f )
+	rom ( name "._Twisted! 1.6" size 992741 crc f4eaaef8 md5 932b00c96ae3722809afa834a113cffa )
+	rom ( name "Command Verbs" size 2260 crc 2740a411 md5 d234343397b79537a66f1b4b33c5c3cb )
+	rom ( name "TWIST SOUNDS" size 0 crc 00000000 )
+	rom ( name "Twisted! 1.6" size 0 crc 00000000 )
+)
+
+game (
+	name volcanoii
+	description "Volcano II (Macintosh)"
+	year 1988
+	manufacturer "Noah Crissey"
+	sourcefile wage
+	rom ( name "._Sounds 1" size 170542 crc 6b6bfa2c md5 b13c3ad4c6eb3a60887992790d53a49f )
+	rom ( name "._Volcano II" size 87098 crc 866a95c4 md5 8815d772f6e835dfb3e6fe92917a8abd )
+	rom ( name "Sounds 1" size 0 crc 00000000 )
+	rom ( name "Volcano II" size 0 crc 00000000 )
+)
+
+game (
+	name wishingwell
+	description "Wishing Well (Macintosh)"
+	year 1987
+	manufacturer "William Hsu"
+	sourcefile wage
+	rom ( name "._Wishing Well" size 105439 crc 7d16a8c9 md5 e5408023b3198c10240581245dc72a6e )
+	rom ( name "Wishing Well" size 0 crc 00000000 )
+)
+
+game (
+	name wizardswarehouse
+	description "Wizard's Warehouse (Macintosh)"
+	year 1986
+	manufacturer "ODD Enterprises"
+	sourcefile wage
+	rom ( name "._Wizard's Warehouse" size 163035 crc 346986c7 md5 c2363ea6675ad4200cae425483c164fe )
+	rom ( name "Wizard's Warehouse" size 0 crc 00000000 )
+)
+
+game (
+	name wizardswarehouse2
+	description "Wizard's Warehouse 2 (Macintosh)"
+	year 1986
+	manufacturer "ODD Enterprises"
+	sourcefile wage
+	rom ( name "._WizWarehouse 2.0" size 237568 crc d9405817 md5 1678892faa55380e09d2f902b0464c54 )
+	rom ( name "WizWarehouse 2.0" size 0 crc 00000000 )
+)
+
+game (
+	name zikturia
+	description "ZikTuria (Macintosh)"
+	year 1987
+	manufacturer "Billy Yamka"
+	sourcefile wage
+	rom ( name ._ZikTuria size 54632 crc 517d3512 md5 689972a28e97f50dee188cea7325439e )
+	rom ( name ZikTuria size 0 crc 00000000 )
+)
+
+game (
+	name zoony
+	description "Zoony (Macintosh)"
+	year 1986
+	manufacturer "Brad Pettit"
+	sourcefile wage
+	rom ( name ._Zoony size 160153 crc e538768c md5 bddf4126eb3fbb1788f938bfcaba9e27 )
+	rom ( name Zoony size 0 crc 00000000 )
+)
+

@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM CRUISE"
 	description "ScummVM - CRUISE Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2015-12-06
+	version v1.04
+	date 2016-09-10
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name cruise
-	description "Cruise for a Corpse (256 colors/DOS)"
+	description "Cruise for a Corpse (DOS/256 colors)"
 	year 1991
 	manufacturer "Delphine Software"
 	sourcefile cruise
@@ -29,6 +29,26 @@ game (
 	rom ( name VOL.5 size 4 crc 42e9a05e md5 f151097a2d715829d1fc0917a8be2d11 )
 	rom ( name VOL.CNF size 14372 crc 15e104cd md5 31e25f3bfaeac1ade788aef0feb1ecfc )
 	rom ( name VOL.END size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+)
+
+game (
+	name cruise-amiga
+	description "Cruise for a Corpse (Amiga)[!]"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 700676 crc e7030c74 md5 29823cc74878c8c0804a3c8cf42320a7 )
+	rom ( name D2 size 779336 crc 0bd60988 md5 37d888cb76c94f7687bead1c5769e822 )
+	rom ( name D3 size 836077 crc 2b8717f8 md5 9de6bab05d5db68e08c0284eaf0d2ec3 )
+	rom ( name D4 size 833860 crc c7aa431a md5 f75998cec1e4050c4bd084e3b5e82407 )
+	rom ( name D5 size 775520 crc d8fe08be md5 1a2bc4266f76384ca8bbc4462774401b )
+	rom ( name SYSTEM.FNT size 6882 crc b278ac16 md5 a9d5045166bf9db521f5d8edda36b0dc )
+	rom ( name VOL.1 size 3 crc ae5a12a2 md5 9e46e0f14923a872c69c6f64a70d95bf )
+	rom ( name VOL.2 size 0 crc 00000000 )
+	rom ( name VOL.3 size 0 crc 00000000 )
+	rom ( name VOL.4 size 0 crc 00000000 )
+	rom ( name VOL.5 size 0 crc 00000000 )
+	rom ( name VOL.CNF size 12071 crc 9573e09a md5 9c1453c5e1d2565c544ae785b7cdc99a )
 )
 
 game (
@@ -73,7 +93,7 @@ game (
 
 game (
 	name cruise-de
-	description "Cruise for a Corpse (256 colors/DOS/German)"
+	description "Cruise for a Corpse (DOS/German 256 colors)"
 	year 1991
 	manufacturer "Delphine Software"
 	sourcefile cruise
@@ -95,7 +115,7 @@ game (
 
 game (
 	name cruise-es
-	description "Cruise for a Corpse (256 colors/DOS/Spanish)"
+	description "Cruise for a Corpse (DOS/Spanish 256 colors)"
 	year 1991
 	manufacturer "Delphine Software"
 	sourcefile cruise
@@ -117,7 +137,7 @@ game (
 
 game (
 	name cruise-fr
-	description "Cruise for a Corpse (256 colors/DOS/French)"
+	description "Cruise for a Corpse (DOS/French 256 colors)"
 	year 1991
 	manufacturer "Delphine Software"
 	sourcefile cruise
@@ -139,7 +159,7 @@ game (
 
 game (
 	name cruise-fr-1
-	description "Cruise for a Corpse (16 colors/DOS/French)"
+	description "Cruise for a Corpse (DOS/French 16 colors)"
 	year 1991
 	manufacturer "Delphine Software"
 	sourcefile cruise
@@ -160,8 +180,30 @@ game (
 )
 
 game (
+	name cruise-gb
+	description "Cruise for a Corpse (DOS/16 colors)"
+	year 1991
+	manufacturer "Delphine Software"
+	sourcefile cruise
+	rom ( name D1 size 540087 crc 6b4984e0 md5 2fa4ef43f9688372122eec536d54163c )
+	rom ( name D2 size 598049 crc 53265212 md5 cc4228bb0e3e58fa1ceb2c29b284bcf1 )
+	rom ( name D3 size 657804 crc e43f06cd md5 7f30fc6e9d3feaea5e4f0005d4920c45 )
+	rom ( name D4 size 702748 crc e6220466 md5 d2c6ab026e12c5dbcc0f7c228c3b297b )
+	rom ( name D5 size 647339 crc ad2e63e2 md5 049274da3323142800780bcfb6daf1f1 )
+	rom ( name DELPHINE.LNG size 489 crc 59f9e3c8 md5 6946c4e1b45349165d0a6b324f773405 )
+	rom ( name SYSTEM.FNT size 6362 crc 77ee067a md5 e501ff132e71d12590f56657cb2d7d95 )
+	rom ( name VOL.1 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.2 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.3 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.4 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.5 size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+	rom ( name VOL.CNF size 12370 crc d57719a6 md5 9c578575468b356a11d4d1f9f2a3786a )
+	rom ( name VOL.END size 4 crc db4be27f md5 361047157d71808f6f9eb3e6305a2889 )
+)
+
+game (
 	name cruise-it
-	description "Cruise for a Corpse (256 colors/DOS/Italian)"
+	description "Cruise for a Corpse (DOS/Italian 256 colors)"
 	year 1991
 	manufacturer "Delphine Software"
 	sourcefile cruise

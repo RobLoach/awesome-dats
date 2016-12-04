@@ -266,6 +266,13 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/GamePark - GP32 Parent-Clone (20100224-080928).dat</url>
   </datfile>
   <datfile>
+    <name>GARGOYLE</name>
+    <description>GARGOYLE</description>
+    <version>v1.07</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/gargoyle.dat</url>
+  </datfile>
+  <datfile>
     <name>GCE - Vectrex Parent-Clone</name>
     <description>GCE - Vectrex Parent-Clone</description>
     <version>20161023-051728</version>
@@ -630,37 +637,58 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/RCA - Studio II Parent-Clone (20090104-000000).dat</url>
   </datfile>
   <datfile>
+    <name>REMINISCENCE</name>
+    <description>REMINISCENCE</description>
+    <version>v1.00</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/reminiscence.dat</url>
+  </datfile>
+  <datfile>
     <name>ResidualVM GRIM</name>
     <description>ResidualVM GRIM</description>
-    <version>v1.22</version>
+    <version>v1.27</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/rvm-grim.dat</url>
   </datfile>
   <datfile>
     <name>ResidualVM MYST3</name>
     <description>ResidualVM MYST3</description>
-    <version>v1.03</version>
+    <version>v1.08</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/rvm-myst3.dat</url>
   </datfile>
   <datfile>
+    <name>ResidualVM STARK</name>
+    <description>ResidualVM STARK</description>
+    <version>v1.07</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/rvm-stark.dat</url>
+  </datfile>
+  <datfile>
     <name>ScummVM ACCESS</name>
     <description>ScummVM ACCESS</description>
-    <version>v1.04</version>
+    <version>v1.05</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-access.dat</url>
   </datfile>
   <datfile>
+    <name>ScummVM ADL</name>
+    <description>ScummVM ADL</description>
+    <version>v1.04</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-adl.dat</url>
+  </datfile>
+  <datfile>
     <name>ScummVM AGI</name>
     <description>ScummVM AGI</description>
-    <version>v1.05</version>
+    <version>v1.25</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-agi.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM AGOS</name>
     <description>ScummVM AGOS</description>
-    <version>v1.12</version>
+    <version>v1.20</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-agos.dat</url>
   </datfile>
@@ -679,39 +707,67 @@
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-bbvs.dat</url>
   </datfile>
   <datfile>
+    <name>ScummVM BLADERUNNER</name>
+    <description>ScummVM BLADERUNNER</description>
+    <version>v1.00</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-bladerunner.dat</url>
+  </datfile>
+  <datfile>
     <name>ScummVM CGE</name>
     <description>ScummVM CGE</description>
-    <version>v1.00</version>
+    <version>v1.01</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-cge.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM CGE2</name>
     <description>ScummVM CGE2</description>
-    <version>v1.02</version>
+    <version>v1.03</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-cge2.dat</url>
   </datfile>
   <datfile>
+    <name>ScummVM CHEWY</name>
+    <description>ScummVM CHEWY</description>
+    <version>v1.01</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-chewy.dat</url>
+  </datfile>
+  <datfile>
     <name>ScummVM CINE</name>
     <description>ScummVM CINE</description>
-    <version>v1.01</version>
+    <version>v1.05</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-cine.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM COMPOSER</name>
     <description>ScummVM COMPOSER</description>
-    <version>v1.00</version>
+    <version>v1.12</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-composer.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM CRUISE</name>
     <description>ScummVM CRUISE</description>
-    <version>v1.01</version>
+    <version>v1.04</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-cruise.dat</url>
+  </datfile>
+  <datfile>
+    <name>ScummVM DIRECTOR</name>
+    <description>ScummVM DIRECTOR</description>
+    <version>v0.31</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-director.dat</url>
+  </datfile>
+  <datfile>
+    <name>ScummVM DM</name>
+    <description>ScummVM DM</description>
+    <version>v1.01</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-dm.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM DRACI</name>
@@ -730,7 +786,7 @@
   <datfile>
     <name>ScummVM DREAMWEB</name>
     <description>ScummVM DREAMWEB</description>
-    <version>v1.00</version>
+    <version>v1.01</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-dreamweb.dat</url>
   </datfile>
@@ -742,23 +798,30 @@
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-fullpipe.dat</url>
   </datfile>
   <datfile>
+    <name>ScummVM GNAP</name>
+    <description>ScummVM GNAP</description>
+    <version>v1.02</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-gnap.dat</url>
+  </datfile>
+  <datfile>
     <name>ScummVM GOB</name>
     <description>ScummVM GOB</description>
-    <version>v1.12</version>
+    <version>v1.27</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-gob.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM GROOVIE</name>
     <description>ScummVM GROOVIE</description>
-    <version>v1.01</version>
+    <version>v1.05</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-groovie.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM HOPKINS</name>
     <description>ScummVM HOPKINS</description>
-    <version>v1.01</version>
+    <version>v1.04</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-hopkins.dat</url>
   </datfile>
@@ -772,182 +835,196 @@
   <datfile>
     <name>ScummVM KYRA</name>
     <description>ScummVM KYRA</description>
-    <version>v1.02</version>
+    <version>v1.11</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-kyra.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM LAB</name>
     <description>ScummVM LAB</description>
-    <version>v1.01</version>
+    <version>v1.02</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-lab.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM LASTEXPRESS</name>
     <description>ScummVM LASTEXPRESS</description>
-    <version>v1.02</version>
+    <version>v1.04</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-lastexpress.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM LURE</name>
     <description>ScummVM LURE</description>
-    <version>v1.00</version>
+    <version>v1.01</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-lure.dat</url>
   </datfile>
   <datfile>
+    <name>ScummVM MACVENTURE</name>
+    <description>ScummVM MACVENTURE</description>
+    <version>v1.01</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-macventure.dat</url>
+  </datfile>
+  <datfile>
     <name>ScummVM MADE</name>
     <description>ScummVM MADE</description>
-    <version>v1.10</version>
+    <version>v1.11</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-made.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM MADS</name>
     <description>ScummVM MADS</description>
-    <version>v1.02</version>
+    <version>v1.04</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-mads.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM MOHAWK</name>
     <description>ScummVM MOHAWK</description>
-    <version>v1.05</version>
+    <version>v1.17</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-mohawk.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM MORTEVIELLE</name>
     <description>ScummVM MORTEVIELLE</description>
-    <version>v1.01</version>
+    <version>v1.03</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-mortevielle.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM NEVERHOOD</name>
     <description>ScummVM NEVERHOOD</description>
-    <version>v1.00</version>
+    <version>v1.02</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-neverhood.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM PARALLACTION</name>
     <description>ScummVM PARALLACTION</description>
-    <version>v1.01</version>
+    <version>v1.02</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-parallaction.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM PEGASUS</name>
     <description>ScummVM PEGASUS</description>
-    <version>v1.10</version>
+    <version>v1.12</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-pegasus.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM PRINCE</name>
     <description>ScummVM PRINCE</description>
-    <version>v1.01</version>
+    <version>v1.05</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-prince.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM QUEEN</name>
     <description>ScummVM QUEEN</description>
-    <version>v1.00</version>
+    <version>v1.04</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-queen.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM SAGA</name>
     <description>ScummVM SAGA</description>
-    <version>v1.00</version>
+    <version>v1.07</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-saga.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM SCI</name>
     <description>ScummVM SCI</description>
-    <version>v1.18</version>
+    <version>v1.40</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-sci.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM SCUMM</name>
     <description>ScummVM SCUMM</description>
-    <version>v1.12</version>
+    <version>v1.30</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-scumm.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM SCUMM-HE</name>
     <description>ScummVM SCUMM-HE</description>
-    <version>v1.16</version>
+    <version>v1.29</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-scumm-he.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM SHERLOCK</name>
     <description>ScummVM SHERLOCK</description>
-    <version>v1.02</version>
+    <version>v1.04</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-sherlock.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM SKY</name>
     <description>ScummVM SKY</description>
-    <version>v1.02</version>
+    <version>v1.08</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-sky.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM SWORD1</name>
     <description>ScummVM SWORD1</description>
-    <version>v1.02</version>
+    <version>v1.06</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-sword1.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM SWORD2</name>
     <description>ScummVM SWORD2</description>
-    <version>v1.00</version>
+    <version>v1.03</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-sword2.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM SWORD25</name>
     <description>ScummVM SWORD25</description>
-    <version>v1.00</version>
+    <version>v1.02</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-sword25.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM TEENAGENT</name>
     <description>ScummVM TEENAGENT</description>
-    <version>v1.00</version>
+    <version>v1.03</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-teenagent.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM TINSEL</name>
     <description>ScummVM TINSEL</description>
-    <version>v1.01</version>
+    <version>v1.05</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-tinsel.dat</url>
   </datfile>
   <datfile>
+    <name>ScummVM TITANIC</name>
+    <description>ScummVM TITANIC</description>
+    <version>v1.01</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-titanic.dat</url>
+  </datfile>
+  <datfile>
     <name>ScummVM TOLTECS</name>
     <description>ScummVM TOLTECS</description>
-    <version>v1.01</version>
+    <version>v1.02</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-toltecs.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM TONY</name>
     <description>ScummVM TONY</description>
-    <version>v1.01</version>
+    <version>v1.07</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-tony.dat</url>
   </datfile>
@@ -961,37 +1038,51 @@
   <datfile>
     <name>ScummVM TOUCHE</name>
     <description>ScummVM TOUCHE</description>
-    <version>v1.00</version>
+    <version>v1.02</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-touche.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM TSAGE</name>
     <description>ScummVM TSAGE</description>
-    <version>v1.00</version>
+    <version>v1.02</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-tsage.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM TUCKER</name>
     <description>ScummVM TUCKER</description>
-    <version>v1.00</version>
+    <version>v1.02</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-tucker.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM VOYEUR</name>
     <description>ScummVM VOYEUR</description>
-    <version>v1.01</version>
+    <version>v1.02</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-voyeur.dat</url>
   </datfile>
   <datfile>
+    <name>ScummVM WAGE</name>
+    <description>ScummVM WAGE</description>
+    <version>v1.08</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-wage.dat</url>
+  </datfile>
+  <datfile>
     <name>ScummVM WINTERMUTE</name>
     <description>ScummVM WINTERMUTE</description>
-    <version>v1.06</version>
+    <version>v1.20</version>
     <author>Gruby</author>
     <url>https://robloach.github.io/awesome-dats/Gruby/svm-wintermute.dat</url>
+  </datfile>
+  <datfile>
+    <name>ScummVM XEEN</name>
+    <description>ScummVM XEEN</description>
+    <version>v1.00</version>
+    <author>Gruby</author>
+    <url>https://robloach.github.io/awesome-dats/Gruby/svm-xeen.dat</url>
   </datfile>
   <datfile>
     <name>ScummVM ZVISION</name>
@@ -1157,16 +1248,16 @@
   <datfile>
     <name>Sony - PlayStation Portable</name>
     <description>Sony - PlayStation Portable</description>
-    <version>20161019 12-12-03</version>
-    <author>Redump</author>
-    <url>https://robloach.github.io/awesome-dats/Redump/Sony - PlayStation Portable (20161019 12-12-03).dat</url>
+    <version>20161105-102403</version>
+    <author>No-Intro</author>
+    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (20161105-102403_CM).dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation Portable</name>
     <description>Sony - PlayStation Portable</description>
-    <version>20161105-102403</version>
-    <author>No-Intro</author>
-    <url>https://robloach.github.io/awesome-dats/No-Intro/Sony - PlayStation Portable (20161105-102403_CM).dat</url>
+    <version>20161019 12-12-03</version>
+    <author>Redump</author>
+    <url>https://robloach.github.io/awesome-dats/Redump/Sony - PlayStation Portable (20161019 12-12-03).dat</url>
   </datfile>
   <datfile>
     <name>Sony - PlayStation Portable (DLC)</name>

@@ -2,40 +2,39 @@ clrmamepro (
 	name "ScummVM LASTEXPRESS"
 	description "ScummVM - LASTEXPRESS Engine Games"
 	category "ScummVM"
-	version v1.02
-	date 2015-10-21
-	author "Gruby"
+	version v1.04
+	date 2016-09-12
+	author Gruby
 	forcemerging split
 	forcenodump required
 )
 
 game (
 	name lastexpress
-	description "Last Express, The (US/Broderbund)[!]"
+	description "Last Express, The (DOS)[US/Broderbund][!]"
 	year 1997
 	manufacturer "Smoking Car Productions"
 	sourcefile lastexpress
+	romof lstxpres
 	rom ( name CD1.HPF size 525522944 crc abd86705 md5 d70d8a5eb03de64f6b62acb4abf4411b )
-	rom ( name CD2.HPF size 669581312 crc 53cd5b5b md5 c648872b31e43d458680cf16bedc636c )
-	rom ( name CD3.HPF size 641128448 crc 3d2b93d0 md5 8cb3e68a6dca354e556c487ea24a6b10 )
 	rom ( name HD.HPF size 29865984 crc 8d336652 md5 89e8310cf5edfa5239705ec3fb8cde9c )
 )
 
 game (
 	name lastexpress-1
-	description "Last Express, The (UK/Interplay)"
+	description "Last Express, The (DOS)[UK/Broderbund]"
 	year 1997
 	manufacturer "Smoking Car Productions"
 	sourcefile lastexpress
-	rom ( name CD1.HPF size 525522944 crc 9fda61d1 md5 cec8810125b050f41b7f34ab72371f81 )
-	rom ( name CD2.HPF size 669581312 crc 53cd5b5b md5 c648872b31e43d458680cf16bedc636c )
-	rom ( name CD3.HPF size 641128448 crc 3d2b93d0 md5 8cb3e68a6dca354e556c487ea24a6b10 )
-	rom ( name HD.HPF size 30715904 crc 64509abe md5 ab940d5815008b176502f759ae753fb7 )
+	rom ( name CD1.HPF size 525522944 crc abd86705 md5 d70d8a5eb03de64f6b62acb4abf4411b )
+	rom ( name CD2.HPF size 669509632 crc b4472086 md5 883e6212c2bf55fcb2ee244ae583e034 )
+	rom ( name CD3.HPF size 641056768 crc c3445864 md5 1698332be16d2fbcda50f730f1a42368 )
+	rom ( name HD.HPF size 29865984 crc 5b63db97 md5 908b95c376af3a30ecf29137d891575c )
 )
 
 game (
 	name lastexpress-de
-	description "Last Express, The (German)"
+	description "Last Express, The (DOS/German)"
 	year 1997
 	manufacturer "Smoking Car Productions"
 	sourcefile lastexpress
@@ -47,17 +46,17 @@ game (
 
 game (
 	name lastexpress-demo
-	description "Last Express, The (Demo)"
+	description "Last Express, The {Demo}(DOS)"
 	year 1997
 	manufacturer "Smoking Car Productions"
 	sourcefile lastexpress
-	rom ( name BLUE.EGG size 0 crc - )
+	rom ( name BLUE.EGG size 0 crc 00000000 )
 	rom ( name Demo.hpf size 58191872 crc e48747cb md5 bda43707d788a92de3f2084ab4ceea6d )
 )
 
 game (
 	name lastexpress-es
-	description "Last Express, The (Spanish)"
+	description "Last Express, The (DOS/Spanish)"
 	year 1997
 	manufacturer "Smoking Car Productions"
 	sourcefile lastexpress
@@ -69,7 +68,7 @@ game (
 
 game (
 	name lastexpress-fr
-	description "Last Express, The (French)"
+	description "Last Express, The (DOS/French)"
 	year 1997
 	manufacturer "Smoking Car Productions"
 	sourcefile lastexpress
@@ -80,8 +79,19 @@ game (
 )
 
 game (
+	name lastexpress-gog
+	description "Last Express, The (DOS)[UK/Interplay][!]"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	romof lstxpres
+	rom ( name CD1.HPF size 525522944 crc 9fda61d1 md5 cec8810125b050f41b7f34ab72371f81 )
+	rom ( name HD.HPF size 30715904 crc 64509abe md5 ab940d5815008b176502f759ae753fb7 )
+)
+
+game (
 	name lastexpress-it
-	description "Last Express, The (Italian)"
+	description "Last Express, The (DOS/Italian)"
 	year 1997
 	manufacturer "Smoking Car Productions"
 	sourcefile lastexpress
@@ -93,7 +103,7 @@ game (
 
 game (
 	name lastexpress-ru
-	description "Last Express, The (Russian)"
+	description "Last Express, The (DOS/Russian)"
 	year 1997
 	manufacturer "Smoking Car Productions"
 	sourcefile lastexpress
@@ -102,3 +112,14 @@ game (
 	rom ( name CD3.HPF size 642584576 crc fdc7b502 md5 e8e8370db44650d45a5e78ea3156475a )
 	rom ( name HD.HPF size 29908992 crc 2c24d1d3 md5 ad55e7fa056eedfa6c11085c46793de8 )
 )
+
+resource (
+	name lstxpres
+	description "ZZZ - The Last Express UK-US Resources"
+	year 1997
+	manufacturer "Smoking Car Productions"
+	sourcefile lastexpress
+	rom ( name CD2.HPF size 669581312 crc 53cd5b5b md5 c648872b31e43d458680cf16bedc636c )
+	rom ( name CD3.HPF size 641128448 crc 3d2b93d0 md5 8cb3e68a6dca354e556c487ea24a6b10 )
+)
+

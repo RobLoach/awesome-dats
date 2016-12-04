@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM SWORD2"
 	description "ScummVM - SWORD2 Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2015-11-25
+	version v1.03
+	date 2016-09-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name sword2
-	description "Broken Sword II: The Smoking Mirror (PC)[!]"
+	description "Broken Sword II: The Smoking Mirror (PC)[EU][!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -27,7 +27,7 @@ game (
 
 game (
 	name sword2-1
-	description "Broken Sword II: The Smoking Mirror (PC/1cd version)[!]"
+	description "Broken Sword II: The Smoking Mirror (PC)[1CD version][!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -133,7 +133,7 @@ game (
 
 game (
 	name sword2-gog
-	description "Broken Sword II: The Smoking Mirror (PC/GOG version)[!]"
+	description "Broken Sword II: The Smoking Mirror (PC)[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -228,7 +228,7 @@ game (
 
 game (
 	name sword2demo
-	description "Broken Sword II: The Smoking Mirror (Demo/PC)"
+	description "Broken Sword II: The Smoking Mirror {Demo}(PC)"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -247,7 +247,7 @@ game (
 
 game (
 	name sword2psx
-	description "Broken Sword II: The Smoking Mirror (PlayStation/UK)[!]"
+	description "Broken Sword II: The Smoking Mirror (PlayStation)[UK][!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -417,7 +417,7 @@ game (
 
 game (
 	name sword2psx-us
-	description "Broken Sword II: The Smoking Mirror (PlayStation/US)[!]"
+	description "Broken Sword II: The Smoking Mirror (PlayStation)[US][!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -453,7 +453,7 @@ game (
 
 game (
 	name sword2psxdemo
-	description "Broken Sword II: The Smoking Mirror (Demo/PlayStation)"
+	description "Broken Sword II: The Smoking Mirror {Demo}(PlayStation)"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -475,7 +475,7 @@ game (
 
 resource (
 	name bs21res
-	description "ZZZ - Broken Sword II - 1cd version Resources[!]"
+	description "ZZZ - Broken Sword II 1cd version Resources[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -491,7 +491,7 @@ resource (
 
 resource (
 	name bs2gogres
-	description "ZZZ - Broken Sword II - GOG version Resources[!]"
+	description "ZZZ - Broken Sword II GOG version Resources[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -520,7 +520,7 @@ resource (
 
 resource (
 	name bs2psxres
-	description "ZZZ - Broken Sword II - PlayStation Resources[!]"
+	description "ZZZ - Broken Sword II PlayStation Resources[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
@@ -544,7 +544,7 @@ resource (
 
 resource (
 	name bs2res
-	description "ZZZ - Broken Sword II - PC Resources[!]"
+	description "ZZZ - Broken Sword II PC Resources[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2

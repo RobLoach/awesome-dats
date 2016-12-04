@@ -2,8 +2,8 @@ clrmamepro (
 	name "ResidualVM GRIM"
 	description "ResidualVM - GRIM Engine Games"
 	category "ResidualVM"
-	version v1.22
-	date 2015-10-31
+	version v1.27
+	date 2016-08-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name grim-demo-win
-	description "Grim Fandango (Large Demo/Windows)"
+	description "Grim Fandango {Large Demo}(Windows)"
 	year 1998
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -27,7 +27,7 @@ game (
 
 game (
 	name grim-demo-win-1
-	description "Grim Fandango (Small Demo/Windows)"
+	description "Grim Fandango {Small Demo}(Windows)"
 	year 1998
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -45,7 +45,7 @@ game (
 
 game (
 	name grim-demo-win-de
-	description "Grim Fandango (Demo/Windows/German)"
+	description "Grim Fandango {Demo}(Windows/German)"
 	year 1998
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -64,7 +64,7 @@ game (
 
 game (
 	name grim-demo-win-es
-	description "Grim Fandango (Demo/Windows/Spanish)"
+	description "Grim Fandango {Demo}(Windows/Spanish)"
 	year 1998
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -83,7 +83,7 @@ game (
 
 game (
 	name grim-demo-win-fr
-	description "Grim Fandango (Demo/Windows/french)"
+	description "Grim Fandango {Demo}(Windows/French)"
 	year 1998
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -102,7 +102,7 @@ game (
 
 game (
 	name grim-demo-win-it
-	description "Grim Fandango (Demo/Windows/Italian)"
+	description "Grim Fandango {Demo}(Windows/Italian)"
 	year 1998
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -121,7 +121,7 @@ game (
 
 game (
 	name grim-win
-	description "Grim Fandango (Patched-Windows)[!]"
+	description "Grim Fandango (Windows)[Patched][!]"
 	year 1998
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -141,7 +141,7 @@ game (
 
 game (
 	name grim-win-1
-	description "Grim Fandango (Unpatched-Windows)[!]"
+	description "Grim Fandango (Windows)[Unpatched][!]"
 	year 1998
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -265,7 +265,7 @@ game (
 
 game (
 	name monkey4-demo-win
-	description "Escape From Monkey Island (Demo/Windows)"
+	description "Escape from Monkey Island {Demo}(Windows)"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -287,7 +287,7 @@ game (
 
 game (
 	name monkey4-demo-win-de
-	description "Escape From Monkey Island (Demo/Windows/German)"
+	description "Escape from Monkey Island {Demo}(Windows/German)"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -310,7 +310,7 @@ game (
 
 game (
 	name monkey4-demo-win-es
-	description "Escape From Monkey Island (Demo/Windows/Spanish)"
+	description "Escape from Monkey Island {Demo}(Windows/Spanish)"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -332,8 +332,524 @@ game (
 )
 
 game (
+	name monkey4-mac-de
+	description "Escape from Monkey Island (Macintosh/German)"
+	year 2000
+	manufacturer "LucasArts"
+	sourcefile grim
+	romof m4macres
+	rom ( name ARTALL.M4B size 18512568 crc c3cdb454 md5 7c1da307c5c3eb1ba65b7c1a2e6b5bce )
+	rom ( name "EFMI Installer" size 9241784 crc 0d4ce572 md5 93a639e3221405862dc46e9706216c00 )
+	rom ( name EFMI112Updater size 123509 crc 02e3f589 md5 fc1ca9d3292217ad4c081f1079e3c081 )
+	rom ( name i9n.m4b size 2545166 crc b19f23ba md5 11839c4bdb63606344587a2b69bc46bb )
+	rom ( name LIP.M4B size 1778590 crc 043d7a22 md5 0ad24338f33f8ed9b4ab21e43f99aff0 )
+	rom ( name patch.m4b size 519671 crc fcaa48b6 md5 067100a100b3ca9283b796480aa39b52 )
+	rom ( name SFX.M4B size 47546194 crc 06b262cc md5 a5d2ded26255518b82030466c2368168 )
+	rom ( name TEXTURES\FullMonkeyMap1.imt size 5921 crc 0169f432 md5 23c7fed1017c3b27813038921459556c )
+	rom ( name TEXTURES\FullMonkeyMap2.imt size 5188 crc 789d75c0 md5 c6386dd1f47fb6c273f63249aa3a5b86 )
+	rom ( name TEXTURES\MEGO\A\1000.JMM size 117 crc 08be209e md5 6f3d0ed8f63bb2430d835e14ece885b7 )
+	rom ( name TEXTURES\MEGO\A\1000.M4B size 376858 crc 5f33b792 md5 23d92e5eaec2f4bcfeed05738efb0b62 )
+	rom ( name TEXTURES\MEGO\A\1100.JMM size 116 crc 5c75a671 md5 d13f5f4335b120747cb8b7204ca1d8a6 )
+	rom ( name TEXTURES\MEGO\A\1100.M4B size 261710 crc 1d8d16de md5 023a44f46f3d1c1074d4fbf7451810d9 )
+	rom ( name TEXTURES\MEGO\A\1105.JMM size 115 crc 139ddce3 md5 e50fdc5232871d32dd5d2b5e9dfac21f )
+	rom ( name TEXTURES\MEGO\A\1105.M4B size 421370 crc abe8e17a md5 ab6596896e2dbf3171687c0977fef049 )
+	rom ( name TEXTURES\MEGO\A\1115.JMM size 116 crc 2841a73f md5 fc2d7e5034dc96261a1d26cc5c581b00 )
+	rom ( name TEXTURES\MEGO\A\1115.M4B size 526801 crc e971d104 md5 1ce5f92cc372443c6f8cbe01219cedf9 )
+	rom ( name TEXTURES\MEGO\A\1117.JMM size 116 crc 2841a73f md5 fc2d7e5034dc96261a1d26cc5c581b00 )
+	rom ( name TEXTURES\MEGO\A\1117.M4B size 530353 crc 04e06413 md5 d0a417ea0db9651f34cf073f6d80af7e )
+	rom ( name TEXTURES\MEGO\A\1118.JMM size 116 crc 2841a73f md5 fc2d7e5034dc96261a1d26cc5c581b00 )
+	rom ( name TEXTURES\MEGO\A\1118.M4B size 530353 crc c443ccc7 md5 9fe08783f9233f6679c9e6e0edecedb7 )
+	rom ( name TEXTURES\MEGO\A\1119.JMM size 116 crc 2841a73f md5 fc2d7e5034dc96261a1d26cc5c581b00 )
+	rom ( name TEXTURES\MEGO\A\1119.M4B size 526801 crc d5d2e153 md5 95ad6096c2c61ca9a039227e194be7a6 )
+	rom ( name TEXTURES\MEGO\A\1120.JMM size 114 crc 9017b43f md5 f420d17678eba299fcc7c215acc30280 )
+	rom ( name TEXTURES\MEGO\A\1120.M4B size 366095 crc ce3d644c md5 cd696f59f4095358f82e5afcc2ff816b )
+	rom ( name TEXTURES\MEGO\A\1125.JMM size 114 crc 4e11d81d md5 8543adedbe874576fbea4a579141a9e7 )
+	rom ( name TEXTURES\MEGO\A\1125.M4B size 368290 crc f9c851c6 md5 0fd340804c54b79f67e5e2c7bb5aa6b5 )
+	rom ( name TEXTURES\MEGO\A\1130.JMM size 114 crc b45ac020 md5 aaf4f4b3bd5bcb36c6ace96b959bd711 )
+	rom ( name TEXTURES\MEGO\A\1130.M4B size 363274 crc 13a23d2b md5 f1c7a906f2b83c6c2d72af1d64c9acfc )
+	rom ( name TEXTURES\MEGO\A\1135.JMM size 115 crc 5ec99c0b md5 aec21d65ec87f841280bc895b80f59e6 )
+	rom ( name TEXTURES\MEGO\A\1135.M4B size 344048 crc adf74352 md5 b3399c4efdaf35b10276821527eada57 )
+	rom ( name TEXTURES\MEGO\A\1140.JMM size 115 crc aa7430b7 md5 5797fa5860beafcf92ec8508e7589dd5 )
+	rom ( name TEXTURES\MEGO\A\1140.M4B size 385844 crc 21deab64 md5 2c59709e309b5ccd3e38f0f11e00060a )
+	rom ( name TEXTURES\MEGO\A\1145.JMM size 116 crc ad9fa924 md5 71a803486a14e84f7b1bc9042802bd36 )
+	rom ( name TEXTURES\MEGO\A\1145.M4B size 437253 crc 70dc0ee1 md5 612fa9375988012510f4817b7a58de27 )
+	rom ( name TEXTURES\MEGO\A\1146.JMM size 116 crc 2d023e01 md5 30ceccec749fc6621d860a086856b8bc )
+	rom ( name TEXTURES\MEGO\A\1146.M4B size 437253 crc aca929ad md5 f78f6400829495a07d154b27409f898f )
+	rom ( name TEXTURES\MEGO\A\1147.JMM size 116 crc e8607cb7 md5 b2ca93833a112ace02830dae2f3cc2b4 )
+	rom ( name TEXTURES\MEGO\A\1147.M4B size 437253 crc df0287b2 md5 d41c12a3c6b073cf8be6a593f6d038ca )
+	rom ( name TEXTURES\MEGO\A\1150.JMM size 114 crc 21d53dea md5 762a378085791f226598cb1f88c0f6e6 )
+	rom ( name TEXTURES\MEGO\A\1150.M4B size 462435 crc 130b8a12 md5 d685367f7e4ce8fcd67f38426866a8ce )
+	rom ( name TEXTURES\MEGO\A\1155.JMM size 115 crc 05095b22 md5 1509f94d7daf932f1d01b0dd5ab98be6 )
+	rom ( name TEXTURES\MEGO\A\1155.M4B size 162340 crc e4fded59 md5 26acc9cd379c317ea8038f3be30c5373 )
+	rom ( name TEXTURES\MEGO\A\1160.JMM size 115 crc e849a5d6 md5 a9a1cb0ed95ed0f0f630eee2b3641f07 )
+	rom ( name TEXTURES\MEGO\A\1160.M4B size 293161 crc 30a811ea md5 2bc0ed8b38600c7a9ee60d47b2f071d8 )
+	rom ( name TEXTURES\MEGO\A\1165.JMM size 115 crc 84a19d7b md5 1677912c4fb0a33b82fdad6574785268 )
+	rom ( name TEXTURES\MEGO\A\1165.M4B size 354183 crc e7ef637d md5 e009be97820ef8ec6447838aed320495 )
+	rom ( name TEXTURES\MEGO\A\1166.JMM size 115 crc 84a19d7b md5 1677912c4fb0a33b82fdad6574785268 )
+	rom ( name TEXTURES\MEGO\A\1166.M4B size 354183 crc 71b01343 md5 335b43650671b0f8fd571e8fc3b8484e )
+	rom ( name TEXTURES\MEGO\A\1170.JMM size 114 crc 080f7b7f md5 6c05ad6370102b90c3f0bb4a7d08d052 )
+	rom ( name TEXTURES\MEGO\A\1170.M4B size 510918 crc 9127149f md5 ded55dc8448e2202dd2403135649b7a9 )
+	rom ( name TEXTURES\MEGO\A\1171.JMM size 114 crc 080f7b7f md5 6c05ad6370102b90c3f0bb4a7d08d052 )
+	rom ( name TEXTURES\MEGO\A\1171.M4B size 510918 crc 87bacbd0 md5 5776654de391d4a5f73246bf59a51856 )
+	rom ( name TEXTURES\MEGO\A\1172.JMM size 114 crc 080f7b7f md5 6c05ad6370102b90c3f0bb4a7d08d052 )
+	rom ( name TEXTURES\MEGO\A\1172.M4B size 510918 crc 4d35f6ec md5 a76a0087c5e8d2935cdcfc0c7aeba321 )
+	rom ( name TEXTURES\MEGO\A\1173.JMM size 114 crc 080f7b7f md5 6c05ad6370102b90c3f0bb4a7d08d052 )
+	rom ( name TEXTURES\MEGO\A\1173.M4B size 510918 crc 5201f5d7 md5 3d0378dda973f3f8ac47975ce0043149 )
+	rom ( name TEXTURES\MEGO\A\1175.JMM size 114 crc 07834d3c md5 ebda19e9d8f36d2d9f275f4d48cd489c )
+	rom ( name TEXTURES\MEGO\A\1175.M4B size 512276 crc 898041b1 md5 a8d2bf75402048e8eb1ec330b814e053 )
+	rom ( name TEXTURES\MEGO\A\1180.JMM size 114 crc 081a5766 md5 ee6742bcaef8221f0a1acdd78ba7c7ad )
+	rom ( name TEXTURES\MEGO\A\1180.M4B size 382500 crc f1433137 md5 a723ab767da44ea21ce75330353c64a0 )
+	rom ( name TEXTURES\MEGO\A\1185.JMM size 116 crc 1934dec0 md5 96312abeeea1e4102b264d9de9d350e5 )
+	rom ( name TEXTURES\MEGO\A\1185.M4B size 269129 crc c17fe3e7 md5 2e76ad36757bca141601d391ff8a0827 )
+	rom ( name TEXTURES\MEGO\A\1205.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\A\1205.M4B size 45730 crc b7328382 md5 21a2e13ae0c2de70052dca9fb5e3b9e5 )
+	rom ( name TEXTURES\MEGO\A\1210.JMM size 44 crc 72fa2742 md5 b9df20155500313d6d134656cde41358 )
+	rom ( name TEXTURES\MEGO\A\1210.M4B size 280205 crc ad9055e4 md5 d5ffac30b98dc36a10d69ba54832226b )
+	rom ( name TEXTURES\MEGO\A\7200.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\A\7200.M4B size 384903 crc 600a268f md5 108083d6cf09b360d0c6551041945883 )
+	rom ( name TEXTURES\MEGO\B\2100.JMM size 118 crc 12da0f54 md5 b9455d611a393b099a0ff149c79da29f )
+	rom ( name TEXTURES\MEGO\B\2100.M4B size 560342 crc 48943707 md5 bc5b4aadc82be2c5f15f553457d9ad18 )
+	rom ( name TEXTURES\MEGO\B\2105.JMM size 116 crc 14ce2b23 md5 8438fdb1d8738b2ebbd053414f83c5a6 )
+	rom ( name TEXTURES\MEGO\B\2105.M4B size 507888 crc 33b0e893 md5 b58e2cefd9879033eb5914844c256716 )
+	rom ( name TEXTURES\MEGO\B\2106.JMM size 116 crc 713a7a2f md5 2b4a39f53155b0c6dd35f289ada489f5 )
+	rom ( name TEXTURES\MEGO\B\2106.M4B size 507888 crc 5ec5d172 md5 60d380c567adda7f6ee63f658894b344 )
+	rom ( name TEXTURES\MEGO\B\2107.JMM size 113 crc b58bb7e6 md5 c317de9cbdc7bd218c4baeaf4873768d )
+	rom ( name TEXTURES\MEGO\B\2107.M4B size 471421 crc b664d9f1 md5 6078b79418f308b202c6a4040d2ab0eb )
+	rom ( name TEXTURES\MEGO\B\2108.JMM size 112 crc b0e65c31 md5 b5ad11b81ea28ea9d5e92f84817e58be )
+	rom ( name TEXTURES\MEGO\B\2108.M4B size 223467 crc 60c33953 md5 54dddb87babe2b32bbf9c3396b3f28e8 )
+	rom ( name TEXTURES\MEGO\B\2115.JMM size 110 crc f904871c md5 0f5d4435cdd30bd1c85d75aff199f7be )
+	rom ( name TEXTURES\MEGO\B\2115.M4B size 324822 crc 791e833b md5 2a1de9e6701b12c67f750467122fe76d )
+	rom ( name TEXTURES\MEGO\B\2116.JMM size 116 crc f0662d58 md5 2f68045f7fa57f9a22bc543766e6b224 )
+	rom ( name TEXTURES\MEGO\B\2116.M4B size 273935 crc b0fd60b1 md5 bafd43346cbe8d76c38df6b4276c53c0 )
+	rom ( name TEXTURES\MEGO\B\2117.JMM size 116 crc 24a12420 md5 f0f6521268b939cfeb3084da248eac0d )
+	rom ( name TEXTURES\MEGO\B\2117.M4B size 273935 crc a1bd2c0a md5 0b564074f6065e7aa612d3d9692a6bb6 )
+	rom ( name TEXTURES\MEGO\B\2118.JMM size 116 crc 8f148000 md5 8b5032aee5c736dfe7283308143dc52f )
+	rom ( name TEXTURES\MEGO\B\2118.M4B size 273935 crc 87003d8c md5 dfcb0233e2eaf315a3b6bff3d2175d1c )
+	rom ( name TEXTURES\MEGO\B\2119.JMM size 111 crc e322a632 md5 06a170da300e1eaca2082709b4013028 )
+	rom ( name TEXTURES\MEGO\B\2119.M4B size 228064 crc af740dd4 md5 c3209269174bb3c567f336453577ac12 )
+	rom ( name TEXTURES\MEGO\B\2120.JMM size 115 crc 2d5822bb md5 25fcdad1fed185361cc24d2d9f41b520 )
+	rom ( name TEXTURES\MEGO\B\2120.M4B size 261814 crc 437f824e md5 7bae26a1d54fa0985c40143a4bcb1825 )
+	rom ( name TEXTURES\MEGO\B\2125.JMM size 116 crc 82870394 md5 deb8cc0f2a0c710cd8875af8860d91a4 )
+	rom ( name TEXTURES\MEGO\B\2125.M4B size 521681 crc 0284aaab md5 01d1fd21172336708a725b3e9bec5b5c )
+	rom ( name TEXTURES\MEGO\B\2127.JMM size 115 crc f24bc2e3 md5 384667c44f583a62abc60968b6afbbeb )
+	rom ( name TEXTURES\MEGO\B\2127.M4B size 158265 crc c7c79581 md5 4b3bf5c705866369f1202fb10cc6145d )
+	rom ( name TEXTURES\MEGO\B\2130.JMM size 115 crc 88d61a37 md5 9a775184c230f2f8b8545cc9afaa5b00 )
+	rom ( name TEXTURES\MEGO\B\2130.M4B size 268711 crc a85bc7a5 md5 f62c674acf867df29dcedeafca7eef33 )
+	rom ( name TEXTURES\MEGO\B\2135.JMM size 115 crc d7613f69 md5 31a152633a42ffe805d0da52c62c9223 )
+	rom ( name TEXTURES\MEGO\B\2135.M4B size 196717 crc 31dd11dd md5 2b603178dce41553bb7df6b95b347b61 )
+	rom ( name TEXTURES\MEGO\B\2140.JMM size 117 crc 83434501 md5 a2d330f30b059c0f0707026be372af85 )
+	rom ( name TEXTURES\MEGO\B\2140.M4B size 476228 crc 64b78a2b md5 670a8f870c55bc8fa2efb6d63afe7671 )
+	rom ( name TEXTURES\MEGO\B\2145.JMM size 118 crc dc53d8ca md5 5bb0e0a71d310d29d8a55dedc23354e3 )
+	rom ( name TEXTURES\MEGO\B\2145.M4B size 506843 crc 6fcf2dac md5 23f196771d46e781d6ce624acee1004f )
+	rom ( name TEXTURES\MEGO\B\2150.JMM size 114 crc d51206a4 md5 8d68ffc179fe17ef2ef11b3fdf46558e )
+	rom ( name TEXTURES\MEGO\B\2150.M4B size 356587 crc 7f75e8ba md5 bd6faf981029040922cc97735cad13ef )
+	rom ( name TEXTURES\MEGO\B\2155.JMM size 117 crc 45d9f459 md5 ea80188680e5d69cd01e3578325018d3 )
+	rom ( name TEXTURES\MEGO\B\2155.M4B size 301207 crc 8cd25b44 md5 f5789c93948da943125edd41547fa3d0 )
+	rom ( name TEXTURES\MEGO\B\2160.JMM size 114 crc dea3e0e4 md5 ebd4bbc9b1ff649a47362d397be03010 )
+	rom ( name TEXTURES\MEGO\B\2160.M4B size 449896 crc 8c51082d md5 d1b4599c6e42d230814d5219f6e319f5 )
+	rom ( name TEXTURES\MEGO\B\2165.JMM size 114 crc 870a30a5 md5 9f8f5e53c4d4020548652ae2e49ebc34 )
+	rom ( name TEXTURES\MEGO\B\2165.M4B size 262859 crc 08a2a8d9 md5 2d6329775c5923a0fddaecb168f154b6 )
+	rom ( name TEXTURES\MEGO\B\2170.JMM size 118 crc 7d4dcc80 md5 a4e6e8e6789570f7b89ad5570ae0b3a0 )
+	rom ( name TEXTURES\MEGO\B\2170.M4B size 604541 crc 21a8f388 md5 e3aea851ed7956203f12873d6f02d7e0 )
+	rom ( name TEXTURES\MEGO\B\2175.JMM size 118 crc 91993a72 md5 cb1afa4471f873a8ea38ba3dd320da8e )
+	rom ( name TEXTURES\MEGO\B\2175.M4B size 583121 crc e8fdbf12 md5 416a9e67d469e97b97237fe61b833d95 )
+	rom ( name TEXTURES\MEGO\B\2185.JMM size 115 crc a8088b2e md5 f08608239506ed6b99f28381cbfb6dc6 )
+	rom ( name TEXTURES\MEGO\B\2185.M4B size 373828 crc 56ab5f9c md5 b406dccd53b2f55af5ff46d4f6f89604 )
+	rom ( name TEXTURES\MEGO\B\2186.JMM size 118 crc 91993a72 md5 cb1afa4471f873a8ea38ba3dd320da8e )
+	rom ( name TEXTURES\MEGO\B\2186.M4B size 583121 crc ffae5749 md5 dbab72eaa112b8cbab6b5884164ff204 )
+	rom ( name TEXTURES\MEGO\B\2190.JMM size 118 crc 75c21ca1 md5 0c731a6a9b368988356dfcc09e65d925 )
+	rom ( name TEXTURES\MEGO\B\2190.M4B size 837762 crc c945b782 md5 dd41c683b46dea3e523a9c52d67d9b82 )
+	rom ( name TEXTURES\MEGO\B\2195.JMM size 116 crc 1925bbc4 md5 93305fc0363856b4768829a588525e01 )
+	rom ( name TEXTURES\MEGO\B\2195.M4B size 354915 crc 328bdd78 md5 d460521aef6223ab1872f197d2690319 )
+	rom ( name TEXTURES\MEGO\B\2200.JMM size 44 crc 62afc30d md5 d5a49d21bef43e2fc230fc0489f6bcc2 )
+	rom ( name TEXTURES\MEGO\B\2200.M4B size 120335 crc 549d8700 md5 26defe123ad113a6396a0fc453b0920f )
+	rom ( name TEXTURES\MEGO\B\2207.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\B\2207.M4B size 133188 crc 26c883a7 md5 8c698d6667bba3b6d35d5177edfa519b )
+	rom ( name TEXTURES\MEGO\B\2208.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\B\2208.M4B size 66001 crc bfdc67ad md5 1d8483c22daf9789991b0886b92061e1 )
+	rom ( name TEXTURES\MEGO\B\2210.JMM size 43 crc aa453da8 md5 f0e23e8c0294e31f69a459f7b18a7456 )
+	rom ( name TEXTURES\MEGO\B\2210.M4B size 43744 crc 2ab26232 md5 eec3dfb1768f76a1ff22bcaa550bcd09 )
+	rom ( name TEXTURES\MEGO\B\2215.M4B size 133814 crc 3bda4c79 md5 3f42083326968d1efc9586c7069f0fbe )
+	rom ( name TEXTURES\MEGO\B\2220.M4B size 143428 crc 649c36b9 md5 9094b9e1c1b949cacc5f69d262512ee2 )
+	rom ( name TEXTURES\MEGO\B\2225.M4B size 49596 crc 11b99229 md5 37a55eff9761db1619bd19de65f2e8b8 )
+	rom ( name TEXTURES\MEGO\C\3100.JMM size 111 crc 25ca1e77 md5 09e2aa2a68d35e7ab41f61ef293851bb )
+	rom ( name TEXTURES\MEGO\C\3100.M4B size 255963 crc e4975436 md5 1b18080cbc439e30925877253c9b8a71 )
+	rom ( name TEXTURES\MEGO\C\3102.JMM size 111 crc 8736eaec md5 5d730bfa4c6094d2860da45f2a402b99 )
+	rom ( name TEXTURES\MEGO\C\3102.M4B size 263904 crc 27356311 md5 ceafee67fc844821f2c67f9c89f42540 )
+	rom ( name TEXTURES\MEGO\C\3105.JMM size 111 crc aada528c md5 8fd46c7cc9ea37b0d7ccf725080d2c84 )
+	rom ( name TEXTURES\MEGO\C\3105.M4B size 501514 crc dbd006c2 md5 2d47a264850e396fe3a8555d13701f68 )
+	rom ( name TEXTURES\MEGO\C\3106.JMM size 111 crc 5c7edcd6 md5 154c4f2dd7f16ca36348166e87419889 )
+	rom ( name TEXTURES\MEGO\C\3106.M4B size 255963 crc 611e4838 md5 51d4258d852e5208e298d4bd32f1dcf4 )
+	rom ( name TEXTURES\MEGO\C\3107.JMM size 112 crc 9492965b md5 91264ae44bae1b0786596983e7510840 )
+	rom ( name TEXTURES\MEGO\C\3107.M4B size 502245 crc c7a7e2c0 md5 438a175262d03a0177d0f1709b52963e )
+	rom ( name TEXTURES\MEGO\C\3110.JMM size 113 crc b9974549 md5 74004d684f8f04b6f3eee9c934d52238 )
+	rom ( name TEXTURES\MEGO\C\3110.M4B size 481556 crc 0b98c14a md5 101456fd0b5d67deebfd3a937ea5264a )
+	rom ( name TEXTURES\MEGO\C\3115.JMM size 113 crc 67bffa5e md5 99cd865780818d80a8325f5346b7c2cb )
+	rom ( name TEXTURES\MEGO\C\3115.M4B size 515411 crc 07a2709a md5 88f2132e739fddce7601da2e7f753346 )
+	rom ( name TEXTURES\MEGO\C\3120.JMM size 113 crc bb865bdc md5 ad07edcd807f4fe676c3db1d599e5103 )
+	rom ( name TEXTURES\MEGO\C\3120.M4B size 464838 crc cbae88d7 md5 f36e3e0ac7fbcbdaa8dbdf35ea416aaa )
+	rom ( name TEXTURES\MEGO\C\3125.JMM size 113 crc b9974549 md5 74004d684f8f04b6f3eee9c934d52238 )
+	rom ( name TEXTURES\MEGO\C\3125.M4B size 481556 crc b05d79cb md5 c9e00318f3da0379c5fb3a8ade780744 )
+	rom ( name TEXTURES\MEGO\C\3130.JMM size 113 crc 67bffa5e md5 99cd865780818d80a8325f5346b7c2cb )
+	rom ( name TEXTURES\MEGO\C\3130.M4B size 515411 crc 91976623 md5 d7af25ed2c8b3af5653393d807f7fbd9 )
+	rom ( name TEXTURES\MEGO\C\3135.JMM size 113 crc bb865bdc md5 ad07edcd807f4fe676c3db1d599e5103 )
+	rom ( name TEXTURES\MEGO\C\3135.M4B size 464838 crc 1a638f46 md5 84f6ca56033d6ff66322266d7b509c54 )
+	rom ( name TEXTURES\MEGO\C\3140.JMM size 116 crc ac724b29 md5 a932717c78e3d62702672f274ba68be4 )
+	rom ( name TEXTURES\MEGO\C\3140.M4B size 427222 crc ec610ce8 md5 d35150bbdc2dd8e6408212e6926ff167 )
+	rom ( name TEXTURES\MEGO\C\3145.JMM size 114 crc 0de325ff md5 11206517dfae8533fdebeeedaebb946c )
+	rom ( name TEXTURES\MEGO\C\3145.M4B size 528577 crc 3db309d3 md5 9699de12e6858465cebac995cad6d849 )
+	rom ( name TEXTURES\MEGO\C\3147.JMM size 112 crc ce5b0852 md5 f57514b0d96c320e2ecc19ba7f1ad7d4 )
+	rom ( name TEXTURES\MEGO\C\3147.M4B size 223153 crc badc0090 md5 79d980d8e00fa22f69c019bc66bf12cf )
+	rom ( name TEXTURES\MEGO\C\3150.JMM size 116 crc e0b8d789 md5 a90e150284fe6977a694f915987a40c4 )
+	rom ( name TEXTURES\MEGO\C\3150.M4B size 462226 crc 67c64911 md5 bf92d55263cad2c68cedc48edfaa7aff )
+	rom ( name TEXTURES\MEGO\C\3200.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\C\3200.M4B size 56492 crc 25605d15 md5 00c0a9d3bdc25a0c86ebc417ab238326 )
+	rom ( name TEXTURES\MEGO\C\3205.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\C\3205.M4B size 50745 crc e7f29ac1 md5 1f2fcdb021de1fb663c85ad9cb412f0f )
+	rom ( name TEXTURES\MEGO\C\3210.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\C\3210.M4B size 39356 crc 38b79826 md5 c7958a67711311dc7723eeaedf7c2c2e )
+	rom ( name TEXTURES\MEGO\C\4100.JMM size 115 crc 4f67c9b1 md5 5228257c62f7d67b811ebb334455890c )
+	rom ( name TEXTURES\MEGO\C\4100.M4B size 417295 crc 061be000 md5 a80893769c61b50660237ffcc9a37746 )
+	rom ( name TEXTURES\MEGO\C\4105.JMM size 112 crc 91985462 md5 bb5df841277d357ff075562e04f76445 )
+	rom ( name TEXTURES\MEGO\C\4105.M4B size 256276 crc c8e6770d md5 3d3569bad9de567d3fb3bf4d10d1eec4 )
+	rom ( name TEXTURES\MEGO\C\4106.JMM size 115 crc 4f67c9b1 md5 5228257c62f7d67b811ebb334455890c )
+	rom ( name TEXTURES\MEGO\C\4106.M4B size 417295 crc cb5c3be6 md5 50385fca2935125f12d0ff0b27a9b26b )
+	rom ( name TEXTURES\MEGO\C\4110.JMM size 117 crc ba279e59 md5 023776cd15459ff004a8a034ec4d3b84 )
+	rom ( name TEXTURES\MEGO\C\4110.M4B size 457942 crc e872f8f0 md5 0a279633e394dd8b856d263a73351777 )
+	rom ( name TEXTURES\MEGO\C\4115.JMM size 117 crc 0e8178a0 md5 eace73ac1c0b0544b627c6e7136ef567 )
+	rom ( name TEXTURES\MEGO\C\4115.M4B size 512068 crc 91ee4a34 md5 599563d3a4615762d960dbf78b42da86 )
+	rom ( name TEXTURES\MEGO\C\4120.JMM size 116 crc 02f5f36c md5 8fdfaa4ef27a8d338674053b8207edc4 )
+	rom ( name TEXTURES\MEGO\C\4120.M4B size 223362 crc 073b8ef6 md5 0c1c936c9737d76fb4219d57cb631ed9 )
+	rom ( name TEXTURES\MEGO\C\4215.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\C\4215.M4B size 62970 crc d88b6405 md5 69c882b6a5bf588aaa64c4599971aff7 )
+	rom ( name TEXTURES\MEGO\D\5100.JMM size 113 crc 18af5334 md5 75ead54d168bee636adafd29794d4f7e )
+	rom ( name TEXTURES\MEGO\D\5100.M4B size 294102 crc c09b87c2 md5 1f6fe72a2904084e40d75a23ae679b4e )
+	rom ( name TEXTURES\MEGO\D\5105.JMM size 112 crc a42bd7a3 md5 a191eaa4bb0304741a8fe61270a3b88e )
+	rom ( name TEXTURES\MEGO\D\5105.M4B size 307581 crc 8f8c6e8e md5 95e05c1a080b3d1b20f74c8d6d653f47 )
+	rom ( name TEXTURES\MEGO\D\5106.JMM size 113 crc b0f1f4f5 md5 c32738d2a7d028eee7433fc1c43ba0ce )
+	rom ( name TEXTURES\MEGO\D\5106.M4B size 225452 crc 295057bc md5 2da6dfed65b32cc5f0ee279a4baac125 )
+	rom ( name TEXTURES\MEGO\D\5110.JMM size 115 crc 556cf361 md5 494b4815e87ee67cf9cbd636c5c41993 )
+	rom ( name TEXTURES\MEGO\D\5110.M4B size 386889 crc 8e530486 md5 c90183f62d564c3d24730d1c8105d094 )
+	rom ( name TEXTURES\MEGO\D\5115.JMM size 115 crc 1cf2527e md5 c9c961cf117b836129ee80c1da750165 )
+	rom ( name TEXTURES\MEGO\D\5115.M4B size 280832 crc 2454caa7 md5 a6bf7df5a565b4692184f743bc2a69ed )
+	rom ( name TEXTURES\MEGO\D\5117.JMM size 116 crc 394f177a md5 767d4242e74330ad3c14bb9bb0a2a47f )
+	rom ( name TEXTURES\MEGO\D\5117.M4B size 245932 crc 572e0efc md5 5b769d2b8fb5e972143a8dacb7efd9e0 )
+	rom ( name TEXTURES\MEGO\D\5120.JMM size 115 crc 859f3f1c md5 abcaccdb7cccd7c521afc17ea4c9b1a2 )
+	rom ( name TEXTURES\MEGO\D\5120.M4B size 281459 crc c670c1f8 md5 18a4d6e6312a7370c50e62dc75d6acd3 )
+	rom ( name TEXTURES\MEGO\D\5125.JMM size 115 crc bfe25a0e md5 7177e725cc9556b117ac7d213b8a1a77 )
+	rom ( name TEXTURES\MEGO\D\5125.M4B size 469958 crc 9b816f17 md5 882866f235b2f3359f71b0753e7b8f45 )
+	rom ( name TEXTURES\MEGO\D\5130.JMM size 114 crc bcf64ff0 md5 10421dd1c41733404b35a7161570d522 )
+	rom ( name TEXTURES\MEGO\D\5130.M4B size 495454 crc f7ff3e41 md5 6aace84114b7cb4f31570486581ca5c8 )
+	rom ( name TEXTURES\MEGO\D\5135.JMM size 113 crc dcb79013 md5 ec021da04406aa1f6495b10c916837d3 )
+	rom ( name TEXTURES\MEGO\D\5135.M4B size 503081 crc d4e18671 md5 47394369d4aa99b617c05256159547d0 )
+	rom ( name TEXTURES\MEGO\D\5136.JMM size 113 crc dcb79013 md5 ec021da04406aa1f6495b10c916837d3 )
+	rom ( name TEXTURES\MEGO\D\5136.M4B size 503081 crc 33380ecf md5 5315b5aa51fcf476806cc117cf1a354d )
+	rom ( name TEXTURES\MEGO\D\5137.JMM size 113 crc dcb79013 md5 ec021da04406aa1f6495b10c916837d3 )
+	rom ( name TEXTURES\MEGO\D\5137.M4B size 503081 crc 640c01f9 md5 b79601a6054e12d3f8f99acb23d30ef0 )
+	rom ( name TEXTURES\MEGO\D\5138.JMM size 113 crc dcb79013 md5 ec021da04406aa1f6495b10c916837d3 )
+	rom ( name TEXTURES\MEGO\D\5138.M4B size 503081 crc 9cadcdf6 md5 68c393b6fca8aad92899f1ad30572d16 )
+	rom ( name TEXTURES\MEGO\D\5140.JMM size 117 crc 786e8708 md5 d83a30195dc90af1f87473de8f640a9c )
+	rom ( name TEXTURES\MEGO\D\5140.M4B size 425445 crc af2eae8a md5 867d6fafbab200045d00fa9871872347 )
+	rom ( name TEXTURES\MEGO\D\5141.JMM size 117 crc 786e8708 md5 d83a30195dc90af1f87473de8f640a9c )
+	rom ( name TEXTURES\MEGO\D\5141.M4B size 425445 crc fe28d69a md5 545e697b755dc9764c17ade380424cd7 )
+	rom ( name TEXTURES\MEGO\D\5142.JMM size 117 crc 786e8708 md5 d83a30195dc90af1f87473de8f640a9c )
+	rom ( name TEXTURES\MEGO\D\5142.M4B size 425445 crc 581c2adb md5 79dc16d8d13b54e5652448b6a2ba8105 )
+	rom ( name TEXTURES\MEGO\D\5145.JMM size 112 crc a42bd7a3 md5 a191eaa4bb0304741a8fe61270a3b88e )
+	rom ( name TEXTURES\MEGO\D\5145.M4B size 307581 crc 8b71834e md5 11979e4a3e2839c7609b76a554df4878 )
+	rom ( name TEXTURES\MEGO\D\5150.JMM size 114 crc 8a08f22f md5 946f4adfb34c101abc58ee2924e7937c )
+	rom ( name TEXTURES\MEGO\D\5150.M4B size 435268 crc d9011dc6 md5 f6b63a13275333bca88d021f1306b5b6 )
+	rom ( name TEXTURES\MEGO\D\5155.JMM size 116 crc 440630c3 md5 36ae4d156635a4333784c6e216a65639 )
+	rom ( name TEXTURES\MEGO\D\5155.M4B size 421370 crc 6edefaf0 md5 e0f5d400d65839e70be03156195880a3 )
+	rom ( name TEXTURES\MEGO\D\5160.JMM size 116 crc b5bc6ee3 md5 2070320fbc7441a39e21d0b3b2587ab5 )
+	rom ( name TEXTURES\MEGO\D\5160.M4B size 417818 crc e3a34d72 md5 01d436f04a4d77055331c0931eeb5dc8 )
+	rom ( name TEXTURES\MEGO\D\5165.JMM size 115 crc aaacc9d8 md5 1a44c7101eb6117762aeabee4e7c7c78 )
+	rom ( name TEXTURES\MEGO\D\5165.M4B size 418549 crc 922f858a md5 46d4c7631df4a6a090bae86b7a0eae9e )
+	rom ( name TEXTURES\MEGO\D\5170.JMM size 115 crc 7399417c md5 1c3fcade283ea7f253e848369dad3942 )
+	rom ( name TEXTURES\MEGO\D\5170.M4B size 418549 crc 19874e69 md5 d946d6337053f2b3bc96098b63275ed3 )
+	rom ( name TEXTURES\MEGO\D\5200.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\D\5200.M4B size 56701 crc dc6a2288 md5 0fb60bbbe510a3d8c194291232fb0eec )
+	rom ( name TEXTURES\MEGO\D\5205.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\D\5205.M4B size 223885 crc 88f46523 md5 b3d9e3eab84f6e3884ebbb16ed2c439c )
+	rom ( name TEXTURES\MEGO\D\5215.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\D\5215.M4B size 134441 crc c53dc6e8 md5 aa72457a53f1ef32fef77774d84b0e27 )
+	rom ( name TEXTURES\MEGO\D\5220.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\D\5220.M4B size 167669 crc ab375264 md5 fe299b3e984c2b77e16d500a5b3b98f8 )
+	rom ( name TEXTURES\MEGO\D\5225.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\D\5225.M4B size 46043 crc 5fc8b11c md5 7e29c41f4968d5ec22f5a6c379a493ec )
+	rom ( name TEXTURES\MEGO\D\5230.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\D\5230.M4B size 50850 crc 06172620 md5 3cd90f842eae91d9df7c0a0d9d53f5f3 )
+	rom ( name TEXTURES\MEGO\D\6100.JMM size 115 crc 35509668 md5 57e865ae4e0e87933586ee21fd945f52 )
+	rom ( name TEXTURES\MEGO\D\6100.M4B size 348228 crc 6930a50f md5 be93da34af05524c030d13f1cc5ff06e )
+	rom ( name TEXTURES\MEGO\D\6105.JMM size 116 crc 737275dd md5 e1758f0841accda686c39f96930f9189 )
+	rom ( name TEXTURES\MEGO\D\6105.M4B size 568388 crc 9b43b906 md5 a2739893e01210aef1b6c2f4002e682d )
+	rom ( name TEXTURES\MEGO\D\6110.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\D\6110.M4B size 233498 crc 6fcf1e7f md5 dd5f08949a8b943c2cc977711e2ecb7e )
+	rom ( name TEXTURES\MEGO\S\1110.JMM size 116 crc 053d150e md5 e24d82be28ea8f912ef9a597c308ad9e )
+	rom ( name TEXTURES\MEGO\S\1110.M4B size 356691 crc 31ae5158 md5 de7eaf7a52c43e800b2e55e34bf7ac91 )
+	rom ( name TEXTURES\MEGO\S\1195.JMM size 114 crc 95c4ac4e md5 d39398b6f0ec5ba32e9095c466a2fdf8 )
+	rom ( name TEXTURES\MEGO\S\1195.M4B size 72583 crc e16533f4 md5 7e482711076d988619a47aedb0c66b1e )
+	rom ( name TEXTURES\MEGO\S\1200.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\S\1200.M4B size 34340 crc b7224d5d md5 e8742d2d9c17f296499b3accbb6c00b6 )
+	rom ( name TEXTURES\MEGO\S\1215.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\MEGO\S\1215.M4B size 35490 crc 9739d295 md5 c27f300e40931a25a41e491bef9b5099 )
+	rom ( name TEXTURES\MEGO\S\7210.M4B size 224616 crc 2461c28d md5 9c2d35c9b3f7067562704e72bbf8e056 )
+	rom ( name TEXTURES\SPAGO\A\1000.JMM size 119 crc 29c6e35f md5 fe34758ae264776f53a67869f78bc485 )
+	rom ( name TEXTURES\SPAGO\A\1000.M4B size 1504825 crc 747e01b0 md5 2f4eb86405dcb8891abb28650d18e7bd )
+	rom ( name TEXTURES\SPAGO\A\1100.JMM size 118 crc a8c7e55b md5 39e5cc23a89c1c675453f7f1fa6b343f )
+	rom ( name TEXTURES\SPAGO\A\1100.M4B size 1044234 crc 5625ba12 md5 1bf0ba544d5ddc31e8dd83f7fd8e5ca6 )
+	rom ( name TEXTURES\SPAGO\A\1105.JMM size 117 crc a461dea8 md5 aeaed73d335c61ec345431040484a184 )
+	rom ( name TEXTURES\SPAGO\A\1105.M4B size 1682875 crc 8965c754 md5 29cd20e47cbd900af7193dbbabf98456 )
+	rom ( name TEXTURES\SPAGO\A\1115.JMM size 118 crc 12ecb799 md5 341d7c026ff767b91c3c6d79bb6d7458 )
+	rom ( name TEXTURES\SPAGO\A\1115.M4B size 2104596 crc d6bcaeab md5 ebe095f7e595b95e267b99258ead69ca )
+	rom ( name TEXTURES\SPAGO\A\1117.JMM size 118 crc c843158c md5 6875248142e6ffd9252905bdbef51ae5 )
+	rom ( name TEXTURES\SPAGO\A\1117.M4B size 2118807 crc c10003b7 md5 864f01eb867abe47fee1c781ce75d690 )
+	rom ( name TEXTURES\SPAGO\A\1118.JMM size 118 crc c843158c md5 6875248142e6ffd9252905bdbef51ae5 )
+	rom ( name TEXTURES\SPAGO\A\1118.M4B size 2118807 crc 38164665 md5 7701d22ac5aded08ac6767ed6d80ed6a )
+	rom ( name TEXTURES\SPAGO\A\1119.JMM size 118 crc 12ecb799 md5 341d7c026ff767b91c3c6d79bb6d7458 )
+	rom ( name TEXTURES\SPAGO\A\1119.M4B size 2104596 crc 8d0b1c0d md5 fa32391ef4458d2f59e8a6c31187131e )
+	rom ( name TEXTURES\SPAGO\A\1120.JMM size 117 crc 8c9221f2 md5 6c6536d87c60604e6114b294b351261b )
+	rom ( name TEXTURES\SPAGO\A\1120.M4B size 1461775 crc c65634fa md5 3fb61c14567fd1bacf8e53dd011c7f8c )
+	rom ( name TEXTURES\SPAGO\A\1125.JMM size 117 crc 3fa63981 md5 f83f15635e0002e6ec5d967d14ab11a8 )
+	rom ( name TEXTURES\SPAGO\A\1125.M4B size 1470552 crc c0ef71e2 md5 eb9a9697988425578ba1b954b5961c8e )
+	rom ( name TEXTURES\SPAGO\A\1130.JMM size 117 crc 226a2114 md5 15f4c31f543df6184f26f5a687b5ff25 )
+	rom ( name TEXTURES\SPAGO\A\1130.M4B size 1450490 crc ac9f6e06 md5 4757a8307d7a2d4f56cc7e3686850bd8 )
+	rom ( name TEXTURES\SPAGO\A\1135.JMM size 117 crc 5c7c8b85 md5 3e40fcf9618466bd7277bea88ba3a3bd )
+	rom ( name TEXTURES\SPAGO\A\1135.M4B size 1373585 crc 842050d3 md5 d050fc12eb50ddaaad9888aa129ff6cf )
+	rom ( name TEXTURES\SPAGO\A\1140.JMM size 117 crc da81a5f4 md5 095a248af815fd77072e024ca996e728 )
+	rom ( name TEXTURES\SPAGO\A\1140.M4B size 1540769 crc f9f0f5ba md5 8aa0dcc594adb09eef2dca49ca9e56c7 )
+	rom ( name TEXTURES\SPAGO\A\1145.JMM size 118 crc ad109175 md5 e582da571953ea1e48ef0eedb54fc4bf )
+	rom ( name TEXTURES\SPAGO\A\1145.M4B size 1746405 crc 6c0b9b2c md5 83fffa5d0742d22d2a1c968d26294153 )
+	rom ( name TEXTURES\SPAGO\A\1146.JMM size 118 crc 2b88c7e8 md5 431dc1ea3b4217aa366a0f94601dd50e )
+	rom ( name TEXTURES\SPAGO\A\1146.M4B size 1746405 crc 117b3782 md5 71286b456b4ca272456c52b253ef9125 )
+	rom ( name TEXTURES\SPAGO\A\1147.JMM size 118 crc 6f5d630c md5 3fab5654e802805c028c3c8750b97436 )
+	rom ( name TEXTURES\SPAGO\A\1147.M4B size 1746405 crc 2efb2aac md5 bcb3f1c80ca7ce026c2cedacfc2fc2d1 )
+	rom ( name TEXTURES\SPAGO\A\1150.JMM size 117 crc 6fdbe610 md5 eb769cdf1733d0105ba68daa2f19a367 )
+	rom ( name TEXTURES\SPAGO\A\1150.M4B size 1847133 crc 05f6fb56 md5 ba3d71937b8055fe9a73ca0b7cd932b8 )
+	rom ( name TEXTURES\SPAGO\A\1155.JMM size 116 crc df531e04 md5 f259d2fbd7042e5cccee42db9d16cc9b )
+	rom ( name TEXTURES\SPAGO\A\1155.M4B size 646754 crc b36bc24c md5 2a6586ae030bf93749a69ea451a6e6f1 )
+	rom ( name TEXTURES\SPAGO\A\1160.JMM size 116 crc 158a54a7 md5 721b9711ff2fad0f9b693f763061c670 )
+	rom ( name TEXTURES\SPAGO\A\1160.M4B size 1170039 crc 79c2cd20 md5 9bfeba6ef3370c9bb0e1e7ce0469a024 )
+	rom ( name TEXTURES\SPAGO\A\1165.JMM size 117 crc 82dc5554 md5 b904008d627042ae6049ba76078f087a )
+	rom ( name TEXTURES\SPAGO\A\1165.M4B size 1414127 crc a9f85412 md5 f6a94888308bc81d2ea63f8396f67072 )
+	rom ( name TEXTURES\SPAGO\A\1166.JMM size 117 crc 82dc5554 md5 b904008d627042ae6049ba76078f087a )
+	rom ( name TEXTURES\SPAGO\A\1166.M4B size 1414127 crc 364173ba md5 d1fd068a4146f3556817e4c7e3d0c7b8 )
+	rom ( name TEXTURES\SPAGO\A\1170.JMM size 117 crc e0c6d708 md5 c710b910e61d681a1857b75e7d47d6e8 )
+	rom ( name TEXTURES\SPAGO\A\1170.M4B size 2041066 crc d393fd35 md5 0e94513babca4046d63272758d9c8a93 )
+	rom ( name TEXTURES\SPAGO\A\1171.JMM size 117 crc e0c6d708 md5 c710b910e61d681a1857b75e7d47d6e8 )
+	rom ( name TEXTURES\SPAGO\A\1171.M4B size 2041066 crc 785f41ae md5 0b4c783f1d709d88eaf014f64c831b8e )
+	rom ( name TEXTURES\SPAGO\A\1172.JMM size 117 crc e0c6d708 md5 c710b910e61d681a1857b75e7d47d6e8 )
+	rom ( name TEXTURES\SPAGO\A\1172.M4B size 2041066 crc 6bd9129b md5 3c84d372cb000f7c86e8e5f0b03808cd )
+	rom ( name TEXTURES\SPAGO\A\1173.JMM size 117 crc e0c6d708 md5 c710b910e61d681a1857b75e7d47d6e8 )
+	rom ( name TEXTURES\SPAGO\A\1173.M4B size 2041066 crc 4b340277 md5 aa27ce975ebc6528ef01e3fce4135320 )
+	rom ( name TEXTURES\SPAGO\A\1175.JMM size 117 crc 327dbb74 md5 6070155a008dca2a8ce493f6e20a403e )
+	rom ( name TEXTURES\SPAGO\A\1175.M4B size 2048589 crc bb83b871 md5 13434713a56eee92f0c7758bbde065f2 )
+	rom ( name TEXTURES\SPAGO\A\1180.JMM size 117 crc 68183060 md5 ae11ac113b15d2467ac4cbce1061ec28 )
+	rom ( name TEXTURES\SPAGO\A\1180.M4B size 1527394 crc b345d1b0 md5 ed49cddc19e1cc8c3df00d3d7743dcb4 )
+	rom ( name TEXTURES\SPAGO\A\1185.JMM size 119 crc b0a15b8e md5 ff3b1e9ed2a825bf04e93b879ece9a38 )
+	rom ( name TEXTURES\SPAGO\A\1185.M4B size 1073909 crc da1a6552 md5 ec9dfd22154c8c3ee2312d867bdcf06a )
+	rom ( name TEXTURES\SPAGO\A\1205.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\A\1205.M4B size 180312 crc 87a794c8 md5 5db3208f9322a1d3b3312ed4a054a491 )
+	rom ( name TEXTURES\SPAGO\A\1210.JMM size 44 crc 72fa2742 md5 b9df20155500313d6d134656cde41358 )
+	rom ( name TEXTURES\SPAGO\A\1210.M4B size 1118212 crc 888b5027 md5 cf82fb284c8d2df29867d0a7efa353f6 )
+	rom ( name TEXTURES\SPAGO\A\7200.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\A\7200.M4B size 1537007 crc adf1d992 md5 0091e5d16894b48552d5efcc5adcf99a )
+	rom ( name TEXTURES\SPAGO\A\HSANCI~1 size 18000 crc 50af2619 md5 512b14c4855a29372f47a4ca551951a3 )
+	rom ( name TEXTURES\SPAGO\B\2100.JMM size 120 crc d57db122 md5 220d8e135ec371a648b4a9f7de3382c2 )
+	rom ( name TEXTURES\SPAGO\B\2100.M4B size 2238761 crc 1a1e81ac md5 d58d6e2f7f28278f04e159a1d4b66acd )
+	rom ( name TEXTURES\SPAGO\B\2105.JMM size 118 crc 3f552550 md5 21f601a26a0e2a497a581d798906b772 )
+	rom ( name TEXTURES\SPAGO\B\2105.M4B size 2028945 crc 4e633b10 md5 8aaaf0f87542e5b02d4fcb49358dc52a )
+	rom ( name TEXTURES\SPAGO\B\2106.JMM size 118 crc 8f8c6eca md5 188cd764770a7a5943ffd4577f913e32 )
+	rom ( name TEXTURES\SPAGO\B\2106.M4B size 2028945 crc add0a4ca md5 138c929e89422bbeec6f60c171fb9043 )
+	rom ( name TEXTURES\SPAGO\B\2107.JMM size 115 crc 7f0f1584 md5 2b1aa2833f8cd6bd83fa923cbfded367 )
+	rom ( name TEXTURES\SPAGO\B\2107.M4B size 1883078 crc 3e500a20 md5 13aa986a9b586b1bd5727ed8c59288e1 )
+	rom ( name TEXTURES\SPAGO\B\2108.JMM size 113 crc c3fdbe7b md5 52b1f0a9c21ede14aaff7f21a3865caf )
+	rom ( name TEXTURES\SPAGO\B\2108.M4B size 891261 crc 8c1a718b md5 4b171884a2ae06ee525b0f1536c7c56f )
+	rom ( name TEXTURES\SPAGO\B\2115.JMM size 113 crc 8d55a592 md5 9630720f1bf061bdf9bbf62a129d525e )
+	rom ( name TEXTURES\SPAGO\B\2115.M4B size 1296681 crc 1bf9215d md5 85d0d28f52af5c463645ec71e449a6fb )
+	rom ( name TEXTURES\SPAGO\B\2116.JMM size 118 crc b3bec58f md5 56d963137a1a9af0d2bbeadcd2251668 )
+	rom ( name TEXTURES\SPAGO\B\2116.M4B size 1093135 crc ec93856e md5 9e5675ca559ddc0b41033b2dad40b017 )
+	rom ( name TEXTURES\SPAGO\B\2117.JMM size 118 crc b5011b0c md5 3362f6c38fe80ea987c3768cb43a2231 )
+	rom ( name TEXTURES\SPAGO\B\2117.M4B size 1093135 crc 73f6f05c md5 533b4eaa0e3a9610b426d5abb6d6a2a5 )
+	rom ( name TEXTURES\SPAGO\B\2118.JMM size 118 crc 2b97775c md5 ed50800e37325f91cc4dcae8b1f6d30c )
+	rom ( name TEXTURES\SPAGO\B\2118.M4B size 1093135 crc e1295b52 md5 60f1a73949e708ec88d9997ea7de648e )
+	rom ( name TEXTURES\SPAGO\B\2119.JMM size 113 crc 6c40f9cc md5 02b2f2c41014d7675249832498bd6076 )
+	rom ( name TEXTURES\SPAGO\B\2119.M4B size 909651 crc 1c96332f md5 7b5efb3ff31821576b2546e1fd609157 )
+	rom ( name TEXTURES\SPAGO\B\2120.JMM size 117 crc 4f0daa96 md5 9b15ce173b7cf764378c3ebb367b2651 )
+	rom ( name TEXTURES\SPAGO\B\2120.M4B size 1044652 crc 6e4e7fd1 md5 b6153fddac8acfae15b294a3a3f57a86 )
+	rom ( name TEXTURES\SPAGO\B\2125.JMM size 119 crc 1c931daa md5 94589f785b2bb9a7320dfc92669fb3a0 )
+	rom ( name TEXTURES\SPAGO\B\2125.M4B size 2084116 crc 7fc9e575 md5 4627e3e3f7927eddf4f419d85b9e85cc )
+	rom ( name TEXTURES\SPAGO\B\2127.JMM size 116 crc 11b57bb4 md5 43db341a11cb9127f9e01c0f3f300dce )
+	rom ( name TEXTURES\SPAGO\B\2127.M4B size 630454 crc a5275395 md5 ba3b6801a982244bf4fdbcbe693a639a )
+	rom ( name TEXTURES\SPAGO\B\2130.JMM size 117 crc 0fa0f3b7 md5 3fc88dc4a97e9957384aa4d8321bdfe3 )
+	rom ( name TEXTURES\SPAGO\B\2130.M4B size 1072237 crc 523c92e2 md5 784cdc297c6cc7f1204c890a1aef53d6 )
+	rom ( name TEXTURES\SPAGO\B\2135.JMM size 116 crc cc636ea4 md5 7a9f0c4587d070759d3d0c3a64ff2937 )
+	rom ( name TEXTURES\SPAGO\B\2135.M4B size 784263 crc ffc2082d md5 1b468a374304f6719a0993627e02cee6 )
+	rom ( name TEXTURES\SPAGO\B\2140.JMM size 120 crc d3a6ce4b md5 30480665bcdf796f9cc1870bd4622067 )
+	rom ( name TEXTURES\SPAGO\B\2140.M4B size 1902304 crc b3d54d18 md5 49025f69e63ffb33599eb8572a38e473 )
+	rom ( name TEXTURES\SPAGO\B\2145.JMM size 120 crc ba3c7f51 md5 c11a87248f496f9b82dc5b62055817d9 )
+	rom ( name TEXTURES\SPAGO\B\2145.M4B size 2024766 crc cd02a901 md5 ba78662bdb0be3a064e162b663912dd0 )
+	rom ( name TEXTURES\SPAGO\B\2150.JMM size 117 crc 67a007c9 md5 e540df96cb7c75f28bee9190f7892165 )
+	rom ( name TEXTURES\SPAGO\B\2150.M4B size 1423741 crc ec6fdd50 md5 9ba1b7125236070e8043c5048b134726 )
+	rom ( name TEXTURES\SPAGO\B\2155.JMM size 119 crc e42dd5bd md5 9bf8b18a4a007d697de1f9af92029d49 )
+	rom ( name TEXTURES\SPAGO\B\2155.M4B size 1202222 crc 2ff24b5e md5 969fef3b5b9b20f931ae9db614355cff )
+	rom ( name TEXTURES\SPAGO\B\2160.JMM size 117 crc 583b29b8 md5 22a2956c57fe68f00c9ddee645538e64 )
+	rom ( name TEXTURES\SPAGO\B\2160.M4B size 1796978 crc fa4c8bb9 md5 d7d026171a31f805ffd10b7c0dc5a87c )
+	rom ( name TEXTURES\SPAGO\B\2165.JMM size 115 crc b8515985 md5 643b6f2b550bcb5cd150cba0a59b02f1 )
+	rom ( name TEXTURES\SPAGO\B\2165.M4B size 1048831 crc 14153e47 md5 8a5ae346646892b0f3327cae628af919 )
+	rom ( name TEXTURES\SPAGO\B\2170.JMM size 120 crc ceec02dc md5 bb995dfa2aadc62c30bcab189fd290b2 )
+	rom ( name TEXTURES\SPAGO\B\2170.M4B size 2415558 crc 660fdc74 md5 701da20c8a730f4136adf02b63ece913 )
+	rom ( name TEXTURES\SPAGO\B\2175.JMM size 120 crc b9698907 md5 b5a4ba28d3bf1f62273eb2da2ba4c31b )
+	rom ( name TEXTURES\SPAGO\B\2175.M4B size 2329876 crc 8f14095d md5 a6798f4a32e4878eff29a02f67e5717d )
+	rom ( name TEXTURES\SPAGO\B\2185.JMM size 118 crc a59cc325 md5 d01965da4ded19b9ff4edb4310c88066 )
+	rom ( name TEXTURES\SPAGO\B\2185.M4B size 1492704 crc 069bdb5d md5 41a21c3d478ecf95b4b03c1791dae51d )
+	rom ( name TEXTURES\SPAGO\B\2186.JMM size 120 crc b9698907 md5 b5a4ba28d3bf1f62273eb2da2ba4c31b )
+	rom ( name TEXTURES\SPAGO\B\2186.M4B size 2329876 crc b31cd195 md5 c3e30d17f97aa10803ea2b4e828e50cf )
+	rom ( name TEXTURES\SPAGO\B\2190.JMM size 120 crc 91f615d8 md5 3be39dca3392c69e998035235fce8783 )
+	rom ( name TEXTURES\SPAGO\B\2190.M4B size 3348443 crc 91b546f0 md5 3752c1ecc6fb2febeaa8dc18a22a85a9 )
+	rom ( name TEXTURES\SPAGO\B\2195.JMM size 119 crc 1c14faa5 md5 c29574626ca1c0e3c1278a0eccab3286 )
+	rom ( name TEXTURES\SPAGO\B\2195.M4B size 1417053 crc c50414d2 md5 309208f7d7099068abe412075682712d )
+	rom ( name TEXTURES\SPAGO\B\2200.JMM size 44 crc 62afc30d md5 d5a49d21bef43e2fc230fc0489f6bcc2 )
+	rom ( name TEXTURES\SPAGO\B\2200.M4B size 478735 crc 37182c9a md5 d2173806db39a461529794b7987ca71b )
+	rom ( name TEXTURES\SPAGO\B\2207.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\B\2207.M4B size 530144 crc c8a8ba61 md5 c5af48aedc31eb5268bb32ee2a94abf6 )
+	rom ( name TEXTURES\SPAGO\B\2208.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\B\2208.M4B size 261396 crc 44011e03 md5 d12103c8f47a89be6072d6d7b29b877c )
+	rom ( name TEXTURES\SPAGO\B\2210.JMM size 43 crc aa453da8 md5 f0e23e8c0294e31f69a459f7b18a7456 )
+	rom ( name TEXTURES\SPAGO\B\2210.M4B size 172371 crc 3498f0db md5 b4f98f12360252dc0cff99e964679b14 )
+	rom ( name TEXTURES\SPAGO\B\2215.M4B size 532652 crc dfe5e663 md5 fc0db1e8c762e1af0da927fcf3d6e9ac )
+	rom ( name TEXTURES\SPAGO\B\2220.M4B size 571104 crc 354dba22 md5 9ef48e6fdf0e0bda8c4ac3f285d7ccbf )
+	rom ( name TEXTURES\SPAGO\B\2225.M4B size 195358 crc 21e23b22 md5 47ef4412a0e83996709b008819d6358f )
+	rom ( name TEXTURES\SPAGO\C\3100.JMM size 113 crc faaa3801 md5 c1edc557b75a12610246d56d33c7d0c7 )
+	rom ( name TEXTURES\SPAGO\C\3100.M4B size 1021246 crc 0eca6135 md5 2c456e1b379296731279b52f4ff3708c )
+	rom ( name TEXTURES\SPAGO\C\3102.JMM size 113 crc d973920d md5 87450545e17038c7856a42a09763fa53 )
+	rom ( name TEXTURES\SPAGO\C\3102.M4B size 1053011 crc 29bef8a3 md5 ba018f436e95a9ccf487045727212ea4 )
+	rom ( name TEXTURES\SPAGO\C\3105.JMM size 114 crc b7f408f5 md5 a80bd547b7ab2725b0c46dd046b92c7e )
+	rom ( name TEXTURES\SPAGO\C\3105.M4B size 2003450 crc ccbe162a md5 c5eae472c007f185c5a840ed18b82358 )
+	rom ( name TEXTURES\SPAGO\C\3106.JMM size 113 crc 3f5d7fa6 md5 74b33d4858476558d0fbe1f55a4f9a64 )
+	rom ( name TEXTURES\SPAGO\C\3106.M4B size 1021246 crc c0809477 md5 8ff313dfe932685a0e97afc049de80aa )
+	rom ( name TEXTURES\SPAGO\C\3107.JMM size 115 crc 1b8bfd75 md5 3bb1961ce70fd5b4143deedcd9974015 )
+	rom ( name TEXTURES\SPAGO\C\3107.M4B size 2006376 crc c8fd2a8b md5 0120974cb1bfbaf4c8bee7e10a2a3981 )
+	rom ( name TEXTURES\SPAGO\C\3110.JMM size 115 crc 0d7b95be md5 a94c8a5244d658db582208e7d4bd4ad1 )
+	rom ( name TEXTURES\SPAGO\C\3110.M4B size 1923202 crc a65a58e0 md5 fcd64ea3cf0f0b002a54591b18680b1f )
+	rom ( name TEXTURES\SPAGO\C\3115.JMM size 115 crc 459d7dcf md5 aaae334db198804c34953d4798f3de02 )
+	rom ( name TEXTURES\SPAGO\C\3115.M4B size 2059038 crc 9f410c76 md5 161ad97e48a8f65ebca9a4787f5694eb )
+	rom ( name TEXTURES\SPAGO\C\3120.JMM size 116 crc d12cf1b8 md5 b75c6a81c87e175fe21c9d56a23ccbb7 )
+	rom ( name TEXTURES\SPAGO\C\3120.M4B size 1856746 crc 4cce0e8b md5 71b99913a8d8d83ccb678cfdea825f63 )
+	rom ( name TEXTURES\SPAGO\C\3125.JMM size 115 crc 0d7b95be md5 a94c8a5244d658db582208e7d4bd4ad1 )
+	rom ( name TEXTURES\SPAGO\C\3125.M4B size 1923202 crc 0850ec49 md5 6b69498fa8adf1cc0203417262ffdab4 )
+	rom ( name TEXTURES\SPAGO\C\3130.JMM size 115 crc 459d7dcf md5 aaae334db198804c34953d4798f3de02 )
+	rom ( name TEXTURES\SPAGO\C\3130.M4B size 2059038 crc c4cbd85a md5 56729e1a14fe72c9d43870dec9a17049 )
+	rom ( name TEXTURES\SPAGO\C\3135.JMM size 116 crc d12cf1b8 md5 b75c6a81c87e175fe21c9d56a23ccbb7 )
+	rom ( name TEXTURES\SPAGO\C\3135.M4B size 1856746 crc e096a732 md5 513cfd1a3020a5ddf2ff4f1f55183fee )
+	rom ( name TEXTURES\SPAGO\C\3140.JMM size 118 crc 7a866930 md5 09e66015aef7c9ad44a00de8fdd7ddf0 )
+	rom ( name TEXTURES\SPAGO\C\3140.M4B size 1706281 crc 0e19b81d md5 d9c43744d6f0837ea629ee8402584c4b )
+	rom ( name TEXTURES\SPAGO\C\3145.JMM size 117 crc f7fc1d2b md5 a8ea9aad776b6355f264c56aee575014 )
+	rom ( name TEXTURES\SPAGO\C\3145.M4B size 2111701 crc 9bd04c48 md5 5523e839e17eb7398c7070b7320e151b )
+	rom ( name TEXTURES\SPAGO\C\3147.JMM size 113 crc a01a1175 md5 5dfe3c9059661207c832303a77310693 )
+	rom ( name TEXTURES\SPAGO\C\3147.M4B size 889589 crc b2530016 md5 be25d21260580d0fdae58b914f9f9921 )
+	rom ( name TEXTURES\SPAGO\C\3150.JMM size 119 crc c3eca719 md5 c3c53f2a5d1fc6c1783d2931ce439b16 )
+	rom ( name TEXTURES\SPAGO\C\3150.M4B size 1846297 crc 7f0c3004 md5 cc5355c6515bdcd6bfa03ddd9cd99fb8 )
+	rom ( name TEXTURES\SPAGO\C\3200.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\C\3200.M4B size 223362 crc 68cb785d md5 b8adeb2702b5dfb4e24b1094fde093cf )
+	rom ( name TEXTURES\SPAGO\C\3205.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\C\3205.M4B size 200374 crc 9965d004 md5 08fd4f2265e31a44d4fcbfb1221bfa59 )
+	rom ( name TEXTURES\SPAGO\C\3210.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\C\3210.M4B size 154398 crc 45f76ebc md5 ef03987e7d7cb29778034472d065b6f2 )
+	rom ( name TEXTURES\SPAGO\C\4100.JMM size 117 crc 910d6fbd md5 c226ce6a8212c902b87cbfcff9cdc503 )
+	rom ( name TEXTURES\SPAGO\C\4100.M4B size 1666575 crc 1629cfe8 md5 2fe13abb423deea9d6f2bddd1417cc3c )
+	rom ( name TEXTURES\SPAGO\C\4105.JMM size 113 crc ace97554 md5 e09f7326edfca4f50596c32a468b216a )
+	rom ( name TEXTURES\SPAGO\C\4105.M4B size 1022500 crc 6c82aa67 md5 de369eb5164a90472714795be9fda6fc )
+	rom ( name TEXTURES\SPAGO\C\4106.JMM size 117 crc 910d6fbd md5 c226ce6a8212c902b87cbfcff9cdc503 )
+	rom ( name TEXTURES\SPAGO\C\4106.M4B size 1666575 crc 191e2457 md5 44b5c5f9335cd19e25d8516e7528f8d4 )
+	rom ( name TEXTURES\SPAGO\C\4110.JMM size 120 crc 4292d181 md5 c671943c0e25570f3c64830350a6dd98 )
+	rom ( name TEXTURES\SPAGO\C\4110.M4B size 1829161 crc 64f43506 md5 818f7c29327bbbbd2e5b9f56bb3a3252 )
+	rom ( name TEXTURES\SPAGO\C\4115.JMM size 120 crc 32ace2f8 md5 60f40d1923ff47f3386419c1e5533d6b )
+	rom ( name TEXTURES\SPAGO\C\4115.M4B size 2045664 crc 27d8ad68 md5 b22f0b8d1e2c0412faf87471a7b17a88 )
+	rom ( name TEXTURES\SPAGO\C\4120.JMM size 118 crc c346f37b md5 25c2490ac1054c4e96aca005de5efe26 )
+	rom ( name TEXTURES\SPAGO\C\4120.M4B size 890425 crc 8fe5ba13 md5 5a218285e14df6063a735f0736cd1ca5 )
+	rom ( name TEXTURES\SPAGO\C\4215.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\C\4215.M4B size 248857 crc 729cf277 md5 246cb36714f1f1b5031121c6bc664dd2 )
+	rom ( name TEXTURES\SPAGO\D\5100.JMM size 116 crc 7393a7aa md5 960ea473b3d475032d7cfac5c594574e )
+	rom ( name TEXTURES\SPAGO\D\5100.M4B size 1173383 crc ed574f8c md5 ab66a00b9186960f5c60c5771e60d5fd )
+	rom ( name TEXTURES\SPAGO\D\5105.JMM size 114 crc e5b95e24 md5 f31cddd748ae2574ead414df8b6de6a9 )
+	rom ( name TEXTURES\SPAGO\D\5105.M4B size 1227718 crc 10944e3d md5 edabfa23da18205b2cebdb2f36a18c62 )
+	rom ( name TEXTURES\SPAGO\D\5106.JMM size 115 crc 8825d785 md5 9959b6a2e8d638b48d4fec5772e41e45 )
+	rom ( name TEXTURES\SPAGO\D\5106.M4B size 899202 crc bf8dc33d md5 12ef51e69a466741e135aab8ccb8fdfc )
+	rom ( name TEXTURES\SPAGO\D\5110.JMM size 118 crc bfe47fbd md5 0d0b5fc178efcde93d47ebb8924b12a0 )
+	rom ( name TEXTURES\SPAGO\D\5110.M4B size 1544949 crc c3f60d28 md5 f06be1c65c7b9e91b8980455526ab8e7 )
+	rom ( name TEXTURES\SPAGO\D\5115.JMM size 117 crc 9eee6f53 md5 cd641ebd0ed7c3f8f225bb982a1a11ba )
+	rom ( name TEXTURES\SPAGO\D\5115.M4B size 1120720 crc 8aa7fd02 md5 fbe53df8fc8004d4e48b35730393a160 )
+	rom ( name TEXTURES\SPAGO\D\5117.JMM size 118 crc 4a180668 md5 e4658d650f38477c0d7b98d826a96f8e )
+	rom ( name TEXTURES\SPAGO\D\5117.M4B size 981122 crc 86eaf1e5 md5 67cc8ee16cf6455fdab5aca5d70fb045 )
+	rom ( name TEXTURES\SPAGO\D\5120.JMM size 118 crc 4dc473d5 md5 f1a4103da36b620998584ad3ad2ebefb )
+	rom ( name TEXTURES\SPAGO\D\5120.M4B size 1123228 crc 586958ab md5 5385335630e74a2ecf478100b0f963b8 )
+	rom ( name TEXTURES\SPAGO\D\5125.JMM size 117 crc cd519581 md5 6c917c7ad78991a1e5b56dcca2caafee )
+	rom ( name TEXTURES\SPAGO\D\5125.M4B size 1877226 crc 67a0327d md5 023ef310c2a0d312088ebd4a199c3e67 )
+	rom ( name TEXTURES\SPAGO\D\5130.JMM size 117 crc 0c5db927 md5 b920c0f948c2f4fa6d98f3f218ac758d )
+	rom ( name TEXTURES\SPAGO\D\5130.M4B size 1979208 crc 8c720fb0 md5 69aa95ecebf581010929ced2cf70e3cc )
+	rom ( name TEXTURES\SPAGO\D\5135.JMM size 116 crc 72676e49 md5 b09c9841cfda62e216cfbb7079413988 )
+	rom ( name TEXTURES\SPAGO\D\5135.M4B size 2009301 crc 1af5ced1 md5 53eb796d3aba1219c073ad4d7ad9916a )
+	rom ( name TEXTURES\SPAGO\D\5136.JMM size 116 crc 72676e49 md5 b09c9841cfda62e216cfbb7079413988 )
+	rom ( name TEXTURES\SPAGO\D\5136.M4B size 2009301 crc 9a5f11a4 md5 ba902ead65722890e57f9ff7584dd25b )
+	rom ( name TEXTURES\SPAGO\D\5137.JMM size 116 crc 72676e49 md5 b09c9841cfda62e216cfbb7079413988 )
+	rom ( name TEXTURES\SPAGO\D\5137.M4B size 2009301 crc 87f30399 md5 306382a3fffe30299a4d5b6e476769c9 )
+	rom ( name TEXTURES\SPAGO\D\5138.JMM size 116 crc 72676e49 md5 b09c9841cfda62e216cfbb7079413988 )
+	rom ( name TEXTURES\SPAGO\D\5138.M4B size 2009301 crc 61ff5e0b md5 8af8ff4de716665d2afad7480d9ac79d )
+	rom ( name TEXTURES\SPAGO\D\5140.JMM size 118 crc 85391be7 md5 99ebec6d4997b2ecbd72e7cbbbd3d0b6 )
+	rom ( name TEXTURES\SPAGO\D\5140.M4B size 1701265 crc b1be84a0 md5 9ef68e251b45744dfd77c9eae87b0344 )
+	rom ( name TEXTURES\SPAGO\D\5141.JMM size 120 crc 64bd5cc3 md5 55661b9924e5d7b06c250e55cf186fbb )
+	rom ( name TEXTURES\SPAGO\D\5141.M4B size 1699176 crc 19adc01e md5 bc8e8db98c625f5403392b22d7f337be )
+	rom ( name TEXTURES\SPAGO\D\5142.JMM size 118 crc 85391be7 md5 99ebec6d4997b2ecbd72e7cbbbd3d0b6 )
+	rom ( name TEXTURES\SPAGO\D\5142.M4B size 1701265 crc 648fa8ed md5 4ab3abba01a110ae3b826ee35b1081de )
+	rom ( name TEXTURES\SPAGO\D\5145.JMM size 114 crc e5b95e24 md5 f31cddd748ae2574ead414df8b6de6a9 )
+	rom ( name TEXTURES\SPAGO\D\5145.M4B size 1227718 crc ed2e1e64 md5 5385c1d2d38e3f9e1af12d3f09bf2e95 )
+	rom ( name TEXTURES\SPAGO\D\5150.JMM size 117 crc 37c96f59 md5 80df4f2ef433fababf17ca102b059414 )
+	rom ( name TEXTURES\SPAGO\D\5150.M4B size 1738464 crc c533fe2f md5 5eae22033f781be92d78462231ed1885 )
+	rom ( name TEXTURES\SPAGO\D\5155.JMM size 118 crc 9385c482 md5 a9cd82a7c192a5d7fda48751c0797295 )
+	rom ( name TEXTURES\SPAGO\D\5155.M4B size 1682875 crc 8e8b9255 md5 2752725ae9f54b9bc2b8e9679e9091e8 )
+	rom ( name TEXTURES\SPAGO\D\5160.JMM size 119 crc 0e664615 md5 f08764d0de83441f405194a2f5f0bbe2 )
+	rom ( name TEXTURES\SPAGO\D\5160.M4B size 1668665 crc b26b1dad md5 f25ae91043e336aaf3dcd90fd7a42888 )
+	rom ( name TEXTURES\SPAGO\D\5165.JMM size 118 crc 7885d034 md5 2acd22bc71e26663db8189fbd3e6d7a7 )
+	rom ( name TEXTURES\SPAGO\D\5165.M4B size 1671590 crc 2f7f5cbd md5 29ba150b647c78855e4239e2e132cb37 )
+	rom ( name TEXTURES\SPAGO\D\5170.JMM size 118 crc 0a89b5dc md5 841e0b54c1cbde0574fe0765b587bd14 )
+	rom ( name TEXTURES\SPAGO\D\5170.M4B size 1671590 crc ff15aecb md5 364a30b4529b7d23ee3dc7ecdbbac436 )
+	rom ( name TEXTURES\SPAGO\D\5200.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\D\5200.M4B size 224198 crc 2ddb77de md5 892130a4f45cc9266cb978305df55ed3 )
+	rom ( name TEXTURES\SPAGO\D\5205.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\D\5205.M4B size 892932 crc 4ebe14a9 md5 8a95b2e3341e737074a92375cbd6b279 )
+	rom ( name TEXTURES\SPAGO\D\5215.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\D\5215.M4B size 535159 crc 98b3c307 md5 34225ba2114b03584124c626be264085 )
+	rom ( name TEXTURES\SPAGO\D\5220.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\D\5220.M4B size 668070 crc b24791cb md5 dd3a6d2810b599281b5b27c131b39ef9 )
+	rom ( name TEXTURES\SPAGO\D\5225.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\D\5225.M4B size 181566 crc f74e91dc md5 9ec2068974960eb51a1a534074ed750a )
+	rom ( name TEXTURES\SPAGO\D\5230.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\D\5230.M4B size 200792 crc 3c6a214e md5 7bb42ba4ff6a718315d7190b912b686a )
+	rom ( name TEXTURES\SPAGO\D\6100.JMM size 117 crc 27394b30 md5 ff89a510101e7ed148294839f8d7ad56 )
+	rom ( name TEXTURES\SPAGO\D\6100.M4B size 1390304 crc a2ea1556 md5 756a9a7578cf9cba21c0eb420e4ed9bb )
+	rom ( name TEXTURES\SPAGO\D\6105.JMM size 118 crc d7cd89e7 md5 929088b38d1270b6a03ea898814a3b9d )
+	rom ( name TEXTURES\SPAGO\D\6105.M4B size 2270944 crc 71b60fdc md5 b487c6ca702a41c283e3a922b577e349 )
+	rom ( name TEXTURES\SPAGO\D\6110.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\D\6110.M4B size 930967 crc ade61a9b md5 f38fb7b744ca01bb17d3e53e04e6d34a )
+	rom ( name TEXTURES\SPAGO\S\1110.JMM size 119 crc 4c66aa6e md5 20e27263319d160fe4fd642627c64b18 )
+	rom ( name TEXTURES\SPAGO\S\1110.M4B size 1424158 crc 46e2c1c0 md5 d51e1f0305363a0d37ed88771d70c23d )
+	rom ( name TEXTURES\SPAGO\S\1195.JMM size 116 crc a8349cb8 md5 c81504a191493bcda5120ba53a20c073 )
+	rom ( name TEXTURES\SPAGO\S\1195.M4B size 287727 crc 1096ce05 md5 0d5bac470c5c46f15a956f76efd869fe )
+	rom ( name TEXTURES\SPAGO\S\1200.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\S\1200.M4B size 134336 crc 282e9a2f md5 ac6e78bdd8954c43442528e66b75b11f )
+	rom ( name TEXTURES\SPAGO\S\1215.JMM size 41 crc f8de53c7 md5 309de6edd2edae17885e6d39fd175691 )
+	rom ( name TEXTURES\SPAGO\S\1215.M4B size 139352 crc e065d82d md5 aa34855a78bbd920ecfaabbefd0ac183 )
+	rom ( name TEXTURES\SPAGO\S\7210.M4B size 895858 crc fec1dc30 md5 31f462b645c6b592289807b1a519ad65 )
+	rom ( name VOICEALL.M4B size 19999850 crc b2531b1d md5 e65a13f2906899ab6eca2cce3c4cb514 )
+	rom ( name VOICEJAM.M4B size 84785620 crc 9d841e09 md5 3df7d4964fe33f22be67920b21d65710 )
+	rom ( name VOICELUC.M4B size 86029020 crc 5c7abe2f md5 60d96bb92042729037b37c0056f93267 )
+	rom ( name VOICEMEL.M4B size 77387346 crc 5e060a66 md5 0511a19405b763e2dd9ab5b0637757ee )
+	rom ( name VOICEMON.M4B size 38617179 crc 66e28d94 md5 e3046478916f0000a657f9ebf498e120 )
+)
+
+game (
 	name monkey4-ps2
-	description "Escape From Monkey Island (Sony PlayStation 2)[!]"
+	description "Escape from Monkey Island (Sony PlayStation 2)[!]"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -410,7 +926,7 @@ game (
 
 game (
 	name monkey4-ps2-de
-	description "Escape From Monkey Island (Sony PlayStation 2/German)[!]"
+	description "Escape from Monkey Island (Sony PlayStation 2/German)[!]"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -488,7 +1004,7 @@ game (
 
 game (
 	name monkey4-ps2-es
-	description "Escape From Monkey Island (Sony PlayStation 2/Spanish)[!]"
+	description "Escape from Monkey Island (Sony PlayStation 2/Spanish)[!]"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -566,7 +1082,7 @@ game (
 
 game (
 	name monkey4-ps2-fr
-	description "Escape From Monkey Island (Sony PlayStation 2/French)[!]"
+	description "Escape from Monkey Island (Sony PlayStation 2/French)[!]"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -644,7 +1160,7 @@ game (
 
 game (
 	name monkey4-ps2-it
-	description "Escape From Monkey Island (Sony PlayStation 2/Italian)[!]"
+	description "Escape from Monkey Island (Sony PlayStation 2/Italian)[!]"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -722,7 +1238,7 @@ game (
 
 game (
 	name monkey4-win
-	description "Escape From Monkey Island (Windows)[!]"
+	description "Escape from Monkey Island (Windows)[!]"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -761,7 +1277,7 @@ game (
 
 game (
 	name monkey4-win-de
-	description "Escape From Monkey Island (Windows/German)"
+	description "Escape from Monkey Island (Windows/German)"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -800,7 +1316,7 @@ game (
 
 game (
 	name monkey4-win-es
-	description "Escape From Monkey Island (Windows/Spanish)"
+	description "Escape from Monkey Island (Windows/Spanish)"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -854,8 +1370,63 @@ game (
 )
 
 game (
+	name monkey4-win-fr
+	description "Escape from Monkey Island (Windows/French)"
+	year 2000
+	manufacturer "LucasArts"
+	sourcefile grim
+	romof m4winres
+	rom ( name artAll.m4b size 18514420 crc d92a25e6 md5 e0fbba846efca842553bb1a726a25dcf )
+	rom ( name artJam.m4b size 41241209 crc a2ef89da md5 6b9c6c88a0cd95f92f60db823fca4baa )
+	rom ( name artLuc.m4b size 46736279 crc 40e5d407 md5 1d388d0c12f99ba9af540f1b8b98e34b )
+	rom ( name artMel.m4b size 42333395 crc 55770a5f md5 33f3dc6eaf6ec50a9dbad3858dc00876 )
+	rom ( name artMon.m4b size 45996885 crc a7704b09 md5 408a55615fef4282b9996aa0df8373e3 )
+	rom ( name i9n.m4b size 700352 crc 024c37e1 md5 f8900fc9fab4463329fa84b5d55ad2ab )
+	rom ( name lip.m4b size 1692366 crc eef04469 md5 53973abc64a8ecaf963ba7e2dc6f7b42 )
+	rom ( name MonkeyUpdate_FRA.exe size 2369799 crc ab0f75a4 md5 cc5ff3bb8f78a0eb4b8e0feb9cdd2e87 )
+	rom ( name Movies\bank.m4b size 26314924 crc fbebe12d md5 ad3dc2f221f22b456430a58ea4f30939 )
+	rom ( name Movies\bank.sub size 2394 crc 64b5578e md5 5d12dd98399994d6ae7e351296efbde3 )
+	rom ( name Movies\dock.m4b size 21220928 crc 784b57cc md5 e79e84da324cd0a87dbf064918cdb86d )
+	rom ( name Movies\dock.sub size 1636 crc 49997503 md5 aa83f7edb7271ceca1beada88fdc0e02 )
+	rom ( name Movies\dumm.m4b size 13948988 crc 04689cc5 md5 8d5e135364375a9cbe00e297727ff285 )
+	rom ( name Movies\dumm.sub size 329 crc 829924ab md5 50e65e0314c8faace9be47b372400bb1 )
+	rom ( name Movies\ela2.m4b size 19071324 crc a9806343 md5 dd32024c3421807d8feeb4ec785c70f0 )
+	rom ( name Movies\Ela2.sub size 1200 crc 276688ad md5 9bdcb309e4f471a0152a194749fe7f37 )
+	rom ( name Movies\ela3.m4b size 14288136 crc 6916ce30 md5 dd086f339b09fc25f4f5d72837a73daa )
+	rom ( name Movies\Ela3.sub size 297 crc e63f4a37 md5 a8dcafae2195c2be4c84f90bd642e4d9 )
+	rom ( name Movies\espy.m4b size 16596692 crc 7861248b md5 2b3403db6482ce990f4386ad91e7ff8f )
+	rom ( name Movies\espy.sub size 1082 crc 742976ce md5 52af4dde16b6eb9c810276f80aff2a5a )
+	rom ( name Movies\finis.m4b size 12462596 crc dae4ed0f md5 f36c7a57da78181875b25c218c221427 )
+	rom ( name Movies\finis.sub size 112 crc b0aed9de md5 a425c2d9b679fb99923bf8851e309900 )
+	rom ( name Movies\gmrr.m4b size 29019692 crc 3f3745a5 md5 468150e4d701cbdde43f61d12a6e9140 )
+	rom ( name Movies\gmrr.sub size 460 crc 4be32199 md5 49d77b5374d0a3a8845c0f575cdcc2c8 )
+	rom ( name Movies\herm.m4b size 45250216 crc 8f993ae0 md5 552a8ca749b566d1ee785d532c021b11 )
+	rom ( name Movies\herm.sub size 1382 crc 6730c2e6 md5 ba5426b76395a78461368742e146e584 )
+	rom ( name Movies\home1.m4b size 39126600 crc d7b1b19e md5 d7c64e654b93bc8aea8e7c81f9f78855 )
+	rom ( name Movies\home1.sub size 1199 crc 35b6a0e6 md5 8abf4d359965731706bbf47cbd91829c )
+	rom ( name Movies\home2.m4b size 49996328 crc dfa42471 md5 c7c40d66422aefad47c6b152d0719e5f )
+	rom ( name Movies\home2.sub size 1337 crc a9bb568a md5 a8b38874f3d4087b3099c4d1753c9426 )
+	rom ( name Movies\intro_a.m4b size 27548232 crc 60a89ebe md5 20f9a74c9d9f2e189f9cfdfa5bb5bf32 )
+	rom ( name Movies\intro_a.sub size 2031 crc ad211e25 md5 c2363abdcd537b13823a8b389b0ca2b4 )
+	rom ( name Movies\intro_b.m4b size 6908420 crc d12f90ee md5 42953a1d72465bd25d74949475f2333f )
+	rom ( name Movies\intro_b.sub size 100 crc e6ac3251 md5 c1d7e863b3235e77b2b2d6f62416e3e8 )
+	rom ( name Movies\melt.m4b size 4707952 crc 272a2d42 md5 1f7e3a5429b921c2f0bbb3e245e8a9ea )
+	rom ( name Movies\melt.sub size 55 crc edc87393 md5 57922dd8b4f5927dd6060f6256d77b6f )
+	rom ( name Movies\nose.m4b size 16166696 crc 4b065305 md5 60d6e61ba64d057d29b9a2b059aecd5a )
+	rom ( name Movies\Nose.sub size 1002 crc 2d427836 md5 52a5ac7d4506f141af6d131e85b50a5b )
+	rom ( name Movies\oznx.m4b size 88048556 crc d387435d md5 0db37dd0549c1fb05092628b80acc711 )
+	rom ( name Movies\oznx.sub size 5598 crc 9554c85d md5 25db8cf54877e1b260eac1cc12b1349a )
+	rom ( name Movies\rock.m4b size 1313452 crc c18a7fce md5 66dd33341a294963e0c9980eea3ebabd )
+	rom ( name voiceAll.m4b size 20044753 crc 1b561ef0 md5 86126ac852312452ee79558a5e76d7fd )
+	rom ( name voiceJam.m4b size 85373175 crc 7c87942e md5 89947e7e6064356ebfde10b644f3d612 )
+	rom ( name voiceLuc.m4b size 88260042 crc d3033f40 md5 ab9fe90e177cd03af1e34059117cc995 )
+	rom ( name voiceMel.m4b size 70031094 crc 74fe4af5 md5 3e678cef88037ebd6c52988744401c03 )
+	rom ( name voiceMon.m4b size 38057132 crc da8990ff md5 ef130c43a84c9d88a3e95abc51839292 )
+)
+
+game (
 	name monkey4-win-it
-	description "Escape From Monkey Island (Windows/Italian)"
+	description "Escape from Monkey Island (Windows/Italian)"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -913,8 +1484,44 @@ resource (
 )
 
 resource (
+	name m4macres
+	description "ZZZ - Escape from Monkey Island Macintosh Resources"
+	year 2000
+	manufacturer "LucasArts"
+	sourcefile grim
+	rom ( name artJam.M4B size 41251924 crc be6cd896 md5 e5ff286dbf7b23d1ad41dd8defe48291 )
+	rom ( name ARTLUC.M4B size 46501420 crc 304404e3 md5 0f6bcf8997ddd3cbdf161132103f769d )
+	rom ( name ARTMEL.M4B size 42332236 crc 2864e118 md5 ed1d2548374339775110bf5826db9f6d )
+	rom ( name ARTMON.M4B size 46002217 crc f3d581b0 md5 5ff8b38e44fe1d3aeeb277f35f932d7b )
+	rom ( name MOVIES\BANK.M4B size 26359300 crc bc58a636 md5 e9c6adb45699b493ac5a886808c2d90e )
+	rom ( name MOVIES\DOCK.M4B size 21217244 crc 67cef2ca md5 32cba1aef18524c13bedc9214700614f )
+	rom ( name MOVIES\DUMM.M4B size 13937216 crc 616f4892 md5 c2a3a213cd5efba0470f0fd056ce676a )
+	rom ( name MOVIES\ELA2.M4B size 19083540 crc ce780903 md5 1f51bcb54354ed5591dee4d23fd1cb2a )
+	rom ( name MOVIES\ELA3.M4B size 14266476 crc 5157a201 md5 08db28e02421a87cb1f0209c2375887b )
+	rom ( name MOVIES\ESPY.M4B size 16585104 crc 3816d92a md5 5dd70302a7c5cf52ae6337bc02160be7 )
+	rom ( name MOVIES\FINIS.M4B size 12447116 crc c2396cea md5 1819413a21817fc11c55f15bf37531ce )
+	rom ( name MOVIES\GMRR.M4B size 28957472 crc 62512a88 md5 7a300c770fa7d8fe9ec26de360e1d4bb )
+	rom ( name MOVIES\HERM.M4B size 45248976 crc 046a5866 md5 826dd7a4025da5304705e3324312aa94 )
+	rom ( name MOVIES\HOME1.M4B size 39139156 crc d777fdff md5 71653d5ea0d99d2e417fc81580b74847 )
+	rom ( name MOVIES\HOME2.M4B size 50002100 crc fd96c68a md5 f693211f575abbf826a63ab39993544c )
+	rom ( name MOVIES\INTRO_A.M4B size 27539160 crc 4d6ec7b1 md5 46928d5f81016ffc1a364340981fec31 )
+	rom ( name MOVIES\INTRO_B.M4B size 6900604 crc 10079375 md5 c6aa198f41cc893d6acc549dc554edbf )
+	rom ( name MOVIES\MELT.M4B size 4715448 crc 88224722 md5 bcb52a8251b16de96ddb6b64f1a4c3a4 )
+	rom ( name MOVIES\moh_close_hat.m4b size 730332 crc f5d33c28 md5 3c8baf1edbcc15b55f9617662d56f57d )
+	rom ( name MOVIES\moh_close_nohat.m4b size 730340 crc e99af917 md5 554db723dcd3015654ac5da646f5a373 )
+	rom ( name MOVIES\moh_open_hat.m4b size 959568 crc eb5af457 md5 f3b29c3542fe420ddc8440faee00fd83 )
+	rom ( name MOVIES\moh_open_nohat.m4b size 959588 crc 17981294 md5 8b984f08619af4cf2a79abbb7aca2756 )
+	rom ( name MOVIES\NOSE.M4B size 16193668 crc 1c3dd6f2 md5 a094de93b8c19bb990d43336febb3e3b )
+	rom ( name MOVIES\OZNX.M4B size 88211444 crc 3cdde0f3 md5 fb47e50a8db114ecd6b29610e4c6b5e7 )
+	rom ( name MOVIES\ROCK.M4B size 1313452 crc c18a7fce md5 66dd33341a294963e0c9980eea3ebabd )
+	rom ( name MOVIES\ROCK1B.M4B size 455096 crc 8729d3ff md5 d3c25135dcd3df7b92103c9fe9cf1898 )
+	rom ( name MOVIES\ROCK1C.M4B size 440404 crc 64bb4154 md5 c142913ef82ff6730d8845eae4c9e2eb )
+	rom ( name MOVIES\SORY.M4B size 6598700 crc e1f2fdad md5 a259566b69f0fa13d05a37af72b2ec87 )
+)
+
+resource (
 	name m4ps2res
-	description "ZZZ - Escape From Monkey Island PlayStation 2 Resources"
+	description "ZZZ - Escape from Monkey Island PlayStation 2 Resources"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -954,7 +1561,7 @@ resource (
 
 resource (
 	name m4winres
-	description "ZZZ - Escape From Monkey Island Windows Resources"
+	description "ZZZ - Escape from Monkey Island Windows Resources"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim
@@ -1466,7 +2073,7 @@ resource (
 
 game (
 	name monkey4-win-ru
-	description "Escape From Monkey Island (Windows/Russian)[Fargus]"
+	description "Escape from Monkey Island (Windows/Russian)[Fargus]"
 	year 2000
 	manufacturer "LucasArts"
 	sourcefile grim

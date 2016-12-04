@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM SHERLOCK"
 	description "ScummVM - SHERLOCK Engine Games"
 	category "ScummVM"
-	version v1.02
-	date 2015-10-27
+	version v1.04
+	date 2016-08-12
 	author "Gruby"
 	forcemerging split
 	forcenodump required
@@ -3039,7 +3039,7 @@ game (
 
 game (
 	name scalpel-demo
-	description "Case of the Serrated Scalpel, The (Non Interactive Demo/DOS)"
+	description "Case of the Serrated Scalpel, The {Demo}(DOS)[Non-Interactive]"
 	year 1992
 	manufacturer "Mythos Software"
 	sourcefile sherlock
@@ -3059,7 +3059,7 @@ game (
 
 game (
 	name scalpel-demo-1
-	description "Case of the Serrated Scalpel, The (Interactive Demo/DOS)"
+	description "Case of the Serrated Scalpel, The {Demo}(DOS)[Interactive]"
 	year 1992
 	manufacturer "Mythos Software"
 	sourcefile sherlock

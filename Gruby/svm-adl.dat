@@ -1,0 +1,99 @@
+clrmamepro (
+	name "ScummVM ADL"
+	description "ScummVM - ADL Engine Games"
+	category "ScummVM"
+	version v1.04
+	date 2016-10-18
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name hires0-apple2
+	description "Hi-Res Adventure #0: Mission Asteroid (Apple II)"
+	year 1980
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name MISSION.NIB size 232960 crc a8cc0865 md5 cedf4db0b9ba63a7644d2621235aaf3d )
+)
+
+game (
+	name hires1-apple2
+	description "Hi-Res Adventure #1: Mystery House (Apple II)"
+	year 1980
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name ADVENTURE size 29952 crc 338bc7ac md5 b1d187868d95dd6d8889fcd4691840cb )
+	rom ( name APPLESOFT size 31 crc 721e56e0 md5 b45c6aa8b20c65b8cc5f2bbf80ec35ba )
+	rom ( name "AUTO LOAD OBJ" size 12291 crc 70418f9a md5 f46b1c7d21850866e8af36eb7ed106d6 )
+	rom ( name "BLOCK DIRECTORY" size 304 crc b2c00bf6 md5 11816a38926e7c0af816ac642ef1533a )
+	rom ( name BLOCK1 size 874 crc aecd97d0 md5 778a355a1a0f83e15b436e144c138d09 )
+	rom ( name BLOCK10 size 904 crc 0f317de9 md5 0cd7e70ee6f5d393b6abbe69316b61e0 )
+	rom ( name BLOCK11 size 1012 crc 90d0a3e4 md5 212191dc76d67659b5f1e79fbe2d487a )
+	rom ( name BLOCK12 size 818 crc 0f7afccb md5 9cbe03ea32f16f9b6eae2ba504299d1d )
+	rom ( name BLOCK13 size 772 crc b446bfed md5 20cf717afe441d0b0bfd322140019abd )
+	rom ( name BLOCK14 size 826 crc b1fce645 md5 5d82e240467324cd07a0e773bc7ba3d9 )
+	rom ( name BLOCK15 size 790 crc cb7b44eb md5 f943dd0c7879f6d927eb654e63e90a13 )
+	rom ( name BLOCK16 size 780 crc 133fa0bd md5 9ffb76e3db27cd0d6726d5cbca510345 )
+	rom ( name BLOCK17 size 802 crc 22259e22 md5 257c88ae61750291c44eeb80bf3866c5 )
+	rom ( name BLOCK18 size 760 crc e5bb73ea md5 9db3a25882eb7189cd709859466f774f )
+	rom ( name BLOCK19 size 264 crc 12c4dec5 md5 0be5f9ec886573d44a4292f21d0afd64 )
+	rom ( name BLOCK2 size 1180 crc 1be8f379 md5 44da9c60b7c2a3adbb85b9b243ac4152 )
+	rom ( name BLOCK3 size 872 crc 57ebab8b md5 a693e3706cd56843e37a3cd8ada47c5e )
+	rom ( name BLOCK4 size 770 crc 315b6b25 md5 19b4de721c453598920780958ccecede )
+	rom ( name BLOCK5 size 780 crc c1182386 md5 0e67e81f72b848114d36a2015635e2c4 )
+	rom ( name BLOCK6 size 756 crc 0aab103a md5 bf799507b7c87e9c5780f52e4bd80e92 )
+	rom ( name BLOCK7 size 1030 crc c935ab63 md5 c3ce1804b2630f442fb263d9b09704b6 )
+	rom ( name BLOCK8 size 906 crc 8e3f5f07 md5 5281aff2071efbcb7f8d6e8cab63610e )
+	rom ( name BLOCK9 size 898 crc eed174ed md5 281e4e7a5be06a088ccb1afb01dbd11e )
+	rom ( name HELLO size 474 crc 8b2537d8 md5 a620d1aa0ee491e76db3974416537265 )
+	rom ( name "MESSAGE OBJECT" size 336 crc 1b41b504 md5 c26315eebc3494f171043f88748d120a )
+	rom ( name MESSAGES size 5369 crc 0a0b4221 md5 34c64b75ac26b8cba94f32f739ad5fb6 )
+	rom ( name MYSTERY.HELLO size 836 crc 1b8d0309 md5 2289b7fea300b506e902a4c597968369 )
+	rom ( name "PIC SIZES" size 131 crc 19ddc14a md5 6b802b3e3eb3a478df4fa2b4057f2ad5 )
+	rom ( name "SAVED GAME" size 2255 crc 3259815a md5 d19aec8e70881640f20ce0ba95f74c0f )
+	rom ( name STARTUP size 2255 crc 1c3c4b28 md5 a8763131591ada334107e774d970f349 )
+)
+
+game (
+	name hires1-apple2-1
+	description "Hi-Res Adventure #1: Mystery House (Apple II)[DSK]"
+	year 1980
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name MYSTHOUS.DSK size 143360 crc 4b0017cc md5 7290a9e90291c37e8dce54f1b8d74a37 )
+)
+
+game (
+	name hires2-apple2
+	description "Hi-Res Adventure #2: Wizard and the Princess (Apple II)"
+	year 1980
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name WIZARD.DSK size 143360 crc 035128ff md5 9d22d0788838fac08c219d5c00701b38 )
+)
+
+game (
+	name hires4-atari8
+	description "Hi-Res Adventure #4: Ulysses and the Golden Fleece (Atari 8-bit)"
+	year 1982
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name ULYS1A.XFD size 92160 crc 922f54d8 md5 dd99cbbe4a793069fb4e9f405c339f28 )
+	rom ( name ULYS1B.XFD size 92160 crc 33d58356 md5 52e83ff4dcf0c0a229c50152cef01c30 )
+	rom ( name ULYS2C.XFD size 92160 crc 498eb6d5 md5 ce3de2f0a667275769ea4d99640e5485 )
+)
+
+game (
+	name hires6-apple2
+	description "Hi-Res Adventure #6: The Dark Crystal (Apple II)"
+	year 1983
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name DARK1A.DSK size 143360 crc 75615733 md5 908d77c371c8354e99851f9329738ebc )
+	rom ( name DARK1B.NIB size 232960 crc f3c555ca md5 e79844552c5101ce1380f10bff89ecd8 )
+	rom ( name DARK2A.NIB size 232960 crc a742adf5 md5 2ca8746ef54e91ecb1e1394d98edbf98 )
+	rom ( name DARK2B.NIB size 232960 crc 9a930d22 md5 9e4ea38f59174b0ba77d15443b8ff811 )
+)
+

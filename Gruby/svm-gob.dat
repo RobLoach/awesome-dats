@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM GOB"
 	description "ScummVM - GOB Engine Games"
 	category "ScummVM"
-	version v1.12
-	date 2015-12-30
+	version v1.27
+	date 2016-10-26
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -122,7 +122,7 @@ game (
 
 game (
 	name adi2-demo
-	description "ADI 2 (Non-Interactive Demo/DOS/French)"
+	description "ADI 2 {Demo}(DOS/French)[Non-Interactive]"
 	year 1998
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -133,8 +133,25 @@ game (
 )
 
 game (
+	name adi2-es
+	description "ADI 2 (DOS/Spanish)"
+	year 1998
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name ADI2.STK size 17720132 crc fe214196 md5 91cd166f25864bc79dddebe1bf425620 )
+	rom ( name ADI3.STK size 3907214 crc 44ad07bd md5 52801eacb30d45ded35574dcee8fcb03 )
+	rom ( name ADICOL.STK size 200174 crc 3f2725dd md5 b052b6bb9c63d64a467d5469470ddeea )
+	rom ( name ADIF51.STK size 445650 crc b544396c md5 e88191a12a518683a593deb4a44a9487 )
+	rom ( name ADIF61.STK size 424112 crc d04c851d md5 a9b4efdc75968d19a1cdea58b8815a0a )
+	rom ( name ADIVMD.ITK size 333090816 crc 8316e63e md5 987eadcd96a86421956dcc175105cf6b )
+	rom ( name DESCF51.ADI size 213 crc 9b96dc75 md5 b37eba110e82c4bf468bc4c90bac4037 )
+	rom ( name DESCF61.ADI size 147 crc 79aae681 md5 46e3af55feb60bad95655e0bb8c6ea03 )
+	rom ( name VERSION size 3 crc f21d1575 md5 e9aa2cebdb28a919e34609630508c269 )
+)
+
+game (
 	name adi4-demo-fr
-	description "ADI 4 (Adi 4.0 / Adibou 2 Demo/DOS/French)"
+	description "ADI 4 {Demo}(DOS/French)[Adi 4.0-Adibou 2]"
 	year 1998
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -188,7 +205,7 @@ game (
 
 game (
 	name adi4-demo-fr-1
-	description "ADI 4 (Adi 4.0 Interactive Demo/DOS/French)"
+	description "ADI 4 {Demo}(DOS/French)[Interactive Adi 4.0]"
 	year 1998
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -249,7 +266,7 @@ game (
 
 game (
 	name adibou2-de
-	description "Adibou 2 (ADIBOU 2/DOS/German)"
+	description "Adibou 2 (DOS/German)"
 	year 2003
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -304,7 +321,7 @@ game (
 
 game (
 	name adibou2-demo-de
-	description "Adibou 2 (Non-Interactive Demo/DOS/German)"
+	description "Adibou 2 {Demo}(DOS/German)[Non-Interactive]"
 	year 1998
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -326,7 +343,7 @@ game (
 
 game (
 	name adibou2-demo-fr
-	description "Adibou 2 (Non-Interactive Demo/DOS/French)"
+	description "Adibou 2 {Demo}(DOS/French)[Non-Interactive]"
 	year 1998
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -348,7 +365,7 @@ game (
 
 game (
 	name adibou2-demo-gb
-	description "Adibou 2 (Non-Interactive Demo/DOS/UK)"
+	description "Adibou 2 {Demo}(DOS)[UK][Non-Interactive]"
 	year 1998
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -369,6 +386,28 @@ game (
 )
 
 game (
+	name adibou2-fr
+	description "Adibou 2 (DOS/French)"
+	year 1998
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name BECCF200.CD1 size 3 crc e32fef56 md5 933222b19ff3e7ea5f65517ea1f7d57e )
+	rom ( name CONFIG.INF size 1700 crc 051e0369 md5 1ae39983264aab3768dae28409a4c5cd )
+	rom ( name CONSTRUC.ITK size 27238400 crc a6647759 md5 27d6cf8e8fa819e999583ec08a4cf979 )
+	rom ( name CONSTRUC.STK size 7610146 crc b89af225 md5 9ce9a042ad8575cd987be877f5a4b91a )
+	rom ( name ENFANT.INF size 88 crc b6ed889a md5 c465d278e71c4b031793a9c04c2fe736 )
+	rom ( name ENVBOU2.ITK size 455401472 crc da272893 md5 8abb43c5ef0828c42bfa803134b2958f )
+	rom ( name ENVBOUC.ITK size 6412288 crc b734c2f0 md5 d0652be85b8a20aeef27341979441ead )
+	rom ( name ENVIRO01.INF size 7192 crc ce649168 md5 9587232e8b9675c15187ab05ec2e8671 )
+	rom ( name INTRO.INF size 46 crc 66fca2e2 md5 649a27c204c1f2e6dcba5c7fd6adfcf7 )
+	rom ( name INTRO.STK size 956162 crc 0cfc37eb md5 d3f21da5297489839b6459c8df0f02e5 )
+	rom ( name INTROENV.STK size 54749830 crc ba60b4ac md5 bff2db8af831077014f35b1dd7231b1b )
+	rom ( name INTROPAL.STK size 21429816 crc cc3fa50b md5 4fb3d29a6d937f1bfa5e434589231e42 )
+	rom ( name TEMP01.CSA size 396800 crc 55e65e76 md5 7504fd8d677eb2227ab46ca89a100594 )
+	rom ( name VISAGE01.INF size 28800 crc 40670739 md5 326b015758bded5ef6210ef029faeb5a )
+)
+
+game (
 	name ajworld
 	description "A.J.'s World of Discovery (DOS)"
 	year 1992
@@ -379,7 +418,7 @@ game (
 
 game (
 	name ajworld-he
-	description "A.J's World of Discovery (DOS/Hebrew)"
+	description "A.J.'s World of Discovery (DOS/Hebrew)"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -831,7 +870,7 @@ game (
 
 game (
 	name bargon-it
-	description "Bargon Attack (DOS/Fanmade Italian)"
+	description "Bargon Attack (DOS/Italian)"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -946,7 +985,7 @@ game (
 
 game (
 	name dynasty-demo-us
-	description "Last Dynasty, The (Demo/DOS/US)"
+	description "Last Dynasty, The {Demo}(DOS)[US][!]"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -958,7 +997,7 @@ game (
 
 game (
 	name dynasty-demo-win-de
-	description "Last Dynasty, The (Demo/Windows/German)"
+	description "Last Dynasty, The {Demo}(Windows/German)"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -984,7 +1023,7 @@ game (
 
 game (
 	name dynasty-uk
-	description "Last Dynasty, The (DOS/UK)[!]"
+	description "Last Dynasty, The (DOS)[UK][!]"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -998,7 +1037,7 @@ game (
 
 game (
 	name dynasty-us
-	description "Last Dynasty, The (DOS/US)"
+	description "Last Dynasty, The (DOS)[US]"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1078,7 +1117,7 @@ game (
 
 game (
 	name fascination-cd
-	description "Fascination (CD Version (Censored)/DOS)"
+	description "Fascination (CD/DOS)[Censored]"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1096,7 +1135,7 @@ game (
 
 game (
 	name fascination-cd-de
-	description "Fascination (CD Version (Censored)/DOS/German)"
+	description "Fascination (CD/DOS/German)[Censored]"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1107,7 +1146,7 @@ game (
 
 game (
 	name fascination-cd-es
-	description "Fascination (CD Version (Censored)/DOS/Spanish)"
+	description "Fascination (CD/DOS/Spanish)[Censored]"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1118,7 +1157,7 @@ game (
 
 game (
 	name fascination-cd-fr
-	description "Fascination (CD Version (Censored)/DOS/French)"
+	description "Fascination (CD/DOS/French)[Censored]"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1129,7 +1168,7 @@ game (
 
 game (
 	name fascination-cd-it
-	description "Fascination (CD Version (Censored)/DOS/Italian)"
+	description "Fascination (CD/DOS/Italian)[Censored]"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1139,8 +1178,22 @@ game (
 )
 
 game (
+	name fascination-es
+	description "Fascination (VGA/DOS/Spanish)"
+	year 1991
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name ALL.ASK size 2804 crc f746ff72 md5 cd2a0cf1e106a6b0af897960237941e0 )
+	rom ( name DISK0.STK size 190498 crc fecf3869 md5 183d1def39b13098a3260cc42692368d )
+	rom ( name DISK1.STK size 312526 crc 6c062551 md5 de1e3f71ea569f5a006ef8bdc06cd0c5 )
+	rom ( name DISK2.STK size 348616 crc 0aa5dfad md5 3d3d4a085b3959dd4d2df303ebbe7d5f )
+	rom ( name DISK3.JTK size 450 crc a90f4af9 md5 7fad09f7b29d2e87164d55e651db47a0 )
+	rom ( name DISK3.STK size 358727 crc e5cf23b1 md5 5834142a5ec72b2d61098d413265fb61 )
+)
+
+game (
 	name fascination-fr
-	description "Fascination (VGA 3 disks edition/DOS/French)"
+	description "Fascination (VGA/DOS/French)[3 disks edition]"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1166,7 +1219,7 @@ game (
 
 game (
 	name fascination-he
-	description "Fascination (Hebrew edition (censored)/DOS/Hebrew)"
+	description "Fascination (VGA/DOS/Hebrew)[Censored]"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1205,7 +1258,7 @@ game (
 
 game (
 	name fascination-it
-	description "Fascination (VGA 3 disks edition/DOS/Italian)"
+	description "Fascination (VGA/DOS/Italian)[3 disks edition]"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1350,7 +1403,7 @@ game (
 
 game (
 	name gob1-demo
-	description "Gobliiins (Interactive Demo/DOS)[!]"
+	description "Gobliiins {Demo}(DOS)[Interactive][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1360,7 +1413,7 @@ game (
 
 game (
 	name gob1-demo-1
-	description "Gobliiins (Interactive Demo/DOS)[a][!]"
+	description "Gobliiins {Demo}(DOS)[Interactive][a][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1370,7 +1423,7 @@ game (
 
 game (
 	name gob1-demo-amiga
-	description "Gobliiins (Demo/Amiga)[!]"
+	description "Gobliiins {Demo}(Amiga)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1380,7 +1433,7 @@ game (
 
 game (
 	name gob1-demo-fr
-	description "Gobliiins (Interactive Demo/DOS/French)[!]"
+	description "Gobliiins {Demo}(DOS/French)[Interactive][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1389,8 +1442,21 @@ game (
 )
 
 game (
+	name gob1-gb
+	description "Gobliiins (VGA/DOS)[UK]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name DISK1.STK size 572700 crc bc099dec md5 f44978cf18594fb92be95aa288d46e6e )
+	rom ( name DISK2.STK size 553834 crc 9244f4e5 md5 9cb75c918af63d8f2e5daa0b1fccade1 )
+	rom ( name DISK3.STK size 570198 crc 6ac521db md5 d6d29eea82625b811ba338a41d49d1a0 )
+	rom ( name DISK4.STK size 527712 crc 3ac10120 md5 2c032654d76580bd0b999d588e42e46f )
+	rom ( name INTRO.STK size 288972 crc 1e75cdee md5 8a5e850c49d7cacdba5f5eb1fcc77b89 )
+)
+
+game (
 	name gob1-gog
-	description "Gobliiins (VGA/DOS)[GOG][!]"
+	description "Gobliiins (VGA/DOS)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1484,9 +1550,87 @@ game (
 )
 
 game (
+	name gob1-win-fr
+	description "Gobliiins (Windows/French)"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name DISK1.STK size 572700 crc bc099dec md5 f44978cf18594fb92be95aa288d46e6e )
+	rom ( name DISK2.STK size 553834 crc 9244f4e5 md5 9cb75c918af63d8f2e5daa0b1fccade1 )
+	rom ( name DISK3.STK size 570198 crc 6ac521db md5 d6d29eea82625b811ba338a41d49d1a0 )
+	rom ( name DISK4.STK size 527712 crc 3ac10120 md5 2c032654d76580bd0b999d588e42e46f )
+	rom ( name INTRO.STK size 313472 crc c99d6c7e md5 c6eb5c7b5696a3b6cc6743db88dd8e95 )
+	rom ( name J1.FNT size 7172 crc b21201a3 md5 932735e5ed41ee537390898a94d86909 )
+	rom ( name J3.FNT size 6724 crc 48a43a0c md5 886c2b2254f5ca62595180306f02d18f )
+	rom ( name JEUCAR1.FNT size 6724 crc 829e0d3c md5 4d73f12334e61a798f0939aedf9c9d52 )
+	rom ( name JEULET0.FNT size 7172 crc b21201a3 md5 932735e5ed41ee537390898a94d86909 )
+	rom ( name MUSMAC1.MID size 8161 crc 2fe5249d md5 ee09aaff8c903741bd9474e055ff03b9 )
+	rom ( name MUSMAC2.MID size 1287 crc b3aae8af md5 16dd21b3f8915b2f69f376976a91c20e )
+	rom ( name MUSMAC3.MID size 2814 crc f5c99799 md5 5ce38ef4b45f04211ecedcc8965bede6 )
+	rom ( name MUSMAC4.MID size 1658 crc 2e1b71ce md5 7f96f491448c7a001b32df89cf8d2af2 )
+	rom ( name MUSMAC5.MID size 11988 crc 245e4d44 md5 c8506b20f20c421d2c788d600c5ed5f9 )
+	rom ( name PROTECT.FNT size 6724 crc a0778dc5 md5 1e560db6cfe874b672491698e3db50a6 )
+)
+
+game (
+	name gob1-win-de
+	description "Gobliiins (Windows/German)[fr]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof gob1-win-fr
+	romof gob1-win-fr
+	rom ( name GERMAN.ROM size 68 crc cc8a00ea md5 75de9a222789d8f4f405c10c1bf1580c )
+)
+
+game (
+	name gob1-win-es
+	description "Gobliiins (Windows/Spanish)[fr]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof gob1-win-fr
+	romof gob1-win-fr
+	rom ( name SPANISH.ROM size 69 crc abe66baa md5 fe4a3f2c823306d6cba94fa08b579dc7 )
+)
+
+game (
+	name gob1-win-gb
+	description "Gobliiins (Windows)[UK][fr]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof gob1-win-fr
+	romof gob1-win-fr
+	rom ( name ENGLISH.ROM size 64 crc 0d508f00 md5 ad30b4b793cd86227823f036469c16e5 )
+)
+
+game (
+	name gob1-win-it
+	description "Gobliiins (Windows/Italian)[fr]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof gob1-win-fr
+	romof gob1-win-fr
+	rom ( name ITALIAN.ROM size 69 crc 05651be2 md5 338d70414c0950ab3473cb68dd234596 )
+)
+
+game (
+	name gob1cd-cz
+	description "Gobliiins CD (DOS/v1.02/Czech)[!]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	romof g1a
+	rom ( name GOB.LIC size 949 crc 21ac85cd md5 3d53324939418df5815e613635ac1d8a )
+	rom ( name INTRO.STK size 4049458 crc 86620259 md5 e24df34d96a38c4b5907a8243c0a350d )
+)
+
+game (
 	name gob1cd-hu
-	description "Gobliiins CD (v1.02/DOS/Hungarian)[!]"
-	year 2009
+	description "Gobliiins CD (DOS/v1.02/Hungarian)[!]"
+	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
 	romof g1a
@@ -1495,41 +1639,8 @@ game (
 )
 
 game (
-	name gob1cd-es-2
-	description "Gobliiins CD (v1.02/DOS/Spanish)[hu][!]"
-	year 1992
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob1cd-hu
-	romof gob1cd-hu
-	rom ( name SPANISH.ROM size 63 crc 2cebfdf5 md5 45c564bc95d7028f7088ab8e3d7cb94f )
-)
-
-game (
-	name gob1cd-fr-2
-	description "Gobliiins CD (v1.02/DOS/French)[hu][!]"
-	year 1992
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob1cd-hu
-	romof gob1cd-hu
-	rom ( name FRENCH.ROM size 62 crc b6b1234b md5 5019697f51a6b785012469854a0415ec )
-)
-
-game (
-	name gob1cd-it-2
-	description "Gobliiins CD (v1.02/DOS/Italian)[hu][!]"
-	year 1992
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob1cd-hu
-	romof gob1cd-hu
-	rom ( name ITALIAN.ROM size 63 crc 9bc6a2ea md5 ce1dd3cfddd8a5b91f75bd9d5dc235eb )
-)
-
-game (
 	name gob1cd-pl
-	description "Gobliiins CD (Polish/DOS)"
+	description "Gobliiins CD (DOS/v1.02/Polish)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1540,7 +1651,7 @@ game (
 
 game (
 	name gob1cd-uk
-	description "Gobliiins CD (v1.02/DOS/UK)[GOG][!]"
+	description "Gobliiins CD (DOS/v1.02)[UK][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1551,7 +1662,7 @@ game (
 
 game (
 	name gob1cd-de
-	description "Gobliiins CD (v1.02/DOS/German)[!]"
+	description "Gobliiins CD (DOS/v1.02/German)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1562,7 +1673,7 @@ game (
 
 game (
 	name gob1cd-es
-	description "Gobliiins CD (v1.02/DOS/Spanish)[!]"
+	description "Gobliiins CD (DOS/v1.02/Spanish)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1573,7 +1684,7 @@ game (
 
 game (
 	name gob1cd-fr
-	description "Gobliiins CD (v1.02/DOS/French)[!]"
+	description "Gobliiins CD (DOS/v1.02/French)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1584,7 +1695,7 @@ game (
 
 game (
 	name gob1cd-it
-	description "Gobliiins CD (v1.02/DOS/Italian)[!]"
+	description "Gobliiins CD (DOS/v1.02/Italian)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1595,7 +1706,7 @@ game (
 
 game (
 	name gob1cd-us
-	description "Gobliiins CD (v1.000/DOS/US)[!]"
+	description "Gobliiins CD (DOS/v1.000)[US][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1606,7 +1717,7 @@ game (
 
 game (
 	name gob1cd-de-1
-	description "Gobliiins CD (v1.000/DOS/German)[!]"
+	description "Gobliiins CD (DOS/v1.000/German)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1617,7 +1728,7 @@ game (
 
 game (
 	name gob1cd-es-1
-	description "Gobliiins CD (v1.000/DOS/Spanish)[!]"
+	description "Gobliiins CD (DOS/v1.000/Spanish)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1628,7 +1739,7 @@ game (
 
 game (
 	name gob1cd-fr-1
-	description "Gobliiins CD (v1.000/DOS/French)[!]"
+	description "Gobliiins CD (DOS/v1.000/French)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1639,7 +1750,7 @@ game (
 
 game (
 	name gob1cd-it-1
-	description "Gobliiins CD (v1.000/DOS/Italian)[!]"
+	description "Gobliiins CD (DOS/v1.000/Italian)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1654,18 +1765,9 @@ game (
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof gob2xamres
 	rom ( name DISK2.STK size 723311 crc 7505781e md5 53d697f354c3c12045404845d0a5da5f )
 	rom ( name DISK3.STK size 672777 crc f16a6a64 md5 75acb8e096e25d83d960c8b1f25cdc33 )
-	rom ( name G0.DUM size 2850 crc 115ebbab md5 5aafbf393ea67553fd5742b010ee333a )
-	rom ( name G1.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G2.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G3.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name G4.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G5.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G6.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name I1.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I2.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I3.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
 	rom ( name INTRO.STK size 554014 crc aff7cde4 md5 0c44f114b92894cb59943e931f6f79ea )
 )
 
@@ -1675,18 +1777,9 @@ game (
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof gob2xamres
 	rom ( name DISK2.STK size 724889 crc 06c80d2e md5 72dab9a3c2216ba0bb75592db4ca65a3 )
 	rom ( name DISK3.STK size 674167 crc a4961ed5 md5 b8c0474d8a2db2e979e57ca146649828 )
-	rom ( name G0.DUM size 2850 crc 115ebbab md5 5aafbf393ea67553fd5742b010ee333a )
-	rom ( name G1.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G2.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G3.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name G4.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G5.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G6.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name I1.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I2.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I3.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
 	rom ( name INTRO.STK size 554865 crc cca04581 md5 faa9680c6a4b26272fead125870168a9 )
 )
 
@@ -1696,18 +1789,9 @@ game (
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof gob2xamres
 	rom ( name DISK2.STK size 724889 crc 8d22e8c6 md5 2b05997e0219521e52ce1c8241308654 )
 	rom ( name DISK3.STK size 674167 crc a4961ed5 md5 b8c0474d8a2db2e979e57ca146649828 )
-	rom ( name G0.DUM size 2850 crc 115ebbab md5 5aafbf393ea67553fd5742b010ee333a )
-	rom ( name G1.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G2.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G3.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name G4.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G5.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G6.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name I1.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I2.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I3.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
 	rom ( name INTRO.STK size 554865 crc cca04581 md5 faa9680c6a4b26272fead125870168a9 )
 )
 
@@ -1717,19 +1801,22 @@ game (
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof gob2xamres
 	rom ( name DISK2.STK size 724130 crc 230cf639 md5 46d63871ac2d0227f7019dfbd7408b50 )
 	rom ( name DISK3.STK size 673416 crc b5e1842d md5 9c4263f8212b55fcfcf713e8b2f70072 )
-	rom ( name G0.DUM size 2850 crc 115ebbab md5 5aafbf393ea67553fd5742b010ee333a )
-	rom ( name G1.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G2.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G3.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name G4.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G5.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G6.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name I1.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I2.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I3.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
 	rom ( name INTRO.STK size 554721 crc 86e607b1 md5 a5d7d6cf14a3e1feffe7d9119b4d2221 )
+)
+
+game (
+	name gob2-amiga-fr
+	description "Gobliins 2 (Amiga/French)"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	romof gob2xamres
+	rom ( name DISK2.STK size 724356 crc 3de8a987 md5 3100cdad47f6bcc43a4c50a5f65c081e )
+	rom ( name DISK3.STK size 673556 crc bf4190b7 md5 79e318e4f2f7de9ddf06515c239f968e )
+	rom ( name INTRO.STK size 554680 crc c0a3bcf8 md5 31a9874805a061eea35c543fb820a93f )
 )
 
 game (
@@ -1738,18 +1825,9 @@ game (
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof gob2xamres
 	rom ( name DISK2.STK size 723970 crc 8e657b29 md5 637a13c881717419e76d5879ccfee8d5 )
 	rom ( name DISK3.STK size 673293 crc dee2ee69 md5 953d5f319b6a9a2550e4d09c561bf5fc )
-	rom ( name G0.DUM size 2850 crc 115ebbab md5 5aafbf393ea67553fd5742b010ee333a )
-	rom ( name G1.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G2.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G3.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name G4.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
-	rom ( name G5.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
-	rom ( name G6.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
-	rom ( name I1.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I2.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
-	rom ( name I3.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
 	rom ( name INTRO.STK size 554384 crc 800f955a md5 49a86cbf07565d5438d89d383cb6f033 )
 )
 
@@ -1777,7 +1855,7 @@ game (
 
 game (
 	name gob2-demo
-	description "Gobliins 2 (Interactive Demo/DOS)[!]"
+	description "Gobliins 2 {Demo}(DOS)[Interactive][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1786,7 +1864,7 @@ game (
 
 game (
 	name gob2-demo-1
-	description "Gobliins 2 (Non-Interactive Demo/DOS)[!]"
+	description "Gobliins 2 {Demo}(DOS)[Non-Interactive][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1795,7 +1873,7 @@ game (
 
 game (
 	name gob2-demo-amiga
-	description "Gobliins 2 (Interactive Demo/Amiga)[!]"
+	description "Gobliins 2 {Demo}(Amiga)[Interactive][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1812,7 +1890,7 @@ game (
 
 game (
 	name gob2-demo-amiga-1
-	description "Gobliins 2 (Interactive Demo/Amiga)[a][!]"
+	description "Gobliins 2 {Demo}(Amiga)[Interactive][a][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1851,7 +1929,7 @@ game (
 
 game (
 	name gob2-gb
-	description "Gobliins 2 (DOS/UK)"
+	description "Gobliins 2 (DOS)[UK]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1862,7 +1940,7 @@ game (
 
 game (
 	name gob2-gb-1
-	description "Gobliins 2 (DOS/UK)[GOG][!]"
+	description "Gobliins 2 (DOS)[UK][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1928,6 +2006,18 @@ game (
 )
 
 game (
+	name gob2-st
+	description "Gobliins 2 (Atari ST)"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name DISK2.STK size 723311 crc 7505781e md5 53d697f354c3c12045404845d0a5da5f )
+	rom ( name DISK3.STK size 672777 crc f16a6a64 md5 75acb8e096e25d83d960c8b1f25cdc33 )
+	rom ( name ENGLISH.ROM size 29 crc 81324588 md5 6997f81bd31cb1b99b9a18abb50b80aa )
+	rom ( name INTRO.STK size 554014 crc aff7cde4 md5 0c44f114b92894cb59943e931f6f79ea )
+)
+
+game (
 	name gob2-st-fr
 	description "Gobliins 2 (Atari ST/French)"
 	year 1992
@@ -1935,12 +2025,13 @@ game (
 	sourcefile gob
 	rom ( name DISK2.STK size 724356 crc 3de8a987 md5 3100cdad47f6bcc43a4c50a5f65c081e )
 	rom ( name DISK3.STK size 673556 crc bf4190b7 md5 79e318e4f2f7de9ddf06515c239f968e )
+	rom ( name FRENCH.ROM size 39 crc 0295ef1c md5 b9b24482f66bc66f32e27b5a18145f29 )
 	rom ( name INTRO.STK size 554680 crc c0a3bcf8 md5 31a9874805a061eea35c543fb820a93f )
 )
 
 game (
 	name gob2-us
-	description "Gobliins 2 (DOS/US)"
+	description "Gobliins 2 (DOS)[US]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1950,8 +2041,35 @@ game (
 )
 
 game (
+	name gob2-win-fr
+	description "Gobliins 2 (Windows/French)"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name DISK2.STK size 937200 crc 6cb7460b md5 3d8aabaf7b02afbd84c877ef37d63e1a )
+	rom ( name DISK3.STK size 921814 crc 6accfee2 md5 0e342fce33a49c463fbb54810eee8f1a )
+	rom ( name INTRO.STK size 883756 crc a44a30b7 md5 84d460cf116e8d6ac0cc2e465f72df81 )
+)
+
+game (
+	name gob2-win-fr-1
+	description "Gobliins 2 (Windows/French)[a]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name DISK2.STK size 997418 crc e12b56aa md5 09ec79a93a0c1fcbc36414fa9abdbd20 )
+	rom ( name DISK3.STK size 921796 crc fc05c393 md5 6ddfd020be5ed5f5d39bc8837b5ed3a4 )
+	rom ( name INTRO.STK size 837286 crc fb0bbda9 md5 bbb32fab179ec70ddfd242526cc74ea3 )
+	rom ( name MUSMAC1.MID size 8661 crc 2e19de97 md5 9a8d74a105055ccb4dd6fdefd67c2913 )
+	rom ( name MUSMAC2.MID size 13120 crc ef6b490e md5 9bbbdb661b7aca11eb65ec901f2810ac )
+	rom ( name MUSMAC3.MID size 3908 crc ac8758d0 md5 318332f3f7acd3fb5f99e10024a340d3 )
+	rom ( name MUSMAC4.MID size 9213 crc e171cce7 md5 e2bc33efce12cdf2d69ed94eddf4c125 )
+	rom ( name MUSMAC5.MID size 11988 crc 245e4d44 md5 c8506b20f20c421d2c788d600c5ed5f9 )
+)
+
+game (
 	name gob2cd
-	description "Gobliins 2 CD (v1.02/DOS)[GOG][!]"
+	description "Gobliins 2 CD (DOS/v1.02)[UK][!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1963,7 +2081,7 @@ game (
 
 game (
 	name gob2cd-de
-	description "Gobliins 2 CD (v1.02/DOS/German)[GOG][!]"
+	description "Gobliins 2 CD (DOS/v1.02/German)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1974,7 +2092,7 @@ game (
 
 game (
 	name gob2cd-es
-	description "Gobliins 2 CD (v1.02/DOS/Spanish)[GOG][!]"
+	description "Gobliins 2 CD (DOS/v1.02/Spanish)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1985,7 +2103,7 @@ game (
 
 game (
 	name gob2cd-fr
-	description "Gobliins 2 CD (v1.02/DOS/French)[GOG][!]"
+	description "Gobliins 2 CD (DOS/v1.02/French)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -1996,7 +2114,7 @@ game (
 
 game (
 	name gob2cd-it
-	description "Gobliins 2 CD (v1.02/DOS/Italian)[GOG][!]"
+	description "Gobliins 2 CD (DOS/v1.02/Italian)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2006,75 +2124,44 @@ game (
 )
 
 game (
-	name gob2cd-hu
-	description "Gobliins 2 CD (v1.02/DOS/Hungarian)[!]"
-	year 2009
+	name gob2cd-cz
+	description "Gobliins 2 CD (DOS/v1.02/Czech)[!]"
+	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof g2g4a
+	rom ( name GOB2.LIC size 4338 crc 3aaf9860 md5 7dc7854378b42899f98c9bfb660bc3bf )
+	rom ( name GOBNEW.LIC size 4338 crc 3aaf9860 md5 7dc7854378b42899f98c9bfb660bc3bf )
+	rom ( name INTRO.STK size 5005348 crc 1317a754 md5 b8a43f233ea4480072bf0b66375781f6 )
+)
+
+game (
+	name gob2cd-hu
+	description "Gobliins 2 CD (DOS/v1.02/Hungarian)[!]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	romof g2g4a
 	rom ( name GOB2.LIC size 4338 crc 3aaf9860 md5 7dc7854378b42899f98c9bfb660bc3bf )
 	rom ( name GOBNEW.LIC size 4338 crc 3aaf9860 md5 7dc7854378b42899f98c9bfb660bc3bf )
 	rom ( name INTRO.STK size 5006236 crc d4e94a57 md5 46f5ea371c9ee86c11d70e4139935cc3 )
-	rom ( name Track1.mp3 size 51240960 crc 68095f38 md5 ec22a5676521237bd7ddedb2bd1a5f49 )
-)
-
-game (
-	name gob2cd-de-1
-	description "Gobliins 2 CD (v1.02/DOS/German)[hu][!]"
-	year 1992
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob2cd-hu
-	romof gob2cd-hu
-	rom ( name GERMAN.ROM size 63 crc 7ff71b09 md5 7cb0e7e1d1331bbc4a883d2f23e22eca )
-)
-
-game (
-	name gob2cd-es-1
-	description "Gobliins 2 CD (v1.02/DOS/Spanish)[hu][!]"
-	year 1992
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob2cd-hu
-	romof gob2cd-hu
-	rom ( name SPANISH.ROM size 64 crc 15fc4059 md5 710a00a2d0f588dd9a009e0467900f19 )
-)
-
-game (
-	name gob2cd-fr-1
-	description "Gobliins 2 CD (v1.02/DOS/French)[hu][!]"
-	year 1992
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob2cd-hu
-	romof gob2cd-hu
-	rom ( name FRENCH.ROM size 63 crc 76dede74 md5 e15eaecd574f2053be426aea03b89845 )
-)
-
-game (
-	name gob2cd-it-1
-	description "Gobliins 2 CD (v1.02/DOS/Italian)[hu][!]"
-	year 1992
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob2cd-hu
-	romof gob2cd-hu
-	rom ( name ITALIAN.ROM size 64 crc 21317647 md5 9d0cf0c2cd8349b609ac32e1e12f8b28 )
 )
 
 game (
 	name gob2cd-pl
-	description "Gobliins 2 CD (v2.01 Polish/DOS)"
+	description "Gobliins 2 CD (DOS/v1.02/Polish)[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof g2g4a
+	rom ( name GOB2.LIC size 4338 crc 3aaf9860 md5 7dc7854378b42899f98c9bfb660bc3bf )
 	rom ( name GOBNEW.LIC size 4338 crc 3aaf9860 md5 7dc7854378b42899f98c9bfb660bc3bf )
 	rom ( name INTRO.STK size 5011726 crc f9a4aa27 md5 f33de34856a036ccdc4317bc1757f2e0 )
-	rom ( name Track1.flac size 176025858 crc f249a34a md5 11b25e69fde5f57b9b55bd0158b48293 )
 )
 
 game (
 	name gob2cd-us
-	description "Gobliins 2 CD (v1.000/DOS/US)"
+	description "Gobliins 2 CD (DOS/v1.000)[US]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2142,7 +2229,7 @@ game (
 
 game (
 	name gob3-amiga-gb
-	description "Goblins Quest 3 (Amiga/UK)"
+	description "Goblins Quest 3 (Amiga)[UK]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2199,7 +2286,7 @@ game (
 
 game (
 	name gob3-de
-	description "Goblins Quest 3 (DOS/German)"
+	description "Goblins Quest 3 (DOS/German)[!]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2211,7 +2298,7 @@ game (
 
 game (
 	name gob3-demo
-	description "Goblins Quest 3 (Interactive Demo 3/DOS)"
+	description "Goblins Quest 3 {Demo}(DOS)[Interactive 3]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2222,7 +2309,7 @@ game (
 
 game (
 	name gob3-demo-1
-	description "Goblins Quest 3 (Non-interactive Demo/DOS)"
+	description "Goblins Quest 3 {Demo}(DOS)[Non-Interactive]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2232,7 +2319,7 @@ game (
 
 game (
 	name gob3-demo-fr
-	description "Goblins Quest 3 (Interactive Demo/DOS/French)"
+	description "Goblins Quest 3 {Demo}(DOS/French)[Interactive]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2241,7 +2328,7 @@ game (
 
 game (
 	name gob3-demo-fr-1
-	description "Goblins Quest 3 (Interactive Demo 2/DOS/French)"
+	description "Goblins Quest 3 {Demo}(DOS/French)[Interactive 2]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2276,7 +2363,7 @@ game (
 
 game (
 	name gob3-gb
-	description "Goblins Quest 3 (DOS/UK)"
+	description "Goblins Quest 3 (DOS)[UK]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2288,7 +2375,7 @@ game (
 
 game (
 	name gob3-gb-1
-	description "Goblins Quest 3 (DOS/UK)[GOG][!]"
+	description "Goblins Quest 3 (DOS)[UK][!]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2300,7 +2387,7 @@ game (
 
 game (
 	name gob3-gb-2
-	description "Goblins Quest 3 (DOS/UK)[a2]"
+	description "Goblins Quest 3 (DOS)[UK][a]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2337,7 +2424,7 @@ game (
 
 game (
 	name gob3-mac-gb
-	description "Goblins Quest 3 (Macintosh/UK)"
+	description "Goblins Quest 3 (Macintosh)[UK]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2346,10 +2433,7 @@ game (
 	rom ( name GOB32.FNT size 6724 crc 29c325af md5 c8a7ff84c63cb0bca21d295ba0bb584c )
 	rom ( name GOB33.FNT size 6724 crc 29c325af md5 c8a7ff84c63cb0bca21d295ba0bb584c )
 	rom ( name IMD.ITK size 2951256 crc b4dd097c md5 de51a2c41418c2cd05865ef9949c3384 )
-	rom ( name IMD.LTK size 45344 crc 987238bb md5 307b543e366a180499a7ddf83d5045f0 )
-	rom ( name INTRO.$$$ size 307968 crc 7eafff85 md5 20bcad4ffa893b3d4fe498032aec54fa )
 	rom ( name INTRO.STK size 157084 crc af5a13cd md5 36d9b4032b39a794c8640e500e98893a )
-	rom ( name MDO.DEF size 181 crc 424f6a55 md5 7ff5f015d00437a9637f848922325b33 )
 	rom ( name MUSMAC1.MID size 8661 crc 2e19de97 md5 9a8d74a105055ccb4dd6fdefd67c2913 )
 	rom ( name MUSMAC2.MID size 6404 crc d439c4fe md5 b1233f3f7280b0d64ee26d7b9e839ee4 )
 	rom ( name MUSMAC3.MID size 9243 crc 225e7c2d md5 a87bcf764f9126a9d48e2d061d9fdbac )
@@ -2376,7 +2460,7 @@ game (
 
 game (
 	name gob3-us
-	description "Goblins Quest 3 (DOS/US)"
+	description "Goblins Quest 3 (DOS)[US]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2387,8 +2471,25 @@ game (
 )
 
 game (
+	name gob3-win-fr
+	description "Goblins Quest 3 (Windows/French)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name EXT.STK size 3922524 crc fb2c55fd md5 06a00d341f9ba3786f616a173f96daec )
+	rom ( name IMD.ITK size 3006464 crc d19d09f5 md5 3609897045329fb030d4d44fa6354c8f )
+	rom ( name INTRO.STK size 209534 crc 98ab2078 md5 857ac37f40d2727f4b87a6a295218b10 )
+	rom ( name MUSMAC1.MID size 6404 crc d439c4fe md5 b1233f3f7280b0d64ee26d7b9e839ee4 )
+	rom ( name MUSMAC2.MID size 6896 crc 40101f1e md5 0ec9b7241e13ed21d39d141dc3806d3d )
+	rom ( name MUSMAC3.MID size 13120 crc ef6b490e md5 9bbbdb661b7aca11eb65ec901f2810ac )
+	rom ( name MUSMAC4.MID size 9243 crc 225e7c2d md5 a87bcf764f9126a9d48e2d061d9fdbac )
+	rom ( name MUSMAC5.MID size 9888 crc cce94ac1 md5 8b72eda59605706b7cab7eda7194f0ff )
+	rom ( name TOT.STK size 447200 crc a8ca9db2 md5 7237fccc3716f777c4ea851714c15cfe )
+)
+
+game (
 	name gob3cd
-	description "Goblins Quest 3 CD (v1.02/DOS)"
+	description "Goblins Quest 3 CD (DOS/v1.02)"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2405,7 +2506,7 @@ game (
 
 game (
 	name gob3cd-de
-	description "Goblins Quest 3 CD (v1.02/DOS/German)"
+	description "Goblins Quest 3 CD (DOS/v1.02/German)"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2416,7 +2517,7 @@ game (
 
 game (
 	name gob3cd-es
-	description "Goblins Quest 3 CD (v1.02/DOS/Spanish)"
+	description "Goblins Quest 3 CD (DOS/v1.02/Spanish)"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2428,7 +2529,7 @@ game (
 
 game (
 	name gob3cd-fr
-	description "Goblins Quest 3 CD (v1.02/DOS/French)"
+	description "Goblins Quest 3 CD (DOS/v1.02/French)"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2439,7 +2540,7 @@ game (
 
 game (
 	name gob3cd-it
-	description "Goblins Quest 3 CD (v1.02/DOS/Italian)"
+	description "Goblins Quest 3 CD (DOS/v1.02/Italian)"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2450,7 +2551,7 @@ game (
 
 game (
 	name gob3cd-1
-	description "Goblins Quest 3 CD (v1.02/DOS)[GOG][!]"
+	description "Goblins Quest 3 CD (DOS/v1.02)[!]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2465,11 +2566,29 @@ game (
 )
 
 game (
-	name gob3cd-hu
-	description "Goblins Quest 3 CD (v1.02/DOS/Hungarian)[!]"
-	year 2009
+	name gob3cd-cz
+	description "Goblins Quest 3 CD (DOS/v1.02/Czech)[!]"
+	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof g3g4a
+	rom ( name COKTEL.IMD size 835339 crc 38ef3aff md5 70fe82c7fd418f9a094bdff3609f1119 )
+	rom ( name COKTEL2.IMD size 531604 crc b922fba4 md5 8f82a44fa7305169ccd3b7c4c7565324 )
+	rom ( name EXT.STK size 7224322 crc 1cf479e9 md5 08b694360f10661f86b8411f4caab7ce )
+	rom ( name IMD.ITK size 9089298 crc 1054bf82 md5 d03740776ca9c81d1eb6fd9792e3dcbd )
+	rom ( name INTRO.STK size 613642 crc 9b1c379e md5 f7ed05f8d77f629723c4c4a38d4d8763 )
+	rom ( name MUS_GOB3.LIC size 1324 crc c32da170 md5 ee0af6ce71ed3f000cb967588e0c0c88 )
+	rom ( name TOT.STK size 476822 crc e6e5e7b5 md5 05f73a4f8a88c8e9a3ec8d8e5230e404 )
+	rom ( name USGOB3.ITK size 95578408 crc f68d6cbd md5 1dab0ddebbe759701019105a373fbcc4 )
+)
+
+game (
+	name gob3cd-hu
+	description "Goblins Quest 3 CD (DOS/v1.02/Hungarian)[!]"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	romof g3g4a
 	rom ( name COKTEL.IMD size 835339 crc 38ef3aff md5 70fe82c7fd418f9a094bdff3609f1119 )
 	rom ( name COKTEL2.IMD size 531604 crc b922fba4 md5 8f82a44fa7305169ccd3b7c4c7565324 )
 	rom ( name EXT.STK size 7224322 crc 1cf479e9 md5 08b694360f10661f86b8411f4caab7ce )
@@ -2477,67 +2596,29 @@ game (
 	rom ( name INTRO.STK size 616220 crc 9a367320 md5 0b8c270f99fdcc72d8b617cb01c301e2 )
 	rom ( name MUS_GOB3.LIC size 1324 crc c32da170 md5 ee0af6ce71ed3f000cb967588e0c0c88 )
 	rom ( name TOT.STK size 476822 crc e6e5e7b5 md5 05f73a4f8a88c8e9a3ec8d8e5230e404 )
-	rom ( name Track1.mp3 size 43054393 crc bb189527 md5 9f56333f1764c1894a07ec6eb6d59a7a )
 	rom ( name USGOB3.ITK size 95578408 crc f68d6cbd md5 1dab0ddebbe759701019105a373fbcc4 )
 )
 
 game (
-	name gob3cd-de-1
-	description "Goblins Quest 3 CD (v1.02/DOS/German)[hu][!]"
-	year 1993
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob3cd-hu
-	romof gob3cd-hu
-	rom ( name DEGOB3.ITK size 87863546 crc a5e812c9 md5 360319b7cc63d4e05ba23d9b3b14abe4 )
-	rom ( name GERMAN.ROM size 68 crc c741a431 md5 f621fa387f01e3ca00096eb2856d1b3b )
-)
-
-game (
-	name gob3cd-es-1
-	description "Goblins Quest 3 CD (v1.02/DOS/Spanish)[hu][!]"
-	year 1993
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob3cd-hu
-	romof gob3cd-hu
-	rom ( name SPANISH.ROM size 69 crc d0ba46b2 md5 22cf087d218c26f1553002a5b0dceeca )
-)
-
-game (
-	name gob3cd-fr-1
-	description "Goblins Quest 3 CD (v1.02/DOS/French)[hu][!]"
-	year 1993
-	manufacturer "Coktel Vision"
-	sourcefile gob
-	cloneof gob3cd-hu
-	romof gob3cd-hu
-	rom ( name FRENCH.ROM size 68 crc aff08d7a md5 69a77c97f1b99b14bca076344a709ab9 )
-	rom ( name FRGOB3.ITK size 82759160 crc 5f8f1ad4 md5 c933eb7b961514f17e089348a902b5c2 )
-)
-
-game (
 	name gob3cd-pl
-	description "Goblins Quest 3 CD (v1.02/DOS/Polish)"
+	description "Goblins Quest 3 CD (DOS/v1.02/Polish)[!]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
-	rom ( name DEGOB3.ITK size 87863546 crc a5e812c9 md5 360319b7cc63d4e05ba23d9b3b14abe4 )
+	romof g3g4a
+	rom ( name COKTEL.IMD size 835339 crc 38ef3aff md5 70fe82c7fd418f9a094bdff3609f1119 )
+	rom ( name COKTEL2.IMD size 531604 crc b922fba4 md5 8f82a44fa7305169ccd3b7c4c7565324 )
 	rom ( name EXT.STK size 7224322 crc 1cf479e9 md5 08b694360f10661f86b8411f4caab7ce )
-	rom ( name FRGOB3.ITK size 82759160 crc 5f8f1ad4 md5 c933eb7b961514f17e089348a902b5c2 )
 	rom ( name IMD.ITK size 9089298 crc 1054bf82 md5 d03740776ca9c81d1eb6fd9792e3dcbd )
 	rom ( name INTRO.STK size 619825 crc f8dac81e md5 24ff4aba69a7ff9433f3cd398540a0fe )
-	rom ( name ITGOB3.ITK size 89931448 crc 39e1e6c4 md5 16c6be8676ba828d24af8f80586b30bd )
-	rom ( name MDOS.IMD size 1280318 crc d64e32e9 md5 f3d2e2c512b0b551b3292321cd4a87d9 )
 	rom ( name MUS_GOB3.LIC size 1324 crc c32da170 md5 ee0af6ce71ed3f000cb967588e0c0c88 )
 	rom ( name TOT.STK size 476822 crc e6e5e7b5 md5 05f73a4f8a88c8e9a3ec8d8e5230e404 )
-	rom ( name Track1.flac size 138698920 crc 72ba6377 md5 ec5f1aa2de5301eef7be6b166c64991f )
 	rom ( name USGOB3.ITK size 95578408 crc f68d6cbd md5 1dab0ddebbe759701019105a373fbcc4 )
 )
 
 game (
 	name gob3cd-us
-	description "Goblins Quest 3 CD (v1.000/DOS/US)"
+	description "Goblins Quest 3 CD (DOS/v1.000)[US]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2567,7 +2648,7 @@ game (
 
 game (
 	name inca2-demo
-	description "Inca II: Wiracocha (Non-Interactive Demo/DOS)"
+	description "Inca II: Wiracocha {Demo}(DOS)[Non-Interactive]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2638,7 +2719,7 @@ game (
 
 game (
 	name inca2-us
-	description "Inca II: Wiracocha (CD/DOS/US)[v1.30]"
+	description "Inca II: Wiracocha (CD/DOS)[US][v1.30]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2651,7 +2732,7 @@ game (
 
 game (
 	name inca2-us-1
-	description "Inca II: Wiracocha (DOS/US)[v1.000 hd]"
+	description "Inca II: Wiracocha (DOS)[US][v1.000 hd]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2695,6 +2776,63 @@ game (
 )
 
 game (
+	name inca2-win-us
+	description "Inca II: Wiracocha (Windows)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name EXT.STK size 5258646 crc 58af7645 md5 a3f06badf3f338409d64e662dd69db9c )
+	rom ( name INCA2.STK size 404570 crc ff4872bf md5 18a57552be9808cd8db8b6693eb4e293 )
+	rom ( name INTRO.STK size 908612 crc b1341119 md5 a0fd7315e9cf58bdd848a6a0095800f1 )
+	rom ( name LOCO.STK size 188088 crc 9d26cd6c md5 7531a5b7071424b7e1a592cf6e0b07e7 )
+	rom ( name OBLIHD.ITK size 11352064 crc 252d3b16 md5 53791047ff7f662b14b7cf22260b1794 )
+)
+
+game (
+	name inca2-win-de
+	description "Inca II: Wiracocha (Windows/German)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof inca2-win-us
+	romof inca2-win-us
+	rom ( name GERMAN.ROM size 75 crc 77f3b927 md5 b1ec358345234e23046fc40b3b50585a )
+)
+
+game (
+	name inca2-win-es
+	description "Inca II: Wiracocha (Windows/Spanish)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof inca2-win-us
+	romof inca2-win-us
+	rom ( name SPANISH.ROM size 76 crc f7126792 md5 9088e551a65c66954b0e81633cb2c9f6 )
+)
+
+game (
+	name inca2-win-fr
+	description "Inca II: Wiracocha (Windows/French)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof inca2-win-us
+	romof inca2-win-us
+	rom ( name FRENCH.ROM size 75 crc fab54068 md5 e603f41eacdcdf74cc8b2c2390b271fe )
+)
+
+game (
+	name inca2-win-it
+	description "Inca II: Wiracocha (Windows/Italian)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof inca2-win-us
+	romof inca2-win-us
+	rom ( name ITALIAN.ROM size 76 crc 0dc190f7 md5 a450968ba992daf62801396c5e18a3d5 )
+)
+
+game (
 	name lit-cz
 	description "Lost in Time (DOS/Czech)[NotID]"
 	year 1993
@@ -2720,7 +2858,7 @@ game (
 
 game (
 	name lit-de-1
-	description "Lost in Time (DOS/German)"
+	description "Lost in Time (DOS/German)[!]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2728,11 +2866,11 @@ game (
 	rom ( name BATCOM.LTK size 9488 crc 8d96999e md5 60f8c29084b7489361646996b5dec7a9 )
 	rom ( name COMMUN1.ITK size 954310 crc d0801563 md5 db926d5c9fd1a5282fd7fee2f2c8c538 )
 	rom ( name COMMUN1.LTK size 3098 crc de9c199d md5 dd29bb79f4e1274d75bc70a18833a73b )
-	rom ( name INTRO.STK size 3944090 crc 431f6149 md5 65c1faeb210805186735380d4b9a727c )
+	rom ( name INTRO.STK size 3944090 crc e796f18c md5 191b7d40812736a476340234e4f84c76 )
 	rom ( name PARTIE1.ITK size 612884 crc 7bcd2608 md5 395039ec5ecf5d7d2526d0d6f86352c6 )
 	rom ( name PARTIE1.LTK size 2900 crc 2d6d2f73 md5 5aa92e435c83084f8201f8e4f6091dfd )
-	rom ( name PARTIE2.ITK size 3203646 crc ad8f5511 md5 e6dc6972ec136027cc1197afced0af61 )
-	rom ( name PARTIE2.LTK size 17384 crc dd5a1453 md5 e3f8c54f173224d801cddae9d1dde914 )
+	rom ( name PARTIE2.ITK size 3203646 crc a102c04a md5 ea07580d00e07acb8702f412fa8c919f )
+	rom ( name PARTIE2.LTK size 17384 crc 8b691060 md5 858b9ad3d57f20eaadb7efc2742e044d )
 	rom ( name PARTIE3.ITK size 2882994 crc 15edd1fd md5 98ccc9f80f13843c908bdd1a52006f7b )
 	rom ( name PARTIE3.LTK size 14540 crc 3e07d762 md5 05f36770aa0f3f2ac5d71c9b4d938673 )
 	rom ( name PARTIE4.ITK size 2459460 crc d62ff493 md5 e42f6647aad4b9e45e93edcaced70b77 )
@@ -2741,7 +2879,7 @@ game (
 
 game (
 	name lit-demo
-	description "Lost in Time (Demo/DOS)"
+	description "Lost in Time {Demo}(DOS)"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2752,7 +2890,7 @@ game (
 
 game (
 	name lit-demo-1
-	description "Lost in Time (Non-interactive Demo/DOS)"
+	description "Lost in Time {Demo}(DOS)[Non-Interactive]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2826,6 +2964,10 @@ game (
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	rom ( name ._MUSMAC1.MID size 89145 crc 1476f19d md5 1f0ca55907ad2ffdc4aabadae9dd243c )
+	rom ( name ._MUSMAC2.MID size 38474 crc 5819d9b5 md5 7f2125f815c28d529d77a4aefebbf24a )
+	rom ( name ._MUSMAC3.MID size 29019 crc 2e248ffe md5 9a5b63b88cbf755069a2413409150cea )
+	rom ( name ._MUSMAC4.MID size 115752 crc bbf7ba1d md5 90072135960af1e627b2d94072676b89 )
 	rom ( name BATCOM.ITK size 1874526 crc 07bc7033 md5 01729d5c31f748937b377303d224f94f )
 	rom ( name BATCOM.LTK size 9488 crc 8d96999e md5 60f8c29084b7489361646996b5dec7a9 )
 	rom ( name COMMUN1.ITK size 954310 crc d0801563 md5 db926d5c9fd1a5282fd7fee2f2c8c538 )
@@ -2847,7 +2989,7 @@ game (
 
 game (
 	name lit-us
-	description "Lost in Time (CD/DOS/US)"
+	description "Lost in Time (CD/DOS)[US]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2903,7 +3045,7 @@ game (
 
 game (
 	name lit-gb
-	description "Lost in Time (CD/DOS/UK)"
+	description "Lost in Time (CD/DOS)[UK]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2925,7 +3067,7 @@ game (
 
 game (
 	name lit-us-1
-	description "Lost in Time (DOS/US)"
+	description "Lost in Time (DOS)[US]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2946,7 +3088,7 @@ game (
 
 game (
 	name lit-us-2
-	description "Lost in Time (DOS/US)[a]"
+	description "Lost in Time (DOS)[US][a]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2966,8 +3108,154 @@ game (
 )
 
 game (
+	name lit-win-fr
+	description "Lost in Time (Windows/French)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name BATCOM.ITK size 1980416 crc 27f2d964 md5 24c780c028ef82375a552012c0f1e314 )
+	rom ( name COMMUN1.ITK size 987136 crc c83954da md5 d4b3692a5f8786be53da9e65710c6c6c )
+	rom ( name INTRO.STK size 3937120 crc 3e58ec93 md5 8a85aac749f0951a9bba6747899b0f84 )
+	rom ( name MUSMAC1.MID size 9398 crc 6e297f1b md5 e1c99064eda9080c433cb41d82f0f31b )
+	rom ( name MUSMAC2.MID size 6770 crc 684acd21 md5 06b51ab0ab7f4482b61c637910438c12 )
+	rom ( name MUSMAC3.MID size 5739 crc dada1efe md5 7f3b45419444262e6af87c00faa33f0c )
+	rom ( name MUSMAC4.MID size 14161 crc 3ad21250 md5 8c8f598c93ee69f1a669ca388a4e31b7 )
+	rom ( name PARTIE1.ITK size 643072 crc c2c74c57 md5 5def93cc7f714dc5d155d5abab377bd5 )
+	rom ( name PARTIE2.ITK size 3311616 crc 309345dd md5 218c05f672cb15d0625aa8525cb7b816 )
+	rom ( name PARTIE3.ITK size 3055616 crc c86e483f md5 f9b7bb3b27295ccb11d81fa3b09426b8 )
+	rom ( name PARTIE4.ITK size 2560000 crc 31cc7efb md5 dc1e9c0b89715d858819698e0e66303e )
+)
+
+game (
+	name lit-win-gb
+	description "Lost in Time (Windows/EU)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name BATCOM.ITK size 1980416 crc 27f2d964 md5 24c780c028ef82375a552012c0f1e314 )
+	rom ( name COMMUN1.ITK size 987136 crc c83954da md5 d4b3692a5f8786be53da9e65710c6c6c )
+	rom ( name INTRO.STK size 4207330 crc 3d244379 md5 333435a449328adb273fd88ad302cc1f )
+	rom ( name MDO.DEF size 185 crc 04872a33 md5 9938fa497361bea055c76b3a71225cc6 )
+	rom ( name PARTIE1.ITK size 643072 crc c2c74c57 md5 5def93cc7f714dc5d155d5abab377bd5 )
+	rom ( name PARTIE2.ITK size 3311616 crc 92e3f6da md5 5c86e08ca66379982b180921d2e6cb39 )
+	rom ( name PARTIE3.ITK size 3055616 crc c86e483f md5 f9b7bb3b27295ccb11d81fa3b09426b8 )
+	rom ( name PARTIE4.ITK size 2560000 crc 31cc7efb md5 dc1e9c0b89715d858819698e0e66303e )
+)
+
+game (
+	name lit-win-es
+	description "Lost in Time (Windows/Spanish)(eu)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof lit-win-gb
+	romof lit-win-gb
+	rom ( name SPANISH.ROM size 46 crc ffc7c2cd md5 50ae407bdf77488a3e2320f5cd659f7e )
+)
+
+game (
+	name lit-win-fr-1
+	description "Lost in Time (Windows/French)(eu)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof lit-win-gb
+	romof lit-win-gb
+	rom ( name FRENCH.ROM size 47 crc 3b90d752 md5 d400bd1b93c04240118e39157ed92864 )
+)
+
+game (
+	name lit2-win-fr
+	description "Lost in Time Part 2 (Windows/French/Light Install)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name COMMUN.STK size 447694 crc 935b63a4 md5 b26f4f097535228049c89751e422b584 )
+	rom ( name COMMUN2.ITK size 727028 crc 6b199410 md5 e3f6c7c26f23581b46312510691522a7 )
+	rom ( name COMMUN2.LTK size 2204 crc bcfbea69 md5 8f6d53b91d578507bf0405a39965b7f2 )
+	rom ( name INTRO.STK size 72318 crc f0b729d0 md5 f747df00b910c65da233f77d8418bb01 )
+	rom ( name PARTIE3.ITK size 4435864 crc 55f8feec md5 bc9421f84937e16e9f2900a5fb870aeb )
+	rom ( name PARTIE3.LTK size 21326 crc c12f7168 md5 637b97a4e4628b4573d560395dd8c77d )
+	rom ( name TOME2.STK size 1691160 crc c3b79ae0 md5 94c4d4d9174fa011557479a776a29e96 )
+)
+
+game (
+	name lit2-win-fr-1
+	description "Lost in Time Part 2 (Windows/French/Full Install)"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name COMMUN.STK size 447694 crc 935b63a4 md5 b26f4f097535228049c89751e422b584 )
+	rom ( name COMMUN2.ITK size 727028 crc 6b199410 md5 e3f6c7c26f23581b46312510691522a7 )
+	rom ( name COMMUN2.LTK size 2204 crc bcfbea69 md5 8f6d53b91d578507bf0405a39965b7f2 )
+	rom ( name INTRO.STK size 72318 crc f0b729d0 md5 f747df00b910c65da233f77d8418bb01 )
+	rom ( name PARTIE3.ITK size 4435864 crc 55f8feec md5 bc9421f84937e16e9f2900a5fb870aeb )
+	rom ( name PARTIE3.LTK size 21326 crc c12f7168 md5 637b97a4e4628b4573d560395dd8c77d )
+	rom ( name PARTIE4.ITK size 2612087 crc 65ab6ee9 md5 407dddbd313c2d9c714172ef8a3adc17 )
+	rom ( name PARTIE4.LTK size 14378 crc 496cccab md5 4789e1edd76535e4bbc5c0d6548f4726 )
+	rom ( name TOME2.STK size 1691160 crc c3b79ae0 md5 94c4d4d9174fa011557479a776a29e96 )
+)
+
+game (
+	name littlered
+	description "Once Upon A Time: Little Red Riding Hood (DOS)"
+	year 1991
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name ALL.ASK size 2878 crc e3a3c81a md5 50d3edaf27127f65bdae4aef2472b09b )
+	rom ( name INTRO.STK size 256490 crc 38f3d731 md5 b3b0215ad6d4fbfddbc308faca71ea66 )
+	rom ( name LANGUES.EXT size 312355 crc 3a492e0a md5 7a99b23dc8944c5de92f415f4653df8d )
+	rom ( name STK2.STK size 357538 crc ac6aed03 md5 05803dbc3ae2663634a1446e5a97a166 )
+	rom ( name STK3.STK size 19014 crc 7cb83328 md5 c098a3136694a82b0c5f15e643db28dc )
+)
+
+game (
+	name littlered-de
+	description "Once Upon A Time: Little Red Riding Hood (DOS/German)"
+	year 1991
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof littlered
+	romof littlered
+	rom ( name GERMAN.ROM size 71 crc 9fb1ce78 md5 aa23bc71feaf41a5846ed47e15ffe52b )
+)
+
+game (
+	name littlered-es
+	description "Once Upon A Time: Little Red Riding Hood (DOS/Spanish)"
+	year 1991
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof littlered
+	romof littlered
+	rom ( name SPANISH.ROM size 72 crc 5472b95a md5 2066382b5a22ece6cde3342c6dd44f95 )
+)
+
+game (
+	name littlered-fr
+	description "Once Upon A Time: Little Red Riding Hood (DOS/French)"
+	year 1991
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof littlered
+	romof littlered
+	rom ( name FRENCH.ROM size 71 crc fc3c686a md5 eaab8cc3de90b4c54c531cae1ee040c1 )
+)
+
+game (
+	name littlered-it
+	description "Once Upon A Time: Little Red Riding Hood (DOS/Italian)"
+	year 1991
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	cloneof littlered
+	romof littlered
+	rom ( name ITALIAN.ROM size 72 crc 59b0d773 md5 fba4d19a37ea1bec47ef49ed3f13970d )
+)
+
+game (
 	name littlered-amiga
-	description "Little Red Riding Hood (Amiga)"
+	description "Once Upon A Time: Little Red Riding Hood (Amiga)"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -2983,60 +3271,99 @@ game (
 )
 
 game (
-	name littlered-gb
-	description "Little Red Riding Hood (DOS/UK) "
+	name littlered-win
+	description "Once Upon A Time: Little Red Riding Hood (Windows)"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
-	rom ( name ALL.ASK size 2878 crc e3a3c81a md5 50d3edaf27127f65bdae4aef2472b09b )
-	rom ( name INTRO.STK size 256490 crc 38f3d731 md5 b3b0215ad6d4fbfddbc308faca71ea66 )
-	rom ( name LANGUES.EXT size 312355 crc 3a492e0a md5 7a99b23dc8944c5de92f415f4653df8d )
-	rom ( name STK2.STK size 357538 crc ac6aed03 md5 05803dbc3ae2663634a1446e5a97a166 )
-	rom ( name STK3.STK size 19014 crc 7cb83328 md5 c098a3136694a82b0c5f15e643db28dc )
+	rom ( name INTRO.STK size 1187522 crc 2437eaaf md5 b9e1e8c27c3eada253d9baddb08afad9 )
+	rom ( name STK2.STK size 1189166 crc dd3d4e7e md5 5cd853a07117ca482e9b97d3e019aa8c )
+	rom ( name STK3.STK size 1189166 crc dd3d4e7e md5 5cd853a07117ca482e9b97d3e019aa8c )
 )
 
 game (
-	name littlered-de
-	description "Little Red Riding Hood (DOS/German)"
+	name littlered-win-de
+	description "Once Upon A Time: Little Red Riding Hood (Windows/German)"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
-	cloneof littlered-gb
-	romof littlered-gb
-	rom ( name GERMAN.ROM size 71 crc 9fb1ce78 md5 aa23bc71feaf41a5846ed47e15ffe52b )
+	cloneof littlered-win
+	romof littlered-win
+	rom ( name GERMAN.ROM size 102 crc 648dfa02 md5 96b59c0817d0d07becab321a6c3ce8ce )
 )
 
 game (
-	name littlered-es
-	description "Little Red Riding Hood (DOS/Spanish)"
+	name littlered-win-es
+	description "Once Upon A Time: Little Red Riding Hood (Windows/Spanish)"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
-	cloneof littlered-gb
-	romof littlered-gb
-	rom ( name SPANISH.ROM size 72 crc 5472b95a md5 2066382b5a22ece6cde3342c6dd44f95 )
+	cloneof littlered-win
+	romof littlered-win
+	rom ( name SPANISH.ROM size 103 crc a692ba77 md5 dca0ee93ec6b4de01fb61554a32a4635 )
 )
 
 game (
-	name littlered-fr
-	description "Little Red Riding Hood (DOS/French)"
+	name littlered-win-fr
+	description "Once Upon A Time: Little Red Riding Hood (Windows/French)"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
-	cloneof littlered-gb
-	romof littlered-gb
-	rom ( name FRENCH.ROM size 71 crc fc3c686a md5 eaab8cc3de90b4c54c531cae1ee040c1 )
+	cloneof littlered-win
+	romof littlered-win
+	rom ( name FRENCH.ROM size 102 crc c1bbc0eb md5 ac59a0b33de71df20eab936dd0d647e4 )
 )
 
 game (
-	name littlered-it
-	description "Little Red Riding Hood (DOS/Italian)"
+	name littlered-win-it
+	description "Once Upon A Time: Little Red Riding Hood (Windows/Italian)"
 	year 1991
 	manufacturer "Coktel Vision"
 	sourcefile gob
-	cloneof littlered-gb
-	romof littlered-gb
-	rom ( name ITALIAN.ROM size 72 crc 59b0d773 md5 fba4d19a37ea1bec47ef49ed3f13970d )
+	cloneof littlered-win
+	romof littlered-win
+	rom ( name ITALIAN.ROM size 103 crc f44a3b03 md5 b5a23a11350025fd20578e9468f518ed )
+)
+
+game (
+	name playtnck1-fr
+	description "Playtoons Construction Kit 1: Monsters (DOS/French)"
+	year 1995
+	manufacturer "Sierra Studios"
+	sourcefile gob
+	rom ( name DAN.ITK size 3000320 crc 7816b4ce md5 82e8fe923a80e7c68bd41a821e57c7ec )
+	rom ( name DATA\MODELA1.INF size 6892 crc 1e248f8d md5 a6465594daa11ce1bdacadaebf8d95f1 )
+	rom ( name DATA\MODELA2.INF size 6892 crc f2ce5faf md5 a5f87450f8899769bca74d850bb37059 )
+	rom ( name DATA\MODELB1.INF size 6892 crc d3856735 md5 43208610a33e350c983ce1f048a110a1 )
+	rom ( name DATA\MODELB2.INF size 6892 crc d30feac5 md5 cf2a9e6a5a1249c68628a8e28acb3b8e )
+	rom ( name DATA\MODELC1.INF size 13456 crc b777fd62 md5 fecaa49ae703dce54f6ae8e3d9cf066c )
+	rom ( name DATA\MODELC2.INF size 6892 crc 32988d61 md5 3746117371b0f4ca6f58ec57408fb9af )
+	rom ( name DATA\MODELD1.INF size 6892 crc 6f818ef8 md5 830afa33ed6ee532a59f53703a8e998e )
+	rom ( name DATA\MODELD2.INF size 6892 crc f20a961a md5 6ffcf4bae1e3b361e5470febbfb403db )
+	rom ( name DATA\MODELE1.INF size 6892 crc 84784179 md5 1b9011dec698a4b866ab6027568e92b5 )
+	rom ( name DATA\MODELE2.INF size 6892 crc 2696f7dc md5 daae41bc9fb124c8414011a2eb7d501d )
+	rom ( name DATA\MODELF1.INF size 6892 crc 886ddd46 md5 01b16bd9f1f529c15813feef0da1545e )
+	rom ( name DATA\MODELF2.INF size 13456 crc 3ce589f5 md5 8b13f30877ab8def0b35c4a3744d8cfb )
+	rom ( name DATA\MODELG1.INF size 6892 crc 48e0d03e md5 c3b4f75e52c4febc7b98b064b341a916 )
+	rom ( name DATA\MODELG2.INF size 6892 crc 2fabe81d md5 23a1be4b281edd10d020b2cab4684d4e )
+	rom ( name DATA\MODELH1.INF size 6892 crc 415ddd4c md5 12c9837ac16112a2ebc7954f0ca76f2d )
+	rom ( name DATA\MODELH2.INF size 6892 crc 21e37d17 md5 d5f0a29e88cb516e51d656437016c268 )
+	rom ( name DEMO.ITK size 23060480 crc 91c7eb07 md5 9bfca7b6e90cf5da38706abd55de9f25 )
+	rom ( name DISK.008 size 1 crc fa005713 md5 c9f0f895fb98ab9159f51fd0297e236d )
+	rom ( name INTRO.ITK size 3026944 crc 4a5ba108 md5 6f2bed832d822bb0bf7a4c98e75e0707 )
+	rom ( name INTRO2.STK size 255594 crc ec60e46e md5 a7b18fb6d56c176ebde81f86df2b6c7b )
+	rom ( name PLAYTOON.ITK size 196182016 crc 51618db0 md5 c9771b442274bc3b705ba9cfd3bc2b69 )
+	rom ( name PLAYTOON.STK size 68382024 crc 0c33e4ed md5 5fcc7bbe97c01dd7fcade217c02be410 )
+	rom ( name PLAYTOON.VER size 6 crc 47d43ceb md5 23dca308b302cbe1af5533790f688c30 )
+	rom ( name TITRE.001 size 116 crc 1678bf30 md5 bde1c8ed6f80f51b916b43d86ce23a5d )
+	rom ( name TITRE.002 size 168 crc 7e76e419 md5 cfc6eed2f9090bcf6f1b83db6a01ac2e )
+	rom ( name TITRE.003 size 172 crc ac973d8a md5 70c73f96abe679ff31439204a3dae20e )
+	rom ( name TITRE.004 size 154 crc 12c95930 md5 2c6f946731addbe3d4d42250fb6d2bb5 )
+	rom ( name TITRE.005 size 139 crc 170bf9ca md5 2fd08428cb4dc04b15cfeb6327759dd2 )
+	rom ( name TITRE.006 size 30 crc 2a6f38f0 md5 4bef6c81b5a6f6aa3c9919d93e711d2f )
+	rom ( name TITRE.007 size 30 crc 2a6f38f0 md5 4bef6c81b5a6f6aa3c9919d93e711d2f )
+	rom ( name TITRE.008 size 30 crc 2a6f38f0 md5 4bef6c81b5a6f6aa3c9919d93e711d2f )
+	rom ( name VERSION.ITK size 4794368 crc c84e733f md5 4a29512645c31af6c6618a4e62f34e0f )
 )
 
 game (
@@ -3081,6 +3408,47 @@ game (
 )
 
 game (
+	name playtnck3-fr
+	description "Playtoons Construction Kit 3: Far West (DOS/French)"
+	year 1996
+	manufacturer "Sierra Studios"
+	sourcefile gob
+	rom ( name DAN.ITK size 2861056 crc c8d1453c md5 e464b63565fca168b640ac676019fdd4 )
+	rom ( name DATA\MODELA1.INF size 6892 crc 1e248f8d md5 a6465594daa11ce1bdacadaebf8d95f1 )
+	rom ( name DATA\MODELA2.INF size 6892 crc f2ce5faf md5 a5f87450f8899769bca74d850bb37059 )
+	rom ( name DATA\MODELB1.INF size 6892 crc d3856735 md5 43208610a33e350c983ce1f048a110a1 )
+	rom ( name DATA\MODELB2.INF size 6892 crc d30feac5 md5 cf2a9e6a5a1249c68628a8e28acb3b8e )
+	rom ( name DATA\MODELC1.INF size 13456 crc b777fd62 md5 fecaa49ae703dce54f6ae8e3d9cf066c )
+	rom ( name DATA\MODELC2.INF size 6892 crc 32988d61 md5 3746117371b0f4ca6f58ec57408fb9af )
+	rom ( name DATA\MODELD1.INF size 6892 crc 6f818ef8 md5 830afa33ed6ee532a59f53703a8e998e )
+	rom ( name DATA\MODELD2.INF size 6892 crc f20a961a md5 6ffcf4bae1e3b361e5470febbfb403db )
+	rom ( name DATA\MODELE1.INF size 6892 crc 84784179 md5 1b9011dec698a4b866ab6027568e92b5 )
+	rom ( name DATA\MODELE2.INF size 6892 crc 2696f7dc md5 daae41bc9fb124c8414011a2eb7d501d )
+	rom ( name DATA\MODELF1.INF size 6892 crc 886ddd46 md5 01b16bd9f1f529c15813feef0da1545e )
+	rom ( name DATA\MODELF2.INF size 13456 crc 3ce589f5 md5 8b13f30877ab8def0b35c4a3744d8cfb )
+	rom ( name DATA\MODELG1.INF size 6892 crc 48e0d03e md5 c3b4f75e52c4febc7b98b064b341a916 )
+	rom ( name DATA\MODELG2.INF size 6892 crc 2fabe81d md5 23a1be4b281edd10d020b2cab4684d4e )
+	rom ( name DATA\MODELH1.INF size 6892 crc 415ddd4c md5 12c9837ac16112a2ebc7954f0ca76f2d )
+	rom ( name DATA\MODELH2.INF size 6892 crc 21e37d17 md5 d5f0a29e88cb516e51d656437016c268 )
+	rom ( name DEMO.ITK size 23060480 crc 91c7eb07 md5 9bfca7b6e90cf5da38706abd55de9f25 )
+	rom ( name DISK.006 size 1 crc 1db87a14 md5 1679091c5a880faf6fb5e6087eb1b2dc )
+	rom ( name INTRO.ITK size 3026944 crc 4a5ba108 md5 6f2bed832d822bb0bf7a4c98e75e0707 )
+	rom ( name INTRO2.STK size 255594 crc ec60e46e md5 a7b18fb6d56c176ebde81f86df2b6c7b )
+	rom ( name PLAYTOON.ITK size 196182016 crc 51618db0 md5 c9771b442274bc3b705ba9cfd3bc2b69 )
+	rom ( name PLAYTOON.STK size 68382024 crc 0c33e4ed md5 5fcc7bbe97c01dd7fcade217c02be410 )
+	rom ( name PLAYTOON.VER size 6 crc 47d43ceb md5 23dca308b302cbe1af5533790f688c30 )
+	rom ( name TITRE.001 size 116 crc 1678bf30 md5 bde1c8ed6f80f51b916b43d86ce23a5d )
+	rom ( name TITRE.002 size 168 crc 7e76e419 md5 cfc6eed2f9090bcf6f1b83db6a01ac2e )
+	rom ( name TITRE.003 size 172 crc ac973d8a md5 70c73f96abe679ff31439204a3dae20e )
+	rom ( name TITRE.004 size 154 crc 12c95930 md5 2c6f946731addbe3d4d42250fb6d2bb5 )
+	rom ( name TITRE.005 size 139 crc 170bf9ca md5 2fd08428cb4dc04b15cfeb6327759dd2 )
+	rom ( name TITRE.006 size 30 crc 2a6f38f0 md5 4bef6c81b5a6f6aa3c9919d93e711d2f )
+	rom ( name TITRE.007 size 30 crc 2a6f38f0 md5 4bef6c81b5a6f6aa3c9919d93e711d2f )
+	rom ( name TITRE.008 size 30 crc 2a6f38f0 md5 4bef6c81b5a6f6aa3c9919d93e711d2f )
+	rom ( name VERSION.ITK size 3141632 crc 3e524cb7 md5 4d1f44c87d2b666b32d70d6602c092f4 )
+)
+
+game (
 	name playtoons1
 	description "Playtoons 1: Uncle Archibald (DOS)"
 	year 1994
@@ -3103,7 +3471,7 @@ game (
 
 game (
 	name playtoons1-demo
-	description "Playtoons 1: Uncle Archibald (Non-Interactive Demo/DOS)"
+	description "Playtoons 1: Uncle Archibald {Demo}(DOS)[Non-Interactive]"
 	year 1994
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3122,7 +3490,7 @@ game (
 
 game (
 	name playtoons1-demo-1
-	description "Playtoons 1: Uncle Archibald (Non-Interactive Demo/DOS)[a]"
+	description "Playtoons 1: Uncle Archibald {Demo}(DOS)[Non-Interactive][a]"
 	year 1994
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3132,7 +3500,7 @@ game (
 
 game (
 	name playtoons1-demo-es
-	description "Playtoons 1: Uncle Archibald (Non-Interactive Demo/DOS/Spanish)"
+	description "Playtoons 1: Uncle Archibald {Demo}(DOS/Spanish)[Non-Interactive]"
 	year 1994
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3145,7 +3513,7 @@ game (
 
 game (
 	name playtoons1-demo-it
-	description "Playtoons 1: Uncle Archibald (Non-Interactive Demo/DOS/Italian)"
+	description "Playtoons 1: Uncle Archibald {Demo}(DOS/Italian)[Non-Interactive]"
 	year 1994
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3241,6 +3609,28 @@ game (
 )
 
 game (
+	name playtoons2-fr-1
+	description "Playtoons 2: The Case of the Counterfeit Collaborator (DOS/French)[v1.002]"
+	year 1994
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name DEMO.ITK size 18567168 crc 613dbf4f md5 6e875097c549a8153b6ccd7785731066 )
+	rom ( name DISK.002 size 1 crc 1ad5be0d md5 c81e728d9d4c2f636f067f89cc14862c )
+	rom ( name INTRO.ITK size 3069952 crc c109cf36 md5 25ac991e272812866ac220a01e179daa )
+	rom ( name INTRO2.STK size 247094 crc 1e1e1337 md5 753d893ae539a431f26fa2964d497725 )
+	rom ( name MDO.DEF size 200 crc c8cd1f73 md5 2e2b8beeae72d6334002bf074155f47f )
+	rom ( name PLAYTOON.ITK size 80586752 crc 2ad821a8 md5 27be02de7c7fd4d1adafe38771a76b1a )
+	rom ( name PLAYTOON.STK size 25574338 crc 6d0bafc2 md5 1a32f962053f850b2a7a734f3dd40296 )
+	rom ( name PLAYTOON.VER size 6 crc 47d43ceb md5 23dca308b302cbe1af5533790f688c30 )
+	rom ( name SPIROU.ITK size 294764544 crc 7cf3c438 md5 fd7b01d83ba89c749517122feabac2c9 )
+	rom ( name SPIROU.STK size 9817086 crc 2157b82c md5 004f1e88b9a373c03aa607a08ae06aab )
+	rom ( name TITRE.001 size 116 crc 1678bf30 md5 bde1c8ed6f80f51b916b43d86ce23a5d )
+	rom ( name TITRE.002 size 168 crc 7e76e419 md5 cfc6eed2f9090bcf6f1b83db6a01ac2e )
+	rom ( name TITRE.003 size 172 crc ac973d8a md5 70c73f96abe679ff31439204a3dae20e )
+	rom ( name TITRE.004 size 147 crc f70321f8 md5 69f9ab05941f07c5c18256fc56c547e2 )
+)
+
+game (
 	name playtoons3
 	description "Playtoons 3: The Secret of the Castle (DOS)"
 	year 1994
@@ -3324,6 +3714,27 @@ game (
 )
 
 game (
+	name playtoons4-fr
+	description "Playtoons 4: The Mandarine Prince (DOS/French)"
+	year 1995
+	manufacturer "Sierra Studios"
+	sourcefile gob
+	rom ( name DEMO.ITK size 13676544 crc fb5cda15 md5 3daba68dceea5dfa9ac41e3b87745751 )
+	rom ( name DISK.004 size 1 crc f3b61b38 md5 a87ff679a2f3e71d9181a67b7542122c )
+	rom ( name INTRO.ITK size 3069952 crc c109cf36 md5 25ac991e272812866ac220a01e179daa )
+	rom ( name INTRO2.STK size 328806 crc 0d65041c md5 cb96d3d4dbe8e3566820094d0e1bc58a )
+	rom ( name MANDA.ITK size 303726592 crc 3f2c0f77 md5 a55eed8c6104b79ed695e81ffbf5b823 )
+	rom ( name MANDA.STK size 6485072 crc a032a9ef md5 ccd5c193285165cec94472a50caffc26 )
+	rom ( name PLAYTOON.ITK size 79261696 crc 5d48318b md5 0a4116103a32ab498f990282a0c0fd9d )
+	rom ( name PLAYTOON.STK size 24340406 crc 4cf3be19 md5 35023bc8d96f99c4c9e2ff264edfc257 )
+	rom ( name PLAYTOON.VER size 6 crc 47d43ceb md5 23dca308b302cbe1af5533790f688c30 )
+	rom ( name TITRE.001 size 116 crc 1678bf30 md5 bde1c8ed6f80f51b916b43d86ce23a5d )
+	rom ( name TITRE.002 size 168 crc 7e76e419 md5 cfc6eed2f9090bcf6f1b83db6a01ac2e )
+	rom ( name TITRE.003 size 172 crc abd4fee1 md5 7c1988641c09af76706a3bffa233f5fe )
+	rom ( name TITRE.004 size 145 crc ef30cf72 md5 6469118937195a44422d135c69a40709 )
+)
+
+game (
 	name playtoons5-fr
 	description "Playtoons 5: The Stone of Wakan (DOS/French)"
 	year 1995
@@ -3361,7 +3772,7 @@ game (
 
 game (
 	name urban-demo
-	description "Urban Runner (Non-Interactive Demo/DOS)"
+	description "Urban Runner {Demo}(DOS)[Non-Interactive]"
 	year 1996
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3389,7 +3800,7 @@ game (
 
 game (
 	name urban-fr
-	description "Urban Runner (DOS/French)"
+	description "Urban Runner (DOS/French)[!]"
 	year 1996
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3408,16 +3819,26 @@ game (
 	manufacturer "Coktel Vision"
 	sourcefile gob
 	romof urbit
-	rom ( name CD1.ITK size 506869760 crc d396b8ea md5 783d749790edf61b472183e1fa293a53 )
 	rom ( name CD1.STK size 8710554 crc 3b64a7bc md5 71655ef3d97cb5f05b3912d736337716 )
-	rom ( name CD2.ITK size 463665152 crc 193eb8ef md5 6d3348dd0cad699222a798901945e75e )
 	rom ( name INTRO.STK size 1253448 crc 87a87625 md5 5e5336f70180e70fec276fc31325d247 )
 	rom ( name OBJET1.ITK size 62015488 crc 59b640ce md5 300e5ab6063fa1227142e5f9a75d0afa )
 )
 
 game (
+	name urban-it-1
+	description "Urban Runner (DOS/Italian)[a]"
+	year 1996
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	romof urbit
+	rom ( name CD1.STK size 8710554 crc 3b64a7bc md5 71655ef3d97cb5f05b3912d736337716 )
+	rom ( name INTRO.STK size 1253436 crc 715f2809 md5 015bb2d1ede2cee0ea5b50a557ed7d2c )
+	rom ( name OBJET1.ITK size 62015488 crc 59b640ce md5 300e5ab6063fa1227142e5f9a75d0afa )
+)
+
+game (
 	name urban-us
-	description "Urban Runner (DOS/UK)[!]"
+	description "Urban Runner (DOS)[UK][!]"
 	year 1996
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3465,7 +3886,7 @@ game (
 
 game (
 	name ween-amiga-gb
-	description "Ween: The Prophecy (Amiga/UK)"
+	description "Ween: The Prophecy (Amiga)[UK]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3508,7 +3929,7 @@ game (
 
 game (
 	name ween-demo
-	description "Ween: The Prophecy (Demo/DOS)"
+	description "Ween: The Prophecy {Demo}(DOS)"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3517,7 +3938,7 @@ game (
 
 game (
 	name ween-demo-us
-	description "Ween: The Prophecy (Demo/DOS/US)"
+	description "Ween: The Prophecy {Demo}(DOS)[US]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3553,7 +3974,7 @@ game (
 
 game (
 	name ween-gb
-	description "Ween: The Prophecy (DOS/UK)"
+	description "Ween: The Prophecy (DOS)[UK]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3597,7 +4018,7 @@ game (
 
 game (
 	name ween-st-gb
-	description "Ween: The Prophecy (Atari ST/UK)"
+	description "Ween: The Prophecy (Atari ST)[UK]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3614,7 +4035,7 @@ game (
 
 game (
 	name ween-us
-	description "Ween: The Prophecy (DOS/US)"
+	description "Ween: The Prophecy (DOS)[US]"
 	year 1993
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3622,8 +4043,18 @@ game (
 )
 
 game (
+	name woodruff-cz
+	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS/Czech)"
+	year 1995
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	romof woodruffres
+	rom ( name INTRO.STK size 20296390 crc 3012dd70 md5 0d2e485f80cb92a61996b1569087d2fd )
+)
+
+game (
 	name woodruff-de
-	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS/German)[!]"
+	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS/German)[Best of Sierra Nr. 5][!]"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3632,8 +4063,18 @@ game (
 )
 
 game (
+	name woodruff-de-1
+	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS/German)[!]"
+	year 1995
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name INTRO.STK size 20296422 crc 9a2da0b8 md5 17581e3219d18898c35d616d1b823943 )
+	rom ( name WOODRUFF.ITK size 559898944 crc 47e5c491 md5 9e4520fde1c3280f92bba2d250ce15b7 )
+)
+
+game (
 	name woodruff-demo
-	description "Bizarre Adventures of Woodruff and the Schnibble, The (Non-Interactive Demo/DOS)"
+	description "Bizarre Adventures of Woodruff and the Schnibble, The {Demo}(DOS)[Non-Interactive]"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3653,7 +4094,7 @@ game (
 
 game (
 	name woodruff-fr
-	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS/French)"
+	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS/French)[!]"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -3663,12 +4104,12 @@ game (
 
 game (
 	name woodruff-gb
-	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS/UK)"
+	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS)[UK]"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof woodruffres
 	rom ( name INTRO.STK size 20296390 crc 651ad418 md5 5efe802eb0dcf926eeb71ac3b87c997b )
-	rom ( name WOODRUFF.ITK size 536834686 crc 136609a0 md5 e47813caaa637f82c8f90c4950a88e9a )
 )
 
 game (
@@ -3677,8 +4118,8 @@ game (
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	romof woodruffres
 	rom ( name INTRO.STK size 19744691 crc 8d211b5a md5 39b69f502783443af61df1c6d45add2d )
-	rom ( name WOODRUFF.ITK size 536834686 crc 136609a0 md5 e47813caaa637f82c8f90c4950a88e9a )
 )
 
 game (
@@ -6076,7 +6517,7 @@ game (
 
 game (
 	name woodruff-us
-	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS/US)"
+	description "Bizarre Adventures of Woodruff and the Schnibble, The (DOS)[US]"
 	year 1995
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -6098,7 +6539,7 @@ resource (
 
 resource (
 	name g1a
-	description "ZZZ - Gobliiins CD Audio"
+	description "ZZZ - Gobliiins CD Audio from GOG or Goblins 4 Bonus[!]"
 	year 1992
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -6124,6 +6565,15 @@ resource (
 )
 
 resource (
+	name g2g4a
+	description "ZZZ - Gobliins 2 CD Audio from Goblins 4 Bonus[!]"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name Track1.mp3 size 51240960 crc 68095f38 md5 ec22a5676521237bd7ddedb2bd1a5f49 )
+)
+
+resource (
 	name g31000a
 	description "ZZZ - Goblins Quest 3 CD v1.000 Audio"
 	year 1993
@@ -6139,6 +6589,33 @@ resource (
 	manufacturer "Coktel Vision"
 	sourcefile gob
 	rom ( name TRACK1.FLA size 114181037 crc ace216e4 md5 ec0b027a283f0f35cde4beda27e83804 )
+)
+
+resource (
+	name g3g4a
+	description "ZZZ - Goblins Quest 3 CD Audio from Goblins 4 Bonus[!]"
+	year 1993
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name Track1.mp3 size 43054393 crc bb189527 md5 9f56333f1764c1894a07ec6eb6d59a7a )
+)
+
+resource (
+	name gob2xamres
+	description "ZZZ - Gobliins 2 Amiga Resources"
+	year 1992
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name G0.DUM size 2850 crc 115ebbab md5 5aafbf393ea67553fd5742b010ee333a )
+	rom ( name G1.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
+	rom ( name G2.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
+	rom ( name G3.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
+	rom ( name G4.DUM size 3634 crc b8172619 md5 07cd0986461c20f42ef41e615d3e0616 )
+	rom ( name G5.DUM size 4211 crc 06821cb0 md5 c048e9f5efd8ce4a0f016e7634fda794 )
+	rom ( name G6.DUM size 3305 crc 9312ce31 md5 8176745133947c45815ddd6191d2697f )
+	rom ( name I1.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
+	rom ( name I2.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
+	rom ( name I3.INS size 54832 crc 4b6c1341 md5 252868ab8325d62c97942eb0e9d782a6 )
 )
 
 resource (
@@ -6197,7 +6674,7 @@ resource (
 
 resource (
 	name urbfr
-	description "ZZZ - Urban Runner French Resources"
+	description "ZZZ - Urban Runner French Resources[!]"
 	year 1996
 	manufacturer "Coktel Vision"
 	sourcefile gob
@@ -6211,6 +6688,8 @@ resource (
 	year 1996
 	manufacturer "Coktel Vision"
 	sourcefile gob
+	rom ( name CD1.ITK size 506869760 crc d396b8ea md5 783d749790edf61b472183e1fa293a53 )
+	rom ( name CD2.ITK size 463665152 crc 193eb8ef md5 6d3348dd0cad699222a798901945e75e )
 	rom ( name CD3.ITK size 549961728 crc 4a7e8338 md5 5a75fd235143ba0e0145043fae27daef )
 	rom ( name CD4.ITK size 455047168 crc 660cfbff md5 a4920c51427e843903e244564431956c )
 )
@@ -6223,5 +6702,14 @@ resource (
 	sourcefile gob
 	rom ( name CD3.ITK size 554768384 crc 7cdb8c18 md5 d8087e3ec25db743a0cdda494584d222 )
 	rom ( name CD4.ITK size 455847936 crc db661a39 md5 256652987de709640914f0a28da21832 )
+)
+
+resource (
+	name woodruffres
+	description "ZZZ - Bizarre Adventures of Woodruff and the Schnibble, The - UK Resource"
+	year 1995
+	manufacturer "Coktel Vision"
+	sourcefile gob
+	rom ( name WOODRUFF.ITK size 536834686 crc 136609a0 md5 e47813caaa637f82c8f90c4950a88e9a )
 )
 

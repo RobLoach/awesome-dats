@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM MADE"
 	description "ScummVM - MADE Engine Games"
 	category "ScummVM"
-	version v1.10
-	date 2015-11-04
+	version v1.11
+	date 2016-08-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -1224,7 +1224,7 @@ game (
 
 game (
 	name rtz-demo
-	description "Return to Zork (Demo/DOS)"
+	description "Return to Zork {Demo}(DOS)"
 	year 1993
 	manufacturer "Infocom"
 	sourcefile made

@@ -1,0 +1,56 @@
+clrmamepro (
+	name "ScummVM DM"
+	description "ScummVM - DM Engine Games"
+	category "ScummVM"
+	version v1.01
+	date 2016-10-12
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name dm-amiga
+	description "Dungeon Master (Amiga)[!]"
+	year 1988
+	manufacturer "FTL Games"
+	sourcefile dm
+	rom ( name bye size 692 crc 0bb4a186 md5 b2188b97a2343886b3c63e614f15d4eb )
+	rom ( name dm size 177324 crc f9ea26b6 md5 607fa42efd5d2909efbc4620629fcf88 )
+	rom ( name Dungeon.dat size 25006 crc ab3f5e58 md5 30028fb6a301ecb20127ef0b3af32b05 )
+	rom ( name exec size 6036 crc 4243f0c2 md5 0d6e9abc7cff28adc9175d64089d0524 )
+	rom ( name graphics.dat size 411960 crc 56bd10ea md5 6a2f135b53c2220f0251fa103e2a6e7e )
+	rom ( name swoosh size 78480 crc 5f51d1e7 md5 9fb4fc335e8ff1cc248d38a94e7bcf9e )
+)
+
+game (
+	name dm-demo-amiga
+	description "Dungeon Master {Demo v2.0}(Amiga)"
+	year 1988
+	manufacturer "FTL Games"
+	sourcefile dm
+	rom ( name bye size 692 crc 0bb4a186 md5 b2188b97a2343886b3c63e614f15d4eb )
+	rom ( name DemoDun.dat size 1209 crc b0022035 md5 78848e1a2d3d5a11e5954deb8c7b772b )
+	rom ( name Disk.info size 2484 crc 57d239f9 md5 522f8112ceaa26001b89592c0a169d63 )
+	rom ( name dm size 163236 crc 35df1033 md5 f402d7fe70d1df20141e6e520a242f74 )
+	rom ( name exec size 6036 crc 4243f0c2 md5 0d6e9abc7cff28adc9175d64089d0524 )
+	rom ( name graphics.dat size 192421 crc 11eca88a md5 491ca939f9abb33ceeb26619b841fe91 )
+	rom ( name swoosh size 78068 crc 722fff58 md5 28d406007e99b0ae8da0c6f7fc7f183b )
+)
+
+game (
+	name dm-st
+	description "Dungeon Master (Atari ST)"
+	year 1987
+	manufacturer "FTL Games"
+	sourcefile dm
+	rom ( name DMGAME.DAT size 47710 crc 1115fe65 md5 8e645d933d6a7f335c3793bfed83e7c6 )
+	rom ( name DUNGEON.DAT size 33286 crc ce4fe3a4 md5 6479c4b28763028916dc6f23ab9722a4 )
+	rom ( name GRAPHICS.DAT size 271911 crc 022772be md5 0b5e042f2c7f2752bac78292cc6bb07e )
+	rom ( name JMPTABLE size 142068 crc 217c6b1b md5 c1ebaccbfcdbbe160551024238ee6575 )
+	rom ( name LOADER.PRG size 257 crc baf146a2 md5 581ae1a19daf66a86d50b036ba914ae3 )
+	rom ( name SEKTOR size 512 crc 07281d76 md5 a275558e294dec8ee346ea3a529144d7 )
+	rom ( name SEKTOR2 size 512 crc 38f08782 md5 a0268e321fa5d72d49a8023b1c64fd59 )
+	rom ( name SEKTORS size 1024 crc e0e84626 md5 6777fcbb24700dc60e87fa9e87d4eecc )
+)
+

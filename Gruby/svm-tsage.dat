@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM TSAGE"
 	description "ScummVM - TSAGE Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2015-11-15
+	version v1.02
+	date 2016-08-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -72,7 +72,7 @@ game (
 
 game (
 	name ringworld-demo
-	description "Ringworld: Revenge of the Patriarch (Floppy Demo/DOS)"
+	description "Ringworld: Revenge of the Patriarch {Demo}(Floppy/DOS)"
 	year 1992
 	manufacturer "Tsunami Media"
 	sourcefile tsage
@@ -91,7 +91,7 @@ game (
 
 game (
 	name ringworld2-cd-demo
-	description "Return to Ringworld (CD Demo/DOS)"
+	description "Return to Ringworld {Demo}(CD/DOS)"
 	year 1994
 	manufacturer "Tsunami Media"
 	sourcefile tsage

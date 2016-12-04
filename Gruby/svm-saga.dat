@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM SAGA"
 	description "ScummVM - SAGA Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2015-11-30
+	version v1.07
+	date 2016-10-15
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -219,29 +219,19 @@ game (
 )
 
 game (
-	name ihnm
-	description "I Have No Mouth and I Must Scream (DOS)"
+	name ihnm-1
+	description "I Have No Mouth and I Must Scream (DOS)[!]"
 	year 1995
 	manufacturer "Dreamers Guild, The"
 	sourcefile saga
-	rom ( name MUSICFM.RES size 302676 crc 7f13e61a md5 fe63a88b8c49baa69a814fc15659b1df )
-	rom ( name MUSICGM.RES size 314020 crc 5cd14ff3 md5 df2f4722f720780e3cb4abf330f1db2f )
-	rom ( name PATCH.RE_ size 5038599 crc 55a0883e md5 a88a9182abd95ed2af059ef28af9f470 )
+	romof ihnres
 	rom ( name SCREAM.RES size 79211140 crc 9cb225a9 md5 0cf2947caaa466c16267b8284efa4617 )
 	rom ( name SCRIPTS.RES size 493597 crc 9229906c md5 3f7b3743f9da12b81ff6afb870f2a580 )
-	rom ( name SFX.RES size 22561056 crc f03f6dc7 md5 06fdca8d4ce9a971c35ec8e8a2a77100 )
-	rom ( name VOICES1.RES size 55593274 crc 37461195 md5 62e176e3198ce9c9472b8463faa55d7f )
-	rom ( name VOICES2.RES size 65160372 crc 1f248f25 md5 29112e29055bc184fceae84f78c5c20e )
-	rom ( name VOICES3.RES size 93721184 crc b350d1ab md5 89a0b65d47faa26143c397c8dbfba963 )
-	rom ( name VOICES4.RES size 65220958 crc 9579db9b md5 21b899a53dddec8d0b7cda39f4f40d0f )
-	rom ( name VOICES5.RES size 99463760 crc bfe0f518 md5 8ec27386f71e28ffb63812e5a2b7ce5b )
-	rom ( name VOICES6.RES size 108977234 crc fec7b626 md5 55a951d5ad40227b44a55753f531dc1c )
-	rom ( name VOICESS.RES size 77627568 crc 14521992 md5 d4da3081a739400d5894fe23aa0b6fbb )
 )
 
 game (
 	name ihnm-de
-	description "I Have No Mouth and I Must Scream (DOS/German)"
+	description "I Have No Mouth and I Must Scream (DOS/German)[Censored]"
 	year 1995
 	manufacturer "Dreamers Guild, The"
 	sourcefile saga
@@ -261,8 +251,19 @@ game (
 )
 
 game (
+	name ihnm-de-1
+	description "I Have No Mouth and I Must Scream (DOS/German)"
+	year 1995
+	manufacturer "Dreamers Guild, The"
+	sourcefile saga
+	romof ihnres
+	rom ( name SCREAM.RES size 79219797 crc c51257e0 md5 ed824d6a4587de2a034b723190a43a0f )
+	rom ( name SCRIPTS.RES size 523800 crc 97784db1 md5 9900d1e2a6607c7923a1dd3d98fb2a18 )
+)
+
+game (
 	name ihnm-demo
-	description "I Have No Mouth and I Must Scream (Demo/DOS)"
+	description "I Have No Mouth and I Must Scream {Demo}(DOS)"
 	year 1995
 	manufacturer "Dreamers Guild, The"
 	sourcefile saga
@@ -320,19 +321,9 @@ game (
 	year 1995
 	manufacturer "Dreamers Guild, The"
 	sourcefile saga
-	rom ( name MUSICFM.RES size 302676 crc 7f13e61a md5 fe63a88b8c49baa69a814fc15659b1df )
-	rom ( name MUSICGM.RES size 314020 crc 5cd14ff3 md5 df2f4722f720780e3cb4abf330f1db2f )
-	rom ( name PATCH.RE_ size 5038599 crc 55a0883e md5 a88a9182abd95ed2af059ef28af9f470 )
+	romof ihnres
 	rom ( name SCREAM.RES size 79211498 crc af975602 md5 55e89ac27ea2eac4f21339f4bcf42edf )
 	rom ( name SCRIPTS.RES size 500469 crc a346b964 md5 5fc31306c2cb0e50929a80c2022f449a )
-	rom ( name SFX.RES size 22561056 crc f03f6dc7 md5 06fdca8d4ce9a971c35ec8e8a2a77100 )
-	rom ( name VOICES1.RES size 55593274 crc 37461195 md5 62e176e3198ce9c9472b8463faa55d7f )
-	rom ( name VOICES2.RES size 65160372 crc 1f248f25 md5 29112e29055bc184fceae84f78c5c20e )
-	rom ( name VOICES3.RES size 93721184 crc b350d1ab md5 89a0b65d47faa26143c397c8dbfba963 )
-	rom ( name VOICES4.RES size 65220958 crc 9579db9b md5 21b899a53dddec8d0b7cda39f4f40d0f )
-	rom ( name VOICES5.RES size 99463760 crc bfe0f518 md5 8ec27386f71e28ffb63812e5a2b7ce5b )
-	rom ( name VOICES6.RES size 108977234 crc fec7b626 md5 55a951d5ad40227b44a55753f531dc1c )
-	rom ( name VOICESS.RES size 77627568 crc 14521992 md5 d4da3081a739400d5894fe23aa0b6fbb )
 )
 
 game (
@@ -3368,6 +3359,17 @@ game (
 )
 
 game (
+	name ihnm-ru
+	description "I Have No Mouth and I Must Scream (DOS/Russian)"
+	year 1995
+	manufacturer "Dreamers Guild, The"
+	sourcefile saga
+	romof ihnres
+	rom ( name SCREAM.RES size 79210049 crc 223a2fd4 md5 4dd67ba52406b099adc56fda3d93d0c4 )
+	rom ( name SCRIPTS.RES size 483727 crc 590425fb md5 a6561573c805282142f8ceeac1624982 )
+)
+
+game (
 	name ite
 	description "Inherit the Earth: Quest for the Orb (Floppy/DOS)"
 	year 1994
@@ -3470,6 +3472,29 @@ game (
 )
 
 game (
+	name ite-cd-mac-1
+	description "Inherit the Earth: Quest for the Orb (CD/Macintosh)[Wyrmkeep]"
+	year 1994
+	manufacturer "Softgold"
+	sourcefile saga
+	rom ( name crow.sound size 21692 crc 96f8d597 md5 136915ec65c59b1671317b35c795b96f )
+	rom ( name fvillage.iaf size 1293600 crc 888872bc md5 52d4cde7eeb3b064740b331cb5fea89b )
+	rom ( name "Inherit the Earth Voices" size 434770764 crc 4bee682d md5 cf4922b08947f5e459da4544af4d55a9 )
+	rom ( name ite.rsc size 8862102 crc e009e089 md5 135079d5fc667cb337235938240e0f92 )
+	rom ( name music.rsc size 52894193 crc 19ae175c md5 6434ac30a5cc84ed78c983f2afd3c473 )
+	rom ( name patch\CREDIT3M.DLT size 30806 crc a38ee6b3 md5 26e655b5b4328a4750498f0c66c39c54 )
+	rom ( name patch\CREDIT4M.DLT size 58186 crc ec9fcbf3 md5 6481a7bc1205b1b2a3c07a4a2743cb30 )
+	rom ( name patch\P2_A.iaf size 344502 crc 072fc334 md5 2b970597118c9ca87e39e4d198088eac )
+	rom ( name patch\WYRM.PAK size 3035 crc bc39e03c md5 495e39439ae3dc4b56ebf361951245ff )
+	rom ( name patch\WYRM1.DLT size 65529 crc f825915e md5 aa688ee332721db09cb709feea163b63 )
+	rom ( name patch\WYRM2.DLT size 64904 crc fabdfced md5 1a4a340fb05eec5cc1525c337a8ae845 )
+	rom ( name patch\WYRM3.DLT size 61856 crc 83a606b2 md5 b0e544720175c9920bd0a018473daab4 )
+	rom ( name patch\WYRM4.DLT size 4755 crc 19ade03d md5 deb24ee5630f4ff20b711d6ae125fa53 )
+	rom ( name scripts.rsc size 336006 crc 980b034f md5 d60b3005855e0b2792fde16a22910837 )
+	rom ( name sounds.rsc size 7356540 crc 50b610da md5 21db9cec9c8e540d41fa65e1c6e62128 )
+)
+
+game (
 	name ite-de
 	description "Inherit the Earth: Quest for the Orb (Floppy/DOS/German)"
 	year 1994
@@ -3484,7 +3509,7 @@ game (
 
 game (
 	name ite-demo-mac
-	description "Inherit the Earth: Quest for the Orb (Demo 2/Macintosh)"
+	description "Inherit the Earth: Quest for the Orb {Demo 2}(Macintosh)"
 	year 1994
 	manufacturer "Softgold"
 	sourcefile saga
@@ -3514,7 +3539,7 @@ game (
 
 game (
 	name ite-demo-win
-	description "Inherit the Earth: Quest for the Orb (Demo 2/3 Linux/Windows)"
+	description "Inherit the Earth: Quest for the Orb {Demo 2/3}(Linux/Windows)"
 	year 2003
 	manufacturer "Wyrmkeep"
 	sourcefile saga
@@ -3546,7 +3571,7 @@ game (
 
 game (
 	name ite-demo-win-1
-	description "Inherit the Earth: Quest for the Orb (Demo 1/Windows)"
+	description "Inherit the Earth: Quest for the Orb {Demo 1}(Windows)"
 	year 2003
 	manufacturer "Wyrmkeep"
 	sourcefile saga
@@ -3592,6 +3617,39 @@ game (
 	rom ( name ITE.RSC size 8905106 crc 4253e809 md5 b1f92b3c17bd74278bca35dcc845bdf9 )
 	rom ( name SCRIPTS.RSC size 340726 crc 828de386 md5 6c898c9f3e52bc45c9d26b90d11b0ac8 )
 	rom ( name VOICES.RSC size 5695569 crc 6762148b md5 a533d672e894769d69049311c53eb659 )
+)
+
+game (
+	name ite-zh-cn
+	description "Inherit the Earth: Quest for the Orb (Floppy/DOS/Chinese)"
+	year 1994
+	manufacturer "Softgold"
+	sourcefile saga
+	rom ( name INSTR.AD size 2982 crc 307deecb md5 1dddf5c5ff20b026a90b555ba430f9c3 )
+	rom ( name INSTR.OPL size 2982 crc 307deecb md5 1dddf5c5ff20b026a90b555ba430f9c3 )
+	rom ( name ITE.FNT size 57000 crc 528b0f6e md5 5943348807282ef357215d0e5ac7d630 )
+	rom ( name ITE.RSC size 8901704 crc ad9b5bae md5 279f99fda98a6fb6f8d2de1df12af6a3 )
+	rom ( name SCRIPTS.RSC size 281071 crc 9cbffc40 md5 f98c5459fda87ad80cf89bc7246fdd0b )
+	rom ( name VOICES.RSC size 6152372 crc 26d0c83d md5 1728e52936ffbf57e37a5441bc81f8ba )
+)
+
+resource (
+	name ihnres
+	description "ZZZ - I Have No Mouth and I Must Scream English Resources"
+	year 1995
+	manufacturer "Dreamers Guild, The"
+	sourcefile saga
+	rom ( name MUSICFM.RES size 302676 crc 7f13e61a md5 fe63a88b8c49baa69a814fc15659b1df )
+	rom ( name MUSICGM.RES size 314020 crc 5cd14ff3 md5 df2f4722f720780e3cb4abf330f1db2f )
+	rom ( name PATCH.RE_ size 5038599 crc 55a0883e md5 a88a9182abd95ed2af059ef28af9f470 )
+	rom ( name SFX.RES size 22561056 crc f03f6dc7 md5 06fdca8d4ce9a971c35ec8e8a2a77100 )
+	rom ( name VOICES1.RES size 55593274 crc 37461195 md5 62e176e3198ce9c9472b8463faa55d7f )
+	rom ( name VOICES2.RES size 65160372 crc 1f248f25 md5 29112e29055bc184fceae84f78c5c20e )
+	rom ( name VOICES3.RES size 93721184 crc b350d1ab md5 89a0b65d47faa26143c397c8dbfba963 )
+	rom ( name VOICES4.RES size 65220958 crc 9579db9b md5 21b899a53dddec8d0b7cda39f4f40d0f )
+	rom ( name VOICES5.RES size 99463760 crc bfe0f518 md5 8ec27386f71e28ffb63812e5a2b7ce5b )
+	rom ( name VOICES6.RES size 108977234 crc fec7b626 md5 55a951d5ad40227b44a55753f531dc1c )
+	rom ( name VOICESS.RES size 77627568 crc 14521992 md5 d4da3081a739400d5894fe23aa0b6fbb )
 )
 
 resource (

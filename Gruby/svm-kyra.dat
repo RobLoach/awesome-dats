@@ -2,28 +2,11 @@ clrmamepro (
 	name "ScummVM KYRA"
 	description "ScummVM - KYRA Engine Games"
 	category "ScummVM"
-	version v1.02
-	date 2015-12-30
+	version v1.11
+	date 2016-09-14
 	author Gruby
 	forcemerging split
 	forcenodump required
-)
-
-game (
-	name eob
-	description "Eye of the Beholder (DOS)"
-	year 1991
-	manufacturer "Westwood"
-	sourcefile kyra
-	rom ( name EOBDATA.SAV size 33101 crc e8adb270 md5 0f423953de8b07e985c97d611c8af070 )
-	rom ( name EOBDATA1.PAK size 237691 crc 78280f40 md5 7c5aae5c361dea7b3a14c3c31dec513e )
-	rom ( name EOBDATA2.PAK size 14499 crc 7a8434cb md5 feaf0345086b3a1d931352f4b0ad8feb )
-	rom ( name EOBDATA3.PAK size 346303 crc e8e9c0fa md5 61aff543131bd61a8b7d7dc901a8278b )
-	rom ( name EOBDATA4.PAK size 355402 crc 7b20dfe6 md5 7aa3f528805bc777a39141d5a7131b8c )
-	rom ( name EOBDATA5.PAK size 314900 crc b2583d7e md5 76628ddfa24dd8409eefdaf66eaf428d )
-	rom ( name EOBDATA6.PAK size 317081 crc d1f6d6bb md5 36ae9346a128fe1e03400e8f6f458c76 )
-	rom ( name FONT6.FNT size 1028 crc 40a4e168 md5 96de7c14da18ebe209f6db87a6b290d5 )
-	rom ( name FONT8.FNT size 1284 crc a2d675c5 md5 f83e15b5780ff8669cadc30e89730a89 )
 )
 
 game (
@@ -225,8 +208,25 @@ game (
 )
 
 game (
+	name eob-gog
+	description "Eye of the Beholder (DOS)[!]"
+	year 1991
+	manufacturer "Westwood"
+	sourcefile kyra
+	rom ( name EOBDATA.SAV size 33101 crc e8adb270 md5 0f423953de8b07e985c97d611c8af070 )
+	rom ( name EOBDATA1.PAK size 237691 crc 78280f40 md5 7c5aae5c361dea7b3a14c3c31dec513e )
+	rom ( name EOBDATA2.PAK size 14499 crc 7a8434cb md5 feaf0345086b3a1d931352f4b0ad8feb )
+	rom ( name EOBDATA3.PAK size 346303 crc e8e9c0fa md5 61aff543131bd61a8b7d7dc901a8278b )
+	rom ( name EOBDATA4.PAK size 355402 crc 7b20dfe6 md5 7aa3f528805bc777a39141d5a7131b8c )
+	rom ( name EOBDATA5.PAK size 314900 crc b2583d7e md5 76628ddfa24dd8409eefdaf66eaf428d )
+	rom ( name EOBDATA6.PAK size 317081 crc d1f6d6bb md5 36ae9346a128fe1e03400e8f6f458c76 )
+	rom ( name FONT6.FNT size 1028 crc 40a4e168 md5 96de7c14da18ebe209f6db87a6b290d5 )
+	rom ( name FONT8.FNT size 1284 crc a2d675c5 md5 f83e15b5780ff8669cadc30e89730a89 )
+)
+
+game (
 	name eob-it
-	description "Eye of the Beholder (DOS/Fanmade Italianan)[v1.0b]"
+	description "Eye of the Beholder (DOS/Italian)[v1.0b]"
 	year 1991
 	manufacturer "Westwood"
 	sourcefile kyra
@@ -243,7 +243,7 @@ game (
 
 game (
 	name eob2
-	description "Eye of the Beholder II: The Legend of Darkmoon (DOS)"
+	description "Eye of the Beholder II: The Legend of Darkmoon (DOS)[!]"
 	year 1991
 	manufacturer "Westwood"
 	sourcefile kyra
@@ -283,7 +283,7 @@ game (
 	rom ( name CLERIC3.DCR size 110 crc a922fd53 md5 f307815af22ed16d5e038829267781c1 )
 	rom ( name COIN.CPS size 5815 crc 8a3b9050 md5 6a47a690c845b3baeca3eb1ad218f18c )
 	rom ( name CREDITS.CPS size 3340 crc 7fb862be md5 307387089cc38fe237e64a96674ebebb )
-	rom ( name CREDITS.TXT size 2316 crc 8cbdbae4 md5 55319d602ca10bf9ed46df441a9fb1b0 )
+	rom ( name CREDITS.TXT size 2036 crc 3067c7b0 md5 e2f7bad40f244f22ba48afb2eac74912 )
 	rom ( name CREDITS2.CPS size 8251 crc a730bd90 md5 24677d107ec6ca01836f43886edf74f1 )
 	rom ( name CREDITS3.CPS size 2007 crc 8a21e1f7 md5 30343b3ef4111f50c20881af19988a97 )
 	rom ( name CRIMRING.CPS size 16047 crc 4561f6d1 md5 fd3925d1fadcbc8c98dbfe919c207c18 )
@@ -413,6 +413,7 @@ game (
 	rom ( name LEVEL8.MAZ size 4102 crc c9cfef84 md5 52b3003cdf93eb1747bf2b3bc8c0d76a )
 	rom ( name LEVEL9.INF size 4301 crc 0953dda0 md5 62fbd6efedce5c250d5485ecb29cac01 )
 	rom ( name LEVEL9.MAZ size 4102 crc 880bdb5d md5 f2a3e47c65a3f4bb99faec79432a6014 )
+	rom ( name LEVELS.TMP size 36210 crc 282efb31 md5 d50b398681bf886d3dd70d1b19693d87 )
 	rom ( name MAGE.CPS size 6341 crc 251109c3 md5 963b4453d6bce1741e8fecb8370d7293 )
 	rom ( name MAGE.DCR size 38 crc 575e90e8 md5 c3cb05e2407b20d9d4f75098d16a249a )
 	rom ( name MAGIC.CPS size 3564 crc 2f17761b md5 9ece60756c154e6715492fd7391d684a )
@@ -720,7 +721,7 @@ game (
 
 game (
 	name kyra1
-	description "Legend of Kyrandia, The (Extracted/DOS)"
+	description "Legend of Kyrandia, The (DOS/Extracted)"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -842,7 +843,7 @@ game (
 
 game (
 	name kyra1-1
-	description "Legend of Kyrandia, The (Extracted/DOS)[a]"
+	description "Legend of Kyrandia, The (DOS/Extracted)[a]"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -1683,8 +1684,306 @@ game (
 )
 
 game (
+	name kyra1-cd-mac
+	description "Legend of Kyrandia, The (CD/Macintosh)"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	romof kyrmacres
+	rom ( name ._LK size 770048 crc 3a20350d md5 f58a2be3fbf01ca364b20b4f8b890b75 )
+	rom ( name ALCHEMY.PAK size 20670 crc b117666a md5 5e20ffd2f9c3866396ca57f81af94ed8 )
+	rom ( name ALGAE.PAK size 18859 crc 5bf867f9 md5 4009074a613636487db4d69fbccbb33b )
+	rom ( name ALTAR.PAK size 19360 crc 4f4df6e1 md5 a966663052188257fdaa89f2c1db64f6 )
+	rom ( name ARCH.PAK size 18535 crc cc42c25f md5 2688c1184339753a73d2c9814a44d4da )
+	rom ( name BALCONY.PAK size 38797 crc fc4bb23d md5 3159614fd12aeef19480731653acf6a5 )
+	rom ( name BELROOM.PAK size 37689 crc 6a71c960 md5 43178b6a92a314fd3f6be3efe8bfb8a8 )
+	rom ( name BONKBG.PAK size 20536 crc 74313090 md5 024a6fe2bda449674f24a102ea6429b1 )
+	rom ( name BRIDGE.PAK size 17837 crc 5a4d039d md5 0e12b7112298cb2020f12cbee16f01f6 )
+	rom ( name BRINS.PAK size 23098 crc f79ca9e9 md5 28c310172bf4e83e3866a07eadf63ad7 )
+	rom ( name BROKEN.PAK size 23671 crc a557ea1d md5 2358243068a780adb5696179575eb5b4 )
+	rom ( name BURN.PAK size 27897 crc bb61575e md5 3faf99dbc38354107ab0ddcfadff3327 )
+	rom ( name CASTLE.PAK size 18945 crc 2bf07e7c md5 51dcb01eb6808ede6bdd6a6659693858 )
+	rom ( name CATACOM.PAK size 43656 crc 7b770dc1 md5 e26d998024ccfebda954fbb8ebe6fc81 )
+	rom ( name CAVE.PAK size 25571 crc 11a4ba89 md5 19526a1b98efaff33a734491ad2aa5bc )
+	rom ( name CAVEB.PAK size 23225 crc cbeb222a md5 bdbe0fe6a11276d547bf6a1766fc8ac6 )
+	rom ( name CGATE.PAK size 30183 crc 5f957d77 md5 3314571fa4bb7012b451692a59023a3e )
+	rom ( name CHASM.PAK size 17428 crc a288070e md5 1fc1d740275439fe62e675949cb81ab2 )
+	rom ( name CLIFF.PAK size 20669 crc d4ef289b md5 a2409938ebc0009ed80ad8effdb44229 )
+	rom ( name DARMS.PAK size 19971 crc 6558e1f6 md5 4664c5432d03acfef3a2b81424fdbea8 )
+	rom ( name DEAD.PAK size 25732 crc 25d2f462 md5 79b430bdf7f6cb88492cf2d0fbb923e3 )
+	rom ( name DNSTAIR.PAK size 16300 crc c00df4e3 md5 653659cb863473ff2d9d36015fe5823c )
+	rom ( name DRAGON.PAK size 22686 crc 15b8f764 md5 5b9bbacd5d9c7fd8b615fe5f9da9e177 )
+	rom ( name EDGE.PAK size 25447 crc 41ae22a2 md5 f9f3d1354794745c012c9abec5963208 )
+	rom ( name EDGEB.PAK size 38018 crc 17385f5b md5 4e8b0e2e2532f72260b93583db772231 )
+	rom ( name EMCAV.PAK size 39701 crc ce6b7f75 md5 d26d0133903cf0d0b6d19b3f99da4f7f )
+	rom ( name ENTER.PAK size 17216 crc 799fe667 md5 eb772c92ec443965c9914da439f49334 )
+	rom ( name EXTHEAL.PAK size 22848 crc 7d766ee7 md5 1ceb8a444e2dcf35c7cb310869980968 )
+	rom ( name EXTPOT.PAK size 43522 crc 1f038afc md5 2f529cb051f6a1c71f9f15d9f0ed763c )
+	rom ( name EXTSPEL.PAK size 29720 crc 759ad64d md5 fbbbce94b4921cd7f9db5de97090d7db )
+	rom ( name FALLS.PAK size 30913 crc 01474dcd md5 688322bbafba7d3bb114a68cf2987908 )
+	rom ( name FESTSTH.PAK size 35366 crc cd2abf64 md5 f1d47c60ed04076e6ffed79e33e405eb )
+	rom ( name FGOWEST.PAK size 21590 crc 0181a51b md5 88c373b7bacc170084a0b43479078ced )
+	rom ( name FINALE.PAK size 204132 crc 012a57e4 md5 62e7515cc322363444e1c0eeb9bb6c86 )
+	rom ( name FNORTH.PAK size 22788 crc 1dde25cb md5 cf61d53219ba7729fc61e18b20177d45 )
+	rom ( name FORESTA.PAK size 43363 crc 4ca5875f md5 e9c8f110fd713ec4aad57cc744faca2c )
+	rom ( name FORESTB.PAK size 22442 crc fc9fff54 md5 ab770c33bd3f0dcdf6b1b2e696be64cf )
+	rom ( name FORESTC.PAK size 20739 crc a201939d md5 a925bc7744ef629178393cb488d2ae08 )
+	rom ( name FOUNTN.PAK size 24941 crc 2bf7085a md5 e5a82406299556324584c0cddf8092f8 )
+	rom ( name FOYER.PAK size 17675 crc f49ead86 md5 975f6c76e41465f3d51629020314056b )
+	rom ( name FSOUTH.PAK size 23153 crc cd6329aa md5 bf8d4ca91cb30d883e37a4d8b17da367 )
+	rom ( name FSOUTHB.PAK size 37858 crc a55037a5 md5 813da5d1fed7ebdfbffd0e55869ac312 )
+	rom ( name FWSTSTH.PAK size 35417 crc e191bedc md5 08623af38f14871ae484ba5d92d94d21 )
+	rom ( name GATECV.PAK size 19469 crc a65466a6 md5 88811ab8a2ec403d521a313d99e31f2d )
+	rom ( name GEM.PAK size 17815 crc a62f7a45 md5 e86db98c4e0d0179a0f24391b3234008 )
+	rom ( name GEMCUT.PAK size 33435 crc 73493e18 md5 d3d4b281cd357230aabcec46843d04bd )
+	rom ( name GEN_CAV.PAK size 20424 crc 0f2b4c4c md5 c5ad12e4f85066e02d806cb5461be546 )
+	rom ( name GENCAVB.PAK size 20578 crc 009a6f34 md5 3dcac20a632960629820612634a49648 )
+	rom ( name GENHALL.PAK size 26572 crc 5182c6fe md5 da1eb02ecdb15146e04c8965b4b92e82 )
+	rom ( name GLADE.PAK size 24388 crc 61081c75 md5 d3b10cd9493bf29c41cb4b65aacfdcd0 )
+	rom ( name GRAVE.PAK size 29641 crc bdea8b2e md5 27b1778951878608c58885a2dcbeb105 )
+	rom ( name GRTHALL.PAK size 22525 crc 081f1aea md5 076238db1bb9d11791d4d11ee144dad2 )
+	rom ( name HEALER.PAK size 29581 crc 0a380f37 md5 00b39ed7e33f1c248570699698407290 )
+	rom ( name KITCHEN.PAK size 18388 crc 49c29696 md5 4e4d4616211b153e9f908358e2bdb574 )
+	rom ( name KYRAGEM.PAK size 24998 crc 038b2fba md5 badbb6c377247978f13be4d08b76f4a3 )
+	rom ( name LAGOON.PAK size 22999 crc 0dae9850 md5 3fc318ee8f8d619f0a2bef9c49a0e6bc )
+	rom ( name LANDING.PAK size 11892 crc 45006f70 md5 4279049c7b7cd4c05a9c07ac16f2348d )
+	rom ( name LAVA.PAK size 21922 crc 1ac3564b md5 d4b117e19bb767fc6c42dddd7a7825ee )
+	rom ( name LEPHOLE.PAK size 25263 crc da3439de md5 47f44b71aac3606fb3a5174350e689cd )
+	rom ( name LIBRARY.PAK size 21798 crc 7b9b0899 md5 40102282e8072509a3d5a20bbe8dd8c1 )
+	rom ( name LK size 0 crc 00000000 )
+	rom ( name MIX.PAK size 21818 crc 1ff9c202 md5 28df8aee081368a8c5762226e1ddf656 )
+	rom ( name MOONCAV.PAK size 20956 crc ab15d4d2 md5 8fdb8d5970bb6870ebaf0af2905e9aef )
+	rom ( name NCLIFF.PAK size 19717 crc 18e6eb96 md5 f9521c73d5fc6708611a8929e6d774db )
+	rom ( name NCLIFFB.PAK size 19063 crc 92866efe md5 2138941539130d4f10bb3f22d7aba95e )
+	rom ( name NWCLIFB.PAK size 14652 crc 86e65cb4 md5 635beb4725f180bed7dd0eea5be18f29 )
+	rom ( name NWCLIFF.PAK size 14394 crc cb5dfa85 md5 399cc1ef0d8037058ef474756464923e )
+	rom ( name OAKS.PAK size 35861 crc 2eb82228 md5 bc2a235150936de60241066b4b9ff640 )
+	rom ( name PLATEAU.PAK size 15224 crc 5552c738 md5 2182b6565608be2e71f5ee306d5a7966 )
+	rom ( name PLTCAVE.PAK size 22105 crc ce63b136 md5 c611515878f8bc1c5ea13fa4900cf034 )
+	rom ( name POTION.PAK size 50273 crc 0393a4f2 md5 134789502804bd78da03f0d8c71e2383 )
+	rom ( name RUBY.PAK size 25234 crc 630e6314 md5 bf1dd9598e409a744e697628ea0ca907 )
+	rom ( name SICKWIL.PAK size 34922 crc 0b70a964 md5 7989c95193ba772416491aae441c3bd0 )
+	rom ( name SONG.PAK size 27616 crc 751b7b99 md5 521f3975e2eb7d2eca3af666192c353b )
+	rom ( name SORROW.PAK size 22927 crc 418a2f78 md5 288139c0681fc3ddc46a131548675375 )
+	rom ( name SPELL.PAK size 26356 crc 69a07ac9 md5 68c8f399c8ed6c6bc80329bbd38f61e5 )
+	rom ( name SPRING.PAK size 25920 crc 96db9d28 md5 c4251392038e023906d17a46899013a0 )
+	rom ( name SQUARE.PAK size 24751 crc 6844a48b md5 80f0fe88fd198933705a9c08dee93839 )
+	rom ( name STARTUP.PAK size 95103 crc 647d9b93 md5 3fbaa64b3dfa883c1bbfd7a158de3123 )
+	rom ( name STUMP.PAK size 37373 crc 83327e01 md5 dc914c5eb87e86876fcbf6b33733968b )
+	rom ( name TEMPLE.PAK size 22861 crc 0b50e014 md5 9208215afbbd666401677712427902fb )
+	rom ( name TRUNK.PAK size 15779 crc 545ebf6e md5 3ed222db55b44d303fd65929a5ce93fe )
+	rom ( name UPSTAIR.PAK size 36539 crc 2bd1a25d md5 d31776fda5572293f0f0cbe71c6c3b32 )
+	rom ( name WELL.PAK size 25501 crc 1702cc17 md5 863e2141b731119aecdb73d1351a738d )
+	rom ( name WILLOW.PAK size 21288 crc 356692ee md5 6e2e3b0e1115647ba71dc8e9d96d21e1 )
+	rom ( name WISE.PAK size 47102 crc 56c9b190 md5 06109f07fbf1d0e897ef6320aecef406 )
+	rom ( name XEDGE.PAK size 26023 crc 34034059 md5 1d7de6ea1ea48193493d6db76e43e7ae )
+	rom ( name XEDGEB.PAK size 22496 crc c5325d6c md5 77ac13ac63d8cea960f2a3ddba317154 )
+	rom ( name XEDGEC.PAK size 21668 crc a78c4b53 md5 12ff5fd021c3bf6bb667b5a20361086d )
+	rom ( name ZROCK.PAK size 25759 crc 932b8368 md5 b07c0d41caff73480e70139d82f7b1ba )
+)
+
+game (
+	name kyra1-cd-mac-de
+	description "Legend of Kyrandia, The (CD/Macintosh/German)"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	romof kyrmacres
+	rom ( name ._LK size 770048 crc 22969f9f md5 a97b71aa50401ab4a632f6ec9ccb79cc )
+	rom ( name ALCHEMY.PAK size 20700 crc f4513656 md5 f1f8e2aa641221064602412bb8e8ad99 )
+	rom ( name ALGAE.PAK size 18883 crc b1a900a1 md5 967f6c1a10516c8545717bfc354b2077 )
+	rom ( name ALTAR.PAK size 19390 crc ebad74ab md5 e9a89f92ce0a93f33edfa31314017f95 )
+	rom ( name ARCH.PAK size 18561 crc ca385725 md5 c333f0871cc449a9ebd3c3ea10e85b85 )
+	rom ( name BALCONY.PAK size 38805 crc adb5c1ff md5 6e212eff64623a374e4180315de9b276 )
+	rom ( name BELROOM.PAK size 37737 crc cdd05b48 md5 b72ac395ad8eaac8c3092429ee26c898 )
+	rom ( name BONKBG.PAK size 20566 crc 6f08b332 md5 da83b21956c3949ef34a49317397822d )
+	rom ( name BRIDGE.PAK size 17897 crc f3066de5 md5 c361fa27e6ec7425d6674f50d7754ae5 )
+	rom ( name BRINS.PAK size 23138 crc efb06989 md5 5f3adc57dd178be18365c9a55b97f4a2 )
+	rom ( name BROKEN.PAK size 23931 crc 768b4c0b md5 2ed0925cfe6aa0aae5ff80f1281c9d04 )
+	rom ( name BURN.PAK size 27911 crc ae9c5510 md5 9cf5ccc1aa67e902f5622f453e26c712 )
+	rom ( name CASTLE.PAK size 18949 crc 4280a2a6 md5 05e97d4d3332a39f484605c8da09a821 )
+	rom ( name CATACOM.PAK size 43682 crc d1de0588 md5 2ae6cb15a054666e78ce5f6ab59a7628 )
+	rom ( name CAVE.PAK size 25575 crc 5392e72c md5 6aaa8cdeb61411923829f3f9dff39da5 )
+	rom ( name CAVEB.PAK size 23241 crc 825f6994 md5 85efef852ada065897e99495ab3e1f92 )
+	rom ( name CGATE.PAK size 30247 crc 4661f494 md5 30e8a8a5198ff00f2d8b8b49a10c4070 )
+	rom ( name CHASM.PAK size 17480 crc 7076bb52 md5 40b321489c86cc76652fa84412910db4 )
+	rom ( name CLIFF.PAK size 20673 crc c2c4c79b md5 b6299a8c6bea82b1d61489196917885a )
+	rom ( name DARMS.PAK size 20039 crc 52623089 md5 bd6753144ab1fc2dfe176ec7b043ad7b )
+	rom ( name DEAD.PAK size 26092 crc 2f2ebfcf md5 af60b2af7f8547edaf4e4c8d8251b5cf )
+	rom ( name DNSTAIR.PAK size 16450 crc 02eb0086 md5 49e2bf3e014dc626901de863dc16c3b4 )
+	rom ( name DRAGON.PAK size 22866 crc 87b5eea8 md5 d7bb4c7762265c1aba20ab35625fe99b )
+	rom ( name EDGE.PAK size 25447 crc d50ef660 md5 ede1ecd20f66540447b904e0cd10cb4f )
+	rom ( name EDGEB.PAK size 38018 crc 83988b99 md5 fb82a4179fe06ba96142a9d9de7721c8 )
+	rom ( name EMCAV.PAK size 39709 crc 3feea638 md5 bacee33b20e5b537626191426b1b1d9f )
+	rom ( name ENTER.PAK size 17232 crc 75142f43 md5 4d92970be6bfda097b65855043ee3368 )
+	rom ( name EXTHEAL.PAK size 22880 crc 7c9675e3 md5 b611d70d90099c88c89ce205bb283ba5 )
+	rom ( name EXTPOT.PAK size 43528 crc 7128d485 md5 dcbef1b98ac4550fefc85b04b570abbf )
+	rom ( name EXTSPEL.PAK size 29752 crc 83730a7b md5 b141b55ddcf0b027f730cd0d48f370ff )
+	rom ( name FALLS.PAK size 30917 crc c8597807 md5 3a251d7ddcc3dc1ef1565f7fab8bd4ac )
+	rom ( name FESTSTH.PAK size 35368 crc 443f3c05 md5 52a9f6c109e627cbe11948c6fb99d900 )
+	rom ( name FGOWEST.PAK size 21592 crc a491afed md5 01ee70df7b7bb1594b577e4b10d5b43f )
+	rom ( name FINALE.PAK size 204177 crc 243bc66b md5 e6a0ee176def91e26e4ed086bb43897f )
+	rom ( name FNORTH.PAK size 22804 crc c7cf51f4 md5 2a8c0f6b12ba171d03902a68a01b15a2 )
+	rom ( name FORESTA.PAK size 43435 crc c190f81b md5 8a0ed1e1aaa29d520b6f264f8c3e797d )
+	rom ( name FORESTB.PAK size 22490 crc 98a93e0d md5 272d3592f455fd68f2c0e08217fe5014 )
+	rom ( name FORESTC.PAK size 20737 crc b4237673 md5 bec9b5eafd025e408c7005861d3c4a02 )
+	rom ( name FOUNTN.PAK size 25057 crc 31993b98 md5 5a6cb5bd5bcb44b2e6e57bf4c36b3997 )
+	rom ( name FOYER.PAK size 17929 crc 1b942920 md5 dc92cf1e44e18a88d0f5c67ce2ca0f9c )
+	rom ( name FSOUTH.PAK size 23155 crc 8f5d17be md5 15179d6bb27bc222a31915bbd8f764e0 )
+	rom ( name FSOUTHB.PAK size 37860 crc 3d81d4a9 md5 d7746330590dd3fb8c8f3e63569a82a5 )
+	rom ( name FWSTSTH.PAK size 35419 crc 80d1618a md5 e7398adda9f3065829d24c78ff8527ae )
+	rom ( name GATECV.PAK size 19535 crc 9f945491 md5 3c05de5cd36660d55a779e522929fb88 )
+	rom ( name GEM.PAK size 17875 crc 9edacf36 md5 58e467f89f1702c4744d185a1400d6e9 )
+	rom ( name GEMCUT.PAK size 33771 crc 36444147 md5 4a0cb720e824295bcbccbd1407652110 )
+	rom ( name GEN_CAV.PAK size 20480 crc 69d747e4 md5 c9d7cf84f2220385653895481feef25a )
+	rom ( name GENCAVB.PAK size 20634 crc da5f5fc4 md5 91e25e81df3799aad4c1b4dbf175b5f4 )
+	rom ( name GENHALL.PAK size 26626 crc 9a2adc44 md5 d567929474f7e1757669362a542aafe0 )
+	rom ( name GLADE.PAK size 24394 crc e0b82f3c md5 330f1c33222b524b363728424662c534 )
+	rom ( name GRAVE.PAK size 29819 crc d1523e64 md5 a4519d605b7049b7904ffac726e22737 )
+	rom ( name GRTHALL.PAK size 22589 crc d24b2cab md5 c33711bb10477df0060471918609e6c6 )
+	rom ( name HEALER.PAK size 29945 crc 8424e646 md5 2584198d791dd513a3e393625a567949 )
+	rom ( name KITCHEN.PAK size 18428 crc 1ff8ff7d md5 c5f4d898db9a57493e5c46cfddc958b3 )
+	rom ( name KYRAGEM.PAK size 25036 crc eed537dd md5 2e83155c0f9a0ae2d085683362aebb07 )
+	rom ( name LAGOON.PAK size 23027 crc 59454cec md5 2fa87551f4f18fb3294fc2917bb43cd1 )
+	rom ( name LANDING.PAK size 11908 crc c488ddd7 md5 a12c8b34dbcb082e2bb56ff289ec555d )
+	rom ( name LAVA.PAK size 21940 crc fa4a5b2f md5 8973fed4e1f36704704ffe5472df9442 )
+	rom ( name LEPHOLE.PAK size 25455 crc 0267b5d6 md5 618e5cc192ff9a2b1805d6007ea07445 )
+	rom ( name LIBRARY.PAK size 21858 crc 06bb1601 md5 25fbeaf769ac4285909f381961bf3b1f )
+	rom ( name LK size 0 crc 00000000 )
+	rom ( name MIX.PAK size 21868 crc 6c0bf27c md5 00f1df504383de27ed4355cf1d174cc1 )
+	rom ( name MOONCAV.PAK size 21116 crc 7d860ffe md5 fae8d05daf03557a90dcaae269ba9b75 )
+	rom ( name NCLIFF.PAK size 19721 crc 00164903 md5 78642a3794e973a2bae7581a2a95ef79 )
+	rom ( name NCLIFFB.PAK size 19067 crc b5211084 md5 1293f6137c5511cc181fdae1e0317a50 )
+	rom ( name NWCLIFB.PAK size 14676 crc a8b24c07 md5 727ac8aeca3df53891f50520ccf68736 )
+	rom ( name NWCLIFF.PAK size 14398 crc 0cc22dd0 md5 6dbc560457c467179ada4f3db8b68730 )
+	rom ( name OAKS.PAK size 35869 crc 9a63ca23 md5 e7a350875a96b374c183d5ac9868ce86 )
+	rom ( name PLATEAU.PAK size 15232 crc ae0df64d md5 380909772a57691eb3d2894c6f48e998 )
+	rom ( name PLTCAVE.PAK size 22113 crc f504059f md5 12ec4d0ee4f39390f63b3e0e40c10354 )
+	rom ( name POTION.PAK size 50853 crc ed7fca39 md5 8a19a71809131f31b9de02bed19e8bb7 )
+	rom ( name RUBY.PAK size 25260 crc f561009e md5 a1b9ed28b8f35c580ea5c4d107815336 )
+	rom ( name SICKWIL.PAK size 34980 crc 08a69087 md5 c004fd067841cd405c8af36240fcc98c )
+	rom ( name SONG.PAK size 27720 crc eab6f7fa md5 f6c4528961ab49881449dbca35e90c7b )
+	rom ( name SORROW.PAK size 22987 crc dd165d69 md5 cfa048ce27c2c3ebac2717cae831c2be )
+	rom ( name SPELL.PAK size 26974 crc e63c276e md5 9b1f428bce1ccb55586e3b1834588530 )
+	rom ( name SPRING.PAK size 26048 crc 2a42365d md5 0410c0d87858023ed28dce17d26b8efb )
+	rom ( name SQUARE.PAK size 24767 crc ad3405b1 md5 bcc1d7bdac0cf58bcb7b084a955cc8a5 )
+	rom ( name STARTUP.PAK size 95631 crc e2388606 md5 5240045ea14d63773881711740befbb3 )
+	rom ( name STUMP.PAK size 37387 crc 5007b596 md5 6dbb63c480e253e0ef0d06f85cafa715 )
+	rom ( name TEMPLE.PAK size 22941 crc 00b0c423 md5 0100dcb18ee9f1bb7bc1fc5f52479c1d )
+	rom ( name TRUNK.PAK size 15807 crc 31fb087e md5 77442497d467dd20cb8fd754df108ed6 )
+	rom ( name UPSTAIR.PAK size 36537 crc 350e4df8 md5 55f93f50a74e641112becdbe6929a993 )
+	rom ( name WELL.PAK size 25573 crc 2595f8f2 md5 02d2dbf005aa95bfa9f39fd1d87cbbe9 )
+	rom ( name WILLOW.PAK size 21376 crc dff49d86 md5 6544598c7462f4d3d50353f3d06f8041 )
+	rom ( name WISE.PAK size 47238 crc a4284fad md5 c92a10cc9f841a014d49ede6a81e6258 )
+	rom ( name XEDGE.PAK size 26063 crc 837233fe md5 6452b5f019b7761c5d39b96db52a3807 )
+	rom ( name XEDGEB.PAK size 22490 crc c027b251 md5 47a64dbc83d6dd4a5f2e2aa5e9bade66 )
+	rom ( name XEDGEC.PAK size 21670 crc 3f41adc1 md5 9a7c67d32e5012e2b97a0e6e9e6ad463 )
+	rom ( name ZROCK.PAK size 25773 crc a62f8a9e md5 b1b27f91bace0fbdc83a9f59cc4750da )
+)
+
+game (
+	name kyra1-cd-mac-fr
+	description "Legend of Kyrandia, The (CD/Macintosh/French)"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	romof kyrmacres
+	rom ( name ._LK size 770048 crc 5c2659c2 md5 cebee3d929d4238bd80f457e11ed5e9d )
+	rom ( name ALCHEMY.PAK size 20696 crc 7af1cd1e md5 63e8de33f2a9b61f0b050a5b0bcf1dcb )
+	rom ( name ALGAE.PAK size 18879 crc 48265b59 md5 5e5ead54159b3c634645bb10274190a5 )
+	rom ( name ALGDIG.ADV size 5584 crc f9d550b2 md5 638afbb110d18e35f985c774b5b1dcde )
+	rom ( name ALTAR.PAK size 19370 crc 820bf75b md5 755cde96cf1c11cfa0bd822e9e74cd6d )
+	rom ( name ARCH.PAK size 18565 crc 18727dc0 md5 e7d0412e746d6d932e4c601a47a6bf9b )
+	rom ( name BALCONY.PAK size 38773 crc b48ca9e0 md5 2391d3896c7eadd5186259211311f203 )
+	rom ( name BELROOM.PAK size 37745 crc 7bdc00c8 md5 cd117742c46d7b95b34bd14bf050b150 )
+	rom ( name BONKBG.PAK size 20544 crc 27513611 md5 c37666bdb10c2b568ad8b2a9a1d2d5f3 )
+	rom ( name BRIDGE.PAK size 17863 crc eaaf7777 md5 bd464a5ba560d3ca68f561401eedcdc2 )
+	rom ( name BRINS.PAK size 23138 crc 82bd172f md5 1f1ee8e950b400a0e6142895a82d942a )
+	rom ( name BROKEN.PAK size 23873 crc 38dc5e23 md5 892589241a51fa6c531b8e92490230ee )
+	rom ( name BURN.PAK size 27917 crc f6df10fb md5 de8e80d420eff58421b64fa492baaf40 )
+	rom ( name CASTLE.PAK size 18953 crc acc70c0a md5 97f380b4d408285473585a183cc6c181 )
+	rom ( name CATACOM.PAK size 43688 crc 6d313a4a md5 313a84c122a98325a21f4491682d0bb6 )
+	rom ( name CAVE.PAK size 25571 crc b6a2743b md5 df65e21be8a6f8f8524d1a5a36ec89d2 )
+	rom ( name CAVEB.PAK size 23259 crc cdbcdc15 md5 09178a5b5c991c1b5df4a17b8fb4be5e )
+	rom ( name CGATE.PAK size 30215 crc bc6532ee md5 e50dddb3a259350046b848e46f90ffbc )
+	rom ( name CHASM.PAK size 17448 crc 2ec28d73 md5 b1583bc64cdf815fd5443d39ce498333 )
+	rom ( name CLIFF.PAK size 20671 crc 60acd3fc md5 6593b93949c981910e5c1295e2e9df11 )
+	rom ( name DARMS.PAK size 19979 crc 245212a5 md5 6198a9e57310a21dd538e53dd8ba8251 )
+	rom ( name DEAD.PAK size 25870 crc f447b42c md5 3758db0ae39d4377e564b8f6b5b7d369 )
+	rom ( name DNSTAIR.PAK size 16350 crc 5729ddca md5 9e35a8a1dea79f1906017fbf8ea25d7d )
+	rom ( name DRAGON.PAK size 22778 crc 7aec0e74 md5 66900c8b93fabb3a8fc0c4774938d675 )
+	rom ( name EDGE.PAK size 25449 crc a6c908e6 md5 3c6e43a21f61471cbc9320e4e0287ea9 )
+	rom ( name EDGEB.PAK size 38020 crc 48fa70c7 md5 ee33fc92f9359e3655416f4315335d6d )
+	rom ( name EMCAV.PAK size 39709 crc 559b3dc6 md5 3269210e359a5c08fa27c4dc7eb5a43f )
+	rom ( name ENTER.PAK size 17222 crc 2b31e079 md5 fb5177dda67d4c98390d8ce480d25cf3 )
+	rom ( name EXTHEAL.PAK size 22894 crc 430d7ffd md5 f48b64b9ef602ca689458399e238c262 )
+	rom ( name EXTPOT.PAK size 43514 crc 9c7fb892 md5 a7313a17ceaecde22cbb0f8a60d6529c )
+	rom ( name EXTSPEL.PAK size 29724 crc 4c2b45ed md5 8d25b682581b4f6ec1b8b7dc894ce5f4 )
+	rom ( name FALLS.PAK size 30905 crc aa7bb479 md5 40dba7b8d8329aa5af2c475be65d19ce )
+	rom ( name FESTSTH.PAK size 35368 crc 0820ccb6 md5 1987db13dba5fca4c0ea8466bbc705af )
+	rom ( name FGOWEST.PAK size 21592 crc e88e5f5e md5 77b1e421694d13406536d9b09db4acde )
+	rom ( name FINALE.PAK size 204225 crc 71fc72c6 md5 e2de3ed1158029f26482410b0fa9c3fd )
+	rom ( name FNORTH.PAK size 22788 crc e0e82c4e md5 cc1ae2a1939d6a0be88021147a480d40 )
+	rom ( name FORESTA.PAK size 43385 crc 3d372cae md5 5c2050434130f57b5bb123695d6923bd )
+	rom ( name FORESTB.PAK size 22440 crc 637a06b5 md5 b0fd25f5e47d5e38c6981a48197d0e29 )
+	rom ( name FORESTC.PAK size 20737 crc d7618205 md5 b80849463f4af919636b3f2afb11e9da )
+	rom ( name FOUNTN.PAK size 24959 crc 20557465 md5 cfdc2a9d0327135f7a5948a497618bbc )
+	rom ( name FOYER.PAK size 17871 crc cad15ecd md5 81359516cde1f6d56c522c9785831530 )
+	rom ( name FSOUTH.PAK size 23155 crc c342e70d md5 57c5c34adb6990b7b2dfef8fe9955949 )
+	rom ( name FSOUTHB.PAK size 37860 crc 719e241a md5 b7d2783c3c8aef21f2635e0500f1ca0c )
+	rom ( name FWSTSTH.PAK size 35419 crc ccce9139 md5 a219757718bcca4e1c6b25c0fb6173bf )
+	rom ( name GATECV.PAK size 19505 crc 728b6463 md5 72678538ff296e9ca44a44f7393ece7e )
+	rom ( name GEM.PAK size 17897 crc 0aefdac1 md5 f58e92fc70140aeead43abe0a3bc103f )
+	rom ( name GEMCUT.PAK size 33709 crc e17b9d04 md5 b71ee090aa12e80ed2ba068826d92bed )
+	rom ( name GEN_CAV.PAK size 20472 crc 696b9718 md5 30f4cc8f501600d626b628e685dbc21b )
+	rom ( name GENCAVB.PAK size 20636 crc ab370834 md5 29bd6ce6677b7d0c41a4e32db9dc6750 )
+	rom ( name GENHALL.PAK size 26596 crc c80153c8 md5 16ea7d0a8b976de6a8b864f660702b3c )
+	rom ( name GLADE.PAK size 24376 crc d7fdfdda md5 2d74a50c53fa40cd25de2ef1a84e0fd5 )
+	rom ( name GRAVE.PAK size 29753 crc ec265265 md5 de4b309013f9bdf8cc916f738f9ec325 )
+	rom ( name GRTHALL.PAK size 22565 crc d15f49b0 md5 038d2ae9bd50ce272e2a3e2c75768c60 )
+	rom ( name HEALER.PAK size 29723 crc 22af0ce6 md5 83f667aa3694b8949d4493f90ac7a957 )
+	rom ( name KITCHEN.PAK size 18396 crc 8ed9b252 md5 24f097b1ba19ad4095da925670cfe783 )
+	rom ( name KYRAGEM.PAK size 25002 crc 31e67a39 md5 a973bc818cb7d25ef410d05936e1b5b2 )
+	rom ( name LAGOON.PAK size 23015 crc 744bb7cf md5 af1a3f2cf113d2189994f69be3a67fa0 )
+	rom ( name LANDING.PAK size 11886 crc 5b9db5b0 md5 b640c6892d6d97a2a8f3cdbc9e898409 )
+	rom ( name LAVA.PAK size 21934 crc dc23683c md5 2a86c75cb808c150e2cfdfa11d6fd0a2 )
+	rom ( name LEPHOLE.PAK size 25287 crc b60aba01 md5 c0b4a650ddfbf02fc5e06a579cc9aa84 )
+	rom ( name LIBRARY.PAK size 21828 crc 1b8f5780 md5 6d0348f46e053b835dc3993226ae6150 )
+	rom ( name LK size 0 crc 00000000 )
+	rom ( name MIX.PAK size 21848 crc 22ca8fd2 md5 e8c212de417e44817ca0daa528006c0c )
+	rom ( name MOONCAV.PAK size 21118 crc 898a57b9 md5 d3d3852d63a4016a7ff2a829a1453c19 )
+	rom ( name NCLIFF.PAK size 19723 crc 1f1bbc85 md5 7415f697ecbb0035a052235120f19067 )
+	rom ( name NCLIFFB.PAK size 19069 crc 0730166e md5 fa19a22030705e6f3e63e07a66686391 )
+	rom ( name NWCLIFB.PAK size 14648 crc db173047 md5 c8688e5350a269d6fa52a752981f7d24 )
+	rom ( name NWCLIFF.PAK size 14400 crc e400ddfb md5 3ce7256b69e00f7461a07a1a110db674 )
+	rom ( name OAKS.PAK size 35865 crc 5ef0a157 md5 cf08bde5d704694c86314e9de19edd15 )
+	rom ( name PLATEAU.PAK size 15226 crc 7bcb2855 md5 499610413d9f8e0229e18c2fa3f01d56 )
+	rom ( name PLTCAVE.PAK size 22111 crc d5500c82 md5 3c654f6b468f85967f92744b246c5593 )
+	rom ( name POTION.PAK size 50729 crc f6283096 md5 df8625ebcb78b5dc08e2e10d674e073f )
+	rom ( name RUBY.PAK size 25238 crc a38450f2 md5 0684c584ab17b794137581b80ebbcbd5 )
+	rom ( name SICKWIL.PAK size 34950 crc ecdd3934 md5 497e15279c22e281990a3f51fb5c0a79 )
+	rom ( name SONG.PAK size 27698 crc befe71ea md5 43d0f2f374024bbc43810be93e7dd11a )
+	rom ( name SORROW.PAK size 22963 crc 6e8f684a md5 0ca8e5e6798a286c7394385aba938baa )
+	rom ( name SPELL.PAK size 26838 crc e7cc71d0 md5 0e8dfd67d5838f30b467b2c13e4a4bf6 )
+	rom ( name SPRING.PAK size 25986 crc 3fc06090 md5 6da3a211c8721a8b99576627db6396f4 )
+	rom ( name SQUARE.PAK size 24763 crc 77ed9284 md5 31f7bfbc0ac5500ab32a76b03883eaf1 )
+	rom ( name STARTUP.PAK size 95267 crc 55f33d37 md5 43c682471f495cbb504f9a439e16197b )
+	rom ( name STUMP.PAK size 37375 crc cc62534a md5 6809b1bef249b7ad0b2fd20ecfe41bf7 )
+	rom ( name TEMPLE.PAK size 22825 crc 19848188 md5 d32f9f03b86ec18d621554892b4a40f8 )
+	rom ( name TRUNK.PAK size 15805 crc 19d34237 md5 aec95a4eb162e60e80ec21fda8f4fdcd )
+	rom ( name UPSTAIR.PAK size 36539 crc 4beb6af5 md5 89d805bb6a2b768b5994767d406fb040 )
+	rom ( name WELL.PAK size 25515 crc 32d60f44 md5 b0b2c11b13400c3e6869a5931e44c75f )
+	rom ( name WILLOW.PAK size 21332 crc d05149b1 md5 13f64d8da74f293fd777fdafa9540c9c )
+	rom ( name WISE.PAK size 47162 crc 7ccf58c0 md5 ad578c275bef09edbf2661dfa5aa1335 )
+	rom ( name XEDGE.PAK size 26035 crc c9c2ec5c md5 badd0ffdcde30472982dc6c138473ff1 )
+	rom ( name XEDGEB.PAK size 22488 crc be07c300 md5 55233b4be65c0f8ef5a06f7996742a7d )
+	rom ( name XEDGEC.PAK size 21654 crc 87f55905 md5 54bad00ed16639ca33341730434d4169 )
+	rom ( name ZROCK.PAK size 25769 crc 628eb04c md5 61e2648f0cb0a4d42e4305f2b8957f6d )
+)
+
+game (
 	name kyra1-de
-	description "Legend of Kyrandia, The (Extracted/DOS/German)"
+	description "Legend of Kyrandia, The (DOS/German/Extracted)"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -1805,7 +2104,7 @@ game (
 
 game (
 	name kyra1-demo
-	description "Legend of Kyrandia, The (Demo/DOS)"
+	description "Legend of Kyrandia, The {Demo}(DOS)"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -1830,7 +2129,7 @@ game (
 
 game (
 	name kyra1-demo-cd
-	description "Legend of Kyrandia, The (Demo/CD/DOS)"
+	description "Legend of Kyrandia, The {Demo}(CD/DOS)[!]"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -1856,7 +2155,7 @@ game (
 
 game (
 	name kyra1-es
-	description "Legend of Kyrandia, The (Extracted/DOS/Spanish)"
+	description "Legend of Kyrandia, The (DOS/Spanish/Extracted)"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -1977,7 +2276,7 @@ game (
 
 game (
 	name kyra1-es-1
-	description "Legend of Kyrandia, The (Extracted/DOS/Spanish)[a]"
+	description "Legend of Kyrandia, The (DOS/Spanish/Extracted)[a]"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -2098,7 +2397,7 @@ game (
 
 game (
 	name kyra1-fr
-	description "Legend of Kyrandia, The (Extracted/DOS/French)"
+	description "Legend of Kyrandia, The (DOS/French/Extracted)"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -2219,7 +2518,7 @@ game (
 
 game (
 	name kyra1-it
-	description "Legend of Kyrandia, The (Extracted/DOS/Italian)"
+	description "Legend of Kyrandia, The (DOS/Italian/Extracted)"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -2578,7 +2877,7 @@ game (
 
 game (
 	name kyra1-ru
-	description "Legend of Kyrandia, The (Extracted/DOS/Russian)"
+	description "Legend of Kyrandia, The (DOS/Russian/Extracted)"
 	year 1992
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -2716,7 +3015,7 @@ game (
 
 game (
 	name kyra2-1
-	description "Legend of Kyrandia, The: The Hand of Fate (Extracted/DOS)"
+	description "Legend of Kyrandia, The: The Hand of Fate (DOS/Extracted)"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -2834,7 +3133,7 @@ game (
 
 game (
 	name kyra2-2
-	description "Legend of Kyrandia, The: The Hand of Fate (Extracted/DOS)[a]"
+	description "Legend of Kyrandia, The: The Hand of Fate (DOS/Extracted)[a]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -2952,7 +3251,7 @@ game (
 
 game (
 	name kyra2-cd
-	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS)"
+	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS)[EU][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3050,6 +3349,8 @@ game (
 	rom ( name STREET.PAK size 44784 crc e8b3c561 md5 fba3ba740d52cf8452c8a77d27f4008d )
 	rom ( name SULFUR.PAK size 77112 crc 6da2336c md5 ef241488e5e2ec162318e58251b5b034 )
 	rom ( name TALKENG.PAK size 771890 crc 05260833 md5 0e0095b223078e1f372179b185704fdb )
+	rom ( name TALKFRE.PAK size 360225 crc 714a2f98 md5 2e2c595bf4b79e20649ead41406306b6 )
+	rom ( name TALKGER.PAK size 480856 crc e046d8cf md5 e4c3f8696a6e7672bebc4c3fc3730359 )
 	rom ( name TAVERN.PAK size 262899 crc df85bbd0 md5 c4c9e95183a1e63673c96bfa4897b13d )
 	rom ( name TIMBER.PAK size 33425 crc 85a5c581 md5 af839beee0538df6fcc9da6d220b05ee )
 	rom ( name TRAM.PAK size 321225 crc 5c253dd7 md5 52ac55ca49522bd4c8d59fe680398a25 )
@@ -3079,24 +3380,24 @@ game (
 
 game (
 	name kyra2-cd-de
-	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS/German)"
+	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS/German)[EU][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
 	cloneof kyra2-cd
 	romof kyra2-cd
-	rom ( name TALKGER.PAK size 480856 crc e046d8cf md5 e4c3f8696a6e7672bebc4c3fc3730359 )
+	rom ( name GERMAN.ROM size 11 crc 32fe6429 md5 b99705264a6de42201ac413acce96c82 )
 )
 
 game (
 	name kyra2-cd-fr
-	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS/French)"
+	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS/French)[EU][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
 	cloneof kyra2-cd
 	romof kyra2-cd
-	rom ( name TALKFRE.PAK size 360225 crc 714a2f98 md5 2e2c595bf4b79e20649ead41406306b6 )
+	rom ( name FRENCH.ROM size 11 crc 831b836c md5 c383bf9776c0034d4c074810c7cfe77e )
 )
 
 game (
@@ -3126,6 +3427,90 @@ game (
 	rom ( name MISC_CPS.PAK size 121098 crc 499adb9b md5 8a2c32797df31745385b52c3d1228391 )
 	rom ( name MISC_EMC.PAK size 44749 crc 09e7aa1e md5 55c5e1db79e64c45e3ec3353c0566161 )
 	rom ( name OTHER.PAK size 350520 crc f474f359 md5 d4bbfe1fed69031a0bbb5cdc72cda131 )
+	rom ( name Track01.ogg size 176794 crc 98a89df0 md5 f89d035da1dc1d6e89ffa67eae540a6f )
+	rom ( name Track02.ogg size 394646 crc acf9f8e0 md5 efec9da5b85fc37d3f4859599b8fe77c )
+	rom ( name Track03.ogg size 655339 crc d6baf542 md5 602abdc371ee6104ae559c5dbe4d5fd6 )
+	rom ( name Track04.ogg size 507150 crc a0dfc12e md5 9f0d438f791de72c051198f05ce93bdf )
+	rom ( name Track05.ogg size 174485 crc 8792cb2d md5 1225084d710d928bb589dfe3dffddb00 )
+	rom ( name Track06.ogg size 472575 crc 94fd40a7 md5 55422bf62de43e2e83d5eb360bf36eb9 )
+	rom ( name Track07.ogg size 96332 crc c8cd67f3 md5 8240389606535824a95882189391d3b2 )
+	rom ( name Track08.ogg size 2609682 crc 0585cd0c md5 ed004eb2d292b4d0eca353b08264195c )
+	rom ( name Track09.ogg size 33001 crc 70cdd809 md5 08c46fad0e76a5989be7015928aa3aef )
+	rom ( name Track10.ogg size 480023 crc 29edbb1f md5 c439a9a53d7827bd46dda8156db75c37 )
+	rom ( name Track11.ogg size 2750316 crc 985fe436 md5 3b39e508a6cad25499760a4655f6c6e2 )
+	rom ( name Track12.ogg size 397919 crc db4cf42f md5 78521c67701ab86f1a40930741ec6d28 )
+	rom ( name Track13.ogg size 2964096 crc 52b618c9 md5 13ce0dc8c592b15532d10865f4f00677 )
+	rom ( name Track14.ogg size 1042078 crc be7d380b md5 f106a60956c4007bb551defbe4fcbb8f )
+	rom ( name Track15.ogg size 675688 crc 4ff82d8a md5 e9698739a1c937eaadc2c6829ffedcc9 )
+	rom ( name Track16.ogg size 1540843 crc 9e4343f1 md5 7630489cda69734bb92d1ea63940250c )
+	rom ( name Track17.ogg size 1022737 crc d52555bb md5 9626d94bdc63a9029827d0c0828b7fc8 )
+	rom ( name Track18.ogg size 123219 crc 1c3c61bd md5 d748ad3b6b4c402aecea2f2a50d0379a )
+	rom ( name Track19.ogg size 2078985 crc 6d1b9550 md5 8635dc3a0540c878c5655bcffddf97bc )
+	rom ( name Track20.ogg size 2608010 crc 461046c5 md5 7ec6b2e72cf9dfd03759aa8f81992b87 )
+	rom ( name Track21.ogg size 541375 crc 4d371885 md5 46e79514451ca4dcd40c658bb5350e8b )
+	rom ( name Track22.ogg size 388173 crc 4d4548a9 md5 f3562718fc03eba285ef6d393945a24e )
+	rom ( name Track23.ogg size 87734 crc 8c746d8c md5 e5bc3feab0f6c1f916675a60a28ce8b8 )
+	rom ( name Track24.ogg size 1205316 crc 5cf1df65 md5 acbb25b2f2b7f91c7873dddf258cdc68 )
+	rom ( name Track25.ogg size 34071 crc 797ca5fd md5 44ead94cdd4db29ae38a86b4bef5abe2 )
+	rom ( name Track26.ogg size 32411 crc 29576521 md5 05be595d768d49e7cba029205b4d8e51 )
+	rom ( name Track27.ogg size 132140 crc 3c08bbbd md5 a460fed1f9d975a55983480c90de4565 )
+	rom ( name Track28.ogg size 1038097 crc 5d30a5b9 md5 31c67f971dda875917dc9798eb48e60b )
+	rom ( name Track29.ogg size 624054 crc 64a339aa md5 c75390b6d84d74d2d97c3f15b5c6b906 )
+	rom ( name Track30.ogg size 125522 crc b77af54a md5 7d01d396b184cef07a070313f0228b5b )
+	rom ( name Track31.ogg size 265459 crc 1ed43205 md5 d4353fa2ea24f78968159c3df9d585a5 )
+	rom ( name Track32.ogg size 630713 crc eedcf1a4 md5 53f3fdb82dae0ab78c0f66b167ec6ec0 )
+	rom ( name Track33.ogg size 406304 crc 4812f580 md5 3ee59b8faf1286d37b33ffc64fe017a4 )
+	rom ( name Track34.ogg size 97743 crc 80611922 md5 f6040f986c223b57665790c2982e078a )
+	rom ( name Track35.ogg size 370344 crc 737d9b4b md5 87f377b59b7744bffa5c5d76121f1abc )
+	rom ( name Track36.ogg size 66788 crc 322b91f7 md5 a7a517377be834cb8d32d5df9137ecfa )
+	rom ( name Track37.ogg size 299168 crc d47405c0 md5 0652669fbb17257b314445c72c06df12 )
+	rom ( name Track38.ogg size 468549 crc ff6189d4 md5 7fb3a553fe6b2995dc09adc96342ba17 )
+	rom ( name Track39.ogg size 1123131 crc c1abdea2 md5 b10be137959f0cc71457a16ed24ba7b7 )
+	rom ( name Track40.ogg size 1041645 crc 3701225e md5 ced877b18b8cdd61519437d7824e22e9 )
+	rom ( name Track41.ogg size 411796 crc 0dd034fc md5 e5cd79e7646a7a8b61e12d3b7cd48a66 )
+	rom ( name Track42.ogg size 1294474 crc 4bbea581 md5 5f86ce4d6b039bf1d60cfd6c83273fa1 )
+	rom ( name Track43.ogg size 67690 crc 0746addb md5 b31ec4494f2314c4b3ec0313dfd9b875 )
+	rom ( name Track44.ogg size 114192 crc a157296d md5 1c745c651a0c8fd76f5fb972709b270f )
+	rom ( name Track45.ogg size 303200 crc 4455fc1c md5 991247364c229abd3ce7aad01987324c )
+	rom ( name Track46.ogg size 1102170 crc 1c9acde3 md5 f04f27c542a875d2683839288ac5f815 )
+	rom ( name Track47.ogg size 458872 crc 96ea323f md5 2f281262fc54da849a9b3bdd18d69869 )
+	rom ( name Track48.ogg size 125457 crc 7808e5da md5 4f80011db11eb8518e98919e9a345d9e )
+	rom ( name Track49.ogg size 443364 crc 17ff0d6d md5 3660881196bdb477b036c590696a5714 )
+	rom ( name Track50.ogg size 1063367 crc 879db0f1 md5 581eacf34f7b5b2f862d47380a9c5853 )
+	rom ( name Track51.ogg size 292023 crc ee417de8 md5 62c5a46a5a476ae018b88035a6a19220 )
+	rom ( name Track52.ogg size 58462 crc 539a893c md5 9e2853be1a3c47dd3af3dd8ebaefab45 )
+	rom ( name Track53.ogg size 131019 crc 21b01f1d md5 8362123e453fa773e174372b82a6e8d8 )
+	rom ( name Track54.ogg size 896078 crc a438aff0 md5 fb9ae70bc311cb59a8014cfd742607f9 )
+	rom ( name Track55.ogg size 726072 crc 91eb2b63 md5 3023901d31066feea616b21154d78234 )
+	rom ( name Track56.ogg size 930200 crc 90a53fe0 md5 7bb10ac0e9aacad39869bc206aeb84f5 )
+	rom ( name Track57.ogg size 410602 crc d28e8a78 md5 b8e08c7bdfae54d4850e89c42ccc1d1d )
+	rom ( name Track58.ogg size 429326 crc 8fbceb3d md5 a89847be6fb2252832843d2104043202 )
+	rom ( name Track59.ogg size 885330 crc bb1189cf md5 3630cc2cc07c4e8537e7c07660393d19 )
+	rom ( name Track60.ogg size 102181 crc 2bacf407 md5 33868b724008bba9a95e55330fc5f02f )
+	rom ( name Track61.ogg size 559561 crc a0cc53eb md5 3547bc25afd9db55f59f5b762f460d61 )
+	rom ( name Track62.ogg size 389200 crc 1fb3a67b md5 c67d220c95b8501b6bda9d64bc26f09f )
+	rom ( name Track63.ogg size 691632 crc e5be06f0 md5 b9ee0b908d139d6a6c87c7cdbcec7caf )
+	rom ( name Track64.ogg size 544223 crc 30a5d7c7 md5 a7ce63aaff97e467aba4e19f6c2562fb )
+	rom ( name Track65.ogg size 540216 crc d2f5fcdd md5 74f9d3b27e9181ca00ea123d07502f99 )
+	rom ( name Track66.ogg size 125120 crc a1bb181c md5 a2e1dcc9082dffb2e99c443a21d12a14 )
+	rom ( name Track67.ogg size 155391 crc d1c76e00 md5 db06b0e0cff9165d96c9414e188bc6e3 )
+	rom ( name Track68.ogg size 290488 crc d2cb6634 md5 7be5e841e694e2e82e234c591e85e9e4 )
+	rom ( name Track69.ogg size 737264 crc 9f8e37cf md5 e28c1f5f7d7357b3a0a06f19d5b7ca1b )
+	rom ( name Track70.ogg size 114712 crc 8e199bc9 md5 c9e7ab51494e689cc726d8ea9b3212f1 )
+	rom ( name Track71.ogg size 311977 crc 8811ad69 md5 263c136b13ae7128050e1a81e6bdb3bd )
+	rom ( name Track72.ogg size 205435 crc 831c23dd md5 7208b8209e863ba1b143e2205a93aa21 )
+	rom ( name Track73.ogg size 1622307 crc 2cb6734b md5 4f03908cde34cc4dd9bb2147d3e2e392 )
+	rom ( name Track74.ogg size 1799302 crc 80c144d0 md5 e2453dd7a2fc03da71d5c6ec9029c295 )
+	rom ( name Track75.ogg size 84835 crc 672c75ec md5 3da51d67aa8ff5f23a7045cd901cf02d )
+	rom ( name Track76.ogg size 1146674 crc 2c1fe714 md5 5274b95a3d9bb2c57d4b8eade93ba054 )
+	rom ( name Track77.ogg size 119601 crc 9ec7eba4 md5 c8ea4ad8e40f74e6616632d4923f7c54 )
+	rom ( name Track78.ogg size 127667 crc 47495de7 md5 0aaabb832462f243c9b526f9006880fb )
+	rom ( name Track79.ogg size 64918 crc 81f5b3f4 md5 db772d77ac7b62c10d5c2d2668f4b650 )
+	rom ( name Track80.ogg size 87177 crc d4d4f7b1 md5 49d74e9b160f9f0dce4a6bd4ff74cba1 )
+	rom ( name Track81.ogg size 188230 crc f69aa2ec md5 1930db418c2895363e13db32295f4aab )
+	rom ( name Track82.ogg size 500989 crc be22a620 md5 8135a0e902a002a01321e7733d6126b2 )
+	rom ( name Track83.ogg size 1042018 crc 9d17171e md5 48b02509c621ce1ad6e9e0251c40e4c0 )
+	rom ( name Track84.ogg size 1076208 crc 4cd3ee9f md5 a6bace3e4224e9fe330e1e9ad7793221 )
 	rom ( name VOC.PAK size 1680799 crc d7a67620 md5 3c459e86ce57931860cec3f780bfa77b )
 	rom ( name WSCORE.PAK size 90990 crc a7d6cfff md5 c44de1302b67f27d4707409987b7a685 )
 )
@@ -3139,35 +3524,12 @@ game (
 	cloneof kyra2-cd-fm
 	romof kyra2-cd-fm
 	rom ( name cdfmjp.rom size 14 crc d3bf89da md5 66b404f2f9a9d42730b106372e23897a )
-	rom ( name FMT_FNT.ROM size 262144 crc dd6fd544 md5 b91300e55b70227ce98b59c5f02fa8dd )
-)
-
-game (
-	name kyra2-cd-pc98
-	description "Legend of Kyrandia, The: The Hand of Fate (CD/PC98)"
-	year 1993
-	manufacturer "Westwood Studios"
-	sourcefile kyra
-	cloneof kyra2-cd-fm
-	romof kyra2-cd-fm
-	rom ( name cdpc98.rom size 13 crc b23093f5 md5 a150ca7f4891a253e8f0e69b12fd0521 )
-)
-
-game (
-	name kyra2-cd-pc98-jp
-	description "Legend of Kyrandia, The: The Hand of Fate (CD/PC98/Japanese)"
-	year 1993
-	manufacturer "Westwood Studios"
-	sourcefile kyra
-	cloneof kyra2-cd-fm
-	romof kyra2-cd-fm
-	rom ( name cdpc98jp.rom size 16 crc cf79a64c md5 9dd8328243a48b500983ad21390e1479 )
-	rom ( name FMT_FNT.ROM size 262144 crc dd6fd544 md5 b91300e55b70227ce98b59c5f02fa8dd )
+	rom ( name FMT_FNT.ROM size 262144 crc 3307e6a2 md5 f05d94b2c8d964014a457b1abf6b6146 )
 )
 
 game (
 	name kyra2-cd-it
-	description "Legend of Kyrandia: The Hand of Fate, The (CD/DOS/Fanmade Italian)[v1.5]"
+	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS/Italian)[v1.5][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3180,6 +3542,7 @@ game (
 	rom ( name INCAVE.PAK size 249678 crc 89757975 md5 4f175c1edfff929a6784458eba4b769a )
 	rom ( name INSHOP.PAK size 221028 crc 139c6099 md5 30f3ab1e6ce6c144db99ba0477c17ac4 )
 	rom ( name MEADOW.PAK size 250752 crc 6c10cbae md5 04235c7d770e02e3aac12f8ab3737c79 )
+	rom ( name MISC_CPS.PAK size 300711 crc 970a669b md5 b39aafe0b883d8a0b8f012a98b9478fe )
 	rom ( name MISC_EMC.PAK size 59230 crc 8a1f3c2a md5 ed82d81e1fc59b889b53af821efa1fad )
 	rom ( name OTHER.PAK size 510796 crc 7d37cf17 md5 1a5558bfd0c46ba6805ca20fb6e27b0a )
 	rom ( name OUTFARM.PAK size 176998 crc c5ad34a5 md5 0f656ce38411c5b1d3b19176017979cf )
@@ -3197,7 +3560,7 @@ game (
 
 game (
 	name kyra2-cd-it-1
-	description "Legend of Kyrandia: The Hand of Fate, The (CD/DOS/Fanmade Italian)[v1.3]"
+	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS/Italian)[v1.3][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3210,6 +3573,7 @@ game (
 	rom ( name INCAVE.PAK size 249668 crc 26a238a1 md5 d0142591b69cb23662aa7a398b71bdad )
 	rom ( name INSHOP.PAK size 221028 crc 9200bf0e md5 fb0d16d9d403f4c94d76aca2ecac317f )
 	rom ( name MEADOW.PAK size 250752 crc 6d7e4eb0 md5 d81f1580c8f4186e023b1d7ec912fab4 )
+	rom ( name MISC_CPS.PAK size 300711 crc 970a669b md5 b39aafe0b883d8a0b8f012a98b9478fe )
 	rom ( name MISC_EMC.PAK size 59230 crc 2fabe003 md5 686f2dfd723f9490f3e04839ebbbe722 )
 	rom ( name OTHER.PAK size 510776 crc 0c17bbd9 md5 fe25d8cee35a6c6e26195933c5e338db )
 	rom ( name OUTFARM.PAK size 177012 crc 78540af1 md5 d68e801eee9e1dba184d40b840645a4b )
@@ -3223,6 +3587,323 @@ game (
 	rom ( name VOLC_A.PAK size 140932 crc 75e26e0d md5 c50b1db6f4c06ff5e95685361f530e52 )
 	rom ( name VOLC_D.PAK size 146293 crc c507f22d md5 57ec4837df79868e08be5d99376db010 )
 	rom ( name WHEEL.PAK size 117441 crc b75694ca md5 8ef09cdc0ed79de92e36ca1d86f0fcf3 )
+)
+
+game (
+	name kyra2-cd-it-2
+	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS/Italian)[v1.4]"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	romof kyra2itres
+	rom ( name ALLEY.PAK size 200944 crc 4f3ac092 md5 eb3a64b4ea67c79aee90612a9d2e05fd )
+	rom ( name BRIDGE.PAK size 208377 crc 124b3e58 md5 623e65c649735a08946fdc33f388f655 )
+	rom ( name FILEDATA.FDT size 59514 crc 0f8e5e8a md5 c6d27cc95a9eeec21a4970ae2b96225f )
+	rom ( name FLYTRAP.PAK size 118909 crc 9b4e7b7c md5 b58e042f6519fafc271ee150fc9f9fed )
+	rom ( name FOOT.PAK size 168788 crc 437416cd md5 4088f1606f3783624dbe9c397ce8232e )
+	rom ( name INCAVE.PAK size 249678 crc 89757975 md5 4f175c1edfff929a6784458eba4b769a )
+	rom ( name INSHOP.PAK size 221028 crc 139c6099 md5 30f3ab1e6ce6c144db99ba0477c17ac4 )
+	rom ( name MEADOW.PAK size 250752 crc 6c10cbae md5 04235c7d770e02e3aac12f8ab3737c79 )
+	rom ( name MISC_CPS.PAK size 301253 crc 7d8430fc md5 be0d0126dc1fd374837dc8b56fc2f24b )
+	rom ( name MISC_EMC.PAK size 59230 crc 8a1f3c2a md5 ed82d81e1fc59b889b53af821efa1fad )
+	rom ( name OTHER.PAK size 510789 crc 81e4e681 md5 535b6a2cbb68e6e46e1d3e2cceaf71cf )
+	rom ( name OUTFARM.PAK size 176998 crc c5ad34a5 md5 0f656ce38411c5b1d3b19176017979cf )
+	rom ( name OUTHOME.PAK size 123744 crc 2e0d11c1 md5 96670e7961673a3d8d9dbf30c0713348 )
+	rom ( name PHONE_B.PAK size 33210 crc 83e830f5 md5 bb4c5c8d89702a119d61f0b3f4771ab2 )
+	rom ( name QUICK.PAK size 161112 crc 05709e1e md5 9a948cafa8f17b0de0d9f2bc276ee20e )
+	rom ( name RAT.PAK size 125242 crc e57e6549 md5 7b9f591947ae395a102a389a3f2acad8 )
+	rom ( name STREET.PAK size 44904 crc 11296c8a md5 0a69710f309cfc85ac7630b77ba32345 )
+	rom ( name TAVERN.PAK size 263359 crc c1531d24 md5 fb241578a6e705bfa603741f1d4eef88 )
+	rom ( name TREE.PAK size 107021 crc bff814ba md5 b167865abb409b67fcb25c9873eb149c )
+	rom ( name VOLC_A.PAK size 140926 crc b653ed21 md5 66bb9afe4664442ab9f05b5399064b4e )
+	rom ( name VOLC_D.PAK size 146289 crc 659bfaac md5 20b73f331365c836268bda7a3fa302bc )
+	rom ( name WHEEL.PAK size 117441 crc 7a728fb9 md5 d95936abfed81d9781295dcb8b695c4b )
+)
+
+game (
+	name kyra2-cd-pc98
+	description "Legend of Kyrandia, The: The Hand of Fate (CD/PC98)"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	rom ( name AUDIO.PAK size 204343 crc 06b732b4 md5 3d7439bbe9b2797518755a4a406652d7 )
+	rom ( name CAULDRON.PAK size 193566 crc a2c4d139 md5 9d36e829e47459adb704413d745e897b )
+	rom ( name COST1_SH.PAK size 139107 crc 390c306c md5 240d1c47176d9902839e2242c2706cd1 )
+	rom ( name COST2_SH.PAK size 112694 crc f0b77caa md5 0421ca40ea0d1d368583e9c49da6feb6 )
+	rom ( name COST3_SH.PAK size 72631 crc f4fc5251 md5 7003c6341ea0480475270e39ca85787d )
+	rom ( name COST4_SH.PAK size 79916 crc 5535f5fb md5 5202a6c29947066b65f34b8b2e9a3c01 )
+	rom ( name COST5_SH.PAK size 79395 crc 95ea6799 md5 bb33ecc48dbf55cc5b0bead8af98fb3d )
+	rom ( name COST6_SH.PAK size 78907 crc c889a349 md5 2a2e762807ddb269ac5541c6ecec9297 )
+	rom ( name COST7_SH.PAK size 106423 crc cec7e382 md5 18fce3e09fc757e07e13cca2917e9927 )
+	rom ( name COST8_SH.PAK size 78046 crc 248279f5 md5 9632e0fb858bffcde14e9c8638e704be )
+	rom ( name COST9_SH.PAK size 63367 crc c742607e md5 5464abfa4dc69dbfa9c03213b10dafa9 )
+	rom ( name HOFCH_1.PAK size 1990361 crc 320aa864 md5 b2920659be0101e73239cfdf370bdd42 )
+	rom ( name HOFCH_2.PAK size 834187 crc 0846a53f md5 2e76e5bf1fb6cf1e01441b7a19914e0d )
+	rom ( name HOFCH_3.PAK size 1999386 crc 9e121914 md5 86f0ee421ce271301ff994f2b8b424e8 )
+	rom ( name HOFCH_4.PAK size 2174968 crc 10f40a33 md5 0acc0edeb983f0910adf213a6d888835 )
+	rom ( name HOFCH_5.PAK size 4243291 crc 8ae14d1b md5 f33a14989f7c5d6f65cc7d8f8541a403 )
+	rom ( name INTROGEN.PAK size 1550605 crc 283b4fce md5 6549c413427b064807510301470f80cd )
+	rom ( name INTROVOC.PAK size 344110 crc 0e5f7768 md5 780a087085adab3445053e8c2cffc265 )
+	rom ( name MISC_CPS.PAK size 121098 crc 499adb9b md5 8a2c32797df31745385b52c3d1228391 )
+	rom ( name MISC_EMC.PAK size 44749 crc 09e7aa1e md5 55c5e1db79e64c45e3ec3353c0566161 )
+	rom ( name OTHER.PAK size 350520 crc f474f359 md5 d4bbfe1fed69031a0bbb5cdc72cda131 )
+	rom ( name VOC.PAK size 1680799 crc d7a67620 md5 3c459e86ce57931860cec3f780bfa77b )
+	rom ( name WSCORE.PAK size 90990 crc a7d6cfff md5 c44de1302b67f27d4707409987b7a685 )
+)
+
+game (
+	name kyra2-cd-pc98-jp
+	description "Legend of Kyrandia, The: The Hand of Fate (CD/PC98/Japanese)"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	cloneof kyra2-cd-pc98
+	romof kyra2-cd-pc98
+	rom ( name cdpc98jp.rom size 16 crc cf79a64c md5 9dd8328243a48b500983ad21390e1479 )
+)
+
+game (
+	name kyra2-cd-ru
+	description "Legend of Kyrandia, The: The Hand of Fate (CD/DOS/Russian)"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	rom ( name 8FAT.FNT size 10770 crc 67c7ced1 md5 0a41dc8f007cf9f713a0d67f88a7604d )
+	rom ( name _EBOOKA.CPS size 24880 crc 83a14e58 md5 c6153125c25a9caa7cc486ae18e668be )
+	rom ( name _EBOOKB.CPS size 21991 crc 4a1fd332 md5 0f1ab57e7bcec2188f6fbba91ae18feb )
+	rom ( name _EBOOKC.CPS size 21097 crc f7566554 md5 6565456cd9c89a139ef08c79863a0233 )
+	rom ( name _EBOOKD.CPS size 21184 crc 7aa26901 md5 dc88c375e56bda71b7717538770c71c5 )
+	rom ( name _MNWHILE.CPS size 20042 crc f09db807 md5 3ad56b653108dffad6254fbf234c08c8 )
+	rom ( name _NPC.EMC size 11776 crc a715431f md5 c3f12a7846c6f9bef2520b4fa4272f36 )
+	rom ( name _PLAYALL.CPS size 5699 crc 492050c9 md5 1a24a2fc746aa259c9af98f4c112a6f1 )
+	rom ( name ALLEY.EMC size 7656 crc 51e63df9 md5 ca41629ca4e37d65233bd8f542692fd4 )
+	rom ( name ALLEY.PAK size 200696 crc 2083409b md5 fe35f12bac8257ffefec7297f32b84ed )
+	rom ( name ALTAR.EMC size 2608 crc c5142879 md5 9ee2332826edfd53097adfdce34b9dc7 )
+	rom ( name ALTAR.PAK size 101359 crc 9787370c md5 22fe78a241bc6a0fe700d351087c79ba )
+	rom ( name ANCHOR.EMC size 4652 crc 4eb82023 md5 6110d171428afcf6c5abd4bed23c623d )
+	rom ( name ANCHOR.PAK size 111900 crc 09b7c5d4 md5 dbfd49334dd09f4b6cf99c9b19d86477 )
+	rom ( name ANYTALK.TLK size 12193192 crc dd77fe10 md5 2110f34b525553fae5db60794f00e031 )
+	rom ( name AUDIO.PAK size 729012 crc b61d40a0 md5 9a7d485c9327f838d86414a21d9d64c2 )
+	rom ( name BOOKFONT.FNT size 9310 crc 9332c02a md5 b4cda480275f42461ec09a584b659388 )
+	rom ( name BRIDGE.EMC size 6354 crc 53b0f8a5 md5 b2e8af1e4efce9ca0154219e5c0cc733 )
+	rom ( name BRIDGE.PAK size 208175 crc 7a256142 md5 86d819be974681b4471553ec7ea46d15 )
+	rom ( name C_CODE.ENG size 4872 crc 1c9c3d44 md5 b8d81a1d27d1937f2af82312e709acb3 )
+	rom ( name CAULDRON.PAK size 193566 crc a2c4d139 md5 9d36e829e47459adb704413d745e897b )
+	rom ( name CELLAR.EMC size 5496 crc fc306da8 md5 b8e31e1c9b7c240584cb1f4615f68b52 )
+	rom ( name CELLAR.PAK size 88912 crc 23412bb0 md5 10c19b7f1b9b2af02f6a187f94d42f3b )
+	rom ( name CH1.ENG size 904 crc d2618e0e md5 54934063fb7dd888174421354e5d4f9b )
+	rom ( name CH1VOC.TLK size 47343685 crc 093e5009 md5 0495fe15fb0e48e8050af116e792905b )
+	rom ( name CH2.ENG size 781 crc cb74fbcb md5 c5f1daae9ae65c27d5a2e6c179de5b5b )
+	rom ( name CH2VOC.TLK size 60999550 crc 68acb59b md5 6e37315a80e8936bd46ddc270b0d122b )
+	rom ( name CH4.ENG size 404 crc a104b670 md5 7ae174a831a637b383d6397f06806771 )
+	rom ( name CH4VOC.TLK size 29255997 crc c528a5b2 md5 ed77849d24468ea9ac8eee312bcad641 )
+	rom ( name CH5.ENG size 458 crc 27ab890b md5 6765d43b972b34e8ea7d14fc06e9dcc6 )
+	rom ( name CH5VOC.TLK size 34524782 crc a84af2ff md5 0e14b8c2a4ece6d895ac8eb394d7d74e )
+	rom ( name CLEARNG.EMC size 3744 crc 4802e910 md5 d14cffcb47efab30b1653dade74d8263 )
+	rom ( name CLEARNG.PAK size 102424 crc 751635db md5 aa511e5317d70589fe7d16620af3df9d )
+	rom ( name CLIFF.EMC size 2922 crc 92264a13 md5 2ed1523048c20bfadc971fb083a861d8 )
+	rom ( name CLIFF.PAK size 27754 crc 5cf7588f md5 7c93b223bbea7f289f245a06e1c36892 )
+	rom ( name CLOSE.EMC size 1972 crc 68b5d361 md5 b081cfa8ff858f9764337e238df3757c )
+	rom ( name CLOSE.PAK size 139109 crc 2eef6cc0 md5 6cee3b7a60fed0c43c9bb71951ab5381 )
+	rom ( name COST1_SH.PAK size 139712 crc cd889ddc md5 4e9135298b0f1b581f545c718da05e01 )
+	rom ( name COST2_SH.PAK size 102872 crc d9687773 md5 8c78362031280b8f224aab82d6ced316 )
+	rom ( name COST3_SH.PAK size 72631 crc f4fc5251 md5 7003c6341ea0480475270e39ca85787d )
+	rom ( name COST4_SH.PAK size 79916 crc 5535f5fb md5 5202a6c29947066b65f34b8b2e9a3c01 )
+	rom ( name COST5_SH.PAK size 79395 crc 95ea6799 md5 bb33ecc48dbf55cc5b0bead8af98fb3d )
+	rom ( name COST6_SH.PAK size 78907 crc c889a349 md5 2a2e762807ddb269ac5541c6ecec9297 )
+	rom ( name COST7_SH.PAK size 106423 crc cec7e382 md5 18fce3e09fc757e07e13cca2917e9927 )
+	rom ( name COST8_SH.PAK size 78046 crc 248279f5 md5 9632e0fb858bffcde14e9c8638e704be )
+	rom ( name COST9_SH.PAK size 63367 crc c742607e md5 5464abfa4dc69dbfa9c03213b10dafa9 )
+	rom ( name CRICKET.EMC size 5022 crc c1fe2d82 md5 e07c1f80041b52e2087a7ecce1c4db68 )
+	rom ( name CRICKET.PAK size 46877 crc f6b205c6 md5 88ad35c26bc938dd76dc0274689fbc13 )
+	rom ( name CROC.EMC size 5570 crc c33ea2c9 md5 17427a5b2b0062e62aaa8dfae92092f3 )
+	rom ( name CROC.PAK size 149494 crc 3b968ab3 md5 1cd1cf27ae1046576e516e564cb82f02 )
+	rom ( name DINOA.EMC size 4080 crc 0982fbf6 md5 6f3dd4d9849d6e40d50e46a682bb1535 )
+	rom ( name DINOA.PAK size 127577 crc 65d3f003 md5 a51c69cb0bfce1c65f11776cd25b815a )
+	rom ( name DINOB.EMC size 5580 crc 4d7ac603 md5 d77be5311925cde7d6d910082fe89a5d )
+	rom ( name DINOB.PAK size 310923 crc e0d03986 md5 6d2697c93272f6ff7112148345109045 )
+	rom ( name DINOC.EMC size 5098 crc 21595584 md5 ede4a5bdcadc127af5b9d8893b073dc4 )
+	rom ( name DINOC.PAK size 248939 crc 15ed92fb md5 ddfdda9246cbf2088b63e15bd6e6a66a )
+	rom ( name DINOD.EMC size 7000 crc c66e802b md5 8f32186ded7b2d4d842b6b3c1cfd6023 )
+	rom ( name DINOD.PAK size 265060 crc c76d87fe md5 0526afd696424907cc8a5257050a0c66 )
+	rom ( name DOCK.EMC size 3762 crc 860c7386 md5 be49bae0c7ccc49cf71907dae999280e )
+	rom ( name DOCK.PAK size 130294 crc 469deb39 md5 63d80bd22e9fd0d9108a4f5065218e3f )
+	rom ( name DOOR.EMC size 3596 crc 0601e480 md5 653c5693453bafe8f03ca5a08dc6072c )
+	rom ( name DOOR.PAK size 81587 crc 1402f4fc md5 41331e4015172d97773200ca82997806 )
+	rom ( name DRIVERS.PAK size 149190 crc fa0a1acc md5 82d516f2248a52c2d3deb8ee1a0aae33 )
+	rom ( name FALL.EMC size 1410 crc a67889bc md5 e2d9d09fae9a4786cb483be5d5055833 )
+	rom ( name FALL.PAK size 64633 crc caa77f7b md5 0226654b22d9bc6e9b68340068e52f6a )
+	rom ( name FATE.EMC size 3024 crc d08c9e7e md5 eb84069f720ac31db1763f996f43564d )
+	rom ( name FATE.PAK size 113449 crc 445c7939 md5 28cbad1c5bf06b2d3825ae57d760d032 )
+	rom ( name FERRY.CPS size 21709 crc 1e3fbdc7 md5 763e2103858347d4ffffc329910d323f )
+	rom ( name FERRY.EMC size 3310 crc 3d87d989 md5 fb0db1e1607f23fcd24ff0fb349ccf3c )
+	rom ( name FERRY.PAK size 52516 crc f3625a4c md5 4126e7ff1e624bef6de1088f635b3e67 )
+	rom ( name FIGHT.EMC size 2578 crc 2df7674d md5 8a2a01826018ed91a771aca023cfe0ef )
+	rom ( name FIGHT.PAK size 187696 crc b016e77a md5 b1f2d871ac86da6d04dac7bfedba4431 )
+	rom ( name FILEDATA.FDT size 59514 crc a78fb6ce md5 b75776df2d94fb2a5bd16bdd809d9b9f )
+	rom ( name FISHER.EMC size 4854 crc e0e785d8 md5 1ea5026d89c9a8bbff0742a6c12a68f5 )
+	rom ( name FISHER.PAK size 186460 crc 335b1f44 md5 50bb11ca510d270bb947447f76b7d1b3 )
+	rom ( name FLOAT.EMC size 1712 crc e1919e7b md5 bb9da2dcd1ce70af5ba19c9d51a4da7e )
+	rom ( name FLOAT.PAK size 39327 crc 2d370254 md5 6c7ca8e737cd24421b36b4a82e515cd5 )
+	rom ( name FLYTRAP.EMC size 6088 crc e029bb5a md5 e0a28f47aea9e8e9561a9861844289dd )
+	rom ( name FLYTRAP.PAK size 118759 crc 112c4b8e md5 31a4a66af4621d00941ec5af9f31c0de )
+	rom ( name FOOT.EMC size 6852 crc 7bfe89cf md5 f045d398358144e824da66a31232a648 )
+	rom ( name FOOT.PAK size 168512 crc 6d70fc03 md5 7487df4deea4db63fd1451cad4c5dab3 )
+	rom ( name GARDEN.EMC size 4806 crc 34e3c458 md5 7bc3e87305b59e2679f8d97f82a21317 )
+	rom ( name GARDEN.PAK size 80094 crc 9640a292 md5 cec8fb1181c38f4d0dc803001e31af05 )
+	rom ( name GEARS.EMC size 8190 crc 309ab778 md5 d4c5944b3b7f0de743170baf7fd7cd41 )
+	rom ( name GEARS.PAK size 211331 crc 74fd097e md5 3f8c4b775b812a58f5b96e8ddc5a21d2 )
+	rom ( name GEARS2.PAK size 285269 crc e08ff104 md5 48fbd5a737644d3ca908257e1949fe87 )
+	rom ( name GEARS3.PAK size 469084 crc 9abe833a md5 881ba205cee9a42002912f4d775caaae )
+	rom ( name GNARL.EMC size 4030 crc 636a566f md5 44b4ab65c6b2702e848117c17574c3c7 )
+	rom ( name GNARL.PAK size 59585 crc fb7af10c md5 a1e2a8ad71a0eed946e772bb7cf9a183 )
+	rom ( name GOLDFONT.FNT size 10770 crc 67c7ced1 md5 0a41dc8f007cf9f713a0d67f88a7604d )
+	rom ( name HANOI.EMC size 5330 crc 8e842a1f md5 4e0b7f6d64a3449f8b5ad87b0e4b5fbf )
+	rom ( name HANOI.PAK size 72081 crc 3e7635e4 md5 624184c9ef1911f0ad3a7d65d6985513 )
+	rom ( name HOLE.EMC size 5674 crc 7cf98873 md5 340d8cdc52291e9bf6b249a7f0397d7b )
+	rom ( name HOLE.PAK size 103695 crc 1a39bb3c md5 dc267c5cbdf704fdc8b1ba65a0e2b83d )
+	rom ( name INCAVE.EMC size 7350 crc 3feb1a29 md5 47433fa3dff95152bb812236d62fd1f6 )
+	rom ( name INCAVE.PAK size 249588 crc 4b9a5ea3 md5 31780e3ac68aeccfe588fed0ffb149ca )
+	rom ( name INGATE.EMC size 4146 crc a55032d7 md5 6c0d6d5742aa8515f514b3656ad6f3b8 )
+	rom ( name INGATE.PAK size 74567 crc 8b95ab5c md5 2fe67178df0cdf6edbdeea9e03ed4604 )
+	rom ( name INHERB.EMC size 5664 crc e2f0b659 md5 5d88cf5b1692f9d279da1ccf5a7cf122 )
+	rom ( name INHERB.PAK size 82104 crc 2caa4a5e md5 d5bac84641d85fae4df33170e298b4bb )
+	rom ( name INHOME.EMC size 7438 crc df3eff02 md5 767e1009410a06dcf4e1475df0c38a91 )
+	rom ( name INHOME.PAK size 83413 crc a06d17fc md5 0a740ad909e8ee5a022753bd7a73676c )
+	rom ( name INJAIL.EMC size 7774 crc c4ccf925 md5 a66746b07d1520e0ed114ecdf5eb9e43 )
+	rom ( name INJAIL.PAK size 288748 crc 47726f28 md5 69a275156dc54525306fef6461c98c6a )
+	rom ( name INJAIL2.PAK size 158953 crc c3b5af18 md5 d2697d528e8b7be140ce1f6c91bd851e )
+	rom ( name INSHOP.EMC size 6616 crc d80ab381 md5 302afb75107ccad932e29dd0ad0b5fa3 )
+	rom ( name INSHOP.PAK size 220866 crc d03cadae md5 a90fd9819bdf71c2213579223c3254aa )
+	rom ( name INSTORE.EMC size 4960 crc 55f65b88 md5 02dd0908525f93aa1fb8339bf20c08df )
+	rom ( name INSTORE.PAK size 52641 crc d430b559 md5 e3f0ad3aac67dfca0f2ee124f0483a37 )
+	rom ( name INTRODRV.PAK size 154328 crc 268dfd30 md5 b3f0caaa3dfd7fcae0657873c401d981 )
+	rom ( name INTROGEN.PAK size 1467541 crc 7408b10a md5 6651f7ac307f689205c740387c2cffb6 )
+	rom ( name INTROTLK.PAK size 1030584 crc 0c474c4c md5 919e7e09526d5b0a7d292df699a4e4a7 )
+	rom ( name INTROVOC.PAK size 409039 crc 3f0aa299 md5 4e3ee686bd6e22a8dd53e5df02a40241 )
+	rom ( name ISLE.EMC size 3348 crc fc4a9f22 md5 ae2055d2128a8833ac39a12a5bef7d17 )
+	rom ( name ISLE.PAK size 69068 crc 4b48fce8 md5 9d6604341f298e625452974d8b2b371f )
+	rom ( name JUNGLE.EMC size 3562 crc 343421b9 md5 3280c4982333c8ce92d3a78fe564e6e0 )
+	rom ( name JUNGLE.PAK size 115532 crc 4f0de72b md5 5e59168daef773179befebedee5faf48 )
+	rom ( name MARKHME.EMC size 2642 crc d2fdd45c md5 2313d1c1df41f35ebba657ff8300bae0 )
+	rom ( name MARKHME.PAK size 33386 crc ec49a42d md5 87637d426ca75d4b8a83da277e63d912 )
+	rom ( name MEADOW.EMC size 9624 crc dac1a71e md5 9eb9a0e96b7b8230b6dd365f6f08d3d6 )
+	rom ( name MEADOW.PAK size 250660 crc 99805d6c md5 3abdb1c78b60c7ae575f0c9b382bac83 )
+	rom ( name MISC_CPS.PAK size 301253 crc 7d8430fc md5 be0d0126dc1fd374837dc8b56fc2f24b )
+	rom ( name MISC_EMC.PAK size 58352 crc 0836422c md5 7307968a964ff12ab8613eb9f8020a96 )
+	rom ( name MYSTRM.EMC size 9280 crc 0ab0b9d6 md5 233fc9f612156350f6cf78affc3e5323 )
+	rom ( name MYSTRM.PAK size 242552 crc 4f835faf md5 ef5129c682dc40a43aabdbcb292de7d9 )
+	rom ( name NEST.EMC size 3340 crc 6d1e4e39 md5 3e6caa27266e14cadabaf4318f1f087b )
+	rom ( name NEST.PAK size 54085 crc de477844 md5 5e40ac3ec9e89f9f910d0a8ff3f26bba )
+	rom ( name ONBOAT.EMC size 6648 crc 32859c88 md5 f48ad2371564e4cda7c5b1afb6edb0b5 )
+	rom ( name ONBOAT.PAK size 247707 crc 3d7d3fd0 md5 6d690b6c64c9ead941d7b1225ab2b13c )
+	rom ( name OPTIONS.ENG size 1746 crc d9338a8c md5 261df9bbaaad6fd78fc957565ee595b7 )
+	rom ( name OTHER.PAK size 498118 crc d6cd3f6d md5 bddd0c243e927fe87ca44f0594b58ebe )
+	rom ( name OUTCAVE.EMC size 7494 crc 5c88086e md5 99663eae4ca4a5f91766fd2f3801ab9c )
+	rom ( name OUTCAVE.PAK size 162488 crc 1e601131 md5 ee1fa4cd0f28bbf8aeeac27f75238300 )
+	rom ( name OUTCAVE2.PAK size 330844 crc 3c04a939 md5 174787910f3a5802230674da1c56086f )
+	rom ( name OUTFARM.EMC size 7980 crc 3d361c3a md5 36412eab51c3e7d294a562e4540a9ab0 )
+	rom ( name OUTFARM.PAK size 176842 crc 018b7d37 md5 ab0b6b58bba5020d97c42977d4c245ff )
+	rom ( name OUTGATE.EMC size 4438 crc bf207cae md5 d21c81cd614a3d07c661cdaded1a1fd4 )
+	rom ( name OUTGATE.PAK size 99006 crc 5752fded md5 253b73ed3e7b05fad3b1a8ec246e0948 )
+	rom ( name OUTHERB.EMC size 4104 crc e779fcef md5 8600914d81a9f715c4f123a467adba00 )
+	rom ( name OUTHERB.PAK size 40754 crc 6c7747c5 md5 be8368ff52f9fcb568ee881ec1d41e8b )
+	rom ( name OUTHOME.EMC size 3972 crc f2d2a753 md5 c39e7c029e7d46f7967734bc07732f52 )
+	rom ( name OUTHOME.PAK size 123688 crc df770f92 md5 950c69240d559f06b3771d7a12d61cd2 )
+	rom ( name PAGE0.ENG size 142 crc 5efbfbf4 md5 3e07333429e7f0759cb8569878084837 )
+	rom ( name PAGE1.ENG size 214 crc de836374 md5 6f6e6c3627cc4e31b8cd44666a502d77 )
+	rom ( name PAGE2.ENG size 209 crc 65c20a98 md5 e227884895c0a8513cb1de172330251a )
+	rom ( name PAGE3.ENG size 268 crc 5afdf574 md5 1d1d621b3c356de0ebc51ab61076c27e )
+	rom ( name PAGE4.ENG size 232 crc 24aef0c7 md5 ccab43271e7da2dc228cd167dbb9dcee )
+	rom ( name PAGE5.ENG size 211 crc 5b3701b7 md5 f6158b27cc7e11916262dfc9d81781ec )
+	rom ( name PAGE6.ENG size 278 crc d5d51c14 md5 c8fbc6c048ffd6563067396f06cbf927 )
+	rom ( name PAGE7.ENG size 223 crc c5221b92 md5 b965f52fe3e4e861b467a2cbfd47c0b0 )
+	rom ( name PAGE8.ENG size 239 crc 0621889e md5 dd6b0aca9a8eb9d81eabaf6381d377d4 )
+	rom ( name PAGE9.ENG size 252 crc cb6d6cfd md5 326e0f37ec7aeefed516cc8f4446b2e5 )
+	rom ( name PAGEA.ENG size 234 crc 15711de7 md5 b58f1da8ba50ca756ac4640bfb126155 )
+	rom ( name PHONE_A.EMC size 2690 crc 5973d4c8 md5 b52620dbcb827393a260d5c75aff2b8d )
+	rom ( name PHONE_A.PAK size 36276 crc 4b366e38 md5 5f29117667227da8ef5718982e83babe )
+	rom ( name PHONE_B.EMC size 3240 crc d86a7a3d md5 038167979034d1876d7448499a261922 )
+	rom ( name PHONE_B.PAK size 33174 crc df9da924 md5 ddae7e375c776ebe6d66c7d5ae4b0d4f )
+	rom ( name PHONE_C.EMC size 2380 crc 0091e6b1 md5 f6e847103d8417fe1ed66bc94cf533c1 )
+	rom ( name PHONE_C.PAK size 32328 crc 14af9f0a md5 0a60f509c5bf130ba97327939817f3b3 )
+	rom ( name PHONE_D.EMC size 2270 crc 1584b052 md5 be2d25c2f24f1d843d444492fbc674e0 )
+	rom ( name PHONE_D.PAK size 63245 crc 0a7fdc9c md5 203256e5989e73b587136c2100672e04 )
+	rom ( name QUICK.EMC size 3304 crc 920723c5 md5 7a6c67d03706f652700c38f0770755a2 )
+	rom ( name QUICK.PAK size 161018 crc 8bba1540 md5 dc2152f6a16a7167e76d7fa83faf1f3a )
+	rom ( name RAINA.EMC size 3362 crc a7f2fea3 md5 be385f1ce5f7653bfbcaec5cb75f490e )
+	rom ( name RAINA.PAK size 169039 crc 07c6a6e3 md5 2c5483e5118692c3517db7f506003f4a )
+	rom ( name RAINB.EMC size 1914 crc 8478954e md5 b0912e62bbed6cb9d71cbafbc3dc76eb )
+	rom ( name RAINB.PAK size 22750 crc 96946150 md5 80964dd4d0b0f26a8e2cd6e9808eae6d )
+	rom ( name RAT.EMC size 4624 crc 7b98a1aa md5 ca1cc98d38fcc5e874cbba7d102010a7 )
+	rom ( name RAT.PAK size 125146 crc b9a80695 md5 849a8b8b1d3a3aa312d8d25f630c8cfa )
+	rom ( name ROAD.EMC size 1950 crc 535f6189 md5 f6fa607e5d163651635104468b3f3c9e )
+	rom ( name ROAD.PAK size 22727 crc b6060050 md5 22977267ba3ff9b381cbc802bdb2ec09 )
+	rom ( name ROPE.EMC size 2970 crc 6e6a56df md5 cd67a5d5d5433cf22e18c088faa9e828 )
+	rom ( name ROPE.PAK size 207272 crc 59c4cae7 md5 23b7ec87d3491949d54bbddf1d3ca05d )
+	rom ( name SCORCH.EMC size 4050 crc 3b00d517 md5 fd01f753bf7560bcc3e40f00390cd735 )
+	rom ( name SCORCH.PAK size 217996 crc aeb99e08 md5 89869a06d10534b29be91c3c5c122c0e )
+	rom ( name SKULL.EMC size 4700 crc 228a492b md5 956864919c3388364eca029f75544bc7 )
+	rom ( name SKULL.PAK size 73612 crc 85c28d90 md5 185730e2e5a9d8ce2acf44860687c476 )
+	rom ( name SKY.EMC size 3238 crc 79175b4d md5 a43db023ce8b08b454a89f6277b3c475 )
+	rom ( name SKY.PAK size 163425 crc a3a0cb71 md5 f4660d141501d95376c4d3dfacfa2905 )
+	rom ( name STATION.EMC size 6616 crc c7144434 md5 d9de0a368b92f2ae68c1cf8d91a1b429 )
+	rom ( name STATION.PAK size 87145 crc 578c6b39 md5 b4c70d6be3becea0a2f9692a4a6cd5db )
+	rom ( name STREET.EMC size 5232 crc 83ce8925 md5 72c7a7d854e46ede654196b368c3a718 )
+	rom ( name STREET.PAK size 44784 crc e8b3c561 md5 fba3ba740d52cf8452c8a77d27f4008d )
+	rom ( name SULFUR.EMC size 3002 crc 236e8808 md5 73d02122925c4843ebfacae1a93ed05b )
+	rom ( name SULFUR.PAK size 77112 crc 6da2336c md5 ef241488e5e2ec162318e58251b5b034 )
+	rom ( name TALKENG.PAK size 771890 crc 05260833 md5 0e0095b223078e1f372179b185704fdb )
+	rom ( name TALKFRE.PAK size 360225 crc 714a2f98 md5 2e2c595bf4b79e20649ead41406306b6 )
+	rom ( name TALKGER.PAK size 480856 crc e046d8cf md5 e4c3f8696a6e7672bebc4c3fc3730359 )
+	rom ( name TAVERN.EMC size 11460 crc c1b6214b md5 ae92c8a2e1561b0a468d642b241dc45f )
+	rom ( name TAVERN.PAK size 262899 crc df85bbd0 md5 c4c9e95183a1e63673c96bfa4897b13d )
+	rom ( name TIMBER.EMC size 2630 crc 53f42873 md5 2fa85535792f865f43c1fbff8e3d80e5 )
+	rom ( name TIMBER.PAK size 33425 crc 85a5c581 md5 af839beee0538df6fcc9da6d220b05ee )
+	rom ( name TRAM.EMC size 5804 crc 60ab4cd8 md5 41b00501c5883ea0caa556754e18f531 )
+	rom ( name TRAM.PAK size 321225 crc 5c253dd7 md5 52ac55ca49522bd4c8d59fe680398a25 )
+	rom ( name TREE.EMC size 6388 crc ca1929a7 md5 60189ccc0c0579b6b8ca3dbd4d55f1f7 )
+	rom ( name TREE.PAK size 106831 crc dc19ae29 md5 ef0cc1f74299758dd7bb4a607caf1e5e )
+	rom ( name TREE2.PAK size 289002 crc 08430b05 md5 6ce772f0ba50632e508a42fc086bc674 )
+	rom ( name VOC.PAK size 1958925 crc 8320fe04 md5 4e3197fe772fad431069463b090e6f88 )
+	rom ( name VOLC_A.EMC size 5448 crc de42fa91 md5 2c0432d5a9fe00ce0789c0df711a53fd )
+	rom ( name VOLC_A.PAK size 140864 crc 6f72da00 md5 e7a2cef9558b5d244b1c1a400a108fd9 )
+	rom ( name VOLC_B.EMC size 3348 crc f031a4ca md5 221ad64b0444dc1ac0f6b601f364eb71 )
+	rom ( name VOLC_B.PAK size 36542 crc f45eb3d8 md5 ec76227305149e0135db7120320d33a4 )
+	rom ( name VOLC_C.EMC size 5902 crc 56b2c97e md5 712462251544e50902d4ae7b057745db )
+	rom ( name VOLC_C.PAK size 48300 crc 5418d9a9 md5 644ff92ff5c29049f2223b0a040a6ec5 )
+	rom ( name VOLC_D.EMC size 9022 crc e5a1918b md5 f34e10fc2dc4a0bda6f766b4ece90afd )
+	rom ( name VOLC_D.PAK size 146037 crc ce9968a8 md5 d5933e178186959374efa9b25225ba84 )
+	rom ( name VOLC_E.EMC size 3498 crc cc8fa25d md5 3c1b6237f7c00423d092c2408dcfc01f )
+	rom ( name VOLC_E.PAK size 46567 crc 67476dea md5 0576dc120d562c4cc4bd644a4bf02c1e )
+	rom ( name VOLC_F.EMC size 3730 crc 59df9e84 md5 dc7f5775c0cdc622fe41a7adc0fb899d )
+	rom ( name VOLC_F.PAK size 40934 crc 9e6312ce md5 8043a10ca2bd28d7ff4b57ea7ae38249 )
+	rom ( name VOLC_G.EMC size 5618 crc e1a47ddd md5 77ebc8dcaf8b171391a2b12cfc488eef )
+	rom ( name VOLC_G.PAK size 36382 crc f0459084 md5 1f0741e975c682286f4cfab19f8f3bef )
+	rom ( name VOLC_H.EMC size 3078 crc 699f8e42 md5 3e59eeb776131675178436e7be15ae85 )
+	rom ( name VOLC_H.PAK size 26864 crc 03cbd152 md5 348a0b77d1ccf93229f186e93a354ee4 )
+	rom ( name VOLC_I.EMC size 3218 crc e88d1d2a md5 1a42c7844368530a66311afd9d3924ee )
+	rom ( name VOLC_I.PAK size 27539 crc 7566c3ba md5 56e9b3e24d2350f8786ae2f94d6bfe98 )
+	rom ( name VOLC_J.EMC size 8132 crc 3ca5e196 md5 129953d8661cce8591bcd8aa1288641c )
+	rom ( name VOLC_J.PAK size 137280 crc e1d540ad md5 1c035ff5266439df6f7d505a65817908 )
+	rom ( name VOLC_K.EMC size 6262 crc 8147c2ce md5 a237ff29a563ab9c900b34f4e95faa40 )
+	rom ( name VOLC_K.PAK size 39493 crc b22cbaa7 md5 8e4c9db01dac77f20f7a1d52b21aa86d )
+	rom ( name VOLC_L.EMC size 2856 crc 6c0c4009 md5 4cfb74419ae86162456511ea6cc288ac )
+	rom ( name VOLC_L.PAK size 28273 crc 199e187e md5 2622a8b6b6ee6d9760dfa92bb6da6fef )
+	rom ( name VOLC_M.EMC size 6152 crc 336825de md5 53e5a2a36ef37db69f618cf0a6f9d5bb )
+	rom ( name VOLC_M.PAK size 49965 crc bc19e3f1 md5 dd91086c273a894511cc5604072c0d61 )
+	rom ( name VOLC_N.EMC size 4032 crc 8ba725e5 md5 8f90ec3c0771774371ffcbf1bef73e76 )
+	rom ( name VOLC_N.PAK size 127347 crc ccedb2c4 md5 f00e32af3be07bb46ba698e8ca122f38 )
+	rom ( name VOLC_O.EMC size 7342 crc e8b52026 md5 df920a38cc88ac4ed78b6395295f3f55 )
+	rom ( name VOLC_O.PAK size 69333 crc 46a97eb6 md5 53de7a1bd36d5e06c09830f425b962e1 )
+	rom ( name VOLC_P.EMC size 3366 crc a4e094de md5 69f73a2bfcfbefd652cb1014bb997e31 )
+	rom ( name VOLC_P.PAK size 33253 crc 461d6500 md5 77b93199f3f03d57a0ea89ad5dc22d8d )
+	rom ( name VOLCANO.EMC size 1752 crc 4b40d321 md5 0046be4ea97c63e744df60a566679405 )
+	rom ( name VOLCANO.PAK size 106375 crc 47135143 md5 f76c62f20c2092b838411c17aa4063e7 )
+	rom ( name WHARF.EMC size 4100 crc 29e58601 md5 5525bf7341acd2476a4e0e2c92172e7c )
+	rom ( name WHARF.PAK size 178065 crc e21e988f md5 dcf97a80b5fd0dd3347bf5df9b325107 )
+	rom ( name WHEEL.EMC size 6360 crc ad4fa890 md5 391ff270729e41e70c8479f8a6614e67 )
+	rom ( name WHEEL.PAK size 117167 crc 6460f289 md5 c15bc167621cbadfa921ad2e87ab286a )
 )
 
 game (
@@ -3243,7 +3924,7 @@ game (
 
 game (
 	name kyra2-de-1
-	description "Legend of Kyrandia, The: The Hand of Fate (Extracted/DOS/German)"
+	description "Legend of Kyrandia, The: The Hand of Fate (DOS/German/Extracted)"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3361,7 +4042,7 @@ game (
 
 game (
 	name kyra2-demo
-	description "Legend of Kyrandia, The: The Hand of Fate (Demo/DOS)[non-interactive]"
+	description "Legend of Kyrandia, The: The Hand of Fate {Demo}(DOS)[Non-Interactive]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3371,7 +4052,7 @@ game (
 
 game (
 	name kyra2-demo-1
-	description "Legend of Kyrandia, The: The Hand of Fate (Demo/DOS)[non-Interactive][a]"
+	description "Legend of Kyrandia, The: The Hand of Fate {Demo}(DOS)[Non-Interactive][a]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3381,7 +4062,7 @@ game (
 
 game (
 	name kyra2-demo-cd
-	description "Legend of Kyrandia, The: The Hand of Fate (CD Demo/DOS)[!]"
+	description "Legend of Kyrandia, The: The Hand of Fate {Demo}(CD/DOS)[!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3429,7 +4110,7 @@ game (
 
 game (
 	name kyra2-demo-cd-de
-	description "Legend of Kyrandia, The: The Hand of Fate (CD Demo/DOS/German)[!]"
+	description "Legend of Kyrandia, The: The Hand of Fate {Demo}(CD/DOS/German)[!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3441,7 +4122,7 @@ game (
 
 game (
 	name kyra2-demo-cd-fr
-	description "Legend of Kyrandia, The: The Hand of Fate (CD Demo/DOS/French)[!]"
+	description "Legend of Kyrandia, The: The Hand of Fate {Demo}(CD/DOS/French)[!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3453,7 +4134,7 @@ game (
 
 game (
 	name kyra2-fr
-	description "Legend of Kyrandia, The: The Hand of Fate (Extracted/DOS/French)"
+	description "Legend of Kyrandia, The: The Hand of Fate (DOS/French/Extracted)"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3571,7 +4252,7 @@ game (
 
 game (
 	name kyra2-it
-	description "Legend of Kyrandia, The: The Hand of Fate (Extracted/DOS/Italian)"
+	description "Legend of Kyrandia, The: The Hand of Fate (DOS/Italian/Extracted)"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3691,7 +4372,7 @@ game (
 
 game (
 	name kyra2-ru
-	description "Legend of Kyrandia: The Hand of Fate, The (Extracted/DOS/Russian)"
+	description "Legend of Kyrandia, The: The Hand of Fate (DOS/Russian/Extracted)"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -3964,7 +4645,7 @@ game (
 
 game (
 	name kyra2-ru-1
-	description "Legend of Kyrandia: The Hand of Fate, The (Extracted/DOS/Russian)[a]"
+	description "Legend of Kyrandia, The: The Hand of Fate (DOS/Russian/Extracted)[a]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -4249,7 +4930,7 @@ game (
 
 game (
 	name kyra3
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/Non Istalled)[!]"
+	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS)[!]"
 	year 1994
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -4370,7 +5051,7 @@ game (
 
 game (
 	name kyra3-de
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/Non Installed/German)[!]"
+	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/German)[!]"
 	year 1994
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -4381,7 +5062,7 @@ game (
 
 game (
 	name kyra3-fr
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/Non Installed/French)[!]"
+	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/French)[!]"
 	year 1994
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -4392,7 +5073,7 @@ game (
 
 game (
 	name kyra3-1
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/Installed)[!]"
+	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS)[Installed][!]"
 	year 1994
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -4530,7 +5211,7 @@ game (
 
 game (
 	name kyra3-de-1
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/Installed/German)[!]"
+	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/German)[Installed][!]"
 	year 1994
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -4541,7 +5222,7 @@ game (
 
 game (
 	name kyra3-fr-1
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/Installed/French)[!]"
+	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/French)[Installed][!]"
 	year 1994
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -4689,28 +5370,6 @@ game (
 )
 
 game (
-	name kyra3-de-3
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/German (in Spanish CD))"
-	year 1994
-	manufacturer "Westwood Studios"
-	sourcefile kyra
-	cloneof kyra3-es
-	romof kyra3-es
-	rom ( name GERMAN.ROM size 94 crc bd949a0c md5 82942294e7a69a9ebc2b011a8ae0d440 )
-)
-
-game (
-	name kyra3-fr-2
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/French (in Spanish CD))"
-	year 1994
-	manufacturer "Westwood Studios"
-	sourcefile kyra
-	cloneof kyra3-es
-	romof kyra3-es
-	rom ( name FRENCH.ROM size 94 crc 56113bda md5 63d42d9f2f6d4a3e32d088e1e9b47cc7 )
-)
-
-game (
 	name kyra3-it
 	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/Italian)"
 	year 1994
@@ -4846,28 +5505,6 @@ game (
 	rom ( name XSTREET.PAK size 71833 crc f73c9417 md5 a9eaf89d3d6c32e4dcedc848c5035a6b )
 	rom ( name XSTUDIO.PAK size 965158 crc ea674e11 md5 49f7fad2b020f207fdde38663174d4c5 )
 	rom ( name XTOWN.PAK size 76102 crc 8fd5150d md5 33daf088193a3180e73675834b98dd34 )
-)
-
-game (
-	name kyra3-2
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/English (in Italian CD))"
-	year 1994
-	manufacturer "Westwood Studios"
-	sourcefile kyra
-	cloneof kyra3-it
-	romof kyra3-it
-	rom ( name ENGLISH.ROM size 94 crc 9aab4f9e md5 19ceca429363793ef94f87ebd2fbd001 )
-)
-
-game (
-	name kyra3-de-2
-	description "Legend of Kyrandia, The: Malcolm's Revenge (DOS/German (in Italian CD))"
-	year 1994
-	manufacturer "Westwood Studios"
-	sourcefile kyra
-	cloneof kyra3-it
-	romof kyra3-it
-	rom ( name GERMAN.ROM size 93 crc 45950818 md5 de84cf5d453f6d6266811ef423c3bc0b )
 )
 
 game (
@@ -5032,7 +5669,7 @@ game (
 
 game (
 	name lol
-	description "Lands of Lore: The Throne of Chaos (DOS)[v1.05]"
+	description "Lands of Lore: The Throne of Chaos (DOS)[US v1.05][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5048,7 +5685,7 @@ game (
 
 game (
 	name lol-1
-	description "Lands of Lore: The Throne of Chaos (Extracted/DOS)[v1.05]"
+	description "Lands of Lore: The Throne of Chaos (DOS/Extracted)[US v1.05][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5071,7 +5708,7 @@ game (
 
 game (
 	name lol-2
-	description "Lands of Lore: The Throne of Chaos (Extracted/DOS)[v1.23]"
+	description "Lands of Lore: The Throne of Chaos (DOS/Extracted)[US v1.23][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5151,6 +5788,37 @@ game (
 	rom ( name L28.PAK size 87467 crc 66b57b1b md5 bf292fda5163d0a1f9d87e8232e36a77 )
 	rom ( name L29.PAK size 280143 crc f8a7e8ed md5 991bcc5b1f8d88952a60659582afab33 )
 	rom ( name STARTUP.PAK size 167273 crc 65705b24 md5 fc8c8737a5a79a8ca895c9c5185a4a31 )
+)
+
+game (
+	name lol-cd-1
+	description "Lands of Lore: The Throne of Chaos (CD/DOS)[RU]"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	romof lolrures
+	rom ( name ENG\BLEND.TAB size 65536 crc 61e897b8 md5 a19778df81d895d2dc8fbd5bb29a5e5f )
+	rom ( name ENG\BLEND2.TAB size 65536 crc 16210f2d md5 7b48997a495f0165f9b76e0378c9f245 )
+	rom ( name ENG\DRIVERS.PAK size 44561 crc 9aa07486 md5 aac458d14adf1497932681a03e110437 )
+	rom ( name ENG\FINALE.EXE size 132328 crc 943cab12 md5 add42981e909fa809bd89d429a5b1c49 )
+	rom ( name ENG\FINALE.PAK size 687111 crc 4855b427 md5 792ff5dbc97a409ab9a7f4d2c1fd57bb )
+	rom ( name ENG\FINALE.TDS size 210583 crc 8a49feba md5 99c571fad684031d55a966c7d81e8d9f )
+	rom ( name ENG\FINALE1.PAK size 843801 crc 7f638f56 md5 3c1ad626fc4564ac75514f1e7294081f )
+	rom ( name ENG\FINALE2.PAK size 911195 crc ec37d296 md5 92d03baea6e6f9febb67bb3f3be3656c )
+	rom ( name ENG\GENERAL.PAK size 1225285 crc 1a853d8d md5 93b3aac5c94b075dc41d2d69e279af00 )
+	rom ( name ENG\HISTORY.PAK size 7777512 crc ec778184 md5 64e79b071a507fd96f74f20391eb3e00 )
+	rom ( name ENG\INTRO1.PAK size 15561 crc e162d6a0 md5 b6709f89ad1d45e5fabe47eef3487bd1 )
+	rom ( name ENG\INTRO2.PAK size 66538 crc 69ebc117 md5 0607faaef3f51f5bac660eb8a7cd0385 )
+	rom ( name ENG\INTRO3.PAK size 106749 crc 695217c4 md5 9ac35785870039929c44fa24b0a76be4 )
+	rom ( name ENG\INTRO4.PAK size 61255 crc 0a98a013 md5 249026a3587230da636fb86ffad13b5e )
+	rom ( name ENG\INTRO5.PAK size 129658 crc 7f5edc77 md5 e0ad13529d7636f3c82227a86616be44 )
+	rom ( name ENG\INTRO6.PAK size 61547 crc ba8833c2 md5 47eada3fce4e5eb0d4340de45c24fcdb )
+	rom ( name ENG\INTRO7.PAK size 123934 crc 71edeb08 md5 7100076b4fa7d33f9e4be49c11ea669d )
+	rom ( name ENG\INTRO8.PAK size 179365 crc 05bce5b1 md5 66edc357abab6f443cefd0f4cf56a6f0 )
+	rom ( name ENG\INTRO9.PAK size 132660 crc 9271d5f5 md5 bcb71f3b30e8e825c14b2d62c3d00d51 )
+	rom ( name ENG\INTROVOC.PAK size 6863477 crc 196df3b3 md5 6d8a45bdd565c4f57c997ce04c2d307b )
+	rom ( name ENG\LANDS.EXE size 357509 crc d38665f8 md5 9d1778314de80598c0b0d032e2a1a1cf )
+	rom ( name ENG\STARTUP.PAK size 104974 crc 5c209cdb md5 e32eb42dda11b5889a8ccab2d00d52a0 )
 )
 
 game (
@@ -5277,8 +5945,40 @@ game (
 )
 
 game (
+	name lol-cd-fr-1
+	description "Lands of Lore: The Throne of Chaos (CD/DOS/French)[RU]"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	romof lolrures
+	rom ( name FRE\BLEND.TAB size 65536 crc 61e897b8 md5 a19778df81d895d2dc8fbd5bb29a5e5f )
+	rom ( name FRE\BLEND2.TAB size 65536 crc 16210f2d md5 7b48997a495f0165f9b76e0378c9f245 )
+	rom ( name FRE\DRIVERS.PAK size 44561 crc 9aa07486 md5 aac458d14adf1497932681a03e110437 )
+	rom ( name FRE\FINALE.EXE size 134122 crc 82b5901d md5 b8b3a90f65286431cda757833f68be05 )
+	rom ( name FRE\FINALE.PAK size 687111 crc 4855b427 md5 792ff5dbc97a409ab9a7f4d2c1fd57bb )
+	rom ( name FRE\FINALE.TDS size 210724 crc bf263cd1 md5 8c6766d0b95e9b5e3394cb7164738ef4 )
+	rom ( name FRE\FINALE1.PAK size 843888 crc 9ec373a6 md5 ddfc12443906d41f7490e2667e26abcd )
+	rom ( name FRE\FINALE2.PAK size 911318 crc 54ed77f5 md5 1d4996ee90bc2ac004e3916051cb16a9 )
+	rom ( name FRE\GENERAL.PAK size 1225285 crc 1a853d8d md5 93b3aac5c94b075dc41d2d69e279af00 )
+	rom ( name FRE\HISTORY.PAK size 7777512 crc ec778184 md5 64e79b071a507fd96f74f20391eb3e00 )
+	rom ( name FRE\INTRO1.PAK size 15561 crc e162d6a0 md5 b6709f89ad1d45e5fabe47eef3487bd1 )
+	rom ( name FRE\INTRO2.PAK size 66538 crc 69ebc117 md5 0607faaef3f51f5bac660eb8a7cd0385 )
+	rom ( name FRE\INTRO3.PAK size 106749 crc 695217c4 md5 9ac35785870039929c44fa24b0a76be4 )
+	rom ( name FRE\INTRO4.PAK size 61255 crc 0a98a013 md5 249026a3587230da636fb86ffad13b5e )
+	rom ( name FRE\INTRO5.PAK size 129658 crc 7f5edc77 md5 e0ad13529d7636f3c82227a86616be44 )
+	rom ( name FRE\INTRO6.PAK size 61547 crc ba8833c2 md5 47eada3fce4e5eb0d4340de45c24fcdb )
+	rom ( name FRE\INTRO7.PAK size 123934 crc 71edeb08 md5 7100076b4fa7d33f9e4be49c11ea669d )
+	rom ( name FRE\INTRO8.PAK size 179365 crc 05bce5b1 md5 66edc357abab6f443cefd0f4cf56a6f0 )
+	rom ( name FRE\INTRO9.PAK size 132668 crc ad305d90 md5 275af824c177218f43799c00f4e44bee )
+	rom ( name FRE\INTROVOC.PAK size 6863477 crc 196df3b3 md5 6d8a45bdd565c4f57c997ce04c2d307b )
+	rom ( name FRE\LANDS.EXE size 359338 crc a330e8c2 md5 ea55de835809f97e3cf4011e7c542294 )
+	rom ( name FRE\STARTUP.PAK size 105227 crc de3045a7 md5 cb73ac220f131f33024e9f358802f3a9 )
+	rom ( name FRE\STATE.RST size 187 crc 71a575a4 md5 60bee879e7e1d6f2da3a0950551a7050 )
+)
+
+game (
 	name lol-cd-it
-	description "Lands of Lore: The Throne of Chaos (CD/DOS/Fanmade Italian)"
+	description "Lands of Lore: The Throne of Chaos (CD/DOS/Italian)"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5338,8 +6038,40 @@ game (
 )
 
 game (
+	name lol-cd-ru
+	description "Lands of Lore: The Throne of Chaos (CD/DOS/Russian)"
+	year 2004
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	romof lolrures
+	rom ( name GER\BLEND.TAB size 65536 crc 61e897b8 md5 a19778df81d895d2dc8fbd5bb29a5e5f )
+	rom ( name GER\BLEND2.TAB size 65536 crc 16210f2d md5 7b48997a495f0165f9b76e0378c9f245 )
+	rom ( name GER\DRIVERS.PAK size 44561 crc 9aa07486 md5 aac458d14adf1497932681a03e110437 )
+	rom ( name GER\FINALE.EXE size 134122 crc 82b5901d md5 b8b3a90f65286431cda757833f68be05 )
+	rom ( name GER\FINALE.PAK size 687111 crc 4855b427 md5 792ff5dbc97a409ab9a7f4d2c1fd57bb )
+	rom ( name GER\FINALE.TDS size 210724 crc 54d962ed md5 4097369aa113164f8c3141e906065d8a )
+	rom ( name GER\FINALE1.PAK size 843801 crc 7f638f56 md5 3c1ad626fc4564ac75514f1e7294081f )
+	rom ( name GER\FINALE2.PAK size 911198 crc 16b58f29 md5 a4531f336567a30c9901b4a1949b750d )
+	rom ( name GER\GENERAL.PAK size 1225378 crc 73a0679b md5 7ecc86f90e532967ecdf4dc9788b5391 )
+	rom ( name GER\HISTORY.PAK size 7777512 crc ec778184 md5 64e79b071a507fd96f74f20391eb3e00 )
+	rom ( name GER\INTRO1.PAK size 15561 crc e162d6a0 md5 b6709f89ad1d45e5fabe47eef3487bd1 )
+	rom ( name GER\INTRO2.PAK size 66538 crc 69ebc117 md5 0607faaef3f51f5bac660eb8a7cd0385 )
+	rom ( name GER\INTRO3.PAK size 106749 crc 695217c4 md5 9ac35785870039929c44fa24b0a76be4 )
+	rom ( name GER\INTRO4.PAK size 61255 crc 0a98a013 md5 249026a3587230da636fb86ffad13b5e )
+	rom ( name GER\INTRO5.PAK size 129658 crc 7f5edc77 md5 e0ad13529d7636f3c82227a86616be44 )
+	rom ( name GER\INTRO6.PAK size 61547 crc ba8833c2 md5 47eada3fce4e5eb0d4340de45c24fcdb )
+	rom ( name GER\INTRO7.PAK size 123934 crc 71edeb08 md5 7100076b4fa7d33f9e4be49c11ea669d )
+	rom ( name GER\INTRO8.PAK size 179365 crc 05bce5b1 md5 66edc357abab6f443cefd0f4cf56a6f0 )
+	rom ( name GER\INTRO9.PAK size 132660 crc 9271d5f5 md5 bcb71f3b30e8e825c14b2d62c3d00d51 )
+	rom ( name GER\INTROVOC.PAK size 6863477 crc 196df3b3 md5 6d8a45bdd565c4f57c997ce04c2d307b )
+	rom ( name GER\LANDS.EXE size 359338 crc 49d644c5 md5 c82a1ba3b7afd97fb4103bbb4f67676b )
+	rom ( name GER\STARTUP.PAK size 105710 crc fde6477c md5 54caf51d118ad81487f29a81b1c6a8dd )
+	rom ( name GER\STATE.RST size 187 crc 71a575a4 md5 60bee879e7e1d6f2da3a0950551a7050 )
+)
+
+game (
 	name lol-de
-	description "Lands of Lore: The Throne of Chaos (DOS/German)"
+	description "Lands of Lore: The Throne of Chaos (DOS/German)[v1.20a][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5355,7 +6087,7 @@ game (
 
 game (
 	name lol-de-1
-	description "Lands of Lore: The Throne of Chaos (Extracted/DOS/German)[v1.20a]"
+	description "Lands of Lore: The Throne of Chaos (DOS/German/Extracted)[v1.20a][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5378,7 +6110,7 @@ game (
 
 game (
 	name lol-demo
-	description "Lands of Lore: The Throne of Chaos (Demo/DOS)[a]"
+	description "Lands of Lore: The Throne of Chaos {Demo}(DOS)[a]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5388,7 +6120,7 @@ game (
 
 game (
 	name lol-demo-1
-	description "Lands of Lore: The Throne of Chaos (Demo/DOS)"
+	description "Lands of Lore: The Throne of Chaos {Demo}(DOS)"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5420,7 +6152,7 @@ game (
 
 game (
 	name lol-fr
-	description "Lands of Lore: The Throne of Chaos (Extracted/DOS/French)[v1.23]"
+	description "Lands of Lore: The Throne of Chaos (DOS/French/Extracted)[v1.23][!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5437,6 +6169,45 @@ game (
 	rom ( name FINALE2.PAK size 608044 crc 7206d6dd md5 6522d53a9aa8e3e8b4465e1aba3cd022 )
 	rom ( name GENERAL.PAK size 1395249 crc 381298c8 md5 dd01e41e123cd905180d0fd646923382 )
 	rom ( name INTRO.PAK size 941898 crc 3262aad4 md5 6fc916e9fb55b5699e6a94b36193dbc8 )
+	rom ( name INTROVOC.PAK size 1890471 crc 0cb51d58 md5 4fe102edb9345e60f77c93e274686d27 )
+	rom ( name VOC.PAK size 2276340 crc d953e9c3 md5 f2343997ea753e8ae638a7fde831ba30 )
+)
+
+game (
+	name lol-fr-1
+	description "Lands of Lore: The Throne of Chaos (DOS/French)[!]"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	rom ( name WESTWOOD.1 size 1353217 crc 2efc4f80 md5 b97d45fe830b3cf31e8203c6d6f2c5e5 )
+	rom ( name WESTWOOD.2 size 1457153 crc cc63193e md5 949282329d93d4533c9089914bece6a4 )
+	rom ( name WESTWOOD.3 size 1457153 crc affa04d4 md5 0371a4cc76e54e7407197cd3368c90bd )
+	rom ( name WESTWOOD.4 size 1457153 crc d3515469 md5 bdd0c21701b1f424ade6560464343603 )
+	rom ( name WESTWOOD.5 size 1457153 crc 0bec9c62 md5 fa9450ab338e79f5d3f44d02beb72c11 )
+	rom ( name WESTWOOD.6 size 1457153 crc a5f63b9b md5 5819595fa5061fc30f359be62c9811ec )
+	rom ( name WESTWOOD.7 size 1457153 crc 20b02d8d md5 100f2848f497e7052315122391b876ec )
+	rom ( name WESTWOOD.8 size 1456982 crc ef726589 md5 6b33c59976123d322251993da6d71eaf )
+)
+
+game (
+	name lol-fr-2
+	description "Lands of Lore: The Throne of Chaos (DOS/French/Extracted)[v1.20][!]"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	rom ( name CHAPTER1.PAK size 2290368 crc 8c0f72a9 md5 3bf0f601c7916aa72471de405730890a )
+	rom ( name CHAPTER2.PAK size 865252 crc 7ed7cc6f md5 3da4e9f1b34c118b56ddd57d80ff6f43 )
+	rom ( name CHAPTER3.PAK size 1043531 crc cde3e9e3 md5 3928dce7ad6e3fe1c61fc0cf603bdc37 )
+	rom ( name CHAPTER4.PAK size 747266 crc 6ea9b64d md5 9174e445c85c0c4e53d9dc9994335d74 )
+	rom ( name CHAPTER5.PAK size 884836 crc 07074a2c md5 138111d5383eb98668b3d451ff801aa5 )
+	rom ( name CHAPTER6.PAK size 1949272 crc e824c1c1 md5 daf72d02616c14c03003f8f3cfe7addf )
+	rom ( name CHAPTER7.PAK size 325374 crc 33bee17c md5 fb5294f7445318876741c8db39ba0b1a )
+	rom ( name CHAPTER8.PAK size 1148461 crc 0c203e0b md5 6cad80101f13582445244eb01de667b8 )
+	rom ( name DRIVERS.PAK size 44885 crc 12de658a md5 1ce7919e1b33935d18f9efeec886978a )
+	rom ( name FINALE1.PAK size 839239 crc 7f83db03 md5 82458a649bff50e7242bd5db392916e7 )
+	rom ( name FINALE2.PAK size 608063 crc 655cd653 md5 4da3bc57c5ffa574ea8971b9af935748 )
+	rom ( name GENERAL.PAK size 1395122 crc 72368589 md5 4ea489f4dfaca2f4cc6b060abc7a1176 )
+	rom ( name INTRO.PAK size 934536 crc 1841d92f md5 184166470f4d43835f4b107df31731cf )
 	rom ( name INTROVOC.PAK size 1890471 crc 0cb51d58 md5 4fe102edb9345e60f77c93e274686d27 )
 	rom ( name VOC.PAK size 2276340 crc d953e9c3 md5 f2343997ea753e8ae638a7fde831ba30 )
 )
@@ -5467,7 +6238,7 @@ game (
 
 game (
 	name lol-ru
-	description "Lands of Lore: The Throne of Chaos (Extracted/DOS/Russian)[v1.05]"
+	description "Lands of Lore: The Throne of Chaos (DOS/Russian/Extracted)[v1.05]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5946,7 +6717,7 @@ resource (
 
 resource (
 	name kyra2itres
-	description "ZZZ - Legend of Kyrandia 2 Italian CD Resources"
+	description "ZZZ - Legend of Kyrandia 2 Italian CD Resources[!]"
 	year 1993
 	manufacturer "Westwood Studios"
 	sourcefile kyra
@@ -5983,7 +6754,6 @@ resource (
 	rom ( name DRIVERS.PAK size 149190 crc fa0a1acc md5 82d516f2248a52c2d3deb8ee1a0aae33 )
 	rom ( name FALL.PAK size 64633 crc caa77f7b md5 0226654b22d9bc6e9b68340068e52f6a )
 	rom ( name FATE.PAK size 113459 crc b60de027 md5 30487f3b8d7790c7857f4769ff2dd125 )
-	rom ( name FATE_000.SAV size 4003 crc 2975bbc5 md5 24c68a418b8826ad64cd9f2e6fbaa9c1 )
 	rom ( name FERRY.PAK size 52582 crc 2b6db044 md5 85d1a1c4b30fc7b308647731864c95ab )
 	rom ( name FIGHT.PAK size 187710 crc 22ae4245 md5 232340c932463d4eca86f238310d09a2 )
 	rom ( name FISHER.PAK size 186564 crc 9a30d044 md5 cdef659559e243dd668106dbb0e6886f )
@@ -6008,7 +6778,6 @@ resource (
 	rom ( name ISLE.PAK size 69106 crc e57bb2c5 md5 68bb7baacf783aed28d1cbcfa6fb800c )
 	rom ( name JUNGLE.PAK size 115560 crc 21d60a76 md5 8742619d18b7c51b2669971c18f4361c )
 	rom ( name MARKHME.PAK size 33406 crc 25eb79d5 md5 e5c98a013edb130b543b9583edffd3fe )
-	rom ( name MISC_CPS.PAK size 300711 crc 970a669b md5 b39aafe0b883d8a0b8f012a98b9478fe )
 	rom ( name MYSTRM.PAK size 242798 crc 725ee00a md5 a061987eca034be2a60c9e798543c2e4 )
 	rom ( name NEST.PAK size 54101 crc 62d0e1af md5 1f3a34f99efc65a68d84a8ca1d955480 )
 	rom ( name ONBOAT.PAK size 247789 crc 5107f6e2 md5 230382460709320c795d702f61f1b875 )
@@ -6051,6 +6820,178 @@ resource (
 	rom ( name VOLC_P.PAK size 33287 crc 723b5376 md5 b25f5e57387a3faff50235660aaeb091 )
 	rom ( name VOLCANO.PAK size 106377 crc 683c4f33 md5 82832fe37c1d5b87a031d92141741685 )
 	rom ( name WHARF.PAK size 178171 crc 356ff19a md5 dbb0a02c8d729485893516b8ac586265 )
+)
+
+resource (
+	name kyrmacres
+	description "ZZZ - Legend of Kyrandia Macintosh CD Resources"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	rom ( name ._Halestorm.res size 1032192 crc 39b9ff35 md5 991ef26cc04a9f8d42f06047ca4e366b )
+	rom ( name ._HQ_Music.res size 1892352 crc 72dfa36b md5 ae38d53618d3779bba87e0bb54813f5d )
+	rom ( name ._LQ_Music.res size 4096 crc 0d344289 md5 8931d0cd07f282dabcaabb9dc93203c2 )
+	rom ( name ADL.PAK size 241255 crc e30798f2 md5 947289d401b7b3496bb1cc79bcd2ad8d )
+	rom ( name ALCHEMY.VRM size 215214 crc 40eeae21 md5 1338fafa67e8d47ad0e77c814699da27 )
+	rom ( name ALGAE.VRM size 99545 crc 6d8cea9e md5 95acb91f1beada7f2bb4fbd952f812fd )
+	rom ( name ALTAR.APK size 32844 crc 01b6958e md5 3873680988d213bf161fa81254773f7d )
+	rom ( name ALTAR.VRM size 769574 crc defdf4c3 md5 2158aba010f4ed3c61f5da4e40349b77 )
+	rom ( name ARCH.VRM size 122109 crc c3fbd438 md5 fe40f497c581b26c9f8dc35ba368ae47 )
+	rom ( name BALANCE2.WSA size 136574 crc 86eefffb md5 20c68090fae568d16dd40a7bcd9dfea3 )
+	rom ( name BALCONY.VRM size 260447 crc 74deae81 md5 fcedf25226508c71aece01d1445cfafe )
+	rom ( name BEAD.CPS size 534 crc 4a5161e7 md5 3038466f65b7751451844707187aa401 )
+	rom ( name BELROOM.APK size 44039 crc 6b5f13fd md5 bcff752f5ba93e39c923706e86b967f8 )
+	rom ( name BELROOM.VRM size 486322 crc 8e3bc238 md5 b0289d391c81c2fc2bbceac9b21aeb59 )
+	rom ( name BONKBG.APK size 52790 crc 2a6d9263 md5 d5b8ff67b157e973caa2990ebe85e645 )
+	rom ( name BONKBG.VRM size 104001 crc 4a227a1e md5 9a089d2d16e17182dd4971669ca907b6 )
+	rom ( name BRIDGE.VRM size 566350 crc 750dc870 md5 457c288a8906875750a80307d40428a4 )
+	rom ( name BRINS.VRM size 371923 crc 7176ae45 md5 07a9806c7cba44c12d6fc3b5fdf44e3b )
+	rom ( name BROKEN.APK size 156345 crc b7b01285 md5 e3fe32f59404e1f27dc125bce9cd9d29 )
+	rom ( name BROKEN.VRM size 2429166 crc 2345fb49 md5 7c7ee6afc76d36ce198fd510339e0f7e )
+	rom ( name BURN.VRM size 213105 crc 6be9463c md5 7f9e5cc9f98e0d2a894c31b87af5af91 )
+	rom ( name CASTLE.APK size 3852 crc 50a502af md5 c3bd262309b74bdbb8dc3bde6a9921b9 )
+	rom ( name CASTLE.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name CATACOM.VRM size 154125 crc 65083d48 md5 631c75f28ee8d9e69affbeeaa98d3d3e )
+	rom ( name CAVE.APK size 19567 crc 0d930b70 md5 73153507a7aac4ef0e65df49712722de )
+	rom ( name CAVE.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name CAVEB.VRM size 139300 crc 92a6937e md5 a13d21846450c3aae4b8f340591daa00 )
+	rom ( name CGATE.APK size 108421 crc 71915183 md5 c346233a69bf294c6147abb4038bb703 )
+	rom ( name CGATE.VRM size 311411 crc 4dfb5534 md5 225051c9493699f956313da89ae65247 )
+	rom ( name CHAPTER1.VRM size 5227516 crc c5d68755 md5 9cabe269aad157877c3fed262380bb94 )
+	rom ( name CHAPTER2.VRM size 5227516 crc c5d68755 md5 9cabe269aad157877c3fed262380bb94 )
+	rom ( name CHAPTER3.VRM size 5227516 crc c5d68755 md5 9cabe269aad157877c3fed262380bb94 )
+	rom ( name CHAPTER4.VRM size 5227516 crc c5d68755 md5 9cabe269aad157877c3fed262380bb94 )
+	rom ( name CHAPTER5.VRM size 5227516 crc c5d68755 md5 9cabe269aad157877c3fed262380bb94 )
+	rom ( name CHASM.VRM size 150613 crc 2081ba3f md5 95eafecaa2dd2e062602dad252a90f0c )
+	rom ( name CLIFF.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name COL.PAK size 6273 crc acd987a8 md5 6c0a16a2e7f6f9554d7794595d95a3ab )
+	rom ( name DARMS.VRM size 429372 crc 6aaf1db3 md5 7f2236b73b0d33ad9b62a2f6708d8174 )
+	rom ( name DEAD.APK size 74431 crc 9afde5a4 md5 fcd07b39b879ef84ceed705057e7ae24 )
+	rom ( name DEAD.VRM size 2172989 crc 4e5a0c7e md5 fa4a438baaa6ef5d4292dca6c92d068d )
+	rom ( name DNSTAIR.APK size 104446 crc d7c17cde md5 41e17bb63dec2923031e3407df9d2842 )
+	rom ( name DNSTAIR.VRM size 1307816 crc d0814282 md5 99d8f4200fbf51e64e89c87ceee4ae78 )
+	rom ( name DRAGON.APK size 358846 crc 6d292dc1 md5 c8b8c1422b995028c8c7a1b336f8aece )
+	rom ( name DRAGON.VRM size 1216277 crc e56d4e18 md5 6db51f71a59b9c2de18c2e9de254ccba )
+	rom ( name DRAGON1.APK size 258944 crc dcb10c29 md5 9984c821f57b387a203e9cd051958bd0 )
+	rom ( name DRAGON2.APK size 99911 crc a649810a md5 182216bece72d7493a485b1a526dc9b6 )
+	rom ( name EDGE.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name EDGEB.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name EMCAV.VRM size 103844 crc 1d1835e6 md5 65971082d4918e4b168777ca3bf26c9d )
+	rom ( name ENTER.VRM size 31655 crc e1a299de md5 ea0da5d7992dd6873f9705fe794f4e1a )
+	rom ( name EXTHEAL.VRM size 301949 crc 5f103310 md5 074ac147e7c653a1a766ce430ee00d51 )
+	rom ( name EXTPOT.APK size 47811 crc 9fd52e2c md5 80e7beaf275d410df15440b38af35024 )
+	rom ( name EXTPOT.VRM size 111557 crc b803255a md5 a130e2447038353fbc96d4e7aab4b605 )
+	rom ( name EXTSPEL.VRM size 270002 crc 96b982e5 md5 527c52c6742914eb4b161ea11458f766 )
+	rom ( name FALLS.VRM size 25457 crc 1169ec39 md5 a68bc7adfe0d45cb3bc98b4ef8aef623 )
+	rom ( name FESTSTH.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name FGOWEST.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name FNORTH.VRM size 78009 crc 07229421 md5 8a876d692302d6e55c2a766a1d034bb9 )
+	rom ( name FORESTA.APK size 133963 crc a851ea9e md5 24ca49fb1d0a34536672239f87266640 )
+	rom ( name FORESTA.VRM size 478867 crc 98243b05 md5 c1cc91f5f5c6665049dbdd94d970c83a )
+	rom ( name FORESTB.APK size 34509 crc a02efd29 md5 9b2b4566e0b651bbb56482784b839857 )
+	rom ( name FORESTB.VRM size 376832 crc 3d80ecc4 md5 b5b8651e5cad38a11e1fed042387c956 )
+	rom ( name FORESTC.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name FOUNTAN2.WSA size 47323 crc 74b56896 md5 48a0f6e57cb9e3de831679ca7fa31ae9 )
+	rom ( name FOUNTN.APK size 122581 crc c2517a19 md5 e56f54aefa346214b6f1a37756ae582b )
+	rom ( name FOUNTN.VRM size 861521 crc 32ffec93 md5 f289f08fd4b52423c1285a7e4e5e94d7 )
+	rom ( name FOYER.APK size 91530 crc 83818c05 md5 0aafd23869055ee05fbafef5bcc97d26 )
+	rom ( name FOYER.VRM size 1109750 crc 33ab4f0a md5 0cab10010c3d5950cce1dc9c933cab4b )
+	rom ( name FSOUTH.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name FSOUTHB.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name FWSTSTH.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name GATECV.APK size 93320 crc 539d5c1b md5 5637c940ab4ad2cbf9dc597860dba953 )
+	rom ( name GATECV.VRM size 625772 crc 7486076d md5 0386943bab2a9b19a4316712ad67c58c )
+	rom ( name GEM.APK size 62465 crc 2f5acd68 md5 e1bc30f76f71dead1bcbf4f64c992ee8 )
+	rom ( name GEM.VRM size 452083 crc 39458be9 md5 f8820edf11bdafcb84fce76ddac53006 )
+	rom ( name GEMCUT.APK size 42524 crc baac9bb6 md5 1b9241537cc97204e66cce9232b04df6 )
+	rom ( name GEMCUT.VRM size 3227187 crc d3b5233d md5 09da5468c3973bb3bf591f482a6dab23 )
+	rom ( name GEN_CAV.EMC size 2998 crc 3302333b md5 914e7a4aa536a390e2bbbb4326d0d96e )
+	rom ( name GEN_CAV.VRM size 183136 crc 904bd87e md5 617199d73b9d11cb087d7b7ee44c70db )
+	rom ( name GENCAVB.EMC size 3074 crc 4bccc3e3 md5 0fb2751eaba7b6d1b8b41e49a05a5908 )
+	rom ( name GENCAVB.VRM size 203979 crc 6f0ce19c md5 ab0ee0ad80fc9ef04d41ef10c6402b81 )
+	rom ( name GENHALL.APK size 35632 crc 31b42e16 md5 6876fe8221f29cd0722fdddec2b3f19f )
+	rom ( name GENHALL.VRM size 241215 crc 4f4c81f5 md5 904d5e325a2baec7da9611aa4ad62d51 )
+	rom ( name GLADE.APK size 13365 crc 04760a5f md5 e84dfa09c76115d84befe8b2c669acdb )
+	rom ( name GLADE.VRM size 194094 crc 6fab1196 md5 225afa33fb8b1079fed0ec7b1eefce00 )
+	rom ( name GRAVE.APK size 144859 crc b6964397 md5 330942204c1e091fc5a064a370adc6b9 )
+	rom ( name GRAVE.VRM size 1452208 crc dd83fa94 md5 4ec21fc69862c9afa281981a3ce92884 )
+	rom ( name GRTHALL.VRM size 297185 crc 15160e6f md5 f080c450b202d5062fd1a760d96f73db )
+	rom ( name Halestorm.res size 0 crc 00000000 )
+	rom ( name HEALER.APK size 88429 crc 5683f934 md5 b350ad836293d5296b4a97c58c55ea28 )
+	rom ( name HEALER.VRM size 3386510 crc 0b6ef4ed md5 c599e4fcba045c7142500c05d954c9ac )
+	rom ( name HQ_Music.res size 0 crc 00000000 )
+	rom ( name INTRO.VRM size 3308968 crc 1ec9557b md5 3e33fc97d42a433337b8819380418247 )
+	rom ( name INTRO1.PAK size 181141 crc aed49c48 md5 fad378347df618d6028936f3acaeabc4 )
+	rom ( name INTRO2.PAK size 283503 crc dc248e4e md5 1b32f7d563f8be3fbdf2cbdd3751c13c )
+	rom ( name INTRO3.PAK size 167509 crc e836a099 md5 02a0bbb65f85b3e6ef5557e8f1a722ae )
+	rom ( name INTRO4.PAK size 125727 crc 3a324cc0 md5 4e216c1d10f6c0c51982b5768fa61e6f )
+	rom ( name KITCHEN.VRM size 205017 crc 6b0b8f14 md5 014b5e4e7faffe64478567dd5afc2ba1 )
+	rom ( name KYRAGEM.VRM size 135836 crc df84dc24 md5 284c86b04ee2ac42fb8bcffd808b5420 )
+	rom ( name LAGOON.APK size 137563 crc b9d68050 md5 56eb78b5f2c69560083826b93f6c4ad8 )
+	rom ( name LAGOON.VRM size 243615 crc b3ec1359 md5 0478b228a61f9e6463f44c40ed2fde57 )
+	rom ( name LANDING.APK size 89961 crc 784f8d0f md5 0bdb869b68594e3cd147e0953b059c99 )
+	rom ( name LANDING.VRM size 95012 crc 77212564 md5 d33806b88bcc76132e20403fa1f60586 )
+	rom ( name LAVA.APK size 73222 crc 02b14e81 md5 86aa161126ff8ff383697628b636f8ed )
+	rom ( name LAVA.VRM size 178182 crc b853ab3e md5 522c9d2aa8a291257a4ad330c5757b3c )
+	rom ( name LEPHOLE.APK size 42939 crc 00ae392d md5 1ebe0ff7123fd299513f99ca6078a4d8 )
+	rom ( name LEPHOLE.VRM size 1735593 crc 94d09c6b md5 155883649f253606909d0aea7c170b29 )
+	rom ( name LIBRARY.APK size 97705 crc 374c276f md5 95306bf1500fab9b3b7fd25f69eb91bd )
+	rom ( name LIBRARY.VRM size 558956 crc 838b9675 md5 2394be36b2e918086c52fee125312e9b )
+	rom ( name LQ_Music.res size 0 crc 00000000 )
+	rom ( name MAIN_ENG.CPS size 6948 crc e21c3c9c md5 9628970c774b863cbe450fed5beff8f5 )
+	rom ( name MAIN_FRE.CPS size 7131 crc d6413920 md5 c99fb43d666ef5881a73a509c2594b14 )
+	rom ( name MAIN_GER.CPS size 7128 crc f3e24696 md5 542c742e6d796fd9bc00881509470d1f )
+	rom ( name MAL-KAL.WSA size 104848 crc 7d23bd5b md5 62a9be5bb14cf6fd937e2de472236d7d )
+	rom ( name MISC.PAK size 100660 crc 07034625 md5 8d1e24a2a45bdbc9126dc3e5a183b4e2 )
+	rom ( name MIX.APK size 17314 crc 976bbbfb md5 14b0a0176a3a34e6f6b444812d72038f )
+	rom ( name MIX.VRM size 497562 crc 0874e0b4 md5 46032dc49f8f28d8771abb4cd6cb2743 )
+	rom ( name MOONCAV.APK size 72133 crc 1d5f69a6 md5 7fe23d522a8b20282e6cb42f856846ff )
+	rom ( name MOONCAV.VRM size 2056789 crc 7808cf1f md5 3134fbb97024bbb03629e9cf090f97b7 )
+	rom ( name NCLIFF.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name NCLIFFB.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name NWCLIFB.VRM size 91983 crc f0482438 md5 941a068f90fb27f9855cb62ff8f6db98 )
+	rom ( name NWCLIFF.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name OAKS.VRM size 124904 crc 679ae62f md5 3f953838722d164da175d5c321995ed9 )
+	rom ( name PLATEAU.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name PLTCAVE.VRM size 86617 crc f73b3180 md5 dc006e5005520a949918f949128dd48f )
+	rom ( name POTION.APK size 188007 crc 7021af96 md5 c3e1847e32a64165da2e0cffe5a4db51 )
+	rom ( name POTION.VRM size 3615396 crc 01a46c9b md5 5f04186e38e81994fa0eab434ce6d252 )
+	rom ( name PUNCH1.WSA size 19477 crc 0e17de80 md5 28c42b92203cc10a96c90bb0ab64d28a )
+	rom ( name ROCKS1.WSA size 9484 crc 882697d3 md5 17758117853ccdae7a99d492b97d123b )
+	rom ( name RUBY.VRM size 307012 crc 69d57cc2 md5 c9a7c8deea1ae7ff269df061d8072f64 )
+	rom ( name SICKWIL.VRM size 485327 crc e746a6a9 md5 1af98db574230fbaaf0a1c5c4e86ec8b )
+	rom ( name SND.PAK size 77388 crc 31df1988 md5 2e05c51a13870fa0bfdbaeb327df4752 )
+	rom ( name SONG.APK size 48729 crc af9907da md5 ddf666ae0f6e2cf4bc808975d9560529 )
+	rom ( name SONG.VRM size 470437 crc f7109000 md5 0d76f5a385ce1acd881b8ed7f06b1b2e )
+	rom ( name SORROW.APK size 11564 crc ab3c30d9 md5 4205fc5d5e1bab832c1f2547b7838d01 )
+	rom ( name SORROW.VRM size 408316 crc 787398e2 md5 00e05aef46b4948c861e025b5ea3fd4b )
+	rom ( name SPELL.APK size 117802 crc f5979470 md5 4bb501e97de16c297d6bff3a48732be4 )
+	rom ( name SPELL.VRM size 3908699 crc eed03774 md5 22cdf89ddff40551ccbd4fc472842ad1 )
+	rom ( name SPRING.VRM size 608692 crc 03bfb2aa md5 7d5b96544a36615300d208b662d6777c )
+	rom ( name SQUARE.VRM size 191290 crc 2053201e md5 39be45b40ad24e8df83277ee58e77af7 )
+	rom ( name STUMP.APK size 43680 crc 08814be9 md5 9ca7b820f89bfcb2cff72a70ec619da5 )
+	rom ( name STUMP.VRM size 167402 crc 47ee2975 md5 57a492490fdc5ab6c524dbfb47837b02 )
+	rom ( name TEMPLE.APK size 13978 crc 06a7addd md5 426a7b3e87a27c3ce8e575d1ce381ade )
+	rom ( name TEMPLE.VRM size 1262649 crc 2d15f77a md5 56f4d869f009628014d46658e10e4e60 )
+	rom ( name TEXT_ENG.CPS size 8517 crc a2d55ac6 md5 ef464c59804d45b011032ee6d1366729 )
+	rom ( name TEXT_FRE.CPS size 8889 crc 94c57c29 md5 b0fffc98774bf8398d11b606a051758c )
+	rom ( name TEXT_GER.CPS size 9301 crc 115c0b61 md5 c0aa3396593b7265c41c0acb2251a28f )
+	rom ( name TRUNK.APK size 67248 crc e414e54a md5 19df4263ea4975f567fd5443c20c3e7e )
+	rom ( name TRUNK.VRM size 79935 crc d22fd9c5 md5 4bcacc4c5a72672674dddab8f7c1f8b8 )
+	rom ( name UPSTAIR.VRM size 142920 crc b6d32d81 md5 26a0168f7aeb3a58d30618307a599b6a )
+	rom ( name UPSTAIRS.WSA size 26059 crc df0364fc md5 f1b4b7ffc783acee09c49774d1286473 )
+	rom ( name WAKEN.WSA size 33552 crc 199e2956 md5 52bd3a44a57a41cdbe13dba9f43a6d8d )
+	rom ( name WELL.VRM size 453845 crc c0762e2e md5 3301e6298cb4449b82514f5ac7137e3f )
+	rom ( name WILLOW.APK size 10836 crc f6a2d0e1 md5 37d960934d9a8f13d6545090e8d9be94 )
+	rom ( name WILLOW.VRM size 412807 crc d3f26626 md5 bbc2087a4c7929551c3a4deee068964c )
+	rom ( name WISE.VRM size 1639090 crc 85ebacf0 md5 8ff5d021e5f0ea383dcb49d48da654eb )
+	rom ( name WRITING.CPS size 5506 crc 643fa13d md5 d3fc5a8d22bdadb14af2ed37b9d41653 )
+	rom ( name XEDGE.APK size 12492 crc 93c98ef6 md5 30b5006daa62336f6edded08377281c4 )
+	rom ( name XEDGE.VRM size 464826 crc 378d49a3 md5 b926764f382d985099d7d2decb1e22a1 )
+	rom ( name XEDGEB.VRM size 269 crc 424f1d62 md5 8bfb48dc9b8edcd6ae6d5fb038e31297 )
+	rom ( name XEDGEC.VRM size 38804 crc cf8d6f23 md5 4f3fbe855ce33dba3ef565850cebca02 )
+	rom ( name XMI.PAK size 329634 crc 371f495e md5 07c5358ebfced54fb3100563bd6b5714 )
+	rom ( name ZROCK.VRM size 115052 crc d9be4150 md5 069b535e31412515cc6a77291e4c055c )
 )
 
 resource (
@@ -6137,6 +7078,126 @@ resource (
 	rom ( name O28A.PAK size 345148 crc 56d5cc65 md5 d160a4c1d991d6f0d150cd678f2d72b8 )
 	rom ( name O29A.PAK size 36596 crc 9b41f99e md5 3acadc4617c67c2b4461a3556a99d95c )
 	rom ( name RUIN.PAK size 66099 crc 4946ad28 md5 57267f084aeab195df4f5bc02e294ce4 )
+	rom ( name SWAMP.PAK size 87911 crc ab49b446 md5 8309ad94171b57ebab4be4640bc71188 )
+	rom ( name TOWER1.PAK size 73128 crc 778d50fd md5 0ec2be9b7403160d93e93810c45afb3b )
+	rom ( name URBISH.PAK size 101968 crc 67c09185 md5 a38d47af9386372a1f449fcdd8674136 )
+	rom ( name VOC.PAK size 2276340 crc a8ca4626 md5 c5b639b18295f3d91b270f6a02bee9bf )
+	rom ( name YVEL.PAK size 118524 crc ddc3a8cd md5 8c5743f03ac7424d539feee65188365f )
+)
+
+resource (
+	name lolrures
+	description "ZZZ - Lands of Lore: The Throne of Chaos Russian CD Resources"
+	year 1993
+	manufacturer "Westwood Studios"
+	sourcefile kyra
+	rom ( name 00.TLK size 14605385 crc 6c6f9939 md5 4370824654e6374c103fad6ad7c20ca5 )
+	rom ( name 01.TLK size 26406632 crc 39177db3 md5 ae4ed8a3f210edad13d7b919702de18d )
+	rom ( name 02.TLK size 13504571 crc eeae09bd md5 cd2131495615f6cdb1170a951f74a682 )
+	rom ( name 03.TLK size 13494997 crc 676c3c30 md5 99a95929b55dde7b614fdf841c03c7e3 )
+	rom ( name 04.TLK size 8821656 crc 67aa364e md5 000a403a1e5d20372974404bf44b511a )
+	rom ( name 05.TLK size 1224317 crc 9c5429be md5 96ea375e87337b1731600b75d8f50a72 )
+	rom ( name 06.TLK size 2767935 crc f2d42917 md5 feed98bb4ac43d1155293329ec12b8e7 )
+	rom ( name 07.TLK size 5262372 crc 203872ad md5 91d0d2cfdb910d574d3175f6b31c3654 )
+	rom ( name 08.TLK size 5509618 crc 8af4d21b md5 c567b8b60a599da24ca8781fd7991e0b )
+	rom ( name 09.TLK size 986550 crc e313b433 md5 274ddadbb0b64743d26c1553fc4bbb7d )
+	rom ( name 10.TLK size 12264877 crc 872a8f26 md5 6443010e100e05a94cbf765f107c285d )
+	rom ( name 11.TLK size 14754115 crc ec21cced md5 d3888a1c2adf8b7e4393ff925bdcaf69 )
+	rom ( name 12.TLK size 9162690 crc dc5ba292 md5 df5f83d4e786466809f8f3e6658c0baf )
+	rom ( name 13.TLK size 2172293 crc e0bd255b md5 e0b5660cb6a435505deb32f9827f6752 )
+	rom ( name 14.TLK size 4175241 crc c309a1f3 md5 94edd6e2925d3ec93280338812cd7de7 )
+	rom ( name 15.TLK size 2992132 crc a2ea3f03 md5 667d9c1511b1bfaaad56ea41d82fded0 )
+	rom ( name 16.TLK size 2422928 crc 3402f0c8 md5 ee227271fcb035e9baa993ff4e6f9d54 )
+	rom ( name 17.TLK size 3975649 crc 6778b752 md5 dc4483f14a2521e3a76d6e8dcc92d5d5 )
+	rom ( name 18.TLK size 6198856 crc ddd9cbfb md5 f260903db7d21d5c717b201d1a767e99 )
+	rom ( name 19.TLK size 1738755 crc 118ba7af md5 e835689b62556e13588bd50e9bf360bc )
+	rom ( name 20.TLK size 1863218 crc 776389cd md5 8947e9aa6d7f96d9a92cbaae5ef91c8b )
+	rom ( name 21.TLK size 2472365 crc bf27a9ea md5 e318b9bf839da1d22e59f5ab0ceb5a42 )
+	rom ( name 22.TLK size 28970938 crc 42d97777 md5 0a14b3f9ed28c860a165973b5cce9834 )
+	rom ( name 23.TLK size 9591698 crc 5f606def md5 e91b0f5abe98a23961c962b6c8d82636 )
+	rom ( name 24.TLK size 5944066 crc aff3353d md5 d032272f6ecad3e8bdaec21d6b7a5d4c )
+	rom ( name 25.TLK size 44138 crc 7ad564ec md5 756b51f1d8c5d871fa147defd7d7beca )
+	rom ( name 26.TLK size 7959091 crc 080fe2ea md5 b8fdfcd6ff742d273c29a56a03b0c637 )
+	rom ( name 27.TLK size 6112672 crc f0c403f6 md5 9d5fab2e426c4ba0a8eceb6733d2d493 )
+	rom ( name 28.TLK size 7574836 crc a55217a5 md5 c45b326ff6d74e5c20f1e19e69281d6b )
+	rom ( name 29.TLK size 5270328 crc a0775cb8 md5 f5773309779809a37f804bd9d1e4be5f )
+	rom ( name CATWALK.PAK size 116275 crc df60f94f md5 acc7af157680e5e078b37d21a98f0619 )
+	rom ( name CAVE1.PAK size 122924 crc bc1be6a3 md5 761988fbfa247d3a9a1ede553c8076e9 )
+	rom ( name CIMMERIA.PAK size 114388 crc 58682ba5 md5 fa3035f11fd3d423d7a171eedc1dc32d )
+	rom ( name DRIVERS.PAK size 41706 crc 9c91f61f md5 c975df2ec45287018e18ffe2785c3861 )
+	rom ( name FILEDATA.FDT size 39941 crc bbba18e4 md5 324862721869d8879ff1abce2f47da6d )
+	rom ( name FOREST1.PAK size 113589 crc 324a45da md5 0db95c5f992a013076518a5fbb7bcef9 )
+	rom ( name GENERAL.PAK size 1225126 crc 1f9e3bb8 md5 cba91293f3b764b02e88e43d30e6bd97 )
+	rom ( name KEEP.PAK size 69045 crc 053ddeab md5 576ded0fa6827c76c957fff163d9c227 )
+	rom ( name L01.PAK size 78598 crc 32b5f07d md5 174d37f21e0336c5d91020f8c58717ef )
+	rom ( name L02.PAK size 80227 crc dc90b75b md5 303936c36d9acc087db7db08386114c4 )
+	rom ( name L03.PAK size 32717 crc 81b8e6b1 md5 c7fb7ae3c4953ccbf01cff069553d13c )
+	rom ( name L04.PAK size 57639 crc b2649bf8 md5 f1509fdcf3089f203bb77db90ddede35 )
+	rom ( name L05.PAK size 11522 crc a4a7e439 md5 ca7b149b346f1b607eb72ec6cce09408 )
+	rom ( name L06.PAK size 71254 crc edb232b5 md5 3f821d344319dd42888f4bbd2cb008d4 )
+	rom ( name L07.PAK size 45902 crc 4bd7f3c8 md5 19ae315594b4ca20cda8fffbaf7f84da )
+	rom ( name L08.PAK size 63507 crc adb6cf8f md5 73845bfcd2ae1f446945612f31563cb9 )
+	rom ( name L09.PAK size 36758 crc 7a505d1a md5 23d72aa3ee5703ec64a8520b16c78a41 )
+	rom ( name L10.PAK size 65144 crc 7544b4c3 md5 ccc5964a19a614b14b16355263fede55 )
+	rom ( name L11.PAK size 109154 crc b01a91a9 md5 927e5febd5975560c53a0077bab9c220 )
+	rom ( name L12.PAK size 72728 crc cfd55f6b md5 114ef5c8d1f7e2845e8c5aaddeb45b21 )
+	rom ( name L13.PAK size 43077 crc 6e4de57c md5 4b53bf248353f43f32424a33725d7ffe )
+	rom ( name L14.PAK size 43925 crc 7b473a4b md5 841d04e27a5884cba65822e4c664fcc8 )
+	rom ( name L15.PAK size 71580 crc eba902a8 md5 62e126d049fc42a3b7b719947be26cc2 )
+	rom ( name L16.PAK size 18197 crc 20165349 md5 d01a112e7c28d5bc69902e55851a4ba0 )
+	rom ( name L17.PAK size 53573 crc 3632430f md5 2397b8b11c0fe1ccb56f06b93b0c2766 )
+	rom ( name L18.PAK size 58612 crc dd57ed79 md5 7677038e09e2c472010640519e0e865d )
+	rom ( name L19.PAK size 33356 crc 767a78c8 md5 61023f24664a9eb23c90f1e78387403c )
+	rom ( name L20.PAK size 78018 crc 0b2c6ff3 md5 d4504d51fd246093a05a47e0150a0a5f )
+	rom ( name L21.PAK size 29584 crc f11d22bf md5 3ae19d9eaa6ccc4c7b77740ff9d3548e )
+	rom ( name L22.PAK size 66397 crc fddb05d9 md5 a86d5bb282bfa6e292a574b25c442701 )
+	rom ( name L23.PAK size 64099 crc f1ad6e9d md5 0084c303ec13109600f4b495f2e457a4 )
+	rom ( name L24.PAK size 63773 crc 511be6cd md5 4b11259724b9d7449bdd364467d1cd20 )
+	rom ( name L25.PAK size 10387 crc 49d64b46 md5 b2baaa71289afd03c213eda56d7be30b )
+	rom ( name L26.PAK size 53960 crc e63a3d0d md5 ed2106db67b4786c31ecb2bfbba02423 )
+	rom ( name L27.PAK size 52167 crc 46e4eccf md5 6105e0eb43aa1cb96e98e1901219ac41 )
+	rom ( name L28.PAK size 89740 crc e06221e0 md5 214db2c147e9f3292f26821d5b47cf5d )
+	rom ( name L29.PAK size 281045 crc a9b2d990 md5 ea2ed41c3871f54624bf7228c7293542 )
+	rom ( name MANOR.PAK size 75440 crc 47657b97 md5 b7042f71d02a4cb93335c06dd76cc130 )
+	rom ( name MINE1.PAK size 139113 crc f3796ae4 md5 05276efe880d11d0ce2592c273cd9111 )
+	rom ( name MONSTER.PAK size 110328 crc 1dc8c684 md5 8aca778a32b7fb4934e5f19d8f49cdfe )
+	rom ( name MUSIC.PAK size 611958 crc fe714771 md5 835eea23c48b980abfbce792f0a98ae8 )
+	rom ( name O00A.PAK size 235741 crc 81fcd9b1 md5 0485dae78f6ea2191268c43f81b94150 )
+	rom ( name O01A.PAK size 119602 crc 09034580 md5 b85a70ac5b1e6ca5c1fe9a0d21c06b3b )
+	rom ( name O01B.PAK size 287171 crc 11ec3668 md5 046ed337697c5e699a4d913e706649bb )
+	rom ( name O01C.PAK size 576943 crc 7dd08a09 md5 2793686dc2a099c0d8d4d5b828f50944 )
+	rom ( name O01D.PAK size 59134 crc f833a98c md5 7ff675923e05d2763967db60ee10ce6b )
+	rom ( name O01E.PAK size 171444 crc 359c796f md5 fa72fd9b1efab596627192a87504ba71 )
+	rom ( name O02A.PAK size 155224 crc 3d27753d md5 169c22806c4db3c47bd80c40c569b7a0 )
+	rom ( name O02B.PAK size 256427 crc b34d5295 md5 6d89dfe16007f78a58324e7519958258 )
+	rom ( name O03A.PAK size 45535 crc 117431d2 md5 33a9b6b317fd13b193198485ab125c63 )
+	rom ( name O03B.PAK size 111690 crc 957ca143 md5 01343ac8556ac81e94d907fadf3e0112 )
+	rom ( name O03C.PAK size 50638 crc 3eaf706e md5 39bc31c64527b8f12ea6be25986a4521 )
+	rom ( name O04A.PAK size 38977 crc 2b4a1eea md5 5b4ba6ad4e2ac4f0ebd02ad9b96cac07 )
+	rom ( name O07A.PAK size 114828 crc c47121d7 md5 9edc46c474272c3dab56951fe3421d9f )
+	rom ( name O08A.PAK size 208017 crc 019b43a7 md5 a3a8cd1b7eb10b7df4b300ddb47874f1 )
+	rom ( name O10A.PAK size 276087 crc b3e6ca8a md5 b32b17d6c28b80ef2b886c8855a16858 )
+	rom ( name O11A.PAK size 239178 crc 4ce8208d md5 91af2033db6f136f7047fc27b2350802 )
+	rom ( name O12A.PAK size 80415 crc 3f5da5fe md5 c9ded9fa0ad0695ab6a95f69940b0bf8 )
+	rom ( name O14A.PAK size 73052 crc 80da8cf4 md5 5a5318813983a687c86b6b0ed94e304f )
+	rom ( name O16A.PAK size 94521 crc 7afa10ca md5 52226152ef5d68d377d608f5d3cb396c )
+	rom ( name O17A.PAK size 71132 crc 54089f36 md5 1dc6732a9336ff5a6f1d9b59cc37e004 )
+	rom ( name O18A.PAK size 123351 crc f51c1d7b md5 b25a9b6ed3a2fbec0e306e369b878f89 )
+	rom ( name O19A.PAK size 106087 crc 6794d2c4 md5 5c81e851c533181cf4bcf755e6011467 )
+	rom ( name O21A.PAK size 93086 crc 9c2ded2f md5 da8cca61b0a4365f08414146d9e8e7fd )
+	rom ( name O22A.PAK size 221353 crc 152c3c16 md5 88cbc9d4a590c039cb8b5db064919c8d )
+	rom ( name O22B.PAK size 69970 crc 265ebe29 md5 cde7ade1d598aae9fd8a05a7739c3b16 )
+	rom ( name O22C.PAK size 389704 crc f7990ba6 md5 e3caec37e44f30bf0eafdca819d93364 )
+	rom ( name O22D.PAK size 383872 crc 08627a85 md5 dd9def5d428f1a30ffe882185cb58f8f )
+	rom ( name O23A.PAK size 206411 crc 21b2006a md5 62748d75c270893987a94705330dc9f2 )
+	rom ( name O23B.PAK size 148956 crc c3b5a795 md5 a6d1d1c97718efa783ce507d96b5cbc7 )
+	rom ( name O24A.PAK size 253056 crc a2afd4c7 md5 6797506a8b25c4d03b74ef424d1c907b )
+	rom ( name O26A.PAK size 167565 crc 983028cd md5 6b9cfbe73e49652f07720b410dbcb288 )
+	rom ( name O27A.PAK size 133644 crc 46c324a5 md5 e3cff1e6a907e1764fc38cd20e875717 )
+	rom ( name O28A.PAK size 345148 crc 56d5cc65 md5 d160a4c1d991d6f0d150cd678f2d72b8 )
+	rom ( name O29A.PAK size 36596 crc 9b41f99e md5 3acadc4617c67c2b4461a3556a99d95c )
+	rom ( name RUIN.PAK size 66099 crc 4946ad28 md5 57267f084aeab195df4f5bc02e294ce4 )
+	rom ( name STARTUP.PAK size 180371 crc 8b4362d6 md5 46e4700a8cd2ada9ada61d27a3d0107c )
 	rom ( name SWAMP.PAK size 87911 crc ab49b446 md5 8309ad94171b57ebab4be4640bc71188 )
 	rom ( name TOWER1.PAK size 73128 crc 778d50fd md5 0ec2be9b7403160d93e93810c45afb3b )
 	rom ( name URBISH.PAK size 101968 crc 67c09185 md5 a38d47af9386372a1f449fcdd8674136 )

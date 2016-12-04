@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM SWORD1"
 	description "ScummVM - SWORD1 Engine Games"
 	category "ScummVM"
-	version v1.02
-	date 2015-12-03
+	version v1.06
+	date 2016-09-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,7 +11,7 @@ clrmamepro (
 
 game (
 	name sword1
-	description "Broken Sword: The Shadow of the Templars (PC/UK)[!]"
+	description "Broken Sword: The Shadow of the Templars (PC)[UK][!]"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1
@@ -46,7 +46,7 @@ game (
 
 game (
 	name sword1-1
-	description "Broken Sword: The Shadow of the Templars (PC/US)"
+	description "Broken Sword: The Shadow of the Templars (PC)[US]"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1
@@ -81,7 +81,7 @@ game (
 
 game (
 	name sword1-2
-	description "Broken Sword: The Shadow of the Templars (PC)[GOG][!]"
+	description "Broken Sword: The Shadow of the Templars (PC)[!]"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1
@@ -676,7 +676,7 @@ game (
 
 game (
 	name sword1demo
-	description "Broken Sword: The Shadow of the Templars (Demo/PC)"
+	description "Broken Sword: The Shadow of the Templars {Demo}(PC)"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1
@@ -738,7 +738,7 @@ game (
 
 game (
 	name sword1demo-br
-	description "Broken Sword: The Shadow of the Templars (Demo/PC/Portuguese)"
+	description "Broken Sword: The Shadow of the Templars {Demo}(PC/Portuguese)"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1
@@ -799,8 +799,309 @@ game (
 )
 
 game (
+	name sword1mac
+	description "Broken Sword: The Shadow of the Templars (Macintosh)"
+	year 1996
+	manufacturer "Revolution Software"
+	sourcefile sword1
+	rom ( name CLUSTERS\compacts.CLm size 200852 crc 6bffd0c1 md5 1bd345eda284611be3d4ba1483d0ab6c )
+	rom ( name CLUSTERS\general.CLm size 6295679 crc 2c1a91fd md5 3b636c4adea70557f0744ac41a1ae3b4 )
+	rom ( name CLUSTERS\ireland.CLm size 14011396 crc 85851626 md5 2bb70bab0f4757228e4a032b8e8a6ea3 )
+	rom ( name CLUSTERS\maps.CLm size 4686025 crc ca3c46e0 md5 144e240d69a4ff0168602c4b4999797b )
+	rom ( name CLUSTERS\paris1.CLm size 13623206 crc c7ee4f8d md5 708840b6118792a53a5247d6a2584987 )
+	rom ( name CLUSTERS\paris2.CLm size 23981648 crc 24b054ba md5 3fde428394731a40deab308e758e93c8 )
+	rom ( name CLUSTERS\paris3.CLm size 15276938 crc 6fe2f9b7 md5 7ba734583cc89741acf6ff6c843e8a24 )
+	rom ( name CLUSTERS\paris4.CLm size 13466367 crc f6cb01ab md5 ad6e021bc9c455f1aa7b0174952b2142 )
+	rom ( name CLUSTERS\scotland.CLm size 22290335 crc d5c7ca59 md5 88ddef832cea8dd7d28e263440a7e74f )
+	rom ( name CLUSTERS\scripts.CLm size 1088468 crc d0379917 md5 2fc90d773c3eac1409d16abd55e03178 )
+	rom ( name CLUSTERS\spain.CLm size 12543771 crc 0e84359e md5 023c54682fa77839814cac16e4e2798d )
+	rom ( name CLUSTERS\SWORDRES.RIF size 59788 crc 9c8a9f2f md5 8c9b4d1fc2ef0e2a68fe438c898491a5 )
+	rom ( name CLUSTERS\syria.CLm size 17354333 crc 4a110194 md5 d760845550352e1c8d748db1370f5d08 )
+	rom ( name CLUSTERS\text.CLm size 3188725 crc f13140da md5 04ca2cd9d23c7f914a4bc1f00bc6d145 )
+	rom ( name CLUSTERS\train.CLm size 8247053 crc 41e28c08 md5 a1c46dbe8076cbfc90b62352362ddc4c )
+	rom ( name MUSIC\10M1.AIF size 3191254 crc 533367b3 md5 f2ec3255b318bd06cd5fa572d744d935 )
+	rom ( name MUSIC\10M2.AIF size 2364496 crc 6b58f07d md5 00bb946ab40556e9424062ebb41fdb31 )
+	rom ( name MUSIC\10M3.AIF size 5920832 crc efd0b3ef md5 e0f30ba8b77904fe52e88e12b09e0c5d )
+	rom ( name MUSIC\10M4.AIF size 1337328 crc 3061c6e1 md5 84abad305207abb83ab23d2be95df2a7 )
+	rom ( name MUSIC\11M1.AIF size 753464 crc cfca3181 md5 df19591821cab883da3054effd5a5969 )
+	rom ( name MUSIC\11M2.AIF size 1524476 crc 56f05030 md5 65404e9d58e3744a802a5188fc389435 )
+	rom ( name MUSIC\11M3.AIF size 1660588 crc bd01049b md5 c1a7d00bb94ef513b83dc7daa53b0157 )
+	rom ( name MUSIC\11M4.AIF size 1690514 crc 0a77bf13 md5 f3e02c73f80e0840c4bf61e28919e35d )
+	rom ( name MUSIC\11M7.AIF size 463822 crc a2c9f507 md5 b1ca0c73adf268f9c5e62a4a312f1106 )
+	rom ( name MUSIC\11M8.AIF size 823864 crc 673e0466 md5 0ade038efcc500d211053752414512d4 )
+	rom ( name MUSIC\12M1.AIF size 1717068 crc 1baee060 md5 f2a2ec2d6f5b790df4ce5dceee73a695 )
+	rom ( name MUSIC\1M10.AIF size 1511864 crc e3ef0035 md5 57501f455dd67329f4108062103fafe4 )
+	rom ( name MUSIC\1M11.AIF size 239632 crc d34049ab md5 0e838cf86d93edfbfe2de00eff9862c4 )
+	rom ( name MUSIC\1M12.AIF size 379852 crc cd27d589 md5 302c4025f8f3610fcb51d17782f8db45 )
+	rom ( name MUSIC\1M13.AIF size 974072 crc 7959d687 md5 610ab1bbded1e5d0f0b46a4fdb5abf24 )
+	rom ( name MUSIC\1M14.AIF size 658984 crc fec2ef62 md5 963d887159f20669e2f5bd4d821fa356 )
+	rom ( name MUSIC\1M15.AIF size 625348 crc 77632f81 md5 7e36513a492141594cd0d09691460b01 )
+	rom ( name MUSIC\1M16.AIF size 604164 crc d71449e0 md5 f86dceda2c4ba7f5e74acbdc4654bad9 )
+	rom ( name MUSIC\1M17.AIF size 342760 crc e844aabd md5 587f2db503a963d37646dcc904b6bd02 )
+	rom ( name MUSIC\1M18.AIF size 402418 crc eda76ec8 md5 d942a42399c039e11d60a689305fb6d4 )
+	rom ( name MUSIC\1M19.AIF size 457334 crc ee864966 md5 39c746a49cb9c0a12f0591ab1c7bce07 )
+	rom ( name MUSIC\1M2.AIF size 846932 crc 4c4de2ab md5 6309f82ab0bea5fb66ce7a797e47c6fd )
+	rom ( name MUSIC\1M20.AIF size 1070232 crc fa9c7527 md5 dd9c15e5a54ba245a68cd16b6d391db9 )
+	rom ( name MUSIC\1M21.AIF size 1287114 crc ebeee959 md5 50c6f0063997470b83d497355fa12de1 )
+	rom ( name MUSIC\1M22.AIF size 938618 crc 39c1d95a md5 bc3b1c4a465b89c5fd8c3e172315f0c4 )
+	rom ( name MUSIC\1M23.AIF size 424304 crc db1776b8 md5 af25c705b7573fa9a6b26f68ac674bd8 )
+	rom ( name MUSIC\1M24.AIF size 2449864 crc fe6b924c md5 314f08b71d669a47bb944f6174ffdc8c )
+	rom ( name MUSIC\1M25.AIF size 1247764 crc 9a1dd7a7 md5 8f481a35b961435b24ead744f089b4e4 )
+	rom ( name MUSIC\1M26.AIF size 674960 crc 984cdae2 md5 c84ddc49c38b6a2d81e888bdb49fd116 )
+	rom ( name MUSIC\1M27.AIF size 332524 crc ad23ecea md5 2304728402027eacbd3421945cbce701 )
+	rom ( name MUSIC\1M28.AIF size 599508 crc 6d1a6a31 md5 9dab324d6553341ca4b555341ee0c6e7 )
+	rom ( name MUSIC\1M28A.AIF size 530174 crc fe9e7329 md5 ad859a07227eb55079e830c201923e93 )
+	rom ( name MUSIC\1M29.AIF size 1001468 crc f21b9949 md5 69a74f73953cad9ad53570796604a360 )
+	rom ( name MUSIC\1M3.AIF size 1458200 crc 9f1ace39 md5 03e55bb2a73ab03e592009d4248f8013 )
+	rom ( name MUSIC\1M30.AIF size 617584 crc 4c0986b8 md5 3a2d8e3a2464ed952d23b225ea8f519e )
+	rom ( name MUSIC\1M31.AIF size 830878 crc f96123a6 md5 2ba2220e950b1ab62449b2a0038b327b )
+	rom ( name MUSIC\1M32.AIF size 353862 crc 782a2459 md5 3b25c41a1ebc8d69a1f18c2403c4f3fd )
+	rom ( name MUSIC\1M34.AIF size 650638 crc 787c686d md5 cd08011e0bc646eafbe4ef02913dad5f )
+	rom ( name MUSIC\1M35.AIF size 535612 crc 78852889 md5 f4b1e07f7a8c8cd0dc67efaf70144f84 )
+	rom ( name MUSIC\1M4.AIF size 543936 crc a6fc866d md5 7878dd4c1721b22d6ae393d649741530 )
+	rom ( name MUSIC\1M6.AIF size 355994 crc 5d0cd250 md5 2872dc14cbaa172a0abd3f7d67021fbc )
+	rom ( name MUSIC\1M7.AIF size 363388 crc 2d25adcd md5 954ccf13719d34a14dc371b75ed12cef )
+	rom ( name MUSIC\1M8.AIF size 453238 crc 527856d7 md5 a174eb8ec1a2b86894ea1b4b6a150f36 )
+	rom ( name MUSIC\1M9.AIF size 869206 crc 6497a228 md5 ee4ff36a1774937bac0c03c6f0515417 )
+	rom ( name MUSIC\2M1.AIF size 336696 crc 3923ff78 md5 2131a254378e28c94690e40b5bd458d9 )
+	rom ( name MUSIC\2M10.AIF size 586084 crc 3371417a md5 0b055532536f104d06778e8fbd72231a )
+	rom ( name MUSIC\2M11.AIF size 590074 crc f8c6d53a md5 b5f1349c8f50b90e066c780bf637b0b3 )
+	rom ( name MUSIC\2M12.AIF size 517820 crc ee753f8d md5 640b4401eef855e9646f3b234dc775d9 )
+	rom ( name MUSIC\2M13.AIF size 231202 crc e39c3bf0 md5 deb91d897023526c4897b9e09c41c047 )
+	rom ( name MUSIC\2M14.AIF size 461390 crc be114472 md5 b83702288b6180ba4ab4e941f64dc918 )
+	rom ( name MUSIC\2M15.AIF size 513592 crc ed34e140 md5 3e9cbfc51ee4626bfc24f3ef238c505c )
+	rom ( name MUSIC\2M16.AIF size 439024 crc 095a5289 md5 9c2fe5172557ec5112abbeb16dfffc7b )
+	rom ( name MUSIC\2M17.AIF size 1096616 crc 00b14eb8 md5 8ae95a8932f0facc175ea7a3fa352f59 )
+	rom ( name MUSIC\2M18.AIF size 294884 crc 06a87199 md5 0809a561af8ca79a9b59939c03af92aa )
+	rom ( name MUSIC\2M19.AIF size 2119160 crc 334f47ec md5 f0e813de6cfb3fc57c9c56fce560306d )
+	rom ( name MUSIC\2M2.AIF size 420856 crc b8f5d348 md5 bde6baef98daf21fcf0e56cd918fcad9 )
+	rom ( name MUSIC\2M20.AIF size 608512 crc cef9bad3 md5 13f9d123abd636ba81d351ce0bcdd06c )
+	rom ( name MUSIC\2M21.AIF size 134232 crc 44caa847 md5 145155ec24867ccc2bca8379f4d5b20f )
+	rom ( name MUSIC\2M22.AIF size 1596900 crc 106092f0 md5 1467ee81a781618c295bd02c9d964b35 )
+	rom ( name MUSIC\2M23.AIF size 423124 crc f9f38b7a md5 f8c8c303d68352e884461d86d0a7da58 )
+	rom ( name MUSIC\2M24.AIF size 422782 crc e5c42f86 md5 0ad4a5eb81878daaf43513586b79fc62 )
+	rom ( name MUSIC\2M25.AIF size 1274856 crc 644c8155 md5 036e74750bc82c5a6ff835a9bd87fa57 )
+	rom ( name MUSIC\2M26.AIF size 1532784 crc 17cc0e07 md5 4d002a2a4bcfbf517eab6d954ca66b5e )
+	rom ( name MUSIC\2M27.AIF size 193224 crc ae431ec9 md5 5ba3589c00845e6d5e67eff4aac641f0 )
+	rom ( name MUSIC\2M28.AIF size 485588 crc 9395af6a md5 4bbbdf5b8387783a97f7fc4818e651f9 )
+	rom ( name MUSIC\2M29.AIF size 2313688 crc df37cf24 md5 b47c339ea76af17888092b2d7325067f )
+	rom ( name MUSIC\2M3.AIF size 2180648 crc 8287e884 md5 78314eaec4c45833c4c72202eebbaeba )
+	rom ( name MUSIC\2M30.AIF size 144756 crc 5a67b36c md5 9a971e07b326e1e10b5dc1f7a44241f5 )
+	rom ( name MUSIC\2M31.AIF size 703270 crc 60886640 md5 1a8381041b326a323cb9b317bfa40e70 )
+	rom ( name MUSIC\2M32.AIF size 536570 crc 7f06a588 md5 5e3d3ad64d45f2112344526d0d09c113 )
+	rom ( name MUSIC\2M33.AIF size 789930 crc ac3d68d1 md5 3c7d98d4b85ca97f3c44e081b03c5862 )
+	rom ( name MUSIC\2M38.AIF size 859380 crc 74d9959c md5 b5f77aa50dec05514abef11f4890c11f )
+	rom ( name MUSIC\2M39.AIF size 835628 crc a6fc86a8 md5 621694b05c1ea8bca3f83087ba178157 )
+	rom ( name MUSIC\2M4.AIF size 429030 crc 7ee81505 md5 f474768f38dcf7bd89c7924c51e2be6e )
+	rom ( name MUSIC\2M40.AIF size 660514 crc 0cc56822 md5 1127ba547dda1980170e3101644880c5 )
+	rom ( name MUSIC\2M5.AIF size 970996 crc d64a5961 md5 f2c5177d0e7c955f2dd588058b1aafaf )
+	rom ( name MUSIC\2M6.AIF size 205198 crc 508101a6 md5 88dc209f1c0a22e5a9b844d2e1771f76 )
+	rom ( name MUSIC\2M7.AIF size 301132 crc c367b54c md5 fd185c508b1751263309e166b3f75abd )
+	rom ( name MUSIC\2M8.AIF size 902428 crc 8f408856 md5 11ce100be774a7d74dc1262b695d3c80 )
+	rom ( name MUSIC\2M9.AIF size 450464 crc 01185828 md5 4210098e3bb691634d796fb1151be177 )
+	rom ( name MUSIC\3M1.AIF size 782828 crc f4610906 md5 49a2446336b6390ae1fbf871b9bbf7d7 )
+	rom ( name MUSIC\3M10.AIF size 406408 crc 14157c66 md5 cc7a1498f53c6b40c37d4fe3af704710 )
+	rom ( name MUSIC\3M12.AIF size 859720 crc f7141afd md5 585ba44b4b32d844d9e5e407a694e483 )
+	rom ( name MUSIC\3M13.AIF size 958780 crc d4058200 md5 48086d3fa2621b95fa04752669548dd7 )
+	rom ( name MUSIC\3M14.AIF size 1014706 crc 3107e324 md5 1698113f7a8778631ef17ee38875a5a4 )
+	rom ( name MUSIC\3M17.AIF size 749672 crc a94e26aa md5 716035d49f21f32dd986a0c68c41fc83 )
+	rom ( name MUSIC\3M18.AIF size 488744 crc a0e2e6a5 md5 1689294790878e07d9454e331c21c163 )
+	rom ( name MUSIC\3M19.AIF size 765848 crc 8036b501 md5 174c7bccf86d1111f390fb797565a9d9 )
+	rom ( name MUSIC\3M2.AIF size 1164048 crc 2efbbd63 md5 9383226f3b77e02b71a48c38da8d171d )
+	rom ( name MUSIC\3M20.AIF size 242734 crc 835b244f md5 055bb8c639d27de0b396177ec7184927 )
+	rom ( name MUSIC\3M21.AIF size 461058 crc e2f5aa01 md5 f028b6e06d9421de2e0ea64d5efdd216 )
+	rom ( name MUSIC\3M22.AIF size 595534 crc 9c1c9638 md5 5985763e87e020a90d98135f12deeea4 )
+	rom ( name MUSIC\3M24.AIF size 754366 crc 8b9242f8 md5 3bd7679ad0e0a30c29e90bccceec1399 )
+	rom ( name MUSIC\3M26.AIF size 569534 crc af5dcf46 md5 f43b8552bea54f3172fd8327e16029ea )
+	rom ( name MUSIC\3M27.AIF size 570488 crc 3acb90b1 md5 e48c93cac3c90465f933ed3d8afdd569 )
+	rom ( name MUSIC\3M29.AIF size 628324 crc 9434dffa md5 5f5311dfbb6b9a39550a130fe1e5397f )
+	rom ( name MUSIC\3M3.AIF size 341680 crc eb4c67a8 md5 ee81cc5d03b16fcf3c03a8f0186afdf3 )
+	rom ( name MUSIC\3M30.AIF size 518424 crc 0039bc51 md5 20b67fde03641164e9f8932bed93ce7b )
+	rom ( name MUSIC\3M32.AIF size 3770734 crc 9796c77e md5 5bdf7d2ddb35877d828db6fe35412a0d )
+	rom ( name MUSIC\3M33.AIF size 1631478 crc ba3da029 md5 955a3050d79a8aad5e4a25391ccb2e83 )
+	rom ( name MUSIC\3M4.AIF size 695032 crc a2e2032a md5 f456ff4a09411766bde288bca3be0ba2 )
+	rom ( name MUSIC\3M7.AIF size 531120 crc 0c21c5ef md5 d847c2bb14ec11f741faae311ef4cc1c )
+	rom ( name MUSIC\3M8.AIF size 856672 crc 0ac2a5dd md5 04c8d23d0580d723fecdf59420eefd28 )
+	rom ( name MUSIC\4M10.AIF size 1064104 crc f18adecd md5 8fb2f2e2e51c2a6ec579c1f8b41dec42 )
+	rom ( name MUSIC\4M11.AIF size 534014 crc 4745bcce md5 da747d8359e05a070f86037bea82a1ea )
+	rom ( name MUSIC\4M12.AIF size 548576 crc 3499c801 md5 2fa5c584c7cbda3b36a845809eb02ab7 )
+	rom ( name MUSIC\4M13.AIF size 1029376 crc 4a988a56 md5 3c8446852a0c82460759b18084b9404b )
+	rom ( name MUSIC\4M14.AIF size 1067404 crc e868c7b6 md5 0f5160a826065ba3894807e6ac381ebe )
+	rom ( name MUSIC\4M15.AIF size 1382836 crc 6dd8fb8e md5 bfc0fa7765e8b79d9ce8fdc2d1261034 )
+	rom ( name MUSIC\4M17.AIF size 778456 crc f167d77b md5 65c2feaac9c8d7dacddceae269561a0f )
+	rom ( name MUSIC\4M18.AIF size 963370 crc ce631cb9 md5 73f6eebe523ae643f9f735f741e904d3 )
+	rom ( name MUSIC\4M19.AIF size 649560 crc 695ca3c0 md5 a909e2b5c26607268fec7a4c6d0d9377 )
+	rom ( name MUSIC\4M20.AIF size 638416 crc f03a50cb md5 3e38db4d7c64f2f469d633b32e76df84 )
+	rom ( name MUSIC\4M21.AIF size 475168 crc 21e6066c md5 6f42c2236372ed297beab66b4f4b68a4 )
+	rom ( name MUSIC\4M22.AIF size 289354 crc 5f17d2fc md5 3f8cdac280364b82531beefb20234abe )
+	rom ( name MUSIC\4M24.AIF size 1514728 crc febf4081 md5 d999dd52e2fc8cda259ea25fe3cf45fb )
+	rom ( name MUSIC\4M25.AIF size 1181464 crc 926c6141 md5 fd1bc7b497054ce27b5e1a3b56353048 )
+	rom ( name MUSIC\4M28.AIF size 794764 crc 5cfb72fc md5 1f1128f25818e1251c6974984d8b1bd5 )
+	rom ( name MUSIC\4M29.AIF size 1184912 crc e9e6001b md5 639b1e0c41046a2bdc855043bc6135af )
+	rom ( name MUSIC\4M3.AIF size 465248 crc 6bcbfad0 md5 fb3bca77ffc31f217cb267c36ed9df28 )
+	rom ( name MUSIC\4M31.AIF size 740848 crc d189b40e md5 f42e1eb69f24d56f766074e51994737c )
+	rom ( name MUSIC\4M32.AIF size 805884 crc d4dd20ae md5 f382679681b64dbb8e16b8450abd1e5b )
+	rom ( name MUSIC\4M4.AIF size 1622864 crc e1db5863 md5 e663e859ebda373e289ec7321e46d08f )
+	rom ( name MUSIC\4M5.AIF size 242888 crc 2db34556 md5 579238c1c21022bed53049904e6faacf )
+	rom ( name MUSIC\4M6.AIF size 1251208 crc 77477620 md5 b934b088b3f61c64228ce25a96a36c92 )
+	rom ( name MUSIC\4M8.AIF size 477336 crc e7790127 md5 15e17bf265fda6d8bb62935cb54f538b )
+	rom ( name MUSIC\4M9.AIF size 1380344 crc 09db1170 md5 c8a5ec0b81f8e3f0192b7c9c0ed96a0d )
+	rom ( name MUSIC\5M1.AIF size 550930 crc 4c66862a md5 7f660581c65bceb64d05f52c0691337b )
+	rom ( name MUSIC\5M10.AIF size 1193934 crc ebc19529 md5 291bf1d92a295e858e06b72474b8ec25 )
+	rom ( name MUSIC\5M11.AIF size 515278 crc 8060ed17 md5 58e4820e6197b987b778ec5daf5a1acf )
+	rom ( name MUSIC\5M12.AIF size 770646 crc 565a2f91 md5 4b2005342c92ba892277df7c48c6cabe )
+	rom ( name MUSIC\5M13.AIF size 350806 crc e127c3c8 md5 0e5b4274225f6381fd5f6079668a8e2b )
+	rom ( name MUSIC\5M14.AIF size 543940 crc 8ab67813 md5 d452fb9e04b6146025e23abd6f2ab62f )
+	rom ( name MUSIC\5M17.AIF size 204118 crc 864afcc4 md5 c378a1f47b9ec2c48d50352dbfc1cf44 )
+	rom ( name MUSIC\5M18.AIF size 680640 crc 37fb0c8f md5 6afe1ecd4dd0427246c4c407b064b06c )
+	rom ( name MUSIC\5M23.AIF size 1518474 crc 7b6cffe0 md5 4c68a3c739289a78e7a339b01b39fb19 )
+	rom ( name MUSIC\5M24.AIF size 295160 crc e7ff1362 md5 d8c058e9687ecb5cf5ec48b81dcbd43f )
+	rom ( name MUSIC\5M3.AIF size 1080292 crc e5f87b6a md5 42b2fbf2ee2e5c12ec129323affa343d )
+	rom ( name MUSIC\5M4.AIF size 1058584 crc d0fbe3e9 md5 e9caf8b470914b6bcd78a757e32e3f04 )
+	rom ( name MUSIC\5M5.AIF size 318448 crc 7cc3b25e md5 0c343c411c785b24df67c4dcea6b4795 )
+	rom ( name MUSIC\5M6.AIF size 445450 crc 5c136186 md5 7b80fcb0a15e24238167b8d1ee531874 )
+	rom ( name MUSIC\5M8.AIF size 477196 crc ff330db5 md5 c91ec0d13385bf85ce225ba6af0e915a )
+	rom ( name MUSIC\5M9.AIF size 308884 crc d1b70b5d md5 a270b16c5feaaa7990adb52e3ee0f6c7 )
+	rom ( name MUSIC\6M1.AIF size 346224 crc d3a40d01 md5 05093f31db99be3631811f5af246cf48 )
+	rom ( name MUSIC\6M11.AIF size 451096 crc 77887524 md5 121fd023d6770672e19918bebae49b54 )
+	rom ( name MUSIC\6M13.AIF size 354014 crc 5eec5179 md5 9b24e209cb1ad74f99c3bdf9a1340d50 )
+	rom ( name MUSIC\6M15.AIF size 457552 crc 4b01b31a md5 2aafb8d12622a3c5c673f3be80fdec88 )
+	rom ( name MUSIC\6M2.AIF size 693976 crc a5e21f56 md5 4a22c337adca49dff7fa2d827b627ef3 )
+	rom ( name MUSIC\6M3.AIF size 743268 crc 2856cacc md5 0e0f3b3e792f3f99ca10fac312a3617a )
+	rom ( name MUSIC\6M4.AIF size 277330 crc 698d59e7 md5 010e1e62633c4fc34e3fd54be5256e49 )
+	rom ( name MUSIC\6M5.AIF size 1580368 crc 471153b4 md5 46e6109039299e81900b4f6a0c1fd957 )
+	rom ( name MUSIC\6M6.AIF size 1864060 crc 05399ec0 md5 2013fa09e7f989bc55cce6e8e7db1059 )
+	rom ( name MUSIC\6M7.AIF size 1937582 crc ce9a0918 md5 0e810ea57c670d8323bbb5b92f208cbc )
+	rom ( name MUSIC\6M8.AIF size 2574830 crc 35b815e9 md5 a440ad7af7c7956510b69747243e5b24 )
+	rom ( name MUSIC\7M1.AIF size 358696 crc e7738aa9 md5 c9f72b1df68f6aade13401c303deac15 )
+	rom ( name MUSIC\7M11.AIF size 139740 crc a2a01f77 md5 22a627f4ffa2338bdc7e451b3670aa2b )
+	rom ( name MUSIC\7M14.AIF size 538872 crc 807a5a4d md5 b1ff69c7470949d8e9f34aea126281a8 )
+	rom ( name MUSIC\7M15.AIF size 459244 crc b4eaafe6 md5 3b589f8005653042f97001880e3ef610 )
+	rom ( name MUSIC\7M17.AIF size 593874 crc 99c38f57 md5 d40f001f91d9d2e0031372ad89e76e55 )
+	rom ( name MUSIC\7M18.AIF size 678652 crc 51f6a953 md5 9e9f42a00f36e0117215e32c03952d16 )
+	rom ( name MUSIC\7M19.AIF size 651688 crc 4585068f md5 59468176b6669607b3d600275a099d01 )
+	rom ( name MUSIC\7M2.AIF size 311590 crc 5c68b0b5 md5 a1e7f76b2529d22b551c5841b8d9f99c )
+	rom ( name MUSIC\7M20.AIF size 1168968 crc 1a767633 md5 90205530aa4fe6def74342cadadd0f79 )
+	rom ( name MUSIC\7M21.AIF size 503176 crc b42d3edf md5 221e5c0011f3b860ca28294426a67ff1 )
+	rom ( name MUSIC\7M22.AIF size 366936 crc e25b5e15 md5 2d05cc1ab8cc0ee0e066695f6fb08cff )
+	rom ( name MUSIC\7M23.AIF size 154534 crc df35ed11 md5 23888240096650d5ac3bc0e82bbcb74e )
+	rom ( name MUSIC\7M28.AIF size 374404 crc fc41c222 md5 2501878a4364dcf2f16f66f325c30880 )
+	rom ( name MUSIC\7M30.AIF size 377068 crc c633825c md5 52d3af5d1194453e4f404635161b9113 )
+	rom ( name MUSIC\7M31.AIF size 992434 crc 08ff25ad md5 fbb80c76e0554f7798def0328adfa13b )
+	rom ( name MUSIC\7M32.AIF size 181848 crc 8da0217e md5 cf86ad088d52deb835d9236c0be6faa5 )
+	rom ( name MUSIC\7M33.AIF size 677914 crc f1b438ac md5 6de66ac2181e6c7013d1bd4bcd044d69 )
+	rom ( name MUSIC\7M34.AIF size 1818924 crc c7e089dc md5 ddbef7c24fef0f97f39ffc3681c1b6f2 )
+	rom ( name MUSIC\7M4.AIF size 961174 crc 9c995c5d md5 d4650df50a67c170c506ab3f3bdc6805 )
+	rom ( name MUSIC\7M5.AIF size 1341394 crc 76d3092c md5 e7becb1e4dcc9ae281030a076ec03619 )
+	rom ( name MUSIC\7M6.AIF size 598264 crc f8816d40 md5 9a911f6ad8691ac2aeeec09606ad0777 )
+	rom ( name MUSIC\7M7.AIF size 1080018 crc 8e15530d md5 93da07cbe24883907e5925e92eeff78f )
+	rom ( name MUSIC\7M8.AIF size 352984 crc 8ee6adaa md5 da47b5fedda4b191f7ee8c28adeb0cde )
+	rom ( name MUSIC\8M1.AIF size 1954404 crc e0af5436 md5 af64982cc6fe1ec828f48dce3fbd17b9 )
+	rom ( name MUSIC\8M10.AIF size 907776 crc 79090e20 md5 86ae3d2992bb5698405377fef42f03ed )
+	rom ( name MUSIC\8M11.AIF size 606664 crc f2332fba md5 50b39df605329e4483078c392e5fd676 )
+	rom ( name MUSIC\8M12.AIF size 239080 crc 4e020e45 md5 c48df3581b05644e9049259ce1113e3e )
+	rom ( name MUSIC\8M13.AIF size 110434 crc 82249114 md5 9c8e4648a24e7800dafa5635434cd4c4 )
+	rom ( name MUSIC\8M14.AIF size 249260 crc cdb2575a md5 3d3d79ad07365b8619b044fdc784b104 )
+	rom ( name MUSIC\8M15.AIF size 275682 crc b71c52c4 md5 18f65a8beeed3880134aab15792e94b4 )
+	rom ( name MUSIC\8M16.AIF size 272434 crc 3e2f267a md5 1e26015446500113bb1c1e4b6f197895 )
+	rom ( name MUSIC\8M18.AIF size 2144452 crc b42b0967 md5 cf6972b1e5209771a2d583158d66f1fd )
+	rom ( name MUSIC\8M19.AIF size 333512 crc 5255de8a md5 73171d9f5aa9add7e1422a5b79a2c404 )
+	rom ( name MUSIC\8M2.AIF size 1286490 crc 6210cc11 md5 ff726effc83f33c3f8429cc6a4c12fbd )
+	rom ( name MUSIC\8M20.AIF size 354982 crc 64c7a3a8 md5 67e2855c1d11581acaf0ab85869cc950 )
+	rom ( name MUSIC\8M21.AIF size 348286 crc cdad5f31 md5 d2f2d5d5571f3457e4065ef96f00273e )
+	rom ( name MUSIC\8M22.AIF size 1170084 crc 72896781 md5 590c3a264590ed343a9f865e68aee644 )
+	rom ( name MUSIC\8M24.AIF size 279708 crc 0dc31498 md5 5fe6982191ccddf69946af388a7cb2a9 )
+	rom ( name MUSIC\8M26.AIF size 597088 crc 1bb5b51d md5 ce28b4e11b3038d4adf4312a849d8cce )
+	rom ( name MUSIC\8M28.AIF size 500796 crc a5dbb089 md5 0854b31218341867a1b6ab8fa8646a30 )
+	rom ( name MUSIC\8M29.AIF size 463234 crc b8537d51 md5 6f8e94cd307870acfb3b7aa171d288fc )
+	rom ( name MUSIC\8M30.AIF size 365304 crc 64bd2776 md5 8ea622e7ee3daf0f19b038faaf05c854 )
+	rom ( name MUSIC\8M31.AIF size 1190904 crc fdc5a5e5 md5 729453eca7eb13790440854e2e2b1335 )
+	rom ( name MUSIC\8M38.AIF size 762232 crc a4151fea md5 8ebae58bd53f64bff4dd5e8bc2a5b63e )
+	rom ( name MUSIC\8M39.AIF size 1253122 crc 6422767e md5 85153106bd096180d632d1b60cd6452d )
+	rom ( name MUSIC\8M4.AIF size 164302 crc 2b3a02e6 md5 2e0e33b179aa8b1ae20dbcb5a278b70c )
+	rom ( name MUSIC\8M40.AIF size 434896 crc 1b8070f1 md5 1f6e125adbacedca365a08f56fc7a207 )
+	rom ( name MUSIC\8M41.AIF size 518884 crc f04eb29b md5 87653a75d79e39dccc52bc0b1b4f2a8d )
+	rom ( name MUSIC\8M7.AIF size 418888 crc a6b55f4e md5 27c1ac814fbdeb4ef3beab000f060dbf )
+	rom ( name MUSIC\9M1.AIF size 759880 crc 70dcee42 md5 748fac88bcb182ac358b68cb81465e38 )
+	rom ( name MUSIC\9M10.AIF size 354014 crc 5eec5179 md5 9b24e209cb1ad74f99c3bdf9a1340d50 )
+	rom ( name MUSIC\9M11.AIF size 906808 crc 66324c59 md5 1a029d05bb29a9f59c19a223eeb52722 )
+	rom ( name MUSIC\9M13.AIF size 531274 crc 22e7d8e2 md5 dbc2ecd3ecf96a682b319715046794e2 )
+	rom ( name MUSIC\9M14.AIF size 469224 crc 69e6186a md5 0dd202c518f5337cf19e0250d3b7da44 )
+	rom ( name MUSIC\9M15.AIF size 356544 crc 997f4987 md5 bf3fa55492392cbf6a03a346a01a0da3 )
+	rom ( name MUSIC\9M17.AIF size 1028344 crc fe45d461 md5 cfbef49968a48de064a22f6103c0b583 )
+	rom ( name MUSIC\9M18.AIF size 1023684 crc d8c58d4d md5 2497c214ce4cdecc1f9ed812ac533d61 )
+	rom ( name MUSIC\9M19.AIF size 1150488 crc 761730e6 md5 fb7e63d7f03d2427248b2aae38312d22 )
+	rom ( name MUSIC\9M2.AIF size 931672 crc 172c55cf md5 956252be254c41443b7b0a16fc633575 )
+	rom ( name MUSIC\9M20.AIF size 1155532 crc 2116f887 md5 4df86cd0cb9bed4d55bbf1be6d6acd74 )
+	rom ( name MUSIC\9M21.AIF size 656084 crc 7b12286f md5 097d50cbb94a09f704ccbbb9f0197db4 )
+	rom ( name MUSIC\9M22.AIF size 671792 crc 339b9406 md5 1689437f9a443be71891b782bcc1a964 )
+	rom ( name MUSIC\9M23.AIF size 716052 crc 41329ec9 md5 03c4333635f421774ab8531773613667 )
+	rom ( name MUSIC\9M24.AIF size 626634 crc 8fb3ef19 md5 4d01abf423d2184c0f5f23d662eae070 )
+	rom ( name MUSIC\9M25.AIF size 730782 crc 52bfd8b3 md5 c3c1f6a519709a5b635c5243dd277c7b )
+	rom ( name MUSIC\9M3.AIF size 549624 crc da01eab9 md5 8153210a6f2d08a2db31e4638ff4487b )
+	rom ( name MUSIC\9M5.AIF size 605656 crc dbe670fe md5 78483446a74b89936db11cf5ea2a8d1f )
+	rom ( name MUSIC\9M6.AIF size 1063840 crc d8ff6383 md5 368c8e3691916309ad051cfb539ee68f )
+	rom ( name MUSIC\9M7.AIF size 298034 crc d228011c md5 19017217082cdd31eee8a3f77ee1effb )
+	rom ( name MUSIC\9M8.AIF size 810872 crc 06114f62 md5 f38ea9801752ddd873e6e66ad6f3b13c )
+	rom ( name MUSIC\9M9.AIF size 555592 crc bec42d8c md5 04005913f175e1c9ab4c7fd28a7d382d )
+	rom ( name MUSIC\MARQUET.AIF size 1884414 crc e5c9611d md5 8d475cc1a16685ffee7eef71ede9b58b )
+	rom ( name MUSIC\RM3A.AIF size 1623732 crc 8c33a33d md5 4a8eeb06acc1d7275af8baf6152ce0e6 )
+	rom ( name MUSIC\RM3B.AIF size 2844452 crc b45b778c md5 905f3532faec3a040ccc30fec3705f3e )
+	rom ( name MUSIC\RM3C.AIF size 1171060 crc 15d5658e md5 f71f44460524fc8ed8797de027ec4216 )
+	rom ( name MUSIC\RM3D.AIF size 3058772 crc f33c344c md5 b9ff8f97da5fe9d3d8002ec1390eea08 )
+	rom ( name MUSIC\RM4.AIF size 304376 crc f752f115 md5 e928ca27a342415f9ab7271df97fbd02 )
+	rom ( name MUSIC\RM5.AIF size 715042 crc b73f4880 md5 cb34b43fbf6e9ced362ba6de18884761 )
+	rom ( name MUSIC\RM6.AIF size 753824 crc d39e5994 md5 244bb8368572f2e4d433f47180ba9f92 )
+	rom ( name MUSIC\RM7.AIF size 2223840 crc f5878d8a md5 891ef6df9ae9554b2dc8d9027cd5dd6d )
+	rom ( name MUSIC\RM8.AIF size 2291696 crc fb93d56f md5 01d43b3ef7158b03d90f3c624c2795c9 )
+	rom ( name MUSIC\SCM1.AIF size 1268804 crc 079497c2 md5 173a6d5b5b95ccbdac2971918602239a )
+	rom ( name MUSIC\SCM11.AIF size 654304 crc 5ba35c9f md5 4e337863696f86fc9095182e37c53eaa )
+	rom ( name MUSIC\SCM16.AIF size 1726158 crc a6bf92c1 md5 3f9d90de0b5cd19e6c358135eee8fc83 )
+	rom ( name MUSIC\SCM1B.AIF size 1535098 crc cbe99f4a md5 81c0170efd62b34c722bcea6a61a0933 )
+	rom ( name MUSIC\SCM2.AIF size 1015284 crc 9b642737 md5 1487bfbde6297cf9ca57ee54a5754ec8 )
+	rom ( name MUSIC\SCM3.AIF size 853896 crc e1050268 md5 3e61ddde7d182394525e10e0a1c425d9 )
+	rom ( name MUSIC\SCM4.AIF size 1080634 crc a885132c md5 c85a7be8385b7b64de2e62921823b2dd )
+	rom ( name MUSIC\SCM5.AIF size 1068412 crc 51aa725b md5 5fe88794f783ad312df74d883b28f2f5 )
+	rom ( name MUSIC\SCM6.AIF size 1110128 crc f49b6109 md5 1cdf7e22f902355ef19c4f6d9f56a190 )
+	rom ( name MUSIC\SCM7.AIF size 690292 crc c265f360 md5 96540297a468a4d11d2d2f429a407f92 )
+	rom ( name MUSIC\SCM8.AIF size 769892 crc 3174cf80 md5 1b5950cac3a5cd6f81f965b5cf7bd352 )
+	rom ( name MUSIC\SPM2.AIF size 2571448 crc 7525badd md5 551a9a523e77f98c09ff6d48f27f3806 )
+	rom ( name MUSIC\SPM3.AIF size 2645568 crc 8140f1d6 md5 535e55950ceec9583340805f10323bbb )
+	rom ( name MUSIC\SPM4.AIF size 1809876 crc 9130b84d md5 96edb33315e5bc91dd44c4fdc24917b1 )
+	rom ( name MUSIC\SPM5.AIF size 2372976 crc 00ae916b md5 0fa2920f469e92e382ac182b396fbf36 )
+	rom ( name MUSIC\SPM6.AIF size 1442130 crc 188e89a8 md5 bc2415e31116f41195d630531fa1f7ac )
+	rom ( name MUSIC\SPM6B.AIF size 264962 crc dfdea210 md5 4655afa03b7ab0be94d4321d38f2e405 )
+	rom ( name SMACKSHI\CANDLE.SMK size 1199032 crc 175a7729 md5 0a82d2a778daecd481c08d3561a68961 )
+	rom ( name SMACKSHI\CREDITS.SMK size 16315740 crc b6605250 md5 194c0853c1bf17643486eb0b6dd2dfa7 )
+	rom ( name SMACKSHI\ENDDEMO.TXT size 335 crc 9e1444ef md5 aee455384208a816b8a422b7e9b27359 )
+	rom ( name SMACKSHI\FERRARI.SMK size 4194092 crc c8809f12 md5 6f1c71b32f3c7b4df6f952197696ca76 )
+	rom ( name SMACKSHI\FERRARI.TXT size 449 crc ed15cc73 md5 85ba6931ab13c7d53515a2c0bfc6782b )
+	rom ( name SMACKSHI\FINALE.SMK size 3513540 crc 43a29046 md5 314720bbf8e53851d5f24e261a1f26ff )
+	rom ( name SMACKSHI\FINALE.TXT size 255 crc 73f4150f md5 b7e665ca1c90eaf93466aed97bd68e72 )
+	rom ( name SMACKSHI\GEODROP.SMK size 293244 crc 56673dcb md5 19208187cfd38da7db5d786353374a66 )
+	rom ( name SMACKSHI\GRAVE.SMK size 879560 crc 3e821710 md5 cb488c18ad7275e8b1521296f4cce560 )
+	rom ( name SMACKSHI\HISTORY.SMK size 3382800 crc eed0fd5a md5 23f74e7408e45f86978119a1e97947ef )
+	rom ( name SMACKSHI\HISTORY.TXT size 1163 crc 70b6889e md5 999420e50e8c035c34321226a35b95c9 )
+	rom ( name SMACKSHI\INTRO.SMK size 13233268 crc 3b21808a md5 1534a2a18783d7bbefe020bb2a7821a9 )
+	rom ( name SMACKSHI\INTRO.TXT size 198 crc 42c726ec md5 c1215c3a92cf7e14104a8ddfda458bb1 )
+	rom ( name SMACKSHI\IRELAND.SMK size 1543716 crc 2c1b150c md5 bd7492d06bcf95b6773fdfb8c8d8140b )
+	rom ( name SMACKSHI\LADDER.SMK size 1232800 crc 9aa2bedf md5 a47ce38bdf4c492a1d7999f8cb6daf09 )
+	rom ( name SMACKSHI\MONTFCON.SMK size 1253304 crc d01fea9a md5 2a02740095838cda16c92b5d8a91096d )
+	rom ( name SMACKSHI\RIVER.SMK size 400548 crc 0f825001 md5 2c66b04763476a365f4d2f039d12f204 )
+	rom ( name SMACKSHI\SEWER.SMK size 481348 crc 9f7b4a92 md5 43f1a44b3604eda3eb79a2de48ccb549 )
+	rom ( name SMACKSHI\SPANISH.SMK size 614252 crc 0be672ae md5 e7bd3292cfd7d8010c1f2e13498b6755 )
+	rom ( name SMACKSHI\STEPS.SMK size 770568 crc c88d8f30 md5 1e38ad94414de0176b690349dc55daf2 )
+	rom ( name SMACKSHI\TAPESTRY.SMK size 1681456 crc 7f3fd789 md5 3880dbc2b39ddd66b412b4c321e0a923 )
+	rom ( name SMACKSHI\TRUCK.SMK size 9896516 crc 23b424cd md5 1c2fc402ae89684cabad36319a5542e0 )
+	rom ( name SMACKSHI\VULTURE.SMK size 556588 crc 70455328 md5 52326045999a24bf853a86a34c13db6f )
+	rom ( name SMACKSHI\WELL.SMK size 1881572 crc 845a898a md5 04862d68f73930528090c44fc267b233 )
+	rom ( name SPEECH\speech1.clu size 348216568 crc b267b53e md5 7cd3d84996df680597172462d392ec53 )
+	rom ( name SPEECH\speech2.clu size 339492204 crc 884590cd md5 b7aefc11e53bffb205236931ecb41578 )
+)
+
+game (
 	name sword1macdemo
-	description "Broken Sword: The Shadow of the Templars (Demo/Macintosh)"
+	description "Broken Sword: The Shadow of the Templars {Demo}(Macintosh)"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1
@@ -984,7 +1285,7 @@ game (
 
 game (
 	name sword1psx
-	description "Broken Sword: The Shadow of the Templars (PlayStation/EU)[!]"
+	description "Broken Sword: The Shadow of the Templars (PlayStation)[UK][!]"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1
@@ -1170,7 +1471,7 @@ game (
 
 game (
 	name sword1psx-us
-	description "Broken Sword: The Shadow of the Templars (PlayStation/US)[!]"
+	description "Broken Sword: The Shadow of the Templars (PlayStation)[US][!]"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1
@@ -1207,7 +1508,7 @@ game (
 
 game (
 	name sword1psxdemo
-	description "Broken Sword: The Shadow of the Templars (Demo/PlayStation)"
+	description "Broken Sword: The Shadow of the Templars {Demo}(PlayStation)"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1
@@ -1235,7 +1536,7 @@ game (
 
 game (
 	name sword1psxdemo-it
-	description "Broken Sword: The Shadow of the Templars (Demo/PlayStation/Italian)"
+	description "Broken Sword: The Shadow of the Templars {Demo}(PlayStation/Italian)"
 	year 1996
 	manufacturer "Revolution Software"
 	sourcefile sword1

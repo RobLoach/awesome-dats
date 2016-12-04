@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM LAB"
 	description "ScummVM - LAB Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2015-12-26
+	version v1.02
+	date 2016-09-12
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -6368,7 +6368,7 @@ game (
 
 game (
 	name lab-win
-	description "Labyrinth of Time (Rerelease/Windows)[GOG][!]"
+	description "Labyrinth of Time (Rerelease/Windows)[!]"
 	year 2004
 	manufacturer "Wyrmkeep Entertainment and Terra Nova"
 	sourcefile lab

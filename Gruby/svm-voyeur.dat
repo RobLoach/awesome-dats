@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM VOYEUR"
 	description "ScummVM - VOYEUR Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2015-09-26
+	version v1.02
+	date 2016-07-23
 	author "Gruby"
 	forcemerging split
 	forcenodump required
@@ -11,9 +11,9 @@ clrmamepro (
 
 game (
 	name voyeur
-	description "Voyeur (DOS)"
-	year 1993
-	manufacturer "Philips P.O.V. Entertainment Group"
+	description "Voyeur (DOS)[!]"
+	year 1994
+	manufacturer "Interplay"
 	sourcefile voyeur
 	rom ( name A1100100.RL2 size 336361 crc ec202ee1 md5 de32223f6b7b9617f67fc186d9b97903 )
 	rom ( name A1100200.RL2 size 346966 crc 38e88637 md5 4df7392da7fc281a9e6259033889d25d )

@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM LURE"
 	description "ScummVM - LURE Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2015-10-27
+	version v1.01
+	date 2016-04-03
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -91,5 +91,17 @@ game (
 	rom ( name DISK2.EGA size 551680 crc 6555961d md5 3a9d15274f7c366ab3512bf4695da83c )
 	rom ( name DISK3.EGA size 432800 crc eecc927d md5 ebe90538bda66dfa9c9c86ed3192eed8 )
 	rom ( name DISK4.EGA size 527840 crc a606193a md5 6795ec38567190a0c0e1e890c767f4b6 )
+)
+
+game (
+	name lure-ru
+	description "Lure of the Temptress (VGA/DOS/Russian)"
+	year 1992
+	manufacturer "Revolution Software"
+	sourcefile lure
+	rom ( name DISK1.VGA size 639552 crc 0a48987e md5 e7f052e4d49b0c81ab82752813a5d420 )
+	rom ( name DISK2.VGA size 659552 crc 3f58b96c md5 487a08c334ed1a7f0a92c65e82700e01 )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef )
+	rom ( name DISK4.VGA size 617920 crc 8ec55a65 md5 56e88cf1220040c8dc814263129ac049 )
 )
 
