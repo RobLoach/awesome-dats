@@ -4,6 +4,6 @@
     "description": "Doom",
     "version": "07-08-2015",
     "author": "Obiwantje",
-    "url": "https://raw.githubusercontent.com/libretro/libretro-database/389688c3f86779f26cb19c10b537b14b6a6ee07e/dat/DOOM.dat"
+    "url": "https://cdn.rawgit.com/libretro/libretro-database/389688c3f86779f26cb19c10b537b14b6a6ee07e/dat/DOOM.dat"
   }
 ]
