@@ -207,7 +207,7 @@
     <description>Doom</description>
     <version>07-08-2015</version>
     <author>Obiwantje</author>
-    <url>https://raw.githubusercontent.com/libretro/libretro-database/389688c3f86779f26cb19c10b537b14b6a6ee07e/dat/DOOM.dat</url>
+    <url>https://cdn.rawgit.com/libretro/libretro-database/389688c3f86779f26cb19c10b537b14b6a6ee07e/dat/DOOM.dat</url>
   </datfile>
   <datfile>
     <name>DVD-Video</name>
