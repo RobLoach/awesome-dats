@@ -6651,7 +6651,7 @@
 		<rom name="Sonic &amp; Knuckles + Sonic The Hedgehog (USA).md" size="2621440" crc="E01F6ED5" md5="17FFE04BB891253E7AC3FB0952BB2EDB" sha1="A3084262F5AF481DF1A5C5AB03C4862551A53C91" status="verified"/>
 	</game>
 	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea)" cloneof="Sonic &amp; Knuckles + Sonic The Hedgehog (USA)">
-		<description>Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea) (Sonic & Knuckles + Sonic The Hedgehog (JK))</description>
+		<description>Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea) (Sonic &amp; Knuckles + Sonic The Hedgehog (JK))</description>
 		<release name="Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea)" region="JPN"/>
 		<release name="Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea)" region="KOR"/>
 		<rom name="Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea).md" size="2621440" crc="B6C67EAC" md5="7BD6D3708AF3A36983107249A3AB5505" sha1="252FDD1E3F1DC630E13A5FF51162BB454E6FED34" status="verified"/>
