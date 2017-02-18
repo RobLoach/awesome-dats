@@ -5,5 +5,12 @@
     "version": "07-08-2015",
     "author": "Obiwantje",
     "url": "https://cdn.rawgit.com/libretro/libretro-database/389688c3f86779f26cb19c10b537b14b6a6ee07e/dat/DOOM.dat"
+  },
+  {
+    "name": "libretro - BIOS",
+    "description": "libretro - BIOS",
+    "version": "2016-12-11",
+    "author": "libretro",
+    "url": "https://cdn.rawgit.com/libretro/libretro-database/6880dcfff5a10bc55981f793f83bbea9234e47a0/dat/BIOS%20-%20Merged.dat"
   }
 ]
