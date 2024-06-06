@@ -2,7 +2,6 @@
   "name": "awesome-dats",
   "description": "Awesome DATs",
   "homepage": "http://github.com/robloach/awesome-dats",
-  "license": "MIT",
   "private": true,
   "devDependencies": {
     "glob": "^7.1.1"

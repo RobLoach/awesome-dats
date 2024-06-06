@@ -21,9 +21,8 @@ A curated list of awesome DAT files.
 4. Build with `npm test`
 5. Submit pull requests with your changes
 
-## License and Attributions
+## Attributions
 
-- [MIT](LICENSE.md)
 - [No-Intro](http://www.no-intro.org/disclaimer.htm)
 - [Redump](http://wiki.redump.org/index.php?title=Redump.org:_Disclaimer)
 - [TOSEC](https://www.tosecdev.org)
