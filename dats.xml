@@ -1913,7 +1913,7 @@
   <datfile>
     <name>libretro - System</name>
     <description>libretro - System</description>
-    <version>2023.5.7</version>
+    <version>1.19.0</version>
     <author>libretro</author>
     <url>https://raw.githubusercontent.com/libretro/libretro-database/v1.19.0/dat/System.dat</url>
   </datfile>
