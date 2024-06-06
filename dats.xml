@@ -1911,13 +1911,6 @@
     <url>https://robloach.github.io/awesome-dats/No-Intro/LeapFrog - Leapster Learning Game System (20190311-121012).dat</url>
   </datfile>
   <datfile>
-    <name>libretro - System</name>
-    <description>libretro - System</description>
-    <version>1.19.0</version>
-    <author>libretro</author>
-    <url>https://raw.githubusercontent.com/libretro/libretro-database/v1.19.0/dat/System.dat</url>
-  </datfile>
-  <datfile>
     <name>Luxor - ABC 800 (Flux)</name>
     <description>Luxor - ABC 800 (Flux)</description>
     <version>20220712-142738</version>
@@ -4674,6 +4667,13 @@
     <version>2023-01-17</version>
     <author>TOSEC</author>
     <url>https://robloach.github.io/awesome-dats/TOSEC/Sony PlayStation Portable - Samplers - [ISO] (TOSEC-v2023-01-17_CM).dat</url>
+  </datfile>
+  <datfile>
+    <name>System</name>
+    <description>System</description>
+    <version>v1.19.0</version>
+    <author>libretro</author>
+    <url>https://robloach.github.io/awesome-dats/libretro/libretro - System.dat</url>
   </datfile>
   <datfile>
     <name>TAB-Austria - Quizard</name>
