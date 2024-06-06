@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM TSAGE"
 	description "ScummVM - TSAGE Engine Games"
 	category "ScummVM"
-	version v1.02
-	date 2016-08-12
+	version v1.09
+	date 2021-08-01
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -15,9 +15,9 @@ game (
 	year 1993
 	manufacturer "Tsunami Games"
 	sourcefile tsage
-	rom ( name BLUE.RLB size 10032614 crc 5077a6b0 md5 467da43c848cc0e800b547c59d84ccb1 )
-	rom ( name FILES.RLB size 188515 crc 8e2de365 md5 92e3563a5c49f1e64207735bbeb0ec6e )
-	rom ( name TSAGE.RLB size 38870 crc b3d87a12 md5 576b27f4bfd5b7e38b1b822ddd1b6ead )
+	rom ( name BLUE.RLB size 10032614 crc 5077a6b0 md5 467da43c848cc0e800b547c59d84ccb1 sha1 03289d0d54f8b4145df1c79635137198aee05de9 )
+	rom ( name FILES.RLB size 188515 crc 8e2de365 md5 92e3563a5c49f1e64207735bbeb0ec6e sha1 d3ac4d6712cf5150c0c2bc19a5af4d98764a0759 )
+	rom ( name TSAGE.RLB size 38870 crc b3d87a12 md5 576b27f4bfd5b7e38b1b822ddd1b6ead sha1 3936215fd4c4ad9fc280cdef7eb7d5cc48a14ff2 )
 )
 
 game (
@@ -26,9 +26,38 @@ game (
 	year 1993
 	manufacturer "Tsunami Games"
 	sourcefile tsage
-	rom ( name BLUE.RLB size 10032614 crc 5077a6b0 md5 467da43c848cc0e800b547c59d84ccb1 )
-	rom ( name FILES.RLB size 183955 crc 6c9f6f14 md5 e5f27d304f541a0d621e7eef74094f1d )
-	rom ( name TSAGE.RLB size 38865 crc ce6a817a md5 766d1bc0b2213932027fac46e29443c2 )
+	rom ( name BLUE.RLB size 10032614 crc 5077a6b0 md5 467da43c848cc0e800b547c59d84ccb1 sha1 03289d0d54f8b4145df1c79635137198aee05de9 )
+	rom ( name FILES.RLB size 183955 crc 6c9f6f14 md5 e5f27d304f541a0d621e7eef74094f1d sha1 f371b8c1bc808947379d6a2f9cc03eda4578e739 )
+	rom ( name TSAGE.RLB size 38865 crc ce6a817a md5 766d1bc0b2213932027fac46e29443c2 sha1 545d6a1c144e2026f631f3a82edd500f694c0ac1 )
+)
+
+game (
+	name blueforce-2
+	description "Blue Force (DOS)[Uninstalled]"
+	year 1993
+	manufacturer "Tsunami Games"
+	sourcefile tsage
+	rom ( name BLUE.#02 size 1457564 crc 58ce3363 md5 5a5903072eae2e8214d6de54178958e0 sha1 66b5ddde6e3dcb763b4669cf2131f1dac979f49f )
+	rom ( name BLUE.#03 size 1457564 crc 14004d9f md5 c1d6311ac9be1e8f09b275729f77a15a sha1 294ff43396293a2fd3b2eba6ecfebd9663a9c0db )
+	rom ( name BLUE.#04 size 1457564 crc 095c5a9a md5 4a853903cbe6cd1f315414aa2c8efb3a sha1 8df952e252b195b1e858f22488ef934b6f7fe10a )
+	rom ( name BLUE.#05 size 1457564 crc c14fb8d9 md5 544a8f59c3490bc9757b6984dcc42546 sha1 aecc2e42892eade35dacdf3e6acbe77b7c6bc7b8 )
+	rom ( name BLUE.#06 size 1457564 crc c2dfec29 md5 d52f6941194e6ee4f6afe2c674d19f19 sha1 e62b09028115b9a42eacbb493380f22d82d02357 )
+	rom ( name BLUE.#07 size 1457564 crc 49dda435 md5 16deb6196526feca730a42353bc64d91 sha1 2c3d6b5f87bf240f4ca298d90ef8ecc9a17dca23 )
+	rom ( name BLUE.#08 size 130768 crc 47787ac3 md5 a7bb59346ec787d429813e3be60787ee sha1 c61292ab669f33e69f1a7c9626b04d22f4cfcf02 )
+	rom ( name BLUE.RLB size 1156508 crc 54155c3a md5 17c3993415e8a2cf93040eef7e88ec93 sha1 7264d57805d1b8d058659dd4d663a99888bd0976 )
+	rom ( name FILES.RLB size 183973 crc 6c2820e7 md5 806620683d9dbe6d51d485d577de0958 sha1 ea15696d5711d4894f0243ee8c532c0c5c623d47 )
+	rom ( name TSAGE.RLB size 38865 crc ce6a817a md5 766d1bc0b2213932027fac46e29443c2 sha1 545d6a1c144e2026f631f3a82edd500f694c0ac1 )
+)
+
+game (
+	name blueforce-es
+	description "Blue Force (CD/DOS/Spanish)[!]"
+	year 1995
+	manufacturer "Tsunami Games"
+	sourcefile tsage
+	rom ( name BLUE.RLB size 10082565 crc 0559bcf4 md5 ed93a9256991f8217bae55d03664bc75 sha1 8d253daf28923972c5331c45054b960c1ced3b96 )
+	rom ( name FILES.RLB size 13785 crc 152848cf md5 0d0cf3119a7bc6afa692532510b9ced5 sha1 c424a3e6ae29623fdaf0a5296fc88c1d19572126 )
+	rom ( name TSAGE.RLB size 42468 crc c7e5f52c md5 e336236247b8efcf98c0da9be4b6da10 sha1 b99c2b7c8c7570fd72443a88900474f4bec4cdde )
 )
 
 game (
@@ -37,7 +66,7 @@ game (
 	year 1995
 	manufacturer "Tsunami Games"
 	sourcefile tsage
-	rom ( name BLUE.RLB size 63863322 crc 507412da md5 ac29f38184cb3b874ea18523059872ba )
+	rom ( name BLUE.RLB size 63863322 crc 507412da md5 ac29f38184cb3b874ea18523059872ba sha1 a2fd9d7c2f65eb2114b70a3cd0f7c0c05010d305 )
 )
 
 game (
@@ -46,8 +75,8 @@ game (
 	year 1992
 	manufacturer "Tsunami Media"
 	sourcefile tsage
-	rom ( name RING.RLB size 8438770 crc 1b6db576 md5 61f78f68a56832ae95fe06748c403234 )
-	rom ( name TSAGE.RLB size 32235 crc d81cf6aa md5 205a6883ef64e32d5675398fd6adeeab )
+	rom ( name RING.RLB size 8438770 crc 1b6db576 md5 61f78f68a56832ae95fe06748c403234 sha1 bd5595cd8b8e721fc7d3e8bdbf583c9c1c1000c4 )
+	rom ( name TSAGE.RLB size 32235 crc d81cf6aa md5 205a6883ef64e32d5675398fd6adeeab sha1 556d263981c15b6ea597d6b953d7ba049f55b495 )
 )
 
 game (
@@ -56,27 +85,36 @@ game (
 	year 1992
 	manufacturer "Tsunami Media"
 	sourcefile tsage
-	rom ( name RING.RLB size 37847618 crc d5ad6c75 md5 0a25b4ee58d44a54425c0b47e5096bbc )
-	rom ( name TSAGE.RLB size 32235 crc d81cf6aa md5 205a6883ef64e32d5675398fd6adeeab )
-)
-
-game (
-	name ringworld-cd-es
-	description "Ringworld: Revenge of the Patriarch (CD/DOS/Spanish)"
-	year 1992
-	manufacturer "Tsunami Media"
-	sourcefile tsage
-	rom ( name RING.RLB size 7427980 crc dad890d5 md5 c2fb9bc8522f2d7064f678852cf59710 )
-	rom ( name TSAGE.RLB size 28443 crc a3715637 md5 b0b251763bc20b3f18e61ceced927fba )
+	rom ( name RING.RLB size 37847618 crc d5ad6c75 md5 0a25b4ee58d44a54425c0b47e5096bbc sha1 00f58dfefc4cff965da37368f89e642af289ba84 )
+	rom ( name TSAGE.RLB size 32235 crc d81cf6aa md5 205a6883ef64e32d5675398fd6adeeab sha1 556d263981c15b6ea597d6b953d7ba049f55b495 )
 )
 
 game (
 	name ringworld-demo
-	description "Ringworld: Revenge of the Patriarch {Demo}(Floppy/DOS)"
+	description "Ringworld: Revenge of the Patriarch |Demo|(Floppy/DOS)"
 	year 1992
 	manufacturer "Tsunami Media"
 	sourcefile tsage
-	rom ( name TSAGE.RLB size 833453 crc d4580bc6 md5 bf4e8525d0cab84b08b57126092eeacd )
+	rom ( name TSAGE.RLB size 833453 crc d4580bc6 md5 bf4e8525d0cab84b08b57126092eeacd sha1 a3290db495b76b45f3b9cf2a5bcddd5eae734e55 )
+)
+
+game (
+	name ringworld-demo-1
+	description "Ringworld: Revenge of the Patriarch |Demo 2|(Floppy/DOS)"
+	year 1992
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	rom ( name DEMORING.RLB size 832206 crc bc504d95 md5 9ecf48e088a0d475778fab480b3dbdd0 sha1 2180a78a61d014329672c61c46bd4bc1ed0f2bf0 )
+)
+
+game (
+	name ringworld-es
+	description "Ringworld: Revenge of the Patriarch {Ringworld: La Venganza del Patriarca}(CD/DOS/Spanish)[!]"
+	year 1992
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	rom ( name RING.RLB size 7427980 crc dad890d5 md5 c2fb9bc8522f2d7064f678852cf59710 sha1 7b82c789df69e4fd76b5037fc6db832fe9ef537b )
+	rom ( name TSAGE.RLB size 28443 crc a3715637 md5 b0b251763bc20b3f18e61ceced927fba sha1 c1621062f1a85d687fad1151707d5c1b28de1670 )
 )
 
 game (
@@ -85,17 +123,36 @@ game (
 	year 1994
 	manufacturer "Tsunami Media"
 	sourcefile tsage
-	rom ( name R2RW.RLB size 47586928 crc 07dad1ce md5 f5dd9ef0b5ceda876bb3d63ce06f7c13 )
-	rom ( name SND4K.RES size 234516992 crc af86619c md5 7fffc9a054195dc1fd6bc00a92372ef4 )
+	romof ringwrld2res
+	rom ( name R2RW.RLB size 47586928 crc 07dad1ce md5 f5dd9ef0b5ceda876bb3d63ce06f7c13 sha1 ae871b342f990100ee7df9cba803753c1d479381 )
+)
+
+game (
+	name ringworld2-cd-es
+	description "Return to Ringworld (CD/DOS/Spanish)[Pakolmo v1.0][!]"
+	year 1994
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	romof ringwrld2res
+	rom ( name R2RW.RLB size 47678672 crc c24f5d94 md5 182617b2904458ce33057fe826dd697c sha1 f9273fcc244544124d81620d62219bec429f9c01 )
 )
 
 game (
 	name ringworld2-cd-demo
-	description "Return to Ringworld {Demo}(CD/DOS)"
+	description "Return to Ringworld |Demo|(CD/DOS)"
 	year 1994
 	manufacturer "Tsunami Media"
 	sourcefile tsage
-	rom ( name R2RW.RLB size 32384464 crc 296e9f48 md5 fa86abd3d6590a5728910e740a6eb92b )
-	rom ( name SND4K.RES size 110838272 crc 7c796bc9 md5 0887a77d96598f37b6fbbe69f66d4a61 )
+	rom ( name R2RW.RLB size 32384464 crc 296e9f48 md5 fa86abd3d6590a5728910e740a6eb92b sha1 eee08af63475deee85d03d4546fea5c783c64e31 )
+	rom ( name SND4K.RES size 110838272 crc 7c796bc9 md5 0887a77d96598f37b6fbbe69f66d4a61 sha1 40a0b3beb439c637d30c274a2b49be35d477531c )
+)
+
+resource (
+	name ringwrld2res
+	description "ZZZ - Return to Ringworld - CD Resource[!]"
+	year 1994
+	manufacturer "Tsunami Media"
+	sourcefile tsage
+	rom ( name SND4K.RES size 234516992 crc af86619c md5 7fffc9a054195dc1fd6bc00a92372ef4 sha1 b5faf097c138eec1556ff8763a7398b42978133f )
 )
 

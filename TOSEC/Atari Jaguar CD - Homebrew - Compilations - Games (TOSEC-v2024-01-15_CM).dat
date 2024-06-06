@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Homebrew - Compilations - Games</name>
+		<description>Atari Jaguar CD - Homebrew - Compilations - Games (TOSEC-v2024-01-15)</description>
+		<category>TOSEC-ISO</category>
+		<version>2024-01-15</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="JagCode 500 (2007)(Jagcode)">
+		<description>JagCode 500 (2007)(Jagcode)</description>
+		<rom name="JagCode 500 (2007)(Jagcode).cdi" size="12288794" crc="da57011e" md5="2d16875d716b1167294f6a73fe526a50" sha1="aa0ad4e4c84b089a63192320625cb8272d516f14"/>
+	</game>
+</datafile>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>2</id>
+		<name>Atari - Jaguar (COF)</name>
+		<description>Atari - Jaguar (COF)</description>
+		<version>20231013-072322</version>
+		<author>Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, halftheisland, Hiccup, nnssxx, NovaAurora, omonim2007, rarenight, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Abyss (World) (v0.74) (Proto) (Aftermarket) (Unl)" id="0282">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Abyss (World) (v0.74) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Abyss (World) (v0.74) (Proto) (Aftermarket) (Unl).cof" size="1006649" crc="032edd1d" md5="77e9daa8a4ed1e20abeab09f0f5776bc" sha1="d03da34b176583e4dd6beab197cd62d539ae9669" sha256="0af7ecf6378e66ce5aef01745def43608547b43902a44b82fdfb2584d85c42ba"/>
+	</game>
+	<game name="Fallen Angels (World) (Aftermarket) (Unl)" id="0245">
+		<category>Games</category>
+		<description>Fallen Angels (World) (Aftermarket) (Unl)</description>
+		<rom name="Fallen Angels (World) (Aftermarket) (Unl).cof" size="1016077" crc="1ec695a6" md5="39cc0a256136f6034d83cab01075e864" sha1="1f2d72590bacbcdedb16044f51f996506cfb94ff" sha256="d9a74cbd9b6af5dac1815b0bea419c9b1eeb5ea6524c63820ab4525f9c116019"/>
+	</game>
+	<game name="Fallen Angels (World) (Aftermarket) (Unl) (Alt)" id="0280" cloneofid="0245">
+		<category>Games</category>
+		<description>Fallen Angels (World) (Aftermarket) (Unl) (Alt)</description>
+		<rom name="Fallen Angels (World) (Aftermarket) (Unl) (Alt).cof" size="1016131" crc="1a33dc94" md5="58f1e51d9487c38afacaf10894b2023e" sha1="ff1b4ff87939fdd64bb3faddf7ef1aac92625855" sha256="68edf828bc88f3e749d9299d845156d64f11d1d3ab3eb485771d26e0379f4e64"/>
+	</game>
+	<game name="Gem Race (World) (Aftermarket) (Unl)" id="0244">
+		<category>Games</category>
+		<description>Gem Race (World) (Aftermarket) (Unl)</description>
+		<rom name="Gem Race (World) (Aftermarket) (Unl).cof" size="2097152" crc="f0c77eb0" md5="b704d1c1fda32e35dd17905254c26b8c" sha1="06cf04ff4b595c990fc1be86c8a7b991dcf810b3" sha256="082e32896cce34a342acb0a9ccc8d5253738a28277e61f90d12e1f1de43164fb"/>
+	</game>
+	<game name="Gem Race (World) (Aftermarket) (Unl) (Alt)" id="0281" cloneofid="0244">
+		<category>Games</category>
+		<description>Gem Race (World) (Aftermarket) (Unl) (Alt)</description>
+		<rom name="Gem Race (World) (Aftermarket) (Unl) (Alt).cof" size="1519846" crc="fb8e39c6" md5="b828c552749f18583adad438f65ce519" sha1="df2a24dccdc7109211f19dc8101bb850f593bff9" sha256="94a31c9c273f077ec3c3c485bf148647eba2f2e9d25f91f059ca3d22b2b8f9c8"/>
+	</game>
+	<game name="HalMock FurBall - Sink or Swim (World) (Demo) (Aftermarket) (Unl)" id="0263">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>HalMock FurBall - Sink or Swim (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="HalMock FurBall - Sink or Swim (World) (Demo) (Aftermarket) (Unl).cof" size="1060449" crc="e0005dab" md5="4f314e2f6ab20419d106afaf7e933e96" sha1="621954cd6ce0974468ac0fe34886b28eb092f0ad" sha256="8a109b42a7a35b2e4086d0dc9de5f5a0d5c794a8bdc2888038747f60f9868076"/>
+	</game>
+	<game name="Jagmatch (World) (Aftermarket) (Unl)" id="0250">
+		<category>Games</category>
+		<description>Jagmatch (World) (Aftermarket) (Unl)</description>
+		<rom name="Jagmatch (World) (Aftermarket) (Unl).cof" size="327582" crc="5d695a6a" md5="c89505ff700360e0ca9e4dccc8922ffd" sha1="4265945ec2beb5e8822e32059d8441cc880ec168" sha256="155f493a0bc58bb427af2cd4aa833fbe46690993cbe0e442841c734e160909db"/>
+	</game>
+	<game name="Jetpac (World) (Aftermarket) (Unl)" id="0246">
+		<category>Games</category>
+		<description>Jetpac (World) (Aftermarket) (Unl)</description>
+		<rom name="Jetpac (World) (Aftermarket) (Unl).cof" size="363387" crc="92de823b" md5="d4c92ef695dc32c71aa73837a6d90a06" sha1="06a51dae096883de03a052fc294d2f41221bd664" sha256="b076d9223e5e4b4ad2d458bad21aa4277419641a5c4b9aec2ce9b34da77d57a4"/>
+	</game>
+	<game name="Martian Attack (World) (Aftermarket) (Unl)" id="0272">
+		<category>Games</category>
+		<description>Martian Attack (World) (Aftermarket) (Unl)</description>
+		<rom name="Martian Attack (World) (Aftermarket) (Unl).cof" size="1012905" crc="f2e31ea7" md5="589bcfe2e36409ed5722815d82b71305" sha1="9979cf85d3a83f57df521f156c3ea8446985a77b" sha256="9ad773b00da9322e3c55951aa5cb4d0daa51e65d34c5e5f96cd17343de77443f"/>
+	</game>
+	<game name="Martian Attack (World) (JagCode 2007) (Aftermarket) (Unl)" id="0273" cloneofid="0272">
+		<category>Games</category>
+		<description>Martian Attack (World) (JagCode 2007) (Aftermarket) (Unl)</description>
+		<rom name="Martian Attack (World) (JagCode 2007) (Aftermarket) (Unl).cof" size="1012826" crc="dc582985" md5="b4b039348c5ad83761824865e4419ff8" sha1="806a9d7574a1c763b92e1b6dde3ec695f8cb5fe9" sha256="065102cc79626ed8bdd9bb571f068ec20380191ceac94c9253f2bdba5a038161"/>
+	</game>
+	<game name="Rings (World) (RC3) (Aftermarket) (Unl)" id="0277">
+		<category>Games</category>
+		<description>Rings (World) (RC3) (Aftermarket) (Unl)</description>
+		<rom name="Rings (World) (RC3) (Aftermarket) (Unl).cof" size="1017923" crc="e45b36e2" md5="25e7299ac24363ebf76a33604a466ba2" sha1="7739a822b77f1e96907a0a95be41dfb056b122bb" sha256="2e9fb8e7bdfb5eb2c4c514b3c78a9cdaa7e2910d89481871fd9dd5d49bac51cd"/>
+	</game>
+	<game name="Shoot'em up (World) (Aftermarket) (Unl)" id="0226">
+		<category>Games</category>
+		<description>Shoot'em up (World) (Aftermarket) (Unl)</description>
+		<rom name="Shoot'em up (World) (Aftermarket) (Unl).cof" size="257348" crc="1a81e2ff" md5="4a06bfdb3026ce517ac189109b1468d9" sha1="d7c15bbd27e8b6548a2a23dca72b9c970537db6c" sha256="050708bf0ad0090bdd407171da6139d689e7a0a7b03ce6a8fc2d585c2e1da47a"/>
+	</game>
+	<game name="Shoot'em up 3D (World) (Demo) (Aftermarket) (Unl)" id="0155">
+		<category>Games</category>
+		<description>Shoot'em up 3D (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Shoot'em up 3D (World) (Demo) (Aftermarket) (Unl).cof" size="245765" crc="bbcc2ea1" md5="20732dd15552f015cc55795c989a4183" sha1="f3481bd857024f52f8d564fb62ef3f4de71fce82" sha256="7cf2139ff445044ae2ffe58002bfbce3e86dade53529d51352b514d91aaa63c6"/>
+	</game>
+	<game name="Slam Racer (World) (Proto 1) (Aftermarket) (Unl)" id="0138" cloneofid="0089">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Slam Racer (World) (Proto 1) (Aftermarket) (Unl)</description>
+		<rom name="Slam Racer (World) (Proto 1) (Aftermarket) (Unl).cof" size="2097152" crc="91c3ff61" md5="90412784d2686c4f5758b65ca0c0563c" sha1="792d54b0591a964a73bdb52511e0bded291f4092" sha256="206c8775abbaeee7a5741d8e407c8098ce6f50c3a02a575355437729ef2e8dc8"/>
+	</game>
+	<game name="STNICCC 2000 (2nd) (World) (2022-05-31) (Demo) (Aftermarket) (Unl)" id="0268" cloneofid="0266">
+		<category>Demos</category>
+		<description>STNICCC 2000 (2nd) (World) (2022-05-31) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="STNICCC 2000 (2nd) (World) (2022-05-31) (Demo) (Aftermarket) (Unl).cof" size="905184" crc="0f00b52c" md5="c8494b9596ee4aff9ac36a4ae02d71ba" sha1="62918913f41c32406f918d887c4b50b70ad963d6" sha256="fd168be37dbf37e0e642f3fd8906a4a2f36c1d8d11a0b6b7d90bb2c8b21604b1"/>
+	</game>
+	<game name="Tube (World) (Aftermarket) (Unl)" id="0228" cloneofid="0227">
+		<category>Games</category>
+		<description>Tube (World) (Aftermarket) (Unl)</description>
+		<rom name="Tube (World) (Aftermarket) (Unl).cof" size="604708" crc="c312ede5" md5="f34ac8937cdf8e0b9a1a1c1923273d0d" sha1="4411afa64d6f6282a37a2931066ad01a93985bc1" sha256="8e974cb7efbefb4fb997472b48fcee9cd12b2f0e887f36884d56938cf1982d71"/>
+	</game>
+	<game name="Tube - Second Edition (World) (Aftermarket) (Unl)" id="0227">
+		<category>Games</category>
+		<description>Tube - Second Edition (World) (Aftermarket) (Unl)</description>
+		<rom name="Tube - Second Edition (World) (Aftermarket) (Unl).cof" size="1038861" crc="8a3e7fe5" md5="653c4a6317bf0deaea77c62facfcc39b" sha1="f234cea031dd4f724a86da703c9e95926d0d798b" sha256="fa675af62f21565146af3d9c2b15039cb3a2fd2bd74a44fc035996460a42fb89"/>
+	</game>
+	<game name="Tube2020 (World) (RC2) (Aftermarket) (Unl)" id="0278">
+		<category>Games</category>
+		<description>Tube2020 (World) (RC2) (Aftermarket) (Unl)</description>
+		<rom name="Tube2020 (World) (RC2) (Aftermarket) (Unl).cof" size="355020" crc="5367b1f7" md5="b2bfd719c694ed6767a64a2a86126602" sha1="05f1b6f5ff107e4aa286dcd3c0c834e5a71152a7" sha256="063578f9d48afb088eba03fa92f5cf9b193a0ce1545afbd3fbc48aeda7e5041f"/>
+	</game>
+	<game name="Tube2020 (World) (RC1) (Aftermarket) (Unl)" id="0279" cloneofid="0278">
+		<category>Games</category>
+		<description>Tube2020 (World) (RC1) (Aftermarket) (Unl)</description>
+		<rom name="Tube2020 (World) (RC1) (Aftermarket) (Unl).cof" size="354708" crc="66906b28" md5="34f7c7c197083fe69eed29aa60441e09" sha1="2af3a6ccd3483541409621d1f8f17b562c32daa0" sha256="6b00008a3746e1e43677d090408b9a7e911262b00ebc22746821a8f8f061d6ae"/>
+	</game>
+	<game name="UWOL - Quest for Money (World) (Aftermarket) (Unl)" id="0157">
+		<category>Games</category>
+		<description>UWOL - Quest for Money (World) (Aftermarket) (Unl)</description>
+		<rom name="UWOL - Quest for Money (World) (Aftermarket) (Unl).cof" size="4056341" crc="8e301d07" md5="f1877a01a4e230e07f0d88a9c2f1973c" sha1="0852bc2696743d5753e8bd3ab2390d5f5889a504" sha256="dba89ecf1fbf5cdfb66a44625a9cdfa2a9a119b16cd19d3f914cc2d5d9eabc71"/>
+	</game>
+	<game name="UWOL - Quest for Money (World) (Silly Venture 2017) (Aftermarket) (Unl)" id="0158" cloneofid="0157">
+		<category>Games</category>
+		<description>UWOL - Quest for Money (World) (Silly Venture 2017) (Aftermarket) (Unl)</description>
+		<rom name="UWOL - Quest for Money (World) (Silly Venture 2017) (Aftermarket) (Unl).cof" size="3958413" crc="d1c59dbf" md5="b3b3943df58ef45e13d81e0d421081a4" sha1="bd59c35644cd4ad72fea14526936dd2b0be3d898" sha256="c4e3e5ec7f98a898052918584af0fe147c4e8646a7fe9d5fe1bb1f30e8a04c96"/>
+	</game>
+</datafile>

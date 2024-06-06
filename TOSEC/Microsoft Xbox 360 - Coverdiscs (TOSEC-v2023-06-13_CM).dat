@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft Xbox 360 - Coverdiscs</name>
+		<description>Microsoft Xbox 360 - Coverdiscs (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official XBOX Magazine - Issue 083 (2012-09)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 083 (2012-09)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 083 (2012-09)(Future Publishing)(AU).iso" size="8738846720" crc="13589274" md5="f3b3013b55edb1afa5b275d899d7c354" sha1="852979f11b0543e85d0703d4b7d87575bdfba3d3"/>
+	</game>
+	<game name="XBOX 360 - Issue 021 (2007-11)(Derwent Howard)(AU)">
+		<description>XBOX 360 - Issue 021 (2007-11)(Derwent Howard)(AU)</description>
+		<rom name="XBOX 360 - Issue 021 (2007-11)(Derwent Howard)(AU).iso" size="7835492352" crc="fefebe69" md5="411c1fbd8b7647ae8afbb2ec829e7e59" sha1="807d362a6cd82c583483ca7013627bfd2e83bc64"/>
+	</game>
+</datafile>

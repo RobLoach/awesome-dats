@@ -1,0 +1,100 @@
+clrmamepro (
+	name "ScummVM GLK-AGT"
+	description "ScummVM - GLK Engine - AGiliTy Games"
+	category "ScummVM"
+	version v1.01
+	date 2021-08-10
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name abloodylife
+	description "A Bloody Life (Multi-OS)"
+	year 1999
+	manufacturer "Quentin D. Thompson"
+	sourcefile glk-agt
+	rom ( name BLOODY.D$$ size 157221 crc 4a986e57 md5 4d17fd99bfb87045bb3b664d14bd870f sha1 74d466459e9c9da427f7c6b3b88194c5e7b36b84 )
+	rom ( name BLOODY.DA1 size 12427 crc 97816517 md5 eac0838aa3fad9ce609cd177cd80f4c8 sha1 c1b80949a55ce5159e486dd7dbe9cf6c16229dc9 )
+	rom ( name BLOODY.DA2 size 28188 crc 019b014f md5 802211584f3229630a30f4a90cdaabd4 sha1 b3d0cb4519ef73af102e81eb7dc79ba069b217c3 )
+	rom ( name BLOODY.DA3 size 11792 crc ae1d64cf md5 10cb7c5501c17af7ee905e877def72a7 sha1 68c325e43e8453db6f32fd6a0a02e2dab0bf98aa )
+	rom ( name BLOODY.DA4 size 3876 crc 7c6c6e0d md5 3429aa109da8e83445fb50c89f514ab6 sha1 6907543bf0aa40263b32d5be9a4f51d3c617ebc5 )
+	rom ( name BLOODY.DA5 size 11135 crc 3c6b85bd md5 9a0dd9025b89b20d51412036d0edcb5c sha1 c7607f3ecb66d620c1cb4671ecd687d4ee733705 )
+	rom ( name BLOODY.HNT size 17586 crc 67385f9f md5 307d82411e2f6e15faf08c01fb6215bb sha1 f5f828c35156bdb9565b294f1593eb560449d481 )
+	rom ( name BLOODY.INS size 6132 crc 530f40b9 md5 fd1fefc0d630269fb263c79c8e63677a sha1 92a2eaad6844e3c4613c72189402dfef3df78e09 )
+	rom ( name BLOODY.TTL size 244 crc ffbaf37e md5 21063a49fb5271a1dcfdb8a019b7c253 sha1 83b01aca2767d547bd92b667e7be82ab3336dee1 )
+)
+
+game (
+	name cardigan1
+	description "Space Aliens Laughed at My Cardigan (Multi-OS)"
+	year 1994
+	manufacturer "Andre M. Boyle"
+	sourcefile glk-agt
+	rom ( name ALIENS.D$$ size 103356 crc 8fd892cf md5 a16762a9a3a075bf615ff1480b6aa965 sha1 cdf3d93ed6fbf232e886166f9d126b6fe51e33fb )
+	rom ( name ALIENS.DA1 size 15638 crc 544a2e73 md5 ffd772c5091eeb1406dd72e0c54089be sha1 a142940551630652570e9dcd19621cf535fa24fc )
+	rom ( name ALIENS.DA2 size 30798 crc 91e519e8 md5 9942f5d5aaae6ac3fbdbf30fc6576563 sha1 67464af554a930c562e9896479c69699f00f21fb )
+	rom ( name ALIENS.DA3 size 26800 crc 757eb556 md5 5a44769b1408894ae86419f7581e6b16 sha1 b476ecdd4a77bb44cf43b7d1850ae562eb867875 )
+	rom ( name ALIENS.DA4 size 19380 crc 1604edfb md5 3ca750f53ae78a95501dc79836ab3ef6 sha1 97107730f5b705b160a7a6ff6ca7734176393778 )
+	rom ( name ALIENS.DA5 size 8777 crc 4f928dda md5 ed2f7b24f185e015ab26db9d64ee6899 sha1 b410ee7d5d3d1bf87a2d3685667878f537ef8f3d )
+	rom ( name ALIENS.INS size 3826 crc c9bc883d md5 2c7863c2336bcd5183f16d6e1e10f8bf sha1 714ec8cdd997e467c1019d8e4c5bc0dadf9c6bbf )
+	rom ( name ALIENS.TTL size 1345 crc 55a4f0de md5 a75a96e5eba2086cd461aed0edda95f0 sha1 dec53127ae827a8a83b4ab3e5f09292b961a46c4 )
+)
+
+game (
+	name ducksoup
+	description "Duck Soup (Multi-OS)[v3.0]"
+	year 1997
+	manufacturer "C. Evans"
+	sourcefile glk-agt
+	rom ( name DUCKSOUP.D$$ size 83187 crc f2f28b36 md5 072ef5163e82dd34968bdb21f0e39c8a sha1 87eaf9f7cd526f2b2a1cf6ae61dccbd47b9994f2 )
+	rom ( name DUCKSOUP.DA1 size 13160 crc cb169d5a md5 318701319a8d001df4b810d69beaea2a sha1 5e884b33bd4d76a666389c07691f9c702639f1b0 )
+	rom ( name DUCKSOUP.DA2 size 11136 crc 67f06a2d md5 6b07b72377b297ec402df06ea0c14037 sha1 ad69955f4b6cd6f6db46936cefe4265f2b542497 )
+	rom ( name DUCKSOUP.DA3 size 26800 crc 5a262d63 md5 cdadadcab51a994244ac23aada587aa1 sha1 6e3af4ef80c6c2abb170751b308e77331b1b657c )
+	rom ( name DUCKSOUP.DA4 size 9348 crc 899b5dcf md5 9b51de0c2220c95d8a042ac65fbbd6f3 sha1 be422a02a5b827f06f5526bf5954e004a269b876 )
+	rom ( name DUCKSOUP.DA5 size 51483 crc b65b1b79 md5 f66360495f2a989c67c119f1a9907a4e sha1 f3a4540d35845f23566c992f00b0230cb9a73706 )
+	rom ( name DUCKSOUP.DAT size 53881 crc 3c134e38 md5 4a2cc7a9c74d061fa5c9bcb35cc1ca43 sha1 2463bde742aee3acfaf5cde0a962b804cbfdcb69 )
+	rom ( name DUCKSOUP.INS size 5600 crc 9e74a49c md5 6d31067016ee53d3d58151cbde204dd8 sha1 cce5ebf3c80e73f4412507d7440d415c6c3a3da5 )
+	rom ( name DUCKSOUP.TTL size 99 crc 86478fe8 md5 13484afcb7648cf9a36915bb3d0b881b sha1 503027c5edb6a8dd298be9999c6d72d707cda337 )
+)
+
+game (
+	name hobbswok
+	description "Sir Ramic Hobbs and the Oriental Wok (Multi-OS)[v1.1s]"
+	year 1996
+	manufacturer "Gil Williamson"
+	sourcefile glk-agt
+	rom ( name wok.d$$ size 198369 crc 93d1cb84 md5 9b3892d1287495dcb3113cb4be4734df sha1 6f8e9bc00ec76591e8a6652345f9f04e3d41073f )
+	rom ( name wok.da1 size 20081 crc 03f35c2d md5 008c9e43978229219821436206116347 sha1 bd60ca05b024cadd3786c669c7f07f79222ebeee )
+	rom ( name wok.da2 size 6045 crc 6207a3ea md5 528426cb035215baa915e0889de31464 sha1 0d3dfb991eed01c8b5e270c83f3b67d211a7b826 )
+	rom ( name wok.da3 size 23406 crc 851860af md5 dc1aadccf441435debd312170ff2d625 sha1 e1d3883c9748b7b364ad6af4791678376aba82db )
+	rom ( name wok.da4 size 1090 crc 5bc22804 md5 5f610335097666f2013214f823348cf4 sha1 09b607116d6a9991c020454e6ba16dabafeb407f )
+	rom ( name wok.da5 size 35292 crc 5432c5c0 md5 17c9dfa0376ed03765dab0c01d780877 sha1 c68b81982b0b3e16805582a835302558b454df67 )
+	rom ( name wok.da6 size 40000 crc e2b7113a md5 cd17308d822883235bcc1ee4ccfbe130 sha1 ad0b586284cb490d7fdf6e6ecf5354c7909528e6 )
+	rom ( name wok.opt size 14 crc edd10dc0 md5 1a791aa41044c584b956284bf06bb995 sha1 5d8d3b329a963110a10042d58cde6e924ca560e7 )
+	rom ( name wok.ttl size 118 crc 2505fa4d md5 b505c60d6ec0666c081f3f92ff99dc37 sha1 7255894a3ccda5edbb9913dbbb1decf94be6874f )
+	rom ( name wok.voc size 40 crc b2ab282a md5 9dc9312b276168f1ded4d637b1740c77 sha1 5ccf74fe4b025c40519817c8a3a85948be7bc439 )
+	rom ( name wok.wlk size 5628 crc 9984ed07 md5 9afbc4b91d75ff6c86b1d9ce3f7dfdd4 sha1 88bec5e82e909bcb0716cf36c66eae5c8d00dd95 )
+)
+
+game (
+	name mdthief
+	description "Multi-Dimensional Thief, The (Multi-OS)"
+	year 1991
+	manufacturer "Joel Finch"
+	sourcefile glk-agt
+	rom ( name MAP.THF size 4000 crc 67fcee1f md5 748360476e6dde114329bd3a19a9ae7b sha1 93dd89edace29c60d36f7b97b690a232bde48c18 )
+	rom ( name THIEF.D$$ size 243729 crc 8e799919 md5 5efdcb7402ab4dbb44606a0620bffe15 sha1 e53c13afd349fd0f7fe0acf676a669033c2c40c8 )
+	rom ( name THIEF.DA1 size 17491 crc cdfe35c4 md5 aa3835d02111a9335bf84cfb56e761db sha1 eda11c56573d188dfe4eb8c8b75c04ed98955ef2 )
+	rom ( name THIEF.DA2 size 17100 crc b405caa9 md5 386d4ceeb1ab743d440181538b64b57f sha1 f80e0f6ddbd691f943e79b148f7b3e32551681c6 )
+	rom ( name THIEF.DA3 size 26500 crc 23fd6ab3 md5 b2279caf8272d7b976df321aa41e6621 sha1 64aed06e49f696783a9853785386d708a28219c9 )
+	rom ( name THIEF.DA4 size 19902 crc c2cfe76c md5 cdcd547f405f7151e151490bd599ed47 sha1 25f4e86c7cfff764bb06c146fc537c0d7cc95efd )
+	rom ( name THIEF.DA5 size 20800 crc ec54bd92 md5 1cf4c3e4135e9bdf075b4e5644df715e sha1 7d6dbf2a174e7aa3dde5a59264b8f7982521afc8 )
+	rom ( name THIEF.DA6 size 10000 crc 5af9938c md5 acff0b2bba45d082c9e894b5d3a89ed7 sha1 39274520a7f46348f128ffb02cdd2d1f61f36b6b )
+	rom ( name THIEF.HNT size 28477 crc 3cbf23e9 md5 6f28926f1f2f0723392c8ea85b8c6936 sha1 d10a90a53553cc7e47f90a14db2e6348f9b793ce )
+	rom ( name THIEF.INS size 9534 crc 4a0fc76b md5 3baa6ee42e76d724749434703cb84c4e sha1 aa13dba7299fba8640b7f475dbe13b7062ce2922 )
+	rom ( name THIEF.TTL size 113 crc fb929aed md5 d4c641bf7bc3cb98fb7f411c93292c7c sha1 7afd1b7bee81375c5dac053f36fdc46d254b7ec9 )
+	rom ( name THIEF.VOC size 1310 crc 0ba0caa7 md5 0ad5b08533de398b4c0a0cd66a439aa9 sha1 24b051d1b06ea83375d851b9031a6bdd96ee4ce4 )
+)
+

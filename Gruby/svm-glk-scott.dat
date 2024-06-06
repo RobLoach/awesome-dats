@@ -1,0 +1,686 @@
+clrmamepro (
+	name "ScummVM GLK-Scott"
+	description "ScummVM - GLK Engine - Scott Games"
+	category "ScummVM"
+	version v1.07
+	date 2022-04-13
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name 10indians
+	description "Mysterious Adventures 10: Ten Little Indians (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name A_tenlittleindians.dat size 14215 crc 2c6a1fe0 md5 487cf8350c5df5a65f878507de6fdaa2 sha1 6d7cb0c608921888bced4cf41fdd57113cf36033 )
+)
+
+game (
+	name 10indians-1
+	description "Mysterious Adventures 10: Ten Little Indians (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name ten_indians.blb size 64660 crc b6e52d07 md5 0e35a6705e4b9398e25ae2617d38206c sha1 7346fbbe70b670bae737256d899d855976501137 )
+)
+
+game (
+	name 10indians-sp
+	description "Mysterious Adventures 10: Ten Little Indians (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m10india.z80 size 31664 crc f89bd304 md5 1b2980fa5a44502433c9dc9415d71a04 sha1 67ebc4bff396b81af8d64db580eacda94f2eef6d )
+)
+
+game (
+	name adventureland
+	description "Scott Adams Adventure 01: Adventureland (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv01.dat size 15896 crc 81788ad1 md5 3b1e4cb60f0063b49245b8d7c32dee1e sha1 5d8e9ad86656c90b564aab8f8b949b989e1e12bc )
+)
+
+game (
+	name adventureland-1
+	description "Scott Adams Adventure 01: Adventureland (PDA)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV01.DAT size 18003 crc c9f9a492 md5 8030145af8d11818f1698f48e0941506 sha1 e5be209e72421f58d34e11ed11474b1652c312ae )
+)
+
+game (
+	name akyrz
+	description "Mysterious Adventures 08: The Wizard of Akyrz (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name 8_akyrz.dat size 16803 crc 67f03f55 md5 4debbc71b92554789e3db80b2f68bfb9 sha1 65fa9c5a2e6b328ebf891c4b1f5525cbef562c81 )
+)
+
+game (
+	name akyrz-1
+	description "Mysterious Adventures 08: The Wizard of Akyrz (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name wizard_akyrz.blb size 65008 crc e4cea502 md5 32f6ce45d5f4d8b38f953b371a48e33b sha1 799ce9daf814a622ed93157de21d8ba4acef3318 )
+)
+
+game (
+	name akyrz-sp
+	description "Mysterious Adventures 08: The Wizard of Akyrz (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m8akyrtz.z80 size 33753 crc 216ba37b md5 1cfeacaaae12bb1d8a1c0192beb793a7 sha1 f3488b72bc8e4f1b16062037739b049bef5a7a00 )
+)
+
+game (
+	name arrowofdeath1
+	description "Mysterious Adventures 03: Arrow of Death Part 1 (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name 3_arrow1.dat size 13412 crc 81401134 md5 6eb620344f2139194aad464191de7957 sha1 4e05a687348d9055594bf0722589c3287afa7769 )
+)
+
+game (
+	name arrowofdeath1-1
+	description "Mysterious Adventures 03: Arrow of Death Part 1 (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name arrow1.blb size 68150 crc 8ba10d16 md5 1f9cd9690af922b4b579b23b062dd156 sha1 f6164691d8cb88f2e28f3bc6b089c9da29847d3b )
+)
+
+game (
+	name arrowofdeath1-sp
+	description "Mysterious Adventures 03: Arrow of Death Part 1 (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m3arrow1.z80 size 34105 crc 16a522cc md5 7470fc7e840f7610761c509ebd31dade sha1 1a8a514e0b999ce0451c158a6f2d3f94828a2aa0 )
+)
+
+game (
+	name arrowofdeath2
+	description "Mysterious Adventures 04: Arrow of Death Part 2 (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name 4_arrow2.dat size 15554 crc 0985e19a md5 d28c4608062fda5cb2708607c9542ff6 sha1 97ae55abf40950bdf7b2dcf665c33cd5d0ed2d4e )
+)
+
+game (
+	name arrowofdeath2-1
+	description "Mysterious Adventures 04: Arrow of Death Part 2 (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name arrow2.blb size 77544 crc 9d96d419 md5 7b52760e4616dacfa437b516dc3bda3f sha1 6a1c86a9b7d0e8869ec9e9b91197f1e7697f35c6 )
+)
+
+game (
+	name arrowofdeath2-sp
+	description "Mysterious Adventures 04: Arrow of Death Part 2 (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m4arrow2.z80 size 38043 crc 8b2414e1 md5 d4687ce03cf52d76d9d1f6dab1d4327a sha1 8c3c77b97d21bbba5cfaacca0728ba066d6c34a4 )
+)
+
+game (
+	name buckaroobanzai
+	description "Scott Adams Adventure 15: Buckaroo Banzai (PDA)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV15.DAT size 21038 crc 39929d71 md5 c1bebf1e88e3ce968cb00fe75250f2e8 sha1 19ac420d8cd3d990f912f56c879e49a1a56c909e )
+)
+
+game (
+	name buckaroobanzai-2
+	description "Scott Adams Adventure 15: Buckaroo Banzai (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv14b.dat size 17989 crc 3d9afdd4 md5 13ea7a22731e90598456d13311923833 sha1 cc6afffa05a99c021cb0aee16700f1bc4ad713f8 )
+)
+
+game (
+	name burglarsadv
+	description "Burglar's Adventure (Multi-OS)"
+	year 2018
+	manufacturer "Bruce Hansen"
+	sourcefile glk-scott
+	rom ( name BURGLAR.DAT size 11541 crc 35637748 md5 c29fe8203a4be8977152aa0fe6fc4c43 sha1 ad2275fa9a744542d546cf5e203abd1c14f8fdde )
+)
+
+game (
+	name circus
+	description "Mysterious Adventures 06: Circus (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name 6_circus.dat size 13621 crc f797f4b4 md5 94a1c699fedbf677f6dbc16b4ab89973 sha1 8dd6a2ead654d11db1da886eb2ec619a87d788eb )
+)
+
+game (
+	name circus-1
+	description "Mysterious Adventures 06: Circus (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name circus.blb size 48624 crc a86b338b md5 7990f125c16bde550027de37880347f1 sha1 6f551328cc68a8f7340d330d8c9f99f679ee5d24 )
+)
+
+game (
+	name circus-sp
+	description "Mysterious Adventures 06: Circus (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m6circus.z80 size 27746 crc cb994746 md5 4bd126c46852fa8412dbee7461466b13 sha1 85feb2e19f55b9dcf985a66334273e31e7d46a63 )
+)
+
+game (
+	name claymorguesorcerer
+	description "Scott Adams Adventure 13: Sorcerer of Claymorgue Castle (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv13.dat size 19232 crc 6cf483ee md5 b5af6e4db3c3b2118faea3849f807617 sha1 6bda7de0affb310b7bac424ad9f97cbe4c1df63c )
+)
+
+game (
+	name claymorguesorcerer-1
+	description "Scott Adams Adventure 13: Sorcerer of Claymorgue Castle (PDA)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV13.DAT size 22346 crc 37f91e44 md5 6af4e2b97014ef2dc28a6cd65e8297bc sha1 851306432950f4294fb436bfb8906b5544c86fa5 )
+)
+
+game (
+	name desert
+	description "Desert Adventure (Multi-OS)"
+	year 2007
+	manufacturer "Scott Adams & Sam Trenholme"
+	sourcefile glk-scott
+	rom ( name desert.dat size 12287 crc 838abfe4 md5 acf8432c8909cca44c4922d70720baba sha1 244a7c67da996383fd2e7e0c126d19d5890c6909 )
+)
+
+game (
+	name feasibility
+	description "Mysterious Adventures 07: Feasibility Experiment (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name 7_feasibility.dat size 13441 crc af39cef4 md5 ae0a5a85ac0b9b18e3a60bf2becbdc73 sha1 b3a8c6cbe180f9471a43745eaa3302158c09064a )
+)
+
+game (
+	name feasibility-1
+	description "Mysterious Adventures 07: Feasibility Experiment (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name feasibility.blb size 78456 crc 1482aad0 md5 4f135249d094ee4e3685c64379f51a70 sha1 cf895368f56ffa569822e38c206b855303de24f5 )
+)
+
+game (
+	name feasibility-sp
+	description "Mysterious Adventures 07: Feasibility Experiment (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m7feasib.z80 size 37395 crc 91c194af md5 65a40968862e62b9d4b296e6734bfca1 sha1 c6cea73737f64846b76dd842e9493f9c7edacc3d )
+)
+
+game (
+	name gammaworld
+	description "Mega-Venture III: Gamma World (Multi-OS)"
+	year 2018
+	manufacturer "Jim Veneskey"
+	sourcefile glk-scott
+	rom ( name GAMMA.DAT size 11531 crc a833317c md5 c1bfde6b9246cdcaedba060dc84338ab sha1 fc861ce9071582b5b6cf5a634476163e8f7d529c )
+)
+
+game (
+	name ghosttown
+	description "Scott Adams Adventure 09: Ghost Town (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv09.dat size 17831 crc 2c9a1d68 md5 f0d164d13861e3fb074b9b0bac810777 sha1 4b4b91828004bc4e1776f74f5eb0e4b373d72e2a )
+)
+
+game (
+	name ghosttown-1
+	description "Scott Adams Adventure 09: Ghost Town (PDA)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV09.DAT size 20687 crc 7e24dce3 md5 799eb81a5c76554e63c18c97ff46b1b5 sha1 c3f436a41c9cc7d2907986e044faf43fddf19b8f )
+)
+
+game (
+	name goldenbaton
+	description "Mysterious Adventures 01: The Golden Baton (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name 1_baton.dat size 13373 crc 226f29c4 md5 9beb5e4fd89bb8368c2b6962cc4d3ef1 sha1 849ce9747f13e80e1eef68ed4e01370836ff2434 )
+)
+
+game (
+	name goldenbaton-1
+	description "Mysterious Adventures 01: The Golden Baton (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name golden_baton.blb size 53374 crc 38e4c032 md5 bbd9cf176cdf36383ffbdfcf749ec9e3 sha1 be1990de037ea6922e70155339fb42d2fbdc567e )
+)
+
+game (
+	name goldenbaton-sp
+	description "Mysterious Adventures 01: The Golden Baton (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m1goldba.z80 size 32060 crc ef5df8f2 md5 a784970089cc201af64478afaa048b9f sha1 9232b0898d7074fcad9db23905da081f6288754c )
+)
+
+game (
+	name goldenvoyage
+	description "Scott Adams Adventure 12: The Golden Voyage (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv12.dat size 18513 crc 55d4db4c md5 707015a14adce841f1e1dcc90c847bba sha1 9f8361bae9eaa9ed839efffc3bd47855ad34d414 )
+)
+
+game (
+	name goldenvoyage-1
+	description "Scott Adams Adventure 12: The Golden Voyage (PDA)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV12.DAT size 21401 crc 844310fe md5 c067e7215b25d68d1103fe48035c0fdd sha1 5213dcd13fe3d7b4b9752051e42999bf7187eba6 )
+)
+
+game (
+	name jamesbondadv
+	description "Adventure 13: James Bond Adventure (Multi-OS)[Fixed]"
+	year 2018
+	manufacturer "Bruce Hansen"
+	sourcefile glk-scott
+	rom ( name BOND.DAT size 12405 crc bf5ae0b7 md5 3da92e9922f732af8cdf5cb1588f6b4c sha1 8d9790037f3de313cbdd8ff2db63943bcc6e089e )
+)
+
+game (
+	name marooned
+	description "Adventure 10: Marooned (Multi-OS)"
+	year 2018
+	manufacturer "Kim Watt"
+	sourcefile glk-scott
+	rom ( name MAROONED.DAT size 12576 crc b4db2bd9 md5 3f6cf4d2f3fa09d017b315aea4819ce2 sha1 d76ead1acfe7ed23acdb048e1c79a57364aa4a8f )
+)
+
+game (
+	name marveladventure
+	description "Marvel Adventure #1: Questprobe 1: The Hulk (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name quest1.dat size 18876 crc a8bfaa95 md5 eec3c968f850edf00bc8a80bb3d69ff0 sha1 e006d93216ae9ba336f1151fbfb4b188c473aed4 )
+)
+
+game (
+	name marveladventure2
+	description "Marvel Adventure #2: Questprobe 2: Spiderman (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name quest2.dat size 18643 crc e2ad6c0d md5 daee386546ce71831dc365b0ff10f233 sha1 c29415d6a211ffe71835e7de9262b026a732851d )
+)
+
+game (
+	name minersadv
+	description "Miner's Adventure (Multi-OS)"
+	year 2018
+	manufacturer "Bruce Hansen"
+	sourcefile glk-scott
+	rom ( name MINER.DAT size 11898 crc 42c3d6f8 md5 8e85cca4b9b16391c5a4972ba2357f03 sha1 6fee85695f5ab3d6f07844343ff94575fea7e45b )
+)
+
+game (
+	name missionimpossible
+	description "Scott Adams Adventure 03: Mission Impossible (Multi-OS)"
+	year 1982
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv03.dat size 15275 crc a9654e8d md5 2e50256fa2717a4af3402e6ce18f623f sha1 6d76fb38e010f31334953dcc1d7438fdc9e64993 )
+)
+
+game (
+	name missionimpossible-1
+	description "Scott Adams Adventure 03: Mission Impossible (PDA)"
+	year 1982
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV03.DAT size 17227 crc 22113b75 md5 26032a5106ae36f589c73f9c995f1748 sha1 8c0854ea258d564be9366552270c85ef60aec4d6 )
+)
+
+game (
+	name mysteryfunhouse
+	description "Scott Adams Adventure 07: Mystery Fun House (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv07.dat size 17165 crc 0901cd84 md5 ce3aee5f23e49107beb2e333c29f2afc sha1 4b6e403771fa9a2ff55236b2af700193252b257e )
+)
+
+game (
+	name mysteryfunhouse-1
+	description "Scott Adams Adventure 07: Mystery Fun House (PDA)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV07.DAT size 19700 crc 586be11b md5 bd8e8216ed650b75f2bc1af61948c835 sha1 d9f9dbf56431c94cdeb832125077c246b98e4897 )
+)
+
+game (
+	name perseus
+	description "Mysterious Adventures 09: Perseus and Andromeda (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name 9_perseus.dat size 15080 crc a2223b95 md5 99d9bd730f603bba54acf20d2267fc2a sha1 6743c50346e1d0b87657acd30eda323495e5d473 )
+)
+
+game (
+	name perseus-1
+	description "Mysterious Adventures 09: Perseus and Andromeda (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name perseus_andromeda.blb size 56914 crc 15cf2ef3 md5 cc6f3a9a83d9bf22758436ccd7fb9dbe sha1 807986be32c29bf7cd98a13936bba46dcaf6af38 )
+)
+
+game (
+	name perseus-sp
+	description "Mysterious Adventures 09: Perseus and Andromeda (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m9perseu.z80 size 31504 crc f1b07354 md5 027ebc4c3da441186840e33fed6490ea sha1 653f1749f5e7d4caf3cbe43f2ef251b729a089a3 )
+)
+
+game (
+	name pirateadventure
+	description "Scott Adams Adventure 02: Pirate Adventure (Multi-OS)"
+	year 1982
+	manufacturer "Scott and Alexis Adams"
+	sourcefile glk-scott
+	rom ( name adv02.dat size 16325 crc fccb3739 md5 1a16c10e265a260429fd11b33e975017 sha1 87f59813fc8adf1d5a9319ade72bba1f06f7117b )
+)
+
+game (
+	name pirateadventure-1
+	description "Scott Adams Adventure 02: Pirate Adventure (PDA)"
+	year 1982
+	manufacturer "Scott and Alexis Adams"
+	sourcefile glk-scott
+	rom ( name ADV02.DAT size 18482 crc 6a5af97a md5 a8bd29c3761ccee782cf18ae22480f31 sha1 1386e6d6f4778d7be3e2ebec80afb8318515c5e0 )
+)
+
+game (
+	name pirateisle
+	description "Scott Adams Adventure 14: Return to Pirate Isle (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv14a.dat size 19013 crc 7e5bfc47 md5 9ea259b4feaaf392815a79c3cecb936f sha1 3d38caf9230ce60c8118bc680bf0cf4d5a7ceb9f )
+)
+
+game (
+	name pirateisle-1
+	description "Scott Adams Adventure 14: Return to Pirate Isle (PDA)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV14.DAT size 22087 crc 91d36ef0 md5 4ee924497d451df4bd677d52ed59ce30 sha1 3df798e46aa45726ee56e091eda0443ad0e27489 )
+)
+
+game (
+	name pulsar7
+	description "Mysterious Adventures 05: Escape from Pulsar 7 (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name 5_pulsar7.dat size 17777 crc 0e158421 md5 fa8382cbd402531d2fcfd8661a5519aa sha1 8813f8fb3cb69a96d12c77db7e8e48e95906c444 )
+)
+
+game (
+	name pulsar7-1
+	description "Mysterious Adventures 05: Escape from Pulsar 7 (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name pulsar7.blb size 55516 crc e51d5917 md5 f25d950925a399c032b892352614488a sha1 0d271df556834821121d6c7aa47cc903fc0001f7 )
+)
+
+game (
+	name pulsar7-sp
+	description "Mysterious Adventures 05: Escape from Pulsar 7 (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m5pulsar.z80 size 29961 crc e567d761 md5 04d6a3ebd8edb95ac6db0fa23690b32a sha1 7e432c09cf8a2a1a6c165639336200c6477bc8ed )
+)
+
+game (
+	name pyramidofdoom
+	description "Scott Adams Adventure 08: Pyramid of Doom (Multi-OS)"
+	year 1980
+	manufacturer "Alvin Files"
+	sourcefile glk-scott
+	rom ( name adv08.dat size 17673 crc 4576c519 md5 bb7e4e7cb57249e7671e7de081d715b7 sha1 a9abd4d20f7c588014c503908f9e971496254904 )
+)
+
+game (
+	name pyramidofdoom-1
+	description "Scott Adams Adventure 08: Pyramid of Doom (PDA)"
+	year 1980
+	manufacturer "Alvin Files"
+	sourcefile glk-scott
+	rom ( name ADV08.DAT size 20320 crc 246bcbf1 md5 45fdd72ca79d51755a3902bfba1fd76b sha1 6118f912ec8f007788c31c6d577ee7f031e81ec6 )
+)
+
+game (
+	name romulanadv
+	description "Mega-Venture I: Romulan Adventure (Multi-OS)"
+	year 2018
+	manufacturer "Jim Veneskey"
+	sourcefile glk-scott
+	rom ( name romulan.dat size 13959 crc 62795984 md5 aafc4889a65edc5b0d1eb8e523ce4279 sha1 859abf34d1b5aaa08e3fe6eb989d93130b1bb3ad )
+)
+
+game (
+	name savageisland1
+	description "Scott Adams Adventure 10: Savage Island, Part 1 (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv10.dat size 19533 crc 73d5bc14 md5 e247f4152ec664464bd9a6c0a092e05b sha1 f1cd5135b6e4c695cdbad5b9b1fc953921fc9483 )
+)
+
+game (
+	name savageisland1-1
+	description "Scott Adams Adventure 10: Savage Island, Part 1 (PDA)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV10.DAT size 22669 crc db27bbd7 md5 863766903e09fb021eca05ba92222eef sha1 7431aed23decaec50c9b8d2d5783205436b01a6e )
+)
+
+game (
+	name savageisland2
+	description "Scott Adams Adventure 11: Savage Island, Part 2 (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams & Russ Wetmore"
+	sourcefile glk-scott
+	rom ( name adv11.dat size 18367 crc 60c12d2f md5 87eaa235b329356ef902933f6b8a1141 sha1 39ae19b22674897118db66b243484435c65a0fc3 )
+)
+
+game (
+	name savageisland2-1
+	description "Scott Adams Adventure 11: Savage Island, Part 2 (PDA)"
+	year 1980
+	manufacturer "Scott Adams & Russ Wetmore"
+	sourcefile glk-scott
+	rom ( name ADV11.DAT size 21169 crc de0aa2c3 md5 80d8a03a886fd60faa9d0eadef96af76 sha1 61317184b4930a5b4411a223af35f55bd1012a7a )
+)
+
+game (
+	name scottsampler
+	description "Adventure International's Mini-Adventure Sampler (Multi-OS)"
+	year 1980
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name sampler1.dat size 13854 crc c63bcec2 md5 7ec13b61c25adedd4291f147d97548bf sha1 0e29c9b50f745921a43d473377a48848a71ad662 )
+)
+
+game (
+	name strangeodyssey
+	description "Scott Adams Adventure 06: Strange Odyssey (Multi-OS)"
+	year 1982
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv06.dat size 17489 crc 8a7c9fd4 md5 ba821285f91f5f59a6dfddd7999f7f75 sha1 65ba7255be71f59513c8605ec049f9df91ecf56a )
+)
+
+game (
+	name strangeodyssey-1
+	description "Scott Adams Adventure 06: Strange Odyssey (PDA)"
+	year 1982
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV06.DAT size 20115 crc 182aa19f md5 485aa5a107b69c99bfd4f5bb93354965 sha1 5b34025a572e8123b74b3038939231a6fc02fe08 )
+)
+
+game (
+	name thecount
+	description "Scott Adams Adventure 05: The Count (Multi-OS)"
+	year 1982
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name adv05.dat size 17476 crc 694bf8ae md5 34894b343caace66763ae40114a1c12f sha1 ca009fdb00093196a9b73194c5599eba0fec1851 )
+)
+
+game (
+	name thecount-1
+	description "Scott Adams Adventure 05: The Count (PDA)"
+	year 1982
+	manufacturer "Scott Adams"
+	sourcefile glk-scott
+	rom ( name ADV05.DAT size 19999 crc f9e611cd md5 943494908b7d5721afcbc937cc9753fe sha1 2d7e3c44bb11e27253a0c78090bc0f5b7fe27925 )
+)
+
+game (
+	name timemachine
+	description "Mysterious Adventures 02: The Time Machine (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name 2_timemachine.dat size 13742 crc 6bce2607 md5 49b3ebdb42cdf7ef81f79a5befb2c0b1 sha1 4f2cf5a7e7cfd700967a67b0f841c59f89864e9b )
+)
+
+game (
+	name timemachine-1
+	description "Mysterious Adventures 02: The Time Machine (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name time_machine.blb size 54062 crc 12cd73a7 md5 e6c6c26efb051630222bbeba75b374b2 sha1 8b6192808d8feb3c17f10f69036e124dea529bbc )
+)
+
+game (
+	name timemachine-sp
+	description "Mysterious Adventures 02: The Time Machine (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m2tmachi.z80 size 30928 crc 7d81700b md5 28ae916243c025bec79d9e46c4ea9838 sha1 00908c95e35fccc737b0cff5d3d620321a77a831 )
+)
+
+game (
+	name topsecretadv
+	description "Mega-Venture II: Top Secret Adventure (Multi-OS)"
+	year 2018
+	manufacturer "Jim Veneskey"
+	sourcefile glk-scott
+	rom ( name secret.dat size 15575 crc 880606c8 md5 e129623f7137617aa26fc0c65e7b6a27 sha1 ec3ae843b475e58eb67330a3224f8c0fc7f3883b )
+)
+
+game (
+	name underseaconquest
+	description "Undersea Conquest: Part 1 (Multi-OS)"
+	year 2018
+	manufacturer "Marc Mandel"
+	sourcefile glk-scott
+	rom ( name CONQUEST.DAT size 5616 crc e905c3f9 md5 08e71c87f90d7d51702d94d789f13d42 sha1 063ab29a5b6dbdb87365538c4cb3c7e4b27a7cad )
+)
+
+game (
+	name voodoocastle
+	description "Scott Adams Adventure 04: Voodoo Castle (Multi-OS)"
+	year 1983
+	manufacturer "Scott and Alexis Adams"
+	sourcefile glk-scott
+	rom ( name adv04.dat size 15852 crc 3c0c0492 md5 2d24b3d60a4605641c204c23511121aa sha1 7899431be262540dac67bdb336a4744693e7f758 )
+)
+
+game (
+	name voodoocastle-1
+	description "Scott Adams Adventure 04: Voodoo Castle (PDA)"
+	year 1983
+	manufacturer "Scott and Alexis Adams"
+	sourcefile glk-scott
+	rom ( name ADV04.DAT size 18140 crc a343a9eb md5 fb3cf632030ea5c1760d54b828f9a8ff sha1 42c04f9da7a54d39dcaccd3e7bca247c0e4e1219 )
+)
+
+game (
+	name waxworks11
+	description "Mysterious Adventures 11: Waxworks (Multi-OS)"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name B_waxworks.dat size 16068 crc 52f83d38 md5 d0d41cfbe35f7840d0d803b9648e0291 sha1 3ab2318653dc930348d535cd6090d5f77ba7da8b )
+)
+
+game (
+	name waxworks11-1
+	description "Mysterious Adventures 11: Waxworks (Multi-OS)[with graphics]"
+	year 1999
+	manufacturer "Brian Howarth & Evin Robertson"
+	sourcefile glk-scott
+	rom ( name waxworks.blb size 54556 crc 664d270c md5 654591025c91d994a273aabbcc0e5541 sha1 878e59b41805dcfb4a22c5c53a9db13bd5038695 )
+)
+
+game (
+	name waxworks11-sp
+	description "Mysterious Adventures 11: Waxworks (Spectrum)[with graphics][!]"
+	year 1994
+	manufacturer "Brian Howarth & Paul David Doherty"
+	sourcefile glk-scott
+	rom ( name m11waxwo.z80 size 32662 crc 66053537 md5 4811dfd709cd3a8fcd5a52dd1d8ccea8 sha1 9ad190e5a145604e116db142adf1189a6e806784 )
+)
+

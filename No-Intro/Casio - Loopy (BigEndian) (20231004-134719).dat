@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>48</id>
+		<name>Casio - Loopy (BigEndian)</name>
+		<description>Casio - Loopy (BigEndian)</description>
+		<version>20231004-134719</version>
+		<author>C. V. Reynolds, fuzzball, Hiccup, relax, sCZther, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Internal Thermal Printer (Japan)" id="0001">
+		<description>[BIOS] Internal Thermal Printer (Japan)</description>
+		<rom name="[BIOS] Internal Thermal Printer (Japan).bin" size="524288" crc="cb3b069d" md5="9008d36255c89d109818385820327f88" sha1="c2d73bd96048a8c71753ebc3d29b25ac4a702633" sha256="2d183a10bfbc312c6406d92e317e16f54aa1d2136d51c02734c60c9333e2032a"/>
+	</game>
+	<game name="[BIOS] Magical Shop - Video Seal Word Processor (Japan)" id="0011">
+		<description>[BIOS] Magical Shop - Video Seal Word Processor (Japan)</description>
+		<game_id>XK-700</game_id>
+		<rom name="[BIOS] Magical Shop - Video Seal Word Processor (Japan).bin" size="1048576" crc="ccc6bd77" md5="ffe5823fe99622755743ba9e4bfcf4bd" sha1="5c3cc480916a59c7727e11599c20704c5c825035" sha256="8f27f56119b7cf0ed7832eb0e74ecc21106ae4ef2e277a0ff59bb47a677267d3"/>
+	</game>
+	<game name="Anime Land (Japan)" id="0002">
+		<description>Anime Land (Japan)</description>
+		<rom name="Anime Land (Japan).bin" size="2097152" crc="3fd9713b" md5="c6779a2f73e376cfb145da1a11d950b9" sha1="4df91e02dd8456ca32e8413f537cfeb88f65d799" sha256="6fc00c2ff2cc7dbf048c5bb4cbac87bd62b928b67c54f8c577502cd89a955272"/>
+	</game>
+	<game name="Chakrakun no Omajinai Paradise (Japan)" id="0012">
+		<category>Games</category>
+		<description>Chakrakun no Omajinai Paradise (Japan)</description>
+		<rom name="Chakrakun no Omajinai Paradise (Japan).bin" size="2097152" crc="955c56ea" md5="385335631a4598759e632943e605c223" sha1="d29f5d80a74e3a167b34e8ec4d9e33ade139a639" sha256="d1bf0817572c69c9ea13e4f8943dc282337c9b95d01ce2c82e1cbcd1b9a5655c"/>
+	</game>
+	<game name="Dream Change - Kogane-chan no Fashion Party (Japan)" id="0003">
+		<description>Dream Change - Kogane-chan no Fashion Party (Japan)</description>
+		<rom name="Dream Change - Kogane-chan no Fashion Party (Japan).bin" size="2097152" crc="0fb0a794" md5="c96e79c1b0bf0f373d1eadf891492d17" sha1="8c6176b9aeaf9094f29175b05a01958cd606c988" sha256="a4f20cfadc210e3adeb6caed022319f18b48fdedec3c0d6d6121c5aaf008c275"/>
+	</game>
+	<game name="HARIHARI Seal Paradise (Japan)" id="0004">
+		<description>HARIHARI Seal Paradise (Japan)</description>
+		<rom name="HARIHARI Seal Paradise (Japan).bin" size="2097152" crc="b82ac7f3" md5="089d4a712481c961403c7610dc8f1659" sha1="2dafcd6b2a50a4c38adb01641cd0c59e5214bccb" sha256="075457e18b8e1d459a0ca4728afc46bbe8cde6826f007c9bcb5c45825034a6d5"/>
+	</game>
+	<game name="Little Romance (Japan)" id="0010">
+		<description>Little Romance (Japan)</description>
+		<game_id>XK-503</game_id>
+		<rom name="Little Romance (Japan).bin" size="3145728" crc="550616f0" md5="d0aef4a5f80ffe48eff3552a43f6d65e" sha1="1792c46af96dbea9f0bb9965d53e4af8066e0fd2" sha256="ab27118abaec5295e071b174b12ab587923635fbb3e242e9113d10f93f033b7e"/>
+	</game>
+	<game name="Loopy Town no Oheya ga Hoshii! (Japan)" id="0009">
+		<description>Loopy Town no Oheya ga Hoshii! (Japan)</description>
+		<rom name="Loopy Town no Oheya ga Hoshii! (Japan).bin" size="3145728" crc="352b4ae6" md5="a9cc97fbb3df6fe41643aac805012c4d" sha1="cda377884f3e4544c338c5625b99b68836de0543" sha256="6b397d8a313d5324ef3407ab04f256f164286869f86307e20275159a1f87e0ce"/>
+	</game>
+	<game name="Lupiton no Wonder Palette (Japan)" id="0008">
+		<description>Lupiton no Wonder Palette (Japan)</description>
+		<rom name="Lupiton no Wonder Palette (Japan).bin" size="2097152" crc="f4662e66" md5="8b6ea836b9d46c800821a7a1fb69056d" sha1="b461920ac5d28f56444f0aee36dee42350b7ea9e" sha256="03b4b6741a66281fa693fc1bf45e34dbbc49e84d5391c6a568aeb8f58d8747a2"/>
+	</game>
+	<game name="Nigaoe Artist (Japan)" id="0005">
+		<description>Nigaoe Artist (Japan)</description>
+		<rom name="Nigaoe Artist (Japan).bin" size="2097152" crc="ef1b33f3" md5="759f03468e16bad8144ccc755edb68eb" sha1="43103d14c39964b0d008ccd16284ffa43299c278" sha256="97b3ec236ba99cbe0f43d5de89ddcc06fd0c7e9bf1a7c9b87b5a45aac443d733"/>
+	</game>
+	<game name="Pasocom Collection (Japan)" id="0006">
+		<description>Pasocom Collection (Japan)</description>
+		<rom name="Pasocom Collection (Japan).bin" size="2097152" crc="fe3be881" md5="115360632fca4047348ddd3008fcb18b" sha1="d54ad999418a31955aa4facd64360a208674531c" sha256="e256846b5f807c05bf9da5735ea0699464557be1c96d3426ee2b3dae391b55a3"/>
+	</game>
+	<game name="Wanwan Aijou Monogatari (Japan)" id="0007">
+		<description>Wanwan Aijou Monogatari (Japan)</description>
+		<rom name="Wanwan Aijou Monogatari (Japan).bin" size="2097152" crc="10c5f568" md5="fb86fc827b7fcd1fc457294523465377" sha1="4a306e64f5e4743d943efb41c6deb2af4dd85974" sha256="3ccdfd7db00110d6d13b23ca9eb2e8e448559055df2fa5356a80a5b1c00fcd72"/>
+	</game>
+</datafile>

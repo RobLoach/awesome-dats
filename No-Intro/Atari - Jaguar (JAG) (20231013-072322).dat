@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>2</id>
+		<name>Atari - Jaguar (JAG)</name>
+		<description>Atari - Jaguar (JAG)</description>
+		<version>20231013-072322</version>
+		<author>Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, halftheisland, Hiccup, nnssxx, NovaAurora, omonim2007, rarenight, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Clicks! (World) (Aftermarket) (Unl)" id="0223">
+		<category>Games</category>
+		<description>Clicks! (World) (Aftermarket) (Unl)</description>
+		<rom name="Clicks! (World) (Aftermarket) (Unl).jag" size="106258" crc="5f7198c9" md5="33b59c6e40c71c7df3c9f6c5f5b48206" sha1="5fadd1eb608034ef236fcae6bef6f1f267c2a61b" sha256="4b8dd269973ad3b77a5cd3e3e409cfed8bc1ca34db9023081cf43c5851c181df"/>
+	</game>
+	<game name="JagMania (World) (Aftermarket) (Unl)" id="0152">
+		<category>Games</category>
+		<description>JagMania (World) (Aftermarket) (Unl)</description>
+		<rom name="JagMania (World) (Aftermarket) (Unl).jag" size="241906" crc="1ed4c963" md5="c93fd2060e8949aaa87e7ebd6f192864" sha1="336e0df48d9c93eaf4e94feb1b405ee4eafbbd5d" sha256="10f1649187985e350a97256cd3e36de917d1424993480def3a24127eb81a8d19"/>
+	</game>
+	<game name="Jaguar Tetris (World) (Aftermarket) (Unl)" id="0242">
+		<category>Games</category>
+		<description>Jaguar Tetris (World) (Aftermarket) (Unl)</description>
+		<rom name="Jaguar Tetris (World) (Aftermarket) (Unl).jag" size="131042" crc="c539ef03" md5="6da88d193008e7b09c7d59eb060c0eed" sha1="4b4ad37d6b057ae8d59e45c23aad3164bdcbaaf1" sha256="482af9f2d8b6a36f3b40a3f10490bb695324f55d249ddeb6d1cf44a6ab2a708c"/>
+	</game>
+	<game name="Native (World) (Proto) (Aftermarket) (Unl)" id="0111">
+		<category>Games</category>
+		<description>Native (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Native (World) (Proto) (Aftermarket) (Unl).jag" size="1097300" crc="b5bdffa5" md5="85f09fbd5c0ddbf78f9a49412163fd5a" sha1="6eee51569909cdb4aad2eb996ae9a72a7c75b22c" sha256="6047e6a91783a0de7180da53e7721589fc373a1bae34ab67974ed2267aa8fcbc"/>
+	</game>
+	<game name="Painter (World) (1995-12-29) (Unl)" id="0141">
+		<category>Games</category>
+		<description>Painter (World) (1995-12-29) (Unl)</description>
+		<rom name="Painter (World) (1995-12-29) (Unl).jag" size="163146" crc="27c7c6a3" md5="4406a84d18aed221c086215248ed66a4" sha1="6f58b9907b178eabc1f385eb19b2a7a38d9df586" sha256="185cb83020da44fccfd7e8371257669a6e2c29e89a8dc723969ffddb27e01c32"/>
+	</game>
+	<game name="STNICCC 2000 (World) (2018-11-21) (Demo) (Aftermarket) (Unl)" id="0265">
+		<category>Demos</category>
+		<description>STNICCC 2000 (World) (2018-11-21) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="STNICCC 2000 (World) (2018-11-21) (Demo) (Aftermarket) (Unl).jag" size="813866" crc="0f734884" md5="ef2e32865e384ae60aa4a51459db56ef" sha1="546394da8ffcae8ec82cfebc97bed8f5801477fe" sha256="ba60517221af0d1d3cf95f705a48260a2aec6ee61807372c6c0e21ca77f61a9d"/>
+	</game>
+	<game name="STNICCC 2000 (World) (2018-11-20) (Demo) (Aftermarket) (Unl)" id="0269" cloneofid="0265">
+		<category>Demos</category>
+		<description>STNICCC 2000 (World) (2018-11-20) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="STNICCC 2000 (World) (2018-11-20) (Demo) (Aftermarket) (Unl).jag" size="813898" crc="2e2899f8" md5="afab49eec6824967fd12b49a219e7995" sha1="00d00d9aae98ba3aa3c79285936b1fd2bf94c7b2" sha256="10f85ad7c86c5cc85712581904d2bb893cf22aa756a7d50cc5a6d8f026c789a9"/>
+	</game>
+</datafile>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>195</id>
+		<name>Nichibutsu - My Vision</name>
+		<description>Nichibutsu - My Vision</description>
+		<version>20230724-090438</version>
+		<author>Hiccup, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Gomoku Narabe Renju (Japan)" id="0001">
+		<description>Gomoku Narabe Renju (Japan)</description>
+		<rom name="Gomoku Narabe Renju (Japan).myv" size="16384" crc="11f00f57" md5="2eae556f219fbaf8aeecafa6ad5985c7" sha1="8d93d92d2d560a2701d26a78fff32c3ccd3e8dd5" sha256="d536a96e807c1721c5e7777dd2abdf2f1aa0b5ae91492590afc6e59ebd457577"/>
+	</game>
+	<game name="Hanafuda (Japan)" id="0002">
+		<description>Hanafuda (Japan)</description>
+		<rom name="Hanafuda (Japan).myv" size="24576" crc="4ab8224b" md5="3258940f6b3d64a500aa5414137c76b1" sha1="d404324ffbff54841e6e0f497199b2456239eeee" sha256="98f27475bbe6183f45e7da2497347943182f0f63dbcb9c092abfa2d1e802e701"/>
+	</game>
+	<game name="Mahjong (Japan)" id="0003">
+		<description>Mahjong (Japan)</description>
+		<rom name="Mahjong (Japan).myv" size="24576" crc="46bf6c1f" md5="a880ae7e29e33221c7d30f795f01c7cb" sha1="a4505acd7e7c40dd1f0974d0086818a72ea83525" sha256="53e6bac548b0815b628d2406119f6b0e9823719cdc53186e46e6d5d6d32ed279"/>
+	</game>
+	<game name="Tsume Shougi (Japan)" id="0004">
+		<description>Tsume Shougi (Japan)</description>
+		<rom name="Tsume Shougi (Japan).myv" size="24576" crc="b7363738" md5="1a907e2078c04383be77e45277c2ed5f" sha1="cce35889295d4185601958ea3f88dddad22f9728" sha256="f375c529dfc7f603bd2c86b43db694243f95a7773ec1896b999324d863ca169c"/>
+	</game>
+</datafile>

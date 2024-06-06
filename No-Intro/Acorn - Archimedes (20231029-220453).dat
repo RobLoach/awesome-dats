@@ -1,0 +1,1502 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>214</id>
+		<name>Acorn - Archimedes</name>
+		<description>Acorn - Archimedes</description>
+		<version>20231029-220453</version>
+		<author>Arctic Circle System, EggmanPEI, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Acheton and Kingdom of Hamil (United Kingdom)" id="0314">
+		<category>Games</category>
+		<description>Acheton and Kingdom of Hamil (United Kingdom)</description>
+		<game_id>F1045101</game_id>
+		<rom name="Acheton and Kingdom of Hamil (United Kingdom).jfd" size="237697" crc="6921ddaa" md5="f54817bc06fcd981a8b88e782fdfc9b7" sha1="016bf1020f32a37224bc49d26347294fbd89d1a5" sha256="39b440a256c253a26194845b56f11e300a4c08c8c4db5203d81f32393a56fddf"/>
+	</game>
+	<game name="Adventure Collection, The (United Kingdom) (Disk 1)" id="0327" cloneofid="0328">
+		<category>Games</category>
+		<description>Adventure Collection, The (United Kingdom) (Disk 1)</description>
+		<game_id>F1049201</game_id>
+		<rom name="Adventure Collection, The (United Kingdom) (Disk 1).jfd" size="287384" crc="aeab2fdb" md5="ff8178b8f02081de572b5e20d2e0c502" sha1="622143bfdb56f34692019c45b5404a924533c63f" sha256="1d3504252528cda0597dcea0cfe19059dc133700c4c043917efe16fa79ccc0dd"/>
+	</game>
+	<game name="Adventure Collection, The (United Kingdom) (Disk 2)" id="0328">
+		<category>Games</category>
+		<description>Adventure Collection, The (United Kingdom) (Disk 2)</description>
+		<game_id>F1049202</game_id>
+		<rom name="Adventure Collection, The (United Kingdom) (Disk 2).jfd" size="228236" crc="e00a2df3" md5="d6fb1225fa3a2a17803e63fcae44c0ca" sha1="596709cbb21857c37b0ac8cc4254ee012c128af3" sha256="9c8e0f3bb05dbaf96c4db2d41c3bc8e9415c6fc837057772db5a78ccb306c57c"/>
+	</game>
+	<game name="Agressor (United Kingdom)" id="0002">
+		<category>Games</category>
+		<description>Agressor (United Kingdom)</description>
+		<game_id>Unlisted</game_id>
+		<rom name="Agressor (United Kingdom).adf" size="819200" crc="746491d7" md5="f28afac80a293b20b1369757c1e24537" sha1="2114b1ca4ee2575147890056d0328f15d9fcdddf"/>
+	</game>
+	<game name="Air Supremacy (United Kingdom)" id="0003">
+		<category>Games</category>
+		<description>Air Supremacy (United Kingdom)</description>
+		<game_id>F1000701</game_id>
+		<rom name="Air Supremacy (United Kingdom).adf" size="819200" crc="b338ef90" md5="81dc3447265f2ebd42fb0e7bb1faa714" sha1="cb89723c1f651827aa36ff80465980840e8deb8a"/>
+	</game>
+	<game name="Albert's House (United Kingdom) (v1.1) (ADF)" id="0330">
+		<category>Educational</category>
+		<description>Albert's House (United Kingdom) (v1.1) (ADF)</description>
+		<game_id>Unknown</game_id>
+		<rom name="Albert's House (United Kingdom) (v1.1) (ADF).adf" size="819200" crc="716023a2" md5="3e64e2bfb141422b216a60c5355f8ce7" sha1="4fe6dd8d1661f49c56032a41e3deb761344d0a1a" sha256="586ff71e524f5386c0151230f1db4af336a50a8907eb177b11ff0c9d6cfafc32"/>
+	</game>
+	<game name="Alerion (United Kingdom)" id="0004">
+		<category>Games</category>
+		<description>Alerion (United Kingdom)</description>
+		<game_id>F1001001</game_id>
+		<rom name="Alerion (United Kingdom).adf" size="819200" crc="65e7bac5" md5="aa0ca34f077529b24d25991dd02afd8e" sha1="3303889188d1920fc3c2ee29395015143c26a490"/>
+	</game>
+	<game name="Alien Invasion (Europe)" id="0005">
+		<description>Alien Invasion (Europe)</description>
+		<rom name="Alien Invasion (Europe).adf" size="819200" crc="05508c13" md5="e3159aea223cd905135e30eed6ec73c2" sha1="6c723e1147aa9ad84a88480305c2d04377554ef6"/>
+	</game>
+	<game name="Alien Invasion (Europe) (Alt)" id="0006">
+		<description>Alien Invasion (Europe) (Alt)</description>
+		<rom name="Alien Invasion (Europe) (Alt).adf" size="819200" crc="ed2c59b7" md5="a0ab98648ed05c25c7713eed7025bbfa" sha1="a22e24c6e32d8e3e3db19ab5eac33c32dc30e37e"/>
+	</game>
+	<game name="Aliped (Europe)" id="0007">
+		<description>Aliped (Europe)</description>
+		<rom name="Aliped (Europe).adf" size="819200" crc="22ba734a" md5="64652a318733bce2d3f5ea1ba867ea35" sha1="208209f346f89644127f79f3a9a1e7a5db0bd89b"/>
+	</game>
+	<game name="All in Boxing (Europe)" id="0008">
+		<description>All in Boxing (Europe)</description>
+		<rom name="All in Boxing (Europe).adf" size="819200" crc="f1501841" md5="bcd39cf60ce0f51371913acb4be43e1a" sha1="8debd965e8cc3ee8a8675a7379ac141e74059dd0"/>
+	</game>
+	<game name="Alone in the Dark (United Kingdom) (Disk 1)" id="0142" cloneofid="0149">
+		<category>Games</category>
+		<description>Alone in the Dark (United Kingdom) (Disk 1)</description>
+		<game_id>F1001501</game_id>
+		<rom name="Alone in the Dark (United Kingdom) (Disk 1).jfd" size="736122" crc="29599354" md5="c09534f4e0e468603165232ba4276515" sha1="b483ff99d2f7d08cbce1e1fef67c32977b3f1122" sha256="c4cbdf60f931c2c6c2e7304c58b0c52b74dd406dfd0c3e468316f4a1e3f7f870"/>
+	</game>
+	<game name="Alone in the Dark (United Kingdom) (Disk 2)" id="0143" cloneofid="0149">
+		<category>Games</category>
+		<description>Alone in the Dark (United Kingdom) (Disk 2)</description>
+		<game_id>F1001502</game_id>
+		<rom name="Alone in the Dark (United Kingdom) (Disk 2).jfd" size="790170" crc="9f9f9823" md5="a551aebda770984064f458834b040c03" sha1="f212558f46576d119518c560a20f4f70b7f20e94" sha256="430313bfdabd964f1e9c283304b47df24c5903742249892ea16ce7e96ccef977"/>
+	</game>
+	<game name="Alone in the Dark (United Kingdom) (Disk 3)" id="0144" cloneofid="0149">
+		<category>Games</category>
+		<description>Alone in the Dark (United Kingdom) (Disk 3)</description>
+		<game_id>F1001503</game_id>
+		<rom name="Alone in the Dark (United Kingdom) (Disk 3).jfd" size="803753" crc="909552c4" md5="f1bc86c3ee42e8b9d9d2087d7466ca67" sha1="7ab6e9ce047f5e4d8a44bb9ec9d5eb9c0deb4dc6" sha256="3f5569f104fc3ab6e673efbcc080301666845d4fc7446eb61ca19003a567251f"/>
+	</game>
+	<game name="Alone in the Dark (United Kingdom) (Disk 4)" id="0145" cloneofid="0149">
+		<category>Games</category>
+		<description>Alone in the Dark (United Kingdom) (Disk 4)</description>
+		<game_id>F1001504</game_id>
+		<rom name="Alone in the Dark (United Kingdom) (Disk 4).jfd" size="807722" crc="ed6974fc" md5="6ded00550eb8a1c2e4c566e8c98b8437" sha1="3030725b55c724ba71d2c4cbe2225f176ec6e80f" sha256="2fab3e938566c60380b156f83195df22296cb2cab6cb75375564bc4979d899af"/>
+	</game>
+	<game name="Alone in the Dark (United Kingdom) (Disk 5)" id="0146" cloneofid="0149">
+		<category>Games</category>
+		<description>Alone in the Dark (United Kingdom) (Disk 5)</description>
+		<game_id>F1001505</game_id>
+		<rom name="Alone in the Dark (United Kingdom) (Disk 5).jfd" size="742732" crc="a2210b55" md5="00f0426482c08ad32c6be9085d1678c3" sha1="cac0c40f8c5672d24056bb89cf8608e4356fbc6f" sha256="6dea6fedebc59730b47f81cb7fd6adb764b7e8989a30b32d5480bf19969a895e"/>
+	</game>
+	<game name="Alone in the Dark (United Kingdom) (Disk 6)" id="0147" cloneofid="0149">
+		<category>Games</category>
+		<description>Alone in the Dark (United Kingdom) (Disk 6)</description>
+		<game_id>F1001506</game_id>
+		<rom name="Alone in the Dark (United Kingdom) (Disk 6).jfd" size="727196" crc="c2ac34a5" md5="7e5fd095d0c419d362d71e186fc114b3" sha1="d58e303b58646026196d32ed5073646ca9cf1803" sha256="dc21901dcf01d14bfba9e8e44ee75a76c4483deeedd693d4d478e432e653b7ef"/>
+	</game>
+	<game name="Alone in the Dark (United Kingdom) (Disk 7)" id="0148" cloneofid="0149">
+		<category>Games</category>
+		<description>Alone in the Dark (United Kingdom) (Disk 7)</description>
+		<game_id>F1001507</game_id>
+		<rom name="Alone in the Dark (United Kingdom) (Disk 7).jfd" size="691592" crc="5fd33741" md5="3e24ff1422f60cd7c9ab79a70d94b6a0" sha1="bf2fe4e8fad3937049e57d0ff7a56329d13c8d5d" sha256="03946d919bce7b0ddf722b934fa32ce07560a00ae67f2b37ab5b555dada194e4"/>
+	</game>
+	<game name="Alone in the Dark (United Kingdom) (Disk 8)" id="0149">
+		<category>Games</category>
+		<description>Alone in the Dark (United Kingdom) (Disk 8)</description>
+		<game_id>F1001508</game_id>
+		<rom name="Alone in the Dark (United Kingdom) (Disk 8).jfd" size="59634" crc="c4e8566e" md5="20b0d64b1d9aff7daea9733a40c8eb7a" sha1="0f43bc11f770192fbb117fbbfc23acd8570267d3" sha256="374d46932d58da0b312f908679854e19fbf2f6e06123808495423667a3daaa5e"/>
+	</game>
+	<game name="Alone in the Dark (United Kingdom) (Demo)" id="0232">
+		<description>Alone in the Dark (United Kingdom) (Demo)</description>
+		<rom name="Alone in the Dark (United Kingdom) (Demo).adf" size="1638400" crc="d8d9ae66" md5="54b81fdb9e88a02e91a8544e01a19a43" sha1="cd0da67aee1c26f2fbd231edb84614e01de2fa4c"/>
+	</game>
+	<game name="ALPS - Adventure Language Programming System (United Kingdom) (v5.12A)" id="0326">
+		<category>Games</category>
+		<description>ALPS - Adventure Language Programming System (United Kingdom) (v5.12A)</description>
+		<game_id>F1066301</game_id>
+		<rom name="ALPS - Adventure Language Programming System (United Kingdom) (v5.12A).jfd" size="162240" crc="68336b81" md5="e25ef08433cf94ebd8b24098803e6649" sha1="d52b9efb5aeff2be14d3aaeb6914a6316e7c9980" sha256="1eff9eda706e85ed71e6f797f4ffffe75a63ac06121285e6191521b5cf38af72"/>
+	</game>
+	<game name="ALPS Support Disc (United Kingdom)" id="0325">
+		<category>Add-Ons</category>
+		<description>ALPS Support Disc (United Kingdom)</description>
+		<game_id>F1046001</game_id>
+		<rom name="ALPS Support Disc (United Kingdom).jfd" size="105891" crc="2a98cd55" md5="172fbd108c274cea0135be14deb7488f" sha1="461c5cf8b20e190f2be60130996396ddfe193062" sha256="30039496791fb94d84364718de9aa9fc77fc855c125201ce000d6b0a4e5927ca"/>
+	</game>
+	<game name="Amoria (Europe)" id="0009">
+		<description>Amoria (Europe)</description>
+		<rom name="Amoria (Europe).adf" size="819200" crc="e2765983" md5="06364f58f1249ca1b2a0a57c5a2ef883" sha1="670d120249ab6aef67e3b87956637196dbfe9d4f"/>
+	</game>
+	<game name="Apocalypse (United Kingdom) (Disk 1) (Alt)" id="0233">
+		<description>Apocalypse (United Kingdom) (Disk 1) (Alt)</description>
+		<rom name="Apocalypse (United Kingdom) (Disk 1) (Alt).adf" size="814080" crc="0fb14aab" md5="6cfe2f4f97f7f9bba30c0a6be128b32a" sha1="6ee5518fac9991e17c5655fe4585d33a39d83eed"/>
+	</game>
+	<game name="Apocalypse (United Kingdom) (Disk 2)" id="0234">
+		<description>Apocalypse (United Kingdom) (Disk 2)</description>
+		<rom name="Apocalypse (United Kingdom) (Disk 2).adf" size="819200" crc="9ab136f3" md5="b2ceba7e47b4b51f88497993def6e0e2" sha1="cf2ba51a077ace7fee78ddeda02623aa2aa19a96"/>
+	</game>
+	<game name="Apocalypse (United Kingdom) (Disk 2) (Alt)" id="0235">
+		<description>Apocalypse (United Kingdom) (Disk 2) (Alt)</description>
+		<rom name="Apocalypse (United Kingdom) (Disk 2) (Alt).adf" size="814080" crc="f964c2ad" md5="4810183f451d3f874e1f3155eb0af91e" sha1="3aeba194617bf22730ed308f5ce122e7b7d5a78d"/>
+	</game>
+	<game name="Apocalypse (United Kingdom) (Disk 1)" id="0236">
+		<description>Apocalypse (United Kingdom) (Disk 1)</description>
+		<rom name="Apocalypse (United Kingdom) (Disk 1).adf" size="819200" crc="c50b4f37" md5="5fff80c7467e08350a32a1cb8012a836" sha1="750bc0a919f155d20ed090478dee29dbce7bd908"/>
+	</game>
+	<game name="Archimedes Elite (Europe)" id="0010">
+		<description>Archimedes Elite (Europe)</description>
+		<rom name="Archimedes Elite (Europe).adf" size="819200" crc="156d7bd6" md5="87d9229cb2e3304dd09472d2014ffc84" sha1="49c495bc8001141fecce35469c3de976aae8b32b"/>
+	</game>
+	<game name="Archimedes Moria (Europe)" id="0011">
+		<description>Archimedes Moria (Europe)</description>
+		<rom name="Archimedes Moria (Europe).adf" size="819200" crc="e855d09d" md5="9a4f1c3a1e43c072081506043e34f8b9" sha1="5ae480ff4765575e5fac504e25daeb885a41228d"/>
+	</game>
+	<game name="Arcomini (Europe) [b]" id="0012">
+		<description>Arcomini (Europe) [b]</description>
+		<rom name="Arcomini (Europe) [b].adf" size="819200" crc="b3028298" md5="b9a2b67270d0bdcafc4ac3d0568cc315" sha1="f1f70ad7c124ab863ba9deaca797e09b7c51bb40" status="baddump"/>
+	</game>
+	<game name="ArcOmnibus (Europe) (v1.03)" id="0013">
+		<description>ArcOmnibus (Europe) (v1.03)</description>
+		<rom name="ArcOmnibus (Europe) (v1.03).adf" size="819200" crc="f3914af5" md5="80309525147bab0fe5fc77be9a05f3a2" sha1="7c0870b1bb8bf974f7beaa4959dbbe4c1ed8642d"/>
+	</game>
+	<game name="ArcOmnibus (Europe) (v1.03) (Alt)" id="0014">
+		<description>ArcOmnibus (Europe) (v1.03) (Alt)</description>
+		<rom name="ArcOmnibus (Europe) (v1.03) (Alt).adf" size="819200" crc="8a55c57f" md5="3c9f4ed968d712c8e980ae3e6842fb7b" sha1="b53c9a0a659078f1783db00c2975e2ba5b641f87"/>
+	</game>
+	<game name="Arcturus (United Kingdom) (Demo)" id="0237">
+		<description>Arcturus (United Kingdom) (Demo)</description>
+		<rom name="Arcturus (United Kingdom) (Demo).adf" size="819200" crc="7640793e" md5="3d5298b8e515c2e033eac864a7672236" sha1="60f95260f954eefdc82a60f7240eec618d7a9fdf"/>
+	</game>
+	<game name="Asylum (Europe) (Disk 1)" id="0015">
+		<description>Asylum (Europe) (Disk 1)</description>
+		<rom name="Asylum (Europe) (Disk 1).adf" size="819200" crc="39cd1bf0" md5="f9ff079bf46f918a7a7874c28e902fa2" sha1="464fb68a465711658bc9b649e39936421598eb32"/>
+	</game>
+	<game name="Asylum (Europe) (Disk 2)" id="0016">
+		<description>Asylum (Europe) (Disk 2)</description>
+		<rom name="Asylum (Europe) (Disk 2).adf" size="819200" crc="0d2d01c5" md5="b092489fac7bec478e7b54895d5f2a88" sha1="20a5a97df606f17c4d94e43f5c93162639db2a2e"/>
+	</game>
+	<game name="Avon and Murdac (United Kingdom)" id="0311">
+		<category>Games</category>
+		<description>Avon and Murdac (United Kingdom)</description>
+		<game_id>F1048901</game_id>
+		<rom name="Avon and Murdac (United Kingdom).jfd" size="175978" crc="3862cace" md5="54f7a55b4fdc1b146bb22ef9c2130893" sha1="e6a070200fc9f515922aa201e678f1d5b57748f1" sha256="27dc55abfb41c35d58f1eef49a1954574f67e498c931eecaa95696bbc0cc3dd0"/>
+	</game>
+	<game name="Ballarena (United Kingdom)" id="0141">
+		<category>Games</category>
+		<description>Ballarena (United Kingdom)</description>
+		<game_id>F1023101</game_id>
+		<rom name="Ballarena (United Kingdom).jfd" size="283699" crc="0049306a" md5="1b1aff400f9ca691390954a70189f317" sha1="2141750c859033e6730d22b27ff68c29e6a61f47" sha256="3c00ee2248821c4aa72a980521c6de8159ab07839d42ed2a1fb5ff7ff515f5c0"/>
+	</game>
+	<game name="Bambuzle (United Kingdom) (Demo)" id="0238">
+		<description>Bambuzle (United Kingdom) (Demo)</description>
+		<rom name="Bambuzle (United Kingdom) (Demo).adf" size="819200" crc="7a7ce25c" md5="5b5ae30c88fe75d6f020f327959442b9" sha1="829a018623c88d237c43c5ea83e68dd87f9e5071"/>
+	</game>
+	<game name="Battle Chess (United Kingdom) (Disk 1)" id="0151" cloneofid="0152">
+		<category>Games</category>
+		<description>Battle Chess (United Kingdom) (Disk 1)</description>
+		<game_id>F1003801</game_id>
+		<rom name="Battle Chess (United Kingdom) (Disk 1).jfd" size="209670" crc="8b9c26e3" md5="dac4173087f95643ad9b96778b5f7a70" sha1="2436a6ccc3794bdd6e8b2c85da99e51915aa219d" sha256="bc13ed35d098a9dacc5cab58f992cb86fc363d32632f4c28b4879b436315e9df"/>
+	</game>
+	<game name="Battle Chess (United Kingdom) (Disk 2)" id="0152">
+		<category>Games</category>
+		<description>Battle Chess (United Kingdom) (Disk 2)</description>
+		<game_id>F1003802</game_id>
+		<rom name="Battle Chess (United Kingdom) (Disk 2).jfd" size="710513" crc="d2cff3a4" md5="b99e7c1b194200849c4857e1b72d2ee2" sha1="2c847a6dbb72725d77556163f67ff8d3d1136cf0" sha256="4321060395d9713b3d490262b772e4b365e42076d9c1bf5a12b6bd7d8942a7b6"/>
+	</game>
+	<game name="Battle Tank (United Kingdom)" id="0153">
+		<category>Games</category>
+		<description>Battle Tank (United Kingdom)</description>
+		<game_id>F1003901</game_id>
+		<rom name="Battle Tank (United Kingdom).jfd" size="258301" crc="4dc3369c" md5="3bf7e8a0969c2be0b0d3268a65a8e9ea" sha1="f0f44faa3fecd371f63185b45434774040eb7654" sha256="d0aeeac7ae8483909e8f3ea8ec8e8e4095d4cdb0c7bed3849a5f0972ec99a17e"/>
+	</game>
+	<game name="Big Bang (United Kingdom)" id="0239">
+		<description>Big Bang (United Kingdom)</description>
+		<rom name="Big Bang (United Kingdom).adf" size="819200" crc="cfcf1278" md5="f4ab79665608ea9c8302874f47f415ee" sha1="7ad6e00dc20ab54a5fadd0a71904598074362d1b"/>
+	</game>
+	<game name="Blaston (France)" id="0154">
+		<category>Games</category>
+		<description>Blaston (France)</description>
+		<game_id>F1064001</game_id>
+		<rom name="Blaston (France).jfd" size="179026" crc="ca6d4e06" md5="7f41a67570f4a8c527776ef0d9888c99" sha1="fac982710fda89ece3292fb2dbe8d7604a0004f4" sha256="e8440275f4cfca209138da707df753f94d3e280f0db36f65b129a51d448f70af"/>
+	</game>
+	<game name="Blitz (Europe)" id="0017">
+		<description>Blitz (Europe)</description>
+		<rom name="Blitz (Europe).adf" size="819200" crc="c835a255" md5="2df9c0ef0f36196f61498d838e44c5ff" sha1="71d5bd09839361743ad3a7bf1d1c896c14da5829"/>
+	</game>
+	<game name="Blowpipe (Europe) (Disk 1)" id="0018">
+		<description>Blowpipe (Europe) (Disk 1)</description>
+		<rom name="Blowpipe (Europe) (Disk 1).adf" size="819200" crc="30fe3db6" md5="dc19095b52d3a7896311da9f1e00d469" sha1="252bfde8d602fe171e0657fa3f9dfeba1803e6eb"/>
+	</game>
+	<game name="Blowpipe (Europe) (Disk 2)" id="0019">
+		<description>Blowpipe (Europe) (Disk 2)</description>
+		<rom name="Blowpipe (Europe) (Disk 2).adf" size="819200" crc="a753a85e" md5="48ff170c5ec439023c7b32aff05fdd69" sha1="0088bc7f35b3399b8373c81ff5d6b86398d0b6f7"/>
+	</game>
+	<game name="Bobby Blockhead vs The Dark Planet (United Kingdom)" id="0309">
+		<category>Games</category>
+		<description>Bobby Blockhead vs The Dark Planet (United Kingdom)</description>
+		<game_id>F1005201</game_id>
+		<rom name="Bobby Blockhead vs The Dark Planet (United Kingdom).jfd" size="244897" crc="cd437999" md5="2746ae5e57d850382705f2c5fedc3897" sha1="ab14b31361ac83492e8f6f014ff82477e1d5fcd6" sha256="0aa335445af888d73118bb7264627d72ca51b3a5031c1c0440b72279b350e644"/>
+	</game>
+	<game name="Botkiller 2 (United Kingdom) (v0.72)" id="0318">
+		<category>Games</category>
+		<description>Botkiller 2 (United Kingdom) (v0.72)</description>
+		<game_id>F1005501</game_id>
+		<rom name="Botkiller 2 (United Kingdom) (v0.72).jfd" size="837233" crc="4a371ff6" md5="549951a5d62bebe0e92dfc46490623e9" sha1="182b329f76df2c36d70d6ee228432f25bec79def" sha256="27840d91ae6f19ce3007ce8a2f9f6a1d874bb1a0c06993c6d8ad18c6b2927fd6"/>
+	</game>
+	<game name="Break 147 (United Kingdom)" id="0240">
+		<description>Break 147 (United Kingdom)</description>
+		<rom name="Break 147 (United Kingdom).adf" size="819200" crc="0b2d3654" md5="1b28147a4e9c5440caa04b08a562de04" sha1="2c1c0ecbf70cc8c6562b46644f6a94e989b4d589"/>
+	</game>
+	<game name="Brutal Horse Power (United Kingdom) (Disk 1)" id="0277">
+		<description>Brutal Horse Power (United Kingdom) (Disk 1)</description>
+		<game_id>F1044301</game_id>
+		<rom name="Brutal Horse Power (United Kingdom) (Disk 1).jfd" size="695707" crc="5152feeb" md5="159bab51b3edccfcc69be7a4ba9004de" sha1="c2c8cb19a1a35c58a179c1648b685367ef86d4bd" sha256="d220f6bd281fcadf34cb2e9ca5b1716c6fd419b50e573f827b55de46681de898"/>
+	</game>
+	<game name="Brutal Horse Power (United Kingdom) (Disk 2)" id="0278">
+		<description>Brutal Horse Power (United Kingdom) (Disk 2)</description>
+		<game_id>F1044302</game_id>
+		<rom name="Brutal Horse Power (United Kingdom) (Disk 2).jfd" size="1541319" crc="9b01abd1" md5="226285e3981d4dfc08f2ba139b6a5a60" sha1="3169c5e035f41e4f3244db2c14ed9adf61489dc1" sha256="3c3fc8f4e98c98c33a93516d3f153254c145ea9bebc18b6cbb84ea33bb173755"/>
+	</game>
+	<game name="Brutal Horse Power (United Kingdom) (Disk 3)" id="0279">
+		<description>Brutal Horse Power (United Kingdom) (Disk 3)</description>
+		<game_id>F1044303</game_id>
+		<rom name="Brutal Horse Power (United Kingdom) (Disk 3).jfd" size="1354126" crc="ac618ecc" md5="7c01c3c07c5aad13144e48a771581e2b" sha1="ab48288cdc69608eb047741c32f00fb70604dba4" sha256="7b1c402fbf8970a1072fcbaf24c4f4ffffc9668a914d45b241d5c0341e08e28a"/>
+	</game>
+	<game name="Bubble Fair (France)" id="0155">
+		<category>Games</category>
+		<description>Bubble Fair (France)</description>
+		<game_id>F1005701</game_id>
+		<rom name="Bubble Fair (France).jfd" size="633056" crc="78188c8e" md5="bf6b3959650e8c27f3b5f55a990e0c74" sha1="fd8ff2fc1d30e190ce2190e19e54661ee7f5c379" sha256="709ebd906e1894f49e871136309d57be4adcdd7d2ae01cfce81a22d13f103c1f"/>
+	</game>
+	<game name="Bug Hunter &amp; Moondash (United Kingdom)" id="0284">
+		<description>Bug Hunter &amp; Moondash (United Kingdom)</description>
+		<game_id>F1005901</game_id>
+		<rom name="Bug Hunter &amp; Moondash (United Kingdom).jfd" size="219952" crc="ee6cd844" md5="cb2ad30c0727ed2b92430fe135a2da71" sha1="3e53836f8c5444529d6795db70c7748aa4a99e52" sha256="90d5d0be774725573da1c5dcf45089f2a1a944831a0a1455f0a7bfda01923090"/>
+	</game>
+	<game name="Bug Hunter in Space (United Kingdom) (v1.10)" id="0156">
+		<category>Games</category>
+		<description>Bug Hunter in Space (United Kingdom) (v1.10)</description>
+		<game_id>F1006001</game_id>
+		<rom name="Bug Hunter in Space (United Kingdom) (v1.10).jfd" size="207822" crc="6398832f" md5="ed273eb333f82d6e51bc95d3c45d93af" sha1="62e2174ef45fe59e281bcf834c0dd77ebbd142b5" sha256="d399d208d34e99eb68b17b2f096c0cf7fe3310366684b14ba99dc804911dd95e"/>
+	</game>
+	<game name="Cannon Fodder (United Kingdom) (Disk 1)" id="0157" cloneofid="0159">
+		<category>Games</category>
+		<description>Cannon Fodder (United Kingdom) (Disk 1)</description>
+		<game_id>F1006501</game_id>
+		<rom name="Cannon Fodder (United Kingdom) (Disk 1).jfd" size="520831" crc="80e516eb" md5="80ccfe79aa8ab97d8c897c40ea79f8f3" sha1="1cfb72e941b3c17a2db19543b6ac43fa07e62483" sha256="72ce63e3fd2940d817682820408a71f9613ff414747d2b9b031fa26c85b0a11c"/>
+	</game>
+	<game name="Cannon Fodder (United Kingdom) (Disk 2)" id="0158" cloneofid="0159">
+		<category>Games</category>
+		<description>Cannon Fodder (United Kingdom) (Disk 2)</description>
+		<game_id>F1006502</game_id>
+		<rom name="Cannon Fodder (United Kingdom) (Disk 2).jfd" size="678033" crc="9b1db60f" md5="dda6f357b699d0f2a07f2cc7ce463b37" sha1="f3fd9b49768902ca748a506b2bbe034d51f24ae5" sha256="ec3e364e9ef8dbffb558ce1279bdb1156f2f7395736ca957c5b51cf1f88e8125"/>
+	</game>
+	<game name="Cannon Fodder (United Kingdom) (Disk 3)" id="0159">
+		<category>Games</category>
+		<description>Cannon Fodder (United Kingdom) (Disk 3)</description>
+		<game_id>F1006503</game_id>
+		<rom name="Cannon Fodder (United Kingdom) (Disk 3).jfd" size="640089" crc="3e164401" md5="08aca63aff342b946cda6266ef2d8b53" sha1="4055c4559d2c636471ce48c87e9e3c076f2190a9" sha256="eb155eaaac37ab4dc1843e22c95eb048350889a19a9d41e3e058c18bb928bf9d"/>
+	</game>
+	<game name="Cartoon Line Part One (France) (Disk 1)" id="0160" cloneofid="0162">
+		<category>Games</category>
+		<description>Cartoon Line Part One (France) (Disk 1)</description>
+		<game_id>F1019501</game_id>
+		<rom name="Cartoon Line Part One (France) (Disk 1).jfd" size="595217" crc="fe279232" md5="6364cdf0bc20a856ac712e16ed0da634" sha1="a1d4503aa8140434ce7de54b023e2f462f1d65a9" sha256="ddd05ae32a826370d37bf1431be7f0225d699a4bd150c84da5932085b00c4447"/>
+	</game>
+	<game name="Cartoon Line Part One (France) (Disk 2)" id="0161" cloneofid="0162">
+		<category>Games</category>
+		<description>Cartoon Line Part One (France) (Disk 2)</description>
+		<game_id>F1019501</game_id>
+		<rom name="Cartoon Line Part One (France) (Disk 2).jfd" size="703846" crc="9a9b788b" md5="653d3ff9d4b4cf552af0ee067823ee3c" sha1="d90d63eafd1360321d6c6205f65054b82e6406c6" sha256="b7ef214699880185afdbcebc8fde933f9b24949f5d42ff5542d0c65e85408738"/>
+	</game>
+	<game name="Cartoon Line Part One (France) (Disk 3)" id="0162">
+		<category>Games</category>
+		<description>Cartoon Line Part One (France) (Disk 3)</description>
+		<game_id>F1019503</game_id>
+		<rom name="Cartoon Line Part One (France) (Disk 3).jfd" size="362140" crc="3a416522" md5="89c5d640a97bfb883e89bdec49df113b" sha1="c744e0634ec69c273ab83db588732c26930c68f7" sha256="bd922ee12c5d94daf3ede4676212a74ccbec650c7d8968de336de539c86e68df"/>
+	</game>
+	<game name="Cascade (United Kingdom)" id="0163">
+		<category>Games</category>
+		<description>Cascade (United Kingdom)</description>
+		<game_id>F1035501</game_id>
+		<rom name="Cascade (United Kingdom).jfd" size="170132" crc="dfbbbe41" md5="17934d4854bdb1db41e650a3c652b5c6" sha1="465879e94ccdebdf4ff4290bb842d3c0ee047de3" sha256="1b2b9dd18bede3b7653a1f25ebb32f5457870364ad1c005da831877ae51c40a9"/>
+	</game>
+	<game name="Casino (United Kingdom)" id="0164">
+		<category>Games</category>
+		<description>Casino (United Kingdom)</description>
+		<game_id>F1006801</game_id>
+		<rom name="Casino (United Kingdom).jfd" size="114723" crc="404c7dd1" md5="4cdf4f8368a6c1667ec1a723e12d21b4" sha1="b30efedab4fa26751685d05b34d921b1ca4fd25f" sha256="4fc5c098a7df2294fca21c19c1c81cb53881fd0c6426d82773618a314487fdc0"/>
+	</game>
+	<game name="Castle Black Heart (Europe)" id="0028">
+		<description>Castle Black Heart (Europe)</description>
+		<rom name="Castle Black Heart (Europe).adf" size="819200" crc="6917a651" md5="30df2890f8a46fa64f977dc22de76172" sha1="38c61cec58c91843ef1ac91f12c93c52eda57a40"/>
+	</game>
+	<game name="Cataclysm (United Kingdom) (Disk 1)" id="0241">
+		<description>Cataclysm (United Kingdom) (Disk 1)</description>
+		<rom name="Cataclysm (United Kingdom) (Disk 1).adf" size="819200" crc="a4e4041f" md5="f65a69a7f10cff97ecbf7ca5b68299bd" sha1="38590ffdbcaea9dc5fcac7b88eecfb675da16704"/>
+	</game>
+	<game name="Cataclysm (United Kingdom) (Disk 2)" id="0242">
+		<description>Cataclysm (United Kingdom) (Disk 2)</description>
+		<rom name="Cataclysm (United Kingdom) (Disk 2).adf" size="819200" crc="3cb0c04a" md5="a141feadc2122f3b3e0505dd5497704f" sha1="73ff11bd4279ba7505ff99b3a3f454e748ae8081"/>
+	</game>
+	<game name="Caverns (United Kingdom)" id="0165">
+		<category>Games</category>
+		<description>Caverns (United Kingdom)</description>
+		<game_id>F1007201</game_id>
+		<rom name="Caverns (United Kingdom).jfd" size="110131" crc="da580208" md5="55ce642767386864cd66dad616ff6c5e" sha1="090278741a1fd4f28f41c9ed769f6af259d3e347" sha256="e1132bee9da3500f14a77921a196d3b8d6d982b873f89e76bbc78bf29498c283"/>
+	</game>
+	<game name="Cheats 1 (Europe)" id="0029">
+		<description>Cheats 1 (Europe)</description>
+		<rom name="Cheats 1 (Europe).adf" size="819200" crc="eb5dd0a8" md5="978b45c3d27dd07d9144e19f9c5d40ee" sha1="2c31ebd407544ade56e785cf9340862947a1040a"/>
+	</game>
+	<game name="Chequered Flag (United Kingdom) (Risc OS 3 Version)" id="0307">
+		<category>Games</category>
+		<description>Chequered Flag (United Kingdom) (Risc OS 3 Version)</description>
+		<game_id>F1062401</game_id>
+		<rom name="Chequered Flag (United Kingdom) (Risc OS 3 Version).jfd" size="444510" crc="4064594c" md5="3dbdd35eb89c74e320ea28c7a4145d32" sha1="0613e6aa989073a9ffd7bb79679a62d8f9cb90e7" sha256="9a41284b46e9993cf8ffeac55586cb0324d333b6c78dca7ce3bf91c27e8460d2"/>
+	</game>
+	<game name="Chess 3D (Europe)" id="0030">
+		<description>Chess 3D (Europe)</description>
+		<rom name="Chess 3D (Europe).adf" size="804864" crc="b2f43c2a" md5="d2c803118c712301796f6e665dc901c1" sha1="90d3978556577ce09129ddeabcdeda5247692a68"/>
+	</game>
+	<game name="Chess 3D (Europe) (v1.33)" id="0031">
+		<description>Chess 3D (Europe) (v1.33)</description>
+		<rom name="Chess 3D (Europe) (v1.33).adf" size="819200" crc="dbc0ac1d" md5="116fdb96521dd3d9230282d7ce3fdcfa" sha1="a8ed0b17377dea96098b274b9982998bee070d3c"/>
+	</game>
+	<game name="Chocks Away (United Kingdom) (Disk 1, Game Disk)" id="0243">
+		<description>Chocks Away (United Kingdom) (Disk 1, Game Disk)</description>
+		<rom name="Chocks Away (United Kingdom) (Disk 1, Game Disk).adf" size="819200" crc="18c0c339" md5="58001cb7ee51e9e357b462e848f9e741" sha1="fa875db7e19da027d773c1c70e85bbe8932dbbc0"/>
+	</game>
+	<game name="Chocks Away (United Kingdom) (Disk 1, Game Disk) (Alt)" id="0244">
+		<description>Chocks Away (United Kingdom) (Disk 1, Game Disk) (Alt)</description>
+		<rom name="Chocks Away (United Kingdom) (Disk 1, Game Disk) (Alt).adf" size="819200" crc="82d22b23" md5="d8cdee3e7abe3e804d5ad4d5ba49d5a1" sha1="47aeae3891a500955cd430d909a212704047e389"/>
+	</game>
+	<game name="Chocks Away (United Kingdom) (Disk 2, Maps Disk)" id="0245">
+		<description>Chocks Away (United Kingdom) (Disk 2, Maps Disk)</description>
+		<rom name="Chocks Away (United Kingdom) (Disk 2, Maps Disk).adf" size="819200" crc="2d40833e" md5="d67b30d1be15f43410e33a4bc7637299" sha1="71603bd55faf1524cb77c66d61fbad5dc78947a3"/>
+	</game>
+	<game name="Chocks Away (United Kingdom) (Disk 2, Maps Disk) (Alt)" id="0246">
+		<description>Chocks Away (United Kingdom) (Disk 2, Maps Disk) (Alt)</description>
+		<rom name="Chocks Away (United Kingdom) (Disk 2, Maps Disk) (Alt).adf" size="819200" crc="077368b7" md5="1519e7c30f5d78fa56c8f4586fe56fb5" sha1="e0d6cdda9a030c0b07fd8387761b7d68e2ff082d"/>
+	</game>
+	<game name="Chocks Away (United Kingdom) (Disk 3, Misson Addon)" id="0247">
+		<description>Chocks Away (United Kingdom) (Disk 3, Misson Addon)</description>
+		<rom name="Chocks Away (United Kingdom) (Disk 3, Misson Addon).adf" size="819200" crc="170359d5" md5="dd81c6e67cd1ecc6a04cf37679057235" sha1="3615bcb8a953fbba3d56a956243341a022208101"/>
+	</game>
+	<game name="Chocks Away - Extra Missions (United Kingdom) (Demo) (BBC User Exclusive)" id="0248">
+		<description>Chocks Away - Extra Missions (United Kingdom) (Demo) (BBC User Exclusive)</description>
+		<rom name="Chocks Away - Extra Missions (United Kingdom) (Demo) (BBC User Exclusive).adf" size="819200" crc="b395ba19" md5="8e645d280eb4e25fbaeb04ac3ded0f1a" sha1="9da357d456122fbfc78dff53165e828526815216"/>
+	</game>
+	<game name="Chuck Rock (United Kingdom) (Disk 1)" id="0166" cloneofid="0167">
+		<category>Games</category>
+		<description>Chuck Rock (United Kingdom) (Disk 1)</description>
+		<game_id>F1008101</game_id>
+		<rom name="Chuck Rock (United Kingdom) (Disk 1).jfd" size="542129" crc="2f22a5ca" md5="1443e900e14f18694a82ac72d76a645d" sha1="38d10e49d23f72fba616ece8ed22b00d8866c44e" sha256="ab1bf6519b1b736ccaf5293169600cd465857f3af8198ba07193fae60506ffa4"/>
+	</game>
+	<game name="Chuck Rock (United Kingdom) (Disk 2)" id="0167">
+		<category>Games</category>
+		<description>Chuck Rock (United Kingdom) (Disk 2)</description>
+		<game_id>F1008102</game_id>
+		<rom name="Chuck Rock (United Kingdom) (Disk 2).jfd" size="674295" crc="57c64367" md5="2a934acea49b567bebbe38f7bc5f97f2" sha1="ad7f3b864feaf2ad714fec5bea8cf28f480ae479" sha256="0bd5a49e1245717fefacc0c9107cec7b2e068f3894cad31b0a22909e3974370e"/>
+	</game>
+	<game name="Chuck Rock (United Kingdom) (SA Version)" id="0168">
+		<category>Games</category>
+		<description>Chuck Rock (United Kingdom) (SA Version)</description>
+		<game_id>F1060201</game_id>
+		<rom name="Chuck Rock (United Kingdom) (SA Version).jfd" size="1381961" crc="664639c4" md5="82ff82100add1880c4b8982178644d8c" sha1="871bc5d66230edd6a92a81e8050e41f200cf286f" sha256="573826d34bdeaee53bbba584ed15e3300498fddd8b674774566a917a2f8ff054"/>
+	</game>
+	<game name="Cobalt Seed, The (United Kingdom) (v1.02)" id="0276">
+		<category>Games</category>
+		<description>Cobalt Seed, The (United Kingdom) (v1.02)</description>
+		<game_id>F1008301</game_id>
+		<rom name="Cobalt Seed, The (United Kingdom) (v1.02).jfd" size="790094" crc="c18e9563" md5="615a5d5136ac8f3627ec7ccc6b6348e5" sha1="69c89a01b4b7f0392d3eb46b65199e284a20e863" sha256="613be9854fd7d5e84be5e4236d9f42c0ef7b2f6ee7ffd425371d041721a63e29"/>
+	</game>
+	<game name="Coconizer (Europe) (v1.3)" id="0034">
+		<description>Coconizer (Europe) (v1.3)</description>
+		<rom name="Coconizer (Europe) (v1.3).adf" size="819200" crc="6816bed8" md5="ccfff8053ad6d9d70b24e7c745ae5b42" sha1="54183952c0ee20cdbd29d73f8e0df4e5e089c8f7"/>
+	</game>
+	<game name="Colour Umoria (Europe) (v5.4.0)" id="0035">
+		<description>Colour Umoria (Europe) (v5.4.0)</description>
+		<rom name="Colour Umoria (Europe) (v5.4.0).adf" size="819200" crc="0240b966" md5="da0c3865c2cf9bee96d746bff9e1e6d4" sha1="02a562035c181025f71e4093a87b4db3a38a9941"/>
+	</game>
+	<game name="Command Ship (United Kingdom) (v1.01)" id="0271">
+		<category>Games</category>
+		<description>Command Ship (United Kingdom) (v1.01)</description>
+		<game_id>F1025201</game_id>
+		<rom name="Command Ship (United Kingdom) (v1.01).jfd" size="551502" crc="8c5c1a29" md5="248cec9d240e59d4b01cee9075e4ef0d" sha1="549836ed1ae4391b285b639adefdccdcd38df881" sha256="f845c4a79993cfc67b61bd2b5180037d95088965091c67e2a9b0f45ae7eb107d"/>
+	</game>
+	<game name="Confusion (United Kingdom)" id="0291">
+		<category>Games</category>
+		<description>Confusion (United Kingdom)</description>
+		<game_id>F1008901</game_id>
+		<rom name="Confusion (United Kingdom).jfd" size="194614" crc="6808f59a" md5="736d8c9263ce02c356f573dbd374adfb" sha1="197a3f3f381732482415f91fc64cdf572d779650" sha256="22ada63884f6dc443c9d3e3f2ce1bfa6f04b59aaf74dd3a8e62787fbd9b333ab"/>
+	</game>
+	<game name="Conqueror (Europe)" id="0036">
+		<description>Conqueror (Europe)</description>
+		<rom name="Conqueror (Europe).adf" size="819200" crc="d4935557" md5="5330912ba18d7959eceb0a839de9e4a3" sha1="c7a67d2f7b6095581ba3e19139e5f539c7b89109"/>
+	</game>
+	<game name="Conqueror (Europe) (Alt)" id="0037">
+		<description>Conqueror (Europe) (Alt)</description>
+		<rom name="Conqueror (Europe) (Alt).adf" size="819200" crc="f6fc9510" md5="f9c2764b58efcf4e2f2ab02eff04c054" sha1="baa5dc8148cdca11753ac61f9c73df83f17f4301"/>
+	</game>
+	<game name="Cops - An Interactive Story (United Kingdom) (v1.02)" id="0324">
+		<category>Games</category>
+		<description>Cops - An Interactive Story (United Kingdom) (v1.02)</description>
+		<game_id>F1009101</game_id>
+		<rom name="Cops - An Interactive Story (United Kingdom) (v1.02).jfd" size="167487" crc="2d0e9650" md5="0b81e779e9636bd3d8cc0a57484615bb" sha1="23e998588533d70f7f6d5be1d3ebb2cbdf9e40ed" sha256="3807d127444552adde220cdf70b2932be5662ffee33a6f41387febc385fb4c51"/>
+	</game>
+	<game name="Corewars (Europe)" id="0038">
+		<description>Corewars (Europe)</description>
+		<rom name="Corewars (Europe).adf" size="819200" crc="5f7538f7" md5="4f1486ff27db4391a493b4253224883c" sha1="044183cae7e4bdec0949953d90697af12f8231c5"/>
+	</game>
+	<game name="Corruption (Europe) [b]" id="0039">
+		<description>Corruption (Europe) [b]</description>
+		<rom name="Corruption (Europe) [b].adf" size="814080" crc="2f8ba19c" md5="6e0a0d845de30e3d712a0acb961e1562" sha1="7deebf17db394b5ae964324136d91d002a6c4634" status="baddump"/>
+	</game>
+	<game name="Creepie Crawlie 1 &amp; 2 (Europe)" id="0040">
+		<description>Creepie Crawlie 1 &amp; 2 (Europe)</description>
+		<rom name="Creepie Crawlie 1 &amp; 2 (Europe).adf" size="819200" crc="a524587f" md5="aa4f21a3d801bcb1cbf76fc5852ae4ee" sha1="68718a2496fe020f916fa59e9c5a78d97d6e8af0"/>
+	</game>
+	<game name="Crisis (United Kingdom)" id="0312">
+		<category>Games</category>
+		<description>Crisis (United Kingdom)</description>
+		<game_id>F1009501</game_id>
+		<rom name="Crisis (United Kingdom).jfd" size="300227" crc="537346c2" md5="b83b74a9fe6ff9547b8b97d521b213ba" sha1="d95de1113f678d411c87ee2d61f15fd74baf14c6" sha256="ed500b871ccadd1d9f41f7701e4bc84889d515d2ea2f38c2ae6807cfaa319651"/>
+	</game>
+	<game name="Crystal Maze, The (Europe) (Demo) [b]" id="0041">
+		<description>Crystal Maze, The (Europe) (Demo) [b]</description>
+		<rom name="Crystal Maze, The (Europe) (Demo) [b].adf" size="819200" crc="ff81bc79" md5="96131064b1a40cc45badc386caacc805" sha1="dc4b2f3543ea3ecf95f9713f27c671d5c83f9c04" status="baddump"/>
+	</game>
+	<game name="Crystal Maze, The (United Kingdom) (Demo)" id="0249">
+		<description>Crystal Maze, The (United Kingdom) (Demo)</description>
+		<rom name="Crystal Maze, The (United Kingdom) (Demo).adf" size="819200" crc="2dd96e66" md5="5a05ab6504a9723385df46bec5af7cce" sha1="f0f1190d00f55f6b491efcfd5db24d546f56d49e"/>
+	</game>
+	<game name="Cyber Ape (United Kingdom) (Disk 1)" id="0336">
+		<category>Games</category>
+		<description>Cyber Ape (United Kingdom) (Disk 1)</description>
+		<game_id>F1009901</game_id>
+		<rom name="Cyber Ape (United Kingdom) (Disk 1).jfd" size="556558" crc="e3619d53" md5="68f821aba03d8f75f18fb9e14ed4f4d6" sha1="8cd5e75bfd2e5a9374a0ec13cbd7827a45f36fb1" sha256="6f50e464fdc780033ade3355e051c8e705d1c42f318a56668cb9705fea2a440f"/>
+	</game>
+	<game name="Cyber Ape (United Kingdom) (Disk 2)" id="0337" cloneofid="0336">
+		<category>Games</category>
+		<description>Cyber Ape (United Kingdom) (Disk 2)</description>
+		<game_id>F1009902</game_id>
+		<rom name="Cyber Ape (United Kingdom) (Disk 2).jfd" size="769807" crc="83e9216c" md5="53121e5a2c80e38b24d3133e90820d0b" sha1="ecddad8e603a794ae0dfc53b8a274e1baffa8d23" sha256="10ef3eb3de2535a213e8d875ba515bbb4d48f0f53dbfabb201f6acbebb6db3d6"/>
+	</game>
+	<game name="Cyborg (United Kingdom) (v1.01) (Disk 1)" id="0321" cloneofid="0323">
+		<category>Games</category>
+		<description>Cyborg (United Kingdom) (v1.01) (Disk 1)</description>
+		<game_id>F1010201</game_id>
+		<rom name="Cyborg (United Kingdom) (v1.01) (Disk 1).jfd" size="412024" crc="8039079d" md5="05b6e7b7f196f3c88e7457d93cb30f72" sha1="7d4900a1c3f6331abbd176947ea158af862f0b33" sha256="a4b88c403069d32c058dd99c5853270ba82c833503284bded292b909cbb9cd58"/>
+	</game>
+	<game name="Cyborg (United Kingdom) (v1.01) (Disk 2)" id="0322" cloneofid="0323">
+		<category>Games</category>
+		<description>Cyborg (United Kingdom) (v1.01) (Disk 2)</description>
+		<game_id>F1010202</game_id>
+		<rom name="Cyborg (United Kingdom) (v1.01) (Disk 2).jfd" size="620858" crc="aa45116f" md5="f2a21b556e41d5e08c879b5317189671" sha1="cfea220c5fcff8c064821e0cd12abbc77147d4b9" sha256="be24f2cb64af9d3a567a268ed730748957b6bc541874ac0930501f5d892298cd"/>
+	</game>
+	<game name="Cyborg (United Kingdom) (v1.01) (Disk 3)" id="0323">
+		<category>Games</category>
+		<description>Cyborg (United Kingdom) (v1.01) (Disk 3)</description>
+		<game_id>F1010203</game_id>
+		<rom name="Cyborg (United Kingdom) (v1.01) (Disk 3).jfd" size="674152" crc="7c60b820" md5="348d12de8bbbedc5bfeab3d475ccde8d" sha1="6a3dd1055bb9ab560c1d92f5107c7fb2f6486b0c" sha256="7b009ee06f0b7322188cb9277c2d66dc80f2b426c3a8716db4e2d85223548517"/>
+	</game>
+	<game name="Cycloids (United Kingdom)" id="0333">
+		<category>Games</category>
+		<description>Cycloids (United Kingdom)</description>
+		<game_id>F1010301</game_id>
+		<rom name="Cycloids (1993) (Software 42) F1010301.jfd" size="651310" crc="1dbf73c7" md5="20b47b395d850c89a1614a7a97504459" sha1="7bd1646eab3ad790778264c109c90ea51d6122c0" sha256="5a32bfba39804e64c61f0a270ae93323a8bc034f58fd56aeabc7d332ec25ad58"/>
+	</game>
+	<game name="DesktopHacker (Europe) (v1.01)" id="0042">
+		<description>DesktopHacker (Europe) (v1.01)</description>
+		<rom name="DesktopHacker (Europe) (v1.01).adf" size="819200" crc="367b4cd5" md5="04597fb1e21e0b3818d0a444b9911999" sha1="96e92a2af874197470d56aa87f881f77512066f9"/>
+	</game>
+	<game name="Diggers (United Kingdom) (Demo)" id="0251">
+		<description>Diggers (United Kingdom) (Demo)</description>
+		<rom name="Diggers (United Kingdom) (Demo).adf" size="819200" crc="ce75689f" md5="aa47de24fbd24270d1e9f87ce244b9f0" sha1="44e71d71d0b88a5b9f71c1ff0ccaa1c329e68276"/>
+	</game>
+	<game name="DinoSaw (Europe)" id="0043">
+		<description>DinoSaw (Europe)</description>
+		<rom name="DinoSaw (Europe).adf" size="819200" crc="e8e5787d" md5="36b7f6b91ca839c4319aaa8f97a2efe2" sha1="525f37de06025689e8a33dd37dcfa06bb2ace858"/>
+	</game>
+	<game name="Drifter (United Kingdom) (SA Version)" id="0280">
+		<description>Drifter (United Kingdom) (SA Version)</description>
+		<game_id>F1060801</game_id>
+		<rom name="Drifter (United Kingdom) (SA Version).jfd" size="517784" crc="13f7cab3" md5="2d5acaefca879baed2a818f5b01bb3bb" sha1="e0010e47c05813931a8ba85c9d69e2e28d1b675b" sha256="26d26ae9009c7d10019b95f14bf09881c30c6b0fde107b8487519dbc91e1d650"/>
+	</game>
+	<game name="Drifter (United Kingdom) (Disk 1)" id="0338">
+		<category>Games</category>
+		<description>Drifter (United Kingdom) (Disk 1)</description>
+		<game_id>F1012501</game_id>
+		<rom name="Drifter (United Kingdom) (Disk 1).jfd" size="251849" crc="f32885da" md5="d5ef709a27fd9d6a95d5cd712311baab" sha1="0d017091792d84613991b19acbe74973b5de9ecc" sha256="b70a0a6a7c66eb47527bbc3433ee877dbf07dc020c9f5803090feaa7ff446a51"/>
+	</game>
+	<game name="Drifter (United Kingdom) (Disk 2)" id="0339" cloneofid="0338">
+		<category>Games</category>
+		<description>Drifter (United Kingdom) (Disk 2)</description>
+		<game_id>F1012502</game_id>
+		<rom name="Drifter (United Kingdom) (Disk 2).jfd" size="285142" crc="0ae42dbd" md5="ae2b86e8db7fbaae936bfb7cb701c26e" sha1="685255d45cbc38dbaf9fa3fc8b3922d5b4ea3c74" sha256="35d8193f7e0eef9803dbf889c3a00fc7d6d07cb2a12200c1e66b7da4fbfc26f2"/>
+	</game>
+	<game name="E-Type (United Kingdom) (Disk 1)" id="0252">
+		<description>E-Type (United Kingdom) (Disk 1)</description>
+		<rom name="E-Type (United Kingdom) (Disk 1).adf" size="819200" crc="42eb6f96" md5="67f9c62c4bd9c2cbe0bbacf66c9f8f37" sha1="93d539a6535c21d0843664005e05eb15766abaa2"/>
+	</game>
+	<game name="E-Type (United Kingdom) (Disk 2)" id="0253">
+		<description>E-Type (United Kingdom) (Disk 2)</description>
+		<rom name="E-Type (United Kingdom) (Disk 2).adf" size="819200" crc="358868f2" md5="8806e6fa5aab9176e51380b3e4894e57" sha1="f77234e40e9aae0b6c4d16910ddd8dfbd41ba00c"/>
+	</game>
+	<game name="EGO - Repton 4 (Europe)" id="0044">
+		<description>EGO - Repton 4 (Europe)</description>
+		<rom name="EGO - Repton 4 (Europe).adf" size="814080" crc="49857651" md5="74ba14d7c8caaf2934887bd1d476290f" sha1="4581c6f40ea3eaaeaa5ea356bb0811c887d0a5ed"/>
+	</game>
+	<game name="Elite (Europe)" id="0045">
+		<description>Elite (Europe)</description>
+		<rom name="Elite (Europe).adf" size="814080" crc="c4c32b35" md5="d7b3c3dfc2d0ceae34befb1a57810fd4" sha1="fde0f540e0d5732646c1eebb54629a162f40db91"/>
+	</game>
+	<game name="Emotions - Search for Humanity (United Kingdom) (v1.11) (Disk 1 - Installation Disc One)" id="0285">
+		<description>Emotions - Search for Humanity (United Kingdom) (v1.11) (Disk 1 - Installation Disc One)</description>
+		<game_id>F1013101</game_id>
+		<rom name="Emotions - Search for Humanity (United Kingdom) (v1.11) (Disk 1 - Installation Disc One).jfd" size="1257426" crc="b5144cb3" md5="e919f6a42992628f5d761efbbc471aaa" sha1="39f705de252c3a6321c26cf1ce3c99504a8c13c1" sha256="a4468b9d0d10d34656116bc7808cf1a645c5a6d4b88d234edf829f19c7147e1a"/>
+	</game>
+	<game name="Emotions - Search for Humanity (United Kingdom) (v1.11) (Disk 2 - Installation Disc Two)" id="0286">
+		<description>Emotions - Search for Humanity (United Kingdom) (v1.11) (Disk 2 - Installation Disc Two)</description>
+		<game_id>F1013102</game_id>
+		<rom name="Emotions - Search for Humanity (United Kingdom) (v1.11) (Disk 2 - Installation Disc Two).jfd" size="1588673" crc="3acf0c45" md5="9d8f9800c2e6c3944af9ad9f83ba8653" sha1="7ee9bd2f2ed0330e97e2d98bb4c189e24541ed43" sha256="e9bd40910cb43f650ed59982019061272ae774471cd32524cd82fda40d2bd00b"/>
+	</game>
+	<game name="Emotions - Search for Humanity (United Kingdom) (v1.11) (Disk 3 - Installation Disc Three)" id="0340">
+		<category>Games</category>
+		<description>Emotions - Search for Humanity (United Kingdom) (v1.11) (Disk 3 - Installation Disc Three)</description>
+		<game_id>F1013103</game_id>
+		<rom name="Emotions - Search for Humanity (United Kingdom) (v1.11) (Disk 3 - Installation Disc Three).jfd" size="1501164" crc="502263a4" md5="87dabcdf6d468ea283e374f48522cf9b" sha1="b72a59a6bb62f92948fcf6c4a62663e78d0be926" sha256="44203670445145472fa28658ac08370393aab341804007bdc4f90979af616cea"/>
+	</game>
+	<game name="Empire Soccer '94 (United Kingdom)" id="0169">
+		<category>Games</category>
+		<description>Empire Soccer '94 (United Kingdom)</description>
+		<game_id>F1013201</game_id>
+		<rom name="Empire Soccer '94 (United Kingdom).jfd" size="414781" crc="7250d6a4" md5="812ddeb931848867600c447db7eae012" sha1="c087c02ff6e10cdeb261ecfbe331bb13a91e42e6" sha256="66606c7d874159891af1a9ff49c8a105f99346101afcb427cd92ceefab164616"/>
+	</game>
+	<game name="Enigma (Europe)" id="0046">
+		<description>Enigma (Europe)</description>
+		<rom name="Enigma (Europe).adf" size="819200" crc="99524aab" md5="18f07a8a160b992aa26215d478af00be" sha1="9651d10b2fea745ef9d9e404ee799c351d55239d"/>
+	</game>
+	<game name="Enigma (Europe) (Alt 2)" id="0047">
+		<description>Enigma (Europe) (Alt 2)</description>
+		<rom name="Enigma (Europe) (Alt 2).adf" size="819200" crc="979f5998" md5="71b0f42b3f1c4ae946d2eae7ee2e52ce" sha1="9228630e3858caed9f108b1a35036957d4efa720"/>
+	</game>
+	<game name="Enigma (Europe) (Alt)" id="0048">
+		<description>Enigma (Europe) (Alt)</description>
+		<rom name="Enigma (Europe) (Alt).adf" size="819200" crc="9277d658" md5="054f5986ef19c0a1f9161cd11b155326" sha1="2bdd2d1f53ee5f359f12adb8b20e915d12978de0"/>
+	</game>
+	<game name="Exodus (United Kingdom) (Disk 1)" id="0170" cloneofid="0172">
+		<category>Games</category>
+		<description>Exodus (United Kingdom) (Disk 1)</description>
+		<game_id>F1014501</game_id>
+		<rom name="Exodus (United Kingdom) (Disk 1).jfd" size="1150930" crc="df8fe606" md5="def9d5452cc51479ceab2b4b0dad87e9" sha1="47e22ef17aae82d8b57a98b23d8dd7216a131d14" sha256="b621559aa243655cd45c27e2ca8702bd37c4036e78f1b5da0852d8592383053f"/>
+	</game>
+	<game name="Exodus (United Kingdom) (Disk 2)" id="0171" cloneofid="0172">
+		<category>Games</category>
+		<description>Exodus (United Kingdom) (Disk 2)</description>
+		<game_id>F1014502</game_id>
+		<rom name="Exodus (United Kingdom) (Disk 2).jfd" size="1509391" crc="497a2ee9" md5="59feaa32ad07168da3ed6e95d693b8ae" sha1="ad6cbb402bd3143d00d98c271d2b66a0766a3a7c" sha256="a3d3e0aea5edbc5fb07db6f24585fb716642e2d1375e92c9d1afb4717295eb37"/>
+	</game>
+	<game name="Exodus (United Kingdom) (Disk 3)" id="0172">
+		<category>Games</category>
+		<description>Exodus (United Kingdom) (Disk 3)</description>
+		<game_id>F1014503</game_id>
+		<rom name="Exodus (United Kingdom) (Disk 3).jfd" size="1403406" crc="15f67f78" md5="adf678287173c9d98e2c640de06de29f" sha1="c4e6fedcdeb1ea66b97902458fb2b24fce08fbc9" sha256="61990a589e67008e29dfde906faeefd385b4cfd21e4fed5c68c13d540c32de60"/>
+	</game>
+	<game name="Fervour (Europe) [b]" id="0049">
+		<description>Fervour (Europe) [b]</description>
+		<rom name="Fervour (Europe) [b].adf" size="819200" crc="318c6e2a" md5="5f97847be4d51b3f927d60b0e5b3d63b" sha1="ff307f7dcd6c65be64931be211d8e1e2541012c8" status="baddump"/>
+	</game>
+	<game name="Fine Racer (France)" id="0173">
+		<category>Games</category>
+		<description>Fine Racer (France)</description>
+		<game_id>F1015301</game_id>
+		<rom name="Fine Racer (France).jfd" size="222809" crc="146e4da9" md5="dc4c6d3488db735bbc90fd8a34b3677e" sha1="515ed18e46067e6a3b3750ad08e81efc1977265c" sha256="cdb8131a75b5c99bd716bd083e436304f0832e3d7953f8b1e88f74ab320ad410"/>
+	</game>
+	<game name="Fire &amp; Ice (United Kingdom) (Disk 1)" id="0174" cloneofid="0175">
+		<category>Games</category>
+		<description>Fire &amp; Ice (United Kingdom) (Disk 1)</description>
+		<game_id>F1015401</game_id>
+		<rom name="Fire &amp; Ice (United Kingdom) (Disk 1).jfd" size="271482" crc="5bfec338" md5="6d97517144f8f9d98aeeaf1900ee485d" sha1="8463452f4ee4e867762aca425c58eaf6127befa3" sha256="17b95c594da5db7e930623d3f099d93b6ab7f69281a62df4be6c9b7ebb7f13b5"/>
+	</game>
+	<game name="Fire &amp; Ice (United Kingdom) (Disk 2)" id="0175">
+		<category>Games</category>
+		<description>Fire &amp; Ice (United Kingdom) (Disk 2)</description>
+		<game_id>F1015402</game_id>
+		<rom name="Fire &amp; Ice (United Kingdom) (Disk 2).jfd" size="620181" crc="70121bd9" md5="ee8a1b382a6b9d1f2a6e9d7cd07c4999" sha1="0838b3ea28fde1d2ec44971b4a64d8c65589b5ff" sha256="49d5789d5cc822a72058461b164e22cd9ab1d4d7716e70ab97cefdc852feef35"/>
+	</game>
+	<game name="Fireball II (United Kingdom)" id="0310">
+		<category>Games</category>
+		<description>Fireball II (United Kingdom)</description>
+		<game_id>F1015701</game_id>
+		<rom name="Fireball II (United Kingdom).jfd" size="374132" crc="77d11829" md5="38a1b48379fcedf549af756bab021b5b" sha1="d4b84e9e83c47c44cb92167845d43f6cbaee8461" sha256="37486f5e1cb0ba7ccde2a87ef5005b8a5569f77abd69c74f32a51ea8970e396e"/>
+	</game>
+	<game name="Fireball II Extra (Europe)" id="0051">
+		<description>Fireball II Extra (Europe)</description>
+		<rom name="Fireball II Extra (Europe).adf" size="819200" crc="c362f435" md5="4dbeabb9d49c5a9e1848f36aa0e848fd" sha1="b6ec13c90a337af31f0cd13525ae743f55e1680f"/>
+	</game>
+	<game name="Flashback (Europe) (Demo)" id="0052">
+		<description>Flashback (Europe) (Demo)</description>
+		<rom name="Flashback (Europe) (Demo).adf" size="819200" crc="072f93cd" md5="74287b7641d7f193a3732a75ca9592f9" sha1="7153b6b25222be07a47af360407bb0b7828ecc8c"/>
+	</game>
+	<game name="Flying High (United Kingdom) (Disk 1)" id="0287">
+		<description>Flying High (United Kingdom) (Disk 1)</description>
+		<game_id>F1016301</game_id>
+		<rom name="Flying High (United Kingdom) (Disk 1).jfd" size="1107730" crc="519ef228" md5="a284c042a3f4a8ec63eb6afbe4e87aa5" sha1="bc05319838a93356127a96a1279fe58ce35bd434" sha256="8c289f1931a9bfa021e405636c83dab603d645fc3c1c01209f4d160eebffe651"/>
+	</game>
+	<game name="Flying High (United Kingdom) (Disk 2)" id="0288">
+		<description>Flying High (United Kingdom) (Disk 2)</description>
+		<game_id>F1016302</game_id>
+		<rom name="Flying High (United Kingdom) (Disk 2).jfd" size="1292083" crc="7fe185ae" md5="72b0cf115bdbf63b96971a4b0dfe03cc" sha1="817ab2f5b8e799b4653364ef160e89debd168bef" sha256="55df1133efcf131380d637ddbac06cc59dab99aabe137497e181977be16d6927"/>
+	</game>
+	<game name="Formula Two Thousand (United Kingdom) (v1.01) (Disk 1)" id="0274" cloneofid="0275">
+		<category>Games</category>
+		<description>Formula Two Thousand (United Kingdom) (v1.01) (Disk 1)</description>
+		<game_id>F1016401</game_id>
+		<rom name="Formula Two Thousand (United Kingdom) (v1.01) (Disk 1).jfd" size="146580" crc="bac87a68" md5="056482e6833815639f167e031e8effbe" sha1="e1fa7417b7e4b7604e439d9a4c02c9a8b4cccdca" sha256="f3f88c8ee097c9f579d059361dda4e8a9544a9bb09489f70e29c03ead48a7f77"/>
+	</game>
+	<game name="Formula Two Thousand (United Kingdom) (v1.01) (Disk 2)" id="0275">
+		<category>Games</category>
+		<description>Formula Two Thousand (United Kingdom) (v1.01) (Disk 2)</description>
+		<game_id>F1016402</game_id>
+		<rom name="Formula Two Thousand (United Kingdom) (v1.01) (Disk 2).jfd" size="294927" crc="7c456d55" md5="3466410601be66056708557df1ff9ede" sha1="778cb8b533acf96831cbe092c7b7c28673f7e507" sha256="42733ba0e501b31eafcab45aca43d7296d298fd8463927a3ec2e2a30a03ded1a"/>
+	</game>
+	<game name="Freddy's Folly (United Kingdom)" id="0176">
+		<category>Games</category>
+		<description>Freddy's Folly (United Kingdom)</description>
+		<game_id>F1016701</game_id>
+		<rom name="Freddy's Folly (United Kingdom).jfd" size="86244" crc="20ab018a" md5="b85150ab74048b587e5fd975c2746e4e" sha1="c51a42f511a710c4d20c2398eaffb5bae8dc9c78" sha256="da2cd11f1af4efae323f79f2aaead26345c47df61e9d142817d2d576d381ba95"/>
+	</game>
+	<game name="Fruitz (Europe)" id="0053">
+		<description>Fruitz (Europe)</description>
+		<rom name="Fruitz (Europe).adf" size="819200" crc="91365bf9" md5="4c092a985bb399f23bc2e9e3853c747e" sha1="386af18d06bdd1c8cecfc34a94c241c3c1ee9907"/>
+	</game>
+	<game name="Giant Killer (United Kingdom)" id="0313">
+		<category>Games</category>
+		<description>Giant Killer (United Kingdom)</description>
+		<game_id>F1043101</game_id>
+		<rom name="Giant Killer (United Kingdom).jfd" size="26631" crc="be045fbe" md5="8152c75d278227e30003c62e00722a33" sha1="93fb012bb50d5d4558666714f337ee2b392f1ecd" sha256="16277ef26f510473a9c38231785783061d3eaea0e17e43eea123119e0892b291"/>
+	</game>
+	<game name="Gods (United Kingdom) (Disk 1)" id="0177" cloneofid="0178">
+		<category>Games</category>
+		<description>Gods (United Kingdom) (Disk 1)</description>
+		<game_id>F1017201</game_id>
+		<rom name="Gods (United Kingdom) (Disk 1).jfd" size="521376" crc="b994184f" md5="3dd88660b80eddda804419df7b10d8b6" sha1="b42403c8313d170e601d3569e573aaea447909e4" sha256="ca90aeb3a607f2b4ea002a94a4260697b6131336ef3e109fe9f30e7d5c3e0700"/>
+	</game>
+	<game name="Gods (United Kingdom) (Disk 2)" id="0178">
+		<category>Games</category>
+		<description>Gods (United Kingdom) (Disk 2)</description>
+		<game_id>F1017202</game_id>
+		<rom name="Gods (United Kingdom) (Disk 2).jfd" size="467883" crc="9ed6ad3f" md5="24a94f4f67fd5a9100f6004de2f43416" sha1="4c36f115a3d8f27c1c35ab5839d1b6985b7e8ad4" sha256="db541df37cf2cdb0208e6863beff4ed8e3633f51ea5e4acfa8585401ee9e0067"/>
+	</game>
+	<game name="Gods (United Kingdom) (RPC Version)" id="0179">
+		<category>Games</category>
+		<description>Gods (United Kingdom) (RPC Version)</description>
+		<game_id>F1054501</game_id>
+		<rom name="Gods (United Kingdom) (RPC Version).jfd" size="1396862" crc="70338feb" md5="e7b6f9edfe502db513d5fdd3bb596d2c" sha1="bab9355d57b0537d338480436f020ec77621bd71" sha256="401c1aa1a2fd615f8484b6756a254e30e9a3c23666ba8300dc8bee0552f05828"/>
+	</game>
+	<game name="Gorm (Europe) (v1.40)" id="0054">
+		<description>Gorm (Europe) (v1.40)</description>
+		<rom name="Gorm (Europe) (v1.40).adf" size="819200" crc="cac30d02" md5="e79d1888aca0bfd543d074fb0a1e9d75" sha1="6cfdbce5224ed8acff35b5c7a0cec9c7a2ae14ac"/>
+	</game>
+	<game name="Guile (United Kingdom) (1600K)" id="0254">
+		<description>Guile (United Kingdom) (1600K)</description>
+		<rom name="Guile (United Kingdom) (1600K).adf" size="1638400" crc="02b2ba66" md5="1488270c7e1cf2d5e0f37775285b9b73" sha1="62c091132b60974c942a0b11f37b59512cbc3812"/>
+	</game>
+	<game name="Guile (United Kingdom) (Demo) (800K)" id="0255">
+		<description>Guile (United Kingdom) (Demo) (800K)</description>
+		<rom name="Guile (United Kingdom) (Demo) (800K).adf" size="819200" crc="94baf4ba" md5="eac5da845359e527f87ba08ce228ce7f" sha1="07d171bb3e89ee52f2c88de114a28e239b08ba2a"/>
+	</game>
+	<game name="Gyrinus II - Son of Gyrinus (Europe) (Disk 1)" id="0056">
+		<description>Gyrinus II - Son of Gyrinus (Europe) (Disk 1)</description>
+		<rom name="Gyrinus II - Son of Gyrinus (Europe) (Disk 1).adf" size="819200" crc="a623bca4" md5="2d6c5d901e6f847908fb4a2b2f157c47" sha1="f3170fd9e5177b30689301acdfa6fd326c33c918"/>
+	</game>
+	<game name="Gyrinus II - Son of Gyrinus (Europe) (Disk 2)" id="0057">
+		<description>Gyrinus II - Son of Gyrinus (Europe) (Disk 2)</description>
+		<rom name="Gyrinus II - Son of Gyrinus (Europe) (Disk 2).adf" size="819200" crc="9e7091de" md5="e1120be6f839f458c25bdd5c074283e6" sha1="b17934cbdecbac5ec8144015c4073aa7dcb8af64"/>
+	</game>
+	<game name="Hacker, The (Europe) (v3.05)" id="0058">
+		<description>Hacker, The (Europe) (v3.05)</description>
+		<rom name="Hacker, The (Europe) (v3.05).adf" size="819200" crc="b208c218" md5="70d4268e6d159fbb73f84356cc01eff7" sha1="bed95cbefaa86a2b8d6d87cf3a6cf1f3d1e9808d"/>
+	</game>
+	<game name="Hacker, The (Europe) (v3.05) (Alt 2)" id="0059">
+		<description>Hacker, The (Europe) (v3.05) (Alt 2)</description>
+		<rom name="Hacker, The (Europe) (v3.05) (Alt 2).adf" size="819200" crc="12864add" md5="5852bad233989b40711ee996ce004a70" sha1="8dcc0c2d7074e62d34eb0727d5d4e484117be496"/>
+	</game>
+	<game name="Hacker, The (Europe) (v3.05) (Alt)" id="0060">
+		<description>Hacker, The (Europe) (v3.05) (Alt)</description>
+		<rom name="Hacker, The (Europe) (v3.05) (Alt).adf" size="819200" crc="c6a88514" md5="bfdd223cef963d1a86b0c91edd6b2ca0" sha1="b02d6495f6a9a1099cb06cac7d0e0d1756f175a0"/>
+	</game>
+	<game name="Hamsters (United Kingdom) (v1.10) (Demo)" id="0061">
+		<description>Hamsters (United Kingdom) (v1.10) (Demo)</description>
+		<rom name="Hamsters (United Kingdom) (v1.10) (Demo).adf" size="819200" crc="59aa5db5" md5="95e53de3dc3c66c58b1808acd7ab3765" sha1="35e62d089cfaf24b981f3212bc71c4ede0f56890"/>
+	</game>
+	<game name="Hamsters (United Kingdom) (v1.10)" id="0256">
+		<description>Hamsters (United Kingdom) (v1.10)</description>
+		<rom name="Hamsters (United Kingdom) (v1.10).adf" size="1638400" crc="5e2b405e" md5="2de90121f283c3f25b7887f90a8be6be" sha1="d9563ef272d14d397a522c8d0ad18a0bbfeb83ed"/>
+	</game>
+	<game name="Heimdall (United Kingdom) (Disk 1)" id="0180" cloneofid="0184">
+		<category>Games</category>
+		<description>Heimdall (United Kingdom) (Disk 1)</description>
+		<game_id>F1018801</game_id>
+		<rom name="Heimdall (United Kingdom) (Disk 1).jfd" size="727138" crc="4a2cf04f" md5="e70fd172092fe7a820e7bc1a88bfca0b" sha1="5757ca6129520bd0b8aa520f0d7ce1f9eeb20ceb" sha256="4a79921e8806fc8788c0a52f3edc5821a90a5b6ea0554d0f6cbc09697313dc99"/>
+	</game>
+	<game name="Heimdall (United Kingdom) (Disk 2)" id="0181" cloneofid="0184">
+		<category>Games</category>
+		<description>Heimdall (United Kingdom) (Disk 2)</description>
+		<game_id>F1018802</game_id>
+		<rom name="Heimdall (United Kingdom) (Disk 2).jfd" size="687742" crc="4c7cab24" md5="c2c6bed3ac56b06dee115945f43209d6" sha1="4a5dbdb4c0cf5025b77f3bacd7d6535b27d5b407" sha256="60f36e213cfa1ec5f6da9e7444c91769add155d2d1553c85fb8dcf68742ad226"/>
+	</game>
+	<game name="Heimdall (United Kingdom) (Disk 3)" id="0182" cloneofid="0184">
+		<category>Games</category>
+		<description>Heimdall (United Kingdom) (Disk 3)</description>
+		<game_id>F1018803</game_id>
+		<rom name="Heimdall (United Kingdom) (Disk 3).jfd" size="699459" crc="28b29d43" md5="7951db737c09c875e92a1e360e4ea11d" sha1="f81c86175a70fd0518b0e4496a27c275aede3f34" sha256="73b3e2a4b0c612828c9768c31fca4a2acad00bddac083534ba3d3cd40dae06fb"/>
+	</game>
+	<game name="Heimdall (United Kingdom) (Disk 4)" id="0183" cloneofid="0184">
+		<category>Games</category>
+		<description>Heimdall (United Kingdom) (Disk 4)</description>
+		<game_id>F1018804</game_id>
+		<rom name="Heimdall (United Kingdom) (Disk 4).jfd" size="722897" crc="52670a56" md5="e94011aaf18edda19158a86499a6bc9d" sha1="f8228733cd6972a1b79a48be66bbbb0bc8cf91f7" sha256="4d7607a8f3e56a3fdfb0ec848543b5e726f3e2c1ac067283aa1009295b59c106"/>
+	</game>
+	<game name="Heimdall (United Kingdom) (Disk 5)" id="0184">
+		<category>Games</category>
+		<description>Heimdall (United Kingdom) (Disk 5)</description>
+		<game_id>F1018805</game_id>
+		<rom name="Heimdall (United Kingdom) (Disk 5).jfd" size="676124" crc="7bc8e698" md5="fc6ed9d89bad4e609f74a95f207c3344" sha1="218520d8f19a974f0b223f5dc21929975c004284" sha256="e3ac9344bdc1045cff4b7538e378ffe731140142cee9906a55cb7aef9a288bda"/>
+	</game>
+	<game name="Hero Quest (United Kingdom)" id="0185">
+		<category>Games</category>
+		<description>Hero Quest (United Kingdom)</description>
+		<game_id>F1019201</game_id>
+		<rom name="Hero Quest (United Kingdom).jfd" size="601858" crc="8c4841b3" md5="de1b662fe6a765b6edbb2c03b0136e8f" sha1="ee101e6667e82b03283df2a3bbb7024096c6b83f" sha256="6bd3079f1a54b6e79f69344a1b9637da17eea4c10fdb6f34b853156e16045c7a"/>
+	</game>
+	<game name="Hoverbod (United Kingdom)" id="0186">
+		<category>Games</category>
+		<description>Hoverbod (United Kingdom)</description>
+		<game_id>F1020201</game_id>
+		<rom name="Hoverbod (United Kingdom).jfd" size="68288" crc="02743cf1" md5="594bc2c6147bbf9a279bec5e44a30abd" sha1="e42da1b2e1251810fd35ea58e121663814de981a" sha256="3ad08dbec0b17951265b69171ac7f3e8731a67a14aa76bba945b6ae5da1df056"/>
+	</game>
+	<game name="Humanoids and Robotix (United Kingdom)" id="0305">
+		<category>Games</category>
+		<description>Humanoids and Robotix (United Kingdom)</description>
+		<game_id>F1056501</game_id>
+		<rom name="Humanoids and Robotix (United Kingdom).jfd" size="164484" crc="53cce5ac" md5="15b80fd45c8f966b5195f732df87b69e" sha1="eb4aedf32361a570ba143f9da6455af82d436bb1" sha256="3c4406b5bccd8c527fead48a99cd4e53a4f1a8c9615a44deefeca7198c9bb777"/>
+	</game>
+	<game name="Ibix the Viking (United Kingdom)" id="0187">
+		<category>Games</category>
+		<description>Ibix the Viking (United Kingdom)</description>
+		<game_id>F1020401</game_id>
+		<rom name="Ibix the Viking (United Kingdom).jfd" size="261681" crc="cd6d3ce0" md5="62978359e972a30dbf4937ef6e953a2e" sha1="6b7d3e8298409f5502b1ae5f37d8ff24b8c0811e" sha256="8c5348a87083b82dc02291715a05eb8ae8397ae03fdac677ffa26c8061b764a7"/>
+	</game>
+	<game name="Impression Jr (Europe)" id="0063">
+		<description>Impression Jr (Europe)</description>
+		<rom name="Impression Jr (Europe).adf" size="814080" crc="1fe45813" md5="b0110121f960ac7590ce78f198ae8045" sha1="8eacd5856d3e8fcf643ecc575d668fda3fe530ca"/>
+	</game>
+	<game name="Interdictor 2 (Europe)" id="0064">
+		<description>Interdictor 2 (Europe)</description>
+		<rom name="Interdictor 2 (Europe).adf" size="819200" crc="43c6ca84" md5="6ef334b0071c66d55752bbd3389399d2" sha1="0be4c7d47da5634b68fda1408daa2c9cfd227e2b"/>
+	</game>
+	<game name="Iron Lord (Europe)" id="0065">
+		<description>Iron Lord (Europe)</description>
+		<rom name="Iron Lord (Europe).adf" size="819200" crc="9107f4df" md5="aa986817ea975a371a73fcbb9fff7c64" sha1="ca8e9a783ef8d55e8b2a2046f76010d6bbb1675b"/>
+	</game>
+	<game name="Iron Lord (Europe) (Alt)" id="0066">
+		<description>Iron Lord (Europe) (Alt)</description>
+		<rom name="Iron Lord (Europe) (Alt).adf" size="814080" crc="1f633149" md5="b0adbdba69ac00678883797c657f8ded" sha1="0ab4fe5316b43ddfd5b9eb48eef685cfab747d63"/>
+	</game>
+	<game name="Ixion (United Kingdom) (Disk 1)" id="0067">
+		<category>Games</category>
+		<description>Ixion (United Kingdom) (Disk 1)</description>
+		<game_id>F1020901</game_id>
+		<rom name="Ixion (United Kingdom) (Disk 1).jfd" size="271380" crc="a10f643a" md5="c1e418ddb264e398a163649a8445a663" sha1="1ec824040fc34aed14ff9c3501fbc186841baced" sha256="6adef540383ca9c73c377f0e63916ace209bba9ce36c1cac2f049684d0cf6da6"/>
+	</game>
+	<game name="Ixion (United Kingdom) (Disk 2)" id="0068" cloneofid="0067">
+		<category>Games</category>
+		<description>Ixion (United Kingdom) (Disk 2)</description>
+		<game_id>F1020902</game_id>
+		<rom name="Ixion (United Kingdom) (Disk 2).jfd" size="155298" crc="dd75e7a7" md5="1f8552a91778528517df380a250b6962" sha1="ed2f92fa6d95474df9b75c45374238ec02e21436" sha256="c69049bfb63c89c83f6ce28b245c627990fa858d2d861a1cd27a5c9764925dd8"/>
+	</game>
+	<game name="Jahangir Khan World Championship Squash (United Kingdom)" id="0188">
+		<category>Games</category>
+		<description>Jahangir Khan World Championship Squash (United Kingdom)</description>
+		<game_id>F1021001</game_id>
+		<rom name="Jahangir Khan World Championship Squash (United Kingdom).jfd" size="526114" crc="f205ee76" md5="0f7300ea6005ac57dd4aa3819cf70a69" sha1="20e7a4cb7edef7c2d215d1f537dfe75785b9aa4f" sha256="285e0b137eaa9d4ad6404fb4f896f395d1491ead5ee7b8c91c64524e8a0046f3"/>
+	</game>
+	<game name="James Pond (United Kingdom)" id="0189">
+		<category>Games</category>
+		<description>James Pond (United Kingdom)</description>
+		<game_id>F1021101</game_id>
+		<rom name="James Pond (United Kingdom).jfd" size="632089" crc="45ae63c3" md5="fcabebaa14938342d1371e7946b98c37" sha1="a7ccee85d708a2614ffb4e63c8f6916a208553fd" sha256="928b9f44890814848cf3f097f056fe5c48c3eb6d7d9d8f3cede23469a21a378e"/>
+	</game>
+	<game name="James Pond (United Kingdom) (SA Version)" id="0190">
+		<category>Games</category>
+		<description>James Pond (United Kingdom) (SA Version)</description>
+		<game_id>F1060301</game_id>
+		<rom name="James Pond (United Kingdom) (SA Version).jfd" size="838879" crc="c8fafcde" md5="f57ea284f8ec39acbb49117df8a62796" sha1="7bd929272792ab463e6bc9d0eaf6a87371bb3b76" sha256="6562c06b21f74bc8d1c3b48121c7d88e9e2c8f53c3e4006e0161f7d84d0518d7"/>
+	</game>
+	<game name="Jet Fighter (United Kingdom)" id="0191">
+		<category>Games</category>
+		<description>Jet Fighter (United Kingdom)</description>
+		<game_id>F1021301</game_id>
+		<rom name="Jet Fighter (United Kingdom).jfd" size="32220" crc="6d187b9e" md5="352199ea0f91bc3be59152d66a500d41" sha1="9e7d5b6e17cca187f34681b711a1e4dbe7ba2ec2" sha256="d314e4179bd3ecc7f3e4851f5af9ac55ff3f4768c0277dec26d6b52b256e0f31"/>
+	</game>
+	<game name="KerBang! (United Kingdom)" id="0282">
+		<description>KerBang! (United Kingdom)</description>
+		<game_id>F1022001</game_id>
+		<rom name="KerBang! (United Kingdom).jfd" size="251991" crc="04eccf76" md5="ad1d8506ba4a0e932c1a231cf736f852" sha1="de5f294201e9be3d47d2895650729337884de8a3" sha256="5baa6626cc70d158d6e6059757a56fe19f49abc3280dd3b31098073645656ac6"/>
+	</game>
+	<game name="Krisalis Collection, The (United Kingdom) (Disk 1 - Mad Professor Mariarti - BUZZ Version)" id="0293" cloneofid="0296">
+		<category>Games</category>
+		<description>Krisalis Collection, The (United Kingdom) (Disk 1 - Mad Professor Mariarti - BUZZ Version)</description>
+		<game_id>F1048401</game_id>
+		<rom name="Krisalis Collection, The (United Kingdom) (Disk 1 - Mad Professor Mariarti - BUZZ Version).jfd" size="403043" crc="0e37e124" md5="4927964f74fcb94a8a7d2771a9951758" sha1="58982cfa228aa5df4efc0a6b58592d70e98d9a2b" sha256="0ba4d7c47a197e4fa195a0d71b0f5d2fa56cc024c04b68ec7d1c99946608e7f8"/>
+	</game>
+	<game name="Krisalis Collection, The (United Kingdom) (Disk 2 - Pipe Mania)" id="0294" cloneofid="0296">
+		<category>Games</category>
+		<description>Krisalis Collection, The (United Kingdom) (Disk 2 - Pipe Mania)</description>
+		<game_id>F1048402</game_id>
+		<rom name="Krisalis Collection, The (United Kingdom) (Disk 2 - Pipe Mania).jfd" size="320174" crc="1bf33501" md5="e84731a44df073b6df748e74b59ab6d4" sha1="7479c965527621cd470291d4813d8b0ef133002f" sha256="3c8fb8237a4632a4714860dcd0d75ba0da616316975a64ad72177c86a854f214"/>
+	</game>
+	<game name="Krisalis Collection, The (United Kingdom) (Disk 3 - Revelation! - BUZZ Version)" id="0295" cloneofid="0296">
+		<category>Games</category>
+		<description>Krisalis Collection, The (United Kingdom) (Disk 3 - Revelation! - BUZZ Version)</description>
+		<game_id>F1048403</game_id>
+		<rom name="Krisalis Collection, The (United Kingdom) (Disk 3 - Revelation! - BUZZ Version).jfd" size="213832" crc="92f309aa" md5="eb7b3ad2bcc44adbfd3f64000e112c3b" sha1="d39632935e54acec840878de56bc4326f9148da5" sha256="9f0f3bd0c246b9d27a204c8146bac425150eb9f548260cd06b1976ffd06539e1"/>
+	</game>
+	<game name="Krisalis Collection, The (United Kingdom) (Disk 4 - Terramex)" id="0296">
+		<category>Games</category>
+		<description>Krisalis Collection, The (United Kingdom) (Disk 4 - Terramex)</description>
+		<game_id>F1048404</game_id>
+		<rom name="Krisalis Collection, The (United Kingdom) (Disk 4 - Terramex).jfd" size="203713" crc="8877b886" md5="d734da2e00a5e9eb946e7c555121edc8" sha1="973a4ca8041b56bc2ed8cf24bc73640765271720" sha256="e6df65b7e7d316da9868940e4eb8eaea0ae8affa653d4048d74ec5205a3159ac"/>
+	</game>
+	<game name="Last Days of Doom and Hezarin, The (United Kingdom)" id="0308">
+		<category>Games</category>
+		<description>Last Days of Doom and Hezarin, The (United Kingdom)</description>
+		<game_id>F1008401</game_id>
+		<rom name="Last Days of Doom and Hezarin, The (United Kingdom).jfd" size="358970" crc="f8aaacbb" md5="ae975bafffb378877de73a762b51b627" sha1="2faad1de66f728b26658fb80c0b55a3721de19e7" sha256="6b9aeba36a91592628d478c79d688916536077a9d1bfefaaa7b65f3f563104eb"/>
+	</game>
+	<game name="Last Ninja, The (United Kingdom) (Demo)" id="0257">
+		<description>Last Ninja, The (United Kingdom) (Demo)</description>
+		<rom name="Last Ninja, The (United Kingdom) (Demo).adf" size="819200" crc="d33458b5" md5="93c64036da49218cefac11d7cb6736ee" sha1="c8ddee99f42b1e54954a21095313b0c2924afe0c"/>
+	</game>
+	<game name="Leeds Utd - Champions! (Europe)" id="0072">
+		<description>Leeds Utd - Champions! (Europe)</description>
+		<rom name="Leeds Utd - Champions! (Europe).adf" size="819200" crc="d4631873" md5="cc21312e34a7f67091916238fcadc93a" sha1="4ba0835c415bde82742c61328acf711d821619e2"/>
+	</game>
+	<game name="Legend of the Lost Temple, The (United Kingdom) (Disk 1)" id="0192" cloneofid="0193">
+		<category>Games</category>
+		<description>Legend of the Lost Temple, The (United Kingdom) (Disk 1)</description>
+		<game_id>F1022501</game_id>
+		<rom name="Legend of the Lost Temple, The (United Kingdom) (Disk 1).jfd" size="231963" crc="bd949a26" md5="d8eb9bd71ac9a6290ae84ec97618f879" sha1="bf90273d2487499709ec49092942d0a2a09807b3" sha256="8c0e4896160636af18c14a81b85e3205905b4f9e5ff24d18558d8665d7024e3d"/>
+	</game>
+	<game name="Legend of the Lost Temple, The (United Kingdom) (Disk 2)" id="0193">
+		<category>Games</category>
+		<description>Legend of the Lost Temple, The (United Kingdom) (Disk 2)</description>
+		<game_id>F1022502</game_id>
+		<rom name="Legend of the Lost Temple, The (United Kingdom) (Disk 2).jfd" size="139597" crc="4afc64ea" md5="9c7b0697316dc3dc0f40bf777a802664" sha1="362e9ad37d7db7ee544b62573351b5a227e3706b" sha256="e5ea7befa3645033328dbe828f0b33d4432106b7eb9588b68a7769bb44ba6af6"/>
+	</game>
+	<game name="Lemmings (United Kingdom)" id="0194">
+		<category>Games</category>
+		<description>Lemmings (United Kingdom)</description>
+		<game_id>F1022701</game_id>
+		<rom name="Lemmings (United Kingdom).jfd" size="560615" crc="4c75f9a0" md5="eabdd21eadf2d0841e39af598700dd9d" sha1="0b0d5332bf4abb5bd2ca5c37e802f5aa942a3aa6" sha256="2565a103b632f03d68d8b808ce87aaa5701aa891f8c8c78f5eedfcaeb86b4c08"/>
+	</game>
+	<game name="Lemmings (United Kingdom) (RPC Version)" id="0195">
+		<category>Games</category>
+		<description>Lemmings (United Kingdom) (RPC Version)</description>
+		<game_id>F1044101</game_id>
+		<rom name="Lemmings (United Kingdom) (RPC Version).jfd" size="625465" crc="c4d35b0e" md5="98db2aae60314fb3522823488fbcfdb9" sha1="8fa065cd44c9d2b298088f53585f2b9a2faf04e5" sha256="a025074c2f6facdb93d360567ee3edfd44cee491944a53400508500e58f7db85"/>
+	</game>
+	<game name="Lemmings 2 - The Tribes (United Kingdom) (Disk 1)" id="0196" cloneofid="0199">
+		<category>Games</category>
+		<description>Lemmings 2 - The Tribes (United Kingdom) (Disk 1)</description>
+		<game_id>F1022801</game_id>
+		<rom name="Lemmings 2 - The Tribes (United Kingdom) (Disk 1).jfd" size="632890" crc="2e721105" md5="f60c1bcc114d073ee6f7393c023e6eb2" sha1="2b76b9e91ee2a1226198c3bd06d6d7bfa49bdb75" sha256="13d6eb7b84eb09aa5fcdf1eeea8a11d55fb266defb680eae3a97f79761228756"/>
+	</game>
+	<game name="Lemmings 2 - The Tribes (United Kingdom) (Disk 2)" id="0197" cloneofid="0199">
+		<category>Games</category>
+		<description>Lemmings 2 - The Tribes (United Kingdom) (Disk 2)</description>
+		<game_id>F1022802</game_id>
+		<rom name="Lemmings 2 - The Tribes (United Kingdom) (Disk 2).jfd" size="240980" crc="57df8cbe" md5="5973018f602993ddd276cbbd63419375" sha1="1314f13f9b23e7d20ac9dca0e0978b96aa519596" sha256="592ff78278bd331fd24979bd1063c8b33a545e7f9463ff6ca628e20f33ed446f"/>
+	</game>
+	<game name="Lemmings 2 - The Tribes (United Kingdom) (Disk 3)" id="0198" cloneofid="0199">
+		<category>Games</category>
+		<description>Lemmings 2 - The Tribes (United Kingdom) (Disk 3)</description>
+		<game_id>F1022803</game_id>
+		<rom name="Lemmings 2 - The Tribes (United Kingdom) (Disk 3).jfd" size="590705" crc="e6cb2986" md5="3142ef27a1dc85053b513f93a7ba17b8" sha1="b4e44fbf1110ea14d9c7ac90a485f78bcac36aea" sha256="670cee4639e2b93d19df4c082528a835094bfc4d0d5777e316467cea2213f1b8"/>
+	</game>
+	<game name="Lemmings 2 - The Tribes (United Kingdom) (Disk 4 - Introduction Disk)" id="0199">
+		<category>Games</category>
+		<description>Lemmings 2 - The Tribes (United Kingdom) (Disk 4 - Introduction Disk)</description>
+		<game_id>F1022804</game_id>
+		<rom name="Lemmings 2 - The Tribes (United Kingdom) (Disk 4 - Introduction Disk).jfd" size="542886" crc="19ee692e" md5="afa838a0ea8cb9074e4cabe300f8b8e4" sha1="3f974cc3804eed9338e7d6dc25be0ff00aedae2a" sha256="1c19cc8a57fb039d4fab955445e437797c02c778c3d5749e9215fa5196a3ee73"/>
+	</game>
+	<game name="Lemmings 2 - The Tribes (United Kingdom) (SA Version)" id="0315">
+		<category>Games</category>
+		<description>Lemmings 2 - The Tribes (United Kingdom) (SA Version)</description>
+		<game_id>F1059801</game_id>
+		<rom name="Lemmings 2 - The Tribes (United Kingdom) (SA Version).jfd" size="1533739" crc="10810d68" md5="03b127b70ef046512f0ff7c904fed147" sha1="52a821c531322b17f1a167c2bf0dc982667810ac" sha256="130177749fe9aff3c167cb031e6047a729b5384256c19dcebfed5c92abd14280"/>
+	</game>
+	<game name="Lotus Turbo Challenge 2 (United Kingdom) (Disk 1)" id="0200" cloneofid="0201">
+		<category>Games</category>
+		<description>Lotus Turbo Challenge 2 (United Kingdom) (Disk 1)</description>
+		<game_id>F1023201</game_id>
+		<rom name="Lotus Turbo Challenge 2 (United Kingdom) (Disk 1).jfd" size="599729" crc="f6f1729a" md5="857b589f15b1da7c09b77599e847011f" sha1="4dfeb0c185f6342e1c3725c92b55b97f9a46718c" sha256="95b676b004f39cf0c896fe5ae1be80babbda8251d7cfb451946532e62b75915f"/>
+	</game>
+	<game name="Lotus Turbo Challenge 2 (United Kingdom) (Disk 2)" id="0201">
+		<category>Games</category>
+		<description>Lotus Turbo Challenge 2 (United Kingdom) (Disk 2)</description>
+		<game_id>F1023202</game_id>
+		<rom name="Lotus Turbo Challenge 2 (United Kingdom) (Disk 2).jfd" size="601555" crc="3e78eaf4" md5="6153a003f84679469b62fb40671f6363" sha1="ad07b4a9ab494153e3246476372b02b1d3701a17" sha256="76c0f90c0853b364877e82ae7205f6ca282c6922e4a1a7dfc597e3acca9a18ce"/>
+	</game>
+	<game name="Mad Professor Mariarti (United Kingdom)" id="0202">
+		<category>Games</category>
+		<description>Mad Professor Mariarti (United Kingdom)</description>
+		<game_id>F1023501</game_id>
+		<rom name="Mad Professor Mariarti (United Kingdom).jfd" size="400834" crc="62acc647" md5="10c5d48e01d7587fe113cfc1e321d9d0" sha1="9831743e6bb1e1929c01ede7ef54f1a18405a98e" sha256="6b4ad23432695e0e3e969104e4669595847bdee26dda358fbe623090e9bff477"/>
+	</game>
+	<game name="MadDash 2 (Europe)" id="0078">
+		<description>MadDash 2 (Europe)</description>
+		<rom name="MadDash 2 (Europe).adf" size="819200" crc="82bb1c28" md5="5b12c8fec5304dffcb43a6f8f07c43c2" sha1="30d431892102a4e5915b095301c2dcd47f7daec2"/>
+	</game>
+	<game name="Maddingly Hall (United Kingdom)" id="0203">
+		<category>Games</category>
+		<description>Maddingly Hall (United Kingdom)</description>
+		<game_id>F1023501</game_id>
+		<rom name="Maddingly Hall (United Kingdom).jfd" size="108227" crc="ed68fd2e" md5="166122b00b4618ab01e1c619f5161e45" sha1="2ca800926c264b11d4716fb634601f6e7fa8b922" sha256="eace724adc8a7aad029043475753d40939fdd9e16479dbb439576e2c99a8cbbe"/>
+	</game>
+	<game name="Magic Pockets (United Kingdom)" id="0204">
+		<category>Games</category>
+		<description>Magic Pockets (United Kingdom)</description>
+		<game_id>F1023601</game_id>
+		<rom name="Magic Pockets (United Kingdom).jfd" size="724518" crc="32361190" md5="6f1cfdda750f8398b65a2f47f220b650" sha1="a1376f7d2b063757ffa1b58db3f4ac5282cf402d" sha256="f57ae355d75ff6fb8d6b1aae97f2305c96656056bc2e58d62eb573717e5b9825"/>
+	</game>
+	<game name="Magnetoids (United Kingdom) (Demo)" id="0258">
+		<description>Magnetoids (United Kingdom) (Demo)</description>
+		<rom name="Magnetoids (United Kingdom) (Demo).adf" size="819200" crc="942f2552" md5="ba4b31c99570719e735377ba97449599" sha1="502d7f78bf828462a181c62d878dfb812976d2ad"/>
+	</game>
+	<game name="Mahjong Patience (United Kingdom)" id="0304">
+		<category>Games</category>
+		<description>Mahjong Patience (United Kingdom)</description>
+		<game_id>F1023901</game_id>
+		<rom name="Mahjong Patience (United Kingdom).jfd" size="199975" crc="c9ea687a" md5="ca235b4cdde348e9d5e8fc7594e55251" sha1="97c92fe81ec7ea1c506ee2c765736bd119ab863f" sha256="da0f44d21c91e3e6de83da0503069aca92a32fe717e4e4a423f9afd36495787c"/>
+	</game>
+	<game name="Manchester United (United Kingdom) (v2.01) (Disk 1)" id="0205" cloneofid="0206">
+		<category>Games</category>
+		<description>Manchester United (United Kingdom) (v2.01) (Disk 1)</description>
+		<game_id>F1024201</game_id>
+		<rom name="Manchester United (United Kingdom) (v2.01) (Disk 1).jfd" size="386651" crc="be1484d0" md5="7f1d8c61ada163fb648ea6178f66d8d2" sha1="ff9e8a87768787e43a8629f67652b5cbc36077a4" sha256="1fc399b68089b87683e6b7ad0a36873dc1beb491b5c66c241d42bfe0a220f8e7"/>
+	</game>
+	<game name="Manchester United (United Kingdom) (v2.01) (Disk 2)" id="0206">
+		<category>Games</category>
+		<description>Manchester United (United Kingdom) (v2.01) (Disk 2)</description>
+		<game_id>F1024202</game_id>
+		<rom name="Manchester United (United Kingdom) (v2.01) (Disk 2).jfd" size="343279" crc="1e8f99df" md5="79e6e389fe7594c40d10fd50b85e07db" sha1="4cb9018e0b7691f7f9d4cd9db7115ead5dfbefdc" sha256="64fecc75df4f9af9e0dc737b6bfeae0564d5675b8101aa6506f2f79683becd45"/>
+	</game>
+	<game name="Manchester United Europe (United Kingdom) (v2.1)" id="0207">
+		<category>Games</category>
+		<description>Manchester United Europe (United Kingdom) (v2.1)</description>
+		<game_id>F1049101</game_id>
+		<rom name="Manchester United Europe (United Kingdom) (v2.1).jfd" size="566433" crc="9964e6dc" md5="87fab14578b6ef2a7e682966739f4aa0" sha1="22126c9d912d4beb242473c704a588ac7e1cc26d" sha256="48bd565a016afc829e1232d81945f63ae846a7b95fde9f403d24ecbfdb53b7d2"/>
+	</game>
+	<game name="Master Break (Europe)" id="0080">
+		<description>Master Break (Europe)</description>
+		<rom name="Master Break (Europe).adf" size="798720" crc="c956b33b" md5="540655aba816a63d30f0a64ec2c547cd" sha1="219557031bb57a21891f637eb073120befa493fa"/>
+	</game>
+	<game name="Memory Magic (United Kingdom)" id="0301">
+		<category>Games</category>
+		<description>Memory Magic (United Kingdom)</description>
+		<game_id>F1056401</game_id>
+		<rom name="Memory Magic (United Kingdom).jfd" size="48702" crc="0ee5e0bf" md5="60db6a93d9de8e5f5ada4ac8a0bc10f6" sha1="78e1d23ec7f5ae760e10eef0a56b8d2f5e383043" sha256="17aa302b5bb07975a6031b79f49d42aab09269b8e0085ff3e74b0206e86e9c5e"/>
+	</game>
+	<game name="MicroDrive (United Kingdom)" id="0297">
+		<category>Games</category>
+		<description>MicroDrive (United Kingdom)</description>
+		<game_id>F1024701</game_id>
+		<rom name="MicroDrive (United Kingdom).jfd" size="234896" crc="e292bc1a" md5="edd83a97554a63db350bcdafcd31ebf3" sha1="dc11f6d8ff7f9c2d8217f72e3b640a77c2bcec84" sha256="becb254eee7c2840d2406ad59e1395e0decf07f066386a1bdec8932d1b67a77a"/>
+	</game>
+	<game name="MicroDrive (United Kingdom) (World Edition) (Disk 1)" id="0299" cloneofid="0300">
+		<category>Games</category>
+		<description>MicroDrive (United Kingdom) (World Edition) (Disk 1)</description>
+		<game_id>F1024801</game_id>
+		<rom name="MicroDrive (United Kingdom) (World Edition) (Disk 1).jfd" size="237568" crc="e78e0f76" md5="94d04c7d77221dec7328ffac4054e60d" sha1="368d9c69f37e53810258a154ea06bda0df1f9daf" sha256="4fcc13b7ee9eb2ee703dbea41fd8e91c44e626326daf161ed67774cd97c4dd73"/>
+	</game>
+	<game name="MicroDrive (United Kingdom) (World Edition) (Disk 2 - Courses)" id="0300">
+		<category>Games</category>
+		<description>MicroDrive (United Kingdom) (World Edition) (Disk 2 - Courses)</description>
+		<game_id>F1024802</game_id>
+		<rom name="MicroDrive (United Kingdom) (World Edition) (Disk 2 - Courses).jfd" size="179721" crc="a51bf0a4" md5="c3c6f0b77d7a694a8bf3ef1a6fc5a299" sha1="9945604eaa8631f5f97b7afb2ff39057433e0a4b" sha256="35ca9eef81ba0a15a912d5aef0b0246bc2d63c7a9b2e1d0f5c556ffe9e0fcbf9"/>
+	</game>
+	<game name="MicroDrive Designer (United Kingdom)" id="0298">
+		<category>Games</category>
+		<description>MicroDrive Designer (United Kingdom)</description>
+		<game_id>F1045801</game_id>
+		<rom name="MicroDrive Designer (United Kingdom).jfd" size="236787" crc="120c668d" md5="51d3d0adfb796741a42ed934fc3c3a8a" sha1="d7f85cd8a188b27c3ae0b2fae146503a61adffc9" sha256="e5dda2dc44c8e7987e5f411d80d3a407ac50189afd009e2098c67cc707b7132b"/>
+	</game>
+	<game name="MicroPower Chess (Europe)" id="0081">
+		<description>MicroPower Chess (Europe)</description>
+		<rom name="MicroPower Chess (Europe).adf" size="819200" crc="ca3f7e51" md5="6ecfe5bdfc0f5c1d92d9f0463ca6ca81" sha1="82ede831b3774834b18baaf7f34cc3766946352e"/>
+	</game>
+	<game name="Mig 29 Fulcrum (Europe)" id="0082">
+		<description>Mig 29 Fulcrum (Europe)</description>
+		<rom name="Mig 29 Fulcrum (Europe).adf" size="819200" crc="951a1eb9" md5="b8ebc93f6cf149204d7257eae2c35b18" sha1="edc7727d5e1828b2877d9191fddabf54696da035"/>
+	</game>
+	<game name="Minotaur (United Kingdom)" id="0208">
+		<category>Games</category>
+		<description>Minotaur (United Kingdom)</description>
+		<game_id>F1025101</game_id>
+		<rom name="Minotaur (United Kingdom).jfd" size="36203" crc="48bc1e6a" md5="ca640291ae4af2dae208f983d936c8dc" sha1="60a83b38ec52abf7b57c1d438be49a4c4e89fcc5" sha256="4482ab98fe64328242e41ecc356cbc86674910798c5c9188871a938e7ea58b2f"/>
+	</game>
+	<game name="Mirror Image and Merp (United Kingdom) (Disk 1 - Mirror Image)" id="0272" cloneofid="0273">
+		<category>Games</category>
+		<description>Mirror Image and Merp (United Kingdom) (Disk 1 - Mirror Image)</description>
+		<game_id>F1025201</game_id>
+		<rom name="Mirror Image and Merp (United Kingdom) (Disk 1 - Mirror Image).jfd" size="599042" crc="65d3cb87" md5="43c6780ccdcbe894ead0d82209373378" sha1="1004668e56eaaa833d523c45dc1762fd661d9d2d" sha256="efe7793aae2c6bbcabaa024bcac51def97a18ec5349a72daca2d68f16802ce83"/>
+	</game>
+	<game name="Mirror Image and Merp (United Kingdom) (Disk 2 - Merp)" id="0273">
+		<category>Games</category>
+		<description>Mirror Image and Merp (United Kingdom) (Disk 2 - Merp)</description>
+		<game_id>F1025202</game_id>
+		<rom name="Mirror Image and Merp (United Kingdom) (Disk 2 - Merp).jfd" size="529102" crc="0f1fd54a" md5="7cae4f75cc2b80891f131ded10f78cee" sha1="fe1f782455c72a3fb1ecf12253cd4713ded14646" sha256="a94622a1db6dd6a68de5a851ff251b76683c1b7f7678cd64437dfbc6be9e5c56"/>
+	</game>
+	<game name="Missile Control (United Kingdom)" id="0209">
+		<category>Games</category>
+		<description>Missile Control (United Kingdom)</description>
+		<game_id>F1025301</game_id>
+		<rom name="Missile Control (United Kingdom).jfd" size="72151" crc="8acc6759" md5="bd33722d6a04e8ec9c3005f18170c8c2" sha1="3a6094a6c90a302076eae1cc2b159aac650437a7" sha256="a5cc61c467bb8874c584faaf37f0ef41171863fc223731d836523b9801984b90"/>
+	</game>
+	<game name="Moon Quake (Europe)" id="0083">
+		<description>Moon Quake (Europe)</description>
+		<rom name="Moon Quake (Europe).adf" size="819200" crc="8a9009bb" md5="4f33a688c1b23ddd60bcff71d62be542" sha1="2a96d10af75b315a362145cf9c8d4f6404aa8f07"/>
+	</game>
+	<game name="Mr. Doo (Europe)" id="0084">
+		<description>Mr. Doo (Europe)</description>
+		<rom name="Mr. Doo (Europe).adf" size="819200" crc="27090aa4" md5="b40a615c5014d950145062d201fdb76a" sha1="1ecad58219bdf04185ba70a3daf52a1a18b66e70"/>
+	</game>
+	<game name="Mr. Doo (Europe) (Alt)" id="0085">
+		<description>Mr. Doo (Europe) (Alt)</description>
+		<rom name="Mr. Doo (Europe) (Alt).adf" size="819200" crc="6d1e75ba" md5="42ba3cf27a63c056433c50d3be8085fd" sha1="e853255fd56420c7092311d300872aee288acb7d"/>
+	</game>
+	<game name="Nebulus (United Kingdom)" id="0210">
+		<category>Games</category>
+		<description>Nebulus (United Kingdom)</description>
+		<game_id>F1026001</game_id>
+		<rom name="Nebulus (United Kingdom).jfd" size="253974" crc="ff39409e" md5="af1892580896f9a435ca72ceef3cd936" sha1="7d43c3adc0dfb7d7005c5628cdc3c7214090d702" sha256="12041c9ba1ed281dce28d6c610435af46689537b44e7224b22a54acf0ae68c14"/>
+	</game>
+	<game name="Newlook (Europe)" id="0087">
+		<description>Newlook (Europe)</description>
+		<rom name="Newlook (Europe).adf" size="819200" crc="9d13affa" md5="f3ec9415ae68597991936376cd84d7e7" sha1="ca2edab7a9708ebf8cba80abc97b245de1fa20f4"/>
+	</game>
+	<game name="Oddball (Europe)" id="0088">
+		<description>Oddball (Europe)</description>
+		<rom name="Oddball (Europe).adf" size="814080" crc="80a8cd98" md5="3654fdddd58b767c2b4122f5efddf96f" sha1="961063d2a9206edd2142cb62ff664e322c24f3c7"/>
+	</game>
+	<game name="Oh, No! More Lemmings (United Kingdom)" id="0211">
+		<category>Games</category>
+		<description>Oh, No! More Lemmings (United Kingdom)</description>
+		<game_id>F1026701</game_id>
+		<rom name="Oh, No! More Lemmings (United Kingdom).jfd" size="442682" crc="e6e6478a" md5="3b32449f790e30c07271056277e42375" sha1="2eaaaa5a0ac3015ba7d7ae1ba4bf53b3f5d55042" sha256="2c1ebbcacf1411acdbc5f3f4c30c55a07dad547a7175307bd14471308d053f0f"/>
+	</game>
+	<game name="Oh, No! More Lemmings (United Kingdom) (RPC Version)" id="0212">
+		<category>Games</category>
+		<description>Oh, No! More Lemmings (United Kingdom) (RPC Version)</description>
+		<game_id>F1059601</game_id>
+		<rom name="Oh, No! More Lemmings (United Kingdom) (RPC Version).jfd" size="563194" crc="ea344192" md5="8440f16a365115bc306bfef3907e3545" sha1="58b61c7171cf944ed1e7a949bb6d1998982bef38" sha256="34d25dd4c8b191d506ec25eea9d43aed5924cf6569eda4639ce0d1ebc659b334"/>
+	</game>
+	<game name="Omar Sharif's Bridge (United Kingdom)" id="0317">
+		<category>Games</category>
+		<description>Omar Sharif's Bridge (United Kingdom)</description>
+		<game_id>F1026901</game_id>
+		<rom name="Omar Sharif's Bridge (United Kingdom).jfd" size="417570" crc="b8fa0798" md5="b02492e344d45084dc4346dd3dbe8a36" sha1="da03618317b44837794197ec5c88145dbbbd3052" sha256="6ce1e79361d2499c12a83ad1e9b244c04db72b9f2940b9a6923c8314fb2f10e9"/>
+	</game>
+	<game name="Orion (United Kingdom)" id="0213">
+		<category>Games</category>
+		<description>Orion (United Kingdom)</description>
+		<game_id>F1027001</game_id>
+		<rom name="Orion (United Kingdom).jfd" size="260405" crc="45f63509" md5="c817cb3ff609e445979109637f07cb4a" sha1="83740bcf6bb49f967d11d81c93c7c514d231050b" sha256="776587a900c5663fe542f786ca9eecfc5dca3871d50ccb2a5f1c4568ac21a2ba"/>
+	</game>
+	<game name="Pac-Mania (United Kingdom)" id="0214">
+		<category>Games</category>
+		<description>Pac-Mania (United Kingdom)</description>
+		<game_id>F1050701</game_id>
+		<rom name="Pac-Mania (United Kingdom).jfd" size="246131" crc="d46d6602" md5="c562de27925dfe225f257af9c2742d76" sha1="9b0192a1efe1637f2972ab25b2264954f9cc073f" sha256="d893f0dd4196e6e6009804127363cd747ad1f9dbe98217bcae16495c5f1aee90"/>
+	</game>
+	<game name="Paradroid 2000 (Europe)" id="0092">
+		<description>Paradroid 2000 (Europe)</description>
+		<rom name="Paradroid 2000 (Europe).adf" size="819200" crc="713366e4" md5="426be881d13993b40f7876346f71dac0" sha1="0f7e51aa38f9568bffd231f324793ffe9475f310"/>
+	</game>
+	<game name="PD Lemings (Europe)" id="0093">
+		<description>PD Lemings (Europe)</description>
+		<rom name="PD Lemings (Europe).adf" size="819200" crc="48cf93ab" md5="b2fd587c30e50d38f7b79f22607b2409" sha1="41db87bc9d9b0cc7709557a9266ef998440fb45c"/>
+	</game>
+	<game name="Pen Down (Europe) (v1.72)" id="0094">
+		<description>Pen Down (Europe) (v1.72)</description>
+		<rom name="Pen Down (Europe) (v1.72).adf" size="819200" crc="7fb203fe" md5="660641cdb796f7fde5ec20f391c91ec0" sha1="51ac647d3934482f8a6aaf72819eba96b2d72bc4"/>
+	</game>
+	<game name="Pipe Mania (United Kingdom)" id="0215">
+		<category>Games</category>
+		<description>Pipe Mania (United Kingdom)</description>
+		<game_id>F1028101</game_id>
+		<rom name="Pipe Mania (United Kingdom).jfd" size="321582" crc="8ae71a11" md5="9c95627c9f022a88c8a3e3a59a3bc23e" sha1="1f6ac34a030aeb956d9517cbad3e34602d145596" sha256="3732597ef619af2226df9211926b5482618b672d9602ba938c0f6bd494c201f3"/>
+	</game>
+	<game name="Plague Planet (United Kingdom) (v2.1)" id="0320">
+		<category>Games</category>
+		<description>Plague Planet (United Kingdom) (v2.1)</description>
+		<game_id>F1041001</game_id>
+		<rom name="Plague Planet (United Kingdom) (v2.1).jfd" size="92442" crc="8f4e2c99" md5="db3987ce6717d507d6b777479f979cb6" sha1="8111458e823b41fbc5545fff8d547df028d3a679" sha256="5d8fc56662d9f7619cfea4fb9488da5b741dde75634f3026476b8e9b72bd5972"/>
+	</game>
+	<game name="Poizone (United Kingdom)" id="0216">
+		<category>Games</category>
+		<description>Poizone (United Kingdom)</description>
+		<game_id>F1028201</game_id>
+		<rom name="Poizone (United Kingdom).jfd" size="402150" crc="d20e0add" md5="2aab2637ab8eef1294def90438c8af5c" sha1="f9aaf428324fa7852742cc8d9bcbf266bfa46fe2" sha256="8ca94d7caaa2c27ad2087d03fbea507c3280734c4e0c036189a5c7df2edd723c"/>
+	</game>
+	<game name="Populous (United Kingdom)" id="0217">
+		<category>Games</category>
+		<description>Populous (United Kingdom)</description>
+		<game_id>F1028501</game_id>
+		<rom name="Populous (United Kingdom).jfd" size="428753" crc="e8d4d3ce" md5="1af047208527d01455e63dbe67645422" sha1="5a541ea99fd3e143285922799fd33628d8a4830c" sha256="cdd3f1af0c9a4448afd1123af53c53e45273469085d40583052810e6d44f4b68"/>
+	</game>
+	<game name="Populous (United Kingdom) (RPC Version)" id="0218">
+		<category>Games</category>
+		<description>Populous (United Kingdom) (RPC Version)</description>
+		<game_id>F1059701</game_id>
+		<rom name="Populous (United Kingdom) (RPC Version).jfd" size="495365" crc="24fb8efc" md5="71ab33bae32d74c5d6a942daffc4e9c6" sha1="1113b08a53e8cf4c97e5e6582c95a1e4b40ae78d" sha256="710ead9f0a913dfe90323234eac5467667e3acd9e831b6df3714792719ea9303"/>
+	</game>
+	<game name="Premier Manager (United Kingdom) (v1.06)" id="0292">
+		<category>Games</category>
+		<description>Premier Manager (United Kingdom) (v1.06)</description>
+		<game_id>F1028701</game_id>
+		<rom name="Premier Manager (United Kingdom) (v1.06).jfd" size="485468" crc="94eb87a2" md5="b0819e821b426c5fe7ac77779ee32ce7" sha1="431f9781a9ea013dc04465f0cfafd5afd27d93dc" sha256="3660db4aa850bb100af6bd6ea815a56de180c18f346cbd29fcb952dfec506b8b"/>
+	</game>
+	<game name="Premier Manager (United Kingdom) (v1.08) (SA Version)" id="0316">
+		<category>Games</category>
+		<description>Premier Manager (United Kingdom) (v1.08) (SA Version)</description>
+		<game_id>F1058701</game_id>
+		<rom name="Premier Manager (United Kingdom) (v1.08) (SA Version).jfd" size="539509" crc="9ca21d4f" md5="5ca8cc4807a37c6ca05236f9b4ed0414" sha1="2b70617df5bee6509dcb9bd355666377a17d93bd" sha256="5c80e38a48c0c6a21746ac6899be5f9bc87d5b94ca4a01a3ca94108ea2b7e7c2"/>
+	</game>
+	<game name="Punters Predictor, The (Europe)" id="0099">
+		<description>Punters Predictor, The (Europe)</description>
+		<rom name="Punters Predictor, The (Europe).adf" size="819200" crc="3193aa50" md5="96f4f70145232e992f9de4ceb30213a1" sha1="03bf4c37413af1381cfc1e9c4ec9b421200cf24f"/>
+	</game>
+	<game name="Quark (United Kingdom) (Demo)" id="0259">
+		<description>Quark (United Kingdom) (Demo)</description>
+		<rom name="Quark (United Kingdom) (Demo).adf" size="819200" crc="5716b019" md5="089c7c6af624b60f57734d37b4952706" sha1="8d9d51cd5283858b968358fc7d9eb6b6f87904ec"/>
+	</game>
+	<game name="Quest for Gold (United Kingdom) (Disk 1)" id="0219" cloneofid="0220">
+		<category>Games</category>
+		<description>Quest for Gold (United Kingdom) (Disk 1)</description>
+		<game_id>F1029801</game_id>
+		<rom name="Quest for Gold (United Kingdom) (Disk 1).jfd" size="346008" crc="cafd550a" md5="20e356088f45e8ce8710ef4ca13121ce" sha1="3c519c4ebbae60543e45881df36782aacb37c931" sha256="8d523161d31a02c1181d4611dc4e51069620fc93f3cbc71452d2fb84dbe64a8a"/>
+	</game>
+	<game name="Quest for Gold (United Kingdom) (Disk 2)" id="0220">
+		<category>Games</category>
+		<description>Quest for Gold (United Kingdom) (Disk 2)</description>
+		<game_id>F1029802</game_id>
+		<rom name="Quest for Gold (United Kingdom) (Disk 2).jfd" size="331343" crc="031b44c0" md5="d6e2abcdc4a62721819e8cbf39892aea" sha1="bfcd11a5e1bd2e6ad4619a8ddb1ad1c96492a19e" sha256="0e4dd0d027fc48d0c86ec81eceede9fa85eab59b71e52ab3c539d5e14814ebfe"/>
+	</game>
+	<game name="Raw Power (United Kingdom) (Disk 1)" id="0331">
+		<category>Games</category>
+		<description>Raw Power (United Kingdom) (Disk 1)</description>
+		<game_id>F1030201</game_id>
+		<rom name="Raw Power (United Kingdom) (Disk 1).jfd" size="333662" crc="3c94f0eb" md5="de6625db475814c510d71da63594a152" sha1="0632942827b97955bb5c050c403e4e2116b9fb03" sha256="be7bc9ca3469cf0d4de7b10a3dcd19cf17ed67d566bdb1cc5a83d661efe97d36"/>
+	</game>
+	<game name="Raw Power (United Kingdom) (Disk 2)" id="0332">
+		<category>Games</category>
+		<description>Raw Power (United Kingdom) (Disk 2)</description>
+		<game_id>F1030202</game_id>
+		<rom name="Raw Power (United Kingdom) (Disk 2).jfd" size="481977" crc="9558a998" md5="e8ffd0d4e322af81c18a705d889438e0" sha1="c1ea7c400510b12ce57519bb22f5fe9787019333" sha256="937a0233147df64adc3454720e7f0484cc7f095f0836589007a52c25ef82aeca"/>
+	</game>
+	<game name="Redshift (United Kingdom)" id="0221">
+		<category>Games</category>
+		<description>Redshift (United Kingdom)</description>
+		<game_id>F1030301</game_id>
+		<rom name="Redshift (United Kingdom).jfd" size="470378" crc="5dc50866" md5="1acee83e6dc73aab5a604c6fd8fae3a2" sha1="1bb1b7a0651e3f5565823e60a6666cd42bd9b1fa" sha256="c7f292a6f2470777ba8e35235c380cc4e46964196e88f02511cafd8359c8ae1a"/>
+	</game>
+	<game name="Repton 3 (Europe)" id="0100">
+		<description>Repton 3 (Europe)</description>
+		<rom name="Repton 3 (Europe).adf" size="819200" crc="619c1446" md5="5c31d01fe6b346fb9240b45c2812d1e9" sha1="cc6acf8b65204c314b7e2c8dc764482c7fbd9218"/>
+	</game>
+	<game name="Revelation! (United Kingdom) (BUZZ Version)" id="0222">
+		<category>Games</category>
+		<description>Revelation! (United Kingdom) (BUZZ Version)</description>
+		<game_id>F1059501</game_id>
+		<rom name="Revelation! (United Kingdom) (BUZZ Version).jfd" size="213809" crc="2732eef3" md5="ea4744bd78b35de3bde2be0bd62b98a2" sha1="c5baa08ebe03d871c18556fd081442c0c4a66403" sha256="45a6ac8aefa962b97fcbbf185f1f5c95a7b511d859182a4a312309a8e23ed5a9"/>
+	</game>
+	<game name="Rockfall (France)" id="0223">
+		<category>Games</category>
+		<description>Rockfall (France)</description>
+		<game_id>F1031501</game_id>
+		<rom name="Rockfall (France).jfd" size="437578" crc="764566a0" md5="61e48d72d7c090fc8bfff7729d308700" sha1="ab1f903b209458bc2d8a74965d87a7bf599c043b" sha256="7139a7e7a5ab382975747f67e7c1b570aaa7075c7ec708fb279e31f3d173858f"/>
+	</game>
+	<game name="S.W.I.V. (United Kingdom) (BUZZ Version)" id="0226">
+		<category>Games</category>
+		<description>S.W.I.V. (United Kingdom) (BUZZ Version)</description>
+		<game_id>F1056601</game_id>
+		<rom name="S.W.I.V. (United Kingdom) (BUZZ Version).jfd" size="672491" crc="df8ced1e" md5="a308423fc4aa51380f8194ed0e904c8f" sha1="ee4a59a1831f0b33499d7f887ffdf28a52c9368e" sha256="13ca5254446259641fcfd6b2f7df155078978c25ba20f7794b472d1d713652a0"/>
+	</game>
+	<game name="S.W.I.V. (United Kingdom)" id="0281">
+		<description>S.W.I.V. (United Kingdom)</description>
+		<game_id>F1035901</game_id>
+		<rom name="S.W.I.V. (United Kingdom).jfd" size="675095" crc="d8b2702f" md5="e5f41b51ff604dd5b977dde3bf45b71c" sha1="ac0d99254b117c24d78c45af59142e38401ded82" sha256="ce483c2f2365ab78a263b7f3026d975da803e8421e15fb0533b5e04127866399"/>
+	</game>
+	<game name="Sensible Soccer (United Kingdom) (v1.1) (Disk 1)" id="0289" cloneofid="0290">
+		<category>Games</category>
+		<description>Sensible Soccer (United Kingdom) (v1.1) (Disk 1)</description>
+		<game_id>F1032601</game_id>
+		<rom name="Sensible Soccer (United Kingdom) (v1.1) (Disk 1).jfd" size="223999" crc="f26ba90b" md5="890b49c5b6fb096757d03f1adadd3261" sha1="53bac5fd2b940a399fbf163363a2920c3cd225e2" sha256="7123af65e4e65defe7fb7441064910c6dccf8da902768a5ec5faf92cc63933e1"/>
+	</game>
+	<game name="Sensible Soccer (United Kingdom) (v1.1) (Disk 2)" id="0290">
+		<category>Games</category>
+		<description>Sensible Soccer (United Kingdom) (v1.1) (Disk 2)</description>
+		<game_id>F1032602</game_id>
+		<rom name="Sensible Soccer (United Kingdom) (v1.1) (Disk 2).jfd" size="446826" crc="7bd3e9e7" md5="cd96047a4616bd69faf37d6aa4acf148" sha1="493b0ba31b1ebcc0f9e807297eb54eb23bce5fca" sha256="7b4ef897c5d976e11e30a56c167132e1177c64ebd72d549c1b36873cb2415bfb"/>
+	</game>
+	<game name="Serpents (United Kingdom)" id="0302">
+		<category>Games</category>
+		<description>Serpents (United Kingdom)</description>
+		<game_id>F1032701</game_id>
+		<rom name="Serpents (United Kingdom).jfd" size="164356" crc="65175c1f" md5="f1cef896476910048a03708154e57d2b" sha1="105b9d7ed9f694c880441095a5ec9eff7fc06d29" sha256="95a5ed16140d1d444aec1b154f22aa2f32da3520650a1d60d316911297f887ec"/>
+	</game>
+	<game name="SimCity (United Kingdom)" id="0303">
+		<category>Games</category>
+		<description>SimCity (United Kingdom)</description>
+		<game_id>F1033001</game_id>
+		<rom name="SimCity (United Kingdom).jfd" size="264733" crc="d344ca24" md5="476eb9afb97d2fc631ab36a9a99d8c77" sha1="ab3913373eb32004da6854c457c95af128c8e574" sha256="2de907258e1df531a2696f2db074f7254a2e1014276aba16d0fcd0d1cb1d9146"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 1)" id="0102">
+		<description>Simon the Sorcerer (Europe) (Disk 1)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 1).adf" size="814080" crc="b7a2be89" md5="dac54a95f37beda0c61ea818ecb6e13b" sha1="cd9c9fae2ae3133e1e203e24466b5dacb19fb00a"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 2)" id="0103">
+		<description>Simon the Sorcerer (Europe) (Disk 2)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 2).adf" size="814080" crc="0734253a" md5="126d3e13bc9e8c7bc7d7f12f614fb3d2" sha1="802f51af7c95ba48c534320b3c743921669c1d27"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 3)" id="0104">
+		<description>Simon the Sorcerer (Europe) (Disk 3)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 3).adf" size="814080" crc="8817d100" md5="06560ef3baced123f4e99c6ddb01c5ce" sha1="c2fa09dca1f5de94c9f72dfa854fd86014fc1e8b"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 4)" id="0105">
+		<description>Simon the Sorcerer (Europe) (Disk 4)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 4).adf" size="814080" crc="bcae058f" md5="da132a404de115f189d6479912d4a330" sha1="a7ca010caa6d3b1d538d0d0bbd4d0c5708c99c9f"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 5)" id="0106">
+		<description>Simon the Sorcerer (Europe) (Disk 5)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 5).adf" size="814080" crc="a973649c" md5="fe1ee161140cb9dacb6a8dc72d6db60c" sha1="4d80fa5fa2ec081c845f1283d25148bd6db34f72"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 6)" id="0107">
+		<description>Simon the Sorcerer (Europe) (Disk 6)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 6).adf" size="814080" crc="4c28314f" md5="933e200371d9b327c48f077230f152e8" sha1="d133c42e2edc0a38e46d47e98601bb7044d4c66f"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 7)" id="0108">
+		<description>Simon the Sorcerer (Europe) (Disk 7)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 7).adf" size="814080" crc="c9f92785" md5="1f2e6db4eb8c7e7e4d6a8fc143e426ee" sha1="f84a5e4cc825770607f15c5950449e25e32dd8ca"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 8)" id="0109">
+		<description>Simon the Sorcerer (Europe) (Disk 8)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 8).adf" size="814080" crc="826f9c7d" md5="800d8bbae03acbf21c67aa7cf0a77951" sha1="f8b55a545c0c236c9216f44057bde2dd0dbc0715"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 9)" id="0110">
+		<description>Simon the Sorcerer (Europe) (Disk 9)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 9).adf" size="814080" crc="f3e8f03c" md5="211c8942518d5c0d0cd76011abdaa15e" sha1="59b5706488a5be5dc7774c142b1f01cd61bcb766"/>
+	</game>
+	<game name="Simon the Sorcerer (Europe) (Disk 10)" id="0111">
+		<description>Simon the Sorcerer (Europe) (Disk 10)</description>
+		<rom name="Simon the Sorcerer (Europe) (Disk 10).adf" size="814080" crc="fdb0c0eb" md5="e4eb2f14bb53e2894d1f3fff03065996" sha1="26160c06c027f0f491bf5807db6843da1800f6ce"/>
+	</game>
+	<game name="Son of Gyrinus (Europe) (Disk 1)" id="0112">
+		<description>Son of Gyrinus (Europe) (Disk 1)</description>
+		<rom name="Son of Gyrinus (Europe) (Disk 1).adf" size="815104" crc="3c634824" md5="fdb82ac6d549e9eb3818e7a3bb609967" sha1="6cb046751a4c7048f3f8a093c58b5d6ffb62af93"/>
+	</game>
+	<game name="Son of Gyrinus (Europe) (Disk 1) (Alt)" id="0113">
+		<description>Son of Gyrinus (Europe) (Disk 1) (Alt)</description>
+		<rom name="Son of Gyrinus (Europe) (Disk 1) (Alt).adf" size="815104" crc="6a1a178e" md5="8cd277e12d8eaf2ce5048d9bb9443b3f" sha1="8fe8175b18062566e50bce0c49d019d3940f655f"/>
+	</game>
+	<game name="Son of Gyrinus (Europe) (Disk 2)" id="0114">
+		<description>Son of Gyrinus (Europe) (Disk 2)</description>
+		<rom name="Son of Gyrinus (Europe) (Disk 2).adf" size="819200" crc="cd367dc5" md5="4c68cbe9049ce22a7f097874d47e6be2" sha1="6d4bddda0941f21c8e93bd5d138cf492f84239e4"/>
+	</game>
+	<game name="SpeedBall 2 (United Kingdom)" id="0224">
+		<category>Games</category>
+		<description>SpeedBall 2 (United Kingdom)</description>
+		<game_id>F1033801</game_id>
+		<rom name="SpeedBall 2 (United Kingdom).jfd" size="523502" crc="c3e95b75" md5="21a972b31fa906e6abb2d31e8d655b50" sha1="e6e0868803ce961f09680387767eb36fd5982c75" sha256="830f80a72f524aa02d44bab2f86d920898c7cb5c46f3b2ff6dea164916d64c81"/>
+	</game>
+	<game name="SpeedBall 2 (United Kingdom) (RPC Version)" id="0225">
+		<category>Games</category>
+		<description>SpeedBall 2 (United Kingdom) (RPC Version)</description>
+		<game_id>F1054601</game_id>
+		<rom name="SpeedBall 2 (United Kingdom) (RPC Version).jfd" size="874419" crc="4f1c57cb" md5="53409db4a078c1fc2dec71022e3b02ca" sha1="0643ff628d74cbf375e52ff7162e6f18cd4c15a7" sha256="2eb6819caea2524ba614f938fb72106b614345a59473df9eb77f1929fe0de77b"/>
+	</game>
+	<game name="Spheres of Chaos (United Kingdom)" id="0306">
+		<category>Games</category>
+		<description>Spheres of Chaos (United Kingdom)</description>
+		<game_id>F1033901</game_id>
+		<rom name="Spheres of Chaos (United Kingdom).jfd" size="244895" crc="3fb93200" md5="2cfd9133337dbb9c1a47ce710fe2c353" sha1="e911a7b6671f1ae3889699f4ffd67d7d380cafa0" sha256="3ac99c52f52727a79c15a1e39148da67ab110819f8a400ac7ed959341dff1e15"/>
+	</game>
+	<game name="Star Fighter 3000 (United Kingdom)" id="0117">
+		<description>Star Fighter 3000 (United Kingdom)</description>
+		<rom name="Star Fighter 3000 (United Kingdom).adf" size="819200" crc="b894e371" md5="0fec2006ae3d065993ed0af752931f27" sha1="6f2c094fd7d1c7eaebb79e8343d52cf6bfb86d1b"/>
+	</game>
+	<game name="Star Fighter 3000 (United Kingdom) (Demo)" id="0260">
+		<description>Star Fighter 3000 (United Kingdom) (Demo)</description>
+		<rom name="Star Fighter 3000 (United Kingdom) (Demo).adf" size="819200" crc="fa5cad28" md5="1783237290522f2d71e3528383aa7160" sha1="02a548106287f0ea662fe404cb2fcdc7f14089dd"/>
+	</game>
+	<game name="Starch (Europe)" id="0118">
+		<description>Starch (Europe)</description>
+		<rom name="Starch (Europe).adf" size="634880" crc="5d734c25" md5="674bd4565f89b6237021582afc413113" sha1="58e1e3791a880cdf1544eaccdbe43452f8846ace"/>
+	</game>
+	<game name="Startwrite (Europe) [b]" id="0119">
+		<description>Startwrite (Europe) [b]</description>
+		<rom name="Startwrite (Europe) [b].adf" size="814080" crc="d915e78c" md5="f814067b8658b7428159b4392960c49f" sha1="8ca4289ac423d4878129cb17d6177123b321108f" status="baddump"/>
+	</game>
+	<game name="Super Pool (United Kingdom)" id="0261">
+		<description>Super Pool (United Kingdom)</description>
+		<rom name="Super Pool (United Kingdom).adf" size="819200" crc="e3847c77" md5="2ffc8f7b3b356a5999cbc6efab5a27cd" sha1="9d5b0fc6efb984ba8811316e6438e8fce2326d4c"/>
+	</game>
+	<game name="Super Pool (United Kingdom) (Alt 2)" id="0262">
+		<description>Super Pool (United Kingdom) (Alt 2)</description>
+		<rom name="Super Pool (United Kingdom) (Alt 2).adf" size="819200" crc="ae41840c" md5="7fa3a2e4b01a408d071224821d5dbbb5" sha1="4617e05a275253b3cf859f3012d753f2e92b1523"/>
+	</game>
+	<game name="Super Pool (United Kingdom) (Alt)" id="0263">
+		<description>Super Pool (United Kingdom) (Alt)</description>
+		<rom name="Super Pool (United Kingdom) (Alt).adf" size="819200" crc="8fa28978" md5="e9e01ecff9380c6a43ee9d5228915abe" sha1="10d451076f38ab48e4b9bd754fdcb4c634935c36"/>
+	</game>
+	<game name="Superior (Europe) (Disk 1)" id="0120">
+		<description>Superior (Europe) (Disk 1)</description>
+		<rom name="Superior (Europe) (Disk 1).adf" size="819200" crc="d69ff5e6" md5="30c7e956baab0f24c5ff776eee7eb0ae" sha1="416b4b013012115f4ab235b4454d1d7788c6f376"/>
+	</game>
+	<game name="Superior (Europe) (Disk 2)" id="0121">
+		<description>Superior (Europe) (Disk 2)</description>
+		<rom name="Superior (Europe) (Disk 2).adf" size="819200" crc="5be128ae" md5="0f627b0b4a35db59ade6f63dccea1f1d" sha1="8011ee840d5ef371b5c1964c315df3c0fa66e758"/>
+	</game>
+	<game name="Superior Golf (Europe)" id="0122">
+		<description>Superior Golf (Europe)</description>
+		<rom name="Superior Golf (Europe).adf" size="808960" crc="10b5e57e" md5="c4e0d9676d94f379ef4fe640e0b462e2" sha1="38206d1449478f218e1e1e3567594cd143c42c62"/>
+	</game>
+	<game name="Tactic (France) (v2.0)" id="0227">
+		<category>Games</category>
+		<description>Tactic (France) (v2.0)</description>
+		<game_id>F1056601</game_id>
+		<rom name="Tactic (France) (v2.0).jfd" size="230946" crc="ac112a94" md5="c0511def11eeb0abd1a8e3aad2fbec61" sha1="de2a424bb9e33953f063ad73cec89bb9b8831059" sha256="6f2306b1b19d597d7d04499b32143db4f4b5ced591ea66d2d4c887877ab218ef"/>
+	</game>
+	<game name="Talisman (United Kingdom)" id="0228">
+		<category>Games</category>
+		<description>Talisman (United Kingdom)</description>
+		<game_id>F1036201</game_id>
+		<rom name="Talisman (United Kingdom).jfd" size="84042" crc="2565a8f9" md5="762d6873d61f3f0b8c36a4aa05dc38d4" sha1="f11baba32d2062b88fbedc2e108288f6f5d3b680" sha256="78c926d49aea1e2ec58fe50fe3f4f91214c504bbf2ccce7158592a16beb3b465"/>
+	</game>
+	<game name="Terramex (United Kingdom)" id="0229">
+		<category>Games</category>
+		<description>Terramex (United Kingdom)</description>
+		<game_id>F1036601</game_id>
+		<rom name="Terramex (United Kingdom).jfd" size="140033" crc="c846269c" md5="35f916356de79820d21b7a0a0697a330" sha1="97e5341ef1bb7eaebf7b409e0ce688e2c1617412" sha256="14939380274fbcb267d591c77e302f0903cace995657a58f842f0e9d7fb942f8"/>
+	</game>
+	<game name="Thundermonk (United Kingdom)" id="0230">
+		<category>Games</category>
+		<description>Thundermonk (United Kingdom)</description>
+		<game_id>F1036701</game_id>
+		<rom name="Thundermonk (United Kingdom).jfd" size="208727" crc="edffa4b6" md5="b48be69f0f4cb83f119017e7ffb1c450" sha1="c5823d2bd0d6164902fb1ef4c0176e0bd419bbdb" sha256="140fa81e5519a59597fc633ea4731ae54ba4208a3a465852cba8df1d487482dd"/>
+	</game>
+	<game name="Time Zone (Europe)" id="0128">
+		<description>Time Zone (Europe)</description>
+		<rom name="Time Zone (Europe).adf" size="819200" crc="a21f92e4" md5="f502d44a5c3a4905aab34061b654b6c6" sha1="371b30787a782cb1fe6cb6ad2217a832a06e1e96"/>
+	</game>
+	<game name="Top Banana (Europe)" id="0129">
+		<description>Top Banana (Europe)</description>
+		<rom name="Top Banana (Europe).adf" size="819200" crc="9fee315d" md5="dd304916885423c43b0f34feef350643" sha1="c86c55cf671d1c899fdabd781442a7a4f63464d2"/>
+	</game>
+	<game name="Tower of Babel (Europe)" id="0130">
+		<description>Tower of Babel (Europe)</description>
+		<rom name="Tower of Babel (Europe).adf" size="814080" crc="1b918df1" md5="57db841d3e9b468ef3f8752916a997ef" sha1="9e656be2f1f09d2859cf68200d8f2794fa795e49"/>
+	</game>
+	<game name="Trivial Pursuit (Europe)" id="0131">
+		<description>Trivial Pursuit (Europe)</description>
+		<rom name="Trivial Pursuit (Europe).adf" size="817152" crc="9ced825f" md5="5cc2148be6bc7fcd565ad24344b018d7" sha1="15003d4306131905905a834cfc1368c1c88f7405"/>
+	</game>
+	<game name="Twinworld (Europe)" id="0132">
+		<description>Twinworld (Europe)</description>
+		<rom name="Twinworld (Europe).adf" size="819200" crc="3b104116" md5="51888da245b85572b8d378e3a8ea1a73" sha1="088b9ad03376520821e446a1be89525b502bb025"/>
+	</game>
+	<game name="Warlocks (Europe) (Demo) [b]" id="0133">
+		<description>Warlocks (Europe) (Demo) [b]</description>
+		<rom name="Warlocks (Europe) (Demo) [b].adf" size="499604" crc="980c95d8" md5="bbe15a60775e858d33a9beb366efe0b8" sha1="af5d9ed5829057c4f6bedc8075df5bf091d0298b" status="baddump"/>
+	</game>
+	<game name="Warlocks (United Kingdom) (Demo)" id="0265">
+		<description>Warlocks (United Kingdom) (Demo)</description>
+		<rom name="Warlocks (United Kingdom) (Demo).adf" size="819200" crc="269e0dcb" md5="b5cbb1890fae90a47ca6d18742daf0c8" sha1="1ac0a6def320f0c391c581a5e8c559c4392d0cc7"/>
+	</game>
+	<game name="Wavelength (United Kingdom) (Demo)" id="0266">
+		<description>Wavelength (United Kingdom) (Demo)</description>
+		<rom name="Wavelength (United Kingdom) (Demo).adf" size="819200" crc="d1867360" md5="b6c168fd498284c44ad4f0c47626e016" sha1="eba52f1fc19bce85542fc23b00334b2394035b72"/>
+	</game>
+	<game name="White Magic (United Kingdom)" id="0267">
+		<description>White Magic (United Kingdom)</description>
+		<rom name="White Magic (United Kingdom).adf" size="819200" crc="2e14543e" md5="9e055392e300bbdc1f919e9b5eef83fc" sha1="f90701252647f770f63882dabd61823fc7c59635"/>
+	</game>
+	<game name="White Magic 2 (United Kingdom)" id="0268">
+		<description>White Magic 2 (United Kingdom)</description>
+		<rom name="White Magic 2 (United Kingdom).adf" size="819200" crc="8d7799e2" md5="56074417f66b68bcb6324d582f292318" sha1="15faf20baad51a439d74a43274500300cffa5090"/>
+	</game>
+	<game name="Wimp Game, The (United Kingdom)" id="0269">
+		<description>Wimp Game, The (United Kingdom)</description>
+		<rom name="Wimp Game, The (United Kingdom).adf" size="819200" crc="ae4fe051" md5="5e2603516024eb6c135f43666fc8c917" sha1="32c108fae7ba4d4a443f7828b8ebece1bbd0e1c8"/>
+	</game>
+	<game name="Wolfenstein 3D (Europe) (Disk 1) [b]" id="0134">
+		<description>Wolfenstein 3D (Europe) (Disk 1) [b]</description>
+		<rom name="Wolfenstein 3D (Europe) (Disk 1) [b].adf" size="814080" crc="97fc0c5d" md5="034ee35080a2f838fa18db2921395ab9" sha1="a6502faf15ddb4acaed2ca859cedc1225e7fa762" status="baddump"/>
+	</game>
+	<game name="Wolfenstein 3D (Europe) (Disk 2) [b]" id="0135">
+		<description>Wolfenstein 3D (Europe) (Disk 2) [b]</description>
+		<rom name="Wolfenstein 3D (Europe) (Disk 2) [b].adf" size="814080" crc="6d700df9" md5="8ebd0278e24e08f4742662a115d5cac0" sha1="81bfd4ab92c538f5b15ad64bba625aac2ffb243d" status="baddump"/>
+	</game>
+	<game name="Wolfenstein 3D (Europe) (Disk 3) [b]" id="0136">
+		<description>Wolfenstein 3D (Europe) (Disk 3) [b]</description>
+		<rom name="Wolfenstein 3D (Europe) (Disk 3) [b].adf" size="814080" crc="9147da43" md5="ea42140305afde87cfffa32a99b4dcec" sha1="39318695b6e64c9d7270f2b6d8213a7d4b0b0c43" status="baddump"/>
+	</game>
+	<game name="WolfPack (United Kingdom) (Disk 1)" id="0334">
+		<category>Games</category>
+		<description>WolfPack (United Kingdom) (Disk 1)</description>
+		<game_id>F1038701</game_id>
+		<rom name="WolfPack (United Kingdom) (Disk 1).jfd" size="163954" crc="62db91a4" md5="ee375c0e22ce0bece0f751a8694d424d" sha1="d712253f230419ddc2d7686c63c165b16c808769" sha256="489694d0b1b72662eea06dfd9325fe3ff5ddd8a4a444303fa0702719df19b7c0"/>
+	</game>
+	<game name="WolfPack (United Kingdom) (Disk 2)" id="0335" cloneofid="0334">
+		<category>Games</category>
+		<description>WolfPack (United Kingdom) (Disk 2)</description>
+		<game_id>F1038702</game_id>
+		<rom name="WolfPack (United Kingdom) (Disk 2).jfd" size="210621" crc="0efa024e" md5="4d52c959d45eea7bc3d0a0a5f0145b48" sha1="7485a210ba80088c44a7fa6fde9323df0df7fded" sha256="91897760c336fd25e66e927a30af69df44f684163478923fae1cd8b1b00e4cd2"/>
+	</game>
+	<game name="World Championship Boxing Manager (Europe) (v3.0)" id="0137">
+		<description>World Championship Boxing Manager (Europe) (v3.0)</description>
+		<rom name="World Championship Boxing Manager (Europe) (v3.0).adf" size="819200" crc="d6f66a2f" md5="cbf74b3c771f2d0bc4f203f827e56562" sha1="f8cc7192eee3acc74950971d7dd6d4032414dcd7"/>
+	</game>
+	<game name="Xenon 2 (United Kingdom) (Demo)" id="0270">
+		<description>Xenon 2 (United Kingdom) (Demo)</description>
+		<rom name="Xenon 2 (United Kingdom) (Demo).adf" size="819200" crc="b12b25f5" md5="c22bf93cd1859ab95efcde7e43e471a5" sha1="9d1de071c8cfa311e98a34c548745113a7a3c3e1"/>
+	</game>
+	<game name="Zool (Europe) (Disk 1)" id="0138">
+		<description>Zool (Europe) (Disk 1)</description>
+		<rom name="Zool (Europe) (Disk 1).adf" size="819200" crc="f6ce22b4" md5="32b8bbef83688a846497dadd4e798f36" sha1="d74da4860607cef8e9eafd87afc0c953f4e51e64"/>
+	</game>
+	<game name="Zool (Europe) (Disk 2)" id="0139">
+		<description>Zool (Europe) (Disk 2)</description>
+		<rom name="Zool (Europe) (Disk 2).adf" size="819200" crc="c6848013" md5="cb587bcbab14261eb0a9bff638e10b8c" sha1="d169bde4c9e402a5b864a3d3629066aba4aa8cc7"/>
+	</game>
+	<game name="Zool - Ninja of the 'Nth' Dimension (United Kingdom) (32-bit Version)" id="0231">
+		<category>Games</category>
+		<description>Zool - Ninja of the 'Nth' Dimension (United Kingdom) (32-bit Version)</description>
+		<game_id>F1057301</game_id>
+		<rom name="Zool - Ninja of the 'Nth' Dimension (United Kingdom) (32-bit Version).jfd" size="892737" crc="7ffe1878" md5="f9e04825fddbdc8a8f82835e3731758b" sha1="e54675569ee5b54394a8a962966894cb7eeed3ad" sha256="6122604f2ffea75c1d5ca8ca133d5aedb0fba1c49d424dec36089791cf4b9ec4"/>
+	</game>
+</datafile>

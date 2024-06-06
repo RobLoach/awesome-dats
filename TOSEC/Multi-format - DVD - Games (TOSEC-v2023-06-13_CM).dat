@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - DVD - Games</name>
+		<description>Multi-format - DVD - Games (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Barbie Fairytopia Rainbow Adventure DVD Game (2006)(Mattel)(AU)[!]">
+		<description>Barbie Fairytopia Rainbow Adventure DVD Game (2006)(Mattel)(AU)[!]</description>
+		<rom name="Barbie Fairytopia Rainbow Adventure DVD Game (2006)(Mattel)(AU)[!].iso" size="5362245632" crc="cf667e4f" md5="406e85d4156a84554e23adad530e7b83" sha1="d3f5987d0d5ca33b474fe65bf50f1146b582fc44"/>
+	</game>
+	<game name="Bert's Family Feud (2006)(Imagination Entertainment)(AU)">
+		<description>Bert's Family Feud (2006)(Imagination Entertainment)(AU)</description>
+		<rom name="Bert's Family Feud (2006)(Imagination Entertainment)(AU).iso" size="8413800448" crc="915e28cf" md5="bc9038ddca21d9da2a005a95dde4b53f" sha1="c65aada12cc9b497d65ebcfa6a1dc2bdb756f3cd"/>
+	</game>
+	<game name="British Hit Single &amp; Albums (2006)(Sony BMG Music Entertainment)(GB)">
+		<description>British Hit Single &amp; Albums (2006)(Sony BMG Music Entertainment)(GB)</description>
+		<rom name="British Hit Single &amp; Albums (2006)(Sony BMG Music Entertainment)(GB).iso" size="2869886976" crc="a5931d91" md5="f3f7a3924f9050ef310a11296e4e9985" sha1="99e234c3f8c764e7518c43ee07e287352c97960c"/>
+	</game>
+	<game name="Catch Phrase (2005)(Upstarts!)(GB)">
+		<description>Catch Phrase (2005)(Upstarts!)(GB)</description>
+		<rom name="Catch Phrase (2005)(Upstarts!)(GB).iso" size="3704487936" crc="11a310cf" md5="2742e74a7102eb8385f983f330426e62" sha1="40905b349d69c410dfae4226f4638ce08dbcc4aa"/>
+	</game>
+	<game name="Charades Starring the Unbilical Brothers (2006)(Imaginaton Entertainment)(AU)">
+		<description>Charades Starring the Unbilical Brothers (2006)(Imaginaton Entertainment)(AU)</description>
+		<rom name="Charades Starring the Unbilical Brothers (2006)(Imaginaton Entertainment)(AU).iso" size="5369526272" crc="7ad4a77e" md5="6f3080044dbc7ba64632611a3bac5492" sha1="a3254abed6e7f0b8be5d3e0799be339f2d50c733"/>
+	</game>
+	<game name="Crime Patrol Shooting Game (2003)(Digital Leisure)">
+		<description>Crime Patrol Shooting Game (2003)(Digital Leisure)</description>
+		<rom name="Crime Patrol Shooting Game (2003)(Digital Leisure).iso" size="6405652480" crc="68a8665f" md5="44a9d025a2397c8f2f00117fb7ba2470" sha1="892685ecc25340e5831ead3b131103f94cbccc24"/>
+	</game>
+	<game name="Dance Dance Revolution DVD Game (2006)(Imaginaton Entertainment)(AU)">
+		<description>Dance Dance Revolution DVD Game (2006)(Imaginaton Entertainment)(AU)</description>
+		<rom name="Dance Dance Revolution DVD Game (2006)(Imaginaton Entertainment)(AU).iso" size="3820734464" crc="d013136c" md5="41f7d507f6b807140837edfddda149fb" sha1="a2e594c4c9c2a4c373ee544b0f08c5025e423f95"/>
+	</game>
+	<game name="Deal or No Deal (2006)(Imagination Entertainment)(AU)">
+		<description>Deal or No Deal (2006)(Imagination Entertainment)(AU)</description>
+		<rom name="Deal or No Deal (2006)(Imagination Entertainment)(AU).iso" size="5037404160" crc="3c49bd03" md5="2e7019e146f8401e35289a240d3a7c38" sha1="8d5a0c034a82eae035dd798f0d7408fd6649d0a6"/>
+	</game>
+	<game name="Deal or No Deal (2006)(Imagination Entertainment)(US)">
+		<description>Deal or No Deal (2006)(Imagination Entertainment)(US)</description>
+		<rom name="Deal or No Deal (2006)(Imagination Entertainment)(US).iso" size="8498800640" crc="a4ceda6a" md5="62e8f46f1f1aacbdd79d2df392cf7e8f" sha1="dfda5c0af38e26f3652159b0cc9a1502d914e0ac"/>
+	</game>
+	<game name="Dragon's Lair 20th Anniversary Edition (2002)(Digital Leisure)">
+		<description>Dragon's Lair 20th Anniversary Edition (2002)(Digital Leisure)</description>
+		<rom name="Dragon's Lair 20th Anniversary Edition (2002)(Digital Leisure).iso" size="8010760192" crc="55a35226" md5="0c2d07de0fb0a1b4ff2b8e174bf6afc7" sha1="78d7c9fbbb26050076a46046e975f48cb0db35d2"/>
+	</game>
+	<game name="Dragon's Lair II - Time Warp 20th Anniversary Special Edition (2002)(Digital Leisure)">
+		<description>Dragon's Lair II - Time Warp 20th Anniversary Special Edition (2002)(Digital Leisure)</description>
+		<rom name="Dragon's Lair II - Time Warp 20th Anniversary Special Edition (2002)(Digital Leisure).iso" size="4092231680" crc="f44b7155" md5="6901735f6d96fe6b56c330088caa422b" sha1="7398ce63c5a6cddc71772ac64ba0c6d7d60977fb"/>
+	</game>
+	<game name="Drug Wars (2002)(Digital Leisure)">
+		<description>Drug Wars (2002)(Digital Leisure)</description>
+		<rom name="Drug Wars (2002)(Digital Leisure).iso" size="4625629184" crc="cc90ac34" md5="3861e679b32ba1d0bfad1f763ba9bebe" sha1="277e0a57de77d0a7ae6f03a27e9f95aec3502442"/>
+	</game>
+	<game name="Hologram Time Traveller (2001)(Digital Leisure)">
+		<description>Hologram Time Traveller (2001)(Digital Leisure)</description>
+		<rom name="Hologram Time Traveller (2001)(Digital Leisure).iso" size="4606132224" crc="92c80d12" md5="ce32bd0b8f4fda5e947e61e948e7fc61" sha1="50f6bdf96972aef2aa88329145390f17ecb9bfce"/>
+	</game>
+	<game name="Last Bounty Hunter, The (2002)(Digital Leisure)">
+		<description>Last Bounty Hunter, The (2002)(Digital Leisure)</description>
+		<rom name="Last Bounty Hunter, The (2002)(Digital Leisure).iso" size="4629069824" crc="e3f599d9" md5="c57c9933c97180fb3b5a4d69c4d0c7fc" sha1="6b9358508e60289d494a1391dfcab4ecd21272c1"/>
+	</game>
+	<game name="Mr &amp; Mrs (2003)(Bruizer Production)(GB)">
+		<description>Mr &amp; Mrs (2003)(Bruizer Production)(GB)</description>
+		<rom name="Mr &amp; Mrs (2003)(Bruizer Production)(GB).iso" size="4580825088" crc="ffb3f9b1" md5="3f4024c065c09c6783f3635e0f8666d6" sha1="abf0fc02f4dcaecc3e656faef667e3d641a7a72a"/>
+	</game>
+	<game name="Name That Tune Eighties (2007)(Imaginaton Entertainment)(AU)">
+		<description>Name That Tune Eighties (2007)(Imaginaton Entertainment)(AU)</description>
+		<rom name="Name That Tune Eighties (2007)(Imaginaton Entertainment)(AU).iso" size="6297026560" crc="b51e2d18" md5="cf2c3d477e3093ce81acda4bb0e11922" sha1="8b6ae50d1b60ab93919c5e466ea13061e60a8672"/>
+	</game>
+	<game name="Richard Hammond's Top Gear Interactive Challenge (2008)(BBC Worldwide)(AU)">
+		<description>Richard Hammond's Top Gear Interactive Challenge (2008)(BBC Worldwide)(AU)</description>
+		<rom name="Richard Hammond's Top Gear Interactive Challenge (2008)(BBC Worldwide)(AU).iso" size="7338786816" crc="8a2938f8" md5="7c4db470ef3108924e54669c0eb3c9ac" sha1="18e49be523d77a8d08938e63f2da5cddb572e275"/>
+	</game>
+	<game name="Scene It the DVD Game (2005)(Mattel)(AU)[movie edition]">
+		<description>Scene It the DVD Game (2005)(Mattel)(AU)[movie edition]</description>
+		<rom name="Scene It the DVD Game (2005)(Mattel)(AU)[movie edition].iso" size="8380164096" crc="9553f5a6" md5="dd44ad7958de18508663fe1932d5e97b" sha1="5e94fbf5fcdefda59b7f9e45c3c38c9da5accf97"/>
+	</game>
+	<game name="Shane Warne's Cricket Test Interactive DVD Game (2006)(Imagination Entertainment)(AU)">
+		<description>Shane Warne's Cricket Test Interactive DVD Game (2006)(Imagination Entertainment)(AU)</description>
+		<rom name="Shane Warne's Cricket Test Interactive DVD Game (2006)(Imagination Entertainment)(AU).iso" size="7200307200" crc="5d12da8a" md5="e8007f4bedba790ed234cb14ed841623" sha1="054c751ef812229d7b73a60b10331de9b55d0c30"/>
+	</game>
+	<game name="Space Ace 20th Anniversary Edition (2002)(Digital Leisure)">
+		<description>Space Ace 20th Anniversary Edition (2002)(Digital Leisure)</description>
+		<rom name="Space Ace 20th Anniversary Edition (2002)(Digital Leisure).iso" size="4547018752" crc="982c7697" md5="d43acf6a82c983c08945af04e42d738d" sha1="e1314ed9672577eaf3be465a61214cfcb793f0fc"/>
+	</game>
+	<game name="Spicks and Specks Interactive Quiz (2007)(Hopscotch Entertainment)(AU)">
+		<description>Spicks and Specks Interactive Quiz (2007)(Hopscotch Entertainment)(AU)</description>
+		<rom name="Spicks and Specks Interactive Quiz (2007)(Hopscotch Entertainment)(AU).iso" size="4370182144" crc="e2f9342e" md5="e0732d85fcd1477f01c00042dac54413" sha1="86e48c0f422e236fad744a4fbfe3d30b55213065"/>
+	</game>
+	<game name="Spicks and Specks Interactive Quiz the Encore Edition (2008)(Hopscotch Entertainment)(AU)">
+		<description>Spicks and Specks Interactive Quiz the Encore Edition (2008)(Hopscotch Entertainment)(AU)</description>
+		<rom name="Spicks and Specks Interactive Quiz the Encore Edition (2008)(Hopscotch Entertainment)(AU).iso" size="4459595776" crc="659cb14c" md5="35806d91bedcd846b1dbb844d745504d" sha1="db49f3696ea611b104ea2ddb0ff35d92e62b3fe5"/>
+	</game>
+	<game name="Star Trek - Borg (2000)(Simon &amp; Schuster Interactive)(JP)">
+		<description>Star Trek - Borg (2000)(Simon &amp; Schuster Interactive)(JP)</description>
+		<rom name="Star Trek - Borg (2000)(Simon &amp; Schuster Interactive)(JP).iso" size="6651680768" crc="985d812b" md5="557e883a655d96bcf29613d00a6f41a2" sha1="7ee50e2c24fc42dbfddccf28cceb97eac5c80eb5"/>
+	</game>
+	<game name="Sudoku (2006)(Imaginaton Entertainment)(AU)">
+		<description>Sudoku (2006)(Imaginaton Entertainment)(AU)</description>
+		<rom name="Sudoku (2006)(Imaginaton Entertainment)(AU).iso" size="5805873152" crc="716a17ba" md5="44248f89ce7e0fd70b34e9312bfeaf4d" sha1="fbda7948447e9daa58f22864cf323e5bc052c28f"/>
+	</game>
+	<game name="Take the Buzz Family Quiz Series 4 DVD Game (2010)(McDonalds)(AU)">
+		<description>Take the Buzz Family Quiz Series 4 DVD Game (2010)(McDonalds)(AU)</description>
+		<rom name="Take the Buzz Family Quiz Series 4 DVD Game (2010)(McDonalds)(AU).iso" size="375416832" crc="12fa3ea6" md5="8519e689200a54c98a808f79c7c90a4d" sha1="2a6be2c05877931afd00b1c85d423a13e34f87be"/>
+	</game>
+	<game name="Talkin' 'bout Your Generation Interactive Quiz DVD (2007)(Hopscotch Entertainment)(AU)">
+		<description>Talkin' 'bout Your Generation Interactive Quiz DVD (2007)(Hopscotch Entertainment)(AU)</description>
+		<rom name="Talkin' 'bout Your Generation Interactive Quiz DVD (2007)(Hopscotch Entertainment)(AU).iso" size="7208888320" crc="5bd69dee" md5="472f1d818072fd303a84e426d3ea689f" sha1="1fcf100741e688967ed92168a83f3ae896867aea"/>
+	</game>
+	<game name="Temptation Interactive Video Game Show (2007)(Imagination Entertainment)(AU)[!]">
+		<description>Temptation Interactive Video Game Show (2007)(Imagination Entertainment)(AU)[!]</description>
+		<rom name="Temptation Interactive Video Game Show (2007)(Imagination Entertainment)(AU)[!].iso" size="8347889664" crc="d513b0be" md5="2385ec6fca4c6af4ca8a2ba764fd5bd9" sha1="08395a15f370d0d42a3b0a1c17f5f70e0b83c9c5"/>
+	</game>
+	<game name="Tender Loving Care (1999)(Digital Leisure)">
+		<description>Tender Loving Care (1999)(Digital Leisure)</description>
+		<rom name="Tender Loving Care (1999)(Digital Leisure).iso" size="7362422784" crc="22b0feca" md5="ccd16e7fc9d48e4ce6a48db8444b4d75" sha1="5c5098b5cd63ec81db624df116ac89a2599f7893"/>
+	</game>
+	<game name="Thayer's Quest (2005)(Digital Leisure)">
+		<description>Thayer's Quest (2005)(Digital Leisure)</description>
+		<rom name="Thayer's Quest (2005)(Digital Leisure).iso" size="4474634240" crc="2db8b723" md5="8612853c7fdb0d812bff54d8b8be35ab" sha1="1e0b08d9245f1b7cab5ef0eece8c17655db7b4a9"/>
+	</game>
+	<game name="Vinnie Jones - Gone to the Dogs (2005)(Universal)(GB)">
+		<description>Vinnie Jones - Gone to the Dogs (2005)(Universal)(GB)</description>
+		<rom name="Vinnie Jones - Gone to the Dogs (2005)(Universal)(GB).iso" size="4681498624" crc="bca52af4" md5="952ae21aab78e6853bd6af24a303cd85" sha1="585b62ad9a5028be3bba2125fa8e1e617b79f192"/>
+	</game>
+	<game name="Who Wants to Be a Millionaire (2004)(Universal Studios)(AU)[!]">
+		<description>Who Wants to Be a Millionaire (2004)(Universal Studios)(AU)[!]</description>
+		<rom name="Who Wants to Be a Millionaire (2004)(Universal Studios)(AU)[!].iso" size="4518094848" crc="04bdba4d" md5="0c27d48c4c6cec4e74b6893f51b45c9c" sha1="647867ddb9db46ea9656ee143520e2172151afd8"/>
+	</game>
+	<game name="Who Wants to Be a Millionaire - Family Picture Edition (2005)(Universal Studios)(AU)[!]">
+		<description>Who Wants to Be a Millionaire - Family Picture Edition (2005)(Universal Studios)(AU)[!]</description>
+		<rom name="Who Wants to Be a Millionaire - Family Picture Edition (2005)(Universal Studios)(AU)[!].iso" size="6968705024" crc="e79386d6" md5="59413796a715db5c6bc21d5281127624" sha1="f271e29e25962cb0429847c88ec6382c74f68a9f"/>
+	</game>
+	<game name="Wildlife Man Series, The - Convict Island Episode 18 (2013)(Eureka Multimedia)(AU)">
+		<description>Wildlife Man Series, The - Convict Island Episode 18 (2013)(Eureka Multimedia)(AU)</description>
+		<rom name="Wildlife Man Series, The - Convict Island Episode 18 (2013)(Eureka Multimedia)(AU).iso" size="4415651840" crc="b8b7123a" md5="135e679758ed32451f4482d34edac054" sha1="65ffebed20c13649826659f2839a7d8520b0ef14"/>
+	</game>
+	<game name="Wildlife Man Series, The - Outback Serpents Episode 6 (2013)(Eureka Multimedia)(AU)">
+		<description>Wildlife Man Series, The - Outback Serpents Episode 6 (2013)(Eureka Multimedia)(AU)</description>
+		<rom name="Wildlife Man Series, The - Outback Serpents Episode 6 (2013)(Eureka Multimedia)(AU).iso" size="5551980544" crc="7832ed82" md5="531f71eaaa57c0050b5f82f3bbcead7d" sha1="32c32f0597a8ac48cad39b7797caad4c83b7bcec"/>
+	</game>
+</datafile>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Games</name>
+		<description>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Games (TOSEC-v2023-10-03)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-10-03</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2]">
+		<description>Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2]</description>
+		<rom name="Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2].iso" size="921600" crc="37116a87" md5="e3738da1900544b382000e6ba417915d" sha1="742a671724f5bc69350997a8b328a9cbe8191730"/>
+	</game>
+	<game name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)">
+		<description>Space Ava 201 v1.01 (2021-07-04)(Nicole Express)</description>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 01 of 23)[Warning].wav" size="5648948" crc="d088cad0" md5="213e4054b28116004b7aaf1508bb91ab" sha1="393eff2f00e68673d4bfb4fcc47fc70e2dceea37"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 02 of 23).iso" size="1771520" crc="1179d744" md5="ac18db7c01c5aa2297d631b9093ace27" sha1="7c5e9e4d6d79e240e7637b5dfa9bf1ec60ebb0e9"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 03 of 23)[Fantasy World Title].wav" size="3386824" crc="5dbce0f3" md5="7aa0d384d293095ca19b36cc2fd3a800" sha1="e64e2ab0243ea2db450fec3a5025719cc29c9e6f"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 04 of 23)[Space Space Ava!].wav" size="10592300" crc="458e9fe2" md5="c6aa2cbfc567f11c8eb8534b63a6b315" sha1="86ea4c17595dc45bc574b492a4d0b762cdb6a1c4"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 05 of 23)[Ballad of St. Janet].wav" size="14405676" crc="6cf94cca" md5="4ad41b50c05815cfb33f2c0ce081660c" sha1="b957f9f8d095b583a8df8fc8052c317e6a40d47e"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 06 of 23)[Evan S. Sense].wav" size="11833388" crc="ea91b095" md5="35e028032880cfada5a40ebc0a5487d7" sha1="9674140b67be319493607f24d08990738c90796f"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 07 of 23)[Spaceful].wav" size="16224300" crc="b35caf19" md5="f5ea6b873e31bde3880be628dec6d676" sha1="9d761e120cbac45f7a91708c2b0aeb4a540ac438"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 08 of 23)[Chime 2020].wav" size="10367020" crc="66abda04" md5="2fa9c12099296517ebb84ca8af05dcde" sha1="964ed9a72c63ac82569b91d7a00f10a8b3f2a110"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 09 of 23)[Impossibly Bossy].wav" size="17854508" crc="51886ffb" md5="a33b92323ed9cda27e32aec318eb821f" sha1="e2e905b79108d5ae0ef5173a7ebadf77ecce9194"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 10 of 23)[Nothing is Hope].wav" size="16900140" crc="6330af98" md5="e905a8dab15a90b337a05f476983cb6a" sha1="854e540ff3caa0a0191dee146b122f12fa352de6"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 11 of 23)[Lacked Even a Daisy].wav" size="18591788" crc="f3f0714c" md5="2d2c1d617aba7fb44868837bb40a018c" sha1="0abf8f7fe942c32dac496c91c8a3e475ab9ddfe4"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 12 of 23)[Your Soul is Lava].wav" size="14872620" crc="df3e89d6" md5="b22cfec7e549e0aca45d76da507d56bd" sha1="44e4f129d3c270cfaff93240ad68dac6c07f52c7"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 13 of 23)[Parasol Gently Down].wav" size="20279340" crc="413da118" md5="1a7b94c0c576b90954650b6781268cbc" sha1="d2a22fc32e5eca3c483ff95720d805e8438eeb5f"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 14 of 23)[Seventeen Crowns].wav" size="21180460" crc="63eb8a94" md5="26d2ad9b9e4321840dc834c4bd75f6b7" sha1="ac98abcda60c98f01b44672e8b6af18715939511"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 15 of 23)[This Penance].wav" size="19943468" crc="fdf3b151" md5="5985ab49ddde6d36f2cc0adc4584667d" sha1="f7c040c21f4833585b47e0d0b140f725843f0c87"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 16 of 23)[Straining to Chime].wav" size="18141228" crc="9c34fd8f" md5="97c6bd227c0a56258cc44b5eb4ac1559" sha1="7c35da938fde12b1eb31636f808a410fb5502e49"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 17 of 23)[Harsh Memories].wav" size="29515820" crc="e42b99ae" md5="56c8484f3b1a4e7d7cbd6d9e4f40a557" sha1="359773a929f828438daaffb6f90bc4705bbab813"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 18 of 23)[Never-Ending Carousel].wav" size="8467244" crc="eaf13a6a" md5="fa953da3d2a4b5b97f07abccbb9aaad2" sha1="9ad601bda86726c906a7cb39d8886b03fad8445d"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 19 of 23)[Can't Die Boing].wav" size="16089132" crc="7395837b" md5="9fa49935ff88572248924515949ddd78" sha1="8fb27761ea14636831b30c87f87733e68638bb12"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 20 of 23)[Digi-Ballad 9000].wav" size="14516268" crc="498beaff" md5="47bccc2cbb10e1ed3bd793fe3bf0a8a4" sha1="7a3185a56ac7969840b645c14410dce5629c1101"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 21 of 23)[Scandal of Nullity].wav" size="15548460" crc="d349848f" md5="806d0486f5d7331f68ce0806fef4054e" sha1="9811e222b6c2788e39f65e8c3dcffc7bd592b666"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 22 of 23)[Even More Spaceless].wav" size="11289644" crc="9b9b5c30" md5="da93df74d96f6d097647f24201616279" sha1="ebe625e72f57c00c16974273f3a5c6d0e0d78c97"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 23 of 23)[Yes! We Have No Bananas].wav" size="26195936" crc="bdd2b900" md5="c8a1b4255cdbd476bfbe46f340d9d2e3" sha1="900778d371ef50e2b6c86fb72af0695a757f8793"/>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express).cue" size="3349" crc="ae2ca26e" md5="b64e720fb7ff67902065ff19d3bc284e" sha1="351a5aecdf9bc4c6dde441400462318d887414f9"/>
+	</game>
+</datafile>

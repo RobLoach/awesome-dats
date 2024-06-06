@@ -1,0 +1,123 @@
+clrmamepro (
+	name "ScummVM GLK-ALAN3"
+	description "ScummVM - GLK Engine - ALAN v3 Games"
+	category "ScummVM"
+	version v1.03
+	date 2022-01-28
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name christmasparty
+	description "Christmas Party, The (Multi-OS)"
+	year 2016
+	manufacturer "OldGrover"
+	sourcefile glk-alan3
+	rom ( name the_christmas_party.a3c size 94892 crc c480216d md5 be38d992ae8fb224b9e255785f2b141d sha1 61bc6bc6f550c2cf3c489a367251a97706bce93a )
+)
+
+game (
+	name deadleaves
+	description "City of Dead Leaves (Multi-OS)[v2016-05-19]"
+	year 2016
+	manufacturer "Felix Pleşoianu"
+	sourcefile glk-alan3
+	rom ( name city-of-dead-leaves.a3c size 90139 crc 84dc9b1d md5 53191e9463ad2af745c82d2676de167c sha1 5551a0f0ea83c1c89a73156c412dbf7f69c83307 )
+)
+
+game (
+	name enterthedark
+	description "Enter the Dark (Multi-OS)[!]"
+	year 2006
+	manufacturer "Peter R. Shushmaruk"
+	sourcefile glk-alan3
+	rom ( name EnterTheDark.a3c size 78900 crc 48a0da78 md5 c9df1732494399694d3b8260f982daa6 sha1 b21653f0a8e77c9c26d3f74436271a8f8ef555f7 )
+)
+
+game (
+	name fishmess
+	description "Very Hairy Fish-Mess, A (Multi-OS)[v1.2]"
+	year 2011
+	manufacturer "Byron Alexander Campbell"
+	sourcefile glk-alan3
+	rom ( name "Fish_Mess.a3c" size 312561 crc 7f4f18f3 md5 6a3e22ec29cae0113cd300cf83778ff7 sha1 d7ebff9141e68c052d3ecc9d79b06015e5fe7eb4 )
+)
+
+game (
+	name forbidden
+	description "Ngah Angah School of Forbidden Wisdom, The (Multi-OS)[!]"
+	year 2008
+	manufacturer "Anssi Räisänen"
+	sourcefile glk-alan3
+	rom ( name forbidden.a3c size 122072 crc 3296bd9d md5 8d8ea8ff9ca7691af8a0e5946e5aa34b sha1 c2b9357d7193fc96d1b2eaa15e050a304abcca07 )
+)
+
+game (
+	name hwmurders
+	description "Hollywood Murders, The (Multi-OS)[v1.5]"
+	year 2009
+	manufacturer "Michael Zerbo"
+	sourcefile glk-alan3
+	rom ( name Hollywood_Murders.a3c size 213539 crc fe08a9f3 md5 9b4f7aafdda544bc01723d92e6026398 sha1 5fb96cd3295397e28a5fec9726502b11f4dcf35a )
+	rom ( name Hollywood_Murders.a3r size 4384234 crc 0614c837 md5 dd971f62095ec94ece1245c9fb236474 sha1 3df3bf9dfbd5c435c352d9048d46fef3ae059c49 )
+)
+
+game (
+	name misguided
+	description "Mis/Guided (Multi-OS)[v1.01]"
+	year 2009
+	manufacturer "Jari Sarajärvi, Patrik Dekhla, Tara Fkriand and Rasmus Gunnarsson"
+	sourcefile glk-alan3
+	rom ( name MisGuidedv101.a3c size 672613 crc f484640b md5 02297f5f978a81a4bd48d863c6368e8d sha1 f19f85342f1031dbd32aee2a9ef93c074428d9d1 )
+	rom ( name MisGuidedv101.a3r size 6824980 crc 4e98ecab md5 714512d2595074667bbda0b31bbf5caa sha1 2f1847923551cf358e0141ad718626f8eb2fb09d )
+)
+
+game (
+	name room206
+	description "Room 206 (Multi-OS)[R2]"
+	year 2011
+	manufacturer "Byron Alexander Campbell"
+	sourcefile glk-alan3
+	rom ( name Room_206.a3c size 364156 crc 937e9e95 md5 e11d5823905a42cad67e62d6408e5c78 sha1 305e2ff62921b042ec8be5caa36afd8bc5e2b68d )
+)
+
+game (
+	name tedpaladin
+	description "Ted Paladin and the Case of the Abandoned House (Multi-OS)[v1][!]"
+	year 2011
+	manufacturer "Anssi Räisänen"
+	sourcefile glk-alan3
+	rom ( name abandoned.a3c size 292486 crc 4d67adb1 md5 91ff72bda4aae58a48cb3f097fb93081 sha1 a0e8a15f5369d8f566c7fbadfeffc8b97ca6aa2e )
+)
+
+game (
+	name thesealedroom
+	description "Sealed Room, The (Multi-OS)[v1.2.5][!]"
+	year 2012
+	manufacturer "Robert DeFord"
+	sourcefile glk-alan3
+	rom ( name TheSealedRoom.a3c size 306937 crc a53bdfde md5 fc2043e5ef9a8f7161945e8dbd0fd507 sha1 74bc5b7a89fd55517e67b254a495271bbdd9c246 )
+	rom ( name TheSealedRoom.a3r size 111250 crc 912d8de6 md5 dfb63ac7a8cee5ec1caee737959c61ca sha1 235d2fce1b73682bbafd2f63fc2ab285a8c9d91f )
+)
+
+game (
+	name waldospie
+	description "Waldo's Pie (Multi-OS)[!]"
+	year 2005
+	manufacturer "Michael Arnaud"
+	sourcefile glk-alan3
+	rom ( name waldo.a3c size 511956 crc 3680f893 md5 a79506e60f4b4cc9f200df25db213473 sha1 05f54aa874ab3aa5e1e60982c274439bb990c18b )
+)
+
+game (
+	name wyldkyndproject
+	description "Wyldkynd Project, The (Multi-OS)[v1.05][!]"
+	year 2014
+	manufacturer "Robert DeFord"
+	sourcefile glk-alan3
+	rom ( name 00_Wyldkynd_Project.a3c size 1333195 crc 3e81bffb md5 04d6a591aef8f517689b23dee299d70a sha1 d87ca1e29c4cbdce20281052b61ac272dc58c7e0 )
+	rom ( name 00_Wyldkynd_Project.a3r size 152402 crc 8a1b667a md5 5b6d82120dc5a1d953ed4250cc821f5f sha1 dbd95c549c92cb1c6f8c8424674cc447a18b7d6b )
+)
+

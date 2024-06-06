@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM ADL"
 	description "ScummVM - ADL Engine Games"
 	category "ScummVM"
-	version v1.04
-	date 2016-10-18
+	version v1.12
+	date 2021-07-30
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,67 +11,80 @@ clrmamepro (
 
 game (
 	name hires0-apple2
-	description "Hi-Res Adventure #0: Mission Asteroid (Apple II)"
+	description "Hi-Res Adventure #0: Mission Asteroid (Apple II)[nib][!]"
 	year 1980
 	manufacturer "Sierra On-Line"
 	sourcefile adl
-	rom ( name MISSION.NIB size 232960 crc a8cc0865 md5 cedf4db0b9ba63a7644d2621235aaf3d )
+	rom ( name mission.nib size 232960 crc a8cc0865 md5 cedf4db0b9ba63a7644d2621235aaf3d sha1 c33318b1512db39f66714b9a0f99da0cfab2be15 )
 )
 
 game (
 	name hires1-apple2
-	description "Hi-Res Adventure #1: Mystery House (Apple II)"
+	description "Hi-Res Adventure #1: Mystery House (Apple II)[Public Domain][!]"
 	year 1980
 	manufacturer "Sierra On-Line"
 	sourcefile adl
-	rom ( name ADVENTURE size 29952 crc 338bc7ac md5 b1d187868d95dd6d8889fcd4691840cb )
-	rom ( name APPLESOFT size 31 crc 721e56e0 md5 b45c6aa8b20c65b8cc5f2bbf80ec35ba )
-	rom ( name "AUTO LOAD OBJ" size 12291 crc 70418f9a md5 f46b1c7d21850866e8af36eb7ed106d6 )
-	rom ( name "BLOCK DIRECTORY" size 304 crc b2c00bf6 md5 11816a38926e7c0af816ac642ef1533a )
-	rom ( name BLOCK1 size 874 crc aecd97d0 md5 778a355a1a0f83e15b436e144c138d09 )
-	rom ( name BLOCK10 size 904 crc 0f317de9 md5 0cd7e70ee6f5d393b6abbe69316b61e0 )
-	rom ( name BLOCK11 size 1012 crc 90d0a3e4 md5 212191dc76d67659b5f1e79fbe2d487a )
-	rom ( name BLOCK12 size 818 crc 0f7afccb md5 9cbe03ea32f16f9b6eae2ba504299d1d )
-	rom ( name BLOCK13 size 772 crc b446bfed md5 20cf717afe441d0b0bfd322140019abd )
-	rom ( name BLOCK14 size 826 crc b1fce645 md5 5d82e240467324cd07a0e773bc7ba3d9 )
-	rom ( name BLOCK15 size 790 crc cb7b44eb md5 f943dd0c7879f6d927eb654e63e90a13 )
-	rom ( name BLOCK16 size 780 crc 133fa0bd md5 9ffb76e3db27cd0d6726d5cbca510345 )
-	rom ( name BLOCK17 size 802 crc 22259e22 md5 257c88ae61750291c44eeb80bf3866c5 )
-	rom ( name BLOCK18 size 760 crc e5bb73ea md5 9db3a25882eb7189cd709859466f774f )
-	rom ( name BLOCK19 size 264 crc 12c4dec5 md5 0be5f9ec886573d44a4292f21d0afd64 )
-	rom ( name BLOCK2 size 1180 crc 1be8f379 md5 44da9c60b7c2a3adbb85b9b243ac4152 )
-	rom ( name BLOCK3 size 872 crc 57ebab8b md5 a693e3706cd56843e37a3cd8ada47c5e )
-	rom ( name BLOCK4 size 770 crc 315b6b25 md5 19b4de721c453598920780958ccecede )
-	rom ( name BLOCK5 size 780 crc c1182386 md5 0e67e81f72b848114d36a2015635e2c4 )
-	rom ( name BLOCK6 size 756 crc 0aab103a md5 bf799507b7c87e9c5780f52e4bd80e92 )
-	rom ( name BLOCK7 size 1030 crc c935ab63 md5 c3ce1804b2630f442fb263d9b09704b6 )
-	rom ( name BLOCK8 size 906 crc 8e3f5f07 md5 5281aff2071efbcb7f8d6e8cab63610e )
-	rom ( name BLOCK9 size 898 crc eed174ed md5 281e4e7a5be06a088ccb1afb01dbd11e )
-	rom ( name HELLO size 474 crc 8b2537d8 md5 a620d1aa0ee491e76db3974416537265 )
-	rom ( name "MESSAGE OBJECT" size 336 crc 1b41b504 md5 c26315eebc3494f171043f88748d120a )
-	rom ( name MESSAGES size 5369 crc 0a0b4221 md5 34c64b75ac26b8cba94f32f739ad5fb6 )
-	rom ( name MYSTERY.HELLO size 836 crc 1b8d0309 md5 2289b7fea300b506e902a4c597968369 )
-	rom ( name "PIC SIZES" size 131 crc 19ddc14a md5 6b802b3e3eb3a478df4fa2b4057f2ad5 )
-	rom ( name "SAVED GAME" size 2255 crc 3259815a md5 d19aec8e70881640f20ce0ba95f74c0f )
-	rom ( name STARTUP size 2255 crc 1c3c4b28 md5 a8763131591ada334107e774d970f349 )
+	rom ( name ADVENTURE size 29952 crc 338bc7ac md5 b1d187868d95dd6d8889fcd4691840cb sha1 ab5f35990dc19ee4e39b72e591d4482e5e243b86 )
+	rom ( name "AUTO LOAD OBJ" size 12291 crc 70418f9a md5 f46b1c7d21850866e8af36eb7ed106d6 sha1 6409792e1954c695c562033a87ac6ae5d3f19c46 )
+	rom ( name "BLOCK DIRECTORY" size 304 crc b2c00bf6 md5 11816a38926e7c0af816ac642ef1533a sha1 799560ab9b5d04f24b57f75c7e52502df4f38018 )
+	rom ( name BLOCK1 size 874 crc aecd97d0 md5 778a355a1a0f83e15b436e144c138d09 sha1 52bf36bec7b70ae8733eaf0e16d30263fc18fa68 )
+	rom ( name BLOCK10 size 904 crc 0f317de9 md5 0cd7e70ee6f5d393b6abbe69316b61e0 sha1 ef1f6f6d75c28eb2b7b36f5cd1a57f559363d533 )
+	rom ( name BLOCK11 size 1012 crc 90d0a3e4 md5 212191dc76d67659b5f1e79fbe2d487a sha1 42939dd91c0ed607d159cb39ee2bf2b624014eb5 )
+	rom ( name BLOCK12 size 818 crc 0f7afccb md5 9cbe03ea32f16f9b6eae2ba504299d1d sha1 87de101cd7b9a512fd0a5edb2db819c60542a6fb )
+	rom ( name BLOCK13 size 772 crc b446bfed md5 20cf717afe441d0b0bfd322140019abd sha1 d7622cbca94dff053d7d4d6cf347b7a9e40f3ace )
+	rom ( name BLOCK14 size 826 crc b1fce645 md5 5d82e240467324cd07a0e773bc7ba3d9 sha1 5aab41ef5b9b6481ad797fd67b09fd13976d66bd )
+	rom ( name BLOCK15 size 790 crc cb7b44eb md5 f943dd0c7879f6d927eb654e63e90a13 sha1 8b3f817de6c652c373cc8a1746c2bc0eb46d8d87 )
+	rom ( name BLOCK16 size 780 crc 133fa0bd md5 9ffb76e3db27cd0d6726d5cbca510345 sha1 1281c6b595e68a8da9d80b66d61139c3f7da5632 )
+	rom ( name BLOCK17 size 802 crc 22259e22 md5 257c88ae61750291c44eeb80bf3866c5 sha1 4e78987e7261e144e4b57bd54bb4fd04a66dc26c )
+	rom ( name BLOCK18 size 760 crc e5bb73ea md5 9db3a25882eb7189cd709859466f774f sha1 5915746a9f8f424e7c4e4a1ec39d3f6102c8b8ce )
+	rom ( name BLOCK19 size 264 crc 12c4dec5 md5 0be5f9ec886573d44a4292f21d0afd64 sha1 45edb304a583438aca2157bb6320fb00f75438e1 )
+	rom ( name BLOCK2 size 1180 crc 1be8f379 md5 44da9c60b7c2a3adbb85b9b243ac4152 sha1 b8b92e9bb17b4b0658532ace172710d317814ca1 )
+	rom ( name BLOCK3 size 872 crc 57ebab8b md5 a693e3706cd56843e37a3cd8ada47c5e sha1 1a158f0d47590a2a7c5fbfb3f3207979fddbd272 )
+	rom ( name BLOCK4 size 770 crc 315b6b25 md5 19b4de721c453598920780958ccecede sha1 e0957d3b59b187c7565691a0983c3e187eb77f1b )
+	rom ( name BLOCK5 size 780 crc c1182386 md5 0e67e81f72b848114d36a2015635e2c4 sha1 b3682664b41fac4a07a6df141e29e9ac71b336f1 )
+	rom ( name BLOCK6 size 756 crc 0aab103a md5 bf799507b7c87e9c5780f52e4bd80e92 sha1 fb9bd7fa860646b99f30dae9d033ea8aea21aeab )
+	rom ( name BLOCK7 size 1030 crc c935ab63 md5 c3ce1804b2630f442fb263d9b09704b6 sha1 1344778e508bba271d176c4a92adc82940cf825d )
+	rom ( name BLOCK8 size 906 crc 8e3f5f07 md5 5281aff2071efbcb7f8d6e8cab63610e sha1 37dec6bb392744a1975fc835be1be4a89d651a54 )
+	rom ( name BLOCK9 size 898 crc eed174ed md5 281e4e7a5be06a088ccb1afb01dbd11e sha1 f65c163eda90c482be5d9fe671e9c37aed6dfe92 )
+	rom ( name MESSAGES size 5369 crc 0a0b4221 md5 34c64b75ac26b8cba94f32f739ad5fb6 sha1 7cc30ce6aa37d533bd509e4da88fa7c0d3e64382 )
+	rom ( name MYSTERY.HELLO size 836 crc 1b8d0309 md5 2289b7fea300b506e902a4c597968369 sha1 7372674a7011be913fa28f590ecc27ddfeb95b6c )
 )
 
 game (
 	name hires1-apple2-1
-	description "Hi-Res Adventure #1: Mystery House (Apple II)[DSK]"
+	description "Hi-Res Adventure #1: Mystery House (Apple II)[Public Domain][dsk][!]"
 	year 1980
 	manufacturer "Sierra On-Line"
 	sourcefile adl
-	rom ( name MYSTHOUS.DSK size 143360 crc 4b0017cc md5 7290a9e90291c37e8dce54f1b8d74a37 )
+	rom ( name mysthous.dsk size 143360 crc 4b0017cc md5 7290a9e90291c37e8dce54f1b8d74a37 sha1 cb42a6981544210cb88477c7e502f305696fd0b3 )
 )
 
 game (
 	name hires2-apple2
-	description "Hi-Res Adventure #2: Wizard and the Princess (Apple II)"
+	description "Hi-Res Adventure #2: Wizard and the Princess {Adventure in Serenia}(Apple II)[Green Valley B][dsk][!]"
 	year 1980
 	manufacturer "Sierra On-Line"
 	sourcefile adl
-	rom ( name WIZARD.DSK size 143360 crc 035128ff md5 9d22d0788838fac08c219d5c00701b38 )
+	rom ( name wizard.dsk size 143360 crc 035128ff md5 9d22d0788838fac08c219d5c00701b38 sha1 16aefb490d9824d2e5da3e18a0bfa82e5e137f64 )
+)
+
+game (
+	name hires3-apple2
+	description "Hi-Res Adventure #3: Cranston Manor (Apple II)[woz]"
+	year 1981
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name cranston.woz size 234780 crc 2ec631b9 md5 14eaf619c453cef19fd54a15508c5b60 sha1 029ec6088d47359df246b1cc994966b1106883e8 )
+)
+
+game (
+	name hires4-apple2
+	description "Hi-Res Adventure #4: Ulysses and the Golden Fleece (Apple II)[dsk]"
+	year 1982
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name ulyssesa.dsk size 143360 crc 0506efc8 md5 37bfdfff8f817179820994ca23910f85 sha1 22b9b1ffbeeb0a8377c58c67530c1b5e1d625cfc )
+	rom ( name ulyssesb.dsk size 143360 crc 3fc83c7f md5 d924eaf9ba3c11ccee52562bf57025d6 sha1 78b50cc5acb57fec58900426b6bd2b0b87b3b2a6 )
 )
 
 game (
@@ -80,20 +93,64 @@ game (
 	year 1982
 	manufacturer "Sierra On-Line"
 	sourcefile adl
-	rom ( name ULYS1A.XFD size 92160 crc 922f54d8 md5 dd99cbbe4a793069fb4e9f405c339f28 )
-	rom ( name ULYS1B.XFD size 92160 crc 33d58356 md5 52e83ff4dcf0c0a229c50152cef01c30 )
-	rom ( name ULYS2C.XFD size 92160 crc 498eb6d5 md5 ce3de2f0a667275769ea4d99640e5485 )
+	rom ( name ulys1a.xfd size 92160 crc 922f54d8 md5 dd99cbbe4a793069fb4e9f405c339f28 sha1 3432c201376486465f9a814afe4f47908d116a40 )
+	rom ( name ulys1b.xfd size 92160 crc 33d58356 md5 52e83ff4dcf0c0a229c50152cef01c30 sha1 10f5650ae8a8f90f6c3e631eb269f28a5e29f010 )
+	rom ( name ulys2c.xfd size 92160 crc 498eb6d5 md5 ce3de2f0a667275769ea4d99640e5485 sha1 623e8c3838ba9f612b45976b47d542f0ec5d1f54 )
+)
+
+game (
+	name hires5-apple2
+	description "Hi-Res Adventure #5: Time Zone (Apple II)[nib][!]"
+	year 1982
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name tzone1a.nib size 232960 crc d085376a md5 26c114f262267516641c477adc2788a1 sha1 4115c9aa891a8679313c3583d255ffb30f3af2cf )
+	rom ( name tzone1b.nib size 232960 crc ebd6f2fb md5 69f5d448a098e1e698b19cd6ef704d2b sha1 36d65be2164f89c9cdeba66a936c33698d124bdc )
+	rom ( name tzone2c.nib size 232960 crc 8cc2e2a0 md5 68aa774d43bb070ea230a9df55362f0a sha1 1615b27d60d90f4225be3089c386109929f0eeac )
+	rom ( name tzone2d.nib size 232960 crc 0b257bb4 md5 9e28b4a258ce32d2763468c5259d4961 sha1 4c5552e66353e97f1704442a9049aca387914082 )
+	rom ( name tzone3e.nib size 232960 crc e379f4a9 md5 687ed5d028fbd6b55797a0012f7ecc60 sha1 982a639e8468d66756432ae0b8f5274ccf0bbb97 )
+	rom ( name tzone3f.nib size 232960 crc 385e5a8a md5 bd527b7e98a5a92c01590dde5fe7620c sha1 9f33584e9c1fa0b11b6f894f4501e9243f8d2d25 )
+	rom ( name tzone4g.nib size 232960 crc a2990ae8 md5 003a55e85fa8fb44efa59fdfc99ac0dc sha1 14ac84c367f88080c242fd0481f552a93559e243 )
+	rom ( name tzone4h.nib size 232960 crc 9db8ce71 md5 4de00e4978db49b1c543815a70c8e11f sha1 f0d2c040a58fdbc2f6aeb9a2e084c491f59614a0 )
+	rom ( name tzone5i.nib size 232960 crc d2086a2a md5 d35d81e9ac0f0230c47c1c441695eb28 sha1 6cef0c243b96080d20e5968694a7931fc8df01dd )
+	rom ( name tzone5j.nib size 232960 crc f1f49e29 md5 a6bd7957baad0fb3c97af850599fb6eb sha1 15380a2ed07847b92e2afda81f3b832333a7148e )
+	rom ( name tzone6k.nib size 232960 crc f2653fd0 md5 7efebfd36b9cf2f91d213b02839596a5 sha1 152421815a9c6b4e334ee3a74bdfe73200085d50 )
+	rom ( name tzone6l.nib size 232960 crc 12655bc4 md5 d210987f239c1ed41318376996c24101 sha1 d0013a6c32cfca727dd874d45fd292d12e1995ff )
 )
 
 game (
 	name hires6-apple2
-	description "Hi-Res Adventure #6: The Dark Crystal (Apple II)"
+	description "Hi-Res Adventure #6: The Dark Crystal {Gelfling Adventure}(Apple II)[SierraVenture A][nib][!]"
 	year 1983
 	manufacturer "Sierra On-Line"
 	sourcefile adl
-	rom ( name DARK1A.DSK size 143360 crc 75615733 md5 908d77c371c8354e99851f9329738ebc )
-	rom ( name DARK1B.NIB size 232960 crc f3c555ca md5 e79844552c5101ce1380f10bff89ecd8 )
-	rom ( name DARK2A.NIB size 232960 crc a742adf5 md5 2ca8746ef54e91ecb1e1394d98edbf98 )
-	rom ( name DARK2B.NIB size 232960 crc 9a930d22 md5 9e4ea38f59174b0ba77d15443b8ff811 )
+	rom ( name dark1a.dsk size 143360 crc 75615733 md5 908d77c371c8354e99851f9329738ebc sha1 6aaae365fb22984f48ea8cf19e4aed8af1c842c5 )
+	rom ( name dark1b.nib size 232960 crc f3c555ca md5 e79844552c5101ce1380f10bff89ecd8 sha1 74ac1636f3d9e5715b3de5ef1c31e3c34f9d7bf3 )
+	rom ( name dark2a.nib size 232960 crc a742adf5 md5 2ca8746ef54e91ecb1e1394d98edbf98 sha1 5440aef7b29fb5b1616931be2b634d116d6575a0 )
+	rom ( name dark2b.nib size 232960 crc 9a930d22 md5 9e4ea38f59174b0ba77d15443b8ff811 sha1 4cd1312cc95d865aaa6691afb0159d4f73290820 )
+)
+
+game (
+	name hires6-apple2-1
+	description "Hi-Res Adventure #6: The Dark Crystal {Gelfling Adventure}(Apple II)[SierraVenture A][dsk]"
+	year 1983
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name dark1a.dsk size 143360 crc 75615733 md5 908d77c371c8354e99851f9329738ebc sha1 6aaae365fb22984f48ea8cf19e4aed8af1c842c5 )
+	rom ( name dark1b.dsk size 143360 crc 7b56fa0b md5 543437efe1216893430f539d280d204b sha1 1f459fb306c1ee92b79d773364943effe1383341 )
+	rom ( name dark2a.dsk size 143360 crc b4c2c027 md5 b4f3d10dc5d32be57ee7a460980bcc5b sha1 13eedd30cca4ceafac158480e3f80d95aa9911a6 )
+	rom ( name dark2b.dsk size 143360 crc e3d2ab6c md5 55eb6c7f5e29d00da076879878fcdf3f sha1 733677ffb2b6fefb9fd22a7f8d5934b56f2533e6 )
+)
+
+game (
+	name hires6-apple2-2
+	description "Hi-Res Adventure #6: The Dark Crystal {Gelfling Adventure}(Apple II)[SierraVenture A][woz]"
+	year 1983
+	manufacturer "Sierra On-Line"
+	sourcefile adl
+	rom ( name dark1a.woz size 233216 crc 2bb004c1 md5 c6fe1722c95bd12562dec0562b20616c sha1 aaa53f990410765d576907a400224ddbf909f302 )
+	rom ( name dark1b.woz size 233216 crc 78dbaa3c md5 b5eecd0b2b676dcfef90387378182df6 sha1 d051afd2a9ec5e8c7bcff5576c699172959683fa )
+	rom ( name dark2a.woz size 233216 crc bdcfbfb7 md5 f07b89e7c9f39eaa4ef678f7ba3f5977 sha1 928d1952b75a401e8b47d4100bd2e1265b114cc2 )
+	rom ( name dark2b.woz size 233216 crc c8e8b3de md5 343999b76dd48a8a009ad26f7d95d5a4 sha1 a91c7b02f4fbdbb0ede9058abffd9c78b1acd780 )
 )
 

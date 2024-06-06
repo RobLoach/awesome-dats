@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - DVD - Coverdiscs</name>
+		<description>IBM PC Compatibles - DVD - Coverdiscs (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="APC - Issue 395 (2013-11)(Future Publishing)(AU)[!]">
+		<description>APC - Issue 395 (2013-11)(Future Publishing)(AU)[!]</description>
+		<rom name="APC - Issue 395 (2013-11)(Future Publishing)(AU)[!].iso" size="3065511936" crc="bdbb3f2f" md5="c4353700b065e71298417e9a6e194f16" sha1="2d509985d47879f081f5ee0eceb81e8f752ddd12"/>
+	</game>
+	<game name="APC - Vol 27 No 08 (2007-08)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 08 (2007-08)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 08 (2007-08)(ACP Magazines)(AU).iso" size="4024631296" crc="7052b0b9" md5="1ee5b36e70c33de31395bd1e46bd1cae" sha1="a62ebf990bf6b74f3418d0b941688844757c5eb5"/>
+	</game>
+	<game name="APC - Vol 28 No 01 (2008-01)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 01 (2008-01)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 01 (2008-01)(ACP Magazines)(AU).iso" size="4554588160" crc="a49bc467" md5="fc8dc0b6156f821e8fc817684c925d43" sha1="2d39767cfca8cdf05f78ccba74130a281e1a69f3"/>
+	</game>
+	<game name="APC - Vol 28 No 07 (2008-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 07 (2008-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 07 (2008-07)(ACP Magazines)(AU).iso" size="2932080640" crc="5d3968de" md5="db92aa411b5a42852284ee941252ec69" sha1="5bc956238e8c94770e104c4fb5f501b54f09b5f4"/>
+	</game>
+	<game name="APC - Vol 29 No 07 (2009-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 07 (2009-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 07 (2009-07)(ACP Magazines)(AU).iso" size="4636770304" crc="187940de" md5="fc47c8b294b5eeabae19ee04b95851ca" sha1="4563c91d6343bccfd7a8ba736f2502952a676ca0"/>
+	</game>
+	<game name="APC - Vol 29 No 09 (2009-09)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 09 (2009-09)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 09 (2009-09)(ACP Magazines)(AU).iso" size="4532109312" crc="92c16e36" md5="5828d9679b8bbb3ccdff9e2e7373b332" sha1="ab647f01fe7cb67a80d8a657bbcbbaa25a1aa961"/>
+	</game>
+	<game name="APC - Vol 32 No 09 (2012-09)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 09 (2012-09)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 09 (2012-09)(ACP Magazines)(AU).iso" size="4136140800" crc="0dcece3b" md5="72fe1257785a894f9fe2ff28aef3661e" sha1="52a05705ebd5de33ecb18c0062c06be98eb18f34"/>
+	</game>
+	<game name="APC - Vol 32 No 10 (2012-10)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 10 (2012-10)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 10 (2012-10)(ACP Magazines)(AU).iso" size="4687190016" crc="6c5a105b" md5="cf16a0378aa700c1923b5ec02358f6be" sha1="88a993c00c64381f5a5165377801ae5ffb6093d7"/>
+	</game>
+	<game name="APC - Vol 32 No 11 (2012-11)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 11 (2012-11)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 11 (2012-11)(ACP Magazines)(AU).iso" size="2898421760" crc="7514d3f6" md5="61bfcefce571e5ad09bfe0967ca03cc6" sha1="6ed6219f6a15446b3f20c98285a1ba8562bbfd45"/>
+	</game>
+	<game name="APC - Vol 32 No 12 (2012-12)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 12 (2012-12)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 12 (2012-12)(ACP Magazines)(AU).iso" size="4330362880" crc="8d45eb62" md5="65e5e658b5f50f7daefe9e4c7ce23cc9" sha1="01287ec5d5fe8eb2539c309e88489ec00e5bbafb"/>
+	</game>
+	<game name="APC - Vol 33 No 01 (2013-01)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 01 (2013-01)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 01 (2013-01)(ACP Magazines)(AU).iso" size="4555931648" crc="4295917a" md5="fe0b94cd0317981f407ff02dfffc3721" sha1="d70e49a1763768f8bce426f5d332654a9800aa2f"/>
+	</game>
+	<game name="APC - Vol 33 No 03 (2013-03)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 03 (2013-03)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 03 (2013-03)(ACP Magazines)(AU).iso" size="2859270144" crc="a28f2054" md5="611244664b68ed92c38412c5596473dd" sha1="d3f1cce5c0f4460b9ec76d363331f916a076b07c"/>
+	</game>
+	<game name="APC - Vol 33 No 04 (2013-04)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 04 (2013-04)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 04 (2013-04)(ACP Magazines)(AU).iso" size="4589748224" crc="99b2aae4" md5="aff51bf33cea768629acea21714e911e" sha1="ab147c111637d748ea60180108f38687eac5c72e"/>
+	</game>
+	<game name="Australian PC User - Volume 18 Number 06 (2006-06)(APC Magazines)(AU)">
+		<description>Australian PC User - Volume 18 Number 06 (2006-06)(APC Magazines)(AU)</description>
+		<rom name="Australian PC User - Volume 18 Number 06 (2006-06)(APC Magazines)(AU).iso" size="4647616512" crc="d210139d" md5="43e1f95f4e88e9551beac83527031e32" sha1="13373a37c2ba35d15750852c60933b592baea228"/>
+	</game>
+	<game name="Australian PC User - Volume 21 Number 08 (2009-08)(APC Magazines)(AU)">
+		<description>Australian PC User - Volume 21 Number 08 (2009-08)(APC Magazines)(AU)</description>
+		<rom name="Australian PC User - Volume 21 Number 08 (2009-08)(APC Magazines)(AU).iso" size="4613079040" crc="64e666f1" md5="ec543e5aeaf2b4b245211d2251571772" sha1="316d65ee134d49da80acca5a99074fea8431cb0b"/>
+	</game>
+	<game name="Australian PC User - Volume 21 Number 12 (2009-12)(APC Magazines)(AU)">
+		<description>Australian PC User - Volume 21 Number 12 (2009-12)(APC Magazines)(AU)</description>
+		<rom name="Australian PC User - Volume 21 Number 12 (2009-12)(APC Magazines)(AU).iso" size="4677795840" crc="b6438cec" md5="b50b4f63ae6d59754e1e2ef6f396b353" sha1="304c43dd68d1a8d076cf4caa2171e9da2fb009d5"/>
+	</game>
+	<game name="Australian PC User - Volume 22 Number 01 (2010-01)(ACP Magazines)(AU)">
+		<description>Australian PC User - Volume 22 Number 01 (2010-01)(ACP Magazines)(AU)</description>
+		<rom name="Australian PC User - Volume 22 Number 01 (2010-01)(ACP Magazines)(AU).iso" size="4685463552" crc="bd14039f" md5="248ae5076879e5bc12035f73986bde22" sha1="cc21135bdbd4ea545b9e24d2f9786f9dadd9bd5f"/>
+	</game>
+	<game name="Australian PC World (2005-11)(IDG Communications)(AU)">
+		<description>Australian PC World (2005-11)(IDG Communications)(AU)</description>
+		<rom name="Australian PC World (2005-11)(IDG Communications)(AU).iso" size="4571922432" crc="e45a84f0" md5="02af205049779691efb9bda39a0e448c" sha1="913a1390041100e880f966d075736840210d0771"/>
+	</game>
+	<game name="Australian PC World (2006-08)(IDG Communications)(AU)">
+		<description>Australian PC World (2006-08)(IDG Communications)(AU)</description>
+		<rom name="Australian PC World (2006-08)(IDG Communications)(AU).iso" size="3986063360" crc="275b4e57" md5="0cc464ffa3e362cc09bf3fcb99a35656" sha1="de7378186567a24e1bc8de9f27905bda77072496"/>
+	</game>
+	<game name="Australian PC World (2006-11)(IDG Communications)(AU)">
+		<description>Australian PC World (2006-11)(IDG Communications)(AU)</description>
+		<rom name="Australian PC World (2006-11)(IDG Communications)(AU).iso" size="4488298496" crc="a46b67ac" md5="ae24c665e39e22d92798a4610ca37a37" sha1="c9b99d47035691164f1a0135b8d3a5060196eaba"/>
+	</game>
+	<game name="Australian PC World (2007-03)(IDG Communications)(AU)">
+		<description>Australian PC World (2007-03)(IDG Communications)(AU)</description>
+		<rom name="Australian PC World (2007-03)(IDG Communications)(AU).iso" size="2414903296" crc="ee3c6c87" md5="68ec34896c67a9d5a2425f7d3500e02e" sha1="e4cb9ba32fc51573cdcfcc05f4213a5f2bc0d463"/>
+	</game>
+	<game name="Australian PC World (2007-07)(IDG Communications)(AU)">
+		<description>Australian PC World (2007-07)(IDG Communications)(AU)</description>
+		<rom name="Australian PC World (2007-07)(IDG Communications)(AU).iso" size="3880779776" crc="8beadde5" md5="6a9a381740f7074c8fda78bcb070b536" sha1="5033d76f8f0c104776b8b04f6b5b0d1a142b800e"/>
+	</game>
+	<game name="Australian PC World (2007-09)(IDG Communications)(AU)">
+		<description>Australian PC World (2007-09)(IDG Communications)(AU)</description>
+		<rom name="Australian PC World (2007-09)(IDG Communications)(AU).iso" size="3454894080" crc="6cc98af2" md5="55dde3933bbe1e2a17acc8b3e4c17ce4" sha1="f07874438fab59241e38aa073f0a050bc38fff7f"/>
+	</game>
+	<game name="Australian PC World (2007-11)(IDG Communications)(AU)">
+		<description>Australian PC World (2007-11)(IDG Communications)(AU)</description>
+		<rom name="Australian PC World (2007-11)(IDG Communications)(AU).iso" size="4142202880" crc="31a1c5d3" md5="e5bec34f33a7c42c9062c59fbe8b44db" sha1="298b30d6ac1f14fa30e7b3033f4f8b4fa5c05b2f"/>
+	</game>
+	<game name="PC &amp; Tech Authority - Issue 159 (2011-02)(Haymarket Media)(AU)">
+		<description>PC &amp; Tech Authority - Issue 159 (2011-02)(Haymarket Media)(AU)</description>
+		<rom name="PC &amp; Tech Authority - Issue 159 (2011-02)(Haymarket Media)(AU).iso" size="3367370752" crc="32efe348" md5="faeb6f4d63bbd98460383e47e2bdbe9c" sha1="eba3903458ea010c3863612ace3aab9c757218d1"/>
+	</game>
+	<game name="PC &amp; Tech Authority - Issue 162 (2011-05)(Haymarket Media)(AU)">
+		<description>PC &amp; Tech Authority - Issue 162 (2011-05)(Haymarket Media)(AU)</description>
+		<rom name="PC &amp; Tech Authority - Issue 162 (2011-05)(Haymarket Media)(AU).iso" size="3385851904" crc="e7bad4cc" md5="449af7469da150327cd70aeaff6c5a04" sha1="5dff4e5ac878492976621ded66be1c5b355d2ae5"/>
+	</game>
+	<game name="PC &amp; Tech Authority - Issue 164 (2011-07)(Haymarket Media)(AU)">
+		<description>PC &amp; Tech Authority - Issue 164 (2011-07)(Haymarket Media)(AU)</description>
+		<rom name="PC &amp; Tech Authority - Issue 164 (2011-07)(Haymarket Media)(AU).iso" size="4209836032" crc="c6eb569f" md5="54a2851d1d9f8c0b1cbbae10016ab5e5" sha1="40d155ef4783b1b242d4b36125eb6a233cde319a"/>
+	</game>
+	<game name="PC &amp; Tech Authority - Issue 222 (2016-05)(nextmedia)(AU)">
+		<description>PC &amp; Tech Authority - Issue 222 (2016-05)(nextmedia)(AU)</description>
+		<rom name="PC &amp; Tech Authority - Issue 222 (2016-05)(nextmedia)(AU).iso" size="4502159360" crc="63d5a29b" md5="d6108f1546132d8fbede1c029e6d23cb" sha1="7da7dc4f23741537c3ea2b65d7dfcf802d80ba39"/>
+	</game>
+	<game name="PC Authority - Issue 138 (2009-05)(Haymarket Media)(AU)">
+		<description>PC Authority - Issue 138 (2009-05)(Haymarket Media)(AU)</description>
+		<rom name="PC Authority - Issue 138 (2009-05)(Haymarket Media)(AU).iso" size="4247650304" crc="c97b85b3" md5="c5cc8fbaad71bfdf0187a7cfdbcb934e" sha1="fb9756fcf480e3ab1121a5b25cbf552c5f11bcfd"/>
+	</game>
+	<game name="PC Authority - Issue 139 (2009-06)(Haymarket Media)(AU)">
+		<description>PC Authority - Issue 139 (2009-06)(Haymarket Media)(AU)</description>
+		<rom name="PC Authority - Issue 139 (2009-06)(Haymarket Media)(AU).iso" size="4382654464" crc="dcdec16f" md5="4aabeade6dc0bc83bad7f97be48308c7" sha1="0b06c3298680e0876a0b331c6c9fd3b2dd8b1c5e"/>
+	</game>
+	<game name="PC Authority - Issue 140 (2009-07)(Haymarket Media)(AU)">
+		<description>PC Authority - Issue 140 (2009-07)(Haymarket Media)(AU)</description>
+		<rom name="PC Authority - Issue 140 (2009-07)(Haymarket Media)(AU).iso" size="4600037376" crc="409b1322" md5="dba1f0f04e6ec19e0c2eef8e4659222b" sha1="d5a7883ddda4801e72c5180b3142c9253f56bc97"/>
+	</game>
+	<game name="PC Format - Issue 106 (2000-03)(Future Publishing)(GB)">
+		<description>PC Format - Issue 106 (2000-03)(Future Publishing)(GB)</description>
+		<rom name="PC Format - Issue 106 (2000-03)(Future Publishing)(GB).iso" size="3611625472" crc="b8d504fe" md5="a45025b333d4028e7b5ec9f84c6ce80b" sha1="3f5bcc77d2b85287cdb9639243b8695b57ab7ef3"/>
+	</game>
+	<game name="PC Format - Issue 110 (2000-07)(Future Publishing)(GB)">
+		<description>PC Format - Issue 110 (2000-07)(Future Publishing)(GB)</description>
+		<rom name="PC Format - Issue 110 (2000-07)(Future Publishing)(GB).iso" size="2945505280" crc="7bd3bdf4" md5="715989965833d3dd0ab8506964c5769d" sha1="f86b955176a035e1cdc1485c715313994bcb8e7f"/>
+	</game>
+	<game name="PC Format - Issue 118 (2001-01)(Future Publishing)(GB)">
+		<description>PC Format - Issue 118 (2001-01)(Future Publishing)(GB)</description>
+		<rom name="PC Format - Issue 118 (2001-01)(Future Publishing)(GB).iso" size="4534591488" crc="b51a07e6" md5="537727e3f66957c625d2e64ff6623fe4" sha1="9a676636e5009c749492b56d272d33dcb83c470e"/>
+	</game>
+	<game name="PC Format - Issue 128 (2001-11)(Future Publishing)(GB)">
+		<description>PC Format - Issue 128 (2001-11)(Future Publishing)(GB)</description>
+		<rom name="PC Format - Issue 128 (2001-11)(Future Publishing)(GB).iso" size="4610588672" crc="0b616279" md5="4f4a6a897f4f35d6d4fcf1419977dcc7" sha1="8186e848611e95c09e49f1ea248fc6b8ec8de07d"/>
+	</game>
+	<game name="PC Home - Issue 104 (2000)(Paragon Publishing)(GB)">
+		<description>PC Home - Issue 104 (2000)(Paragon Publishing)(GB)</description>
+		<rom name="PC Home - Issue 104 (2000)(Paragon Publishing)(GB).iso" size="1964212224" crc="3d828f00" md5="801370a7802551ec047919658a562f9d" sha1="26198cf2078baefec13cb044e9fe2acaa45726d9"/>
+	</game>
+	<game name="PC Plus - Issue 164 (2000-06)(Future Publishing)(GB)(Disc 1 of 2)">
+		<description>PC Plus - Issue 164 (2000-06)(Future Publishing)(GB)(Disc 1 of 2)</description>
+		<rom name="PC Plus - Issue 164 (2000-06)(Future Publishing)(GB)(Disc 1 of 2).iso" size="1929957376" crc="eeaae283" md5="842fa901175e6e371e2cbde375906c9c" sha1="19e2348ced8e502359b1cfc8c4362dc268134add"/>
+	</game>
+	<game name="PC Plus - Issue 164 (2000-06)(Future Publishing)(GB)(Disc 2 of 2)">
+		<description>PC Plus - Issue 164 (2000-06)(Future Publishing)(GB)(Disc 2 of 2)</description>
+		<rom name="PC Plus - Issue 164 (2000-06)(Future Publishing)(GB)(Disc 2 of 2).iso" size="2964477952" crc="08ef8da4" md5="6d15a93942db7f40c1c5e833f2a62522" sha1="e8406c283603d8922c57646cf52473342f4c20de"/>
+	</game>
+	<game name="PC Powerplay Unnoficial Game Guide to Half Life 2 (2005)(Next Publishing)(AU)">
+		<description>PC Powerplay Unnoficial Game Guide to Half Life 2 (2005)(Next Publishing)(AU)</description>
+		<rom name="PC Powerplay Unnoficial Game Guide to Half Life 2 (2005)(Next Publishing)(AU).iso" size="4490997760" crc="864c3836" md5="0e5d7a696d24b8896b20378247fcde89" sha1="c15dbcaa4bbc6408f72bcca0d1e68d9d2c495d9a"/>
+	</game>
+	<game name="Tech Life - Issue 004 (2012-10)(ACP Magazines)(AU)">
+		<description>Tech Life - Issue 004 (2012-10)(ACP Magazines)(AU)</description>
+		<rom name="Tech Life - Issue 004 (2012-10)(ACP Magazines)(AU).iso" size="3336863744" crc="8456a909" md5="6b0aae0480df1dd1429617c2ecc14b56" sha1="857c3261c2bdfd75ee4a5387956034556058b380"/>
+	</game>
+	<game name="Tech Life - Issue 005 (2012-11)(ACP Magazines)(AU)">
+		<description>Tech Life - Issue 005 (2012-11)(ACP Magazines)(AU)</description>
+		<rom name="Tech Life - Issue 005 (2012-11)(ACP Magazines)(AU).iso" size="3949387776" crc="42971b09" md5="144160c00a7afc9b84589b0b14202a1c" sha1="a660dfe11da2fa604539af649029562a277c390b"/>
+	</game>
+	<game name="Tech Life - Issue 009 (2013-03)(ACP Magazines)(AU)">
+		<description>Tech Life - Issue 009 (2013-03)(ACP Magazines)(AU)</description>
+		<rom name="Tech Life - Issue 009 (2013-03)(ACP Magazines)(AU).iso" size="4610916352" crc="0fbb4795" md5="9ed16e4bf793e1542e7f1e827dcb910b" sha1="2d370a132f96bc2e1027f2f640aa312bf1f2f709"/>
+	</game>
+	<game name="Tech Life - Issue 011 (2013-05)(Future Publishing)(AU)">
+		<description>Tech Life - Issue 011 (2013-05)(Future Publishing)(AU)</description>
+		<rom name="Tech Life - Issue 011 (2013-05)(Future Publishing)(AU).iso" size="1124794368" crc="257450c7" md5="14310ede9bc318bf0c0a7e29eb2de86b" sha1="5db838469a7ed0205b90d5bf0375616eba5bc5a1"/>
+	</game>
+	<game name="Tech Life - Issue 013 (2013-07)(Future Publishing)(AU)">
+		<description>Tech Life - Issue 013 (2013-07)(Future Publishing)(AU)</description>
+		<rom name="Tech Life - Issue 013 (2013-07)(Future Publishing)(AU).iso" size="1757020160" crc="54cf82f9" md5="7a53b857317b61a6b881b10319c56370" sha1="7b029ff2fe18e68ae0330bc88a2a6f31cfdb65d1"/>
+	</game>
+	<game name="Ultimate Guides - Windows 7 Release Candidate (2009)(Derwent Howard)(AU)">
+		<description>Ultimate Guides - Windows 7 Release Candidate (2009)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Guides - Windows 7 Release Candidate (2009)(Derwent Howard)(AU).iso" size="2531295232" crc="bc290b0f" md5="5f75e0682693f8e2d2df126939785091" sha1="47fc273511d1fe7d86b745b740e8faafe7bff7b8"/>
+	</game>
+	<game name="Ultimate Shooter Collection, The - DVD Games Issue 07 (2003)(Next Publishing)(AU)">
+		<description>Ultimate Shooter Collection, The - DVD Games Issue 07 (2003)(Next Publishing)(AU)</description>
+		<rom name="Ultimate Shooter Collection, The - DVD Games Issue 07 (2003)(Next Publishing)(AU).iso" size="4442947584" crc="f5182b32" md5="038a7ec9abc70bddf3308ba9894fdc22" sha1="88bece74f097d3afc05adeca57509c145c5d0604"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 31 (2009-08)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 31 (2009-08)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 31 (2009-08)(Future Publishing)(AU).iso" size="2289989632" crc="9147452c" md5="65c4aebc0e6f2cfcda94e705d8034afc" sha1="a88bc8763c0295f21dbdf77a8f023ee908a5aa5f"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 32 (2009-09)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 32 (2009-09)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 32 (2009-09)(Future Publishing)(AU).iso" size="4349679616" crc="fd11bf99" md5="a66d15878a259103c57f40c1e06ab6de" sha1="ef9be5ded0213ceb3762011c313804c4c8429301"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 33 (2009-10)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 33 (2009-10)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 33 (2009-10)(Future Publishing)(AU).iso" size="3764582400" crc="d7611b01" md5="53c95d8c16db906a32aa5c771d2a7758" sha1="e27e3a09835bbd63166e4a43d86d374c7c5f0854"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 34 (2009)(Future Publishing)(AU)[spring edition]">
+		<description>Windows The Official Magazine - Issue 34 (2009)(Future Publishing)(AU)[spring edition]</description>
+		<rom name="Windows The Official Magazine - Issue 34 (2009)(Future Publishing)(AU)[spring edition].iso" size="4251811840" crc="67f37d4c" md5="a5b9ea0805d49a5f588f54db095044aa" sha1="25c4425a162d12e04a3f4fcf630f4f9335c0c22f"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 35 (2009-11)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 35 (2009-11)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 35 (2009-11)(Future Publishing)(AU).iso" size="3871965184" crc="b0f939e7" md5="fe1f5dfbbebc830ffd00d66cc510de30" sha1="d471d054856fde76f644b5ba208a3497abe16f70"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 36 (2009-12)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 36 (2009-12)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 36 (2009-12)(Future Publishing)(AU).iso" size="2871099392" crc="723b9063" md5="6c80980b587139ab32b6bd0eded25153" sha1="d2b85df7499eeb2610fba4c8a82c5cd762454533"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 37 (2010-01)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 37 (2010-01)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 37 (2010-01)(Future Publishing)(AU).iso" size="4107370496" crc="f189f59f" md5="b1313e16e79fb530427f576c092a9133" sha1="192d6ed5173d79371773c1dd58ff8812426053a4"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 38 (2010-02)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 38 (2010-02)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 38 (2010-02)(Future Publishing)(AU).iso" size="2307457024" crc="13c09c81" md5="d42f7bea43efa42cf60bc92ecdeb7290" sha1="3542658fb27a96f26a84d787836cd428571606f0"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 39 (2010-03)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 39 (2010-03)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 39 (2010-03)(Future Publishing)(AU).iso" size="2047770624" crc="9710b02f" md5="708e279363168ef71e75c27095f0bcdb" sha1="abca87ffb2ef22b329d6247546fd661fdada87ad"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 41 (2010-05)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 41 (2010-05)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 41 (2010-05)(Future Publishing)(AU).iso" size="3668156416" crc="c609bd8c" md5="e9e28c0dee9077d66075fbac74996862" sha1="b7adfa6a459d0227c58c1108d21637ac054051df"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 44 (2010-08)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 44 (2010-08)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 44 (2010-08)(Future Publishing)(AU).iso" size="3000270848" crc="cd4b37cb" md5="df8bfb51069411cf251e037c076b063e" sha1="45e9327b464fec99a4ee9c38e46c36310705d74d"/>
+	</game>
+	<game name="Windows The Official Magazine - Issue 45 (2010-09)(Future Publishing)(AU)">
+		<description>Windows The Official Magazine - Issue 45 (2010-09)(Future Publishing)(AU)</description>
+		<rom name="Windows The Official Magazine - Issue 45 (2010-09)(Future Publishing)(AU).iso" size="3197698048" crc="b0d17d43" md5="f50617b80b7908873102c09a54284e7b" sha1="c0d5a9ad9f6da9c9c780c0c63081c3670b0c32cd"/>
+	</game>
+	<game name="Windows Vista The Official Magazine - Issue 22 (2008-11)(Future Publishing)(AU)">
+		<description>Windows Vista The Official Magazine - Issue 22 (2008-11)(Future Publishing)(AU)</description>
+		<rom name="Windows Vista The Official Magazine - Issue 22 (2008-11)(Future Publishing)(AU).iso" size="2036072448" crc="72f5a433" md5="f3e5474ead36f420edf4cc731df36415" sha1="a01b4e1b522e78f8704554e8c75949b213aa43fd"/>
+	</game>
+	<game name="Windows Vista The Official Magazine - Issue 23 (2008-12)(Future Publishing)(AU)">
+		<description>Windows Vista The Official Magazine - Issue 23 (2008-12)(Future Publishing)(AU)</description>
+		<rom name="Windows Vista The Official Magazine - Issue 23 (2008-12)(Future Publishing)(AU).iso" size="3416031232" crc="81020741" md5="6e2e42201468eca634a7d76e1d49b2a8" sha1="2e8b63b8828eea0f73834b9e87e1e6e45b0f5a36"/>
+	</game>
+	<game name="Windows Vista The Official Magazine - Issue 27 (2009-02)(Future Publishing)(AU)">
+		<description>Windows Vista The Official Magazine - Issue 27 (2009-02)(Future Publishing)(AU)</description>
+		<rom name="Windows Vista The Official Magazine - Issue 27 (2009-02)(Future Publishing)(AU).iso" size="2908291072" crc="12c7813e" md5="4c9e4647dcfa59497391143f5a22559c" sha1="a5be7385641d093e955f89e91657a5dd3b72f4f4"/>
+	</game>
+	<game name="Windows Vista The Official Magazine - Issue 28 (2009-03)(Future Publishing)(AU)">
+		<description>Windows Vista The Official Magazine - Issue 28 (2009-03)(Future Publishing)(AU)</description>
+		<rom name="Windows Vista The Official Magazine - Issue 28 (2009-03)(Future Publishing)(AU).iso" size="4242864128" crc="b3414378" md5="2db412871faf83e7dc32def001004581" sha1="4e35742f8fae7bbd4ae15499d5c9d6b0011e9144"/>
+	</game>
+	<game name="Windows Vista The Official Magazine - Issue 30 (2009-05)(Future Publishing)(AU)">
+		<description>Windows Vista The Official Magazine - Issue 30 (2009-05)(Future Publishing)(AU)</description>
+		<rom name="Windows Vista The Official Magazine - Issue 30 (2009-05)(Future Publishing)(AU).iso" size="2687117312" crc="b614c370" md5="cd9110d39590fcf2157b022ed5c201c1" sha1="8ea8954ef47fbccc0b81a1479834e34844a425e8"/>
+	</game>
+</datafile>

@@ -1,0 +1,148 @@
+clrmamepro (
+	name "ScummVM HDB"
+	description "ScummVM - HDB Engine Games"
+	category "ScummVM"
+	version v1.01
+	date 2020-05-21
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name hdb-demo-linux
+	description "Hyperspace Delivery Boy! |Demo|(Linux)[!]"
+	year 2001
+	manufacturer "Monkeystone Games"
+	sourcefile hdb
+	rom ( name hyperdemo.mpc size 13816461 crc d00703c3 md5 b981c39c788943041cdf6dcbc55e7e5e sha1 67c06c8fad3957c852f5e6cdc13d513ab9cc7add )
+	rom ( name music\jaround.ogg size 668498 crc cf47176a md5 83cc5d83b2d0a5e3c7dddab84b4f29b9 sha1 36342f0131b60f18b27e5434860c0d8a4581876f )
+	rom ( name music\jungle.ogg size 48146 crc da97908f md5 02643b3d71f61a8ab824b1a36e07749e sha1 c07049de77367ae75f0f53c8b5c5ccb38bc60ea4 )
+	rom ( name music\low_techno.ogg size 419507 crc e3611fd4 md5 c58d841f1ce24e808d0a0094468e0e24 sha1 4897b0e77955cb1cd24d479f0de47f0c63005910 )
+	rom ( name music\mysterious_quiet.ogg size 625247 crc c03c079d md5 f62b08ffdfb2dd99b125e9ec942957a8 sha1 cd63dd590be55b321dbff1bfd2d6da3742b4462f )
+	rom ( name music\on_a_mission.ogg size 476661 crc 41da7fd2 md5 c942a75b6a40f4f13614a6ac030820c7 sha1 8c98d449960cccb9ac8ecf5436d8e662a6db3c72 )
+)
+
+game (
+	name hdb-demo-ppc
+	description "Hyperspace Delivery Boy! |Demo|(PocketPC)[!]"
+	year 2001
+	manufacturer "Monkeystone Games"
+	sourcefile hdb
+	rom ( name hyperdemo.msd size 3088651 crc 4ddb0f4e md5 221b562670ed6220df54cc4a647e2830 sha1 ee6f08024f2fc82829b659b3a60e561c1ff09b2f )
+	rom ( name music\jungle.mp3 size 24764 crc 648cb42c md5 94fcdd329df93e93dc11cdd9bbf34771 sha1 6541758c93511a19e83d2084ab9655abe1acdf46 )
+	rom ( name music\low_techno.mp3 size 96705 crc 8bc340c4 md5 09d6fe4b9406308205d4511b649aa14e sha1 050977276a43e235813b186cb0b8e6367bbd66a3 )
+	rom ( name music\mysterious_quiet.mp3 size 115983 crc 7aacf0f9 md5 7586d7611da7df21b28d92e38b8411b4 sha1 0b50c4ee381c7d7f423439373344081602b3f03a )
+	rom ( name music\on_a_mission.mp3 size 144823 crc 85b187ae md5 7db2405d50915b47680485b990fd7523 sha1 9a3541d73135f90131dc7e7077cd1c796d252660 )
+	rom ( name music\vibracious.mp3 size 144823 crc 416eb227 md5 51c45e49e2051317b74b3023ab0c4830 sha1 13bce055caf287757606948d5580db3fb0fffeb9 )
+)
+
+game (
+	name hdb-demo-ppc-1
+	description "Hyperspace Delivery Boy! |Demo|(PocketPC)[Handango][!]"
+	year 2001
+	manufacturer "Monkeystone Games"
+	sourcefile hdb
+	rom ( name hyperdemo.msd size 3094241 crc f04c5939 md5 a6964df7e6763544cc77d3e538a0c8c4 sha1 70db75637d83d390dc5b59e662c088e17387d7a0 )
+	rom ( name music\jungle.mp3 size 24764 crc 648cb42c md5 94fcdd329df93e93dc11cdd9bbf34771 sha1 6541758c93511a19e83d2084ab9655abe1acdf46 )
+	rom ( name music\low_techno.mp3 size 96705 crc 8bc340c4 md5 09d6fe4b9406308205d4511b649aa14e sha1 050977276a43e235813b186cb0b8e6367bbd66a3 )
+	rom ( name music\mysterious_quiet.mp3 size 115983 crc 7aacf0f9 md5 7586d7611da7df21b28d92e38b8411b4 sha1 0b50c4ee381c7d7f423439373344081602b3f03a )
+	rom ( name music\on_a_mission.mp3 size 144823 crc 85b187ae md5 7db2405d50915b47680485b990fd7523 sha1 9a3541d73135f90131dc7e7077cd1c796d252660 )
+	rom ( name music\vibracious.mp3 size 144823 crc 416eb227 md5 51c45e49e2051317b74b3023ab0c4830 sha1 13bce055caf287757606948d5580db3fb0fffeb9 )
+)
+
+game (
+	name hdb-demo-win
+	description "Hyperspace Delivery Boy! |Demo|(Windows)[!]"
+	year 2001
+	manufacturer "Monkeystone Games"
+	sourcefile hdb
+	rom ( name hyperdemo.mpc size 13906865 crc a0950677 md5 40cd006beaf00e852faee86fcaa90e4b sha1 8256aef03f83e3b72a27296f0ab5c00d5ba7d500 )
+	rom ( name music\jaround.mp3 size 583856 crc 2818b57f md5 f7ecc301dca595a077c6bb19aeec968b sha1 ffe15b2ce358cf1be6d8b8383c79adbe160dd97f )
+	rom ( name music\jungle.mp3 size 39306 crc d4cacb5a md5 a98b9d632a398b0ab3b47e391980d219 sha1 9bf8fba29302adb3ede12a71f9533d0de72fe343 )
+	rom ( name music\mysterious_quiet.mp3 size 565898 crc 388df52b md5 8d05e660fd939ed46800826eef4e979f sha1 f1aedb3db7ca7fa35c076c3ea8bc1b08afe39a42 )
+	rom ( name music\on_a_mission.mp3 size 405305 crc 73d96302 md5 dc5e3b21421e6ae17f55d81fc71d517d sha1 8e3f9c2d40e7413690e0322ef330f19a7a6c465c )
+)
+
+game (
+	name hdb-linux
+	description "Hyperspace Delivery Boy! (Linux)[!]"
+	year 2001
+	manufacturer "Monkeystone Games"
+	sourcefile hdb
+	rom ( name hyperspace.mpc size 45645305 crc 94978cc0 md5 82fcc784e296cd12db0c50590f448976 sha1 966ef6adeb1f63fc67257b757c5a924f483c1161 )
+	rom ( name music\amb_walkin_basso.ogg size 464927 crc 3a762a4d md5 b839e0aa4df4df17f3db10f57b5dfbb1 sha1 461e435c8e4202ceb538e36ad82d902e79e0f7dd )
+	rom ( name music\ambient_mexi_howl.ogg size 551630 crc 354be560 md5 295fec11b7fd5502d495ea32da5fc9db sha1 12d08e6f64b5a4f1f6406267ef1ad418b859faec )
+	rom ( name music\AreWeThereYet_(extended).ogg size 916104 crc d018a4bb md5 45da3e098f5b923ab420fb914ad1021c sha1 1892d11d770925e11979518bd33a38fc9fba63af )
+	rom ( name music\corridor(extended).ogg size 1445207 crc b43acc8a md5 4e7d7e953b590fe251c2bd009500cf37 sha1 9cb018e7531abc967ebe539d95a259b714561024 )
+	rom ( name music\dangerous_wind.ogg size 534523 crc b6066900 md5 7aad5f524fc005a2e9f5bb1248605360 sha1 5b2ce6429728fc42b6982a1f4e8fad7e8afd7348 )
+	rom ( name music\experimentatus_(extended).ogg size 1179287 crc 9818f2c7 md5 d9af1efd7603f238e3583642597c406d sha1 55df21e25c84196d90f78fca102a90d58d39d213 )
+	rom ( name music\industro_hunch.ogg size 532261 crc ae778e80 md5 07caef7ee9f48d800ba28bba0ace855c sha1 78a5d0fb83b329331233593ba2cfda1f97b6b4ad )
+	rom ( name music\jaround.ogg size 668498 crc cf47176a md5 83cc5d83b2d0a5e3c7dddab84b4f29b9 sha1 36342f0131b60f18b27e5434860c0d8a4581876f )
+	rom ( name music\jeebies5b.ogg size 915025 crc 285841f2 md5 29022ae13c2633173eb63cd4583ee0e9 sha1 65de206fc9f93f6d6d77e68e863b83ea06e1e216 )
+	rom ( name music\jungle.ogg size 48146 crc da97908f md5 02643b3d71f61a8ab824b1a36e07749e sha1 c07049de77367ae75f0f53c8b5c5ccb38bc60ea4 )
+	rom ( name music\lost_my_sneakers.ogg size 693716 crc edfd13e8 md5 2367c31409459f2470080adf3b8d6d95 sha1 ec5a892e7a8773252f24b257529d27469226857a )
+	rom ( name music\low_techno.ogg size 419507 crc e3611fd4 md5 c58d841f1ce24e808d0a0094468e0e24 sha1 4897b0e77955cb1cd24d479f0de47f0c63005910 )
+	rom ( name music\moke_a_doke_doke.ogg size 560180 crc 5a3e1bcb md5 5d12d8915e82d6ca962f6289027cda39 sha1 e4918d9f3e78fcf93399efec883fa3c3de6c8234 )
+	rom ( name music\mysterious_quiet.ogg size 625247 crc c03c079d md5 f62b08ffdfb2dd99b125e9ec942957a8 sha1 cd63dd590be55b321dbff1bfd2d6da3742b4462f )
+	rom ( name music\on_a_mission.ogg size 476661 crc 41da7fd2 md5 c942a75b6a40f4f13614a6ac030820c7 sha1 8c98d449960cccb9ac8ecf5436d8e662a6db3c72 )
+	rom ( name music\romantic.ogg size 574619 crc 9db8be3e md5 5baef3f44c74887c4c4fb9a42fb023b5 sha1 e1bd96c5e28a9b28682330683a34d0a10d5e728a )
+	rom ( name music\tilesache(extended).ogg size 1854614 crc be201618 md5 348df9c6d5de9a7ea60fd997d44ae6b0 sha1 6985bbe76bb7ba63f6ef9a23a74e945aed045a13 )
+	rom ( name music\vibracious_(Dark_Delivery_Mix).ogg size 2871027 crc 7729e3e6 md5 c60d98abf1ebf856379ad3b91eb8aeea sha1 bb13fa80b67cdbd203c7260779af68483f6e14a4 )
+	rom ( name music\vibracious_(dope_delivery_mix).ogg size 1311492 crc e61ac666 md5 1ec5d2406d8cb38ec816b49b4eda3a5b sha1 0a81b727f4f82f25f4e0937a6112b9c130618428 )
+)
+
+game (
+	name hdb-ppc
+	description "Hyperspace Delivery Boy! (PocketPC)[!]"
+	year 2001
+	manufacturer "Monkeystone Games"
+	sourcefile hdb
+	rom ( name hyperspace.msd size 6825555 crc dd07ecca md5 c5026ad539f4606829b74b9b61cf766e sha1 16f4a91fcc2d988adf54ae08553455cb42f345c4 )
+	rom ( name music\amb_walkin_basso.mp3 size 48744 crc 22954dfc md5 b1e5b3c0008986da156c990f224982b5 sha1 f791ac92d352a906c65065d77aee39fbba1310cf )
+	rom ( name music\ambient_mexi_howl.mp3 size 96705 crc 44974f05 md5 6bc5baf75df9faafac184c118f5be281 sha1 8999131262da5bc90e9ba403a15d075d691bd2b3 )
+	rom ( name music\are_we_there_yet.mp3 size 144823 crc 5e7ecb46 md5 4adfc6b79dcc306c67c5d5bc95239ba7 sha1 7c18277445c7fca54f4494700cfdc11a6cb48b37 )
+	rom ( name music\dangerous_wind.mp3 size 144823 crc ee946a6f md5 ade18733035f9c0f2251ee61fdb02e41 sha1 f11e838d5e7a6750ce892f20423cc5dae33310cf )
+	rom ( name music\industro_hunch.mp3 size 96705 crc 2b3bd914 md5 9f16eb6f757c90ec966fc2e41114b3c1 sha1 f0f28675ea8cbc1b9730a1d2ae3c291d1e6a81b8 )
+	rom ( name music\jaround.mp3 size 144823 crc 9c1ee8be md5 0007e4b686fb8ac3a2a74491264d5a52 sha1 589e25803452edd1c80a04399002f96569b9d06f )
+	rom ( name music\jeebies.mp3 size 192783 crc fdf43884 md5 8ac2368b4f563737fa4bed9f6fdd8692 sha1 1bf6c066dc9f402436dd2955c094eb4460b074ec )
+	rom ( name music\jungle.mp3 size 24764 crc 648cb42c md5 94fcdd329df93e93dc11cdd9bbf34771 sha1 6541758c93511a19e83d2084ab9655abe1acdf46 )
+	rom ( name music\lost_my_sneakers.mp3 size 115983 crc 8d84fc11 md5 19e40b95b5b759333e67b9c578618247 sha1 9f1260898ac6305f59d90eebecf8c7ca1c5e50b6 )
+	rom ( name music\low_techno.mp3 size 96705 crc e4521963 md5 677888aceb91ccc809126368024b943c sha1 bd3b92295d814c12a3b26d8f1a301d5748cf194b )
+	rom ( name music\mysterious_quiet.mp3 size 96705 crc 52f7ac9f md5 27601cf0949437fa4fea93f63e30762e sha1 ace66696ad4ab54794067ebde4c3d26d855829b1 )
+	rom ( name music\on_a_mission.mp3 size 144823 crc e1f90bef md5 b42303987c2b7bd7fa57a5f44a809553 sha1 812437291bbc1316eca4f1cc41c2af43296b6b45 )
+	rom ( name music\romantic.mp3 size 144823 crc 1d634afd md5 c4615e8fb4829f1c1aa1ae4271cfe392 sha1 5198e711fd0b8fcb04e4f1a28cb5cffe90b41c7f )
+	rom ( name music\vibracious.mp3 size 144823 crc e641f68d md5 6ea1daaa2edb682d9520cb7519538195 sha1 7366dad7956aecb49877c598422a7cfe089bf116 )
+)
+
+game (
+	name hdb-win
+	description "Hyperspace Delivery Boy! (Windows)"
+	year 2001
+	manufacturer "Monkeystone Games"
+	sourcefile hdb
+	rom ( name DIVINE.ADF size 2218743 crc 78495b9e md5 44bb3638e7a428f2de102d0ce2e9f432 sha1 0a8c61b209658d16d24ae5f0695410058d71d45f )
+	rom ( name DIVINE.AFN size 40920 crc 5755ab65 md5 1c4ba3e28e3abd6fc3e1fd613c98bf7c sha1 809e8a57ff5d88f69e118762628bcd8365520cff )
+	rom ( name DIVINE.AIF size 24024 crc 0bc33415 md5 31e6d7838fb6136a4705137c9bff9831 sha1 790aa6ca63f80748d71c171d6f7635e5a7ff0b3c )
+	rom ( name hyperspace.mpc size 50339161 crc 988f728e md5 fa5a756024ff91ca405274c1aef13759 sha1 3e5316670833b38d62aac801f579096cd67f9da4 )
+	rom ( name music\amb_walkin_basso.mp3 size 419791 crc 0e412230 md5 55faa3df08ca2e06ffddb9950c31a2f4 sha1 a728e9249fc543e040ce2678fecbd3c5248aac41 )
+	rom ( name music\ambient_mexi_howl.mp3 size 440130 crc ccafc532 md5 4f5137646c75cdaabb5b2988b206dee5 sha1 31d5195a5673be5398acec93f58c1bfda8c4b4dc )
+	rom ( name music\AreWeThereYet_(extended).mp3 size 1409067 crc d591f3ca md5 40af9ec5e719abd4bafe05cb18c25c66 sha1 32c44f28e9217b9179d4fcdd1b4d620e766a9438 )
+	rom ( name music\corridor(extended).mp3 size 2145093 crc 7d0da6d1 md5 8dfc33871561f0386301a4313fd64b80 sha1 42550d495a2344a0a1f67953d9505284dd4ee36b )
+	rom ( name music\dangerous_wind.mp3 size 532532 crc ff75d66c md5 4a6c05f32b644f53b138791afc5fe695 sha1 34fc4100482580fbc16f352cbf281175d3d67222 )
+	rom ( name music\experimentatus_(extended).mp3 size 1536962 crc 5d4a54bb md5 02eb667e6efdb5b73ce9cf51567834da sha1 96ffd16901f6c51843b687e1c3c4e569160c8e6d )
+	rom ( name music\industro_hunch.mp3 size 460711 crc 616965da md5 16fd3fb435e04ad038781395e9cb6bf2 sha1 3704cd450fcf458b522303868d23eaacd4277238 )
+	rom ( name music\jaround.mp3 size 583856 crc 2818b57f md5 f7ecc301dca595a077c6bb19aeec968b sha1 ffe15b2ce358cf1be6d8b8383c79adbe160dd97f )
+	rom ( name music\jeebies5b.mp3 size 1317534 crc 8c94cdaf md5 b95452075eb935be24e2a3cd0b49242a sha1 0126c6ad7a4afee125b8d87a07c871c1d1d17572 )
+	rom ( name music\jungle.mp3 size 39434 crc 17eb2fa9 md5 f7b1cf76307cdaac71689f7989dde2d5 sha1 ac9dea849f1b6d83d26417a3616b0ff2eff43c87 )
+	rom ( name music\lost_my_sneakers.mp3 size 520459 crc c79fd39d md5 40804101c8e245152a414ddd0541d5b3 sha1 39138286804f6aaeb2bb5be7bccdaa017230e7ca )
+	rom ( name music\low_techno.mp3 size 388072 crc ae387582 md5 015cea63fb2ce98df74fb75409f4d182 sha1 aac58e63342d31bdcc67af2824816338f26d0fac )
+	rom ( name music\moke_a_doke_doke.mp3 size 471504 crc 11fcbdfd md5 4c9815524ead4683138c7ff578e40589 sha1 cf75ba38d44555a63366a6c8117fe59480b70758 )
+	rom ( name music\mysterious_quiet.mp3 size 565898 crc 670ffa54 md5 25e742b79e90c26a4bd5567fda898990 sha1 aedc061865dbd502cf3b17106775127c323a0280 )
+	rom ( name music\on_a_mission.mp3 size 405433 crc 55a61328 md5 afa5d4cca10591a2fbb9a6c121009642 sha1 6e4ac60842421d847ee8b4e7fe9f170bfb18c3a0 )
+	rom ( name music\romantic.mp3 size 493921 crc 8dfd1485 md5 0280105279deb9b99e7e76136add978f sha1 d189fdc1301731ba78f8e1ad94bc31ee6240da0d )
+	rom ( name music\tilesache(extended).mp3 size 2560962 crc fa8a615e md5 cbc06df54176177a4781fde7f3ed46d6 sha1 a4c2eb9d395693c42d2178fc4e2c8071eb97d4bf )
+	rom ( name music\vibracious_(Dark_Delivery_Mix).mp3 size 3201276 crc d6c5426e md5 6f257bca076d408bea871d5b546bd3b1 sha1 2b71807cde979981f890bdf0b1679d50889977d8 )
+	rom ( name music\vibracious_(dope_delivery_mix).mp3 size 1760989 crc f72f93a9 md5 7d3a63011c56df28c4c2becb5c9b528d sha1 822cfcc84a865d07b19fba731fb2d266ef7f6372 )
+)
+

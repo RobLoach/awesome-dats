@@ -1,0 +1,1229 @@
+clrmamepro (
+	name "ScummVM TWINE"
+	description "ScummVM - TWINE Engine Games"
+	category "ScummVM"
+	version v1.04
+	date 2022-01-27
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name lba
+	description "Little Big Adventure (Floppy/DOS)[EU][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	rom ( name ANIM.HQR size 128603 crc b4ded6a3 md5 89668bdb0ea7be17385cd70285cb3641 sha1 f96f28de005fedf102dae4b1a9a4afe5addcb8ff )
+	rom ( name BODY.HQR size 396854 crc dc07f130 md5 c8f1a6ebf627c37d8aa6393dd694e624 sha1 f254c49ecde7977f7bc549409132df9bac5431db )
+	rom ( name FILE3D.HQR size 11851 crc 564046d0 md5 0f5a6e6734b5d46264e47d50abe33726 sha1 9ec723e3c1ca6f04d65eedebe69f4d6c449145d7 )
+	rom ( name FLA_GIF.HQR size 1784466 crc 03db6504 md5 bf4ac2323433e21252d5cc468e76b7a2 sha1 40efa0cffa7fd7a5a07d67800e8fd8104207829b )
+	rom ( name INVOBJ.HQR size 38059 crc 40b4aeb4 md5 3c9dd3be96ba573875be6f5ba7933eb2 sha1 cf70497226209126e4e2711401513aa8fcb5f581 )
+	rom ( name LBA.EXE size 273793 crc 9acd1d09 md5 c14596b1fefc7a41d99a36fd2b75d321 sha1 57d5f52a7515af9e0931d692b3592252c33ad044 )
+	rom ( name LBA_BLL.HQR size 55785 crc f0bcf8eb md5 7ec98c710855bdeca25b005bd9ad018a sha1 eea55d055ca18a9fbb2987b43caa8a4c7d3da19e )
+	rom ( name LBA_BRK.HQR size 3977143 crc d2d99c9a md5 3e6d63886fb53704a8967d0bb6264c27 sha1 d7b794ca011a8d198828a284b967eca5cba516f2 )
+	rom ( name LBA_GRI.HQR size 602022 crc 09fbbbca md5 36489ec6bac2bab7947e4f5e9111ad40 sha1 e22df54359865e78586e6a3603aa548f12a10163 )
+	rom ( name MIDI_MI.HQR size 72870 crc 5871abc4 md5 e1817ab8ed6fdaeaff72a52a1460319b sha1 fff2b27e95d5333d652fbd4bcab6cf9c90da2147 )
+	rom ( name MIDI_SB.HQR size 55622 crc 2fcc7a04 md5 dd3599dc3f4eac234065cb7b3173c66c sha1 72deca406a0c263502119883e77318c6719f24a9 )
+	rom ( name RESS.HQR size 954341 crc 41d846e5 md5 65fc50d5df62c6b030db2e9c736e1fc6 sha1 f7227d3d98b59373887bebf7970cf40ea59e332c )
+	rom ( name SAMPLE.AD size 3622 crc 4b0f0ad4 md5 790cc77bc9d7a775384b4a56ff15a8fe sha1 24a94b4be4dba25de90bc1b9295669a3643b1eb1 )
+	rom ( name SAMPLE.OPL size 5611 crc 2e6bbdce md5 8dbec8baada518f12286de22252d69ec sha1 7c27cda37c2ada916794d6928db8f28375134402 )
+	rom ( name SAMPLES.HQR size 2429133 crc 496fa625 md5 bf81c16a551de731bc010685d1ad99f5 sha1 cb21aa97e2bdce4d8030922cfbaa5d124c2b7b8b )
+	rom ( name SCENE.HQR size 179725 crc 7ffb2ef6 md5 28d383db3202e0814497c973e46aa05d sha1 1b203108dce6e4a73e4659e38cf077f25943ea79 )
+	rom ( name SPRITES.HQR size 178168 crc 80a318b0 md5 3165441831bab3118dce52645c14c159 sha1 abe17141996b6d1627b9145590607a6f536ede2a )
+	rom ( name TEXT.HQR size 248829 crc f56ccc57 md5 6b82ca61c51cac3e688dd65e7c889406 sha1 4db67ef1d7e657d823b04c1d4bb61df348f14dfa )
+)
+
+game (
+	name lba-cd
+	description "Little Big Adventure (CD/DOS)[EU][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbax1cdres
+	rom ( name FLASAMP.HQR size 1701951 crc d72ff5d4 md5 0f835b9642519481de5f3f1fdb65367f sha1 9006617dab9ae36fe3d66b8150c167c0e06b1052 )
+	rom ( name FLA\BAFFE.FLA size 794794 crc 04d0e102 md5 d3f700509ce34faea8293733a2ca844e sha1 229d9bcea1bd3858d8cfc6c662a7a41536ffe409 )
+	rom ( name FLA\BAFFE2.FLA size 779828 crc 2bf32f63 md5 cd5a7b491df7a07c7cc3932fe47ca6e1 sha1 e4a964a5494acda501a20a5cba75518f0fdf55ba )
+	rom ( name FLA\BAFFE3.FLA size 783058 crc 95a0e162 md5 43bec83a04deba0c954df364cb7e453d sha1 6846e137a59a0ecd33f306b74b251b0d56d1e330 )
+	rom ( name FLA\BAFFE4.FLA size 1114382 crc 0749f191 md5 e1dcbdcddb16f805187e354e7123efdf sha1 3d38fc2e1ab01d226ec76bcd73ad96c1a5175ec5 )
+	rom ( name FLA\BATEAU.FLA size 4354566 crc 5c7e57dd md5 b30209d479b132b7eb30f2aba3b2480a sha1 c32a76c3d0442c517995ac85a9e1bccfbd4651de )
+	rom ( name FLA\BATEAU2.FLA size 4406328 crc 60835584 md5 76f1093ad571facf5d9137b82990c85b sha1 236b5c607729acaef63d1ff5b87c5bd950ab9b63 )
+	rom ( name FLA\CAPTURE.FLA size 3588436 crc 8aae5a2b md5 37ca09b04ac84162c21801af6241a7c2 sha1 77e8a3fc34caeb5884167ee62482830cf8067e95 )
+	rom ( name FLA\DRAGON3.FLA size 6324644 crc ad04559f md5 38f02f2daee960b4753270d535c1fb96 sha1 ee32a0aead7cc3b35703ccc77b6e05e49c3e61f0 )
+	rom ( name FLA\EXPLOD.FLA size 5050118 crc 8500912c md5 bda56781d644d823d9f078f2350b5041 sha1 7860f6f5ca12fc49c7ed919ba033fd7cc45ce34d )
+	rom ( name FLA\EXPLOD2.FLA size 3047944 crc 835350c8 md5 b627cfac91341c4986777f64c7553652 sha1 f7006f1ef125005085f5411820fbcb147d2e3c86 )
+	rom ( name FLA\FLUTE2.FLA size 4257630 crc eccfbb15 md5 060d241e38cd3e8eaa98f57ba7fc80d0 sha1 f5f562b590ddc8bfe10b840a6ab09e1d780b7e8c )
+	rom ( name FLA\FORTRESS.FLA size 900702 crc 63f8d1c2 md5 7e17f09a84f2633920abfcb9275dab67 sha1 ac0f97bb2612327dd7293413a6377bc5423a4130 )
+	rom ( name FLA\GLASS2.FLA size 2575978 crc c58c5f2e md5 686b7006ce82e3a65d769bae5acd474c sha1 38a9c6fc3a728c9def40cb2eb97156125216da1d )
+	rom ( name FLA\INTROD.FLA size 15885218 crc d2d795e9 md5 eb9c7259739391f154270d8b661f4eb2 sha1 802d2b02b33134332dd4180f4a7709595fdaf449 )
+	rom ( name FLA\NAVETTE.FLA size 1924918 crc 37bcecb6 md5 62aa1c5d4f4829150bb5146f30d2aaa4 sha1 3058ad8b4d13caa0b0b5a10003b26db140aff5b7 )
+	rom ( name FLA\NEIGE2.FLA size 4287064 crc 7fba1e6e md5 80140b07b75fc555e3bc685c4a028530 sha1 b445a54668225d36c395a64a8dbe1d334f7ebadd )
+	rom ( name FLA\SENDEL.FLA size 8133672 crc 457c6a2a md5 25d9894bd162b0b6bb83972294ae975d sha1 6715d0d2c67183b35e94142508141e1dc332040a )
+	rom ( name FLA\SENDEL2.FLA size 8302918 crc 1801b2c0 md5 00b7a91095ba17ba33bfef9ef4b4cbae sha1 fab6e6d57ac5efef8624d5c3afdb0951f75c33b5 )
+	rom ( name FLA\SURF.FLA size 1604488 crc 08ef1018 md5 22e1cb1e05ef370a44e9079abb1e4822 sha1 411b372cc56df3012b93b86c1787a7c094217b81 )
+	rom ( name FLA\TEMPLEBU.FLA size 6080144 crc a6ea1f01 md5 8f5fa71b4c405b043371659b4a603f7c sha1 1e05a292c7ec6420f428989cbde6ba008b7a29ee )
+	rom ( name FLA\THE_END.FLA size 1017252 crc bf336ccc md5 5aece7b0f68f3acda801096d6ab70eb2 sha1 4462ec49245b2d02d27f4ee13dfff85cef0b6537 )
+	rom ( name FLA\VERSER.FLA size 835306 crc f52cffb3 md5 12c7377e77b8182c31bba0a572e90eb2 sha1 4b578e94d220518b61fd75a1e88d4bddeadec9a4 )
+	rom ( name FLA\VERSER2.FLA size 786178 crc bd82a1f7 md5 0fa7a383c9851215313a0718434d908b sha1 9405c62bf1849263fd4b7c60366b633a9df7d0ab )
+	rom ( name LBA.EXE size 258513 crc d2b2ac39 md5 58275cbf4760521eff5f87db21765bb7 sha1 f693fb8ad48f1da2aa58939829010d94310d0959 )
+	rom ( name LBA_GRI.HQR size 601666 crc 14f776da md5 22853ed1dd644d1cc2901ea1e41ba4ad sha1 95140d0803ca40af94528870bc116d6222bdf5cb )
+	rom ( name RESS.HQR size 954369 crc 1da778dc md5 077ddb0a7bea8dcc04c777637c6da478 sha1 a11034850bdead1bcefec63f260eb6a4e268183f )
+	rom ( name TEXT.HQR size 248829 crc f56ccc57 md5 6b82ca61c51cac3e688dd65e7c889406 sha1 4db67ef1d7e657d823b04c1d4bb61df348f14dfa )
+)
+
+game (
+	name lba-cd-de
+	description "Little Big Adventure (CD/DOS/German)[EU][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd
+	romof lba-cd
+	rom ( name GERMAN.ROM size 30 crc 01fc2e2d md5 078857e9cd95324fdc4b9ba31290afce sha1 787b174fd664f30e784f3a49bb577aa512c4f4c2 )
+)
+
+game (
+	name lba-cd-es
+	description "Little Big Adventure (CD/DOS/Spanish)[EU][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd
+	romof lba-cd
+	rom ( name SPANISH.ROM size 30 crc 4189d438 md5 6272d31b572b7cf2dcaeb666bd4a91a5 sha1 0eb430fd734671c881fc5a20a2c3b1d6d49f8ae2 )
+)
+
+game (
+	name lba-cd-fr
+	description "Little Big Adventure (CD/DOS/French)[EU][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd
+	romof lba-cd
+	rom ( name FRENCH.ROM size 30 crc 204489c5 md5 655303caf4d63cc7fe27b0ec93a4bcf5 sha1 fd7c0e77ba5e6127810f6d942460c78cb2176558 )
+)
+
+game (
+	name lba-cd-it
+	description "Little Big Adventure (CD/DOS/Italian)[EU][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd
+	romof lba-cd
+	rom ( name ITALIAN.ROM size 30 crc 24b508cd md5 27931b45db455e25c1097b8fda9f4b9c sha1 edcfecd91053133fa73a16ae1bb91c7b4c587c3b )
+)
+
+game (
+	name lba-cd-1
+	description "Little Big Adventure {Relentless: Twinsen's Adventure}(CD/DOS)[US][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbax1cdres
+	rom ( name FLASAMP.HQR size 1701951 crc d72ff5d4 md5 0f835b9642519481de5f3f1fdb65367f sha1 9006617dab9ae36fe3d66b8150c167c0e06b1052 )
+	rom ( name FLA\BAFFE.FLA size 794794 crc 04d0e102 md5 d3f700509ce34faea8293733a2ca844e sha1 229d9bcea1bd3858d8cfc6c662a7a41536ffe409 )
+	rom ( name FLA\BAFFE2.FLA size 779828 crc 2bf32f63 md5 cd5a7b491df7a07c7cc3932fe47ca6e1 sha1 e4a964a5494acda501a20a5cba75518f0fdf55ba )
+	rom ( name FLA\BAFFE3.FLA size 783058 crc 95a0e162 md5 43bec83a04deba0c954df364cb7e453d sha1 6846e137a59a0ecd33f306b74b251b0d56d1e330 )
+	rom ( name FLA\BAFFE4.FLA size 1114382 crc 0749f191 md5 e1dcbdcddb16f805187e354e7123efdf sha1 3d38fc2e1ab01d226ec76bcd73ad96c1a5175ec5 )
+	rom ( name FLA\BATEAU.FLA size 4354566 crc 5c7e57dd md5 b30209d479b132b7eb30f2aba3b2480a sha1 c32a76c3d0442c517995ac85a9e1bccfbd4651de )
+	rom ( name FLA\BATEAU2.FLA size 4406328 crc 60835584 md5 76f1093ad571facf5d9137b82990c85b sha1 236b5c607729acaef63d1ff5b87c5bd950ab9b63 )
+	rom ( name FLA\CAPTURE.FLA size 3588436 crc 8aae5a2b md5 37ca09b04ac84162c21801af6241a7c2 sha1 77e8a3fc34caeb5884167ee62482830cf8067e95 )
+	rom ( name FLA\DRAGON3.FLA size 6324644 crc ad04559f md5 38f02f2daee960b4753270d535c1fb96 sha1 ee32a0aead7cc3b35703ccc77b6e05e49c3e61f0 )
+	rom ( name FLA\EXPLOD.FLA size 5050118 crc 8500912c md5 bda56781d644d823d9f078f2350b5041 sha1 7860f6f5ca12fc49c7ed919ba033fd7cc45ce34d )
+	rom ( name FLA\EXPLOD2.FLA size 3047944 crc 835350c8 md5 b627cfac91341c4986777f64c7553652 sha1 f7006f1ef125005085f5411820fbcb147d2e3c86 )
+	rom ( name FLA\FLUTE2.FLA size 4257630 crc eccfbb15 md5 060d241e38cd3e8eaa98f57ba7fc80d0 sha1 f5f562b590ddc8bfe10b840a6ab09e1d780b7e8c )
+	rom ( name FLA\FORTRESS.FLA size 900702 crc 63f8d1c2 md5 7e17f09a84f2633920abfcb9275dab67 sha1 ac0f97bb2612327dd7293413a6377bc5423a4130 )
+	rom ( name FLA\GLASS2.FLA size 2575978 crc c58c5f2e md5 686b7006ce82e3a65d769bae5acd474c sha1 38a9c6fc3a728c9def40cb2eb97156125216da1d )
+	rom ( name FLA\INTROD.FLA size 15885218 crc d2d795e9 md5 eb9c7259739391f154270d8b661f4eb2 sha1 802d2b02b33134332dd4180f4a7709595fdaf449 )
+	rom ( name FLA\NAVETTE.FLA size 1924918 crc 37bcecb6 md5 62aa1c5d4f4829150bb5146f30d2aaa4 sha1 3058ad8b4d13caa0b0b5a10003b26db140aff5b7 )
+	rom ( name FLA\NEIGE2.FLA size 4287064 crc 7fba1e6e md5 80140b07b75fc555e3bc685c4a028530 sha1 b445a54668225d36c395a64a8dbe1d334f7ebadd )
+	rom ( name FLA\SENDEL.FLA size 8133672 crc 457c6a2a md5 25d9894bd162b0b6bb83972294ae975d sha1 6715d0d2c67183b35e94142508141e1dc332040a )
+	rom ( name FLA\SENDEL2.FLA size 8302918 crc 1801b2c0 md5 00b7a91095ba17ba33bfef9ef4b4cbae sha1 fab6e6d57ac5efef8624d5c3afdb0951f75c33b5 )
+	rom ( name FLA\SURF.FLA size 1604488 crc 08ef1018 md5 22e1cb1e05ef370a44e9079abb1e4822 sha1 411b372cc56df3012b93b86c1787a7c094217b81 )
+	rom ( name FLA\TEMPLEBU.FLA size 6080144 crc a6ea1f01 md5 8f5fa71b4c405b043371659b4a603f7c sha1 1e05a292c7ec6420f428989cbde6ba008b7a29ee )
+	rom ( name FLA\THE_END.FLA size 1017252 crc bf336ccc md5 5aece7b0f68f3acda801096d6ab70eb2 sha1 4462ec49245b2d02d27f4ee13dfff85cef0b6537 )
+	rom ( name FLA\VERSER.FLA size 835306 crc f52cffb3 md5 12c7377e77b8182c31bba0a572e90eb2 sha1 4b578e94d220518b61fd75a1e88d4bddeadec9a4 )
+	rom ( name FLA\VERSER2.FLA size 786178 crc bd82a1f7 md5 0fa7a383c9851215313a0718434d908b sha1 9405c62bf1849263fd4b7c60366b633a9df7d0ab )
+	rom ( name LBA_GRI.HQR size 601645 crc dabb5c3b md5 a0cb2a9b6f09f3bcf94946f99a0526e2 sha1 ed60b4995dd1d6c62e3c49aa8a00fe6771c06361 )
+	rom ( name RELENT.EXE size 258513 crc d2b2ac39 md5 58275cbf4760521eff5f87db21765bb7 sha1 f693fb8ad48f1da2aa58939829010d94310d0959 )
+	rom ( name RESS.HQR size 954401 crc f9331beb md5 b0a75569c52cc03fea8d7fd2dbe22d9f sha1 892a40b06ea4a87577ceca6a36addc49f8a82b40 )
+	rom ( name TEXT.HQR size 248654 crc e4ac6b75 md5 e8e66634e31ded587544c5394a985079 sha1 80f1a6482809d7f8038c3a4c48d214eb406d6bf4 )
+)
+
+game (
+	name lba-cd-de-1
+	description "Little Big Adventure {Relentless: Twinsen's Adventure}(CD/DOS/German)[US][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd-1
+	romof lba-cd-1
+	rom ( name GERMAN.ROM size 34 crc f644d81d md5 5b69ecd0cfbbfea657f9e93e2e746372 sha1 49252ca69b7bc34d409bc01dbf4f03de90a5ea91 )
+)
+
+game (
+	name lba-cd-es-1
+	description "Little Big Adventure {Relentless: Twinsen's Adventure}(CD/DOS/Spanish)[US][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd-1
+	romof lba-cd-1
+	rom ( name SPANISH.ROM size 34 crc 0d444595 md5 8b5039115acffb7447c4c7a297c0bae4 sha1 8a091bb92c379d79f41fd7aff5328f90d32232a0 )
+)
+
+game (
+	name lba-cd-fr-1
+	description "Little Big Adventure {Relentless: Twinsen's Adventure}(CD/DOS/French)[US][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd-1
+	romof lba-cd-1
+	rom ( name FRENCH.ROM size 34 crc 59cdcec1 md5 3d273520296c9d5a9a0e470d7acee7fe sha1 a3b46630ff7a462eb38454fe72e915fe6e19ab05 )
+)
+
+game (
+	name lba-cd-it-1
+	description "Little Big Adventure {Relentless: Twinsen's Adventure}(CD/DOS/Italian)[US][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd-1
+	romof lba-cd-1
+	rom ( name ITALIAN.ROM size 34 crc 7644837c md5 fd76199c2ac8ccd1a3cd6b80db336540 sha1 fb811ffe864107909aa319820575f5580b1a3a29 )
+)
+
+game (
+	name lba-cd-2
+	description "Little Big Adventure (CD/DOS)[gog v1.0][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbax1cdres
+	rom ( name LBA.GOG size 380666496 crc 5eccd3ab md5 7ee4e229c66b69480d16e6280a1af603 sha1 833fe93d9fba5b83d44b4807ca14e3bf0f777459 )
+	rom ( name LBA_GRI.HQR size 602001 crc fdbf3c9d md5 a596bda010cf6056c831b4629a38033e sha1 33d04cda8a4fdbc3c1e1b1af2ce7839f9a3e149a )
+	rom ( name RELENT.EXE size 258513 crc d2b2ac39 md5 58275cbf4760521eff5f87db21765bb7 sha1 f693fb8ad48f1da2aa58939829010d94310d0959 )
+	rom ( name RESS.HQR size 954401 crc f9331beb md5 b0a75569c52cc03fea8d7fd2dbe22d9f sha1 892a40b06ea4a87577ceca6a36addc49f8a82b40 )
+	rom ( name TEXT.HQR size 248654 crc e4ac6b75 md5 e8e66634e31ded587544c5394a985079 sha1 80f1a6482809d7f8038c3a4c48d214eb406d6bf4 )
+)
+
+game (
+	name lba-cd-de-2
+	description "Little Big Adventure (CD/DOS/German)[gog v1.0/DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd-2
+	romof lba-cd-2
+	rom ( name GERMAN.ROM size 34 crc 3753208f md5 1678fe448575d03ba3366ed6e3082c0a sha1 bde065d3be91c1a96716b2c95b64e2a6c04e676e )
+)
+
+game (
+	name lba-cd-es-2
+	description "Little Big Adventure (CD/DOS/Spanish)[gog v1.0/DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd-2
+	romof lba-cd-2
+	rom ( name SPANISH.ROM size 34 crc cc53bd07 md5 38c15cc1648e529b04cf76ce03f65279 sha1 39bd4f28d99625bc8ba9414ca5ad9977d0b84eba )
+)
+
+game (
+	name lba-cd-fr-2
+	description "Little Big Adventure (CD/DOS/French)[gog v1.0/DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd-2
+	romof lba-cd-2
+	rom ( name FRENCH.ROM size 34 crc 98da3653 md5 822324080a62ab130bec527de49f5166 sha1 47ae9730d0ee2b67dadc7bd87980d86dbc880708 )
+)
+
+game (
+	name lba-cd-it-2
+	description "Little Big Adventure (CD/DOS/Italian)[gog v1.0/DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-cd-2
+	romof lba-cd-2
+	rom ( name ITALIAN.ROM size 34 crc b7537bee md5 dc51c004403438b31f4427ed179be33e sha1 9996bb8849b101f3340c1938e3015bd087414255 )
+)
+
+game (
+	name lba-cd-3
+	description "Little Big Adventure (CD/DOS)[DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbax1cdres
+	rom ( name LBA.DOT size 380666496 crc 5eccd3ab md5 7ee4e229c66b69480d16e6280a1af603 sha1 833fe93d9fba5b83d44b4807ca14e3bf0f777459 )
+	rom ( name LBA_GRI.HQR size 602001 crc fdbf3c9d md5 a596bda010cf6056c831b4629a38033e sha1 33d04cda8a4fdbc3c1e1b1af2ce7839f9a3e149a )
+	rom ( name RELENT.EXE size 258513 crc d2b2ac39 md5 58275cbf4760521eff5f87db21765bb7 sha1 f693fb8ad48f1da2aa58939829010d94310d0959 )
+	rom ( name RESS.HQR size 954401 crc f9331beb md5 b0a75569c52cc03fea8d7fd2dbe22d9f sha1 892a40b06ea4a87577ceca6a36addc49f8a82b40 )
+	rom ( name TEXT.HQR size 248654 crc e4ac6b75 md5 e8e66634e31ded587544c5394a985079 sha1 80f1a6482809d7f8038c3a4c48d214eb406d6bf4 )
+)
+
+game (
+	name lba-cd-br
+	description "Little Big Adventure (Fanmade/DOS/Brazil)[spider_ruler33][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbaxfanres
+	rom ( name LBA_BRK.HQR size 3977143 crc d2d99c9a md5 3e6d63886fb53704a8967d0bb6264c27 sha1 d7b794ca011a8d198828a284b967eca5cba516f2 )
+	rom ( name RESS.HQR size 954369 crc 1da778dc md5 077ddb0a7bea8dcc04c777637c6da478 sha1 a11034850bdead1bcefec63f260eb6a4e268183f )
+	rom ( name TEXT.HQR size 283631 crc aa68727c md5 5a8f05922c6051efbcb7bc063ea91b65 sha1 15826df4a56bb1cf80c3700f119947fa2da0fe3c )
+)
+
+game (
+	name lba-cd-he
+	description "Little Big Adventure (Fanmade/DOS/Hebrew)[ChaosFish][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbaxfanres
+	rom ( name LBA_BRK.HQR size 3977143 crc d2d99c9a md5 3e6d63886fb53704a8967d0bb6264c27 sha1 d7b794ca011a8d198828a284b967eca5cba516f2 )
+	rom ( name RESS.HQR size 967260 crc c5fd9641 md5 89a18d5767c4676ba88b7e213c2b6a1a sha1 7ac47b7a4a400db5d8df0267de0111dd70b76936 )
+	rom ( name TEXT.HQR size 75866 crc 74ed2b6b md5 0e534b040b402c58f1e07b2737e926de sha1 8c77a3954b5f87b73ecd6a28b81afc4193355131 )
+)
+
+game (
+	name lba-cd-hu
+	description "Little Big Adventure (Fanmade/DOS/Hungarian)[Gregorius v1.0][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbaxfanres
+	rom ( name LBA_BRK.HQR size 3977452 crc fcc3349b md5 3cb42af64b60b3e5f060ee27859eb8af sha1 15a2abbe39bd26676cb1a8ebfdc33291002adf2a )
+	rom ( name RESS.HQR size 966024 crc fe7f11b9 md5 0e19f43fd1ac4fb4a4eb20043470c420 sha1 af1100e76fcda8d766116e25d0519a0a5ad705d1 )
+	rom ( name TEXT.HQR size 410709 crc 1274e198 md5 3dfc81c0f8108d3449af9323e6c40788 sha1 95a7ecd911c811c58b8d7eeab87695b0635ff5b3 )
+)
+
+game (
+	name lba-cd-pl
+	description "Little Big Adventure (Fanmade/DOS/Polish)[Zink][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbaxfanres
+	rom ( name LBA_BRK.HQR size 3977143 crc d2d99c9a md5 3e6d63886fb53704a8967d0bb6264c27 sha1 d7b794ca011a8d198828a284b967eca5cba516f2 )
+	rom ( name RESS.HQR size 2962872 crc 775b1de4 md5 38e0d7a982fa84aa9f882369e05e0380 sha1 e07570d28e08712f6688b6c049606529ad0da2d2 )
+	rom ( name TEXT.HQR size 413920 crc 9a0e751a md5 ecd4d27a23feba01045b7085ead1b081 sha1 87ca68a063eefb6fc401ca6c3e6ebce037e26e08 )
+)
+
+game (
+	name lba-cd-pt
+	description "Little Big Adventure (Fanmade/DOS/Portuguese)[alexfont][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbaxfanres
+	rom ( name LBA_BRK.HQR size 3977143 crc d2d99c9a md5 3e6d63886fb53704a8967d0bb6264c27 sha1 d7b794ca011a8d198828a284b967eca5cba516f2 )
+	rom ( name RESS.HQR size 966069 crc 75928012 md5 7fb860e2dc7dc87ced8791d2096905dc sha1 7f0680fb827d41523d8f908c8bfc54d152339a35 )
+	rom ( name TEXT.HQR size 282308 crc bb1599e1 md5 c199e3bbff8fc5699844769b79433cbd sha1 f6e77e9c26dbe3dffdbcc9d147a9404044a07546 )
+)
+
+game (
+	name lba-cd-ru
+	description "Little Big Adventure (Fanmade/DOS/Russian)[Cody][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbaxfanres
+	rom ( name LBA_BRK.HQR size 3977143 crc d2d99c9a md5 3e6d63886fb53704a8967d0bb6264c27 sha1 d7b794ca011a8d198828a284b967eca5cba516f2 )
+	rom ( name RESS.HQR size 967836 crc 82a2de68 md5 e7db54a6194da7565b3f3dcf8c64e562 sha1 d752f638a399301ece10861967d8e660c8d1647a )
+	rom ( name TEXT.HQR size 280306 crc b363fdc6 md5 6b5982fc8e51d023a517cf992910b0aa sha1 ec3cbee80e110adfa683df8830503064ef03f7bd )
+)
+
+game (
+	name lba-demo
+	description "Little Big Adventure |Preview|(DOS)"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	rom ( name ANIM.HQR size 40353 crc 834d2301 md5 fac21b7f1edd015abc25b7369b2ecc4e sha1 90aeb1f5c27141b33941e208ef50174de3c81372 )
+	rom ( name BAFFE.FLA size 794776 crc 1d0cd2a6 md5 b995ef89ae72a192692cbc12a1cb7074 sha1 2b96296665de652373bf80dd367c074eba452b0d )
+	rom ( name BODY.HQR size 101108 crc 7a6cc6c4 md5 20200ad6c9944adbcaf30fe89a56e747 sha1 681da6c11ed91fb2efcc29d0aff4c301597c3121 )
+	rom ( name DRAGON3.FLA size 4076657 crc 8c84149d md5 14670455219e5307975fbe718262fc59 sha1 f7e102a9e08c5f324d53b173922267493a626ce2 )
+	rom ( name FILE3D.HQR size 3338 crc f1ebcc6c md5 8b1fc3f2e61d4a59d29ca2c797e5679c sha1 f201b299972526aa0382c8069202c3d86e930873 )
+	rom ( name FLA_GIF.HQR size 1784466 crc 03db6504 md5 bf4ac2323433e21252d5cc468e76b7a2 sha1 40efa0cffa7fd7a5a07d67800e8fd8104207829b )
+	rom ( name FLASAMP.HQR size 8316 crc 66c4597d md5 bbed5bc6cad5ab742e1eb077183c07c8 sha1 66e2a12ac2651db2c9381ae147de18f18ca1ed5f )
+	rom ( name FR_000.DIA size 13138 crc 8255445c md5 5c44d18c154c31099ca97c94e99ce4f3 sha1 f41b262a5d137d16a1f7731d00c2695fd25d5400 )
+	rom ( name FR_000.ORD size 374 crc 68ac810c md5 4979fd0140becdd14bdee670666a88c0 sha1 f6a0d56e6119450515463d96c1dd10910ea31a5e )
+	rom ( name FR_GAM.DIA size 7536 crc 9d666ed5 md5 4575467bddd57e3e639b4a4b08c545c1 sha1 d20ece0ab0db190208e79ac9924d6db17620dfc8 )
+	rom ( name FR_GAM.ORD size 126 crc d1a32592 md5 083b34a1271164157d834a4569afd3b5 sha1 4ef63f16b62dfcb16346cf3b9d0b84c5bb028189 )
+	rom ( name FR_SYS.DIA size 2923 crc 5a8a23b1 md5 b325612c0a772195be327c865d164e81 sha1 be963713ad4db330ab9c3c29767142175d0ecb0a )
+	rom ( name FR_SYS.ORD size 80 crc d31fd3d0 md5 69bad23da11d8bb3c662d10d8edff05d sha1 1f027c2830ab6c0fa842489054c2f119989b3137 )
+	rom ( name GB_000.DIA size 13188 crc bbf1159e md5 0a46875ae4e6b60e8f2a8d3d4a0af8bb sha1 a4c32848de36cb375c8d2806229a2157cc77b5f7 )
+	rom ( name GB_000.ORD size 374 crc 68ac810c md5 4979fd0140becdd14bdee670666a88c0 sha1 f6a0d56e6119450515463d96c1dd10910ea31a5e )
+	rom ( name GB_GAM.DIA size 7301 crc 346ad4cb md5 b36b4de9bea1fd6bf0f81398c4316107 sha1 156ec2321515ae3ad8fe1bd544a3f13244cd61fb )
+	rom ( name GB_GAM.ORD size 126 crc d1a32592 md5 083b34a1271164157d834a4569afd3b5 sha1 4ef63f16b62dfcb16346cf3b9d0b84c5bb028189 )
+	rom ( name GB_SYS.DIA size 2782 crc cde470b1 md5 11bfa5c707597529795c137421f75e6b sha1 46f052bd60df7fcff16a0bca4a4e0e490118f623 )
+	rom ( name GB_SYS.ORD size 80 crc d31fd3d0 md5 69bad23da11d8bb3c662d10d8edff05d sha1 1f027c2830ab6c0fa842489054c2f119989b3137 )
+	rom ( name INVOBJ.HQR size 43595 crc 7882765c md5 8daffb72372be6e3ee31063869a7e766 sha1 637b3aa027034a6c190458aef516a005a353abe7 )
+	rom ( name LBA.EXE size 294025 crc b158e768 md5 e4bc689712925d2851c5a25493735b6b sha1 98a24bdd4d4a2a347645256ab862385740833cb7 )
+	rom ( name LBA.FLA size 1167603 crc 678dffc2 md5 ecc8863b2bee911572a2417f9c3674e9 sha1 b37995216ee44c4acee7d57309ffb521a2b431f4 )
+	rom ( name LBA_BLL.HQR size 8174 crc 3d751588 md5 44999835f9f2963f32db2a69b7b4ebdb sha1 0c04d5e8329ea6049551aeac40cfdafe3c29c370 )
+	rom ( name LBA_BRK.HQR size 527065 crc 00c13986 md5 87a5a101304f202a61f15674ed2bed75 sha1 646deb0b5aaa443024cc6aa0b21a8cce99375ac5 )
+	rom ( name LBA_GRI.HQR size 24054 crc 7f5b4d09 md5 e6c10ea010d1c780fe6e213a12b41d61 sha1 88e86b70cf25789552f71f34c71adac95a7839b2 )
+	rom ( name RESS.HQR size 831708 crc e5b8f2d1 md5 f97d543488b8e20f8c71ccead9901b82 sha1 1e2542cd1af31c9b90548ec748e35b72d1e4884d )
+	rom ( name SAMPLE.AD size 3622 crc 0ab378df md5 3cce7683e5f2b8e0cca251613120eab9 sha1 f7e71a11957899980da5bb929de05c0b0ec124aa )
+	rom ( name SAMPLE.OPL size 5591 crc c06f22ea md5 d692ab0cc2cc8f8dd378d385ae3ea3c1 sha1 5df66c5718474e1c759a6845c38d54a558257d8c )
+	rom ( name SAMPLES.HQR size 1858134 crc c568d21c md5 b23d235375143fd2843828d06aa5a907 sha1 a3243009acd9607bd4ed9f6fe1c441483fdf2fbc )
+	rom ( name SCENE.HQR size 8594 crc 8a0d235c md5 84c454e389ff7e3058127248980d11db sha1 8ddc3abd65c174cfe1de5e7ca373d327813d1e6f )
+	rom ( name SPRITES.HQR size 151797 crc 47738896 md5 0f0a99a70d9b2360bdc6d1d748eef965 sha1 361baba74217f74ffad4fd79cc94b955b42cf347 )
+	rom ( name TEXT.HQR size 248829 crc f56ccc57 md5 6b82ca61c51cac3e688dd65e7c889406 sha1 4db67ef1d7e657d823b04c1d4bb61df348f14dfa )
+)
+
+game (
+	name lba-demo-fr
+	description "Little Big Adventure |Preview|(DOS/French)"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-demo
+	romof lba-demo
+	rom ( name FRENCH.ROM size 34 crc 914dd26f md5 15973c236932ba3c7bc051ac845569d1 sha1 ea54f6e3041448e77df92d03b68d470188fd9142 )
+)
+
+game (
+	name lba-demo-1
+	description "Little Big Adventure |Demo|(DOS)[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	rom ( name ANIM.HQR size 76750 crc 302d0965 md5 847a63e52e02803e5e53dd5521294b0d sha1 5c11385109ebeabcb4a59623c61a9a2010e5ff02 )
+	rom ( name BAFFE.FLA size 794794 crc 04d0e102 md5 d3f700509ce34faea8293733a2ca844e sha1 229d9bcea1bd3858d8cfc6c662a7a41536ffe409 )
+	rom ( name BODY.HQR size 200153 crc 157ca07c md5 638f28ef6329739b4579dc5e8082dd5f sha1 133defe2b5645ac056d39d6d98d339148264d9ec )
+	rom ( name FILE3D.HQR size 6062 crc b397cc4a md5 62c90a771fba1687754a6ea60cc13ab3 sha1 2af9c4a90a0edf905f86994a3273d9c7246bf89a )
+	rom ( name FLASAMP.HQR size 42284 crc 724c12b4 md5 fa47b8940986af0272ef5210d973aa96 sha1 4e556d7b4b3d028bad031bde5eb1a4dcefe810d7 )
+	rom ( name INVOBJ.HQR size 37975 crc c049a151 md5 3946b43d24b41b25dbad85e31a468791 sha1 1e500d4dcd60eb53f42ab86b8a57c754d92efba3 )
+	rom ( name LBA_BLL.HQR size 11341 crc f53371c0 md5 fcba0efb9fb6baf53862c3e5e1c584c7 sha1 86a48523928a223696d8f240a1b5afb4088ca258 )
+	rom ( name LBA_BRK.HQR size 686009 crc 1ef9605f md5 09be1a5f949c6004be71a137a0e8c861 sha1 6bea493c44934dfc2ea5faa96662b2ba63e384a8 )
+	rom ( name LBA_GRI.HQR size 28695 crc e5755afb md5 947b355b993bca4ca4ace4b0abce4048 sha1 1591a2fcb93084fcc8ff781ebdee8f59c9803c51 )
+	rom ( name MIDI_MI.HQR size 72870 crc 5871abc4 md5 e1817ab8ed6fdaeaff72a52a1460319b sha1 fff2b27e95d5333d652fbd4bcab6cf9c90da2147 )
+	rom ( name MIDI_SB.HQR size 55622 crc 2fcc7a04 md5 dd3599dc3f4eac234065cb7b3173c66c sha1 72deca406a0c263502119883e77318c6719f24a9 )
+	rom ( name RELENT.EXE size 245961 crc 95849b97 md5 686ecf6c34b0cfea793a3f95fa85ba2f sha1 0700264abbcead8de930da0079be7ce4a1996130 )
+	rom ( name RESS.HQR size 815218 crc 3fc2ef45 md5 1af0d0e82233eecbb38686da0bd9a4f1 sha1 2d6bab477f7484b0349a1b6314e88bb84c5f1829 )
+	rom ( name SAMPLE.AD size 3622 crc 0ab378df md5 3cce7683e5f2b8e0cca251613120eab9 sha1 f7e71a11957899980da5bb929de05c0b0ec124aa )
+	rom ( name SAMPLE.OPL size 5611 crc 2e6bbdce md5 8dbec8baada518f12286de22252d69ec sha1 7c27cda37c2ada916794d6928db8f28375134402 )
+	rom ( name SAMPLES.HQR size 972747 crc 968f323a md5 82c53226c4e1b4293dcfe0db093a22a2 sha1 8f03cec8db6df02485895dcba2fdaf9d2b114ac2 )
+	rom ( name SCENE.HQR size 10505 crc f8e045ee md5 c3c4474e08a9957472ee76aaa83eae63 sha1 018a4b48211f0e26afa2170ad7946b88008d8d91 )
+	rom ( name SPRITES.HQR size 180143 crc f14626ed md5 decc5ee6fe65fd7ba7a126e41c347331 sha1 53972d0c8a0980f72a848188980e2214e3aad760 )
+	rom ( name TEXT.HQR size 74035 crc f2c5c69e md5 28e32f727448b0d97508a329930b8b39 sha1 c8943b257654467ed06d06f1d3d30561cac25598 )
+)
+
+game (
+	name lba-demo-de
+	description "Little Big Adventure |Demo|(DOS/German)[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-demo-1
+	romof lba-demo-1
+	rom ( name GERMAN.ROM size 36 crc 151c0b2b md5 a8aea2ea1d96d14ffed7a4484d0dbb1a sha1 0b27fa44abfed7d86f05ebe861d5a97fe45d7d7d )
+)
+
+game (
+	name lba-demo-es
+	description "Little Big Adventure |Demo|(DOS/Spanish)[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-demo-1
+	romof lba-demo-1
+	rom ( name SPANISH.ROM size 36 crc ee1c96a3 md5 dfef9b4004f7714a9a100b295ece1068 sha1 0cedc25d6f12afd55434ada78d4eb8326e7f9736 )
+)
+
+game (
+	name lba-demo-fr-1
+	description "Little Big Adventure |Demo|(DOS/French)[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-demo-1
+	romof lba-demo-1
+	rom ( name FRENCH.ROM size 38 crc 2e009a25 md5 79d9ed3bb34a079c0c1d8b1ce4b8ea7c sha1 bfb858ece284e400e4cde0623fdf1f9b56cb8ade )
+)
+
+game (
+	name lba-demo-it
+	description "Little Big Adventure |Demo|(DOS/Italian)[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-demo-1
+	romof lba-demo-1
+	rom ( name ITALIAN.ROM size 36 crc 951c504a md5 d2029223adcc376523475ddf676d3edd sha1 634f90b57a7ccfbaaf515a5afc2bc413b05880f1 )
+)
+
+game (
+	name lba-demo-2
+	description "Little Big Adventure: Lupin Island Destiny |Mod|(DOS)[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbaxdemores
+	rom ( name ANIM.HQR size 128603 crc b4ded6a3 md5 89668bdb0ea7be17385cd70285cb3641 sha1 f96f28de005fedf102dae4b1a9a4afe5addcb8ff )
+	rom ( name BODY.HQR size 399216 crc 879e7f8b md5 ddaed505318f328c792e649d33fddb8a sha1 f741a9b75f90a2a549b2fc0cc2a8f0f865293f41 )
+	rom ( name FILE3D.HQR size 11851 crc 564046d0 md5 0f5a6e6734b5d46264e47d50abe33726 sha1 9ec723e3c1ca6f04d65eedebe69f4d6c449145d7 )
+	rom ( name FLA\DRAGON3.FLA size 6324644 crc ad04559f md5 38f02f2daee960b4753270d535c1fb96 sha1 ee32a0aead7cc3b35703ccc77b6e05e49c3e61f0 )
+	rom ( name FLA\INTROD.FLA size 2224 crc 9c6acbec md5 daa34d27d3340191f1974fbdebbf5f9d sha1 8eb3ad8f064041c39ddc52135be872b45f811acf )
+	rom ( name INVOBJ.HQR size 39458 crc e7079390 md5 e21c0143ebaf4ab878b5f906a5ce82cd sha1 ae00492352c7aa399b9e935874a8b79584cf81d7 )
+	rom ( name LBA_BLL.HQR size 16339 crc 58f5e3df md5 fb439bf2bf2bf847ac978815d92884ea sha1 b4fe8c173343a0ffea167cabaff170c9ebb900b3 )
+	rom ( name LBA_BRK.HQR size 1236483 crc 970141da md5 d865d160c57949918c0c804b958949ef sha1 56a5c40056faaa3a45c36132d23d60210606314d )
+	rom ( name LBA_GRI.HQR size 22903 crc 2234c6bb md5 93dc1a03fc07b42474729d675bf23a2e sha1 509d026ae0f0c523bf20c9274a80d2fbb38cf201 )
+	rom ( name RESS.HQR size 954369 crc 1da778dc md5 077ddb0a7bea8dcc04c777637c6da478 sha1 a11034850bdead1bcefec63f260eb6a4e268183f )
+	rom ( name SCENE.HQR size 3085 crc 711ba599 md5 4779ac0cd126276d3db39426434684bd sha1 0e0fb2fa238ec699a3fde156b34d87f88f8e39e6 )
+	rom ( name SPRITES.HQR size 294447 crc deb64c10 md5 149fea400598da6b2bedc07c93bf543c sha1 f110e67721517a8459233ceb5b0db97a479ccdfc )
+	rom ( name TEXT.HQR size 240238 crc 57d0e415 md5 534838bc340951741ed1c6b9fde7b397 sha1 fb354da48ff52a1909eef8931ac288b8614b3a8e )
+	rom ( name VOX\EN_000.VOX size 11102508 crc 7f828334 md5 9f3a792a1ea2257b52a721b747628afd sha1 abb70e3bf681c50fdab2669ab6e7b6b9e67d612d )
+	rom ( name VOX\EN_GAM.VOX size 1992980 crc 7e7d5944 md5 d7762bcdbdf84450291d47713a56d2f9 sha1 40f58b00973ec53e01e8c7e12ab658855bd0b364 )
+)
+
+game (
+	name lba-demo-3
+	description "Little Big Adventure: LBA Prequel: A New Beginning |Mod|(DOS)[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbaxdemores
+	rom ( name ANIM.HQR size 132205 crc d46f98ee md5 1f3424f07a580e75b85772f4a05c4a04 sha1 218edab81f6bc568530aed15d8b91f8ec56ad486 )
+	rom ( name BODY.HQR size 411095 crc 442674c8 md5 d0fc1e5de3b05646d6e6997d57beaa5c sha1 926b6e5063a976253ea1217a01d230b0d7afb66e )
+	rom ( name FILE3D.HQR size 11783 crc ea1a01b5 md5 98a65f04e32fa0aa20e883e1de131d2a sha1 0556db204bee944df34fc1e55bb03963d09f4998 )
+	rom ( name FLA\DRAGON3.FLA size 55740 crc 0d3632df md5 3fd3c71838f9e59d6ba87e6e566298bb sha1 24715ed5a26b473373d9bc4f3670488c1ef94087 )
+	rom ( name FLA\INTROD.FLA size 55740 crc 0d3632df md5 3fd3c71838f9e59d6ba87e6e566298bb sha1 24715ed5a26b473373d9bc4f3670488c1ef94087 )
+	rom ( name INVOBJ.HQR size 38928 crc e7a9047b md5 3bccb4be5876978aba9185dcceaf8fca sha1 f1153a82ecf2882e3cbc37a6138af7020c17df9c )
+	rom ( name LBA_BLL.HQR size 90570 crc cb85c796 md5 07728669124c0a4eb6f2c43cdca9b706 sha1 61ab64f1ede9aad2490d1ac0fa831b3fc58c5d13 )
+	rom ( name LBA_BRK.HQR size 2765416 crc 6e4f29dd md5 af51470f7fdc7a5542bd83bcdccb5a1c sha1 3f01addbeb3bc248061cd2ef1aa6e1c5695c9421 )
+	rom ( name LBA_GRI.HQR size 116965 crc 4c09d8f5 md5 fd798d3c3bd6dcf1c4665e178fdb168f sha1 c3c348e647bcc28ab108e916e1f86e46984b4305 )
+	rom ( name RESS.HQR size 2673788 crc 6a9f4ff9 md5 1fafd7de9e84f49bdfdbdc2a87602995 sha1 db77554bcc334ea9920128e0386b5061253645e7 )
+	rom ( name SCENE.HQR size 10923 crc faf0817f md5 8fe2550eebc144c490dc28a8f04ab7a3 sha1 c6f878923b1b6b5fb21168500d65f3e8bff55715 )
+	rom ( name SPRITES.HQR size 281778 crc 1141a7f4 md5 f4f859bcce43a3660e9b45a9d10c8542 sha1 0baee9a10edad349ede3fbfa19dd59ee3378947f )
+	rom ( name TEXT.HQR size 259722 crc a850dfac md5 499131c2686f376f93e18e08fe222c87 sha1 c334def3dda9c38d7b616557d2484d56abc27bfd )
+	rom ( name VOX\EN_000.VOX size 6249564 crc 201e5959 md5 dc582eb50a00117fffebdccf6d754e17 sha1 f585169fa17a3c6a8655a71edc6d566ae9d98755 )
+	rom ( name VOX\EN_GAM.VOX size 1922674 crc 57a3c761 md5 a34ad58b76fd9aa8ce27142757c9afe4 sha1 9b719e1b8ec70a58f26c4d6d51224a698e8fbf02 )
+)
+
+game (
+	name lba-win
+	description "Little Big Adventure (Enhanced Version/Windows)[DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	rom ( name LBA.exe size 1165728 crc 8f5d5531 md5 918d034f6aa17a414d7e5f2201c676ed sha1 8c15bd614dbfaae3b6142fafdd5a35c858b98267 )
+	rom ( name resources\20150617171334.LBA size 471 crc 57c79449 md5 6b8b0aa8a3ed7bc6bc6cbda5f75a7b92 sha1 c6292c15c9c7abd301bcc76cf6d151607b050fba )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_001_LOCKED.png size 112815 crc 1e771295 md5 ec5235a4e927123f994f692efc8d7d2c sha1 8302ea304b853f849b27239ce7d94c40d685fe1e )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_002_LOCKED.png size 79310 crc c69b13a5 md5 56a4630d610c65b7e84d406bc2caad79 sha1 8424ab4649a385b9e636bb99d382a85f16aac1b3 )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_003_LOCKED.png size 89952 crc 2f342411 md5 a05a2f8a89c49f01980cf8fc7af3c016 sha1 86388063d1fbf8c4b1279f7aae9107c56dfdc422 )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_004_LOCKED.png size 97508 crc 543f48b7 md5 8dced2b3fdc6847a8a914005eeaac387 sha1 0e0ec144d2ee08e384903974516cb8c94983939f )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_005_LOCKED.png size 105443 crc 2cc214f7 md5 27ec7d067fedb3ca190a15ce5f16a294 sha1 635b37ec37913de2593dab0c2d3929d5fd2de39f )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_006_LOCKED.png size 76652 crc 37c07375 md5 216158a5c65f15f56232ba3483768999 sha1 8fb70fef3b199439e1bd2122829d16966c807ec6 )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_007_LOCKED.png size 87863 crc c5a144c5 md5 57bad9d32d500eac60229af39aa3ae9c sha1 8641d3b968dc7181a10c89eafa10cbaed664ba4b )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_008_LOCKED.png size 114896 crc 0be456cf md5 28c7efc33bff5e7d5cc654b028b16879 sha1 82e876833e418ae29527440eb206f23e7a87d580 )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_009_LOCKED.png size 104868 crc e3e377cd md5 ffea2970f1257e6c3521736cb8b9b4bd sha1 933750442bbf5ed3fd538852b48ed5f639bbcf58 )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_010_LOCKED.png size 127343 crc ed82c9cb md5 b8e4561b752ef16e4694c6022a58c4d2 sha1 92db0f4ea3b918cba095f6f3a32cc88d1644d1a9 )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_011_LOCKED.png size 106375 crc a1f4eba2 md5 07aa0fafb8aa1dd25168fb1b7bbcbf75 sha1 0c1e66712e8febe7144971486693ab4af43422f7 )
+	rom ( name resources\ACHIEVEMENTS\LOCKED\LBA_ACH_012_LOCKED.png size 79639 crc f9ddae01 md5 8e8957005bc92ce7067da4e9f2cf9ec2 sha1 cd6620517af898feed64cc9fd7c63160ad2a9972 )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_001.png size 315752 crc cc014f7b md5 c8ebb719a523cd8eb9dfa38a6321a36c sha1 ae654620dcf6ed91b69528ed391e6db1e09e068a )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_002.png size 202483 crc b8f725b6 md5 4e2f7ede41115afc66dc7fa863641fd5 sha1 d41a3866401f877db0f877cce86d1c5b2adff4d8 )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_003.png size 206560 crc 4c27d536 md5 55ad7c6ea604509765bf04438573657d sha1 fe012d5ebe7ff92c4179ea791d590ee0445a8632 )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_004.png size 234745 crc cdab2db0 md5 e9abc805aa871385ffc9ce834c9044fb sha1 604b903c56a2cad113a6b3c28a68868a8856ec97 )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_005.png size 288494 crc b9a7fc07 md5 63d351fcefff74f50a010a03ec0d044f sha1 501cce318c4e019be3ec10e0f39b26dc28119f0c )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_006.png size 162396 crc e53b9c84 md5 a9d3f385713c169e7c2a9cf7ec93a78b sha1 cac4048745d7fad6dc0946f60625bada27d674c2 )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_007.png size 215434 crc e680d80e md5 5dac4108722d2b336a923f7c65a600d6 sha1 e298295b26d586ec46dc698199a5238529ccf0dc )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_008.png size 267450 crc 68584d6f md5 8a8867a6b210b3a97e5b1b1f8bdf398e sha1 cb3d771071f44857b1d833e367adac9ec2133d58 )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_009.png size 255626 crc 63148237 md5 162b8d7e45d6df81cf7d37a882031a0b sha1 3a2c337d4c52a77d3ecca36e02665940fc51bd1b )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_010.png size 301742 crc d650728f md5 e300f617d3962eb1c259a0bfc7119fb9 sha1 bad2d554cedbc3c01c94e4c0013e8d2f2db545f1 )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_011.png size 288183 crc b2ce85bc md5 4429fba2f7cb33871319916daea78d67 sha1 c3c40530dceccd5b644207f7a62d802e7a45582a )
+	rom ( name resources\ACHIEVEMENTS\UNLOCKED\LBA_ACH_012.png size 121727 crc a1890f28 md5 07881b215df13e795f1bc8b965b664c6 sha1 3c211019dd2aab98201b06db7a6c7c265cf31ead )
+	rom ( name resources\bg_main_menu_hd.png size 1218772 crc 8e34a847 md5 6a20e3883870568561a141fea450c76e sha1 f1a34b13d136cb8d9e59609680cc4d88f97efcf3 )
+	rom ( name resources\bg_main_menu_od.png size 5685441 crc b18fb6f6 md5 1695ed71d26a3c77fadd54e488c580a1 sha1 2e698dc976c3f270ddac210cc514656a34debb7e )
+	rom ( name resources\bg_save_menu_hd.png size 1209522 crc 41a353e6 md5 54ea8bb0bed84d1fdfb5edb9d62f6711 sha1 4a0b6d6c28301623a72ab4459e0cebcb66bdd993 )
+	rom ( name resources\bg_save_menu_od.png size 5520419 crc a86f8c42 md5 6e42aecd6bcf3715b697c3fbb719c0c3 sha1 28bd6bfa36f798275d5bd70d06616178f31c3a82 )
+	rom ( name "resources\Brush Script.ttf" size 74839 crc 009647b1 md5 3b8cc048692e2b047330c986f4b5fb4e sha1 801a1d68445871faed2d60e29aa36c5e365a3a14 )
+	rom ( name resources\btn_arrow_left.png size 7488 crc 6640b63b md5 9bb4f77eab584ac789feded01e884fdc sha1 f83eb320def34a94bcde49ac841a989430051e15 )
+	rom ( name resources\btn_arrow_left_roll.png size 5941 crc 26559600 md5 8def3116b8e84365b9dd6eae620e3ad5 sha1 26667f43e92164e69c117c56a2fae05b370d80eb )
+	rom ( name resources\btn_back.png size 7356 crc d155a5ad md5 1980243b50927d6b3ee641eb6b3d56f8 sha1 931a3b026a91bab3c776e328a99408bbd3beeb9b )
+	rom ( name resources\btn_back_roll.png size 6983 crc 8beadcd1 md5 110a01fe936624a6328a6d12700aa345 sha1 74eba6977a10a68800a89b066a8cc66c48677c73 )
+	rom ( name resources\btn_base.png size 28246 crc 1ae41519 md5 266a26ced749f49a35b4c5292a703144 sha1 46c29eff72c0215bb4f2026c395bff2fd4beaae5 )
+	rom ( name resources\btn_base_roll.png size 30094 crc e19e266a md5 12b7b766ecf261339a6213bd11a45034 sha1 68a476057f1215cbc86bcde2c1c894c82812236f )
+	rom ( name resources\btn_credits.png size 17080 crc 181b3020 md5 e2e89f9eab59818eae2cdbe685954426 sha1 5f1c8b8eda5686738ad1b8a43c7f7f4c31002eec )
+	rom ( name resources\btn_credits_roll.png size 19107 crc 93b0785f md5 01d91b024ce26fbe202d03e7b178fb70 sha1 09e7a02d3f40e2491a05bee1292895e08c820f70 )
+	rom ( name resources\btn_delete.png size 7247 crc 1cb1d6bf md5 0619fbaa0bba237275f252cdd2f653c9 sha1 8a8fd75d5494991c88ed6bbad81f5264ce48c8e6 )
+	rom ( name resources\btn_delete_roll.png size 6827 crc a6a91b70 md5 7f44e716aad36b71efa63ce2f26b1104 sha1 4ad838c273b84753556f16e5dc0310d24acce8d6 )
+	rom ( name resources\btn_gamecenter.png size 21431 crc 4b111002 md5 7c238b89b2b248fcc3c2dc4d5658d2bc sha1 2b0aee43c7b1b4aec591f84eed27d8341d4490cd )
+	rom ( name resources\btn_gamecenter_roll.png size 20053 crc b34955a4 md5 d53a5197464816d11bee424356836818 sha1 bf8fb4a36f74d7ea8bab68abba9208759eb92e14 )
+	rom ( name resources\btn_gcirc.png size 23390 crc 86749876 md5 812b139c091925705af66da62de7ebcd sha1 19cfbb13cf0f47fb0dd2e9c2b6ca5ae536fd69d9 )
+	rom ( name resources\btn_gcirc_roll.png size 22046 crc 7d4cd7ee md5 e7b1868ad95cb0c8694ff492cd52a8e2 sha1 41d9b387690ab242a55ca035870f833afc0d7620 )
+	rom ( name resources\btn_google_plus.png size 5652 crc 29cfa75d md5 94d346c0b72511c60af040fc3b1f3120 sha1 78193ea2216fc662c745df01bcc6fbd759df6845 )
+	rom ( name resources\btn_google_plus_roll.png size 5047 crc 03be0543 md5 410cdf8aea74d7db032ee47a30ab743c sha1 31027b8924b982c072ab19de0cf67f8562ebf51f )
+	rom ( name resources\btn_gpg.png size 23241 crc 24a72e63 md5 f7806309a101648e57215f9b7b0efeca sha1 7cac7809606883c69601e6b109edca29df2e3613 )
+	rom ( name resources\btn_gpg_roll.png size 21649 crc bd02444c md5 2612b2194aa050a878b5e9785c19db79 sha1 65060b1621443f9ea648f849efe9490e57c2b107 )
+	rom ( name resources\btn_hide.png size 8521 crc aea4fb7a md5 0fc6e952845e05ff557d939c53b9d502 sha1 7e2cd1e7732cf44150be7595eb654c4c2e65fc31 )
+	rom ( name resources\btn_hide_roll.png size 9193 crc cffdb485 md5 821b5fda365d0412c8f8a6e28c3203e5 sha1 7f0a4f2f66b96cc3cf8ed9f978b35c262630566c )
+	rom ( name resources\btn_inventory.png size 7489 crc a3f28e58 md5 d84d948fc3467ea1f94867c4d19f685e sha1 6151678b7fcbf55c92546168c76ee9d02868ddb2 )
+	rom ( name resources\btn_inventory_roll.png size 7776 crc f3b896ca md5 75644988c01f27b323fd13f86a6b784c sha1 4a74755f9c9cc98f1a0100d837667fa95cce1ef5 )
+	rom ( name resources\btn_option.png size 7088 crc b093ebe1 md5 912d58df20339268dff2f614fe2874b6 sha1 155e0d2870cd5978c6622374efaf279154958d61 )
+	rom ( name resources\btn_option_roll.png size 7009 crc 0f3580a4 md5 278b30cb4cdb83e1f898774350daddb1 sha1 60128732a5ad81385b20fbb14258201dee855077 )
+	rom ( name resources\btn_pause.png size 7780 crc a2119ad9 md5 ccc549858da116eb42cee52a8c27110f sha1 d171ce2e8d2b5b614383c75e990630add2815faa )
+	rom ( name resources\btn_pause_roll.png size 8163 crc f1cba377 md5 8474c1a59da6ccf596dce301d5b6ab00 sha1 52a7e19111e843983d59b079983d144db98f5374 )
+	rom ( name resources\btn_save_slot.png size 13153 crc 4c84afac md5 e9b844a48027375ef18884cf2bee7198 sha1 b1accf969b02ff3a6f3284ff29668ea622ba6063 )
+	rom ( name resources\btn_save_slot_roll.png size 11843 crc 42c19c19 md5 9f8dee936ad377182ae03060fa521013 sha1 1904bda1404476b838c7330216ae40306f7ec982 )
+	rom ( name resources\btn_virtual_action.png size 14250 crc eb60f0c5 md5 6603f76f154f1ec4cb90fec51fbaefa9 sha1 a7d0ccf970b17ac59878cb0378242a5d0dc4c91c )
+	rom ( name resources\btn_virtual_action_roll.png size 14029 crc 622fb7cf md5 74b471b556915015a67aa6c9ef30b731 sha1 7e77b88a5685d9c5689dc97f5e16218acdbbf4c0 )
+	rom ( name resources\btn_virtual_attack.png size 15429 crc 96cf0632 md5 3b4e8fdd91d3f2da8929c9dc8465d635 sha1 d6a1f0bf9d422306adc7f0a28a1b4609038333fb )
+	rom ( name resources\btn_virtual_attack_roll.png size 15130 crc 82a391d1 md5 3e35264902e3f018bf3e75e089c73ee2 sha1 c286721aca3f898ff7e287dbf2ac41db11868c41 )
+	rom ( name resources\btn_virtual_jump.png size 10402 crc a6cfbf5e md5 7df6ab6e1bda46f2d23957e7e5bdb108 sha1 d34243cd372682427571de4fea503a4476cd3222 )
+	rom ( name resources\btn_virtual_jump_roll.png size 10175 crc 91b6b828 md5 cd171e585f1df078db1bed3b07f48d46 sha1 6f6a6a7c5f0133c5e5aa92f973b0bcf4d4d0774c )
+	rom ( name "resources\Century Gothic.ttf" size 129676 crc 623abfce md5 bc420c1c2b98e2ee8b2a75c1ce1fe083 sha1 6e1179475f9a806d6a77ac475c1cb405e12f577a )
+	rom ( name resources\credits_de.txt size 685 crc b1ed048d md5 ab1afde925186766c96bf990e05dccfb sha1 087892508224891c33a650f6cb8aee8c1ab5ea1f )
+	rom ( name resources\credits_en.txt size 673 crc 120e4dbe md5 458a5dafddab4d992f3812259dc4136d sha1 047341124113490c5289530d8bcfc3af21521d48 )
+	rom ( name resources\credits_fr.txt size 679 crc 97b1d1ca md5 65206f81a8bb1ccb50a9673dde19e602 sha1 bd73a8d0668c6fb6e479365e396a2c7588896c00 )
+	rom ( name resources\credits_it.txt size 733 crc e61d4031 md5 d5b6af067bcddd0c9443721eb87b20fb sha1 885dc535a14e76735e38ee7a26d11ecd9fa9eaec )
+	rom ( name resources\credits_sp.txt size 723 crc 42402220 md5 9b2b7d499eaf54b2acd0ea18dec5826e sha1 83ed687745f17ef20c56975715917f31d41d7a2a )
+	rom ( name resources\fmod.log size 6130 crc bdb7ee72 md5 29c1b5036408b94a93339ced3e6938d6 sha1 755915cab7dc9a0f12c5564f05066370e41b9f7d )
+	rom ( name resources\FreeMonoBold.ttf size 167884 crc fde389c5 md5 88c7cfddf01fc206cdf782bb8f576730 sha1 d17d5b81fd81be84a5956362b06060d12aee6d4a )
+	rom ( name resources\hud_bar.png size 128 crc ab86ceb7 md5 c3614ac60a4db8cf7d997e04277416f0 sha1 faab29b81ba21e44eeabc6534217f700f3a08189 )
+	rom ( name resources\hud_cloverbox.png size 6072 crc 09b0025c md5 1e9d89df9f02222f37dabb88a21ee540 sha1 9a4f182a8d52de5dc791f61609ac6bd0e6710f96 )
+	rom ( name resources\hud_cloverbox_filled.png size 8583 crc 21d7e99f md5 eaa4d49abb5c9cdf065c17d253ce71a4 sha1 efc50f9438a0e0aa57128b68cad90cdf450ac97f )
+	rom ( name resources\hud_cloverbox_unavailable.png size 5574 crc 872f478b md5 40e23dd2d425e2b8a46d070d4dcf42af sha1 8888a6275d127f8e8aecfc6052b5e2c5e40d9eb1 )
+	rom ( name resources\hud_coin.png size 5021 crc e60c0e75 md5 80949bea2810b8727ac5d580f1e5129c sha1 9c523a88fcd5f0ef482cc7a02e39824f0ed4abe7 )
+	rom ( name resources\hud_cursor.png size 5625 crc 75a013dd md5 9612341447c524434ff91396565992e2 sha1 9828ce8204ca7de1f0df5ce51a785e4315e088f5 )
+	rom ( name resources\hud_heart.png size 3583 crc f827070f md5 92d1e26be844c4c1758d2a57345d3e8c sha1 e0b66206e0b127b5342b9973824ee97df66b5543 )
+	rom ( name resources\hud_key.png size 3482 crc e8741123 md5 c7ec80a37ee89313cb9e8b8a40883eec sha1 1ac9e262367a38d90d4f56f6394fff99ef587229 )
+	rom ( name resources\hud_magic.png size 4286 crc 89fd38aa md5 5150845d2127baa3c53ccec8f9ba2b12 sha1 28cc7e06ea119a0393f6c53459824f5338fc02ea )
+	rom ( name resources\hud_rect_1.png size 1487 crc f0cf6325 md5 fee73aba9ec5c7230eae17d30ee88b43 sha1 e51fe9caa70de3942bc2d72af4a7001b5cc680bb )
+	rom ( name resources\hud_rect_2.png size 1516 crc a7acd786 md5 d8ae95795781024eb25828512a323cfe sha1 b9d98e7ebd89dee483b7d2e366b432089efa285c )
+	rom ( name resources\hud_rect_3.png size 1560 crc d9bf1887 md5 40f250153c9e1a82381d02f3f0b0a6f4 sha1 dfe6a49d8b476f3077130b07d38d88d82d89af1c )
+	rom ( name resources\hud_rect_4.png size 1562 crc 3f56f406 md5 bfc6a4b6f4ad5414ac04d56f648d2213 sha1 36389d279ab8ac44ab1fb8f55b0bb9c4698a986c )
+	rom ( name resources\hud_top_bar.png size 1777 crc 32e13489 md5 d7a09ac0f87ef1ab38f79efa72271ee1 sha1 51d5d3491b477f242d53ad05e1ebc2865f04378d )
+	rom ( name resources\ICONS\LBAicon.ico size 65614 crc 11b8d68b md5 a0d24a1490f5adae70e7c9a5a1f75864 sha1 63ec26b59fcafff13d8f966a7d36ead53d08fe9a )
+	rom ( name resources\Info.plist size 2819 crc 0ec5d055 md5 6f6a797be2bc2a38ac66d53ed054cce1 sha1 64fdf3e3a16c0f107665249d9830bedfd6eecf38 )
+	rom ( name resources\LBA_FILES\FLA\BAFFE.FLA size 794794 crc 04d0e102 md5 d3f700509ce34faea8293733a2ca844e sha1 229d9bcea1bd3858d8cfc6c662a7a41536ffe409 )
+	rom ( name resources\LBA_FILES\FLA\BAFFE2.FLA size 779828 crc 2bf32f63 md5 cd5a7b491df7a07c7cc3932fe47ca6e1 sha1 e4a964a5494acda501a20a5cba75518f0fdf55ba )
+	rom ( name resources\LBA_FILES\FLA\BAFFE3.FLA size 783058 crc 95a0e162 md5 43bec83a04deba0c954df364cb7e453d sha1 6846e137a59a0ecd33f306b74b251b0d56d1e330 )
+	rom ( name resources\LBA_FILES\FLA\BAFFE4.FLA size 1114382 crc 0749f191 md5 e1dcbdcddb16f805187e354e7123efdf sha1 3d38fc2e1ab01d226ec76bcd73ad96c1a5175ec5 )
+	rom ( name resources\LBA_FILES\FLA\BATEAU.FLA size 4354566 crc 5c7e57dd md5 b30209d479b132b7eb30f2aba3b2480a sha1 c32a76c3d0442c517995ac85a9e1bccfbd4651de )
+	rom ( name resources\LBA_FILES\FLA\BATEAU2.FLA size 4406328 crc 60835584 md5 76f1093ad571facf5d9137b82990c85b sha1 236b5c607729acaef63d1ff5b87c5bd950ab9b63 )
+	rom ( name resources\LBA_FILES\FLA\CAPTURE.FLA size 3588436 crc 8aae5a2b md5 37ca09b04ac84162c21801af6241a7c2 sha1 77e8a3fc34caeb5884167ee62482830cf8067e95 )
+	rom ( name resources\LBA_FILES\FLA\DRAGON3.FLA size 6324644 crc ad04559f md5 38f02f2daee960b4753270d535c1fb96 sha1 ee32a0aead7cc3b35703ccc77b6e05e49c3e61f0 )
+	rom ( name resources\LBA_FILES\FLA\EXPLOD.FLA size 5050118 crc 8500912c md5 bda56781d644d823d9f078f2350b5041 sha1 7860f6f5ca12fc49c7ed919ba033fd7cc45ce34d )
+	rom ( name resources\LBA_FILES\FLA\EXPLOD2.FLA size 3047944 crc 835350c8 md5 b627cfac91341c4986777f64c7553652 sha1 f7006f1ef125005085f5411820fbcb147d2e3c86 )
+	rom ( name resources\LBA_FILES\FLA\FLUTE2.FLA size 4257630 crc eccfbb15 md5 060d241e38cd3e8eaa98f57ba7fc80d0 sha1 f5f562b590ddc8bfe10b840a6ab09e1d780b7e8c )
+	rom ( name resources\LBA_FILES\FLA\FORTRESS.FLA size 900702 crc 63f8d1c2 md5 7e17f09a84f2633920abfcb9275dab67 sha1 ac0f97bb2612327dd7293413a6377bc5423a4130 )
+	rom ( name resources\LBA_FILES\FLA\GLASS2.FLA size 2575978 crc c58c5f2e md5 686b7006ce82e3a65d769bae5acd474c sha1 38a9c6fc3a728c9def40cb2eb97156125216da1d )
+	rom ( name resources\LBA_FILES\FLA\INTROD.FLA size 15885218 crc d2d795e9 md5 eb9c7259739391f154270d8b661f4eb2 sha1 802d2b02b33134332dd4180f4a7709595fdaf449 )
+	rom ( name resources\LBA_FILES\FLA\NAVETTE.FLA size 1924918 crc 37bcecb6 md5 62aa1c5d4f4829150bb5146f30d2aaa4 sha1 3058ad8b4d13caa0b0b5a10003b26db140aff5b7 )
+	rom ( name resources\LBA_FILES\FLA\NEIGE2.FLA size 4287064 crc 7fba1e6e md5 80140b07b75fc555e3bc685c4a028530 sha1 b445a54668225d36c395a64a8dbe1d334f7ebadd )
+	rom ( name resources\LBA_FILES\FLA\SENDEL.FLA size 8133672 crc 457c6a2a md5 25d9894bd162b0b6bb83972294ae975d sha1 6715d0d2c67183b35e94142508141e1dc332040a )
+	rom ( name resources\LBA_FILES\FLA\SENDEL2.FLA size 8302918 crc 1801b2c0 md5 00b7a91095ba17ba33bfef9ef4b4cbae sha1 fab6e6d57ac5efef8624d5c3afdb0951f75c33b5 )
+	rom ( name resources\LBA_FILES\FLA\SURF.FLA size 1604488 crc 08ef1018 md5 22e1cb1e05ef370a44e9079abb1e4822 sha1 411b372cc56df3012b93b86c1787a7c094217b81 )
+	rom ( name resources\LBA_FILES\FLA\TEMPLEBU.FLA size 6080144 crc a6ea1f01 md5 8f5fa71b4c405b043371659b4a603f7c sha1 1e05a292c7ec6420f428989cbde6ba008b7a29ee )
+	rom ( name resources\LBA_FILES\FLA\THE_END.FLA size 1017252 crc bf336ccc md5 5aece7b0f68f3acda801096d6ab70eb2 sha1 4462ec49245b2d02d27f4ee13dfff85cef0b6537 )
+	rom ( name resources\LBA_FILES\FLA\VERSER.FLA size 835306 crc f52cffb3 md5 12c7377e77b8182c31bba0a572e90eb2 sha1 4b578e94d220518b61fd75a1e88d4bddeadec9a4 )
+	rom ( name resources\LBA_FILES\FLA\VERSER2.FLA size 786178 crc bd82a1f7 md5 0fa7a383c9851215313a0718434d908b sha1 9405c62bf1849263fd4b7c60366b633a9df7d0ab )
+	rom ( name resources\LBA_FILES\HQR\ANIM.HQR size 128603 crc b4ded6a3 md5 89668bdb0ea7be17385cd70285cb3641 sha1 f96f28de005fedf102dae4b1a9a4afe5addcb8ff )
+	rom ( name resources\LBA_FILES\HQR\BODY.HQR size 396854 crc dc07f130 md5 c8f1a6ebf627c37d8aa6393dd694e624 sha1 f254c49ecde7977f7bc549409132df9bac5431db )
+	rom ( name resources\LBA_FILES\HQR\FILE3D.HQR size 11851 crc 564046d0 md5 0f5a6e6734b5d46264e47d50abe33726 sha1 9ec723e3c1ca6f04d65eedebe69f4d6c449145d7 )
+	rom ( name resources\LBA_FILES\HQR\FLASAMP.HQR size 1701951 crc d72ff5d4 md5 0f835b9642519481de5f3f1fdb65367f sha1 9006617dab9ae36fe3d66b8150c167c0e06b1052 )
+	rom ( name resources\LBA_FILES\HQR\INVOBJ.HQR size 38059 crc 40b4aeb4 md5 3c9dd3be96ba573875be6f5ba7933eb2 sha1 cf70497226209126e4e2711401513aa8fcb5f581 )
+	rom ( name resources\LBA_FILES\HQR\LBA_BLL.HQR size 55785 crc f0bcf8eb md5 7ec98c710855bdeca25b005bd9ad018a sha1 eea55d055ca18a9fbb2987b43caa8a4c7d3da19e )
+	rom ( name resources\LBA_FILES\HQR\LBA_BRK.HQR size 3977143 crc d2d99c9a md5 3e6d63886fb53704a8967d0bb6264c27 sha1 d7b794ca011a8d198828a284b967eca5cba516f2 )
+	rom ( name resources\LBA_FILES\HQR\LBA_GRI.HQR size 601666 crc 14f776da md5 22853ed1dd644d1cc2901ea1e41ba4ad sha1 95140d0803ca40af94528870bc116d6222bdf5cb )
+	rom ( name resources\LBA_FILES\HQR\MIDI_MI.HQR size 72870 crc 5871abc4 md5 e1817ab8ed6fdaeaff72a52a1460319b sha1 fff2b27e95d5333d652fbd4bcab6cf9c90da2147 )
+	rom ( name resources\LBA_FILES\HQR\MIDI_MI_WIN.HQR size 81029 crc 19ebd962 md5 f4a25e7e4b055a884360c4d341dcfb17 sha1 166d70ce9bc82bb024c3cbc09aa1e1967eb24956 )
+	rom ( name resources\LBA_FILES\HQR\MIDI_SB.HQR size 55622 crc 2fcc7a04 md5 dd3599dc3f4eac234065cb7b3173c66c sha1 72deca406a0c263502119883e77318c6719f24a9 )
+	rom ( name resources\LBA_FILES\HQR\RESS.HQR size 954369 crc 1da778dc md5 077ddb0a7bea8dcc04c777637c6da478 sha1 a11034850bdead1bcefec63f260eb6a4e268183f )
+	rom ( name resources\LBA_FILES\HQR\SAMPLES.HQR size 2429133 crc 496fa625 md5 bf81c16a551de731bc010685d1ad99f5 sha1 cb21aa97e2bdce4d8030922cfbaa5d124c2b7b8b )
+	rom ( name resources\LBA_FILES\HQR\SCENE.HQR size 179725 crc 7ffb2ef6 md5 28d383db3202e0814497c973e46aa05d sha1 1b203108dce6e4a73e4659e38cf077f25943ea79 )
+	rom ( name resources\LBA_FILES\HQR\SPRITES.HQR size 180143 crc f14626ed md5 decc5ee6fe65fd7ba7a126e41c347331 sha1 53972d0c8a0980f72a848188980e2214e3aad760 )
+	rom ( name resources\LBA_FILES\HQR\TEXT.HQR size 377224 crc 1c62c06b md5 581de6249d7c623c815737b560c37452 sha1 a11f44f88eb2e8dd2e940a3bf3e9479b3d70761c )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-01.ogg size 547223 crc 1ae848b1 md5 02d147ffb9e26c51c6f1ab6f1d4f03d5 sha1 af089a9c56f07e19342a271c725422f969f264e2 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-02.ogg size 4141449 crc c6c46972 md5 6e1807a70a83f2bf35125a6af2fc9d81 sha1 336d2fc29b86cddbc00ee86687ebaa5d9a8c3e6f )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-03.ogg size 790507 crc 4dffd875 md5 b818aaf8f2e821e27a79cb45200a0db7 sha1 43ade7cf8db4fc2f8b4f86856e890f055c421ea3 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-04.ogg size 3190307 crc 13940ec3 md5 b3a0c9bd7598dbba22aafa1832ccb51a sha1 91aa2b2d1cc356a9cb8c71c6ba5b39b2e01d0b85 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-05.ogg size 3714067 crc e5ffc186 md5 f32b9ed40209c1526c671f268c3e537a sha1 3a4279fe39229be355fec4859285e53ea31689dd )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-06.ogg size 3576582 crc e146bed7 md5 1dc1edeca6027fb61fec57562d63ed0d sha1 c4c272cc78b3cc2fe1bde5ca7d29b1293afecc62 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-07.ogg size 1922868 crc bc74c488 md5 3169cc9114254715d95d073b6be3eb1c sha1 a4096632b3cd312a8f0a39cd62d5c71a1de975a1 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-08.ogg size 4630728 crc e55be566 md5 19fc1c0cf51165fcef4b2232f8148bf0 sha1 7480cf25d128c1dc1588f25264ef5171338dd08c )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-09.ogg size 5361571 crc d47fd349 md5 37102bc520b5bcf9538f688e2ad24d11 sha1 9bce89bc8f543c9825c052654226df580edec9cf )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-10.ogg size 5361571 crc e18f3040 md5 6e81f3befa1ee7b5d78fa31fca616fe6 sha1 48192bf0b8382d1973ff9b29864db8437b073ff0 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-11.ogg size 1154671 crc 35d44a90 md5 acb43b857ed19db7f4411bd65a641f62 sha1 f2720ed5525b8e59896e247f80699cb662a79415 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-12.ogg size 339644 crc 80f72325 md5 f9d975f898bd77dc5b210b3f3a1fba2e sha1 26e0546491b7cd229cd405d7bfb1aaccf309b2c2 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-13.ogg size 570221 crc 65c82cf8 md5 41937d99239c017dd25e04130628059d sha1 1aa020bc23612bb81608f7cd83e25399c45e2f81 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-14.ogg size 304488 crc c88cb198 md5 a172203cc259c8c706f1bc9fbea04cf6 sha1 ce00a01a81cf97213a6e5b28b2f041aa4a408e04 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-15.ogg size 446981 crc fa6ad1d7 md5 a7ea8eb61c1dd10d25bb6caa5219285d sha1 759268fc9464e27e9dfea9093d2863ce01d0c759 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-16.ogg size 306114 crc 20a95595 md5 5d66f23935d8c2b18dbd653ee3962338 sha1 86f23a2779e42eb1afde9aab3b66928813adafa1 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-17.ogg size 610971 crc eced6c59 md5 abe35337aaea56a6614320df32ba54b1 sha1 1a3a6048b516b9efd538bc00b8e105bc47c9eaeb )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-18.ogg size 604007 crc aaba5422 md5 90db65853b21e670ef39bc6646383f32 sha1 e3cf8d2eb39de59d51f029ef731bbbbac0932246 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-19.ogg size 545434 crc 5b4b2390 md5 c4e9dceb947e5acf5a2c83d1c2f2d2f8 sha1 bea63f4454590bd0537588f22443a5f745ba6b82 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-20.ogg size 563857 crc 9cc788ff md5 24217ab2d9b5ec9bdbfbc0649d63f64d sha1 7e03359e2f9794c5db0b629180e0ed005e55edf1 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-21.ogg size 623466 crc d2249836 md5 8cf3ab968ffc7321e697f3a37899f053 sha1 5a656ce6eb42f5ea75d9805c0c5335b6b12b0f98 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-22.ogg size 455691 crc 20a0f245 md5 f4627a1f7d0a4dfe74901e5814fc98f4 sha1 90dd0e4098c6190032869d04af90c951aeaf025c )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-23.ogg size 571133 crc 8a86830d md5 fbc140ecf72bce15529a3dddbd58f49f sha1 fa820c3beb66f2f5e62a29844f4924b42d67983e )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-24.ogg size 716803 crc a0426c4f md5 9a34f4d8ba00a8cf9676bed88d6c1cc9 sha1 2efd7642619eea01dffe47166c71a8f3c58ecb43 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-25.ogg size 1203204 crc cdda0236 md5 55fde73228b0c796422927bc3c32d838 sha1 3739af5f26ef0db0bb763d07276dc91699bf244e )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-26.ogg size 1695500 crc b7b05427 md5 de188ba36e2ee1ac17b210298c1a084a sha1 570d54134e35578e93edec65bce9fb7c1954a706 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-27.ogg size 1043012 crc b980cbdd md5 7ab8570aee40e4d613ad2237e7ab1130 sha1 aa7dcbba5d400368c7b3337240192d3cb06a8365 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-28.ogg size 519901 crc 94882d2c md5 f92b779a037f4e80fa328ebaad7b346d sha1 6932411d738c6e1ab6fdc2e9a1c026370e2ce59f )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-29.ogg size 302242 crc be20c444 md5 cfdba02fc3afd729ea7855132d77814c sha1 7e03f205fbd9cad8a3a0ad0a13fd06da0ea337a9 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-30.ogg size 843876 crc 2e4863c9 md5 a1de3cdb158e63967920c5d828c5a490 sha1 a10ab94f2438c528694b6ce0552efa189c60b401 )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-31.ogg size 561958 crc aa15f141 md5 431004375ff497042b0faef124570a92 sha1 a83d53d40b4ba1ba5ac1314970c096e6ce4ce23c )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-32.ogg size 94823 crc 7334e2ee md5 0f2dad32c7f3a16738de7612efceadc5 sha1 c17a26500e6b9c044e410784405300667843473f )
+	rom ( name resources\LBA_FILES\MIDI_MP3\OGG\LBA1-33.ogg size 5361571 crc bdb0d625 md5 51f4a2542cef925f0572bddc1704e285 sha1 d7072b2a6ecf0f074abded64929312c24f8ee64e )
+	rom ( name resources\LBA_FILES\MUSIC\OGG\Track_02.ogg size 4143585 crc 0780e8be md5 409b70e7b0f8c66dd5f50386a1faa972 sha1 71a09e08e4d22de05bd38d5417ec11a42a47f6b7 )
+	rom ( name resources\LBA_FILES\MUSIC\OGG\Track_03.ogg size 3671721 crc 4a750f94 md5 a339355b1137f9d45e910d22071a0308 sha1 02a042dd335c48bcb1dd0e849bf9bca4bce9d3ba )
+	rom ( name resources\LBA_FILES\MUSIC\OGG\Track_04.ogg size 3192438 crc e6929d57 md5 05ef0895b8c1329a88fb36b2efac4232 sha1 809427e89ff284b58e1ec5f9c28cc7900abf7d46 )
+	rom ( name resources\LBA_FILES\MUSIC\OGG\Track_05.ogg size 3716194 crc 093a981a md5 dccd2ad5a43b676dbeaf32f1a58402ad sha1 c19e6e3f5f29910b56ec66867eb3d2ed2ad437d9 )
+	rom ( name resources\LBA_FILES\MUSIC\OGG\Track_06.ogg size 3578716 crc 9cdf735e md5 3f81a77daf906284795a83c6748718ca sha1 34a3e4f390e61e9b6b37c53c3022d3969330c816 )
+	rom ( name resources\LBA_FILES\MUSIC\OGG\Track_07.ogg size 1924996 crc fbaf56ec md5 267748257491c1d4cf5504bad4dd1021 sha1 ad863f0321438425001bc60f6be0874ecfb0c73f )
+	rom ( name resources\LBA_FILES\MUSIC\OGG\Track_08.ogg size 4632857 crc 6a9657a3 md5 d5177cf64e8dd9cfb41e64c61f1668c2 sha1 e7a19c60a424b45d7670c874051803fd0cbf9f4f )
+	rom ( name resources\LBA_FILES\MUSIC\OGG\Track_09.ogg size 2120174 crc 23b892bd md5 29f92c30d6134fd73e5e83697cac8c28 sha1 78051f3bf6ca07cf001e671b733a3ea805241ca6 )
+	rom ( name resources\LBA_FILES\MUSIC\OGG\Track_10.ogg size 5361626 crc b8aa9375 md5 4eac4285a65640dd799aa6f0100792ce sha1 1b8038a4c695028b987d1e543c1fb8a6679e5f0c )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_000.VOX size 6212701 crc e17b2d93 md5 0591955b3010863d8d72de6c1feab37a sha1 481c72ec286df0869634348742cbae3e3be5ae48 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_001.VOX size 10105311 crc cd878594 md5 d7be323f5537e7bbef76fac49a598ca6 sha1 9f356c87e8da42813ad7c7a6ff8e19fb5aea0921 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_002.VOX size 1731494 crc a0fb97cb md5 a7c237302d9c6cc0569b1a7d67e848df sha1 77eab065dbde61c6f9462555c22b84b49747bc18 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_003.VOX size 4253383 crc eec6d607 md5 6d363884ce0c0850d9e00368e6e1c1a8 sha1 6bedf5b3f79f5f3ffa3f54234fdc8e34d085f2d0 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_004.VOX size 1366631 crc 9c7de116 md5 f0c49d25765f822ddd75e3ddc032e822 sha1 fb3738550f86119391d807129704bd414a0ac600 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_005.VOX size 1868032 crc 6f61690b md5 70c84f81436ed62af1e64f7d6d602c9c sha1 5a25cfeda76555b22d7e58821615f50757e51cc2 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_006.VOX size 1066193 crc 9ce00121 md5 cfe7ad9035d97ed6ca97270f2da2e678 sha1 57e64d866c048c92a7bdffdf1a046af23f930960 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_007.VOX size 2321866 crc 2333f957 md5 fc9b87f45dc394c3327f6b4edb96a478 sha1 905fa802ee4b6d14ec9f266b61bd5a5988e32654 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_008.VOX size 287489 crc a0ffd5c4 md5 ddc5048b4d9077069c026f87fbbcee95 sha1 8d576d95610f2d78262ea0762e923f55de9085a7 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_009.VOX size 1626460 crc 26cd347e md5 c98e954de80b0b5578e6415ad831a1d0 sha1 58e50049e49390810c6c52d8d6c4f0043a450d0d )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_010.VOX size 967875 crc 749756a4 md5 bbf43f0156c225f1db8d4be2755b9b4e sha1 67a954dcb4022218d9a5f33035152000ef1e21e6 )
+	rom ( name resources\LBA_FILES\VOX\DE_VOICE\DE_GAM.VOX size 1824842 crc ca9df805 md5 beb3ed9ffb1e992b4ad6f5ee95d63e1a sha1 2c19440f4415b1294c1060d387f660a11b5e60f2 )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_000.VOX size 6249564 crc 201e5959 md5 dc582eb50a00117fffebdccf6d754e17 sha1 f585169fa17a3c6a8655a71edc6d566ae9d98755 )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_001.VOX size 10343661 crc f0bc07a5 md5 5c420beba82bc4974cccaa6c35be0a3c sha1 255ad9963fe657a440807899dbde41bc35d52a79 )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_002.VOX size 1844083 crc 571130ce md5 0ee9724ebd5acfdf250bb8e47c0ac75a sha1 c7dfec029bf5b07707f8973be1f7c81fe449a895 )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_003.VOX size 4022734 crc 56950c9c md5 1460e3760a324ddc9691ab7b995cb092 sha1 d4696f264b748b9227144b2a391623ae2e2e7128 )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_004.VOX size 1367563 crc 1ed236df md5 6b23b74fdf0fc9ebce71a26ad1f02bfd sha1 09fe9ecf06b1a399faf2b5f2d7a74797691420bb )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_005.VOX size 1760125 crc 738d7048 md5 64c1468753fbf84e27cff46cb86cec61 sha1 ade9ed46304e3e7adbd68e5d386f19b999365249 )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_006.VOX size 1122810 crc 50cacfce md5 4b575b1daa38fc7937002b6adcce0085 sha1 b1c1313e2214b3c47ddc43dab8fc67d57f54b1de )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_007.VOX size 2164787 crc d9c8fa95 md5 2edf33b3fedf93ea66ceb9b9e5c0567d sha1 624634c8d87fd3fb0feaabc7a77500b0eb492e05 )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_008.VOX size 284547 crc d6c23b7b md5 7315ae54d01d733f25c295434d8360bc sha1 8223a77007b3b497ab997e9af3546166e80c3a59 )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_009.VOX size 1800800 crc 09a97002 md5 1f1824a5d30a7f63845a53aeabb77119 sha1 e2f952e72459b8e8e19c4baa15dcbd700349d983 )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_010.VOX size 813908 crc 06205b98 md5 5430f2d6d763101b0087b6019e0b6349 sha1 47d181039f65bbe97d6558a798769216b742d24c )
+	rom ( name resources\LBA_FILES\VOX\EN_VOICE\EN_GAM.VOX size 1922674 crc 57a3c761 md5 a34ad58b76fd9aa8ce27142757c9afe4 sha1 9b719e1b8ec70a58f26c4d6d51224a698e8fbf02 )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_000.VOX size 6516645 crc 8b0a0b72 md5 d453395b43a9a01165a7420ce512bfc1 sha1 d5089e29991c24fc48e6bff255c4a56eeffe49df )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_001.VOX size 11283116 crc 195a56e1 md5 6294093153b53ffb682c96064a34ba08 sha1 255f4e465db1b8865a4167ee5b6aabf0dc63af40 )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_002.VOX size 2026364 crc 8cf64359 md5 f5935d730a4efa96541ca6adddd2c1e9 sha1 0adaf6de29ffca3956df17fa7d661c7a768613f8 )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_003.VOX size 4295526 crc 3039396f md5 59152711d6b0961627d8962fcd1a65eb sha1 ab5b23ef7e0738999539fd1ca6ee3ea4c609c5ce )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_004.VOX size 1351011 crc d1d0ef47 md5 2f4305eb2b85f2ff5a658f5130fbb662 sha1 59dac9b310a6acdd5ba3529b02aef0b098370985 )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_005.VOX size 1819148 crc f89bef87 md5 fbdd84b1cd0cbc1fd17198ce6dba7083 sha1 07eca6d8ac41c5151477d96f1ca23a32d6ad57a9 )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_006.VOX size 1257886 crc 18587a9f md5 6295bff82545f34672bda69b8e3d675a sha1 d59d50c090f6a130503da2efdc17449d0eb8babc )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_007.VOX size 2275292 crc f4b5cbc4 md5 d19383865c91b6be7c19eff25698ec11 sha1 733d5d428273e3916750dc37cad06d19b6dff25c )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_008.VOX size 297681 crc a9707c23 md5 3d09a5e531cf7b86e21cc40964315826 sha1 e7baf84300f2a75d35af527537a665062f52c7dc )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_009.VOX size 1995388 crc fae18ed7 md5 d622c3a8b5d72eaf83e3025b4e3f425a sha1 c089020abd155df6c51e080d1386311b2eed4ff8 )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_010.VOX size 923434 crc dd40c0fc md5 a502206198f9a4993998e3453facf661 sha1 20ae318f53e6923c7b876c751488faa479fe6da3 )
+	rom ( name resources\LBA_FILES\VOX\FR_VOICE\FR_GAM.VOX size 1970953 crc cb4dbe83 md5 6528544bd4945de2bbf2e72384ec596e sha1 bfdf1d955d8fbd5f12edb4398a7be0cf58003a22 )
+	rom ( name resources\lba_strings_de.xml size 24755 crc 35057af1 md5 f95fd4d2f833a29efb5714586d461b2c sha1 786111e08f4b5c3589b0f7503c1d8b9ae032143f )
+	rom ( name resources\lba_strings_en.xml size 24136 crc 9a99da79 md5 a33edb69e4fb1df3010df3808e0513d4 sha1 42b48e2f8e6e867c75442d433bb00aef2132e76d )
+	rom ( name resources\lba_strings_fr.xml size 25465 crc c6491545 md5 82e1b28e38930597c5c9421aaf6f62fb sha1 c13a53a714ca503677d7ac14b35ca14c63936647 )
+	rom ( name resources\lba_strings_it.xml size 25216 crc 0fb409d9 md5 93719242747516b6bab0a4e480f0aa6f sha1 13b7f311ba9ac5abbdf2600e5808e61426042565 )
+	rom ( name resources\lba_strings_sp.xml size 25305 crc 8777333a md5 fb0915d6c89b04ea1e875399d12926f9 sha1 f23ec02274a8ad26573b3cd7557f3020d6c516f8 )
+	rom ( name resources\Loader.png size 46823 crc 0173022d md5 11220a3d64ab69215455d94941a59f04 sha1 1341cd3eddb4901b4bc1a09a4b76c39a69ea83a4 )
+	rom ( name resources\msc_achievement_unlocked.png size 7013 crc cd1ade56 md5 cbe931e598875ad6f2b3d245a4e57996 sha1 fbccc1d54d38f6e4091540d91577b17273578eea )
+	rom ( name resources\msc_blank_screenshot.png size 3955 crc b30dea81 md5 ce81f099532f2bffcbddc1f7d93f91c9 sha1 fc2f319dd5042a2e533a343e12fa60f9684597f8 )
+	rom ( name resources\msc_inventory_slot.png size 3428 crc 40b83411 md5 f92401931f526f83c9cc9864b2d30be6 sha1 c722d7982b58f8e93860bfad0c6995f1d8b85291 )
+	rom ( name resources\msc_inventory_slots_container.png size 469227 crc fce5a686 md5 73ed45972397b61ff1931bb06d767c98 sha1 1d82a4ed995eaea91e6c741242e3971ad58064ee )
+	rom ( name resources\msc_inventory_text.png size 6428 crc aadb6352 md5 c24e7985c29abf9bbaa08059f2afc198 sha1 faa8c4094a7577c7a5bf99cadd4ffc36858264c3 )
+	rom ( name resources\msc_inventory_title.png size 3423 crc 9294d27f md5 d838cf3fb799b5870a1539fcb115ecd5 sha1 e22faf8fbcc5129a8362c740f90ac404c4a21651 )
+	rom ( name resources\msc_logo.png size 52922 crc cc895be2 md5 62df3a9ce4e4a029450a3d29b0faaef1 sha1 ff505c561af971780a191caf6419a8ec26044d5a )
+	rom ( name resources\msc_option_box.png size 9800 crc 14b4482e md5 b0d9d5c8b0ac179aed6b4a2f14684a06 sha1 c85d5abfdcb18c19b87e82e850f44f5a6353668b )
+	rom ( name resources\msc_option_slider.png size 2967 crc 1d7bfb06 md5 b5dbf0c9b7864d20392a1fe0de02dc97 sha1 ba3c5ad1aa5a8886b74eef76e585a7e26904d8b1 )
+	rom ( name resources\msc_option_slider_empty.png size 2830 crc 63e688a9 md5 d558da20a8af72051db894c19ad1d97b sha1 da15b78ec9ed6d92e52b10c17b18f21b272ef079 )
+	rom ( name resources\msc_option_slider_filled.png size 2830 crc 656be0ea md5 d17197bd473399f1463e15e3cc23ecb5 sha1 4958b864a2c70fa830e8aa2e8128d846c327f640 )
+	rom ( name resources\msc_options_container.png size 16976 crc caf5fdf4 md5 941368fad0cd57793df9ad846b514314 sha1 095b0ac86421cf7ee2cf4ec65f6c645df662831d )
+	rom ( name resources\msc_pad_A.png size 5872 crc 751495cd md5 8695fa8f932a38cd0b92cabe26a1bf16 sha1 92235ab32b330308058dd2f339a3f529a0a0e36c )
+	rom ( name resources\msc_pad_B.png size 5989 crc 283b6d0e md5 20db09565309f940d2bd9e0036cc2be3 sha1 ac27a8a07af66657d0e72005d4fddb13d5acb3f6 )
+	rom ( name resources\msc_pad_R1.png size 5908 crc f41f0ccb md5 e3146a9a60efcb909c0ccc4fb03069b2 sha1 3592a9f4af995ba8da6e827320a31612565e07a7 )
+	rom ( name resources\msc_pad_X.png size 5966 crc c340265e md5 baf482a8915a412fe12ccc92153da983 sha1 02a606cf13ccdb008055789cd50340ca3a837c75 )
+	rom ( name resources\msc_pad_Y.png size 5893 crc f1adc991 md5 f1112177072c7b76c2f681d05f379d05 sha1 0d0d47d290053d8f0f390b2fce4e83d9f5a80a07 )
+	rom ( name resources\msc_save_indicator.png size 22339 crc da0b0451 md5 d6846b61336b3e438a9cf3af7a5cbfc8 sha1 593f32e24035017813e4495147285994c2f871d8 )
+	rom ( name resources\msc_saves_slots_background.png size 18843 crc bbf6e50a md5 72bab97fd7258047c4dcafc2636fb5af sha1 33bd7de80f8beb0b4940e9051a8371023baa93c7 )
+	rom ( name resources\msc_saves_slots_container.png size 11398 crc 9c73eb86 md5 57ff43a8fb31c57f8d22754e9d709d39 sha1 8a103844afbdbe4f79aa7ee0bcb84077b1759bc4 )
+	rom ( name resources\msc_screenshot_border.png size 1688 crc b3599571 md5 0e6153ee7c5f3af67468cba5950647f9 sha1 eb43b8c301536c2b5f162bd2593bbea2a95106ae )
+	rom ( name resources\msc_scroll_bar.png size 7151 crc d96484c0 md5 cd952033029c920fdf9aae71f2bd8d90 sha1 75dc3e5997cc7c6c4694dc917aaad24d5d5b6222 )
+	rom ( name resources\msc_scroller.png size 2946 crc 172e1c24 md5 393797dd98f1a819600df1d5de2c78dc sha1 04c5d086eebf070c9bb6badb42720b994a2aaa9b )
+	rom ( name resources\msc_tutorial_container.png size 427032 crc 7870696e md5 c192ff0e2d2159a5b94a00ee7df24b59 sha1 d39ea80e9938475680e0b631a94027074a5c8722 )
+	rom ( name resources\Pristina.ttf size 82680 crc e352a5be md5 67b76dc0172e6d8ff94b2c3f7f36c92f sha1 cd1c83c5a7e69e68025c1fe48f120c93341b3aa8 )
+	rom ( name resources\splash_1.png size 58977 crc 8c834080 md5 c5b7c2a324607a1e84238829cda10ffe sha1 41743d0f125d859d6c9b1562615454beec0b0206 )
+	rom ( name resources\spot_attack.png size 16727 crc d932b2d9 md5 4ceb5b54099e3e48f2d4b90bc902fc32 sha1 82cc511b64aa94ff2bbb6264af3fdf73352cde70 )
+	rom ( name resources\spot_cube.png size 13761 crc 30c2e408 md5 bc7935cf9a35538489ad2fb04cb65389 sha1 8fd16ca513d795d817f3869d32488f9e62cd163c )
+	rom ( name resources\spot_inventory_get.png size 15311 crc c8b9bd16 md5 c479d75ecbd48d7aca40537f12919418 sha1 527a5bc97f2847e34bdba5078645e25d67d680a5 )
+	rom ( name resources\spot_inventory_use.png size 12947 crc 836f0a00 md5 2eba7a6d2b654e394dd852c536feb59c sha1 d8f9f8c362b8091c9cdd702fcc6abc63414e3b08 )
+	rom ( name resources\spot_look.png size 16671 crc 53c31035 md5 aa5eb3fa2967208933752803656a8904 sha1 ec9beaa6ff09f14d66e7e354204aadfb7b8e2200 )
+	rom ( name resources\spot_scenaric.png size 18011 crc 3d6ec9bc md5 04c8c61d630b7268be5ab52a41c4d1fa sha1 4eff4e76f1339459b9d9a60906fc1acd65fcc7c5 )
+)
+
+game (
+	name lba-win-de
+	description "Little Big Adventure (Enhanced Version/Windows/German)[DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-win
+	romof lba-win
+	rom ( name GERMAN.ROM size 25 crc f9041da7 md5 98a2ffbf8187ecb11d9afea6081b8d66 sha1 b571b37be25f5ae8a46a39c7f6db086b70a9359a )
+)
+
+game (
+	name lba-win-es
+	description "Little Big Adventure (Enhanced Version/Windows/Spanish)[DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-win
+	romof lba-win
+	rom ( name SPANISH.ROM size 25 crc cb14819e md5 30fb2b8dbda85e93fd206f6e73d9fdb8 sha1 071c91be1a4227c98d21d9c135769eb9882f8877 )
+)
+
+game (
+	name lba-win-fr
+	description "Little Big Adventure (Enhanced Version/Windows/French)[DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-win
+	romof lba-win
+	rom ( name FRENCH.ROM size 25 crc 36e64b8b md5 90b3b4d6f22a51621ca377f0f8fa2e5d sha1 1d8971129e0e460f2b8a375af4d178bd9b28439e )
+)
+
+game (
+	name lba-win-it
+	description "Little Big Adventure (Enhanced Version/Windows/Italian)[DotEmu/Steam][!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	cloneof lba-win
+	romof lba-win
+	rom ( name ITALIAN.ROM size 25 crc a3f511ba md5 a0c7dfb12bfd4df78069c348d7c21445 sha1 39d244992069747eb09c7d644c6f3e17cfe2d6b3 )
+)
+
+game (
+	name lba2
+	description "Little Big Adventure 2 (CD/DOS)[EU][!]"
+	year 1997
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbax2res
+	rom ( name ENGLISH.ROM size 20 crc 2e91951e md5 bfae2bd4120b9caa9794a0a4db2e77df sha1 3b772f6a205b271f74826365009466229e08d00f )
+)
+
+game (
+	name lba2-de
+	description "Little Big Adventure 2 (CD/DOS/German)[EU][!]"
+	year 1997
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbax2res
+	rom ( name GERMAN.ROM size 23 crc 8872956e md5 ae4a65b66489a4d6440a15175abc7dea sha1 45b25d1ade6a8b71500d2df583b1cce055c3f3ba )
+)
+
+game (
+	name lba2-es
+	description "Little Big Adventure 2 (CD/DOS/Spanish)[EU][!]"
+	year 1997
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbax2res
+	rom ( name SPANISH.ROM size 23 crc d7450dfa md5 6905acbef7069bcee2931dec530631a5 sha1 51629086b696db7bb052a2bad10aaf9ae53f308f )
+)
+
+game (
+	name lba2-fr
+	description "Little Big Adventure 2 (CD/DOS/French)[EU][!]"
+	year 1997
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbax2res
+	rom ( name FRENCH.ROM size 23 crc ba651bdb md5 cd9c069986888b522ebfb56dc35f74d5 sha1 bcaa4337576661b150f05a1faa991a72d294572a )
+)
+
+game (
+	name lba2-it
+	description "Little Big Adventure 2 (CD/DOS/Italian)[EU][!]"
+	year 1997
+	manufacturer "Adeline Software"
+	sourcefile twine
+	romof lbax2res
+	rom ( name ITALIAN.ROM size 23 crc eb2e08bb md5 bf049abca8b84a95a75ed62950bfe322 sha1 4a729817862b11ecf9d56eed1aea990a5d1e36a4 )
+)
+
+game (
+	name lbashow
+	description "Little Big Adventure Freeware Slide Show (DOS)[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	rom ( name A01.PCX size 312513 crc fff80307 md5 be6b764fe50e26d8f17d3d6a761b73c2 sha1 31c1b07ec620bc052b672066d437ec0136569315 )
+	rom ( name A02.PCX size 289391 crc 96280fbf md5 aed2fc150b58f1e1ad2b7b8f16c73055 sha1 65e2ca9095c25f6e3ca5ee73eb316bc565d10bdd )
+	rom ( name A05.PCX size 298085 crc b1151645 md5 32c4da666a6db0f87b5ed43fed766a04 sha1 adea0ae68debe0782d06ce309a228aa3cdf90eec )
+	rom ( name A07.PCX size 263329 crc 9e0c427b md5 d44975b16dfc3236792cfd025bdb8321 sha1 ad044f52db9018455682574509a93c37ddac3967 )
+	rom ( name A10.PCX size 206953 crc bbc12b7d md5 6c7916921172ea0929c4f3b722e4eaea sha1 01894cc58cffaf1d96010c1e0741b7f885ec78f8 )
+	rom ( name A11.PCX size 250782 crc f7c3d687 md5 62cb42cbdc81f9256448c827b1967707 sha1 2dc2ae52c91bb8ac90bda7ae2b2768cc617eacc0 )
+	rom ( name A12.PCX size 316724 crc 8497cba6 md5 4d9f0933b4689cd1bc90504569f2cfa9 sha1 819c8c2ff61e15d0106d997886898a997bf2adea )
+	rom ( name A13.PCX size 219627 crc 91da98de md5 dda55217f25f25ad99cb8861c98ec06d sha1 6c3da8c5a22df373c550ec3a8ae1de1f639a73f4 )
+	rom ( name A14.PCX size 232634 crc 5210dea1 md5 b51d1f8bb59ed2e2e02fb049375151d0 sha1 5d4d6e87e7527f0e580b811d2328eb7e748e227b )
+	rom ( name A15.PCX size 390814 crc cb614784 md5 8d4cedcf30fcf4b9f2a2520df4aad381 sha1 ccb19116a567458e5cb12766fa68262c3cd15aff )
+	rom ( name A17.PCX size 471440 crc 635a9217 md5 d82b17d7f4f32e3f381013387d259374 sha1 7545cbb164a7331b88b46c0d93088e1b1662c82b )
+	rom ( name A18.PCX size 227838 crc 296dfdf6 md5 6bd43469d821d9174ff15660ea5bc411 sha1 04275f237258120a7dd5f97d21a7b7aa8f9b396c )
+	rom ( name A21.PCX size 385832 crc 2bd9b70d md5 b6ae9f111d67f03836745e030f2cc4e2 sha1 383f96102738c998536e82dbe43464b876f4724c )
+	rom ( name A23.PCX size 264864 crc c521ea8b md5 c234edd10005bbba403a3a979d7101da sha1 56a9205cbdb37f9092fa61edbeb1e080f48ad4d1 )
+	rom ( name A24.PCX size 343346 crc 0327224a md5 f704725ed1e013a54bbf2fdf93ad84a0 sha1 7f816a285037c308432a9fbbb4c28eda836ae7a4 )
+	rom ( name A25.PCX size 254651 crc f7148659 md5 5f8d1fe0728ef499728eef21d0883f34 sha1 2897141ff088198e0aeb9e44dbb7a3e1c57d3a1f )
+	rom ( name ADELINE.PCX size 236596 crc e46287f5 md5 bcb50fb6fa32dbe20facf44800ce9250 sha1 cfd4b8cd72a976ced87095fa6f555b0973f0a2d6 )
+	rom ( name BUMPER.PCX size 222966 crc f3a9df73 md5 0e4736ea7c51b92a449814adb4264702 sha1 04f7198cd10104e1f756d33388c7092b4fce30ca )
+	rom ( name COMPORT.PCX size 183853 crc 484d5e3a md5 53edd9494a2427e8dd2e3d321b0873b1 sha1 f7a5bd56a8794cb5fc8e09c48d1b2dbb426fa5a3 )
+	rom ( name DRAGON3.FLA size 4076657 crc 8c84149d md5 14670455219e5307975fbe718262fc59 sha1 f7e102a9e08c5f324d53b173922267493a626ce2 )
+	rom ( name EX_BATO.FLA size 2821110 crc 773501cb md5 863251388ad002574705c9408208dba5 sha1 665ccef6668179f4e60d5accf2835800c2a071a4 )
+	rom ( name EX_INTRO.FLA size 2754108 crc 697f78ab md5 5e6da808e37eaa99bd2c85e0471c687b sha1 e4cd7c5071d7ea1e3f83b04e949a93a6c2db0d34 )
+	rom ( name EX_NEIGE.FLA size 2325530 crc 1d8cc13f md5 a80eb27ecebf2ebadef32c69be5c030f sha1 c9395aff49ac12d8a64f3651a3d04b6de45b3dac )
+	rom ( name GRO4.PCX size 26574 crc c99e5a8b md5 d03453577c5b538791e784ed1a8ae86a sha1 0002d7ff067e91c942fbfd5643e64edfa1277894 )
+	rom ( name GROFUNK.PCX size 37260 crc 172e6fde md5 0b9f783068c3307f524bd7e6efbb1698 sha1 673c0e714612e93e227bccf0a09ea4dff18e34cb )
+	rom ( name GUITARE.FLA size 395586 crc 150b75fd md5 5d59972546804915fe209f4dc3e2fd4b sha1 a8415dbd66fc0a1805254882ddf3df03febed103 )
+	rom ( name H2.PCX size 233866 crc 093cbbcb md5 a9caa605736ba53e206e5de01beb1d5b sha1 e41c38e53e5efe6722aefa9410f309e25735f0d1 )
+	rom ( name JOE.FLA size 368754 crc c3ff0139 md5 12caab6237c93a32828ca77bb5ba2476 sha1 c298a4f0c1244d75a69ceede7cda510e720a27cd )
+	rom ( name LBA.FNT size 16983 crc f4c5dc8d md5 14db35417167f223362b89aa0b07f146 sha1 a7b4d87c03dcae2bff900d6d35c5addf52de2007 )
+	rom ( name LBA0.PCX size 285184 crc db73e5d8 md5 61a396d3a1868404ad19d418ceb3f898 sha1 aa638971308fc0d7dd0b92641d3e2ac116c27fda )
+	rom ( name LBA1.PCX size 282697 crc b8489e18 md5 a7f2f56786c361bca9a29f170063fd4f sha1 43713cd9c7b9433ed3edab14a7e8e4aae1eb1d37 )
+	rom ( name LBA10.PCX size 287460 crc a0c31f1e md5 9b05d4bcc40cedfa0d65bf7c94392ab2 sha1 01fe5c015b39bc8d08de98437018ba531f4c546d )
+	rom ( name LBA12.PCX size 238516 crc 17ce6059 md5 c6a4a2d1293d95104d6e783dcb0b7aa3 sha1 12c6791b337dce0e5f9dd6f9efcbb3a2f89047e1 )
+	rom ( name LBA16.PCX size 275690 crc 712a58a1 md5 c12a4fc535a18764eb8f57fd6c4dcd63 sha1 06bb1fbb09619518d5dda0fe17d293277a9e13f4 )
+	rom ( name LBA17.PCX size 256962 crc e571adfe md5 4f98c34d7fcd0e65c63110a0ea1f8521 sha1 d4f691b10cea967e73139e459ad240316072d679 )
+	rom ( name LBA19.PCX size 186356 crc 6e240bdc md5 126511df577778673729622bd9953a59 sha1 23d5801c00732c3e59f9a0bbd9563c07d9935326 )
+	rom ( name LBA2.PCX size 227402 crc 73804556 md5 10a84891e97cff265f891fb3f154b91f sha1 e2a40d2ce4db4654132803a4cae6547968991968 )
+	rom ( name LBA3.PCX size 306380 crc 7808f09d md5 f62dfc073c101b9df9e12560ebd5f05d sha1 1791cfc0d0b303d861cf837b4d48b6c13848f3f0 )
+	rom ( name LBA4.PCX size 248009 crc 1d915c12 md5 aa94e3e1ab4b9b36df250723b4896f17 sha1 16ef5b82a18c2e4beb388e8c384bb796deb891cc )
+	rom ( name LBA5.PCX size 328626 crc 9d363805 md5 e2cca371d236e3c65888506caf7b2789 sha1 955459d41530a2cd3f7aaddb99be4ffc3ff5d02f )
+	rom ( name LBA51.PCX size 301241 crc afcddbc1 md5 564c0dff894f01cd6d2fe4122dbe70ca sha1 52cd396b1273f1fbbe42d806e4d3cf9391bc463c )
+	rom ( name LBA52.PCX size 326147 crc 87d6ce66 md5 5ed26c15faf11ff4b2b4133c622ad242 sha1 ad0635e2a533fcd4d24f1c058c5159aed1c67ca3 )
+	rom ( name LBA53.PCX size 321331 crc 51162005 md5 c1e703217bd5356526d9d61cf89e25cf sha1 23a539130232d209abef31a74d4964f6e6280d37 )
+	rom ( name LBA54.PCX size 263323 crc 4634eeba md5 9400cdce4efdda930232e55bc8906f10 sha1 6e118cf9e7fcb75ebd5d5cf616c367812b10c8a2 )
+	rom ( name LBA55.PCX size 286661 crc 1eff4b5b md5 0f065660d31742ba5455773b6047a567 sha1 f0a0b70eb0348f06ea75d15329434ea35c10f4a0 )
+	rom ( name LBA7.PCX size 291040 crc 17af0eb3 md5 bbd30199c2c4f1044788dbf2e0ff2e94 sha1 8561f2cb639db63fb9971def476eb80d6f78a09a )
+	rom ( name LBA_SHOW.EXE size 85928 crc 3b2ef092 md5 497a7e6f1ba858b055b4754220bd88cc sha1 9d588d1dbc55cdd99dd202dd588ed50820c0be8c )
+	rom ( name LBA_SHOW.SHO size 4802 crc 97d7ad73 md5 1094ee860f5129295f1e3ecad292fb6d sha1 981bcd09671dc439f6e5711aa3e27837b9f9ad84 )
+	rom ( name LUNE1.PCX size 240536 crc dc640481 md5 16be9be05b405b9cb51103e64d3555d0 sha1 4ff2301938c71938798cb4a4903d81f416f25118 )
+	rom ( name NAVETTE.FLA size 1924918 crc 37bcecb6 md5 62aa1c5d4f4829150bb5146f30d2aaa4 sha1 3058ad8b4d13caa0b0b5a10003b26db140aff5b7 )
+	rom ( name OBJ0.PCX size 22028 crc a46daf90 md5 eeb4be3011db4ec233ee3ce328ccf9e7 sha1 6f2b592ec29a8973fd82ed722fd98f5a7c453ad1 )
+	rom ( name OBJ1.PCX size 34252 crc 4f134b21 md5 746c9b532b090347b3366bf5f7567a47 sha1 9e4887e461f0246d7ab2f55f6ec4a07ab0747a78 )
+	rom ( name OBJ2.PCX size 20020 crc fdc9f387 md5 2722bc1411d5705d2e035650eee8c661 sha1 cafbac3697424444ff2003e00a9ab60e6bebbfe5 )
+	rom ( name OBJ3.PCX size 20307 crc 9ff3b147 md5 c5c900230a0e7c82955d6ec416a0ef89 sha1 bbbe38448b03b442ef7256bd18b9964d8e5100c4 )
+	rom ( name OBJ4.PCX size 38934 crc 33b37760 md5 28a64f7f6f1c3ad672fd346009a2919e sha1 df4a3ddea124f601bfbf361f544744b80754769c )
+	rom ( name OBJ5.PCX size 26178 crc 816d2f6f md5 60cc405f285fd103ae58e6b670c69c26 sha1 4f6ab1cc9208af094bc18a10bd0c34204b9454ad )
+	rom ( name OBJ6.PCX size 45595 crc c0d739ea md5 317ce086d02af595ad8c27abc7e7b779 sha1 5ca1e2bb7641efc82f13aeb42cc6d68e95cfb95d )
+	rom ( name OBJ7.PCX size 21880 crc 76e31751 md5 c1ec62b272f2693775f201ced72960f2 sha1 512279e89fcd3303c16582588d59acd69cd9d80f )
+	rom ( name SAUTE.FLA size 197478 crc 40e95d11 md5 66b3f7ab98a53c4519d13267835df4f5 sha1 ba8d8641f2527cb3803b9f747c578618bb3cdaef )
+	rom ( name TROMPE.FLA size 200292 crc 9e136e64 md5 c640d64a54417f6e6bd274708d7060ea sha1 8aa1bdf1198bde52c3d9cc86e210aa91f34f8834 )
+	rom ( name VOLE.FLA size 140150 crc abe57499 md5 57d6a246ab6ccd3f8fbf3a936d848b60 sha1 58a214b3cde5eedeb8666109fb1f95a2f29a5276 )
+	rom ( name ZOE.FLA size 379102 crc 55ff6018 md5 ba88d42f3e6182d0484bb3b5ee894149 sha1 1462f683678e02c248a7c5bf17d8f61f5d3acf6e )
+)
+
+resource (
+	name lbax1cdres
+	description "ZZZ - Little Big Adventure - CD Resources[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	rom ( name ANIM.HQR size 128603 crc b4ded6a3 md5 89668bdb0ea7be17385cd70285cb3641 sha1 f96f28de005fedf102dae4b1a9a4afe5addcb8ff )
+	rom ( name BODY.HQR size 396854 crc dc07f130 md5 c8f1a6ebf627c37d8aa6393dd694e624 sha1 f254c49ecde7977f7bc549409132df9bac5431db )
+	rom ( name FILE3D.HQR size 11851 crc 564046d0 md5 0f5a6e6734b5d46264e47d50abe33726 sha1 9ec723e3c1ca6f04d65eedebe69f4d6c449145d7 )
+	rom ( name INVOBJ.HQR size 38059 crc 40b4aeb4 md5 3c9dd3be96ba573875be6f5ba7933eb2 sha1 cf70497226209126e4e2711401513aa8fcb5f581 )
+	rom ( name LBA_BLL.HQR size 55785 crc f0bcf8eb md5 7ec98c710855bdeca25b005bd9ad018a sha1 eea55d055ca18a9fbb2987b43caa8a4c7d3da19e )
+	rom ( name LBA_BRK.HQR size 3977143 crc d2d99c9a md5 3e6d63886fb53704a8967d0bb6264c27 sha1 d7b794ca011a8d198828a284b967eca5cba516f2 )
+	rom ( name MIDI_MI.HQR size 72870 crc 5871abc4 md5 e1817ab8ed6fdaeaff72a52a1460319b sha1 fff2b27e95d5333d652fbd4bcab6cf9c90da2147 )
+	rom ( name MIDI_SB.HQR size 55622 crc 2fcc7a04 md5 dd3599dc3f4eac234065cb7b3173c66c sha1 72deca406a0c263502119883e77318c6719f24a9 )
+	rom ( name SAMPLE.AD size 3622 crc 0ab378df md5 3cce7683e5f2b8e0cca251613120eab9 sha1 f7e71a11957899980da5bb929de05c0b0ec124aa )
+	rom ( name SAMPLE.OPL size 5611 crc 2e6bbdce md5 8dbec8baada518f12286de22252d69ec sha1 7c27cda37c2ada916794d6928db8f28375134402 )
+	rom ( name SAMPLES.HQR size 2429133 crc 496fa625 md5 bf81c16a551de731bc010685d1ad99f5 sha1 cb21aa97e2bdce4d8030922cfbaa5d124c2b7b8b )
+	rom ( name SCENE.HQR size 179725 crc 7ffb2ef6 md5 28d383db3202e0814497c973e46aa05d sha1 1b203108dce6e4a73e4659e38cf077f25943ea79 )
+	rom ( name SPRITES.HQR size 180143 crc f14626ed md5 decc5ee6fe65fd7ba7a126e41c347331 sha1 53972d0c8a0980f72a848188980e2214e3aad760 )
+	rom ( name VOX\DE_000.VOX size 6212701 crc e17b2d93 md5 0591955b3010863d8d72de6c1feab37a sha1 481c72ec286df0869634348742cbae3e3be5ae48 )
+	rom ( name VOX\DE_001.VOX size 10105311 crc cd878594 md5 d7be323f5537e7bbef76fac49a598ca6 sha1 9f356c87e8da42813ad7c7a6ff8e19fb5aea0921 )
+	rom ( name VOX\DE_002.VOX size 1731494 crc a0fb97cb md5 a7c237302d9c6cc0569b1a7d67e848df sha1 77eab065dbde61c6f9462555c22b84b49747bc18 )
+	rom ( name VOX\DE_003.VOX size 4253383 crc eec6d607 md5 6d363884ce0c0850d9e00368e6e1c1a8 sha1 6bedf5b3f79f5f3ffa3f54234fdc8e34d085f2d0 )
+	rom ( name VOX\DE_004.VOX size 1366631 crc 9c7de116 md5 f0c49d25765f822ddd75e3ddc032e822 sha1 fb3738550f86119391d807129704bd414a0ac600 )
+	rom ( name VOX\DE_005.VOX size 1868032 crc 6f61690b md5 70c84f81436ed62af1e64f7d6d602c9c sha1 5a25cfeda76555b22d7e58821615f50757e51cc2 )
+	rom ( name VOX\DE_006.VOX size 1066193 crc 9ce00121 md5 cfe7ad9035d97ed6ca97270f2da2e678 sha1 57e64d866c048c92a7bdffdf1a046af23f930960 )
+	rom ( name VOX\DE_007.VOX size 2321866 crc 2333f957 md5 fc9b87f45dc394c3327f6b4edb96a478 sha1 905fa802ee4b6d14ec9f266b61bd5a5988e32654 )
+	rom ( name VOX\DE_008.VOX size 287489 crc a0ffd5c4 md5 ddc5048b4d9077069c026f87fbbcee95 sha1 8d576d95610f2d78262ea0762e923f55de9085a7 )
+	rom ( name VOX\DE_009.VOX size 1626460 crc 26cd347e md5 c98e954de80b0b5578e6415ad831a1d0 sha1 58e50049e49390810c6c52d8d6c4f0043a450d0d )
+	rom ( name VOX\DE_010.VOX size 967875 crc 749756a4 md5 bbf43f0156c225f1db8d4be2755b9b4e sha1 67a954dcb4022218d9a5f33035152000ef1e21e6 )
+	rom ( name VOX\DE_GAM.VOX size 1824842 crc ca9df805 md5 beb3ed9ffb1e992b4ad6f5ee95d63e1a sha1 2c19440f4415b1294c1060d387f660a11b5e60f2 )
+	rom ( name VOX\EN_000.VOX size 6249564 crc 201e5959 md5 dc582eb50a00117fffebdccf6d754e17 sha1 f585169fa17a3c6a8655a71edc6d566ae9d98755 )
+	rom ( name VOX\EN_001.VOX size 10343661 crc f0bc07a5 md5 5c420beba82bc4974cccaa6c35be0a3c sha1 255ad9963fe657a440807899dbde41bc35d52a79 )
+	rom ( name VOX\EN_002.VOX size 1844083 crc 571130ce md5 0ee9724ebd5acfdf250bb8e47c0ac75a sha1 c7dfec029bf5b07707f8973be1f7c81fe449a895 )
+	rom ( name VOX\EN_003.VOX size 4022734 crc 56950c9c md5 1460e3760a324ddc9691ab7b995cb092 sha1 d4696f264b748b9227144b2a391623ae2e2e7128 )
+	rom ( name VOX\EN_004.VOX size 1367563 crc 1ed236df md5 6b23b74fdf0fc9ebce71a26ad1f02bfd sha1 09fe9ecf06b1a399faf2b5f2d7a74797691420bb )
+	rom ( name VOX\EN_005.VOX size 1760125 crc 738d7048 md5 64c1468753fbf84e27cff46cb86cec61 sha1 ade9ed46304e3e7adbd68e5d386f19b999365249 )
+	rom ( name VOX\EN_006.VOX size 1122810 crc 50cacfce md5 4b575b1daa38fc7937002b6adcce0085 sha1 b1c1313e2214b3c47ddc43dab8fc67d57f54b1de )
+	rom ( name VOX\EN_007.VOX size 2164787 crc d9c8fa95 md5 2edf33b3fedf93ea66ceb9b9e5c0567d sha1 624634c8d87fd3fb0feaabc7a77500b0eb492e05 )
+	rom ( name VOX\EN_008.VOX size 284547 crc d6c23b7b md5 7315ae54d01d733f25c295434d8360bc sha1 8223a77007b3b497ab997e9af3546166e80c3a59 )
+	rom ( name VOX\EN_009.VOX size 1800800 crc 09a97002 md5 1f1824a5d30a7f63845a53aeabb77119 sha1 e2f952e72459b8e8e19c4baa15dcbd700349d983 )
+	rom ( name VOX\EN_010.VOX size 813908 crc 06205b98 md5 5430f2d6d763101b0087b6019e0b6349 sha1 47d181039f65bbe97d6558a798769216b742d24c )
+	rom ( name VOX\EN_GAM.VOX size 1922674 crc 57a3c761 md5 a34ad58b76fd9aa8ce27142757c9afe4 sha1 9b719e1b8ec70a58f26c4d6d51224a698e8fbf02 )
+	rom ( name VOX\FR_000.VOX size 6516645 crc 8b0a0b72 md5 d453395b43a9a01165a7420ce512bfc1 sha1 d5089e29991c24fc48e6bff255c4a56eeffe49df )
+	rom ( name VOX\FR_001.VOX size 11283116 crc 195a56e1 md5 6294093153b53ffb682c96064a34ba08 sha1 255f4e465db1b8865a4167ee5b6aabf0dc63af40 )
+	rom ( name VOX\FR_002.VOX size 2026364 crc 8cf64359 md5 f5935d730a4efa96541ca6adddd2c1e9 sha1 0adaf6de29ffca3956df17fa7d661c7a768613f8 )
+	rom ( name VOX\FR_003.VOX size 4295526 crc 3039396f md5 59152711d6b0961627d8962fcd1a65eb sha1 ab5b23ef7e0738999539fd1ca6ee3ea4c609c5ce )
+	rom ( name VOX\FR_004.VOX size 1351011 crc d1d0ef47 md5 2f4305eb2b85f2ff5a658f5130fbb662 sha1 59dac9b310a6acdd5ba3529b02aef0b098370985 )
+	rom ( name VOX\FR_005.VOX size 1819148 crc f89bef87 md5 fbdd84b1cd0cbc1fd17198ce6dba7083 sha1 07eca6d8ac41c5151477d96f1ca23a32d6ad57a9 )
+	rom ( name VOX\FR_006.VOX size 1257886 crc 18587a9f md5 6295bff82545f34672bda69b8e3d675a sha1 d59d50c090f6a130503da2efdc17449d0eb8babc )
+	rom ( name VOX\FR_007.VOX size 2275292 crc f4b5cbc4 md5 d19383865c91b6be7c19eff25698ec11 sha1 733d5d428273e3916750dc37cad06d19b6dff25c )
+	rom ( name VOX\FR_008.VOX size 297681 crc a9707c23 md5 3d09a5e531cf7b86e21cc40964315826 sha1 e7baf84300f2a75d35af527537a665062f52c7dc )
+	rom ( name VOX\FR_009.VOX size 1995388 crc fae18ed7 md5 d622c3a8b5d72eaf83e3025b4e3f425a sha1 c089020abd155df6c51e080d1386311b2eed4ff8 )
+	rom ( name VOX\FR_010.VOX size 923434 crc dd40c0fc md5 a502206198f9a4993998e3453facf661 sha1 20ae318f53e6923c7b876c751488faa479fe6da3 )
+	rom ( name VOX\FR_GAM.VOX size 1970953 crc cb4dbe83 md5 6528544bd4945de2bbf2e72384ec596e sha1 bfdf1d955d8fbd5f12edb4398a7be0cf58003a22 )
+)
+
+resource (
+	name lbax2res
+	description "ZZZ - Little Big Adventure 2 - EU Resources[!]"
+	year 1997
+	manufacturer "Adeline Software"
+	sourcefile twine
+	rom ( name ANIM.HQR size 1197090 crc 093a8d26 md5 243b0f5432ac8a89d03f2699788ade6c sha1 75825dff2bed48507137404ffce203a74127e04b )
+	rom ( name ANIM3DS.HQR size 516711 crc 70c0321b md5 b18d343d879beca6faa55a4ed93a566f sha1 57890e3d81bf937a2b402434493c377cf0085a8d )
+	rom ( name ASCENCE.ILE size 52304 crc c7293ce9 md5 f0e69ef89d4034e48048d8074805863f sha1 1713f568c7e86c92752aca201ceea87626c075d3 )
+	rom ( name ASCENCE.OBL size 43624 crc ab7869ea md5 73037b60a3aee681afcfd781f04cdbbb sha1 26e3fb0fae5dce4ca1acb592b06e1a5ba8ba8600 )
+	rom ( name BODY.HQR size 2197406 crc f50d4547 md5 464fafc364cbf7453499ee833ecb23de sha1 729cb5701dac4aa50557f5c57b120f45c2288f0a )
+	rom ( name CELEBRA2.ILE size 101880 crc b176f446 md5 4680a8a7bfd07dca61d66a79b03a4bcc sha1 9a02825e80b3a7aa79efea212dcd229f3d04c7be )
+	rom ( name CELEBRA2.OBL size 78968 crc ed07a099 md5 a5ee2d25907765a272fc5427313de2e2 sha1 09b0a115bc3136a81939c456ec7e77c199a83c84 )
+	rom ( name CELEBRAT.ILE size 95116 crc eb678bca md5 0265fd1becec130d6949b7edbb969aea sha1 0ea34ea370ce8f96ed0807d91a3edd33324e23f0 )
+	rom ( name CELEBRAT.OBL size 24771 crc f704f02c md5 dc4cba1351e806babd45ff6be31ef529 sha1 34e86093fff88ff2aad6da5554eebed080d0d6a8 )
+	rom ( name CITABAU.ILE size 199087 crc c637f161 md5 822e288360ee612cf4f9bab4e21ac1db sha1 7471933e800a5b210415aec8a3551f8aaa5d4844 )
+	rom ( name CITABAU.OBL size 215512 crc d1d9d4ee md5 f521b69396c4d15017a3426195e59673 sha1 2679ce5bdd5bcfd5a45444f4f7e4127287ca1ea9 )
+	rom ( name CITADEL.ILE size 197173 crc f972b6c0 md5 d47e8b9c703681ca43b9e17dfad32b12 sha1 51d91ccdd6ceb2fabbc03f9d4a31cee2d2710969 )
+	rom ( name CITADEL.OBL size 114236 crc 15374dd3 md5 6f10d41a33adddd890f878cf622d11ba sha1 82195aeed4cf38f9b1e87c87c18317384a529798 )
+	rom ( name DESERT.ILE size 307268 crc d6bb968e md5 3d736414897a95d16f65c2dccecf9123 sha1 b705fc85db166f8172c295f89d6f97febb3769b2 )
+	rom ( name DESERT.OBL size 176693 crc 106f84c5 md5 b443eb1a72f9c1d1fd60f300ea8420d1 sha1 0431dffed13cd2853a1c0a8f43286954329d54ed )
+	rom ( name EMERAUDE.ILE size 113502 crc 1371b41f md5 768194d163d9c88bb2ceb4bf8f389fae sha1 4edcbce7cffe0f54e943ed0a55917b93466143c2 )
+	rom ( name EMERAUDE.OBL size 51226 crc 2b3e5e82 md5 f59fdedf6edd72cbb347fc3d7750d848 sha1 9579947c0e8d8b0ab92ecbf62cb180a069dd5fc5 )
+	rom ( name HOLOMAP.HQR size 1999841 crc 25583ffa md5 c3ccdb6cb6326acb4b0ee568ebb44889 sha1 09fe08ca764f68feefdb44db459af783ecaf8a7a )
+	rom ( name ILOTCX.ILE size 62657 crc dbd39395 md5 c61c328b30c3c533262f7afefa1cadaa sha1 c2491bbdac5d61a3915bce89afe933d5752cf62e )
+	rom ( name ILOTCX.OBL size 33120 crc 5e6e1426 md5 58b375f5ffa0bc03dcfbd00e251aa3f1 sha1 8703c09d5842231fd5929bf7f0b138ee1561056b )
+	rom ( name KNARTAS.ILE size 124837 crc 14aafae1 md5 22c3175be278ee211aa7b61c02f8ac26 sha1 a55268e7607cb7d517ae0681c48e873391c6c312 )
+	rom ( name KNARTAS.OBL size 207195 crc 1407e2d8 md5 997d7429bad8690571776a7d79cbb6ac sha1 c88fbf6c57cca2ea94d0676b2718482817abb47e )
+	rom ( name LBA2.EXE size 616448 crc d5048202 md5 e425093d677b7c534c2e415ada5711bc sha1 3c0a434d83f8b58401ff6f7908e6658e27a3c87a )
+	rom ( name LBA2.HQR size 250788 crc 766a5369 md5 de6ca5b18537891616bb29f180ce09ee sha1 12451e77ea76f987b93f087ba6ad03748e7b8c54 )
+	rom ( name LBA_BKG.HQR size 7990523 crc 88ab3356 md5 1ab2f0586037b9432effe95e82860fd1 sha1 ffbc5038c682649092c3f5bae500f1cdc1b11f73 )
+	rom ( name MOON.ILE size 114234 crc 460cffaf md5 0fa23cb778ad2e9c45bc628f79797440 sha1 d76872d263288542797a660077748a51a9ac14e8 )
+	rom ( name MOON.OBL size 51210 crc e5993f32 md5 e11b3a82da8613704e86b3ee9170893e sha1 5645eed37ff4f5d4be1f018015b306836619c8fb )
+	rom ( name MOSQUIBE.ILE size 107480 crc 3bc72fc4 md5 051bfb8582873ce743cb8745e08684ee sha1 49490442aad47e57381014de32ba0bd3241f1aa6 )
+	rom ( name MOSQUIBE.OBL size 94721 crc 84fce60f md5 e1c7d9fc858fc7a41fe2878553e55dcb sha1 2efccaf99f451c8b5a9757e78520d6bc571af67f )
+	rom ( name MUSIC\JADPCM01.WAV size 1110076 crc 86563485 md5 ebb487806a0d2bc5b93493c50b1a5a5d sha1 1be95adab67cbc15807ad72c60556bbf0777be1c )
+	rom ( name MUSIC\JADPCM02.WAV size 521276 crc 9fc9a967 md5 e94e95c5327991d02d925b3d19a0d015 sha1 0e761c2bba8df09b2547bc1074a59f4eadf0aedc )
+	rom ( name MUSIC\JADPCM03.WAV size 630844 crc 175c73c3 md5 7dd6bfcf4d431c76b8a27745ae493029 sha1 0f578a642c190a1ef12424897e89f3b93f611bab )
+	rom ( name MUSIC\JADPCM04.WAV size 662588 crc e7bf563d md5 c5e482e2f3dfbd5a76c35c57590af997 sha1 416568d7d3e2adf279d17ecb5feb4ff1a3a74822 )
+	rom ( name MUSIC\JADPCM05.WAV size 672828 crc eddd2713 md5 ae4b1cf95e0ea495171817b3923e1b44 sha1 648d7b3d4b505a0d2e871d8f899b69ea7fca790e )
+	rom ( name MUSIC\JADPCM06.WAV size 319548 crc 68ff2bea md5 a994a46c8793a748957a411f1fcccad4 sha1 f4b6c4a546d57e5bf9e0bdb9e97093f84d22bf00 )
+	rom ( name MUSIC\JADPCM07.WAV size 966716 crc a1c4e900 md5 fc8089e66699cfdf50d19e1798a9852b sha1 6a0e9d46fbe45d39a3bf83c2f92edcd9c7a378a6 )
+	rom ( name MUSIC\JADPCM08.WAV size 525372 crc 6cbe33e5 md5 11b616a81ba4dea52983a39628ffc98b sha1 42e57174b174b75f729c0b8eed1f6a2e4e09d556 )
+	rom ( name MUSIC\JADPCM09.WAV size 456764 crc e5f8c3ff md5 b2826fdbdc412a937093ebe5c67e07c3 sha1 9e47db49edb356092cf72b382e6c56825507b791 )
+	rom ( name MUSIC\JADPCM10.WAV size 416828 crc b84bd357 md5 a3d223099c69d1ca47b1ddaf1168b5fb sha1 18a1193bbad80995ab95cf3eb2b7a3430813c97d )
+	rom ( name MUSIC\JADPCM11.WAV size 315452 crc e21d2b7f md5 782afe30bde6b3c3e8f350e24088742c sha1 b8b54584d562629e4375ee2292ed7e758e6651b5 )
+	rom ( name MUSIC\JADPCM12.WAV size 1303324 crc 250ae264 md5 f30da5a575d653f83974cedb25b9c705 sha1 da74da7fed7f8708acfd2761d9e3e7208d9b1845 )
+	rom ( name MUSIC\JADPCM13.WAV size 887868 crc 563756e1 md5 a13c5ab89f0ae204baf240a09cc90370 sha1 5a10c7cdaded9173ccaffbbc02d6e71d765685ee )
+	rom ( name MUSIC\JADPCM14.WAV size 470076 crc 5e184ad5 md5 9ea385e7cf4482fe7aecee0eed3adc8a sha1 cc2ab9cab375b79fae1c160935dc93ab0f0bab53 )
+	rom ( name MUSIC\JADPCM15.WAV size 547900 crc a5f394be md5 01c9339601a03494d373c737d0400e73 sha1 e560c81900ced694601696299a43f2d7e109420d )
+	rom ( name MUSIC\JADPCM16.WAV size 840764 crc 2ce11db9 md5 4af236aeba8436d8485629dad5b10fe0 sha1 62f04e07f7bba3dbcdd082c92738ad8d6358936f )
+	rom ( name MUSIC\JADPCM17.WAV size 359484 crc 0f669ee2 md5 46c6b81d223b0bb3640f50cc89363ebf sha1 861216478a2ed4555492d1eff0faeaccb9a51c58 )
+	rom ( name MUSIC\JADPCM18.WAV size 531516 crc 8440bf85 md5 015e53902aa6379ee0e87f83df93ef66 sha1 12f327643707b762d948bf7f98ed8344a45534a6 )
+	rom ( name MUSIC\LOGADPCM.WAV size 155708 crc 3ca388df md5 2fb5a97fb90221905931ec550d972850 sha1 8fd149101164f60dd0a547d27cb1c34e7de1b1f6 )
+	rom ( name MUSIC\TADPCM1.WAV size 10367076 crc 565017d1 md5 b77350feb89164b4757a845b95057d15 sha1 9666db849c2b7560ab150c7d2718e1626bfb280e )
+	rom ( name MUSIC\TADPCM2.WAV size 9981412 crc a5229b7e md5 e724f226455b331f40744e76adefbe6b sha1 c2f3dd0d94079aab1d47dbd4587a648706202981 )
+	rom ( name MUSIC\TADPCM3.WAV size 8590388 crc 7835d0e0 md5 e264d469151007f8227b1f7ab50e8215 sha1 b6b2e36dd291b5884f5d5a833d60c32ca7db6920 )
+	rom ( name MUSIC\TADPCM4.WAV size 9276916 crc 9349591c md5 9a18a96edd24354cb3c0e8240cf07981 sha1 36d1539f24f6be86e58d01c8b35591770123ee8c )
+	rom ( name MUSIC\TADPCM5.WAV size 9750964 crc 00b39e45 md5 fe3097882b30cf25444ef60b0af0ef4d sha1 43702af2cd9ef5b69f42f03c59e45f7f9a3c2956 )
+	rom ( name OBJFIX.HQR size 185036 crc f994e9d3 md5 840097e81a19da586f012710666183d6 sha1 7033ade12bc389ce4afb6657ccb58c1714520221 )
+	rom ( name OTRINGAL.ILE size 181166 crc 9ff072c5 md5 d9096aff40c98048d26bf7ae44250450 sha1 8f216d9f5bde99be4fee2ef0fc6be4d2b76d4e40 )
+	rom ( name OTRINGAL.OBL size 271999 crc abf0311a md5 81118fe61afc82fea1dffad4f3bbd855 sha1 a631942b6cf07c6ac61ac1490bb30f7d694cce22 )
+	rom ( name PLATFORM.ILE size 124340 crc 8b38cdea md5 a67eab0768d603c21993d96bb8358fa1 sha1 136b589d50ba1a781ce4d38aeba5d800a4509489 )
+	rom ( name PLATFORM.OBL size 107359 crc 9c42f1b5 md5 5add435b5ccf9d5ddedecbc418438ca0 sha1 b91b310036cddbb3d50f345057af6e61e0169e84 )
+	rom ( name RESS.HQR size 582473 crc d54bb4cf md5 7bf2437b5954d9423db86174eb974264 sha1 cda8e410214bd50926db057cffd90aefb440226c )
+	rom ( name SAMPLES.HQR size 5754107 crc e2fd41e9 md5 92291d3c58eacfb60071415fe715a247 sha1 35ad9d42eca92f1eed5da21cf74a77c9291e3ac8 )
+	rom ( name SCENE.HQR size 543251 crc 40c0a6dd md5 873f82a8ed65b32f49ebeadbb63d09a7 sha1 1c9f4848b1a8a89a7d49d46c6c3e198b4cb5295b )
+	rom ( name SCREEN.HQR size 3453594 crc 18600adc md5 ffd069c3a6ba581e3354f880087242e0 sha1 0b6ae2ac671009a0bdbaed594ac81b2303aa6ba0 )
+	rom ( name SOUSCELB.ILE size 91913 crc afcc3ea1 md5 f3fe02ff5e6b8aac29516fc272d65226 sha1 0586fe53b2655140ffe20e49317cfb7fde5fb6c5 )
+	rom ( name SOUSCELB.OBL size 28741 crc 2b0b7c32 md5 a9ab6498621920a957239e1d003199d0 sha1 22b9f43f2d66a71deaea4417334e0fc585a8c4f3 )
+	rom ( name SPRIRAW.HQR size 73793 crc b45d90c2 md5 1bd67cb1224c41df752358ae2b2e53a0 sha1 10f8e3378981475e7fc924f8eb0e3eea8d307de3 )
+	rom ( name SPRITES.HQR size 541597 crc 07a8b765 md5 79213268bede1ab996e5423af3051ff2 sha1 7556eb12b39be698b114b797162d4700b844e667 )
+	rom ( name TEXT.HQR size 442979 crc bfa5dc3c md5 ccedb72f0cc31fe76a987fb2c98d47df sha1 98b654c41816eaf6ee8d18c369fa4c3b912361f7 )
+	rom ( name VIDEO.HQR size 233966456 crc ce040a41 md5 9c01d5891f9e0bdc2ec6c803d4ccb289 sha1 0ba4048b33b3a66979b46d1b07b175d2a8d62890 )
+	rom ( name VOX\DE_000.VOX size 23902644 crc 25c80ff0 md5 b87349abb3250ce7b89502052d845f0c sha1 84bb231550d8ddd525c6f4deb5b9d66d3c8a290e )
+	rom ( name VOX\DE_001.VOX size 8350 crc 739e6f61 md5 d2731cefbe3171843c60cdaef9608784 sha1 cae4fe36790752b6f774efac0987b6e2f9eb01c4 )
+	rom ( name VOX\DE_002.VOX size 19474892 crc 43ee92fe md5 19ac56a512d63b598d775f2c24ed6b11 sha1 3c36d6761b342b799d7aead7b7964ca1bb6e6f86 )
+	rom ( name VOX\DE_003.VOX size 2016932 crc 3561068b md5 d7c7b5b242f00a234cb18e8b43709adb sha1 e4c0ca70fa4751cfec09d9f05338e3142af2e50d )
+	rom ( name VOX\DE_004.VOX size 17859618 crc 0eaea77d md5 217f8436d40513c09361fc1fe103f77c sha1 0377ef779f168b24fc2f32e7fcb3a7effb9a033e )
+	rom ( name VOX\DE_005.VOX size 7346112 crc 8b9c35a6 md5 61f9c65eba4b07bd3c2809cf99b1d5b8 sha1 8147e4a90ed2cc73c9f5efec33b65b0f069b5ee5 )
+	rom ( name VOX\DE_006.VOX size 7140864 crc f578c6d7 md5 0c2ffabc7fbd8c25a35003b02fe6a3a5 sha1 6ecc3031ba9ca759bf15c7f4adc7ceda92c32af4 )
+	rom ( name VOX\DE_007.VOX size 2457046 crc e180262f md5 899cd5dc13055a3d24cc836fdc6b9b7e sha1 a9305c1733e3cbc3df723cf74f973151da7d6fa8 )
+	rom ( name VOX\DE_008.VOX size 2828054 crc b5e8c478 md5 10fef9792dab225456ea4eb6200a36ed sha1 0a98997e6f96c77a876bbf2827eb864a6332302f )
+	rom ( name VOX\DE_009.VOX size 2182618 crc 128f466d md5 de6f4e145def794b1165b49359b8d720 sha1 4a9142706f8a1655054eef078519a161fbda90e4 )
+	rom ( name VOX\DE_010.VOX size 625024 crc 148d1ea2 md5 0234338809320bbe48079e105dd5efd5 sha1 01ee7cda19f34a854b4aa282c650624f8257ee5a )
+	rom ( name VOX\DE_011.VOX size 739360 crc 550efeaa md5 8cb6695db00b583df0c8c7f16998f0bb sha1 e0c8d6241222f94f5d78222a23fbf75fde965222 )
+	rom ( name VOX\DE_GAM.VOX size 3175288 crc a83c5004 md5 90e56d0308eb911e795f28d1a6b11473 sha1 774d90db07e6af47532f3c4bb53924b494c170bf )
+	rom ( name VOX\EN_000.VOX size 22399352 crc f7f32a2b md5 a324b328cb33cde848dbd8e73f4796f2 sha1 5c396c3b12bc7ae2f57574fe4cc6e717bc7bfe95 )
+	rom ( name VOX\EN_001.VOX size 9322 crc 5a5ccea7 md5 059282557ea2edb916976bc0b647971e sha1 c8d23d4af3225f9449a08a94851948cf764f0b83 )
+	rom ( name VOX\EN_002.VOX size 18728370 crc 77688eb8 md5 c47d40ceae1304343f1643230e686b21 sha1 b09ea8b5fc5b72882ce11484ed1969af4623c332 )
+	rom ( name VOX\EN_003.VOX size 2428982 crc 3e5efd6a md5 920c6b1a229a5d1f009604871b73db65 sha1 a39d3f4963c57bf6d6653cdb36a189435bc7c62b )
+	rom ( name VOX\EN_004.VOX size 17788522 crc c3697870 md5 5919817286581c56c31312de48f526ee sha1 b39f50232bb244a230d9abca67ba9a23d340e469 )
+	rom ( name VOX\EN_005.VOX size 7172948 crc bac4c35e md5 cd09b221c3b44be4acb3a0d6529e0441 sha1 e9eb284b277515ae8d196d4fec7668a4fd027569 )
+	rom ( name VOX\EN_006.VOX size 7123256 crc 2e0d4f8d md5 fa2800cabb6af16892c84e1a2ab18707 sha1 64f7ead4e0ece63289945ae7aa4b4c0253ea0095 )
+	rom ( name VOX\EN_007.VOX size 2096286 crc 9ad07b37 md5 e184b66d57c043db3e5fc17ec8dbe954 sha1 0594e647ea801122b80a5c7232a326df5880a6c0 )
+	rom ( name VOX\EN_008.VOX size 3006810 crc d048232c md5 198067206f9c06a7cb91a1faae8d816d sha1 5f42dd7368a56ccdfdcd1b8ecf7a2e864f36770a )
+	rom ( name VOX\EN_009.VOX size 1910886 crc ebede753 md5 7e4b8dc005c0fdbd01c3ac421aad6497 sha1 480e57c1831ef97fa976182f7c58d316606b6505 )
+	rom ( name VOX\EN_010.VOX size 759944 crc 9c14960e md5 022f10597b549ce3f1755f9355c1df70 sha1 b48d31f5759850b40c7f2380f2a2a957339c22f4 )
+	rom ( name VOX\EN_011.VOX size 906004 crc 2bba383a md5 b19d132e737355be301702d1275e160a sha1 db96387db9ce6f3f2adb569f810565755d386fd2 )
+	rom ( name VOX\EN_GAM.VOX size 2818984 crc 2b04b8f1 md5 4c410e8a66ef35419887fda5f4336895 sha1 c98d227a98d048ab79a2d70b2b5a61a35f3813de )
+	rom ( name VOX\FR_000.VOX size 19349670 crc 5d4555ed md5 caae6a5f891318c30f5a240815a08827 sha1 499ce467ed222a8d41e5b84bd99077b7aee36ec0 )
+	rom ( name VOX\FR_001.VOX size 8446 crc d1a3b0d4 md5 2abef311b6e68630d323375a7ba8e6a3 sha1 303f2e639ba27a66b24ea95bd24b55cc344dd502 )
+	rom ( name VOX\FR_002.VOX size 17702666 crc c29a76d4 md5 ec4954360f1b4841d3a604658f00528a sha1 1df70bdd09becb7313e54c761ea96da84531a4bf )
+	rom ( name VOX\FR_003.VOX size 1702712 crc 709814e4 md5 cb75627d2d2bfa91e52aa34772bdf616 sha1 26250221beda0fce378cc2e5521074e3ef7e6fc4 )
+	rom ( name VOX\FR_004.VOX size 15285700 crc 6242fe80 md5 e99dee6fbd29cb44d9f836e8acec8169 sha1 b39cf13fe488a7c5d52798520ae9e895f6fc5264 )
+	rom ( name VOX\FR_005.VOX size 6458410 crc d8d2ce15 md5 91f74178aca5606d966c3fc084559fc6 sha1 02c06792aedf45cdc9975bf21c308c4f35c6554c )
+	rom ( name VOX\FR_006.VOX size 6544526 crc 413aec7d md5 546130c7e340e4d917a7bcf3358a54ae sha1 ccf6e25692de8d2b787c4698a681624c9565cba6 )
+	rom ( name VOX\FR_007.VOX size 1949272 crc a3f8c22b md5 8717851dce3c3ab4fb89aa1e41e8ac9d sha1 8893eb3e4c769987e90bcd7a71169a5288d85a01 )
+	rom ( name VOX\FR_008.VOX size 2279948 crc 482d99f1 md5 f76545366fd1f81d5ba00884dde6425f sha1 a23b8f587cb3c7be896a257f37b0ba338751fd4f )
+	rom ( name VOX\FR_009.VOX size 1913164 crc 84c0b61e md5 243406f56b60a5f124a71f6ad827837b sha1 c7e930fd8cf682060b30473e19b46079e21e317c )
+	rom ( name VOX\FR_010.VOX size 548112 crc 3a3841c1 md5 469e689f2e5a137614ea9bc636470b7b sha1 7664bbe74a92f666a8866109d408ffa80d6a458d )
+	rom ( name VOX\FR_011.VOX size 789192 crc d9973f88 md5 9f12f869904f85337697a6c2c81486fe sha1 595f50609fea6bfd80ba109d4b2264b122510ed8 )
+	rom ( name VOX\FR_GAM.VOX size 2585680 crc b705127d md5 11ffa757af17d3ca52f0d560f7eee8c6 sha1 6d531cc92ba3bfc3b588e34d8e582300197a1ae5 )
+)
+
+resource (
+	name lbaxdemores
+	description "ZZZ - Little Big Adventure Mod Resources[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	rom ( name FLASAMP.HQR size 1701951 crc d72ff5d4 md5 0f835b9642519481de5f3f1fdb65367f sha1 9006617dab9ae36fe3d66b8150c167c0e06b1052 )
+	rom ( name FLA\BAFFE.FLA size 794794 crc 04d0e102 md5 d3f700509ce34faea8293733a2ca844e sha1 229d9bcea1bd3858d8cfc6c662a7a41536ffe409 )
+	rom ( name FLA\BAFFE2.FLA size 779828 crc 2bf32f63 md5 cd5a7b491df7a07c7cc3932fe47ca6e1 sha1 e4a964a5494acda501a20a5cba75518f0fdf55ba )
+	rom ( name FLA\BAFFE3.FLA size 783058 crc 95a0e162 md5 43bec83a04deba0c954df364cb7e453d sha1 6846e137a59a0ecd33f306b74b251b0d56d1e330 )
+	rom ( name FLA\BAFFE4.FLA size 1114382 crc 0749f191 md5 e1dcbdcddb16f805187e354e7123efdf sha1 3d38fc2e1ab01d226ec76bcd73ad96c1a5175ec5 )
+	rom ( name FLA\BATEAU.FLA size 4354566 crc 5c7e57dd md5 b30209d479b132b7eb30f2aba3b2480a sha1 c32a76c3d0442c517995ac85a9e1bccfbd4651de )
+	rom ( name FLA\BATEAU2.FLA size 4406328 crc 60835584 md5 76f1093ad571facf5d9137b82990c85b sha1 236b5c607729acaef63d1ff5b87c5bd950ab9b63 )
+	rom ( name FLA\CAPTURE.FLA size 3588436 crc 8aae5a2b md5 37ca09b04ac84162c21801af6241a7c2 sha1 77e8a3fc34caeb5884167ee62482830cf8067e95 )
+	rom ( name FLA\EXPLOD.FLA size 5050118 crc 8500912c md5 bda56781d644d823d9f078f2350b5041 sha1 7860f6f5ca12fc49c7ed919ba033fd7cc45ce34d )
+	rom ( name FLA\EXPLOD2.FLA size 3047944 crc 835350c8 md5 b627cfac91341c4986777f64c7553652 sha1 f7006f1ef125005085f5411820fbcb147d2e3c86 )
+	rom ( name FLA\FLUTE2.FLA size 4257630 crc eccfbb15 md5 060d241e38cd3e8eaa98f57ba7fc80d0 sha1 f5f562b590ddc8bfe10b840a6ab09e1d780b7e8c )
+	rom ( name FLA\FORTRESS.FLA size 900702 crc 63f8d1c2 md5 7e17f09a84f2633920abfcb9275dab67 sha1 ac0f97bb2612327dd7293413a6377bc5423a4130 )
+	rom ( name FLA\GLASS2.FLA size 2575978 crc c58c5f2e md5 686b7006ce82e3a65d769bae5acd474c sha1 38a9c6fc3a728c9def40cb2eb97156125216da1d )
+	rom ( name FLA\NAVETTE.FLA size 1924918 crc 37bcecb6 md5 62aa1c5d4f4829150bb5146f30d2aaa4 sha1 3058ad8b4d13caa0b0b5a10003b26db140aff5b7 )
+	rom ( name FLA\NEIGE2.FLA size 4287064 crc 7fba1e6e md5 80140b07b75fc555e3bc685c4a028530 sha1 b445a54668225d36c395a64a8dbe1d334f7ebadd )
+	rom ( name FLA\SENDEL.FLA size 8133672 crc 457c6a2a md5 25d9894bd162b0b6bb83972294ae975d sha1 6715d0d2c67183b35e94142508141e1dc332040a )
+	rom ( name FLA\SENDEL2.FLA size 8302918 crc 1801b2c0 md5 00b7a91095ba17ba33bfef9ef4b4cbae sha1 fab6e6d57ac5efef8624d5c3afdb0951f75c33b5 )
+	rom ( name FLA\SURF.FLA size 1604488 crc 08ef1018 md5 22e1cb1e05ef370a44e9079abb1e4822 sha1 411b372cc56df3012b93b86c1787a7c094217b81 )
+	rom ( name FLA\TEMPLEBU.FLA size 6080144 crc a6ea1f01 md5 8f5fa71b4c405b043371659b4a603f7c sha1 1e05a292c7ec6420f428989cbde6ba008b7a29ee )
+	rom ( name FLA\THE_END.FLA size 1017252 crc bf336ccc md5 5aece7b0f68f3acda801096d6ab70eb2 sha1 4462ec49245b2d02d27f4ee13dfff85cef0b6537 )
+	rom ( name FLA\VERSER.FLA size 835306 crc f52cffb3 md5 12c7377e77b8182c31bba0a572e90eb2 sha1 4b578e94d220518b61fd75a1e88d4bddeadec9a4 )
+	rom ( name FLA\VERSER2.FLA size 786178 crc bd82a1f7 md5 0fa7a383c9851215313a0718434d908b sha1 9405c62bf1849263fd4b7c60366b633a9df7d0ab )
+	rom ( name LBA.EXE size 258513 crc d2b2ac39 md5 58275cbf4760521eff5f87db21765bb7 sha1 f693fb8ad48f1da2aa58939829010d94310d0959 )
+	rom ( name MIDI_MI.HQR size 72870 crc 5871abc4 md5 e1817ab8ed6fdaeaff72a52a1460319b sha1 fff2b27e95d5333d652fbd4bcab6cf9c90da2147 )
+	rom ( name MIDI_SB.HQR size 55622 crc 2fcc7a04 md5 dd3599dc3f4eac234065cb7b3173c66c sha1 72deca406a0c263502119883e77318c6719f24a9 )
+	rom ( name SAMPLE.AD size 3622 crc 0ab378df md5 3cce7683e5f2b8e0cca251613120eab9 sha1 f7e71a11957899980da5bb929de05c0b0ec124aa )
+	rom ( name SAMPLE.OPL size 5611 crc 2e6bbdce md5 8dbec8baada518f12286de22252d69ec sha1 7c27cda37c2ada916794d6928db8f28375134402 )
+	rom ( name SAMPLES.HQR size 2429133 crc 496fa625 md5 bf81c16a551de731bc010685d1ad99f5 sha1 cb21aa97e2bdce4d8030922cfbaa5d124c2b7b8b )
+	rom ( name VOX\EN_001.VOX size 10343661 crc f0bc07a5 md5 5c420beba82bc4974cccaa6c35be0a3c sha1 255ad9963fe657a440807899dbde41bc35d52a79 )
+	rom ( name VOX\EN_002.VOX size 1844083 crc 571130ce md5 0ee9724ebd5acfdf250bb8e47c0ac75a sha1 c7dfec029bf5b07707f8973be1f7c81fe449a895 )
+	rom ( name VOX\EN_003.VOX size 4022734 crc 56950c9c md5 1460e3760a324ddc9691ab7b995cb092 sha1 d4696f264b748b9227144b2a391623ae2e2e7128 )
+	rom ( name VOX\EN_004.VOX size 1367563 crc 1ed236df md5 6b23b74fdf0fc9ebce71a26ad1f02bfd sha1 09fe9ecf06b1a399faf2b5f2d7a74797691420bb )
+	rom ( name VOX\EN_005.VOX size 1760125 crc 738d7048 md5 64c1468753fbf84e27cff46cb86cec61 sha1 ade9ed46304e3e7adbd68e5d386f19b999365249 )
+	rom ( name VOX\EN_006.VOX size 1122810 crc 50cacfce md5 4b575b1daa38fc7937002b6adcce0085 sha1 b1c1313e2214b3c47ddc43dab8fc67d57f54b1de )
+	rom ( name VOX\EN_007.VOX size 2164787 crc d9c8fa95 md5 2edf33b3fedf93ea66ceb9b9e5c0567d sha1 624634c8d87fd3fb0feaabc7a77500b0eb492e05 )
+	rom ( name VOX\EN_008.VOX size 284547 crc d6c23b7b md5 7315ae54d01d733f25c295434d8360bc sha1 8223a77007b3b497ab997e9af3546166e80c3a59 )
+	rom ( name VOX\EN_009.VOX size 1800800 crc 09a97002 md5 1f1824a5d30a7f63845a53aeabb77119 sha1 e2f952e72459b8e8e19c4baa15dcbd700349d983 )
+	rom ( name VOX\EN_010.VOX size 813908 crc 06205b98 md5 5430f2d6d763101b0087b6019e0b6349 sha1 47d181039f65bbe97d6558a798769216b742d24c )
+)
+
+resource (
+	name lbaxfanres
+	description "ZZZ - Little Big Adventure - Fanmade Resources[!]"
+	year 1994
+	manufacturer "Adeline Software"
+	sourcefile twine
+	rom ( name ANIM.HQR size 128603 crc b4ded6a3 md5 89668bdb0ea7be17385cd70285cb3641 sha1 f96f28de005fedf102dae4b1a9a4afe5addcb8ff )
+	rom ( name BODY.HQR size 396854 crc dc07f130 md5 c8f1a6ebf627c37d8aa6393dd694e624 sha1 f254c49ecde7977f7bc549409132df9bac5431db )
+	rom ( name FILE3D.HQR size 11851 crc 564046d0 md5 0f5a6e6734b5d46264e47d50abe33726 sha1 9ec723e3c1ca6f04d65eedebe69f4d6c449145d7 )
+	rom ( name FLASAMP.HQR size 1701951 crc d72ff5d4 md5 0f835b9642519481de5f3f1fdb65367f sha1 9006617dab9ae36fe3d66b8150c167c0e06b1052 )
+	rom ( name FLA\BAFFE.FLA size 794794 crc 04d0e102 md5 d3f700509ce34faea8293733a2ca844e sha1 229d9bcea1bd3858d8cfc6c662a7a41536ffe409 )
+	rom ( name FLA\BAFFE2.FLA size 779828 crc 2bf32f63 md5 cd5a7b491df7a07c7cc3932fe47ca6e1 sha1 e4a964a5494acda501a20a5cba75518f0fdf55ba )
+	rom ( name FLA\BAFFE3.FLA size 783058 crc 95a0e162 md5 43bec83a04deba0c954df364cb7e453d sha1 6846e137a59a0ecd33f306b74b251b0d56d1e330 )
+	rom ( name FLA\BAFFE4.FLA size 1114382 crc 0749f191 md5 e1dcbdcddb16f805187e354e7123efdf sha1 3d38fc2e1ab01d226ec76bcd73ad96c1a5175ec5 )
+	rom ( name FLA\BATEAU.FLA size 4354566 crc 5c7e57dd md5 b30209d479b132b7eb30f2aba3b2480a sha1 c32a76c3d0442c517995ac85a9e1bccfbd4651de )
+	rom ( name FLA\BATEAU2.FLA size 4406328 crc 60835584 md5 76f1093ad571facf5d9137b82990c85b sha1 236b5c607729acaef63d1ff5b87c5bd950ab9b63 )
+	rom ( name FLA\CAPTURE.FLA size 3588436 crc 8aae5a2b md5 37ca09b04ac84162c21801af6241a7c2 sha1 77e8a3fc34caeb5884167ee62482830cf8067e95 )
+	rom ( name FLA\DRAGON3.FLA size 6324644 crc ad04559f md5 38f02f2daee960b4753270d535c1fb96 sha1 ee32a0aead7cc3b35703ccc77b6e05e49c3e61f0 )
+	rom ( name FLA\EXPLOD.FLA size 5050118 crc 8500912c md5 bda56781d644d823d9f078f2350b5041 sha1 7860f6f5ca12fc49c7ed919ba033fd7cc45ce34d )
+	rom ( name FLA\EXPLOD2.FLA size 3047944 crc 835350c8 md5 b627cfac91341c4986777f64c7553652 sha1 f7006f1ef125005085f5411820fbcb147d2e3c86 )
+	rom ( name FLA\FLUTE2.FLA size 4257630 crc eccfbb15 md5 060d241e38cd3e8eaa98f57ba7fc80d0 sha1 f5f562b590ddc8bfe10b840a6ab09e1d780b7e8c )
+	rom ( name FLA\FORTRESS.FLA size 900702 crc 63f8d1c2 md5 7e17f09a84f2633920abfcb9275dab67 sha1 ac0f97bb2612327dd7293413a6377bc5423a4130 )
+	rom ( name FLA\GLASS2.FLA size 2575978 crc c58c5f2e md5 686b7006ce82e3a65d769bae5acd474c sha1 38a9c6fc3a728c9def40cb2eb97156125216da1d )
+	rom ( name FLA\INTROD.FLA size 15885218 crc d2d795e9 md5 eb9c7259739391f154270d8b661f4eb2 sha1 802d2b02b33134332dd4180f4a7709595fdaf449 )
+	rom ( name FLA\NAVETTE.FLA size 1924918 crc 37bcecb6 md5 62aa1c5d4f4829150bb5146f30d2aaa4 sha1 3058ad8b4d13caa0b0b5a10003b26db140aff5b7 )
+	rom ( name FLA\NEIGE2.FLA size 4287064 crc 7fba1e6e md5 80140b07b75fc555e3bc685c4a028530 sha1 b445a54668225d36c395a64a8dbe1d334f7ebadd )
+	rom ( name FLA\SENDEL.FLA size 8133672 crc 457c6a2a md5 25d9894bd162b0b6bb83972294ae975d sha1 6715d0d2c67183b35e94142508141e1dc332040a )
+	rom ( name FLA\SENDEL2.FLA size 8302918 crc 1801b2c0 md5 00b7a91095ba17ba33bfef9ef4b4cbae sha1 fab6e6d57ac5efef8624d5c3afdb0951f75c33b5 )
+	rom ( name FLA\SURF.FLA size 1604488 crc 08ef1018 md5 22e1cb1e05ef370a44e9079abb1e4822 sha1 411b372cc56df3012b93b86c1787a7c094217b81 )
+	rom ( name FLA\TEMPLEBU.FLA size 6080144 crc a6ea1f01 md5 8f5fa71b4c405b043371659b4a603f7c sha1 1e05a292c7ec6420f428989cbde6ba008b7a29ee )
+	rom ( name FLA\THE_END.FLA size 1017252 crc bf336ccc md5 5aece7b0f68f3acda801096d6ab70eb2 sha1 4462ec49245b2d02d27f4ee13dfff85cef0b6537 )
+	rom ( name FLA\VERSER.FLA size 835306 crc f52cffb3 md5 12c7377e77b8182c31bba0a572e90eb2 sha1 4b578e94d220518b61fd75a1e88d4bddeadec9a4 )
+	rom ( name FLA\VERSER2.FLA size 786178 crc bd82a1f7 md5 0fa7a383c9851215313a0718434d908b sha1 9405c62bf1849263fd4b7c60366b633a9df7d0ab )
+	rom ( name INVOBJ.HQR size 38059 crc 40b4aeb4 md5 3c9dd3be96ba573875be6f5ba7933eb2 sha1 cf70497226209126e4e2711401513aa8fcb5f581 )
+	rom ( name LBA.EXE size 258513 crc d2b2ac39 md5 58275cbf4760521eff5f87db21765bb7 sha1 f693fb8ad48f1da2aa58939829010d94310d0959 )
+	rom ( name LBA_BLL.HQR size 55785 crc f0bcf8eb md5 7ec98c710855bdeca25b005bd9ad018a sha1 eea55d055ca18a9fbb2987b43caa8a4c7d3da19e )
+	rom ( name LBA_GRI.HQR size 601666 crc 14f776da md5 22853ed1dd644d1cc2901ea1e41ba4ad sha1 95140d0803ca40af94528870bc116d6222bdf5cb )
+	rom ( name MIDI_MI.HQR size 72870 crc 5871abc4 md5 e1817ab8ed6fdaeaff72a52a1460319b sha1 fff2b27e95d5333d652fbd4bcab6cf9c90da2147 )
+	rom ( name MIDI_SB.HQR size 55622 crc 2fcc7a04 md5 dd3599dc3f4eac234065cb7b3173c66c sha1 72deca406a0c263502119883e77318c6719f24a9 )
+	rom ( name SAMPLE.AD size 3622 crc 0ab378df md5 3cce7683e5f2b8e0cca251613120eab9 sha1 f7e71a11957899980da5bb929de05c0b0ec124aa )
+	rom ( name SAMPLE.OPL size 5611 crc 2e6bbdce md5 8dbec8baada518f12286de22252d69ec sha1 7c27cda37c2ada916794d6928db8f28375134402 )
+	rom ( name SAMPLES.HQR size 2429133 crc 496fa625 md5 bf81c16a551de731bc010685d1ad99f5 sha1 cb21aa97e2bdce4d8030922cfbaa5d124c2b7b8b )
+	rom ( name SCENE.HQR size 179725 crc 7ffb2ef6 md5 28d383db3202e0814497c973e46aa05d sha1 1b203108dce6e4a73e4659e38cf077f25943ea79 )
+	rom ( name SPRITES.HQR size 180143 crc f14626ed md5 decc5ee6fe65fd7ba7a126e41c347331 sha1 53972d0c8a0980f72a848188980e2214e3aad760 )
+	rom ( name VOX\DE_000.VOX size 6212701 crc e17b2d93 md5 0591955b3010863d8d72de6c1feab37a sha1 481c72ec286df0869634348742cbae3e3be5ae48 )
+	rom ( name VOX\DE_001.VOX size 10105311 crc cd878594 md5 d7be323f5537e7bbef76fac49a598ca6 sha1 9f356c87e8da42813ad7c7a6ff8e19fb5aea0921 )
+	rom ( name VOX\DE_002.VOX size 1731494 crc a0fb97cb md5 a7c237302d9c6cc0569b1a7d67e848df sha1 77eab065dbde61c6f9462555c22b84b49747bc18 )
+	rom ( name VOX\DE_003.VOX size 4253383 crc eec6d607 md5 6d363884ce0c0850d9e00368e6e1c1a8 sha1 6bedf5b3f79f5f3ffa3f54234fdc8e34d085f2d0 )
+	rom ( name VOX\DE_004.VOX size 1366631 crc 9c7de116 md5 f0c49d25765f822ddd75e3ddc032e822 sha1 fb3738550f86119391d807129704bd414a0ac600 )
+	rom ( name VOX\DE_005.VOX size 1868032 crc 6f61690b md5 70c84f81436ed62af1e64f7d6d602c9c sha1 5a25cfeda76555b22d7e58821615f50757e51cc2 )
+	rom ( name VOX\DE_006.VOX size 1066193 crc 9ce00121 md5 cfe7ad9035d97ed6ca97270f2da2e678 sha1 57e64d866c048c92a7bdffdf1a046af23f930960 )
+	rom ( name VOX\DE_007.VOX size 2321866 crc 2333f957 md5 fc9b87f45dc394c3327f6b4edb96a478 sha1 905fa802ee4b6d14ec9f266b61bd5a5988e32654 )
+	rom ( name VOX\DE_008.VOX size 287489 crc a0ffd5c4 md5 ddc5048b4d9077069c026f87fbbcee95 sha1 8d576d95610f2d78262ea0762e923f55de9085a7 )
+	rom ( name VOX\DE_009.VOX size 1626460 crc 26cd347e md5 c98e954de80b0b5578e6415ad831a1d0 sha1 58e50049e49390810c6c52d8d6c4f0043a450d0d )
+	rom ( name VOX\DE_010.VOX size 967875 crc 749756a4 md5 bbf43f0156c225f1db8d4be2755b9b4e sha1 67a954dcb4022218d9a5f33035152000ef1e21e6 )
+	rom ( name VOX\DE_GAM.VOX size 1824842 crc ca9df805 md5 beb3ed9ffb1e992b4ad6f5ee95d63e1a sha1 2c19440f4415b1294c1060d387f660a11b5e60f2 )
+	rom ( name VOX\EN_000.VOX size 6249564 crc 201e5959 md5 dc582eb50a00117fffebdccf6d754e17 sha1 f585169fa17a3c6a8655a71edc6d566ae9d98755 )
+	rom ( name VOX\EN_001.VOX size 10343661 crc f0bc07a5 md5 5c420beba82bc4974cccaa6c35be0a3c sha1 255ad9963fe657a440807899dbde41bc35d52a79 )
+	rom ( name VOX\EN_002.VOX size 1844083 crc 571130ce md5 0ee9724ebd5acfdf250bb8e47c0ac75a sha1 c7dfec029bf5b07707f8973be1f7c81fe449a895 )
+	rom ( name VOX\EN_003.VOX size 4022734 crc 56950c9c md5 1460e3760a324ddc9691ab7b995cb092 sha1 d4696f264b748b9227144b2a391623ae2e2e7128 )
+	rom ( name VOX\EN_004.VOX size 1367563 crc 1ed236df md5 6b23b74fdf0fc9ebce71a26ad1f02bfd sha1 09fe9ecf06b1a399faf2b5f2d7a74797691420bb )
+	rom ( name VOX\EN_005.VOX size 1760125 crc 738d7048 md5 64c1468753fbf84e27cff46cb86cec61 sha1 ade9ed46304e3e7adbd68e5d386f19b999365249 )
+	rom ( name VOX\EN_006.VOX size 1122810 crc 50cacfce md5 4b575b1daa38fc7937002b6adcce0085 sha1 b1c1313e2214b3c47ddc43dab8fc67d57f54b1de )
+	rom ( name VOX\EN_007.VOX size 2164787 crc d9c8fa95 md5 2edf33b3fedf93ea66ceb9b9e5c0567d sha1 624634c8d87fd3fb0feaabc7a77500b0eb492e05 )
+	rom ( name VOX\EN_008.VOX size 284547 crc d6c23b7b md5 7315ae54d01d733f25c295434d8360bc sha1 8223a77007b3b497ab997e9af3546166e80c3a59 )
+	rom ( name VOX\EN_009.VOX size 1800800 crc 09a97002 md5 1f1824a5d30a7f63845a53aeabb77119 sha1 e2f952e72459b8e8e19c4baa15dcbd700349d983 )
+	rom ( name VOX\EN_010.VOX size 813908 crc 06205b98 md5 5430f2d6d763101b0087b6019e0b6349 sha1 47d181039f65bbe97d6558a798769216b742d24c )
+	rom ( name VOX\EN_GAM.VOX size 1922674 crc 57a3c761 md5 a34ad58b76fd9aa8ce27142757c9afe4 sha1 9b719e1b8ec70a58f26c4d6d51224a698e8fbf02 )
+	rom ( name VOX\FR_000.VOX size 6516645 crc 8b0a0b72 md5 d453395b43a9a01165a7420ce512bfc1 sha1 d5089e29991c24fc48e6bff255c4a56eeffe49df )
+	rom ( name VOX\FR_001.VOX size 11283116 crc 195a56e1 md5 6294093153b53ffb682c96064a34ba08 sha1 255f4e465db1b8865a4167ee5b6aabf0dc63af40 )
+	rom ( name VOX\FR_002.VOX size 2026364 crc 8cf64359 md5 f5935d730a4efa96541ca6adddd2c1e9 sha1 0adaf6de29ffca3956df17fa7d661c7a768613f8 )
+	rom ( name VOX\FR_003.VOX size 4295526 crc 3039396f md5 59152711d6b0961627d8962fcd1a65eb sha1 ab5b23ef7e0738999539fd1ca6ee3ea4c609c5ce )
+	rom ( name VOX\FR_004.VOX size 1351011 crc d1d0ef47 md5 2f4305eb2b85f2ff5a658f5130fbb662 sha1 59dac9b310a6acdd5ba3529b02aef0b098370985 )
+	rom ( name VOX\FR_005.VOX size 1819148 crc f89bef87 md5 fbdd84b1cd0cbc1fd17198ce6dba7083 sha1 07eca6d8ac41c5151477d96f1ca23a32d6ad57a9 )
+	rom ( name VOX\FR_006.VOX size 1257886 crc 18587a9f md5 6295bff82545f34672bda69b8e3d675a sha1 d59d50c090f6a130503da2efdc17449d0eb8babc )
+	rom ( name VOX\FR_007.VOX size 2275292 crc f4b5cbc4 md5 d19383865c91b6be7c19eff25698ec11 sha1 733d5d428273e3916750dc37cad06d19b6dff25c )
+	rom ( name VOX\FR_008.VOX size 297681 crc a9707c23 md5 3d09a5e531cf7b86e21cc40964315826 sha1 e7baf84300f2a75d35af527537a665062f52c7dc )
+	rom ( name VOX\FR_009.VOX size 1995388 crc fae18ed7 md5 d622c3a8b5d72eaf83e3025b4e3f425a sha1 c089020abd155df6c51e080d1386311b2eed4ff8 )
+	rom ( name VOX\FR_010.VOX size 923434 crc dd40c0fc md5 a502206198f9a4993998e3453facf661 sha1 20ae318f53e6923c7b876c751488faa479fe6da3 )
+	rom ( name VOX\FR_GAM.VOX size 1970953 crc cb4dbe83 md5 6528544bd4945de2bbf2e72384ec596e sha1 bfdf1d955d8fbd5f12edb4398a7be0cf58003a22 )
+)
+

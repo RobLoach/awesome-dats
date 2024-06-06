@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Games - [BIN]</name>
+		<description>IBM PC Compatibles - CD - Games - [BIN] (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="1+1 - Alice and the Magic Garden &amp; Weather Lord (2011)(Alawar Entertainment)(AU)">
+		<description>1+1 - Alice and the Magic Garden &amp; Weather Lord (2011)(Alawar Entertainment)(AU)</description>
+		<rom name="1+1 - Alice and the Magic Garden &amp; Weather Lord (2011)(Alawar Entertainment)(AU).bin" size="221403168" crc="010f9550" md5="5991eb62589f613aa0ab27999258923d" sha1="9bfad824fbb70c38ab342e5c934b472695b09d42"/>
+		<rom name="1+1 - Alice and the Magic Garden &amp; Weather Lord (2011)(Alawar Entertainment)(AU).cue" size="119" crc="bd907a1c" md5="c3602b75427e0c10de70e1463b2f9d75" sha1="37799ed482066f56fc87c5396662cf3f7e10fb0d"/>
+	</game>
+	<game name="1+1 - Treasures of Mystery Island, The &amp; Atlantis (2012)(Alawar Entertainment)(AU)">
+		<description>1+1 - Treasures of Mystery Island, The &amp; Atlantis (2012)(Alawar Entertainment)(AU)</description>
+		<rom name="1+1 - Treasures of Mystery Island, The &amp; Atlantis (2012)(Alawar Entertainment)(AU).bin" size="235327008" crc="c51138fa" md5="991c8e59c9baecef1385b3d5a4747ec3" sha1="45c8cd4c3220204d3e8f24b09b13772a984d6e90"/>
+		<rom name="1+1 - Treasures of Mystery Island, The - Atlantis (2012)(Alawar Entertainment)(AU).cue" size="171" crc="b8291850" md5="46ea3965509fb741a9d0f04d20b17617" sha1="f4fdd314556f4fb0c9bedcdfb3dc5cf33e537021"/>
+	</game>
+	<game name="1000 Full Version Games (2005)(Nodtronics)(AU)(Disc 1 of 2)">
+		<description>1000 Full Version Games (2005)(Nodtronics)(AU)(Disc 1 of 2)</description>
+		<rom name="1000 Full Version Games (2005)(Nodtronics)(AU)(Disc 1 of 2).bin" size="830272464" crc="ca8424b7" md5="b65957bc2cba8f69022342c9f9a25072" sha1="6fab61b1158d1e1070d761e6fd429196d0237265"/>
+		<rom name="1000 Full Version Games (2005)(Nodtronics)(AU)(Disc 1 of 2).cue" size="148" crc="7217d6c7" md5="8949bce5428fe3466d2b4eb86d411dc3" sha1="2ee15264acbf95d0fe1c4115afa0c18a9f3e7f30"/>
+	</game>
+	<game name="1000 Full Version Games (2005)(Nodtronics)(AU)(Disc 2 of 2)">
+		<description>1000 Full Version Games (2005)(Nodtronics)(AU)(Disc 2 of 2)</description>
+		<rom name="1000 Full Version Games (2005)(Nodtronics)(AU)(Disc 2 of 2).bin" size="714450576" crc="6931d9cf" md5="27462d28e7df517cdec8546674ffbd00" sha1="c4a399a23f2774db671a6c8c1c3e8da5fc0e42db"/>
+		<rom name="1000 Full Version Games (2005)(Nodtronics)(AU)(Disc 2 of 2).cue" size="148" crc="3ea4fc6e" md5="5cf757797892d190de9c5b2b92e738e4" sha1="d7eb031d2252900f39df8fe8cab79475504ccbb8"/>
+	</game>
+	<game name="1001 Puzzles - the Puzzle Collection (2007)(Nithbridge)(AU)[!]">
+		<description>1001 Puzzles - the Puzzle Collection (2007)(Nithbridge)(AU)[!]</description>
+		<rom name="1001 Puzzles - the Puzzle Collection (2007)(Nithbridge)(AU).cue" size="153" crc="d94ce3c1" md5="e2704e3a0a177367e5a9b72f197f8c2b" sha1="ee5cfb7b9989df8a011f18cbedc96b0002f5cc08"/>
+		<rom name="1001 Puzzles - the Puzzle Collection (2007)(Nithbridge)(AU)[!].bin" size="41439888" crc="dcec6baa" md5="8727ea89694b90925df9411976c70993" sha1="0f71ad4ae3068a4046d424b51f791f1e3d0fbf4e"/>
+	</game>
+	<game name="101 Action Arcade Sports Games (2004)(Nodtronics)(AU)">
+		<description>101 Action Arcade Sports Games (2004)(Nodtronics)(AU)</description>
+		<rom name="101 Action Arcade Sports Games (2004)(Nodtronics)(AU).bin" size="364289520" crc="701a1b86" md5="f22577ba76da153df72da0e77a203605" sha1="c4a2536fbec62fe6a6517fa97e6f0862f9a11744"/>
+		<rom name="101 Action Arcade Sports Games (2004)(Nodtronics)(AU).cue" size="142" crc="a885ce02" md5="b213fae2fa63a279c76cde10aeb80a86" sha1="80e5c8764a25ce9d0bd4c7264115403b6d0bfaf0"/>
+	</game>
+	<game name="101 Card &amp; Board Games (2004)(Nodtronics)(AU)[!]">
+		<description>101 Card &amp; Board Games (2004)(Nodtronics)(AU)[!]</description>
+		<rom name="01 Card &amp; Board Games (2004)(Nodtronics)(AU)[!].bin" size="157915632" crc="a17a98fa" md5="fafa20082c068db99d71d81be10c9fa2" sha1="d2bda60dd1cbd29645f1ad6d3100f0c336c699f4"/>
+		<rom name="01 Card &amp; Board Games (2004)(Nodtronics)(AU)[!].cue" size="137" crc="2896d722" md5="3b7419ddb873f41d945fd26e52860414" sha1="0cf01cedb4d7633f577ee5181d522e86099ae8bd"/>
+	</game>
+	<game name="101 Puzzle &amp; Logic Games (2004)(Nodtronics)(AU)">
+		<description>101 Puzzle &amp; Logic Games (2004)(Nodtronics)(AU)</description>
+		<rom name="101 Puzzle &amp; Logic Games (2004)(Nodtronics)(AU).bin" size="237046320" crc="5dd88917" md5="4ada248207832e8a070f0e0b5b9b20b5" sha1="4d9f0a301072485fdaaea66b2ce343779acac1e8"/>
+		<rom name="101 Puzzle &amp; Logic Games (2004)(Nodtronics)(AU).cue" size="136" crc="895f8661" md5="85340b560f7c4c57409b2f3c9ff36f0a" sha1="50e1bd188399951549398d1b5ba2999d71a8caa6"/>
+	</game>
+	<game name="15 Awesome Card &amp; Board Games (2002)(Nodtronics)(AU)[!]">
+		<description>15 Awesome Card &amp; Board Games (2002)(Nodtronics)(AU)[!]</description>
+		<rom name="15 Awesome Card &amp; Board Games (2002)(Nodtronics)(AU)[!]..cue" size="144" crc="7c3e7bef" md5="0c50e1d75f16484efde0851c415be670" sha1="e6dc767f75e45c3151576b57122857245f7c52ba"/>
+		<rom name="15 Awesome Card &amp; Board Games (2002)(Nodtronics)(AU)[!].bin" size="191833824" crc="4df11b55" md5="4b6d84f56100946bef883e6263d09259" sha1="d8271f270ea5a9aafc2a5ac2508fb12ffb932646"/>
+	</game>
+	<game name="15,000 Sudoku Puzzles (2005)(Revival)(GB)">
+		<description>15,000 Sudoku Puzzles (2005)(Revival)(GB)</description>
+		<rom name="15,000 Sudoku Puzzles (2005)(Revival)(GB)[!].bin" size="94660944" crc="8c9c3460" md5="8bf2c1677bc14f555a6ca34dbe85d07a" sha1="9f46229201b032416dad2572925fe7ab4679d9eb"/>
+		<rom name="15,000 Sudoku Puzzles (2005)(Revival)(GB)[!].cue" size="133" crc="90e0551f" md5="220f55ed7f0ee4c49fd004c8885d9955" sha1="46090ba05680c703d48bd215648ed0f92088f2ce"/>
+	</game>
+	<game name="3D Lemmings (1995)(Psygnosis)(M4)">
+		<description>3D Lemmings (1995)(Psygnosis)(M4)</description>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 01 of 24).bin" size="253312752" crc="477268c3" md5="7384f53251e02493fd2623422aacd6cc" sha1="37cd17476c5e731f678bac7767ae56468be90ae1"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 02 of 24).bin" size="12947760" crc="0940d7e3" md5="004d7e307799d35a3d0b0004cd760f5c" sha1="256c0888a9303786333330c313e0e802928edf3b"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 03 of 24).bin" size="11087328" crc="9f14f3c3" md5="df386ae262dfb4f43ef28a001eae0e10" sha1="6bb6be7847bdb0e78fc0d7f03de618d97fa2dd5c"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 04 of 24).bin" size="15302112" crc="744c2830" md5="a0b5533ee84f5a65ae573aecba7120c7" sha1="7aaaa6b795327b7bc52270aa4ef1a2f23f29d4a2"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 05 of 24).bin" size="14768208" crc="669cc101" md5="7cb85053184f9a311b59285f8fa5839b" sha1="689a31dfcbb25a0779b41e6af9f8ce1df72269ce"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 06 of 24).bin" size="14979888" crc="7b171e18" md5="98add72cadfe5df0ae8227fb49957896" sha1="ba98e3868d2c5f8abe46ba2b10582a75af98b7a9"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 07 of 24).bin" size="15052800" crc="6550998f" md5="994fdb73c754f367bbed8ea0db1f1bfd" sha1="e7dcfb17c98cf0a33eb7da6999eda07e1b7d50fa"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 08 of 24).bin" size="17694096" crc="815ecd26" md5="f8a0bf6398f8da89be7cbca599d2681c" sha1="691c80befa662210ab585a39fcacd4da4d6b9c11"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 09 of 24).bin" size="18373824" crc="73bdb8db" md5="f20429ff814b89e512bb3aca9d3ef118" sha1="831a3361c2afa533389da17e5cee43f45ff10bd3"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 10 of 24).bin" size="14996352" crc="ffa9c315" md5="a5726bfc3be0fddc967f2c14c8001da1" sha1="9a7c54008ea8ec3da673df174c11a5313ffdb29a"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 11 of 24).bin" size="15977136" crc="e0a4f33d" md5="20c74f69b77d0ffc26ddcfd8ea7338b7" sha1="3f3fffe9b18808b5ffca249f71a770a9f131b0d4"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 12 of 24).bin" size="18806592" crc="6ce15951" md5="0d83cbc320b4ddbec862b2737f9fc18d" sha1="a0fb99120eca14fbd7b7f0221460d39b64496061"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 13 of 24).bin" size="16638048" crc="7f95aa42" md5="fedae55e8a43001af05c3c4611e8a7ba" sha1="aedb04f95d765bc85ca0e545e648b2bd5b29e03c"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 14 of 24).bin" size="15836016" crc="68bc1919" md5="af6cc530052a43d02b7f9c092096bf9e" sha1="9caa53012c1ed3859e402a1ee94d7ecf0f33a57a"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 15 of 24).bin" size="14622384" crc="712b2acd" md5="656fcda62c81bc06638faf274dfba5db" sha1="1c9035fe2f76fba8596cfae0111845cf6ce52d6b"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 16 of 24).bin" size="17160192" crc="2ec05e29" md5="4d8199c0172f8dd233d6efd541501f9b" sha1="e01237b2b85c5eceffb4f0462728b88145fadbb7"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 17 of 24).bin" size="12893664" crc="9c079db5" md5="9008f52dd4203b64498d02e73083f9ae" sha1="0dccf4f581065fa404a8fa9c6bdeadc9442e7282"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 18 of 24).bin" size="15638448" crc="f6f80677" md5="a0d5fd8ff5ba9c50eb7af06c5d7fe934" sha1="119f7294292525dd9a614271c930859eb15d7907"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 19 of 24).bin" size="15243312" crc="ab037fcb" md5="29203fa2f8858f7222414a4166dee027" sha1="826e43d14772158ec273abc994a7efa1031683e3"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 20 of 24).bin" size="15636096" crc="c4a7a3f7" md5="1e177f454204678c184316e5582c63ca" sha1="789fbbe28aefc3100c328491ad8806399026a21b"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 21 of 24).bin" size="15375024" crc="49043886" md5="cbbc0197fe2dc907719f0fbd49ed6b71" sha1="fe2e521c4792eea52a979950067f988c66477726"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 22 of 24).bin" size="15805440" crc="3987d484" md5="9864c81cd652c40bd709d91f989c830b" sha1="d8c52bf6b921f3c49b4be6afce138735926ada13"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 23 of 24).bin" size="15469104" crc="76fad8ca" md5="22da7a95486529f1743e1bc1ec6dd3de" sha1="a9977735bb3afc59c0bcf151db7727e99a2c65f8"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4) (Track 24 of 24).bin" size="11971680" crc="237b0910" md5="b5a6eaa3e6210e0f67ea721d8730a4b3" sha1="af67266869c84328513f90d82dc7c3050100720b"/>
+		<rom name="3D Lemmings (1995)(Psygnosis)(M4).cue" size="3221" crc="3cb39d31" md5="f285518af5defd74394407b4e9cc9ffc" sha1="1223b908de8c52f2dd31857381175852b6d6fb43"/>
+	</game>
+	<game name="50 Blockbuster Games Volume 2 (2004)(Nodtronics)(AU)">
+		<description>50 Blockbuster Games Volume 2 (2004)(Nodtronics)(AU)</description>
+		<rom name="50 Blockbuster Games Volume 2 (2004)(Nodtronics)(AU).bin" size="416539200" crc="fb8e81af" md5="aad386c5c12e8092e9ddba625a3aa719" sha1="f7e3ae2851d5ccfe66223f2bc34176df34382a26"/>
+		<rom name="50 Blockbuster Games Volume 2 (2004)(Nodtronics)(AU).cue" size="141" crc="ccb27ba5" md5="3c2225d8a206664a64fdbe5d368a491b" sha1="27bfa3e072fefa1ce7c356ee80c48636dc7c4963"/>
+	</game>
+	<game name="7 Wonders Ancient Alien Makeover (2013)(Mumbo Jumbo)(AU)[!]">
+		<description>7 Wonders Ancient Alien Makeover (2013)(Mumbo Jumbo)(AU)[!]</description>
+		<rom name="7 Wonders Ancient Alien Makeover (2013)(Mumbo Jumbo)(AU)[!].bin" size="197266944" crc="5dce991a" md5="7cfbd0ae1aab591174711ba055137e83" sha1="fbbda026bbde69addf1e3a91a14622826542e73c"/>
+		<rom name="7 Wonders Ancient Alien Makeover (2013)(Mumbo Jumbo)(AU)[!].cue" size="148" crc="73113058" md5="a76e7e4fcb2d8df7e02bed85291c3b4f" sha1="355d6506a78f2f8275ae2feaef449abbab0f4140"/>
+	</game>
+	<game name="A-10 Cuba! (1996)(Activision)">
+		<description>A-10 Cuba! (1996)(Activision)</description>
+		<rom name="A-10 Cuba! (1996)(Activision).bin" size="388056480" crc="52d82c95" md5="ef8d84a26efe10e3f0ef25050295353f" sha1="66b61ad25d1d649c640e2162f4d81e8ca233166f"/>
+		<rom name="A-10 Cuba! (1996)(Activision).cue" size="118" crc="692589d7" md5="733c0cb2ac1fa264fd35f4dcb670a702" sha1="902323156c9a03c943a23c5ab84c5e340eca0b2f"/>
+	</game>
+	<game name="Activision Atari 2600 Classics (1999)(Activision)">
+		<description>Activision Atari 2600 Classics (1999)(Activision)</description>
+		<rom name="Activision Atari 2600 Classics (1999)(Activision).bin" size="18376176" crc="1df1b082" md5="9fe4afa354583bc266b589ebc3e55a11" sha1="a849a6f5f218c31571b61ed8bd2c4daae9c9298b"/>
+		<rom name="Activision Atari 2600 Classics (1999)(Activision).cue" size="138" crc="a62aab2c" md5="03346a67fc98e6fb66f95174bdc8c392" sha1="bd6ce84ca5de1e23687456afb483b4e36b339aa4"/>
+	</game>
+	<game name="Activision Game Vault Volume 3 (1997)(Activision)[compilation]">
+		<description>Activision Game Vault Volume 3 (1997)(Activision)[compilation]</description>
+		<rom name="Activision Game Vault Volume 3 (1997)(Activision)[compilation].bin" size="55580112" crc="dfa923f1" md5="b2c89a3f9df3f2e8ea27361b825bc112" sha1="592f95ab53dcbe69abc256e047f03d47fe0f646a"/>
+		<rom name="Activision Game Vault Volume 3 (1997)(Activision)[compilation].cue" size="151" crc="3e1539ac" md5="bf08052e9fb1a24a91ab23ba502caeb6" sha1="f08dce8bcf25b88976d55e03f8d77a13a7b42393"/>
+	</game>
+	<game name="Activision's Atari 2600 Action Pack 2 (1995)(Activision)">
+		<description>Activision's Atari 2600 Action Pack 2 (1995)(Activision)</description>
+		<rom name="Activision's Atari 2600 Action Pack 2 (1995)(Activision).bin" size="3890208" crc="1257f5c7" md5="406f3391c8822c987387a5377ee5a622" sha1="b0a92b5639c837641a2bfe326e22f061f73ec72b"/>
+		<rom name="Activision's Atari 2600 Action Pack 2 (1995)(Activision).cue" size="145" crc="98ea082d" md5="5a4eb7a5c65de3bb64650c695dfef48c" sha1="858ba06a91c844ff2173a734bba56ff558d20e5d"/>
+	</game>
+	<game name="Addiction Pinball (1999)(Microprose)(US)">
+		<description>Addiction Pinball (1999)(Microprose)(US)</description>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 01 of 39).bin" size="185048304" crc="12eb2390" md5="bcee15470f7a4032651280d96662637f" sha1="ed8dbc2b248ee06f07346b6f8cbba1955d975730"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 02 of 39).bin" size="26102496" crc="bf1566da" md5="b5914045b6574f2e4ecee73ca02bb08b" sha1="d072c7b4b206302a31054334d29fedcb23e44dd7"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 03 of 39).bin" size="24691296" crc="54802b9f" md5="4e78736654277ee5ad95f0e36a32d5ac" sha1="715e75c71c305151b6d034a4d5823b8083e30252"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 04 of 39).bin" size="4052496" crc="2a15e2c0" md5="01e4830c232312d4a286194c1fc82e39" sha1="40b8b5e5b592ab80305cba8d39bba35fb6966875"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 05 of 39).bin" size="21516096" crc="72f915d8" md5="00fc61f7f6ceafd37fdb896972a69074" sha1="7a997e9385bab7f311501b070174e3cee0eaaa0d"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 06 of 39).bin" size="4581696" crc="cace66e1" md5="69535f6a369d3ddadddd49a20d7651f6" sha1="10b841c5069660ead14ef5274db91b20a848a957"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 07 of 39).bin" size="10402896" crc="47515819" md5="65dbdb9c62c31a8c184d4bb9e9e62e88" sha1="bba110aa7fd8ca74e0876d43c3a2a710979417ab"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 08 of 39).bin" size="11461296" crc="9ef78722" md5="8f9cbbf2aea9849bb5d9892e83f343db" sha1="5f906dd40808d39ba55a39cc553ea91b967b84a5"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 09 of 39).bin" size="11461296" crc="9117070e" md5="2fafdff4dcc63d73643a0c2464cce7ec" sha1="4d4e86084a2be22f89ae0e45360754c1eaec7617"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 10 of 39).bin" size="1406496" crc="da77097c" md5="18295d88326d322dc0f23bd12d9f23d3" sha1="fac1abe2f26484f4f3aa88ad6181cdecce77d325"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 11 of 39).bin" size="21516096" crc="93bae3d1" md5="2f79bd057a80d8b4cc0417524d9a4f8b" sha1="fb444b8733025adac4324d5ed0b06eb96db88e84"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 12 of 39).bin" size="6345696" crc="96a3ef8a" md5="33addc4f18005a8c249db045d9779882" sha1="081d40b492a91b2e7619491d66a35e58acfcaccb"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 13 of 39).bin" size="32629296" crc="bde3dfd7" md5="3fd8f6a4df66e17c60ad14c331a28cf2" sha1="84f0feb2eee6c25f73c9e872b872715ff6d07444"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 14 of 39).bin" size="10050096" crc="bb6c425c" md5="f70e2f281de526dfc1741050e0e5dda8" sha1="5e91e51df05fb3618beac3103fc2868268a8115a"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 15 of 39).bin" size="21516096" crc="a02aaabb" md5="8de1abfbe1b623771a9420c2d6cff582" sha1="d43dc3a430d292f7b90fbcf008caba38456f5da8"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 16 of 39).bin" size="12166896" crc="036b6f58" md5="faf793a950407e12842eee70c11b6485" sha1="408de6049c75e1c0fbb1d331b2ff4c5dc807c900"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 17 of 39).bin" size="24867696" crc="8c98ec67" md5="d1ff802b91dfcba2f92e39128787702f" sha1="469de2fbf23d104877acf017131a6fb72fd01cc5"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 18 of 39).bin" size="7756896" crc="856dc2c9" md5="9dfda75d838dbe9d13f7b9a09167a556" sha1="d86c965432de00f3c4352bb9377e9e7d2cdaf743"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 19 of 39).bin" size="11284896" crc="0315b28d" md5="8d016eb10a7be6fc8c1d00e484532be4" sha1="b27381a3d553d8bfa82ec77672b0d9463ea68fae"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 20 of 39).bin" size="11108496" crc="7769aaaf" md5="e7ef53458c64e012a77b2ea45d4a6016" sha1="41229f4b16b476dbabe7865797dfc36b2e381432"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 21 of 39).bin" size="11108496" crc="f044f58a" md5="0e0a9504c209b64ffcefcf57db876c83" sha1="f0ce9b9f656d07eeb06ec0ae661da7c91cff58d7"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 22 of 39).bin" size="14460096" crc="d31f05a8" md5="97d4d993e418e48f9658488639e7f9e8" sha1="637c31fb8eb98a23ba7551c3af6ee43cb888bd82"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 23 of 39).bin" size="11814096" crc="7eadd7ea" md5="e7040b3561369946d187867090d3c0dd" sha1="b3af3b1372a1feee767f7b05bf7db94f1a51edc1"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 24 of 39).bin" size="22398096" crc="caa5a40e" md5="7e922fb39a3c2079ba6c1e92bb8a831e" sha1="a878e80632a85614a24b7c0b94941e39c3d203a6"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 25 of 39).bin" size="11284896" crc="55f631b6" md5="3285bd0ea88071fc40c70ea67f282877" sha1="aeffa7d589ec5941b62d53651c9478b4b94daaca"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 26 of 39).bin" size="22398096" crc="4d7e4b34" md5="6a0a14b3479c63a51caa88fb74a61b3c" sha1="871ba0ba1ebcd09c3b56c6ac14f764f9c71227e3"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 27 of 39).bin" size="23456496" crc="80c917e1" md5="d39cb023da3bd9b8d215e60b3b9540ac" sha1="12b03fc98176d3ec9d7d391ab30b71ba1b21d0f6"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 28 of 39).bin" size="11814096" crc="67f4ab3e" md5="73fdd04e91eca4f5a7081081c6d8304e" sha1="6c56cef550043fe35552c93b9a18632da71acf78"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 29 of 39).bin" size="4228896" crc="35dae0e7" md5="441fb62c1867bd879df126feee998078" sha1="10c1364725ecd0af770a887d18ac20bdced22581"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 30 of 39).bin" size="20634096" crc="757bdd20" md5="45b97fe65a3bdecb952fddce0b8cf0bd" sha1="f2c42fd29beaae49145d9b2cb2239251d1846add"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 31 of 39).bin" size="22574496" crc="8ceb9765" md5="3066a943bdd2a8e651cccc05da638075" sha1="451ecbb9816528b42afd41be66288d00213f0a52"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 32 of 39).bin" size="16753296" crc="7fdbcfee" md5="34c3ca33a9ffea1bb9382f9d9ae86afd" sha1="3a662a4da4ceaee3d2d91cd4ddc4ce603329b62a"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 33 of 39).bin" size="10932096" crc="9cfccb53" md5="c4f2cce41c100d4d47a6b4dedfe4c101" sha1="f410592e111d29a8693b771de1f4db3f9f215fe5"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 34 of 39).bin" size="21692496" crc="017b4bb9" md5="34563a8781b6df5734d9c4f2efa9cac3" sha1="09f4d9ee993ece2fc13a5f86582ce8c3ff30c7cc"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 35 of 39).bin" size="11637696" crc="0f89ae61" md5="6a23d8c84732e61c05f3d185f0d57cb2" sha1="3e70e237f29eeb4b551622fbef03629444a6e111"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 36 of 39).bin" size="21868896" crc="37b2707f" md5="ce01aaae3cd46db54df5a37740fccca7" sha1="e110e94d90faada1c6498de0d73cfca6e7530c00"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 37 of 39).bin" size="4228896" crc="5cb713ec" md5="0513c400f7b8c8c8c48ac6e89de090fd" sha1="854ef7b1c93f80f241c98376357855d7149d5cfc"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 38 of 39).bin" size="11284896" crc="785e5834" md5="d7aa813df49b7a46f32f2fe9769df109" sha1="94318324bd35baa0841b0d446bbabf0b4170482c"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US) (Track 39 of 39).bin" size="5287296" crc="4fc086c4" md5="e898557b28e61028a2963ce44a427da9" sha1="7ad86c9147f5c702c5755c5187207f9944dd5741"/>
+		<rom name="Addiction Pinball (1999)(Microprose)(US).cue" size="4653" crc="1681605e" md5="0efca59587e3ef8bc4e54d60085f0153" sha1="32e70fa8657630d1a9a291fd51db7c5f8922c49b"/>
+	</game>
+	<game name="Age of Mythology (2002)(Microsoft)(Disc 1 of 2)">
+		<description>Age of Mythology (2002)(Microsoft)(Disc 1 of 2)</description>
+		<rom name="Age of Mythology (2002)(Microsoft)(Disc 1 of 2).bin" size="588736176" crc="967fbd9c" md5="a70591fbfef99e52dc6a2982f0aa4d43" sha1="e99224743ccac1cb4aa00d4e83424f757876b1a8"/>
+		<rom name="Age of Mythology (2002)(Microsoft)(Disc 1 of 2).cue" size="136" crc="85373f2a" md5="d5954daa9684d4b648aa5f4097520b22" sha1="605d57f0591d469b6887f8711c7b43b18185cc91"/>
+	</game>
+	<game name="Age of Mythology (2002)(Microsoft)(Disc 2 of 2)">
+		<description>Age of Mythology (2002)(Microsoft)(Disc 2 of 2)</description>
+		<rom name="Age of Mythology (2002)(Microsoft)(Disc 2 of 2).bin" size="606477312" crc="fc0317b8" md5="d3868a9c3485ec48ee52d7fdaaf7bf4e" sha1="9a177e4d6d74061cc8e3c919f9b93230d1a25aed"/>
+		<rom name="Age of Mythology (2002)(Microsoft)(Disc 2 of 2).cue" size="135" crc="6c490518" md5="6bc92feb49b69b97e4d9d37b389ac311" sha1="1327e481f1ca08ddaa2720f26883e2e1a50a5fdf"/>
+	</game>
+	<game name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4)">
+		<description>Airfix Dogfighter (2000)(EON Digital Entertainment)(M4)</description>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 01 of 11).bin" size="232737456" crc="cabe69fe" md5="1641ad2ee5e23bfe80078170e4c246c4" sha1="5f0dc52b65aed6e5971a081afcfc11c82309f6c3"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 02 of 11).bin" size="44603328" crc="a86ff51c" md5="c66459f76f3fbbd406fdc2ee35299493" sha1="ccd5d1299be3e896390e2794781fdb82cc48d6bf"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 03 of 11).bin" size="46287360" crc="2b8fbf84" md5="d0309031f13ddd705ff0e5b13541eb04" sha1="9f8f80e6e9e6b03e32f17a764862c746f1d6e6f2"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 04 of 11).bin" size="39805248" crc="d4834751" md5="e2a4f410e0e2dfcba5babbdf33c25352" sha1="d88c15faf2650140994462beda84fafdf56fe6f5"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 05 of 11).bin" size="14431872" crc="ad2b3283" md5="9d538dc979007095fc0748af67b39ff8" sha1="b1534eb618caabd5cf70625c7191444e934f34b9"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 06 of 11).bin" size="10915632" crc="84ff2686" md5="5e41913880a2f87e1e2d98fcb3a2877b" sha1="f216bdea8ec3aeaf6c44b0a6bb601fe44008a2ff"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 07 of 11).bin" size="31907232" crc="0425a2d4" md5="3d4cd774f0c205a82a64f2d650b1c15d" sha1="91637db9e74fb7b496785475a5bc252eb4bead23"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 08 of 11).bin" size="35597520" crc="52356264" md5="a1c8c5525ce9a69bc943066f3f76b076" sha1="2e04b2b5e8333a871d65a1cfeb6c37f616078db8"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 09 of 11).bin" size="49032144" crc="e5371c0d" md5="dd7335f1036554619910efe33d0c241c" sha1="a105b6a0b75ad6a12002c7c900a976411f4c80c8"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 10 of 11).bin" size="35882112" crc="66c69fe0" md5="724d2e06fd2b2f49699e79f394f38951" sha1="bf0f1d3430717247b74f740c2b96599556b013e2"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4) (Track 11 of 11).bin" size="42959280" crc="b73b737f" md5="970cc7c329d26540e6b91f595684f631" sha1="ecc4a6eee11eddb7ccd7d315db07463375dffce8"/>
+		<rom name="Airfix Dogfighter (2000)(EON Digital Entertainment)(M4).cue" size="1721" crc="92ffa295" md5="c2f17698ff87132080b596a778e24070" sha1="47a7c8f234fb681208ab18fd199168dee8e34ab3"/>
+	</game>
+	<game name="America's Greatest Solitaire Games (1999)(Infogrames)">
+		<description>America's Greatest Solitaire Games (1999)(Infogrames)</description>
+		<rom name="America's Greatest Solitaire Games (1999)(Infogrames).bin" size="15123360" crc="6dd1861e" md5="237a8b7bfc1ca89a4d48a938edf622fb" sha1="c8c93aa8172ac3d57f8b3adfaf56e7307ffbf598"/>
+		<rom name="America's Greatest Solitaire Games (1999)(Infogrames).cue" size="142" crc="4cfd3b60" md5="4ab18f1ea8f91b6dc5533c17c6c0c56a" sha1="c4f6bd877ae814253ce3b02b034db24fc48b8e25"/>
+	</game>
+	<game name="American Pickers (2012)(Avanquest Software Publishing)(AU)">
+		<description>American Pickers (2012)(Avanquest Software Publishing)(AU)</description>
+		<rom name="American Pickers (2012)(Avanquest Software Publishing)(AU).bin" size="194573904" crc="78c797ac" md5="ff4c91dd9da67993ebea986dfb88c271" sha1="80fbb7df1e48dfddb22796cc429a6cf3b8d2cc3a"/>
+		<rom name="American Pickers (2012)(Avanquest Software Publishing)(AU).cue" size="147" crc="52f227ae" md5="334d35dbe51c5e2e2bd5e9b3171abb48" sha1="6b498d8f25d496d9ca00ef4e35af2ce3ac519236"/>
+	</game>
+	<game name="Apache Longbow (1995)(Digital Integration)">
+		<description>Apache Longbow (1995)(Digital Integration)</description>
+		<rom name="Apache Longbow (1995)(Digital Integration).bin" size="356659632" crc="0d0241e8" md5="dc0b91004bcb8b481810590d625bfe1a" sha1="862cee28c2244601ae96a6b700991efcaa842840"/>
+		<rom name="Apache Longbow (1995)(Digital Integration).cue" size="131" crc="73745f48" md5="4fe6768303240a2740ebf3bc89d053ab" sha1="296c346e737ae769a111a7d036b1afffa476dd3c"/>
+	</game>
+	<game name="Around the World in 80 Days (2010)(Playrix Entertainment)(AU)[!]">
+		<description>Around the World in 80 Days (2010)(Playrix Entertainment)(AU)[!]</description>
+		<rom name="Around the World in 80 Days (2010)(Playrix Entertainment)(AU)[!].bin" size="215003376" crc="31ba6c50" md5="94e9b500abb5e4b12b1cec5b24036cd9" sha1="cf861608f4a3f9e2911a0bf3867a5ae2c59f0e89"/>
+		<rom name="Around the World in 80 Days (2010)(Playrix Entertainment)(AU)[!].cue" size="153" crc="acace1b4" md5="7c7208a4c8a1e883927ccad22e3c094f" sha1="e5bcee3fed8f2c815a90e3d4bf9070dc872a891d"/>
+	</game>
+	<game name="Atari Anniversary Edition (2001)(Infogrames Interactive)">
+		<description>Atari Anniversary Edition (2001)(Infogrames Interactive)</description>
+		<rom name="Atari Anniversary Edition (2001)(Infogrames Interactive).bin" size="753672528" crc="f0655299" md5="d61786f5f1e3c2bcb3d4030dad4b13d7" sha1="d793657a9c59c13fccb8349459a2fa1b3dfbbc3f"/>
+		<rom name="Atari Anniversary Edition (2001)(Infogrames Interactive).cue" size="145" crc="8a951635" md5="c5e80d85cfe2a981814a47eb80e5461d" sha1="82225fdf0bf5385e7f79e6707e1055cfab98dffb"/>
+	</game>
+	<game name="Australia 2 - Scenery Enhancement for Microsoft Flight Simulator (1997)(Peak Interact)(AU)">
+		<description>Australia 2 - Scenery Enhancement for Microsoft Flight Simulator (1997)(Peak Interact)(AU)</description>
+		<rom name="Australia 2 - Scenery Enhancement for Microsoft Flight Simulator (1997)(Peak Interact)(AU).bin" size="260349936" crc="d5e4097c" md5="478774117dc7cc46a10f9910e98696fb" sha1="8eb67a6e4b48329ffc33abbf633676c45189bdee"/>
+		<rom name="Australia 2 - Scenery Enhancement for Microsoft Flight Simulator (1997)(Peak Interact)(AU).cue" size="179" crc="53a3d2f7" md5="708c2d9d3c1be725cde6f176397b4bc1" sha1="f0be304687ba93dc6a95f84d097c844cd60483dc"/>
+	</game>
+	<game name="Azada (2009)(Big Fish Games)(AU)">
+		<description>Azada (2009)(Big Fish Games)(AU)</description>
+		<rom name="Azada (2009)(Big Fish Games)(AU).bin" size="76084848" crc="8d9e612b" md5="7759a1f62e25956b1b3da1098d42ccb0" sha1="0000f0dfbb140d2baf15d4eb0db14b39fe57156a"/>
+		<rom name="Azada (2009)(Big Fish Games)(AU).cue" size="121" crc="fc8e1617" md5="8eaf01f33c7a433b2b94518d56b68112" sha1="c5b0d0bd9cc16ba42e436dccb6af00c5e44d8fc5"/>
+	</game>
+	<game name="Baldur's Gate II - Throne of Bhaal (2001)(Interplay Entertainment)">
+		<description>Baldur's Gate II - Throne of Bhaal (2001)(Interplay Entertainment)</description>
+		<rom name="Baldur's Gate II - Throne of Bhaal (2001)(Interplay Entertainment).bin" size="753557280" crc="c27747ee" md5="c7577b9291a1130e02afe3bf58c98c4e" sha1="9d8db33d13bc53541445f31ca9504bd577f5989b"/>
+		<rom name="Baldur's Gate II - Throne of Bhaal (2001)(Interplay Entertainment).cue" size="155" crc="591e8e92" md5="2bcb81b2798d55c30fb947360a68d41a" sha1="e3f1b80032eb79e02699063764f10ff27b3e0179"/>
+	</game>
+	<game name="Beast of Lycan Isle, The (2013)(Gogii Games)(AU)">
+		<description>Beast of Lycan Isle, The (2013)(Gogii Games)(AU)</description>
+		<rom name="Beast of Lycan Isle, The (2013)(Gogii Games)(AU).bin" size="479092992" crc="6f39b8ff" md5="187734748ddf01cd7a0997df3e516b41" sha1="ae6df4b15743d06ddb94001285d5bbcdd802b44c"/>
+		<rom name="Beast of Lycan Isle, The (2013)(Gogii Games)(AU).cue" size="137" crc="4d9a209f" md5="ac903fd27fe579087071d4b86a3b3c12" sha1="a63b00b168cb4267df87faa2198e7f13f98249b0"/>
+	</game>
+	<game name="Bejeweled 2 (2004)(PopCap Games)(AU)">
+		<description>Bejeweled 2 (2004)(PopCap Games)(AU)</description>
+		<rom name="Bejeweled 2 (2004)(PopCap Games)(AU).bin" size="335228208" crc="e73f2ab6" md5="663b7472f807969eee1bee988396ccbd" sha1="77a1104631e85244891cfe9217373d1ec71d85fb"/>
+		<rom name="Bejeweled 2 (2004)(PopCap Games)(AU).cue" size="125" crc="5ddf5677" md5="a9f50f1b8e65ed645dc37fa4f77b1a20" sha1="56c0e0f38110933a518e6ce6a0bf2d7158ec3579"/>
+	</game>
+	<game name="BioForge (1995)(Origin)(M3)">
+		<description>BioForge (1995)(Origin)(M3)</description>
+		<rom name="BioForge (1995)(Origin)(M3).bin" size="201147744" crc="05213178" md5="9eeb8ba81af788750762605bb0e23e8d" sha1="24e3b55c1345e1345e28c4f8578b531f9c86925f"/>
+		<rom name="BioForge (1995)(Origin)(M3).cue" size="116" crc="ef3f2b76" md5="aa6a2bb658cfd831de8f1d5abdc2cb18" sha1="2a2b8388bb506287e163f8caf978653fc82f7098"/>
+	</game>
+	<game name="Blaster Simulator (2011)(Mastertronic)(AU)">
+		<description>Blaster Simulator (2011)(Mastertronic)(AU)</description>
+		<rom name="Blaster Simulator (2011)(Mastertronic)(AU).bin" size="139864032" crc="9879a9c5" md5="fdc43dfc0c3722964f25b25555c57404" sha1="beded808e53c01bf55015e227521d29821562a1a"/>
+		<rom name="Blaster Simulator (2011)(Mastertronic)(AU).cue" size="131" crc="33f9edfb" md5="0138942fcc922c0020e73b9a1580e36e" sha1="557f9b06fada308ed49572608dbe0cb9b9defc75"/>
+	</game>
+	<game name="Bookworm Deluxe (2005)(PopCap Games)">
+		<description>Bookworm Deluxe (2005)(PopCap Games)</description>
+		<rom name="Bookworm Deluxe (2005)(PopCap Games).bin" size="541237536" crc="1268d491" md5="cda7023926744d8f0854fbe2db4c2f1a" sha1="701b7c341239d53986e50cbcbacf6ba6b4067ba2"/>
+		<rom name="Bookworm Deluxe (2005)(PopCap Games).cue" size="125" crc="00f608bc" md5="644ddadddd4f407effdbd0b51f89d031" sha1="9e201f8216a8ed25139bbada2acbbc8d626b5665"/>
+	</game>
+	<game name="Brain Dead 13 (1995)(ReadySoft)(US)">
+		<description>Brain Dead 13 (1995)(ReadySoft)(US)</description>
+		<rom name="Brain Dead 13 (1995)(ReadySoft)(US).bin" size="618383136" crc="ae459dd2" md5="96329a1b9dda97d38777f83359c2ccb3" sha1="886eb3b181285a57868bcd256847e7a5d861e654"/>
+		<rom name="Brain Dead 13 (1995)(ReadySoft)(US).cue" size="124" crc="528d6e3a" md5="dc81f9bc37fe9803d58300793fa52815" sha1="a385c9508b00fde22f9db95017d24633900c9965"/>
+	</game>
+	<game name="Brain Teasers (2003)(Nodtronics)(AU)">
+		<description>Brain Teasers (2003)(Nodtronics)(AU)</description>
+		<rom name="Brain Teasers (2003)(Nodtronics)(AU).bin" size="503405616" crc="d5187ae2" md5="c5bfd8f3d01bc009d4acc1cc6dcc9ed8" sha1="fb842b5c1a144163e29ad92fc5785b2ef3e28ede"/>
+		<rom name="Brain Teasers (2003)(Nodtronics)(AU).cue" size="125" crc="99133556" md5="4dc1c864f3c55af657d74ade7a1944d4" sha1="524c4d60cd05e6254db84ce9adaa7e69cd79859c"/>
+	</game>
+	<game name="Brain Training Deluxe Edition (2007)(MASC Software)(AU)[!]">
+		<description>Brain Training Deluxe Edition (2007)(MASC Software)(AU)[!]</description>
+		<rom name="Brain Training Deluxe Edition (2007)(MASC Software)(AU)[!].bin" size="49925904" crc="319edd09" md5="2df0f650f3f566c44e835c686991f880" sha1="217ec32498137a465444c5db99f911dabdc9801e"/>
+		<rom name="Brain Training Deluxe Edition (2007)(MASC Software)(AU)[!].cue" size="147" crc="0bb8bc2d" md5="9a763d0e65454f7a1f7f3ab928075042" sha1="439cc7f41c6a886beb4a6acc433812f52212a67e"/>
+	</game>
+	<game name="Bridge Deluxe II with Omar Sharif (1996)(Interplay Productions)">
+		<description>Bridge Deluxe II with Omar Sharif (1996)(Interplay Productions)</description>
+		<rom name="Bridge Deluxe II with Omar Sharif (1996)(Interplay Productions).bin" size="421391376" crc="42a6a6cb" md5="5a94b69a4eff91e125fdf3f3629be737" sha1="fb57a4207a3ef4dbea2b022c754236e0a9f1e0bf"/>
+		<rom name="Bridge Deluxe II with Omar Sharif (1996)(Interplay Productions).cue" size="152" crc="910eab27" md5="08edf78bfde79b04ae53d17f04a21726" sha1="b460a1fe35dbb88924c16abb62dd4909de06fbb9"/>
+	</game>
+	<game name="Bridge Project (2012)(Halycon Media)(AU)">
+		<description>Bridge Project (2012)(Halycon Media)(AU)</description>
+		<rom name="Bridge Project (2012)(Halycon Media)(AU).bin" size="620650464" crc="0e1a078b" md5="9aeb70af075d5685c2faa7af47dcce10" sha1="a87ad4f7061a49555cd92e6a3c70b9f5710cae6b"/>
+		<rom name="Bridge Project (2012)(Halycon Media)(AU).cue" size="129" crc="7fda26c7" md5="86e3979420b1ab4351795e3bc23acedb" sha1="862b62f6b4894cabfc01b8e7da6c1abafbf316d9"/>
+	</game>
+	<game name="C64 Classix (2005)(magnussoft Deutschland)(DE)">
+		<description>C64 Classix (2005)(magnussoft Deutschland)(DE)</description>
+		<rom name="C64 Classix (2005)(magnussoft Deutschland)(DE).bin" size="743845872" crc="d8812350" md5="17a4cb62e2cf743c326501d07fbf2480" sha1="ddb342908328b23a92af7b2c6d1d088a392198ec"/>
+		<rom name="C64 Classix (2005)(magnussoft Deutschland)(DE).cue" size="135" crc="1a7ce47d" md5="9b29494f9c6ca2cd9e49f3b7ab0b6d04" sha1="07eb37a042c4ddf752ed6a747cad0513bc452a33"/>
+	</game>
+	<game name="Cabela's Big Game Hunter 2005 Adventures (2004)(Activision)(AU)">
+		<description>Cabela's Big Game Hunter 2005 Adventures (2004)(Activision)(AU)</description>
+		<rom name="Cabela's Big Game Hunter 2005 Adventures (2004)(Activision)(AU) (Track 1 of 2).bin" size="698703936" crc="a44f4342" md5="e6f91285478fec40b1b7f0cb1540666b" sha1="a11381fad2885ff3e52cc4faf4595dae3be44d5a"/>
+		<rom name="Cabela's Big Game Hunter 2005 Adventures (2004)(Activision)(AU) (Track 2 of 2).bin" size="103899600" crc="aca76b5f" md5="2154219f3e625cec9e72c49eafe701d3" sha1="815e9d25c23ecbd7d666b3fa061f2e7086a2bdeb"/>
+		<rom name="Cabela's Big Game Hunter 2005 Adventures (2004)(Activision)(AU).cue" size="329" crc="3cb193ac" md5="2273684b993fb48e7500441c120f846b" sha1="55ac7477ec884ae9bb8134b309dd0f4a0f22bf80"/>
+	</game>
+	<game name="Caesar IV (2006)(Sierra Entertainment)(AU)(Disc 1 of 2)">
+		<description>Caesar IV (2006)(Sierra Entertainment)(AU)(Disc 1 of 2)</description>
+		<rom name="Caesar IV (2006)(Sierra Entertainment)(AU)(Disc 1 of 2).bin" size="787694208" crc="6d94f0f6" md5="49a1fec066121c42cbc3a252f4ba5180" sha1="196b77a4c77275e92bc80bf2840c7bc4522adc07"/>
+		<rom name="Caesar IV (2006)(Sierra Entertainment)(AU)(Disc 1 of 2).cue" size="144" crc="69ebfaf5" md5="b6e77e531f817b14de9d757e86cceaa5" sha1="3374c04e3a2335608d14d956b7c6f6a3f0f3fac5"/>
+	</game>
+	<game name="Caesar IV (2006)(Sierra Entertainment)(AU)(Disc 2 of 2)">
+		<description>Caesar IV (2006)(Sierra Entertainment)(AU)(Disc 2 of 2)</description>
+		<rom name="Caesar IV (2006)(Sierra Entertainment)(AU)(Disc 2 of 2).bin" size="593569536" crc="b2233100" md5="b7bbc043061d6f582c9e77e71df12b97" sha1="f8d1d19dbdf79f9aed266a520aa26695c48b9556"/>
+		<rom name="Caesar IV (2006)(Sierra Entertainment)(AU)(Disc 2 of 2).cue" size="144" crc="2558d05c" md5="c14282fc9009ffb5b6115e2db4edeb46" sha1="343e356c08e6c3ed14a645f44c8fe27075c902e2"/>
+	</game>
+	<game name="Carmageddon (1997)(Sales Curve Interactive)">
+		<description>Carmageddon (1997)(Sales Curve Interactive)</description>
+		<rom name="Carmageddon (1997)(Sales Curve Interactive) (Track 1 of 8).bin" size="353660832" crc="10c9689f" md5="13825491d1aae136b56948aab5ef0147" sha1="db55ddef11733316e412ba08f204b0c6e50fb88b"/>
+		<rom name="Carmageddon (1997)(Sales Curve Interactive) (Track 2 of 8).bin" size="44965536" crc="cd460ebf" md5="cb9fbb1fffe50735cec2829a64960164" sha1="d7b3fa1b79273cd86a6a4a3fdd84c5d613839140"/>
+		<rom name="Carmageddon (1997)(Sales Curve Interactive) (Track 3 of 8).bin" size="60088896" crc="8995c3b4" md5="118912b72ea90d2a78eaa178c9966bc8" sha1="1d11966e8a3c9b476baecfe6e84a6b5634a942be"/>
+		<rom name="Carmageddon (1997)(Sales Curve Interactive) (Track 4 of 8).bin" size="61039104" crc="e5488856" md5="2569394713ab709e6c2b579cdbe8a702" sha1="bd87ca52dd34e8c89eb4d2e3a3775e8fe906dcd4"/>
+		<rom name="Carmageddon (1997)(Sales Curve Interactive) (Track 5 of 8).bin" size="58978752" crc="578b5531" md5="aa191b2f52e75ca12c2f29b3e0d88b03" sha1="21cb2b92c0cb6ef509a26bfef4c1362d77df9e72"/>
+		<rom name="Carmageddon (1997)(Sales Curve Interactive) (Track 6 of 8).bin" size="60324096" crc="9486209b" md5="ccd5a6c1e8b2f7aaeac3eb2c1520dcbe" sha1="7650502a86170abf0b24c5b2ff12c3eaf1fd7635"/>
+		<rom name="Carmageddon (1997)(Sales Curve Interactive) (Track 7 of 8).bin" size="60293520" crc="10d8fe6f" md5="c3b273caba41a3c6f75c0cf94be00b6e" sha1="d41f0f49f917f9f0e587e8cc9df56b891cfa281e"/>
+		<rom name="Carmageddon (1997)(Sales Curve Interactive) (Track 8 of 8).bin" size="54260640" crc="f128624f" md5="e084d337dcd01f18463dccae5aba2126" sha1="3b52c1e5048841cabfbc8f522832360144a16f89"/>
+		<rom name="Carmageddon (1997)(Sales Curve Interactive).cue" size="1141" crc="05916445" md5="df6272a14e31678c7eb07af90f2b7998" sha1="7b08002ad4686c750d2bdfcac20b3f7120eada3c"/>
+	</game>
+	<game name="Cars Radiator Springs Adventures (2006)(THQ)(AU)[PC-Mac]">
+		<description>Cars Radiator Springs Adventures (2006)(THQ)(AU)[PC-Mac]</description>
+		<rom name="Cars Radiator Springs Adventures (2006)(THQ)(AU)[PC-Mac].bin" size="580595904" crc="48e9a428" md5="8c037b246854eaa1a9112305702fc502" sha1="644a717ced1ee87f9c213f61da56e2acb3c5ab04"/>
+		<rom name="Cars Radiator Springs Adventures (2006)(THQ)(AU)[PC-Mac].cue" size="145" crc="691c3bea" md5="5b9ecfdd4d8614cc497f54b06774d71b" sha1="7b03b02be6c0d95da4876ae2e8269713d88fbdc7"/>
+	</game>
+	<game name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment)">
+		<description>Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment)</description>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 01 of 11).bin" size="291775008" crc="3d8cc87b" md5="87d0913d2ef0781dc7dbf08b4975f117" sha1="529fdd054990a462e44333d7ed7692314be63149"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 02 of 11).bin" size="60234720" crc="fca4d1b5" md5="af50d8a86994a26a66e1d2b8ed587ab8" sha1="f53a79ca4a101aea8a3f36c2fd46ac5d4e6930bc"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 03 of 11).bin" size="2497824" crc="9a8c6778" md5="04c9b6bf7dfd6b7c20d31c36bb840f93" sha1="d709515fd7fde8221a67ca30e4b1a6a3969c7a23"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 04 of 11).bin" size="54829824" crc="d47a3ae5" md5="d622e4ad882c5967ad24778f05c04b9d" sha1="ab71f9465927ef475f7a036f6c398ae019c35531"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 05 of 11).bin" size="45609984" crc="a8201dab" md5="148a69257e6fc1f8c7cf454498b5aed3" sha1="0267af7199d66b4d64327aeb18e43d99567c5cc2"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 06 of 11).bin" size="4330032" crc="562c0fb6" md5="d59fc29cfb677bea0b7c4ad4ef10d1e0" sha1="5819f6cf666aa1c1e7f14c006b6c9d2e80ebd6ec"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 07 of 11).bin" size="70602336" crc="a4afbb4c" md5="7dcb1d9b66edb5bd9d70d7ad05963e01" sha1="e41d9491228daae8c0b1071d6b4f0296faac0450"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 08 of 11).bin" size="2389632" crc="b5364e1b" md5="462dd603b39d07bfa3483d9215a3c5d2" sha1="4b92880315df2f341eb4b9f186dfa81d91a357e2"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 09 of 11).bin" size="75715584" crc="7fde6f14" md5="003b2406eb68a1ade893c45a3cb56dc8" sha1="00fb9f7100ad4f20d3634041cca9051f0789961c"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 10 of 11).bin" size="69313440" crc="832cc7b4" md5="7f9b124c70fb752fe247d015088ca876" sha1="f6c4899410d33b22e24db618ef7d82db58fb56a1"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment) (Track 11 of 11).bin" size="2382576" crc="b2e3d75f" md5="1897dcf00de169abcff3ec09ce4a46a2" sha1="e479512e7eefd277b7a279b2314f970f4d6d4b72"/>
+		<rom name="Castrol Honda Superbike - Johnny Herbert's Grand Prix (1998)(Interactive Entertainment).cue" size="2073" crc="c8aaba0b" md5="c39afa90da566269346ea39b19287d16" sha1="74806c75080d630b85549b14a49706692e9f0c3f"/>
+	</game>
+	<game name="Castrol Honda Superbike World Champions (1998)(Interactive Entertainment)">
+		<description>Castrol Honda Superbike World Champions (1998)(Interactive Entertainment)</description>
+		<rom name="Castrol Honda Superbike World Champions (1998)(Interactive Entertainment) (Track 1 of 6).bin" size="392466480" crc="b0dec09f" md5="49f4b89a55c4478a9c81d0a805a31e7d" sha1="806dccb3f4954ad0d1debfa207cdadd3fbca803e"/>
+		<rom name="Castrol Honda Superbike World Champions (1998)(Interactive Entertainment) (Track 2 of 6).bin" size="60933264" crc="a374e454" md5="18190a1d6d963ad2d342006e102fc52b" sha1="13462f4d35a85d14c7c6ea830a731b1db5a6aba5"/>
+		<rom name="Castrol Honda Superbike World Champions (1998)(Interactive Entertainment) (Track 3 of 6).bin" size="2843568" crc="8d71484e" md5="8b3edd7ba5a18ce334c1efca53b9d994" sha1="3fd6be21d10ec09c939b5eb82d3a9c40dcb1201a"/>
+		<rom name="Castrol Honda Superbike World Champions (1998)(Interactive Entertainment) (Track 4 of 6).bin" size="55175568" crc="7f30d93a" md5="cbe249eb399341ef0c9813eca45fdf66" sha1="f355e3e64330ed474810046b9aa04c4087881951"/>
+		<rom name="Castrol Honda Superbike World Champions (1998)(Interactive Entertainment) (Track 5 of 6).bin" size="45955728" crc="c8c48bd7" md5="712cb180de473192991735aa5bf9f487" sha1="f2d911a4f24b500e2d8d665e15dfe48c0017b114"/>
+		<rom name="Castrol Honda Superbike World Champions (1998)(Interactive Entertainment) (Track 6 of 6).bin" size="4322976" crc="5fa08b57" md5="4949621f8795d2add7b4cc647a785d52" sha1="629290dd45fd1fef3291b537e85f3baedead3b98"/>
+		<rom name="Castrol Honda Superbike World Champions (1998)(Interactive Entertainment).cue" size="945" crc="1bb36b64" md5="e395622255c3a12a1cc4f829465d55de" sha1="1c07965d56960b757ca6663eb115a79d09208eba"/>
+	</game>
+	<game name="Championship Chess (1997)(Expert Software)(AU)[!]">
+		<description>Championship Chess (1997)(Expert Software)(AU)[!]</description>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 01 of 12).bin" size="152614224" crc="58011107" md5="040c09b3ba6fc6f39d0cee93012f61ba" sha1="3d2a58a46c3c03d96245ba2a1b23ec82bbdca0c6"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 02 of 12).bin" size="13234704" crc="e9ac22aa" md5="3167825650c45927ce17060346857b34" sha1="c490e0e16ec37a1799e537c144a14cc7a25beb85"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 03 of 12).bin" size="7766304" crc="7fd87c7a" md5="0e648bfdbd2a92d82d87ebfc849fdda3" sha1="62b3b18842a8ec212cbffb130425ae97b46c709a"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 04 of 12).bin" size="11647104" crc="effb1b03" md5="a85415c5777676041cc668469b4ea4c4" sha1="6472ad72e5ad2ffb3a501ab77fe6927cedf29fe7"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 05 of 12).bin" size="11647104" crc="bbc78847" md5="23c4c0c7c2d0a0a9397297afe5c4bd8f" sha1="f681716198f87389b9dd7ef5eb30dd1e8a48698a"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 06 of 12).bin" size="13058304" crc="069c8ac6" md5="614c6ecd213e6a3a49268feddc6d68f9" sha1="5b8e3bef7ca91b48ca66ba09c22a369f14c52997"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 07 of 12).bin" size="10765104" crc="6891d884" md5="5f3547f8fb24fcc0c6b69566eea99231" sha1="50df11684c29ebb8b8a10ee451c5c15cb03138f3"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 08 of 12).bin" size="13058304" crc="9c637ec7" md5="18e018720406f9d06f47a09da28556b7" sha1="6252c74ec6f06f424ec9ded6af5c0861eed5701d"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 09 of 12).bin" size="14469504" crc="4e5b801a" md5="88aab47a76af57e8fb3b94f2d343faac" sha1="b23d3007adeaad49f97e579d548631f771b99c20"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 10 of 12).bin" size="12352704" crc="b2a8d9dd" md5="52cfc58f6486a47f4b30b1cbde8a970a" sha1="eb802b27e8bd62a1c9fc91deb6619f2a9135e698"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 11 of 12).bin" size="13763904" crc="0085045c" md5="8c3263f2386d80a4a1c5a302e4bb88ff" sha1="26f5ef1e8389d3a9f3a70b97e2856bea1fe1546a"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!] (Track 12 of 12).bin" size="9706704" crc="cfae49fb" md5="4e984cf9ccde7018c672142907cf6fb7" sha1="f7465d911f195fe775122f1b7c44d1d802456185"/>
+		<rom name="Championship Chess (1997)(Expert Software)(AU)[!].cue" size="1552" crc="9e37da6c" md5="5fb57d25cda91e98f8da5758e0221f0a" sha1="7abe94e3c8c9fc9954101b90cdfe398e321e9a90"/>
+	</game>
+	<game name="Chris Moneymaker's World Poker Championship (2005)(THQ)(AU)">
+		<description>Chris Moneymaker's World Poker Championship (2005)(THQ)(AU)</description>
+		<rom name="Chris Moneymaker's World Poker Championship (2005)(THQ)(AU).bin" size="779344608" crc="b3797f03" md5="61d1e8a06bd5a715bd7c9f99ad600238" sha1="997bc02a92f46ea0c38263b27a899fa73742ae68"/>
+		<rom name="Chris Moneymaker's World Poker Championship (2005)(THQ)(AU).cue" size="148" crc="3324be78" md5="e82c0b1721061e8160f52f55417929a1" sha1="24d1fb1eef906dbd79377775b974d4771ca3ecd3"/>
+	</game>
+	<game name="Chuzzle (2005)(PopCap Games)(AU)[PC-Mac]">
+		<description>Chuzzle (2005)(PopCap Games)(AU)[PC-Mac]</description>
+		<rom name="Chuzzle (2005)(PopCap Games)(AU)[PC-Mac].bin" size="316889664" crc="2a86576b" md5="b412607cf144224b5a0d1b25f42bcc4a" sha1="61947909eb72e9166db391e5441fb59ac0e5e98f"/>
+		<rom name="Chuzzle (2005)(PopCap Games)(AU)[PC-Mac].cue" size="129" crc="ae19d132" md5="5e85bc669237935f45c7d804bf470517" sha1="6930e528d4e85e6b34a26648bcfdf691f993e6bf"/>
+	</game>
+	<game name="Classic Games (2002)(Nodtronics)(AU)">
+		<description>Classic Games (2002)(Nodtronics)(AU)</description>
+		<rom name="Classic Games (2002)(Nodtronics)(AU).bin" size="164503584" crc="c415c7f6" md5="b085fbf753ba19705ac8c75efc459b26" sha1="2cf9f85e1ce1a2376b94423c2897898d9060a62f"/>
+		<rom name="Classic Games (2002)(Nodtronics)(AU).cue" size="125" crc="86bc8c4a" md5="40dd2bae13da031b0c80c7371548596e" sha1="c479a88258efdd57acece79b126630d0e991c409"/>
+	</game>
+	<game name="Clockwork Man 2, The (2011)(Total Eclipse Games)(AU)">
+		<description>Clockwork Man 2, The (2011)(Total Eclipse Games)(AU)</description>
+		<rom name="Clockwork Man 2, The (2011)(Total Eclipse Games)(AU).bin" size="638765568" crc="f603df86" md5="b4d9a75ef4f83ae587045b1dce885c3b" sha1="14fd1ea9f88a4334c6e6593cc4fbcc4039ab920d"/>
+		<rom name="Clockwork Man 2, The (2011)(Total Eclipse Games)(AU).cue" size="141" crc="c4629efb" md5="07a507394c72b791b791e2f0639bdb97" sha1="3c004047a2adbf2fcce6ffc86359322c518da893"/>
+	</game>
+	<game name="Close Combat Invasion Normandy (2000)(Mattel Interactive)(US)">
+		<description>Close Combat Invasion Normandy (2000)(Mattel Interactive)(US)</description>
+		<rom name="Close Combat Invasion Normandy (2000)(Mattel Interactive)(US).bin" size="761382384" crc="1fb03407" md5="28dbec42dc9d8de5ba6eb48293304fc0" sha1="c3debdd888e6dfc00d3c1796305a5ae6f752a9b9"/>
+		<rom name="Close Combat Invasion Normandy (2000)(Mattel Interactive)(US).cue" size="150" crc="d503d758" md5="f8bcca729c5a19c750bb945c9d26e81f" sha1="5806a321f1d321a57f00031d60ccfd3525eea0eb"/>
+	</game>
+	<game name="Cold Dreams (1995)(Manaccom)(AU)">
+		<description>Cold Dreams (1995)(Manaccom)(AU)</description>
+		<rom name="Cold Dreams (1995)(Manaccom)(AU).bin" size="43991808" crc="41168aea" md5="e8a848f7ffc85931a2aa15d668690d4a" sha1="2106e1f816b52ed483670e7aa7b8a5943249f3ea"/>
+		<rom name="Cold Dreams (1995)(Manaccom)(AU).cue" size="121" crc="44148c6f" md5="23d586e30c7f091f52e9abb1f301130a" sha1="122cb5df1dddca4a57dc3cd970599fcc7f5e5a50"/>
+	</game>
+	<game name="Command &amp; Conquer - Red Alert (1996)(Westwood Studios)(Disc 1 of 2)">
+		<description>Command &amp; Conquer - Red Alert (1996)(Westwood Studios)(Disc 1 of 2)</description>
+		<rom name="Command &amp; Conquer - Red Alert (1996)(Westwood Studios)(Disc 1 of 2).bin" size="681616656" crc="a25b6f6d" md5="03ebb90ed0dc49c08fbfd3737d012ae8" sha1="35feb55fc6e81b2d14c5ca7a80ebfb212807a136"/>
+		<rom name="Command &amp; Conquer - Red Alert (1996)(Westwood Studios)(Disc 1 of 2).cue" size="156" crc="79ec11e0" md5="65a3e9534dedb16b02c5a4414b794af0" sha1="bdd2f0c174855b5e78914fff2700b98ae202d7b1"/>
+	</game>
+	<game name="Command &amp; Conquer - Red Alert (1996)(Westwood Studios)(Disc 2 of 2)">
+		<description>Command &amp; Conquer - Red Alert (1996)(Westwood Studios)(Disc 2 of 2)</description>
+		<rom name="Command &amp; Conquer - Red Alert (1996)(Westwood Studios)(Disc 2 of 2).bin" size="719505024" crc="97e788bb" md5="58285981db75067303f36701ce133ff7" sha1="75061955f7fdfed0bcefbd646ad8529f06393fb3"/>
+		<rom name="Command &amp; Conquer - Red Alert (1996)(Westwood Studios)(Disc 2 of 2).cue" size="156" crc="355f3b49" md5="dbb9ee0bb42052cc6729a4ce96b80f06" sha1="02002e32ffb66fee282bcfcf396b5430b4f8ff4b"/>
+	</game>
+	<game name="Command &amp; Conquer - Red Alert - Counterstrike (1999)(Virgin Interactive)(M9)">
+		<description>Command &amp; Conquer - Red Alert - Counterstrike (1999)(Virgin Interactive)(M9)</description>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (1999)(Virgin Interactive)(M9) (Track 1 of 6).bin" size="336884016" crc="1e2045a3" md5="25efa8c39934097b54e3af877e9ae0ab" sha1="c09ed31600810cb30f1c27324f2d0a0ebc0392b9"/>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (1999)(Virgin Interactive)(M9) (Track 2 of 6).bin" size="37895424" crc="4111e954" md5="fd8550dc954d3e45bab002f5751011a0" sha1="f5a5a796649e27de497bc60e784617124720b65f"/>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (1999)(Virgin Interactive)(M9) (Track 3 of 6).bin" size="47493936" crc="98792032" md5="0b1078773e6c75ab619fb23f0f75fe79" sha1="1ece5d90eecf6876a92cfffc6a562053028e6baf"/>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (1999)(Virgin Interactive)(M9) (Track 4 of 6).bin" size="45064320" crc="541f7eb1" md5="f31a59c59e57ad9475af0d75cdfad768" sha1="9062054d3d09e7ce08a74d37b0793506790fa2dc"/>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (1999)(Virgin Interactive)(M9) (Track 5 of 6).bin" size="46364976" crc="13a8a444" md5="a640ca1f0e02e7ef2fbc1c144df7a583" sha1="cb91d49a987e8132645263fb099237b41a3c67ac"/>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (1999)(Virgin Interactive)(M9) (Track 6 of 6).bin" size="51315936" crc="796c4bd8" md5="86cfb319938a91ac736aa0228eb3d33b" sha1="9c439dd3f1dacf12f7f6a5ba0cf2b8b0192f4aa7"/>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (1999)(Virgin Interactive)(M9).cue" size="963" crc="2957bd28" md5="3e82c92874109b01d854613b468de677" sha1="7fd360127c3b5b7ee19b4f9a05df294cf89e419f"/>
+	</game>
+	<game name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2)">
+		<description>Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2)</description>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 01 of 19).bin" size="537417888" crc="2fe38ba0" md5="00a491d5a523f4f1ee9e7d985ed2629b" sha1="de80dd1ff169eadf22309772608f8cc1cefce609"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 02 of 19).bin" size="16812096" crc="700a00c5" md5="ac31be2db0c7051a82472333b11da676" sha1="9793f53987de7ab2aafe7c52a7c43b34cce88a5c"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 03 of 19).bin" size="10743936" crc="950405c6" md5="6a4f39f9f887dd083c32ee0bab17a1ef" sha1="50cde516c6f434f14cc64f239b3d8a10d2953dad"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 04 of 19).bin" size="12926592" crc="325616ed" md5="7df6043592cddfa630f2162dc0e7ed75" sha1="9365230f11ba3d616e4ac2e40d909e4d97b2315b"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 05 of 19).bin" size="11522448" crc="583051c7" md5="b642e9d90e1e5c1506ea7dfa4ab9af09" sha1="2e11356b49bb704437195615d6ac67c99f783326"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 06 of 19).bin" size="17783472" crc="f4e0d3c6" md5="4e7c0a28699ee07aad89e577dc0992d3" sha1="670986da00b7e4d8f1c9fc0772ac63e48a7a7c37"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 07 of 19).bin" size="13204128" crc="a77cb882" md5="686739dbf647fe6936ecb13a3805e0ec" sha1="c0218846be8cacaa912556ebea1865573f657b50"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 08 of 19).bin" size="14262528" crc="c0307383" md5="3ffca6c8f7dce10991ae319c3ce8d50e" sha1="b9f0079377a2df463697f39396ab70f6f7e1247e"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 09 of 19).bin" size="13860336" crc="caddd471" md5="34e4f298e198db6e086a982ad1f0fab0" sha1="a6235d4dae6551ff7f21638e7d6e65bbf54a5f65"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 10 of 19).bin" size="7596960" crc="284f9a1f" md5="0747fae078bc8b325d46de82b145aa32" sha1="221ea9174cae25c8556c5ed24d63ba54026f0572"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 11 of 19).bin" size="9749040" crc="4437892d" md5="e502c10d00c9f1d5018174a76d0601c4" sha1="897b7b6c369884927075389cb7a5061307788b18"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 12 of 19).bin" size="6691440" crc="5fe9ce42" md5="41ae88a35f70c8f691c627598ff55ba6" sha1="7feb9fa9816ff153efdfc806326665b94e2ddaf8"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 13 of 19).bin" size="9878400" crc="ed6632e3" md5="5b24501ac055e4191e03b2d8a0223567" sha1="d4ce145fcac0837ae9b9374f9f55e5668993683f"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 14 of 19).bin" size="11306064" crc="b7042cf4" md5="60ab4856365b50910af2dd3b2d45e9c2" sha1="92a4fe1a552f748a614ee60411c2596cc21feaa0"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 15 of 19).bin" size="14812896" crc="3f439905" md5="73cae2bef60685be6bac6f766a485f02" sha1="b71c2d051a260832baa583e527cc6955fa4b83fa"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 16 of 19).bin" size="15243312" crc="2a3fa86a" md5="737fc2a5d0ebaf2e3a45ce1744dabbba" sha1="52ca97af9119fe77e5d928820da9d22e6e304b4a"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 17 of 19).bin" size="12823104" crc="e9107043" md5="0199c36c0cff069cfc64e2f753cbfb28" sha1="01f9e6376249c54060d07367ce3fd9832a2c7080"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 18 of 19).bin" size="9210432" crc="6e844264" md5="c2391f0d8bc0880c2130a6ad2eb0f0e0" sha1="78c56e4149ff450a7633d10d6c00ea7caf98e43a"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2) (Track 19 of 19).bin" size="11578896" crc="058f69f4" md5="7208934c431a3475e5fe605e179237f2" sha1="0b19ed15e7355c43f88e4e3ea949f8126ae21515"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 1 of 2).cue" size="2540" crc="35be386b" md5="e8e9608923c025eda98c48f4a0d7f8d1" sha1="377252f82d6f56266bd9c7a4da5d767e1c185bee"/>
+	</game>
+	<game name="Creed, The (1998)(Dreamtime Interactive)(Disc 2 of 2)">
+		<description>Creed, The (1998)(Dreamtime Interactive)(Disc 2 of 2)</description>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 2 of 2).bin" size="746447184" crc="71727273" md5="663ce1deeb08068c446c8d4b3043c0e0" sha1="b0ea5306ab56c00b04f61c47250100f686874ae2"/>
+		<rom name="Creed, The (1998)(Dreamtime Interactive)(Disc 2 of 2).cue" size="142" crc="d17be7b5" md5="59d18f75f963771cb7020b33418895e9" sha1="4ecc6caa5aaff91406f8d2daa710c8d0c3d19b08"/>
+	</game>
+	<game name="Cribbage Quest (2007)(THQ)(AU)">
+		<description>Cribbage Quest (2007)(THQ)(AU)</description>
+		<rom name="Cribbage Quest (2007)(THQ)(AU).bin" size="47489232" crc="b881b08d" md5="51c77c421e6b06f21bc626215a98d0ec" sha1="ad9d4ce4ad3e5687857b8ae5e448c6c239075be8"/>
+		<rom name="Cribbage Quest (2007)(THQ)(AU).cue" size="119" crc="8c10b916" md5="4d9f889d3713034fecf82fad513959ab" sha1="0ac8d88d1fe01fcfcb9d620d8bb7d9c8bb3b2cde"/>
+	</game>
+	<game name="Criminal Minds a Dying Art (2011)(Legacy Interactive)(AU)">
+		<description>Criminal Minds a Dying Art (2011)(Legacy Interactive)(AU)</description>
+		<rom name="Criminal Minds a Dying Art (2011)(Legacy Interactive)(AU).bin" size="130324320" crc="09909414" md5="fa42848eb0e3941636564a1b594cfdcc" sha1="03c76884775c41030163fed2893a1912b09e87a4"/>
+		<rom name="Criminal Minds a Dying Art (2011)(Legacy Interactive)(AU).cue" size="161" crc="e4767b25" md5="482e404daacae38a554f4071aec9feff" sha1="8fddf85da9ff132ab7619a72d101aa914b14a05a"/>
+	</game>
+	<game name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU)">
+		<description>Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU)</description>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 01 of 12).bin" size="310508688" crc="40ef0813" md5="1b216ece3c572f171ba5b4877274c0f7" sha1="1d0e7d6d0b28e28030642e57acb44f28b74a9e54"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 02 of 12).bin" size="38116512" crc="160c57c3" md5="333b585cfef89a60c0227d876cbdf3c7" sha1="667e326c7f00692eb93cce69092f1613e6bc1272"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 03 of 12).bin" size="37761360" crc="cac29f70" md5="138246b85ca6dfabe28855ddd3f167b8" sha1="5aa050a6e886db5bb4763c47e22909f01aca80b2"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 04 of 12).bin" size="37761360" crc="cac29f70" md5="138246b85ca6dfabe28855ddd3f167b8" sha1="5aa050a6e886db5bb4763c47e22909f01aca80b2"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 05 of 12).bin" size="33817056" crc="6c7493f7" md5="e204192447cc21e711d50d30747a8233" sha1="b218c8bd88b6450e3a469a8ad14e8f2c3511d66d"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 06 of 12).bin" size="23941008" crc="c7d6555b" md5="25e275bdbff3e9a0933d4b024cb3ea09" sha1="c53ed4368b71088932b1d9e47c1ef31c2255afbb"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 07 of 12).bin" size="7935648" crc="04dd0035" md5="fcbe6b3aa78a38b89f17540db0962fe9" sha1="6480539d1fa0ffc83e32d3935330f9e76e6da77e"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 08 of 12).bin" size="116776800" crc="9ce7fba0" md5="6e8e7057ddffecc0c8f304f6ed5e8965" sha1="dbfdcc2ff0314472a3e25c6caeac75322c21893c"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 09 of 12).bin" size="7935648" crc="bc3b81fb" md5="5b2fcf105a935bca2d32233bafecd8ff" sha1="b5df4b95d30d139abe5954d0a0d6c3937da28d97"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 10 of 12).bin" size="79556400" crc="714f5861" md5="11e3fdee29ed58ed13f2d80de22dda4a" sha1="a9d0fd4bd14b259599cd6a0c3023cf055112d53d"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 11 of 12).bin" size="7935648" crc="bc3b81fb" md5="5b2fcf105a935bca2d32233bafecd8ff" sha1="b5df4b95d30d139abe5954d0a0d6c3937da28d97"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU) (Track 12 of 12).bin" size="100722048" crc="0233e10f" md5="b5f31ebe8f37b0716029e725bbfceef2" sha1="ddca77b66dbe15acf3c3981454d8dc9532864a21"/>
+		<rom name="Darin Shapiro's Big Air Wakeboarding (2001)(Activision)(AU).cue" size="1764" crc="5a0214f7" md5="8a8de572389f6eacdd8e336d17a40d44" sha1="ef88b63c4cbf917e0adba4cb2d557aa3cb503205"/>
+	</game>
+	<game name="Dark Hills of Cherai, The - The Regal Scepter (2013)(Big Fish Games)(AU)">
+		<description>Dark Hills of Cherai, The - The Regal Scepter (2013)(Big Fish Games)(AU)</description>
+		<rom name="Dark Hills of Cherai, The - The Regal Scepter (2013)(Big Fish Games)(AU).bin" size="384537888" crc="7eb76cc8" md5="b5c44dcd2428a35a8567c578da79d3fe" sha1="cf4e17ba756ddbd1c5a07f71b85afa80dd836daf"/>
+		<rom name="Dark Hills of Cherai, The - The Regal Scepter (2013)(Big Fish Games)(AU).cue" size="161" crc="239b009a" md5="0ad663e8cc150b336c5606f0d2bb7531" sha1="1121266690f13cc34e9eb63dc6c3553e96e04290"/>
+	</game>
+	<game name="Diablo (1996)(Blizzard Entertainment)">
+		<description>Diablo (1996)(Blizzard Entertainment)</description>
+		<rom name="Diablo (1996)(Blizzard Entertainment).bin" size="688870224" crc="edf6b970" md5="09de94c03de84c6b90ca6aa77bb42de5" sha1="8f61c3cc7c493f88539a914856d412870b6493e8"/>
+		<rom name="Diablo (1996)(Blizzard Entertainment).cue" size="126" crc="1aa8e9d7" md5="5f360a5d7ba68966496e17c4aa590402" sha1="ed98650b74a708cdd769ca2866cef3b41d6673fa"/>
+	</game>
+	<game name="Diablo II - Lord of Destruction Expansion Set (2008)(Blizzard Entertainment)">
+		<description>Diablo II - Lord of Destruction Expansion Set (2008)(Blizzard Entertainment)</description>
+		<rom name="Diablo II - Lord of Destruction Expansion Set (2008)(Blizzard Entertainment).bin" size="575553216" crc="704f9725" md5="d20d833fc2ca3fa68a3d87b65fd8f42e" sha1="722b491238f2b2430122d273289202b214236d2c"/>
+		<rom name="Diablo II - Lord of Destruction Expansion Set (2008)(Blizzard Entertainment).cue" size="168" crc="42a9caea" md5="ac40b53afc98cb1f1de583ac8888cd38" sha1="d11fc11c8749c261aaf0cc499848ca1668571cd2"/>
+	</game>
+	<game name="Disney Pixar Finding Nemo (2003)(Disney Pixar)(AU)">
+		<description>Disney Pixar Finding Nemo (2003)(Disney Pixar)(AU)</description>
+		<rom name="Disney Pixar Finding Nemo (2003)(Disney Pixar)(AU).bin" size="754926144" crc="71a7515f" md5="82f27af30f3189897ace8512e005c047" sha1="56b1c950cf1601f608ee966d96c24a2b06c14347"/>
+		<rom name="Disney Pixar Finding Nemo (2003)(Disney Pixar)(AU).cue" size="139" crc="58aacdd6" md5="c87518db066430a1ed66515142a8644d" sha1="86270f79e16412f210a65073acbfa9dbee1f9327"/>
+	</game>
+	<game name="Dogz (2006)(Ubisoft)(AU)">
+		<description>Dogz (2006)(Ubisoft)(AU)</description>
+		<rom name="Dogz (2006)(Ubisoft)(AU).bin" size="396490752" crc="80dcc848" md5="b470b8f326fd36d441c222ec805ced76" sha1="932fa5efc46946c0d6c68597be38bcfcaf3a356b"/>
+		<rom name="Dogz (2006)(Ubisoft)(AU).cue" size="80" crc="4cbb195b" md5="772b5fbf07de672c8c6b9cf2a2fe13aa" sha1="e264a24d11d52dd29cad8ca917f79ba515052ca7"/>
+	</game>
+	<game name="Doom II (1994)(GT Interactive)(AU)">
+		<description>Doom II (1994)(GT Interactive)(AU)</description>
+		<rom name="Doom II (1994)(GT Interactive)(AU).bin" size="30039744" crc="91c19f0e" md5="0364b16f5060672ff91c99a305621a27" sha1="0a245d8c21e125b8eeb73b2c39c866a55bb34e55"/>
+		<rom name="Doom II (1994)(GT Interactive)(AU).cue" size="123" crc="8f7a761a" md5="6c2541009a55c28c07cfb7fd7e24b8fb" sha1="a044138d90a15623e58eb42e051174a7eec3a6d2"/>
+	</game>
+	<game name="Dora the Explorer Fairytale Adventure (2007)(Atari)(AU)">
+		<description>Dora the Explorer Fairytale Adventure (2007)(Atari)(AU)</description>
+		<rom name="Dora the Explorer Fairytale Adventure (2007)(Atari)(AU).bin" size="713307504" crc="27f3d43f" md5="5905ebf717b55e7659a1d349b5f6c180" sha1="17a4bbb1f582329bf180996f6d40737f1e67e13c"/>
+		<rom name="Dora the Explorer Fairytale Adventure (2007)(Atari)(AU).cue" size="144" crc="39469603" md5="5f3ab60f93956bb50529d48be47d3b74" sha1="f22c3acb37906a5b6ac051eca344cbdf50913966"/>
+	</game>
+	<game name="Dora the Explorer Lost City Adventure (2007)(Atari)(AU)">
+		<description>Dora the Explorer Lost City Adventure (2007)(Atari)(AU)</description>
+		<rom name="Dora the Explorer Lost City Adventure (2007)(Atari)(AU).bin" size="348371184" crc="27c5611f" md5="44580dcb3f508a3d91cba84dd56d6060" sha1="2c1741549d6a03099acf0caa5a31f2023915c900"/>
+		<rom name="Dora the Explorer Lost City Adventure (2007)(Atari)(AU).cue" size="144" crc="29a14058" md5="70f2cacf9afda9836a4306e5eeb54387" sha1="e27cc94dcf5dd9d8f85d33ccceb63cb7aa90096f"/>
+	</game>
+	<game name="Escape the Museum 2 (2011)(Gogii Games)(AU)">
+		<description>Escape the Museum 2 (2011)(Gogii Games)(AU)</description>
+		<rom name="Escape the Museum 2 (2011)(Gogii Games)(AU).bin" size="435889104" crc="c0066f21" md5="9e92dc518995bf2b1f01f60855689751" sha1="9d3ef9256b1ace6d19ddded0ab765f575d93b099"/>
+		<rom name="Escape the Museum 2 (2011)(Gogii Games)(AU).cue" size="132" crc="6fda5d01" md5="90bbac7f5947478ec79a66c4c7d1dd5f" sha1="a86170c0d68dde130f49d3fa1147d667716af1e3"/>
+	</game>
+	<game name="Exodus &amp; the Journey to the Promised Land (1997)(Wisdom Tree)">
+		<description>Exodus &amp; the Journey to the Promised Land (1997)(Wisdom Tree)</description>
+		<rom name="Exodus &amp; the Journey to the Promised Land (1997)(Wisdom Tree).bin" size="1056048" crc="e037395e" md5="72213972ad58d07850893ddaeecdc940" sha1="ad6d659a19563ee1fceca44586dc56250fd129d0"/>
+		<rom name="Exodus &amp; the Journey to the Promised Land (1997)(Wisdom Tree).cue" size="150" crc="1e1f01a0" md5="2ddb1106a7a5d36580d9a44bf29ae886" sha1="4e411e3b00c54841fddf23216ccbb45938f24e85"/>
+	</game>
+	<game name="Farm Frenzy 3 (2011)(Alawar Entertainment)(AU)">
+		<description>Farm Frenzy 3 (2011)(Alawar Entertainment)(AU)</description>
+		<rom name="Farm Frenzy 3 (2011)(Alawar Entertainment)(AU).bin" size="109923072" crc="090ce76a" md5="a58fd28b40fcd5605dee12c79a80d24f" sha1="c5809f2b64a785d3c80073fa66b296563c7c2ba6"/>
+		<rom name="Farm Frenzy 3 (2011)(Alawar Entertainment)(AU).cue" size="135" crc="74ca302c" md5="fe9f2cedc0d43a928b8b1b99d9805115" sha1="49899e46af79fa31cd5f29bf56032bd33c6a8e9f"/>
+	</game>
+	<game name="Fashion Tycoon (2012)(Total Gameplay Studio)(GB)">
+		<description>Fashion Tycoon (2012)(Total Gameplay Studio)(GB)</description>
+		<rom name="Fashion Tycoon (2012)(Total Gameplay Studio)(GB).bin" size="83825280" crc="37a5e518" md5="feeb046bc3897ac22247a24f667bd8d0" sha1="b3fe5dbefd014968c5fd6b813bfd7e17b7134f5d"/>
+		<rom name="Fashion Tycoon (2012)(Total Gameplay Studio)(GB).cue" size="137" crc="f9ad96e5" md5="4d5c8670fae66bafe7930a9363ede703" sha1="64534e03f3dc924448b2bbaf4fadcd0276c43944"/>
+	</game>
+	<game name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU)">
+		<description>Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU)</description>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 01 of 13).bin" size="37756656" crc="bcd9df12" md5="5aaed286e6fb26a5ec4e680518eec853" sha1="0d0518e7bbf33afb8a86c4199dd2f60a9a8233c8"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 02 of 13).bin" size="35955024" crc="0887f300" md5="fd9b71791513ff3beff6bdfe7c1179c8" sha1="82e38aa81076b5290bf3119b0ee1274dafcc32ca"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 03 of 13).bin" size="50438640" crc="f175a936" md5="a674563a5d234c09a89b38dbbe3b4a4f" sha1="ac9cf44e78faf56bc15c4afbbfda39c8193e891e"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 04 of 13).bin" size="53729088" crc="2153a572" md5="2d010be79c94c5321a471e3751d8904e" sha1="e6a795176171660a5b32e5e8b7f2a2b844eac867"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 05 of 13).bin" size="50619744" crc="3b8b9393" md5="4b4b5e3a75687f0cbe7ae977915774b8" sha1="8ff41a3527629580b8e402869d51e2ee8ddf9102"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 06 of 13).bin" size="48719328" crc="312fa2e8" md5="3d91fd5bf0d0b2feec34fa03cb88e11c" sha1="25ef5dfcfd938eb716be48b17223f96fc5219464"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 07 of 13).bin" size="53907840" crc="e520d1e2" md5="cc919763ad0384ec3a352af6159991cc" sha1="1b20b631206207b6ca79a781e1bb8ff3c386e0b5"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 08 of 13).bin" size="50871408" crc="0a7a61a9" md5="5aee7973f09484833c861d24802fb5dd" sha1="7d70c2aa83ccb985f056936efb076ae2684bbc72"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 09 of 13).bin" size="50619744" crc="7a673a0c" md5="327dfa9be90f64958c7cff4c9c8c814e" sha1="7bc744858b0ea93a65e0ab396c3ccf7fb809886b"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 10 of 13).bin" size="48719328" crc="312fa2e8" md5="3d91fd5bf0d0b2feec34fa03cb88e11c" sha1="25ef5dfcfd938eb716be48b17223f96fc5219464"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 11 of 13).bin" size="53907840" crc="2c2c82f5" md5="92983220e2aef9bf054fa9e92c849554" sha1="fd05734d45bae007bd3aa9846ffad487d57bbe92"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 12 of 13).bin" size="21351456" crc="6800f898" md5="0637d48d932466135635152817d0750d" sha1="88ab8c0691d8862e3f4fd10be77adfb3e23f931d"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU) (Track 13 of 13).bin" size="25533312" crc="961643c7" md5="8583c9c52ee565a2ddbf1e0f6a4ec48d" sha1="bdb99f37d2f77aa3c3b023112cefeac753788690"/>
+		<rom name="Fatal Racing v2.0 (1995)(Gremlin Interactive)(AU).cue" size="1679" crc="c380aa58" md5="759a37e4e2963d3beee778c7a6b2959c" sha1="0b546105558a7ef43ec6f65287176760dc8909c8"/>
+	</game>
+	<game name="Fate Of the World (2011)(Red Redemption)(AU)">
+		<description>Fate Of the World (2011)(Red Redemption)(AU)</description>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU).bin" size="832713840" crc="4c5daead" md5="d755af896049735c4d639a4346921eb6" sha1="025dbe4f00725aaa8e77bdc3434be8c11064f209"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU).cue" size="133" crc="61d540a2" md5="f8ec2954876b1a79416e904d507ae82a" sha1="26fa6e2454bde0a6a27c603c9015d2a672161990"/>
+	</game>
+	<game name="Flux Family Secrets the Ripple Effect (2011)(Big Fish Games)(AU)">
+		<description>Flux Family Secrets the Ripple Effect (2011)(Big Fish Games)(AU)</description>
+		<rom name="Flux Family Secrets the Ripple Effect (2011)(Big Fish Games)(AU).bin" size="177225552" crc="962428c5" md5="e6aa2998d5304a8d86851db55fa75c86" sha1="27ce8fafe1e84d202160c25e897376b10131e8f9"/>
+		<rom name="Flux Family Secrets the Ripple Effect (2011)(Big Fish Games)(AU).cue" size="153" crc="796f01db" md5="df6b0faa2966470fa6bf10d81940a8a9" sha1="b22162193ec4ebcbf37f030a18060b91aa2ea05e"/>
+	</game>
+	<game name="FLW Professional Bass Tournament (2000)(Infogrames)(AU)">
+		<description>FLW Professional Bass Tournament (2000)(Infogrames)(AU)</description>
+		<rom name="FLW Professional Bass Tournament (2000)(Infogrames)(AU).bin" size="733626432" crc="d0a4496a" md5="0fa5ef4047b50671a63cebf241320ffd" sha1="e25360d2a0de39c3f6a2a4d1638170901cbddc57"/>
+		<rom name="FLW Professional Bass Tournament (2000)(Infogrames)(AU).cue" size="144" crc="2bc9e156" md5="272e7e7e4fce29063aad1d9c282252d2" sha1="bf5f97f4a27471d5f86a88a8d1f361d1da7ee604"/>
+	</game>
+	<game name="Football Manager 2008 (2007)(Sega)(M12)[PC-Mac]">
+		<description>Football Manager 2008 (2007)(Sega)(M12)[PC-Mac]</description>
+		<rom name="Football Manager 2008 (2007)(Sega)(M12)[PC-Mac].bin" size="634790688" crc="4af3d74d" md5="e0207bd5de280fad9526a5a1f5018add" sha1="fc3e590c40cab396093cfe05fb84dffab9b29f69"/>
+		<rom name="Football Manager 2008 (2007)(Sega)(M12)[PC-Mac].cue" size="136" crc="aae200b4" md5="d9a04711f39d0d78c0e36b477cce86e2" sha1="e9c27455319d6fc90657f8c3711793d2bec80a00"/>
+	</game>
+	<game name="Frankenstein - the Dismembered Bride (2009)(Anuman Interactivce)(AU)">
+		<description>Frankenstein - the Dismembered Bride (2009)(Anuman Interactivce)(AU)</description>
+		<rom name="Frankenstein - the Dismembered Bride (2009)(Anuman Interactivce)(AU).bin" size="94675056" crc="b1123f3a" md5="e022de12b81a1c33498ac65317ec7042" sha1="81a2d76a1e446007c8e5f605f39cafead5d868a6"/>
+		<rom name="Frankenstein - the Dismembered Bride (2009)(Anuman Interactivce)(AU).cue" size="157" crc="5eb7ff92" md5="55fae0613607e6c72a66a6f4626fe13a" sha1="d5702eca17189372afbc498044eb5cc7e056ffa6"/>
+	</game>
+	<game name="Fuso Truck Empire (2007)(Mitsubishi Fuso Truck &amp; Bus)(AU)[!]">
+		<description>Fuso Truck Empire (2007)(Mitsubishi Fuso Truck &amp; Bus)(AU)[!]</description>
+		<rom name="Fuso Truck Empire (2007)(Mitsubishi Fuso Truck &amp; Bus)(AU)[!].bin" size="217534128" crc="832e55cc" md5="32f8abcdf1e4bc6ac6702f00652bbb74" sha1="319b9c55051ae7b8009d3330eccd4148d56088c9"/>
+		<rom name="Fuso Truck Empire (2007)(Mitsubishi Fuso Truck &amp; Bus)(AU)[!].cue" size="149" crc="6beda895" md5="49cd6d2477829ca145b8532fbbcf21aa" sha1="a68a7a63b825ba807a9376cb034409f6f0786b6f"/>
+	</game>
+	<game name="Fuzzy's World of Miniature Space Golf (1995)(Manaccom)(AU)">
+		<description>Fuzzy's World of Miniature Space Golf (1995)(Manaccom)(AU)</description>
+		<rom name="Fuzzy's World of Miniature Space Golf (1995)(Manaccom)(AU).bin" size="34071072" crc="3e2decc7" md5="54e5522836a9e89a329c5b13f5a0259b" sha1="dc489d788c2caefc9a4cc9f00b7cf1ed5a4d305d"/>
+		<rom name="Fuzzy's World of Miniature Space Golf (1995)(Manaccom)(AU).cue" size="147" crc="0a8cd719" md5="67dfba13f54027d48a22013a48e5e491" sha1="f67fd01378d8a33db0a2c25f48df3ea9950bb01b"/>
+	</game>
+	<game name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2)">
+		<description>Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2)</description>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 01 of 10).bin" size="197292816" crc="1ef71d5d" md5="63a0ca982972bcf9466238acd55b0735" sha1="c6f3d11d832d7889436957fd774cc8b434c4714f"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 02 of 10).bin" size="38403456" crc="e45db41b" md5="17607a067fd73fe1b5f6ffec039f6afe" sha1="b17c1b6bafa1a4754b249a2c7091ff2e63152aa9"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 03 of 10).bin" size="17428320" crc="1eb63d0b" md5="a853c41ed1e5e2a84a7c8bff02a48ca0" sha1="a41035fa99726387a6c22d756530877b00be9483"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 04 of 10).bin" size="12117504" crc="b31d6db5" md5="83ea7ffbfc293845eeeb2c2a78938f1c" sha1="28e8c5716acad278d16e0623acc00708e3ef62cc"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 05 of 10).bin" size="37660224" crc="d8dff663" md5="1acd5d802f393cbc1d01c666c1b52736" sha1="0a3521154c504988692170e86d249340fab4f4f5"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 06 of 10).bin" size="7846272" crc="1c357bf9" md5="44669415625754e7a05df38518f7d005" sha1="f497cc3506af95999b4094372ff50d1938349c5d"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 07 of 10).bin" size="29936256" crc="25bf721a" md5="34f6890b43d01fcff5e2c5d74c2d8a1f" sha1="729e76a3b1fa2396b3cb66bb5aab2e21b27fea24"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 08 of 10).bin" size="15690192" crc="ae9774e4" md5="b66c5f55d48f7c961aca22e8835db65c" sha1="961c4aaa3ecc69153645c41bb1bc222d3b9a3e99"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 09 of 10).bin" size="18895968" crc="93c80ff7" md5="81303ef4c0efc4b33302321992dbc69e" sha1="5840a6adc0b82a2ed3a8a307c8c423f9173dd807"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2) (Track 10 of 10).bin" size="12656112" crc="5cbaa9ea" md5="40bec906cbaaaf225094435803a57dad" sha1="28a3264ff15f76ccddfc99ce397f27d1965b5c51"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 1 of 2).cue" size="1391" crc="0445c994" md5="d1d16df36761f531419f171fcb923f0b" sha1="6fa7df809dcb28ac662aa52dac74df331e8b11f1"/>
+	</game>
+	<game name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2)">
+		<description>Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2)</description>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 01 of 10).bin" size="118060992" crc="efa13131" md5="21e91d17d1835a3c4b14541cffee0481" sha1="f1d30630248b1d3d5ec786f16951401e583676cf"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 02 of 10).bin" size="39720576" crc="87e3b96d" md5="8586f61f154dbb203b2dcb7b14e483ab" sha1="0810ad816c2d839207f6a37bdf6a5510fa227ddf"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 03 of 10).bin" size="1803984" crc="88858ddc" md5="bdae5735e45fe7d45338974a24af1bd9" sha1="4dab76898b72f5eace7d8d8373b8770321edb717"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 04 of 10).bin" size="42385392" crc="afb942cc" md5="78f521261806b3fe38a067a6db48ac54" sha1="3aa76eab3f384838db9218030ad057fcff3d56cc"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 05 of 10).bin" size="46103904" crc="d66a05e5" md5="e09fe52f5ce32523a468c7f4ac622e71" sha1="73c43ffbc6138d88a78ff57df92a9bdeff742fa1"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 06 of 10).bin" size="1803984" crc="f8ddbd73" md5="36006f98368451b2095269694d3c473d" sha1="7c92f2605bded8af5884bb3020e2bd63d16e091f"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 07 of 10).bin" size="31323936" crc="7e3c21ee" md5="c546c227f97a819fd3463ea141c6675f" sha1="5d7e1accc7020a9b3b4998cab41cfa4a491be2e4"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 08 of 10).bin" size="34122816" crc="669a5193" md5="abb1d1bce60058a5676350bc0500b9b7" sha1="3d2a500ba2371e10727525cafdbcf226165fe1fc"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 09 of 10).bin" size="67984560" crc="88d5615f" md5="4b45da053e9ae2c14688d5f630a11f0b" sha1="197de9f0ac66b9b353f5448eac7e1c902e031824"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2) (Track 10 of 10).bin" size="1785168" crc="80a50ca7" md5="8ae8962e38f6499ecfa4a5d4f386b113" sha1="d2a94ff1e392328fe136bbaeb5f19d6e302406b7"/>
+		<rom name="Gamefest Redneck Classics (1998)(Interplay)(Disc 2 of 2).cue" size="1391" crc="6fb593d8" md5="c4781cd6e3efcf0464c0fc3be7f79851" sha1="84b50d47295b214bfd4c1615b2833a1474502ab1"/>
+	</game>
+	<game name="Golden Bird of Paradise (2010)(Youdagames)(AU)">
+		<description>Golden Bird of Paradise (2010)(Youdagames)(AU)</description>
+		<rom name="Golden Bird of Paradise (2010)(Youdagames)(AU).bin" size="434125104" crc="b5f33bd3" md5="b211b80c02cd7ba9d16e4d9659dcd3cc" sha1="957669e0f26dfaa985aafeafe581bfcc7a110af1"/>
+		<rom name="Golden Bird of Paradise (2010)(Youdagames)(AU).cue" size="135" crc="706c5246" md5="a8d4c8c1ae8225e86ac0a3618d3ff80b" sha1="732fc2d4ecaf727f8db2966154471de8941c6549"/>
+	</game>
+	<game name="GrandPrix 3 (2000)(Microprose)">
+		<description>GrandPrix 3 (2000)(Microprose)</description>
+		<rom name="GrandPrix 3 (2000)(Microprose).bin" size="788886672" crc="f92fc778" md5="e056e8ef3ea85639fa8c3a382416bb6f" sha1="fa9153f37a50f90c521aeb14f0566f5db19110be"/>
+		<rom name="GrandPrix 3 (2000)(Microprose).cue" size="119" crc="8e368630" md5="bcea76ee13d83e571592567517f069d8" sha1="38ee5f13227a4c404290e09296d6034c2ef07884"/>
+	</game>
+	<game name="Happy Chef (2012)(Nordcurrent)(AU)">
+		<description>Happy Chef (2012)(Nordcurrent)(AU)</description>
+		<rom name="Happy Chef (2012)(Nordcurrent)(AU).bin" size="496869408" crc="d825e2cd" md5="f17ff2d3531a4207fa41ae2804d941ff" sha1="25b46dfa0735991201ae095d7cd5887344e59a7f"/>
+		<rom name="Happy Chef (2012)(Nordcurrent)(AU).cue" size="123" crc="a7d4accb" md5="eec8b34942c10fe0657f24380e332365" sha1="e791c7b217b5cb280cf52fa6c7661be83085176e"/>
+	</game>
+	<game name="Hidden &amp; Dangerous (2002)(Mindscape)">
+		<description>Hidden &amp; Dangerous (2002)(Mindscape)</description>
+		<rom name="Hidden &amp; Dangerous (2002)(Mindscape).bin" size="627972240" crc="a21d70ff" md5="c2924ac57d2a175e9c693230c554964c" sha1="ca21c423f30550a1c58a51ccf07e25306fb04f9d"/>
+		<rom name="Hidden &amp; Dangerous (2002)(Mindscape).cue" size="76" crc="2bb4a6c8" md5="adedf463a70d16086fc15621312f6591" sha1="01a2a5089ae438b1e3732699a32aa7245369af84"/>
+	</game>
+	<game name="Hidden Expedition Everest (2009)(Big Fish Games)(AU)">
+		<description>Hidden Expedition Everest (2009)(Big Fish Games)(AU)</description>
+		<rom name="Hidden Expedition Everest (2009)(Big Fish Games)(AU).bin" size="110779200" crc="624c910e" md5="bcbff66379ba10a09725faddae831807" sha1="0a18a53340b75afe8960b90f428a90ee3beb8a27"/>
+		<rom name="Hidden Expedition Everest (2009)(Big Fish Games)(AU).cue" size="141" crc="3f28d861" md5="1dd1622027df5fd8dd1ccb0d893d99c3" sha1="a7ddf755c4a83294a54e615e6144f1db6a599533"/>
+	</game>
+	<game name="Hidden Expedition Titanic (2008)(Big Fish Games)(AU)">
+		<description>Hidden Expedition Titanic (2008)(Big Fish Games)(AU)</description>
+		<rom name="Hidden Expedition Titanic (2008)(Big Fish Games)(AU).bin" size="53710272" crc="c9a6ea24" md5="660048c16d0a28cf3555c3be27752c30" sha1="373363e4193e13e908b03bf515fc29b43eb359da"/>
+		<rom name="Hidden Expedition Titanic (2008)(Big Fish Games)(AU).cue" size="141" crc="267ffcac" md5="ccaf4719a5ee42956d1e3d71d547a97b" sha1="9c29e19a0cc927fd16b1b21966c53ac44d6afedc"/>
+	</game>
+	<game name="Hidden Expedition Titanic (2011)(Big Fish Games)(AU)">
+		<description>Hidden Expedition Titanic (2011)(Big Fish Games)(AU)</description>
+		<rom name="Hidden Expedition Titanic (2011)(Big Fish Games)(AU).bin" size="42347760" crc="ee991016" md5="58128d1f0c55b73be5ac411a90b14e31" sha1="3c03d3d88c2e9bb0e3c1296786efc8c730a829f0"/>
+		<rom name="Hidden Expedition Titanic (2011)(Big Fish Games)(AU).cue" size="141" crc="14dbdc7a" md5="642b66c72e072c2f207bcf73a3a16654" sha1="0c5b64027fe8b615c6fbd7447956388b1d353e7c"/>
+	</game>
+	<game name="Hidden Mysteries Forbidden City (2011)(GameMill Entertainment)(AU)">
+		<description>Hidden Mysteries Forbidden City (2011)(GameMill Entertainment)(AU)</description>
+		<rom name="Hidden Mysteries Forbidden City (2011)(GameMill Entertainment)(AU).bin" size="344784384" crc="bb709667" md5="d922f57d2b7b24c1db81a81c2c039790" sha1="7375536cd6c401b3b81f4f51a74070561ea2e021"/>
+		<rom name="Hidden Mysteries Forbidden City (2011)(GameMill Entertainment)(AU).cue" size="155" crc="a383dc4d" md5="34b4b4463ab90d90115c9a6182100087" sha1="a5753df307241dcb2154e8a56ed225aea56d1e21"/>
+	</game>
+	<game name="Hidden Mystery Collection Lost Realms 1 &amp; 2 (2010)(Big Fish Games)(AU)">
+		<description>Hidden Mystery Collection Lost Realms 1 &amp; 2 (2010)(Big Fish Games)(AU)</description>
+		<rom name="Hidden Mystery Collection Lost Realms 1 &amp; 2 (2010)(Big Fish Games)(AU).bin" size="371343168" crc="0c745e5d" md5="6ffb33a038758b0cfb6ada6d0254e6ad" sha1="5f9c479afe528dfb1e6fa4aa35302b22e705fef3"/>
+		<rom name="Hidden Mystery Collection Lost Realms 1 &amp; 2 (2010)(Big Fish Games)(AU).cue" size="159" crc="67064f0b" md5="d0cae3f140c4afe2625615279a37fda7" sha1="c5e3c0db6503007c9f6e98acb297fee98c7a7c2a"/>
+	</game>
+	<game name="Hidden Wonders of the Depths 2 (2013)(Big Fish Games)(AU)">
+		<description>Hidden Wonders of the Depths 2 (2013)(Big Fish Games)(AU)</description>
+		<rom name="Hidden Wonders of the Depths 2 (2013)(Big Fish Games)(AU).bin" size="84147504" crc="ffcdc853" md5="01eb6232a35a0e7f4b4f602f105a06ee" sha1="56bb48bbd01e1530d71f2f663e078e5ec44492cd"/>
+		<rom name="Hidden Wonders of the Depths 2 (2013)(Big Fish Games)(AU).cue" size="146" crc="70d71685" md5="c417ae4331ef130f27797cd6a2d98a5f" sha1="a6445520fcceeeaa120e636fdcc41de7f7e0b8ae"/>
+	</game>
+	<game name="Hoyle Board Games v1.0.0.2 (2005)(Encore Software)(AU)">
+		<description>Hoyle Board Games v1.0.0.2 (2005)(Encore Software)(AU)</description>
+		<rom name="Hoyle Board Games v1.0.0.2 (2005)(Encore Software)(AU).bin" size="780911040" crc="bfe30a49" md5="11d43a952101c68041d833ef5c1a36f2" sha1="446b7d8a58a155169bebb31cfc3f7d93d2b37a99"/>
+		<rom name="Hoyle Board Games v1.0.0.2 (2005)(Encore Software)(AU).cue" size="143" crc="09b22757" md5="467bde1a40da30fb3b4c204659106f2b" sha1="7accf3ae6feba234e64a65071f639f06a67d97f4"/>
+	</game>
+	<game name="Hoyle Crosswords (2000)(Sierra On-Line)(US)">
+		<description>Hoyle Crosswords (2000)(Sierra On-Line)(US)</description>
+		<rom name="Hoyle Crosswords (2000)(Sierra On-Line)(US).bin" size="702612960" crc="b1548c2d" md5="7592e6aa68cfda1c5804ae149c2769a0" sha1="e45b0f89c75212d02acd3dfb34d14032a0535f2c"/>
+		<rom name="Hoyle Crosswords (2000)(Sierra On-Line)(US).cue" size="132" crc="bcab764c" md5="f87f6df36a6eff091a034089860015b4" sha1="16caa76fffccb454372e89fa84aebc82eef36a5a"/>
+	</game>
+	<game name="Hoyle Miami Solitaire Games (2010)(Encore Software)(AU)">
+		<description>Hoyle Miami Solitaire Games (2010)(Encore Software)(AU)</description>
+		<rom name="Hoyle Miami Solitaire Games (2010)(Encore Software)(AU).bin" size="16628640" crc="cc97ed11" md5="1f266f4327ef7f9d54066ff9574af4e3" sha1="affa938a21e623c48eb175ecfc25869e2ef0cbdc"/>
+		<rom name="Hoyle Miami Solitaire Games (2010)(Encore Software)(AU).cue" size="144" crc="1be2e15f" md5="0a6a3f860b909326e2d14dea415ce7bf" sha1="b22cb550697f6e0058e8d7fbe2f46bb6142031b5"/>
+	</game>
+	<game name="Hoyle Word Games (1999)(Sierra On-Line)(US)">
+		<description>Hoyle Word Games (1999)(Sierra On-Line)(US)</description>
+		<rom name="Hoyle Word Games (1999)(Sierra On-Line)(US).bin" size="757355760" crc="88990b2d" md5="517890adff562379d40d7dc05a5d061d" sha1="a47a40aeb135107c5be6e3baa049a375a4bbcec9"/>
+		<rom name="Hoyle Word Games (1999)(Sierra On-Line)(US).cue" size="132" crc="963fbe09" md5="c29b7399de60bb8eb37341c3c60de32c" sha1="cd66ccbab058ec372374b9b47d2d55e917829acc"/>
+	</game>
+	<game name="Hoyle Word Games 3 (2005)(Encore Software)(AU)">
+		<description>Hoyle Word Games 3 (2005)(Encore Software)(AU)</description>
+		<rom name="Hoyle Word Games 3 (2005)(Encore Software)(AU).bin" size="398929776" crc="3c41ebbe" md5="8aa3ae9f45b0326509c46107b8b690af" sha1="b13c7026f79f54987d199f76b17d3359914bcecc"/>
+		<rom name="Hoyle Word Games 3 (2005)(Encore Software)(AU).cue" size="135" crc="15305d23" md5="1d401dbb54049fc86154d7c9ca2a9d70" sha1="564a82ce91af8cd563e20427a955d40518642874"/>
+	</game>
+	<game name="I Have No Mouth, and I Must Scream (1995)(Acclaim Entertainment)">
+		<description>I Have No Mouth, and I Must Scream (1995)(Acclaim Entertainment)</description>
+		<rom name="I Have No Mouth, and I Must Scream (1995)(Acclaim Entertainment).bin" size="776411664" crc="3372dd52" md5="84e56a607e02cfa296366289759a5238" sha1="315aaac51f917903548a3614c12d4851edcfade0"/>
+		<rom name="I Have No Mouth, and I Must Scream (1995)(Acclaim Entertainment).cue" size="153" crc="82a3b079" md5="d5bc6d41ac72a7cc2a25a6ac7a3d4cb2" sha1="f6eff9e0ddc0933696759ba530eab98942eec914"/>
+	</game>
+	<game name="Ice Age 2 the Meltdown Paint &amp; Create (2006)(Activision)(AU)">
+		<description>Ice Age 2 the Meltdown Paint &amp; Create (2006)(Activision)(AU)</description>
+		<rom name="Ice Age 2 the Meltdown Paint &amp; Create (2006)(Activision)(AU).bin" size="788533872" crc="5f3d3698" md5="c0ffa44d93635d32e712bbde97188657" sha1="410d86d720383bcbc6ce187205042f95cb601bf5"/>
+		<rom name="Ice Age 2 the Meltdown Paint &amp; Create (2006)(Activision)(AU).cue" size="149" crc="8621ef1a" md5="b1b15880f9692f92d3dbdf8c70321d11" sha1="ebb10b928fe0923619286d76a5ce09aba1474c84"/>
+	</game>
+	<game name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5)">
+		<description>Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5)</description>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 01 of 15).bin" size="82188288" crc="57e306c9" md5="7e7be97cddd06b39ea2d1f5599eec90b" sha1="5e5787728343a97b4c678c2b05bb56d642948826"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 02 of 15).bin" size="42721728" crc="ba8d731b" md5="faed61982bc410f7a89317899c42604f" sha1="20ba254f562efe3be97f7eb4711abfd058702e35"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 03 of 15).bin" size="34609680" crc="fbb6a028" md5="a6b07bcafc6a6cef4f80b78214a72c65" sha1="8f937d3b1df52bb88387df97bfd7f07b1f7db8dd"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 04 of 15).bin" size="39737040" crc="622d8083" md5="26dded64e46228b1deec3d7158d3ef0f" sha1="4988f2c350005910191eecf0a69ec8bbfc17943c"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 05 of 15).bin" size="41670384" crc="e5b7632d" md5="eea52be2055ac09c8c310a3e84dc0d5f" sha1="40d9fa25eea21c903e24f6d89d710c8c494ad9d1"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 06 of 15).bin" size="39189024" crc="00d82676" md5="f4c85db5e3fe92f660524fa4a6dfb1ed" sha1="fa4d057ed318c33dbaed763e6a370974070434f8"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 07 of 15).bin" size="36691200" crc="46fcf973" md5="7bc9d7f3c45a3fb87cfce11c16fa99b2" sha1="fb2468ea110643eeedd124e08431b86037be1aa0"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 08 of 15).bin" size="37290960" crc="c00e05ef" md5="2f56f565d281616a65660ff703e9df0e" sha1="2bea0faca4693f5697ebd68ea7c3f410b8763edf"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 09 of 15).bin" size="43432032" crc="17e69d3a" md5="d5cfe43682759b9e5cb77df15bb707f0" sha1="ef3438ceb9bbecbb9ef1d9d29eea18d230da4cce"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 10 of 15).bin" size="30265536" crc="673407bb" md5="190552a6646f266f2d3b82f3973d237d" sha1="4f2a3cbbe2462aaf62eeecd1554ba0dacff418e8"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 11 of 15).bin" size="41068272" crc="b71296c5" md5="7328fb30946961d746afcf654ce3f7b4" sha1="7167bf8f8071249511490bad26035d1a51abeafd"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 12 of 15).bin" size="40313280" crc="684302a0" md5="ebfc62efb6b2efdd97ae48a3b34b3285" sha1="c12158fdaaf32b0616a70e263095329c95ecfe3f"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 13 of 15).bin" size="30881760" crc="1874a607" md5="6e7e5b8f6adbbf9b1760c5e5a37a82ab" sha1="0a1e79d54f1a0d9379709382934d7a7fff0b2087"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 14 of 15).bin" size="39692352" crc="2339c7d8" md5="e18fea4d7f9a51a8856ba8601176a4c8" sha1="4d0a6014432a9341f746a001dda52db0b196fe2a"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5) (Track 15 of 15).bin" size="45193680" crc="38d4a82c" md5="586fa841e1d3eb8d1ad519e674ac4eac" sha1="811048069ca5a025814d4a4758db01f9120ea4dc"/>
+		<rom name="Incredible Hulk, The - The Pantheon Saga (1997)(Eidos Interactive)(M5).cue" size="2271" crc="e92a0313" md5="572d13e01c43d0cbaa425ca773e3a572" sha1="a24cc92c4182651e663f8e1adff4962ee0e3ee45"/>
+	</game>
+	<game name="Infinate Kakuro (2006)(Nithbridge)(GB)">
+		<description>Infinate Kakuro (2006)(Nithbridge)(GB)</description>
+		<rom name="Infinate Kakuro (2006)(Nithbridge)(GB).bin" size="73417680" crc="a779dce1" md5="ebf030d98193e1323e40e872385e363d" sha1="f463846868cbcab447ecf6e7001e59e6d932ce3d"/>
+		<rom name="Infinate Kakuro (2006)(Nithbridge)(GB).cue" size="127" crc="f085a315" md5="c5ebc48e8fe8d6c114137831a04a77f2" sha1="f5bca775b4d36393f687dcf178c48fc4cfd6ad1c"/>
+	</game>
+	<game name="Insurrection - Campaigns for StarCraft (1998)(Aztech New Media)(US)">
+		<description>Insurrection - Campaigns for StarCraft (1998)(Aztech New Media)(US)</description>
+		<rom name="Insurrection - Campaigns for StarCraft (1998)(Aztech New Media)(US).bin" size="122619168" crc="9e5212dd" md5="97ffeecdb67960953405f00bcf274c11" sha1="11d80881cf1df2fbc93941d4b4e3a14e85aa3984"/>
+		<rom name="Insurrection - Campaigns for StarCraft (1998)(Aztech New Media)(US).cue" size="156" crc="6b0698da" md5="f0723cea5cbfa924bc574b2afa1a1b5c" sha1="e2d01a344822b71b701c91fd30ad21c030d5bd1c"/>
+	</game>
+	<game name="James Patterson - Women's Murder Club - Death in Scarlet (2006)(THQ)(AU)[PC-Mac]">
+		<description>James Patterson - Women's Murder Club - Death in Scarlet (2006)(THQ)(AU)[PC-Mac]</description>
+		<rom name="James Patterson - Women's Murder Club - Death in Scarlet (2006)(THQ)(AU)[PC-Mac].bin" size="392889840" crc="68d6f2df" md5="721fcfce194c1a4c00a98a5fcbc60dca" sha1="8892337a7d953ae77e0a92a6507eed23db1f5ebe"/>
+		<rom name="James Patterson - Women's Murder Club - Death in Scarlet (2006)(THQ)(AU)[PC-Mac].cue" size="169" crc="9b991636" md5="533d289cdaeea2adbb31f40a2d37fb3b" sha1="d5727cffbc3f471a676f2a4a3fd67554a65ce10b"/>
+	</game>
+	<game name="Jewel Quest - Heritage (2010)(iWin)(AU)">
+		<description>Jewel Quest - Heritage (2010)(iWin)(AU)</description>
+		<rom name="Jewel Quest - Heritage (2010)(iWin)(AU).bin" size="161102592" crc="daee5d3e" md5="c98a2795ff097e82ffd7c16837998127" sha1="8d5465d919183ce38cf23fa972099025eb4edfb2"/>
+		<rom name="Jewel Quest - Heritage (2010)(iWin)(AU).cue" size="128" crc="778d21db" md5="5921e8e3e33414d1741f746d81209e4f" sha1="f49ffc49c32c743d777bd989f528682fa9632437"/>
+	</game>
+	<game name="Jewel Quest - Mysteries Curse of the Emerald Tear (2007)(iWin)(AU)[!]">
+		<description>Jewel Quest - Mysteries Curse of the Emerald Tear (2007)(iWin)(AU)[!]</description>
+		<rom name="Jewel Quest - Mysteries Curse of the Emerald Tear (2007)(iWin)(AU)[!].bin" size="431011056" crc="52798ae0" md5="a617be2343e2f969d1a264110c1496a1" sha1="37a10559f4c43ee9393de3ab2edf8e2eadc605a5"/>
+		<rom name="Jewel Quest - Mysteries Curse of the Emerald Tear (2007)(iWin)(AU)[!].cue" size="158" crc="32e5cd0d" md5="823a16f5a9d477d693c227c4a4743ddb" sha1="f624991dd0d46d4a1121ab1cb5683450553f506c"/>
+	</game>
+	<game name="Jewel Quest - Mysteries the Seventh Gate (2011)(iWin)(AU)">
+		<description>Jewel Quest - Mysteries the Seventh Gate (2011)(iWin)(AU)</description>
+		<rom name="Jewel Quest - Mysteries the Seventh Gate (2011)(iWin)(AU).bin" size="241536288" crc="f5a61145" md5="2ff289bfdd846aef4172ce2692f6cdc8" sha1="3a614678c0e396d65ffaae5fa0c4146bc9c31dfa"/>
+		<rom name="Jewel Quest - Mysteries the Seventh Gate (2011)(iWin)(AU).cue" size="146" crc="18def77b" md5="8e7c1614f4eee9722bac222cc3e05f89" sha1="825b0b1c3df0aeae803983acfa95a4c71a17aeea"/>
+	</game>
+	<game name="Jewel Quest - Trail of the Midnight Heart (2010)(iWin)(AU)">
+		<description>Jewel Quest - Trail of the Midnight Heart (2010)(iWin)(AU)</description>
+		<rom name="Jewel Quest - Trail of the Midnight Heart (2010)(iWin)(AU).bin" size="395912160" crc="7ee96fd7" md5="691def6a3d6946c42384307e69819445" sha1="a79ee14e19d40bcfa53664310f0ed6ff15348ac1"/>
+		<rom name="Jewel Quest - Trail of the Midnight Heart (2010)(iWin)(AU).cue" size="147" crc="4c93d6f3" md5="a81ff4e2fab752ada53256efe0d9632c" sha1="19eda70e728fbdb3c5d1037f12da9ea5e7fde4e5"/>
+	</game>
+	<game name="Jewel Quest 5 - The Sleepless Star (2011)(iWin)(AU)[!]">
+		<description>Jewel Quest 5 - The Sleepless Star (2011)(iWin)(AU)[!]</description>
+		<rom name="Jewel Quest 5 - The Sleepless Star (2011)(iWin)(AU)[!].bin" size="216849696" crc="8d2ce592" md5="b3edd2fa364f611e356f97d69da9ec63" sha1="bd9122934a81926d1905f53084df1889c5bf9ead"/>
+		<rom name="Jewel Quest 5 - The Sleepless Star (2011)(iWin)(AU)[!].cue" size="143" crc="8c7e9a72" md5="9c35ae67bc7ddae5b5b0d388e28d8061" sha1="f1905ca4f05fcd5bf0a57252b43c479672228c24"/>
+	</game>
+	<game name="Jewel Quest 6 - the Sapphire Dragon (2011)(iWin)(AU)">
+		<description>Jewel Quest 6 - the Sapphire Dragon (2011)(iWin)(AU)</description>
+		<rom name="Jewel Quest 6 - the Sapphire Dragon (2011)(iWin)(AU).bin" size="480271344" crc="bc961e8b" md5="e0095c33a5369fbfe1a49a9fecf51726" sha1="81caa894286c4f2cf0b9dce034159b24028b9c26"/>
+		<rom name="Jewel Quest 6 - the Sapphire Dragon (2011)(iWin)(AU).cue" size="141" crc="c8134126" md5="a1f9724163a1d0d601e42c0d6782a19b" sha1="350dd8f73b22a7f5531c70c684a4cf48e96c79b3"/>
+	</game>
+	<game name="Jewel Quest III (2009)(iWin)(AU)[PC-Mac]">
+		<description>Jewel Quest III (2009)(iWin)(AU)[PC-Mac]</description>
+		<rom name="Jewel Quest III (2009)(iWin)(AU)[PC-Mac].bin" size="343707168" crc="48d03ff5" md5="563a01d3c6654958bfe5a6509b0ddc2a" sha1="cc08e85dc68a4c8d3417d5673b57f28518144df3"/>
+		<rom name="Jewel Quest III (2009)(iWin)(AU)[PC-Mac].cue" size="129" crc="b95cc556" md5="36752ece9ed88750071bed581559987d" sha1="e1604e09a3a53607f08dd5b76f242fc1b5b92802"/>
+	</game>
+	<game name="Jonah Lomu Rugby (1997)(Codemasters)">
+		<description>Jonah Lomu Rugby (1997)(Codemasters)</description>
+		<rom name="Jonah Lomu Rugby (1997)(Codemasters).bin" size="410741520" crc="37fd07c2" md5="d774eb9029fd6fd58a98dc9291328862" sha1="f7a35d1635dbdfc70b025fb97778472ca82b2d26"/>
+		<rom name="Jonah Lomu Rugby (1997)(Codemasters).cue" size="125" crc="a44ac3d6" md5="4dc6df796f3fa59145f236d7d2576ea4" sha1="1878f21f2a94692cac11460d2b5185b4c3b14b59"/>
+	</game>
+	<game name="Ka Kuro Classic (2005)(Greenstreet Software)(AU)">
+		<description>Ka Kuro Classic (2005)(Greenstreet Software)(AU)</description>
+		<rom name="Ka Kuro Classic (2005)(Greenstreet Software)(AU).bin" size="21088032" crc="3aa065d4" md5="0c8c7391d1c90875365099c88ec6a6be" sha1="047056a91be8a393cbf602a213e77a80e6eca6e3"/>
+		<rom name="Ka Kuro Classic (2005)(Greenstreet Software)(AU).cue" size="137" crc="979aeb23" md5="23eeec5029e9a0e457e4273b868daddf" sha1="6e88cabce2c548e66206a9ee38792b6843afbd37"/>
+	</game>
+	<game name="Karma Curse of the 12 Caves v1.0 (1995)(Discis Entertainment)">
+		<description>Karma Curse of the 12 Caves v1.0 (1995)(Discis Entertainment)</description>
+		<rom name="Karma Curse of the 12 Caves v1.0 (1995)(Discis Entertainment).bin" size="655441248" crc="610e920f" md5="e6aecd1e8f63cba746e4781205e270d3" sha1="bcdf056a37d21897c3d60b135f077069e8c3e7b3"/>
+		<rom name="Karma Curse of the 12 Caves v1.0 (1995)(Discis Entertainment).cue" size="150" crc="e849d5ee" md5="dfb79229d01221547e171678f18003c3" sha1="6e57299a0b0b8f1d6743b94c8076eb2e5a7a8dfc"/>
+	</game>
+	<game name="Ken Duncan Panographs Click Jigsaw Puzzle Collection (2003)(Crown &amp; Andrews)(AU)[PC-Mac]">
+		<description>Ken Duncan Panographs Click Jigsaw Puzzle Collection (2003)(Crown &amp; Andrews)(AU)[PC-Mac]</description>
+		<rom name="Ken Duncan Panographs Click Jigsaw Puzzle Collection (2003)(Crown &amp; Andrews)(AU)[PC-Mac].bin" size="64136688" crc="bce6a511" md5="177f7542ffa1571b4e5a1a33b2c711fb" sha1="0b87107f4c7b83504861505bfd057205e517a97a"/>
+		<rom name="Ken Duncan Panographs Click Jigsaw Puzzle Collection (2003)(Crown &amp; Andrews)(AU)[PC-Mac].cue" size="177" crc="e440e78c" md5="e268ab30865655d9b4e73f11e6b10b85" sha1="d1706df69de942d287a6a02ff0a24cbc20333927"/>
+	</game>
+	<game name="Kitty Luv (2006)(Game Mill)(US)">
+		<description>Kitty Luv (2006)(Game Mill)(US)</description>
+		<rom name="Kitty Luv (2006)(Game Mill)(US).bin" size="199179120" crc="93556522" md5="4b1bdf7e3b6cdc5b722b6fd6fb007b46" sha1="bb4d34c53fa2ed587e88fd2952f4e7d5382b85fc"/>
+		<rom name="Kitty Luv (2006)(Game Mill)(US).cue" size="120" crc="7f3663c5" md5="eb907af0a48410aed0e6f5a65cf02d8a" sha1="a4368a3847a80245932cd8ee8336425030ab2cd0"/>
+	</game>
+	<game name="LEGO Chess (2002)(Electronic Arts)">
+		<description>LEGO Chess (2002)(Electronic Arts)</description>
+		<rom name="LEGO Chess (2002)(Electronic Arts).bin" size="626245872" crc="d704070d" md5="0cb13e53d8dfc757fa12532fd651ece7" sha1="17cc6d5308be144e7bfcbeef5bc6036f7b61de84"/>
+		<rom name="LEGO Chess (2002)(Electronic Arts).cue" size="123" crc="a688b777" md5="b9de57ea8038076a574ba834b30e3185" sha1="dc071be6f79b454302c2ee8b3f3ead6b379ba2c1"/>
+	</game>
+	<game name="LEGO Rock Raiders (1999)(LEGO Media)(US)">
+		<description>LEGO Rock Raiders (1999)(LEGO Media)(US)</description>
+		<rom name="LEGO Rock Raiders (1999)(LEGO Media)(US) (Track 1 of 4).bin" size="644057568" crc="b242792f" md5="685253138cebfaf77fa4470372a97092" sha1="33195219e688c03ea2fb584c6ba709709ef17c43"/>
+		<rom name="LEGO Rock Raiders (1999)(LEGO Media)(US) (Track 2 of 4).bin" size="32624592" crc="5bda117c" md5="0a94ccf43ca3363ced3a248ade942dee" sha1="647b0196e5043b64f9fb4d7e2544a6ac158c0d38"/>
+		<rom name="LEGO Rock Raiders (1999)(LEGO Media)(US) (Track 3 of 4).bin" size="37335648" crc="8608a254" md5="b4ba3066260d2a105e7aab9f841727a5" sha1="3f066968e0cf74a276b0db576977db13681ab417"/>
+		<rom name="LEGO Rock Raiders (1999)(LEGO Media)(US) (Track 4 of 4).bin" size="32923296" crc="da150735" md5="cd8105674605aec08a262079f7a61033" sha1="6bedc5b7c414ad184b2c007272510eca69d89551"/>
+		<rom name="LEGO Rock Raiders (1999)(LEGO Media)(US).cue" size="515" crc="2cdb41a1" md5="4a2d5152cc98709c3bcaef21a5f63239" sha1="c7ba00dba683542cd364e938a81a8e9726a5fb93"/>
+	</game>
+	<game name="Lemmings for Windows (2001)(Psygnosis)(M5)">
+		<description>Lemmings for Windows (2001)(Psygnosis)(M5)</description>
+		<rom name="Lemmings for Windows (2001)(Psygnosis)(M5) (Track 1 of 3).bin" size="15558480" crc="ab4dbef8" md5="19d3c5d9662843878f7c77a164bbf991" sha1="1130074de41e146186bfb177edb592fb6e8f1972"/>
+		<rom name="Lemmings for Windows (2001)(Psygnosis)(M5) (Track 2 of 3).bin" size="13827408" crc="68ba76c9" md5="152c58001578254608d116668ed8c4d8" sha1="b5145d3e8000292d80802bc3502be9318a95aa5d"/>
+		<rom name="Lemmings for Windows (2001)(Psygnosis)(M5) (Track 3 of 3).bin" size="9151632" crc="50c08f22" md5="632e41ad5ce68b6884a8f85a67fbaed9" sha1="6dce343379bd679b168b538f790b9b55533ecc57"/>
+		<rom name="Lemmings for Windows (2001)(Psygnosis)(M5).cue" size="438" crc="f14f39ac" md5="a15d044c023c5a7d6886ed82c8685ce8" sha1="cc25706e5add222752487c1b7f18784eb05161c2"/>
+	</game>
+	<game name="LINKS - The Challenge of Golf (1990)(Access Software)">
+		<description>LINKS - The Challenge of Golf (1990)(Access Software)</description>
+		<rom name="LINKS - The Challenge of Golf (1990)(Access Software).bin" size="6409200" crc="3ac0ef61" md5="9c8023c99b9f6684b5399dec62e32e92" sha1="a4614f3ce5aefd705e7c62c11e1838db3993945d"/>
+		<rom name="LINKS - The Challenge of Golf (1990)(Access Software).cue" size="142" crc="a2987ca0" md5="73c47336bb2085236e55fe7538685fa8" sha1="0aa412a2ca25fe8b7e59e07ea69369d20862d3c4"/>
+	</game>
+	<game name="Lost in the City (2009)(Big Fish Games)(AU)">
+		<description>Lost in the City (2009)(Big Fish Games)(AU)</description>
+		<rom name="Lost in the City (2009)(Big Fish Games)(AU).bin" size="124413744" crc="47d5adcc" md5="11ee1cc10be68fbbe52d3a78f7c277c5" sha1="11d1ae79108081c8b7d599dbd59b37b3290bc37d"/>
+		<rom name="Lost in the City (2009)(Big Fish Games)(AU).cue" size="132" crc="950d526b" md5="4b9deacd9e5d227b3ba84787ea8991db" sha1="09a6e0eb7a3991824552062e55fc7b7cc0aadaf8"/>
+	</game>
+	<game name="Lost Realms Legacy of the Sun Princess (2011)(Big Fish Games)(AU)">
+		<description>Lost Realms Legacy of the Sun Princess (2011)(Big Fish Games)(AU)</description>
+		<rom name="Lost Realms Legacy of the Sun Princess (2011)(Big Fish Games)(AU).bin" size="180323136" crc="d1b1c017" md5="234b9153c39f61dfc6632f89a3e88382" sha1="cc95c8aea18b7fb0a4ded541288dc774d8dc2fdb"/>
+		<rom name="Lost Realms Legacy of the Sun Princess (2011)(Big Fish Games)(AU).cue" size="154" crc="75f292b5" md5="27623ce8ba53dc00fbb08d2d6c10e949" sha1="772577ad823428edbb20fdb68d89dc4b311cfca6"/>
+	</game>
+	<game name="M1 Tank Platoon 2 v1.0U (1999)(MicroProse)(GB)">
+		<description>M1 Tank Platoon 2 v1.0U (1999)(MicroProse)(GB)</description>
+		<rom name="M1 Tank Platoon 2 v1.0U (1999)(MicroProse)(GB).bin" size="778775424" crc="47f4f471" md5="68ca7dd6e8399df711d863a9b1068785" sha1="73f8c6d824b0608c7496ac312de42707ac85a30e"/>
+		<rom name="M1 Tank Platoon 2 v1.0U (1999)(MicroProse)(GB).cue" size="135" crc="c0bb3f7e" md5="81fa4250f46b8da23b2c33e2c6df0e8a" sha1="ef81c6643c41a3c52556c430ab90a14ca5164003"/>
+	</game>
+	<game name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US)">
+		<description>Mahjongg XP Championship (2004)(Selectsoft Publishing)(US)</description>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 01 of 17).bin" size="243114480" crc="1a5e61ab" md5="b9a14f302f510c42e9d518fb255b644e" sha1="1c9e6377f3e1f282e92e2aebaac50324754e034e"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 02 of 17).bin" size="51073680" crc="09ec9add" md5="71276708a4e3ad13e9c5cfb434177f1d" sha1="8a877860fd59b2fdd757d16a58ae752625b161ba"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 03 of 17).bin" size="49490784" crc="4afee886" md5="265f7147944000b04eecfd86afe19db8" sha1="0ade082754e329984f665f6611351969e1c058f2"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 04 of 17).bin" size="42347760" crc="7d85df13" md5="a9a504d48c47a4690d08038e99fc92b2" sha1="8b58aca1225ee6ef61bd4122b4214a0a4dae2e95"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 05 of 17).bin" size="25196976" crc="839ecf08" md5="670e51294091fa08b8c2cb996a9f7c11" sha1="583dabd6184762d416d3780be1ce87409a8b09b8"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 06 of 17).bin" size="49060368" crc="9b1f2cf5" md5="79bc0546ddcfe41eae9ed50aad47d67e" sha1="e785fd9dde34851b6e841034dc1362923a6ac6ee"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 07 of 17).bin" size="38337600" crc="d454c08f" md5="2c449854fcca6bf72cbba4d607077ef9" sha1="6fd37228496c83d751265db096fb486d8e3deeb7"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 08 of 17).bin" size="46275600" crc="0caccc2d" md5="fc12a5ab2301e7bcefd00e78dbf94984" sha1="4b8bba185c3097f675950c3ea381b8600db46e77"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 09 of 17).bin" size="42702912" crc="6e82dae1" md5="33861cfe8b6cc8d5bbb7cfafc6bc13d3" sha1="8c5bff91e6fd38c2fb437364a2eb526e34b78cd4"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 10 of 17).bin" size="22508640" crc="277d1929" md5="9e9e4fc607e1dfe8ae9fd701b5333e4e" sha1="f3e7c0fa7c3e9aa576cbe94e4ad2898d732afc97"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 11 of 17).bin" size="13025376" crc="a463d5c8" md5="3b54f684ef415cd7db3c235d3af97cf6" sha1="e797d59ee37e4a6e18cf51a7f0b58660a4cc80c4"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 12 of 17).bin" size="11614176" crc="c889a450" md5="fa3baa42b7f30fb6cd8abbc603aa1fbf" sha1="17a0d2ed2eb2f14a5f184a5b3e2456e0ab6a4b7b"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 13 of 17).bin" size="78994272" crc="584682dc" md5="a47c196b414d3412b0e0a51153f6dc1f" sha1="147a42bda22b14d325c2fc8c98d7b2a7c7713fae"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 14 of 17).bin" size="23534112" crc="dd06b849" md5="9c521168954ab50efad957816cefb60c" sha1="9d4d3861543e8515caf5e03374cd806c7b39c51c"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 15 of 17).bin" size="40099248" crc="fa01587d" md5="2d4089d97ddedb2dd58d8819271a4774" sha1="eeee6441da423879b92927b21b996ddc2cb02f8d"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 16 of 17).bin" size="19004160" crc="e4c3788d" md5="524b02d10024753fb7f0816fa5815e1e" sha1="fcb4725162d36705f7975df124c7b2c74b5063a9"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US) (Track 17 of 17).bin" size="36662976" crc="f09a2186" md5="76c7ee4cea5dca61dc9acd31df6ca07b" sha1="d735e0451b3aeb21be9b08593c3365295417b61f"/>
+		<rom name="Mahjongg XP Championship (2004)(Selectsoft Publishing)(US).cue" size="2708" crc="3a4f1e51" md5="cb889a5bc605a9106e3200c1f812ac95" sha1="73857c5b033dbf3975a6403373433e6619229fad"/>
+	</game>
+	<game name="Man of War (1997)(Strategy First)">
+		<description>Man of War (1997)(Strategy First)</description>
+		<rom name="Man of War (1997)(Strategy First) (Track 01 of 11).bin" size="512745408" crc="d699008f" md5="dbfa3a83912a917984f6a809b27ab8cc" sha1="8ed94c0c13dc57e2be25692ce113b56da3bc36e8"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 02 of 11).bin" size="24531360" crc="fa001c91" md5="28e453b442a4b12e068e727e1f4a2da0" sha1="88d0ce321b57a82f9012507efe36ba729c95a36d"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 03 of 11).bin" size="24277344" crc="424e91d8" md5="b7ea35c099e157f4345d2b1689e2fafb" sha1="be17c7c183825e240d31b4e28538b272049b40d6"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 04 of 11).bin" size="22000608" crc="9677fd1d" md5="c508e3e3b10ae4e1fa3deafcbc109c16" sha1="97bc1ff083c835b69cb80b7871ba59043fde96be"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 05 of 11).bin" size="23258928" crc="f12e7a82" md5="21dc807cd372751f21b0ad0743b83f5c" sha1="c568f0de88119f8ea600d38639ff48118025a2e3"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 06 of 11).bin" size="12110448" crc="d8c9b388" md5="569eec98851ffcee76425331642faa4f" sha1="45e50ea1eebba87942fb83d531b3e02d1fe943a4"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 07 of 11).bin" size="22471008" crc="31c5b3df" md5="effd06b5e476f5ae3aaa4143c05590af" sha1="e4fc7afb336862dfdf74fd83c700ded5ae4b3830"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 08 of 11).bin" size="23682288" crc="e3d798ee" md5="3eea4d1a45566a10eda7d48dd684e305" sha1="df2d69406eb916b71498e1f84edeb5e12b9bb6de"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 09 of 11).bin" size="22047648" crc="6f875cb1" md5="920aa5725d81c848392b2d9fbd300e76" sha1="2d51386f4bd918a6879c98493eba150128b21afa"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 10 of 11).bin" size="23322432" crc="2eaabb39" md5="314b03cedb65807404c0f7ac0535fd31" sha1="3d5b0b97bcaf79293a67185a536c048bfb90e6b8"/>
+		<rom name="Man of War (1997)(Strategy First) (Track 11 of 11).bin" size="21064512" crc="5cfbb588" md5="6d3758760aada059fdbec93018999310" sha1="47b70a7019b5c92bd4e1d43b8a9eb6d5d94ba7d2"/>
+		<rom name="Man of War (1997)(Strategy First).cue" size="1479" crc="41231f7d" md5="c79838619a13ed8b3a325648040da859" sha1="d7f43cca25a9d33fc9caf9727c3e4136796c49b6"/>
+	</game>
+	<game name="Mays Mysteries - The Secret of Dragonville (2012)(Mastertronic)(AU)">
+		<description>Mays Mysteries - The Secret of Dragonville (2012)(Mastertronic)(AU)</description>
+		<rom name="Mays Mysteries - The Secret of Dragonville (2012)(Mastertronic)(AU).bin" size="391902000" crc="c00d242b" md5="cdafbca8c8372211d62a2c0146c7aa8c" sha1="8263415a3c89d4f4d6891919c714f40e54b08208"/>
+		<rom name="Mays Mysteries - The Secret of Dragonville (2012)(Mastertronic)(AU).cue" size="156" crc="bc50dc3e" md5="5c0ebaf79a2af3e74b74425c12c0581e" sha1="4c8777dae379fb97af68df137b1e4c1c1588d517"/>
+	</game>
+	<game name="Melbourne Cup Challenge (2006)(Home Entertainment Suppliers)(AU)">
+		<description>Melbourne Cup Challenge (2006)(Home Entertainment Suppliers)(AU)</description>
+		<rom name="Melbourne Cup Challenge (2006)(Home Entertainment Suppliers)(AU) (Track 1 of 2).bin" size="656897136" crc="1e50e04a" md5="430b821760c191343d65378cdd09bd20" sha1="c13b19207dc81bec237d6a514cb8c8cd77189326"/>
+		<rom name="Melbourne Cup Challenge (2006)(Home Entertainment Suppliers)(AU) (Track 2 of 2).bin" size="1411200" crc="70bcdc94" md5="4379e94738a468176e2d35f269d8f7e0" sha1="cdf763d30d8368e9846171ed9a9ca741749f00c6"/>
+		<rom name="Melbourne Cup Challenge (2006)(Home Entertainment Suppliers)(AU).cue" size="336" crc="85b357f8" md5="aebb2717f9d7f7af1959c1c73993510f" sha1="097e3f59bbc3c4629f8d946926975912b12469b2"/>
+	</game>
+	<game name="Microsoft Flight Simulator (1995)(Microsoft)[MS-DOS Edition]">
+		<description>Microsoft Flight Simulator (1995)(Microsoft)[MS-DOS Edition]</description>
+		<rom name="Microsoft Flight Simulator (1995)(Microsoft)[MS-DOS Edition].bin" size="24997056" crc="b617e7d3" md5="c2584a3403b4547017d13fa9475359fb" sha1="b17717c0d60f0d54c42703f3665d592a5162fe56"/>
+		<rom name="Microsoft Flight Simulator (1995)(Microsoft)[MS-DOS Edition].cue" size="149" crc="43130775" md5="507fa8651e99bcd09180aa3dd1bd0738" sha1="62d870cd83137c91335a7477e2fe24373ada2249"/>
+	</game>
+	<game name="Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 1 of 3)">
+		<description>Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 1 of 3)</description>
+		<rom name="Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 1 of 3).bin" size="712425504" crc="084a390b" md5="915b73ff4becd47bed41cfe66c8bd56a" sha1="2475efc516ad9e66e98161d0fa517c5b4fc9b087"/>
+		<rom name="Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 1 of 3).cue" size="172" crc="47f87806" md5="879bdb487cc57d76284d0acd904baaf7" sha1="9a54abd49697a7a1b971a6bbaddd9ff49b13f336"/>
+	</game>
+	<game name="Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 2 of 3)">
+		<description>Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 2 of 3)</description>
+		<rom name="Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 2 of 3).bin" size="270658752" crc="6d6bc3b8" md5="8fd2a0e31a369324de866708ee060d57" sha1="4b239793b8a8412499bf8868c72434c49c6c4d0c"/>
+		<rom name="Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 2 of 3).cue" size="172" crc="0b4b52af" md5="5e445d26099e4eceb7890d1ca5fa1799" sha1="1fb4e93d73516133c2707ebd2cc1aa452ea5e400"/>
+	</game>
+	<game name="Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 3 of 3)">
+		<description>Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 3 of 3)</description>
+		<rom name="Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 3 of 3).bin" size="763962528" crc="e4c3722f" md5="8ace29a74e4b53ca7374e1020c5d28cf" sha1="d0d2ca2a2ce9a7a5ac4c17bd885dd95f66c7f896"/>
+		<rom name="Microsoft Flight Simulator 2002 Professional Edition (2001)(Microsoft)(Disc 3 of 3).cue" size="172" crc="860ab6f7" md5="b6b0c01b080cbeaffd5400b3e28dba73" sha1="cbaabedade206e069457d6e0e572466113240a67"/>
+	</game>
+	<game name="Microsoft Football (1996-08)(Microsoft)[OEM]">
+		<description>Microsoft Football (1996-08)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Football (1996-08)(Microsoft)[OEM].bin" size="684756576" crc="f51b65b2" md5="8295bf9cc960cf4c7291cd3503d1cdba" sha1="df6b371747b1e2f383ca043f9b358c727a148c03"/>
+		<rom name="Microsoft Football (1996-08)(Microsoft)[OEM].cue" size="133" crc="c75ed0fa" md5="41065f427860217dca71ee3b58c61aad" sha1="2aeac9619075f4bc83ea873974f7fb1bd2ab0c89"/>
+	</game>
+	<game name="Microsoft Golf v2.0 (1995)(Microsoft)[OEM]">
+		<description>Microsoft Golf v2.0 (1995)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Golf v2.0 (1995)(Microsoft)[OEM].bin" size="608187216" crc="350b42a1" md5="53ba3ec13f70bf865a453e1dc4df4ab9" sha1="336eb3c765989f7a32620f4ee15cac1287c281ad"/>
+		<rom name="Microsoft Golf v2.0 (1995)(Microsoft)[OEM].cue" size="131" crc="83089a38" md5="2b72e49f2ec4864786ca22388bc9fce6" sha1="620370619e4285d1f942c6abc8f04db3d069411b"/>
+	</game>
+	<game name="Microsoft Pandora's Box (1999-05)(Microsoft)">
+		<description>Microsoft Pandora's Box (1999-05)(Microsoft)</description>
+		<rom name="Microsoft Pandora's Box (1999-05)(Microsoft).bin" size="674356032" crc="b7c17b24" md5="26c1b4e4ec91a109a5cfb36c4b38187b" sha1="602b1b84c8ded20677349a34777edea0db289363"/>
+		<rom name="Microsoft Pandora's Box (1999-05)(Microsoft).cue" size="133" crc="8ec8e6b5" md5="29293baf822569c99b45261b83296028" sha1="4adb56e19f0b1d181d51bbbffcd737aac42cc052"/>
+	</game>
+	<game name="Midway Arcade Treasures (2004)(Midway)">
+		<description>Midway Arcade Treasures (2004)(Midway)</description>
+		<rom name="Midway Arcade Treasures (2004)(Midway).bin" size="783354768" crc="16cc8317" md5="212d4f1e4a9171b837b213b4f9b9c979" sha1="f9635bff8192ffbfe205e0b6d5612f9195b969c3"/>
+		<rom name="Midway Arcade Treasures (2004)(Midway).cue" size="127" crc="b4f7a38e" md5="7f2c0079c7e7de42ea99ad5f1bdcbf2d" sha1="9b9aa68b7717ec87ec8797f60fb512ec966bd599"/>
+	</game>
+	<game name="Midway Arcade Treasures 2 (2006)(Midway)(Disc 1 of 2)">
+		<description>Midway Arcade Treasures 2 (2006)(Midway)(Disc 1 of 2)</description>
+		<rom name="Midway Arcade Treasures 2 (2006)(Midway)(Disc 1 of 2).bin" size="806587824" crc="5d58cb87" md5="285255d10521f98401254a9aaa623ced" sha1="b5129af11ad33c5daf8611505f307343f0da8056"/>
+		<rom name="Midway Arcade Treasures 2 (2006)(Midway)(Disc 1 of 2).cue" size="142" crc="fc61301c" md5="242ca117cff397d470097931dd49060d" sha1="9b37e8ff6572122bd3b191e25e916abdf26e3293"/>
+	</game>
+	<game name="Midway Arcade Treasures 2 (2006)(Midway)(Disc 2 of 2)">
+		<description>Midway Arcade Treasures 2 (2006)(Midway)(Disc 2 of 2)</description>
+		<rom name="Midway Arcade Treasures 2 (2006)(Midway)(Disc 2 of 2).bin" size="429853872" crc="b1c41a2e" md5="73cae9bc7b2952610ff6bd165fa0b578" sha1="3e7247cfa58129a30327a4d4c239401e2b319703"/>
+		<rom name="Midway Arcade Treasures 2 (2006)(Midway)(Disc 2 of 2).cue" size="142" crc="b0d21ab5" md5="859391238c652f78d9310090ee84a73d" sha1="99e9a7bdadd893bf554ec285051ffd21e8470435"/>
+	</game>
+	<game name="Motocross Madness 2 (2000)(Microsoft)">
+		<description>Motocross Madness 2 (2000)(Microsoft)</description>
+		<rom name="Motocross Madness 2 (2000)(Microsoft).bin" size="746531856" crc="79630660" md5="0ef2cb92c27400874d9390da31c01d68" sha1="6530c905216eae175b4fb2da6792f8b8ca17a055"/>
+		<rom name="Motocross Madness 2 (2000)(Microsoft).cue" size="126" crc="23b6d922" md5="04312ecde84790f980d3e314f328522d" sha1="1dfa284455c60f98f8b843d6e6411181f4e6b8ff"/>
+	</game>
+	<game name="My Pony Stables (2005)(Limbic Entertainment)(AU)">
+		<description>My Pony Stables (2005)(Limbic Entertainment)(AU)</description>
+		<rom name="My Pony Stables (2005)(Limbic Entertainment)(AU).bin" size="757181712" crc="6264681d" md5="bdfb8285af2777db498932fd5c19a098" sha1="8d42b969f5d37f208512a44f167fcc1e8cb3db55"/>
+		<rom name="My Pony Stables (2005)(Limbic Entertainment)(AU).cue" size="137" crc="02cd83f3" md5="4d9736d03952bb9ee2f42bf8d41c3a4c" sha1="44b65716c1c58227648f37b86e91eac1fa314ca1"/>
+	</game>
+	<game name="Myst III Exile (2001)(Ubisoft)(US)(Disc 1 of 4)">
+		<description>Myst III Exile (2001)(Ubisoft)(US)(Disc 1 of 4)</description>
+		<rom name="Myst III Exile (2001)(Ubisoft)(US)(Disc 1 of 4).bin" size="751616880" crc="98e5cf2d" md5="c3a95d38137a2b6912a803815401bf46" sha1="71ffa2f2556159d2fdbd60dd7c635ec0e3e6233a"/>
+		<rom name="Myst III Exile (2001)(Ubisoft)(US)(Disc 1 of 4).cue" size="136" crc="0afe553e" md5="6b24d4c5803b89f578917ed8dd765232" sha1="d74193bbd8754d3962d838325cb1776cd2a13097"/>
+	</game>
+	<game name="Myst III Exile (2001)(Ubisoft)(US)(Disc 2 of 4)">
+		<description>Myst III Exile (2001)(Ubisoft)(US)(Disc 2 of 4)</description>
+		<rom name="Myst III Exile (2001)(Ubisoft)(US)(Disc 2 of 4).bin" size="706557264" crc="d0e466a5" md5="9de833cacfab7727005d6949bc40c659" sha1="9762133b38b17ff46634cb7dcd263e0d6a52803e"/>
+		<rom name="Myst III Exile (2001)(Ubisoft)(US)(Disc 2 of 4).cue" size="136" crc="464d7f97" md5="b4d7cabdd27333c5f3afc48f04d257e5" sha1="a5367dce0114cbea70ad3d57f35b38284c0a5aaf"/>
+	</game>
+	<game name="Myst III Exile (2001)(Ubisoft)(US)(Disc 3 of 4)">
+		<description>Myst III Exile (2001)(Ubisoft)(US)(Disc 3 of 4)</description>
+		<rom name="Myst III Exile (2001)(Ubisoft)(US)(Disc 3 of 4).bin" size="747540864" crc="44dacef3" md5="6c6d5728a15778ba29c5a9f60549769f" sha1="f9f2be44282e3194feaaab4e2a6edb7eee6cd291"/>
+		<rom name="Myst III Exile (2001)(Ubisoft)(US)(Disc 3 of 4).cue" size="136" crc="cb0c9bcf" md5="81665b1180e56f6ac9c73c16ecd8ce8a" sha1="b8f125dd0e555a8bb261a7b042cb5326c5110268"/>
+	</game>
+	<game name="Myst III Exile (2001)(Ubisoft)(US)(Disc 4 of 4)">
+		<description>Myst III Exile (2001)(Ubisoft)(US)(Disc 4 of 4)</description>
+		<rom name="Myst III Exile (2001)(Ubisoft)(US)(Disc 4 of 4).bin" size="568525440" crc="6d64b602" md5="f62d1cd3d7a641b64268b9307d0a9acd" sha1="dfbd45a9c53d1cd2e53f96b563d92fce96b3f86d"/>
+		<rom name="Myst III Exile (2001)(Ubisoft)(US)(Disc 4 of 4).cue" size="136" crc="df2b2ac5" md5="69efa472320328c585714bb49d3e0c4a" sha1="a35d37d22b55b621abb61a277da94f996ab39e63"/>
+	</game>
+	<game name="Mystery Cruise (2010)(Mastertronic)(AU)">
+		<description>Mystery Cruise (2010)(Mastertronic)(AU)</description>
+		<rom name="Mystery Cruise (2010)(Mastertronic)(AU).bin" size="173659920" crc="c05b63db" md5="c7dbe5edb176d0602f4f02b3569e777b" sha1="465b668c4dacb84054275dbdd908c530e8c925d1"/>
+		<rom name="Mystery Cruise (2010)(Mastertronic)(AU).cue" size="128" crc="3b46333d" md5="f4b37305d9bb4331dd6add92be9a77d0" sha1="076025d9a22059014c8d5f14f0bae46be35002ec"/>
+	</game>
+	<game name="Mystery in London on the Trail of Jack the Ripper (2009)(Big Fish Games)(AU)">
+		<description>Mystery in London on the Trail of Jack the Ripper (2009)(Big Fish Games)(AU)</description>
+		<rom name="Mystery in London on the Trail of Jack the Ripper (2009)(Big Fish Games)(AU).bin" size="135240000" crc="5fd5a941" md5="6e9b78911707f78439efc04ff08b9771" sha1="0106a1d9718a7374f4feb1422fd2c6bb7a470ecb"/>
+		<rom name="Mystery in London on the Trail of Jack the Ripper (2009)(Big Fish Games)(AU).cue" size="165" crc="a9d60c1d" md5="ec1bc0acc814ea4fd492af0fdcb83ecb" sha1="51c12554b2fc4e7b94de59e6c7a4a485de70dfd7"/>
+	</game>
+	<game name="Mystery Murders - Jack the Ripper (2011)(Avanquest Software Publishing)(AU)">
+		<description>Mystery Murders - Jack the Ripper (2011)(Avanquest Software Publishing)(AU)</description>
+		<rom name="Mystery Murders - Jack the Ripper (2011)(Avanquest Software Publishing)(AU).bin" size="581249760" crc="545941d2" md5="9047c0ae2ca385a6180e0598e0f58c65" sha1="2cdb2b52691a9ab4fc3ebaf47c390505cb688f22"/>
+		<rom name="Mystery Murders - Jack the Ripper (2011)(Avanquest Software Publishing)(AU).cue" size="164" crc="d9d5c100" md5="af8a2c99f831f1a8217476c46c1cb71b" sha1="33ca15d2ec31a56acedfe3f20d66e5cdbbfaaa83"/>
+	</game>
+	<game name="Mystery PI the Lottery Ticket (2007)(Playtime Media)(AU)">
+		<description>Mystery PI the Lottery Ticket (2007)(Playtime Media)(AU)</description>
+		<rom name="Mystery PI the Lottery Ticket (2007)(Playtime Media)(AU).bin" size="339581760" crc="da135f50" md5="1cf2b05ac16cb46c6aa24a57d17bbe4a" sha1="d9318daa137cb04bd6a59c3696322bea5f0051f2"/>
+		<rom name="Mystery PI the Lottery Ticket (2007)(Playtime Media)(AU).cue" size="145" crc="db2524b1" md5="57faef7bb1dd5684734281eada7a5137" sha1="1407df623d74eea0a3df398bd5f2f80f6e171f09"/>
+	</game>
+	<game name="Mystery Stories (2009)(Cerasus)(AU)[PC-Mac]">
+		<description>Mystery Stories (2009)(Cerasus)(AU)[PC-Mac]</description>
+		<rom name="Mystery Stories (2009)(Cerasus)(AU)[PC-Mac].bin" size="477260784" crc="6a894546" md5="1252476332cbea8d3826d53052a7a3ce" sha1="e81cc6caf3a806068d1d7d0660bc085528203aab"/>
+		<rom name="Mystery Stories (2009)(Cerasus)(AU)[PC-Mac].cue" size="132" crc="0928190d" md5="a222ff43044c3dbde04bab2ea033292f" sha1="a33fa2c5a30ff2e5647a3d6b32101c308d408051"/>
+	</game>
+	<game name="Need for Speed High Stakes (1999)(Electronic Arts)(AU)(Disc 1 of 2)">
+		<description>Need for Speed High Stakes (1999)(Electronic Arts)(AU)(Disc 1 of 2)</description>
+		<rom name="Need for Speed High Stakes (1999)(Electronic Arts)(AU)(Disc 1 of 2).bin" size="699477744" crc="4811a39c" md5="93b51cc2a250e4a46be4450cc7c448bc" sha1="ab5f81c362ebaf23fd1e7ff021902b2d179107a0"/>
+		<rom name="Need for Speed High Stakes (1999)(Electronic Arts)(AU)(Disc 1 of 2).cue" size="156" crc="430ade1a" md5="edbbc6b0ec24f20ca103f756faaf6323" sha1="564e25aab2543a07bbb4a7146a5dc3e91fa4bddd"/>
+	</game>
+	<game name="Need for Speed High Stakes (1999)(Electronic Arts)(AU)(Disc 2 of 2)">
+		<description>Need for Speed High Stakes (1999)(Electronic Arts)(AU)(Disc 2 of 2)</description>
+		<rom name="Need for Speed High Stakes (1999)(Electronic Arts)(AU)(Disc 2 of 2).bin" size="12954816" crc="13e7b99e" md5="41279088bbbd9e3e51d388e51ccc403a" sha1="17ea18b36ae162c3fd9765e8e55624ed2b6494a2"/>
+		<rom name="Need for Speed High Stakes (1999)(Electronic Arts)(AU)(Disc 2 of 2).cue" size="156" crc="0fb9f4b3" md5="788e36eedbf207556982451fc2760f01" sha1="99038cbf673dddf53ab761e6887d42086e32d750"/>
+	</game>
+	<game name="OddSquad, The - Adventures in Oddbodia (1998)(Glowzone)[PC-Mac]">
+		<description>OddSquad, The - Adventures in Oddbodia (1998)(Glowzone)[PC-Mac]</description>
+		<rom name="OddSquad, The - Adventures in Oddbodia (1998)(Glowzone)[PC-Mac].bin" size="264348336" crc="5d4108d5" md5="f16c315b2907c1dd10994f43c6c6ab56" sha1="cf2ab8c74c762a5b21d8b4f9c6c5e517a9448ff4"/>
+		<rom name="OddSquad, The - Adventures in Oddbodia (1998)(Glowzone)[PC-Mac].cue" size="152" crc="987a7b84" md5="2736694f27984f1877de76f229c7acf3" sha1="cb59962b4e1c079916d64fb30874ef00aae232b1"/>
+	</game>
+	<game name="Olympic Games (1992)(US Gold)(GB)">
+		<description>Olympic Games (1992)(US Gold)(GB)</description>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 01 of 10).bin" size="121266768" crc="07f4bf23" md5="9fdd92d7bd5ad2897f8d195ea655f999" sha1="c907af9726e662380ac017e7ce8339749838bd02"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 02 of 10).bin" size="46087440" crc="4ed4ad2a" md5="4da63ba15282a24128b8c54696436cf1" sha1="6e059f418d25e691d4e0995209f0c8e2c23fffb5"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 03 of 10).bin" size="38511648" crc="7e1dde21" md5="7d9c9cf87ad05a5111da6f09d16bf547" sha1="06db56df88cc0939fb87a9c9227b6a46b2578cd1"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 04 of 10).bin" size="65935968" crc="2c623bd7" md5="206287bbb2d8e2ae85eff28ea41e3b7e" sha1="bc0c178dc68b529d33fbbaa438d16959ebbacf00"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 05 of 10).bin" size="36862896" crc="81e8b4b3" md5="c443a037bf8cd3e7e50994addea8f3c7" sha1="9fd445f3f40f9607b0e69255e6c270394c63ced9"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 06 of 10).bin" size="27607776" crc="e0cbe522" md5="c0fa5895808d5345e895e7a9d297c05a" sha1="eabaedd31027858fff5de0a7fac60e1a9fc77e35"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 07 of 10).bin" size="35618688" crc="d752762a" md5="1642805625a025fff59eae1ce0dead59" sha1="45327ea40156f4fd132101ab7e30cbed8f5ba6b9"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 08 of 10).bin" size="35858592" crc="e554ec8e" md5="c1eb66274fa7c24db90b03beed7c4a7c" sha1="5d057712f75ec83842df209c411f3fe9752b5147"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 09 of 10).bin" size="1159536" crc="5d12ce4a" md5="686a89ff09fbe7cf1c30c3158afead74" sha1="7a3dda4bd0965648ddd5cc39248f0e48adc05eb5"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB) (Track 10 of 10).bin" size="38288208" crc="fe1c6b81" md5="309723e0fd8ae3aedef5134b604f77aa" sha1="b0c081bb5ed4948767d75252dc434da74fe5f2ff"/>
+		<rom name="Olympic Games (1992)(US Gold)(GB).cue" size="1161" crc="eff5e0f0" md5="1b026bbbc873da2b12bda066e27ca7bc" sha1="ea91736e8da841d4431758d2662c03a2ff02f2cb"/>
+	</game>
+	<game name="Omar Sharif Bridge (2002)(Softkey)(GB)">
+		<description>Omar Sharif Bridge (2002)(Softkey)(GB)</description>
+		<rom name="Omar Sharif Bridge (2002)(Softkey)(GB).bin" size="30804144" crc="8bbb0dcd" md5="d123b0b910571809646cb5fdb234be11" sha1="eee25a56955819aaa44b81dfc1b68f165320073d"/>
+		<rom name="Omar Sharif Bridge (2002)(Softkey)(GB).cue" size="127" crc="bfdb9916" md5="bbb3ec8db43a4b82201f117263254bc3" sha1="4a2553f3c6474ea68dda7c68e6877c5069089ed2"/>
+	</game>
+	<game name="Ominous Horizons (2001)(N'Lightning Software)">
+		<description>Ominous Horizons (2001)(N'Lightning Software)</description>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 01 of 16).bin" size="205212000" crc="959b671f" md5="86bbb18e0c2376fd6f39650d36714c7b" sha1="934a16b9987317c21dd47dee0c270ffb64149020"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 02 of 16).bin" size="11647104" crc="92de9546" md5="d13068e2c53e963ab58888619ee32cec" sha1="c2c27dbc55f5ce69cca67eafa4c525cb94589086"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 03 of 16).bin" size="3911376" crc="f641050c" md5="130fb5d70f9fd72a3566f3fd8c1afc06" sha1="734fb8ea3af0c7ef4fb2f1386ac215917c85527c"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 04 of 16).bin" size="30434880" crc="72f52c91" md5="7d3836b3e52023b360aaf7551aed5110" sha1="7adf65c67427b52da790cbaefcc0c1c305401f30"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 05 of 16).bin" size="35952672" crc="9afaf8cc" md5="4aaf569b791f87bf014423be8b061ec7" sha1="a9c7954e7b2ccdd7219f7f120b0e39cc14c13d10"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 06 of 16).bin" size="42488880" crc="8e7d67fc" md5="62ed64a7dceb1ed37f54869705a9d216" sha1="82e6fe2ff9559d092ff5b170bce5356fbca41b95"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 07 of 16).bin" size="40365024" crc="11eece80" md5="b274c3bcafdc0324e65dd3d57b0d55ea" sha1="781a483f226419381e35f5c608d773111cf0e3e5"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 08 of 16).bin" size="46706016" crc="8163dc42" md5="7105fa509c0f1d35e81a413d1123afd9" sha1="b4cf4b2fc354c98377fd32e6046e7336dec50f2e"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 09 of 16).bin" size="51866304" crc="229e54cc" md5="bea5ad467b08c372ee1ef696065a5aab" sha1="d202cdc1e99f83794ae433c66ad0d6add0ebe3f9"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 10 of 16).bin" size="32732784" crc="f5e23ad9" md5="0048bb4ec3c7cdb5fefce7527851b018" sha1="8c2986e6a7f3d497b6fe1c09a208b2a37db84f80"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 11 of 16).bin" size="5649504" crc="57a86ee9" md5="58edc0c2717da0a08810314be213246d" sha1="db248871d4dd56def59bfcee18a8fd5be4def609"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 12 of 16).bin" size="55422528" crc="90b70a0b" md5="07f1db7c8bae43f829987c1ef3933554" sha1="e1335a628742052c7703277ad9af77c3c36f90c2"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 13 of 16).bin" size="18352656" crc="d3b78a37" md5="2f87a6f6eaca83b64ecc3823afdac6ca" sha1="5572384cf9c073807dc7aac2550f6b3c123467b7"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 14 of 16).bin" size="8596560" crc="d679082a" md5="b60fa1476f6b1ecc54e55b5259bff00c" sha1="b5a15e0a0b9e2bf1e958db62149d4a905470334a"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 15 of 16).bin" size="27083280" crc="5653fdc5" md5="82f1aff31d2b987d7698a85e062779ae" sha1="93b4734dce7bf2e6810f41ce0c39bcdf9027a823"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software) (Track 16 of 16).bin" size="17823456" crc="f11a2410" md5="0eabee9ed63dd5a560a5d8bb73c031e2" sha1="e0326a27023749de020212426939da7babe69e5a"/>
+		<rom name="Ominous Horizons (2001)(N'Lightning Software).cue" size="2341" crc="427a8102" md5="4b5564a1d193a463fa6ae02c101bd310" sha1="e73fb80de3e34165e95af3e439b46eb5f234695d"/>
+	</game>
+	<game name="Operation Flashpoint - Cold War Crisis (2001)(Codemasters)(M5)">
+		<description>Operation Flashpoint - Cold War Crisis (2001)(Codemasters)(M5)</description>
+		<rom name="Operation Flashpoint - Cold War Crisis (2001)(Codemasters)(M5).bin" size="788891376" crc="6d0aeb1b" md5="5d4b2d694176c1a3279ed2475e68829d" sha1="63f067f12fe64fb771db74890139d6ca28ff9981"/>
+		<rom name="Operation Flashpoint - Cold War Crisis (2001)(Codemasters)(M5).cue" size="151" crc="3ce7840c" md5="ef4bfeb5f264729a674add9e634e7e73" sha1="7c0f908e04ece7999f87e85c4cccd471b44673da"/>
+	</game>
+	<game name="Over 1000 Jigsaw Puzzles (2003)(Nodtronics)(AU)">
+		<description>Over 1000 Jigsaw Puzzles (2003)(Nodtronics)(AU)</description>
+		<rom name="Over 1000 Jigsaw Puzzles (2003)(Nodtronics)(AU).bin" size="234040464" crc="b735bb5a" md5="2fc9788107827f8bf21bb07f9c804fe9" sha1="2faf93423786f04e973acacf9980b03511742e79"/>
+		<rom name="Over 1000 Jigsaw Puzzles (2003)(Nodtronics)(AU).cue" size="136" crc="58995c1f" md5="948fe75f85a550864fe39267afe071c2" sha1="d73cff97f32f8dbc8a3d80e3b7cdf85001ad8f05"/>
+	</game>
+	<game name="Paradise Quest (2012)(Tuff Kat)(AU)">
+		<description>Paradise Quest (2012)(Tuff Kat)(AU)</description>
+		<rom name="Paradise Quest (2012)(Tuff Kat)(AU).bin" size="163454592" crc="4e43db19" md5="2497cadca65efb6fadb1cc6a561858c5" sha1="5cdb02d7a085a9435674a0c35bf2f13f50764e3f"/>
+		<rom name="Paradise Quest (2012)(Tuff Kat)(AU).cue" size="124" crc="dfaebb86" md5="b161b3700778c0067b29b09570ef77b1" sha1="47640148aae8dbb0f5b53df9d0a465da95b6752f"/>
+	</game>
+	<game name="Paramedic Simulator (2011)(Mastertronic)(AU)">
+		<description>Paramedic Simulator (2011)(Mastertronic)(AU)</description>
+		<rom name="Paramedic Simulator (2011)(Mastertronic)(AU).bin" size="216946128" crc="f5fca814" md5="51dbf347a3656a85db0d041c0e3f59a9" sha1="69b4f22a650610dc00f00f68bad90db13f30435e"/>
+		<rom name="Paramedic Simulator (2011)(Mastertronic)(AU).cue" size="131" crc="dde99b0f" md5="afe7766e48b8e8bd4ee5c5059819e524" sha1="9ae759937abebd823db92e682e4543149129f405"/>
+	</game>
+	<game name="Perfect Sudoku (2005)(Greenstreet Software)(AU)">
+		<description>Perfect Sudoku (2005)(Greenstreet Software)(AU)</description>
+		<rom name="Perfect Sudoku (2005)(Greenstreet Software)(AU).bin" size="99494304" crc="02bcd44e" md5="eb3688a0c90601d91c71d182f130e300" sha1="a8918759a5de09505dd0f4546bcb5fe30b6c7d91"/>
+		<rom name="Perfect Sudoku (2005)(Greenstreet Software)(AU).cue" size="136" crc="82c209c7" md5="4453b919e311b2ad73e947cafc29e971" sha1="838db3c5f551feb573e82d2f5b9880f6f070bbf0"/>
+	</game>
+	<game name="Poker Masters (2006)(Oxygen Interactive)(AU)">
+		<description>Poker Masters (2006)(Oxygen Interactive)(AU)</description>
+		<rom name="Poker Masters (2006)(Oxygen Interactive)(AU).bin" size="143968272" crc="f9f99b60" md5="9ff687b1e490b4f5e8435aab6a1dd3d4" sha1="69d96eb61f0933ce84b80fb817fcca0f241b8aa2"/>
+		<rom name="Poker Masters (2006)(Oxygen Interactive)(AU).cue" size="133" crc="8094b666" md5="ec080f8fde3ad8d9cb6917cdca53f5c5" sha1="dda0185372e4ad9831393b55de46882af68c38b1"/>
+	</game>
+	<game name="Praetorians (2002)(Eidos Interactive)(AU)">
+		<description>Praetorians (2002)(Eidos Interactive)(AU)</description>
+		<rom name="Praetorians (2002)(Eidos Interactive)(AU).bin" size="657492192" crc="2c0807fc" md5="54893c558f0b06a3b2adf394f0745f4a" sha1="d84ef9d11fd7214d775cc54e95d27498ad808b6d"/>
+		<rom name="Praetorians (2002)(Eidos Interactive)(AU).cue" size="130" crc="26bc3453" md5="beb31c96b613228fb07a934de49f3408" sha1="d54b1bd8f06a70216df3b06e40db089364f5b68d"/>
+	</game>
+	<game name="Private Eye (2006)(Gogii Games)(AU)">
+		<description>Private Eye (2006)(Gogii Games)(AU)</description>
+		<rom name="Private Eye (2006)(Gogii Games)(AU).bin" size="110567520" crc="80f4d916" md5="3e3decf7354ba094c3934efe43532e02" sha1="84cbbe1bd0686f92bf86731f0f971c6a8a012ea8"/>
+		<rom name="Private Eye (2006)(Gogii Games)(AU).cue" size="124" crc="13a99be0" md5="c77aeae68495d4d50d14c54b9c99f38b" sha1="82c49daddaba169f577f2bfab6903f1ba543a9e2"/>
+	</game>
+	<game name="Puzz 3D (1998)(Webbit)">
+		<description>Puzz 3D (1998)(Webbit)</description>
+		<rom name="Puzz 3D (1998)(Webbit).bin" size="723237648" crc="ad541cd6" md5="614cd115816557a6cbd3c52b55cd820e" sha1="3b9e2eda8c912fb6b8f4df02209e70db2756eb13"/>
+		<rom name="Puzz 3D (1998)(Webbit).cue" size="111" crc="38f68e6d" md5="35edee7df21833509e3f2f941922918e" sha1="0711beabd8e65bb859cd0bdd5fc66002fedd5c31"/>
+	</game>
+	<game name="Quake v1.01 (1996)(id Software)">
+		<description>Quake v1.01 (1996)(id Software)</description>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 01 of 11).bin" size="39005568" crc="d5247f03" md5="a3bc7c6876630a56e144c5657c705dc9" sha1="a0fb65fe33f15dcbda459857c226433b87301fac"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 02 of 11).bin" size="54439392" crc="383d62d4" md5="2674d4848f1a720bc382ba56df38ff74" sha1="2e5006fcaa223fdade7f54c7e1e7c7d81882c8e3"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 03 of 11).bin" size="25756752" crc="247b3c7c" md5="2e953efb9b43cc23677def891726fc1b" sha1="adc45c77166cc47d887eb9ce0ddcf90194d3e62a"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 04 of 11).bin" size="88244688" crc="74119744" md5="7e0a5234f0ecd26d0792caed5f8302da" sha1="8716b3db0c19cf4db40ddc7c4644c1c439827419"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 05 of 11).bin" size="64454208" crc="af1fc74d" md5="8cb72bede16670011252ed7f536e93e3" sha1="bab90268154c8571d7ebb3ac7eae0e9e01fb9a59"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 06 of 11).bin" size="78425088" crc="17f0fb22" md5="7be95e64b9dba0f5b0c80bdcbbc2c11d" sha1="e6baee91639ae1bc6c9cac8f4cac786ec2cb1372"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 07 of 11).bin" size="91415184" crc="078a66d8" md5="3cfb41868e1f99851f5e96d930579c27" sha1="f162233f58a696fa9f3115646448ef8fbadb0cd0"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 08 of 11).bin" size="59256288" crc="b7b4d9b3" md5="9e6dbb373685e134f61c05b5abd9c19c" sha1="6507802fb2b9fbd5f0ee8526a60db4c828ed538a"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 09 of 11).bin" size="68605488" crc="38ecf885" md5="c874d623dfb2eee86bb5cea9bc51ad3c" sha1="852ced8546a52c176221ea3319fd0edf83e0b0a0"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 10 of 11).bin" size="37495584" crc="7fc08b7a" md5="a2df8727dc46c850f3e830654a7fa528" sha1="4a0e0688ffdc65f5704c3f3f7b5af5a969886e62"/>
+		<rom name="Quake v1.01 (1996)(id Software) (Track 11 of 11).bin" size="55989360" crc="6f19d264" md5="965eb7aeb971a7b93742a59db49b5280" sha1="173420828cdccfc21ae0f6a3cec701a30eaf500a"/>
+		<rom name="Quake v1.01 (1996)(id Software).cue" size="1607" crc="1b7a40e8" md5="991ee6b410bc1397b58db43a36325a10" sha1="01b6d5fd9cf75fbc49971307fd6e0097c9bafa67"/>
+	</game>
+	<game name="Racing Recolution (2005)(SsangYong Motor Company)">
+		<description>Racing Recolution (2005)(SsangYong Motor Company)</description>
+		<rom name="Racing Recolution (2005)(SsangYong Motor Company).bin" size="259011648" crc="3355e134" md5="bb298920553636e520ca04a321c2d9db" sha1="a0a09dd7bfd9bcbe54a92e26fa4c6888624ee231"/>
+		<rom name="Racing Recolution (2005)(SsangYong Motor Company).cue" size="138" crc="2a0d7db4" md5="4951f0c3e99f9aa77026dc2a002bb27d" sha1="126942cf6835f14abc19c7bb2cfa1ab492241ea1"/>
+	</game>
+	<game name="Railroad Tycoon II (2001)(SoftKey International)">
+		<description>Railroad Tycoon II (2001)(SoftKey International)</description>
+		<rom name="Railroad Tycoon II (2001)(SoftKey International).bin" size="437519040" crc="906cb2dd" md5="f487a0f5e681136f34d804969c2eb015" sha1="2ad35f2cb632ac1dc226f1fe8a51a880a379394a"/>
+		<rom name="Railroad Tycoon II (2001)(SoftKey International).cue" size="137" crc="ded9b760" md5="c5411226b07e2459d1efb695ca15c99d" sha1="19e6c3c3b0614ded045be655d6639ebd96dca1e7"/>
+	</game>
+	<game name="Rayman 2 - The Great Escape (1999)(Ubisoft)(M5)">
+		<description>Rayman 2 - The Great Escape (1999)(Ubisoft)(M5)</description>
+		<rom name="Rayman 2 - The Great Escape (1999)(Ubisoft)(M5).bin" size="781974144" crc="e4c3f1f1" md5="cec73f63ffefd73d11e8f07c6804ab30" sha1="26e2c7c9b8df5f94fb5a444404333ebde2e6eda0"/>
+		<rom name="Rayman 2 - The Great Escape (1999)(Ubisoft)(M5).cue" size="136" crc="e6586aa9" md5="6281eebc3e5ce9162035f86378595fb5" sha1="11bae3580505a9e67a1c8d966bedf0b04940f28f"/>
+	</game>
+	<game name="Red Baron II (1999)(Sierra On-Line)">
+		<description>Red Baron II (1999)(Sierra On-Line)</description>
+		<rom name="Red Baron II (1999)(Sierra On-Line).bin" size="621050304" crc="58932fc6" md5="6545a203b1d825c7a48c0a324c64580f" sha1="ff4f762fa72c5e4556abb94d76dcd274f2fc304d"/>
+		<rom name="Red Baron II (1999)(Sierra On-Line).cue" size="124" crc="d156f839" md5="37dc75215943f974ff9762cdecba8ecd" sha1="bf6f056fd5c78f5c1b22efb51075de076a65a032"/>
+	</game>
+	<game name="Reincarnations Awakening (2010)(Big Fish Games)(AU)">
+		<description>Reincarnations Awakening (2010)(Big Fish Games)(AU)</description>
+		<rom name="Reincarnations Awakening (2010)(Big Fish Games)(AU).bin" size="201011328" crc="fe092654" md5="e91f80c30ec488ccd25c33ccf48913a7" sha1="66b5ea5b9123e42311bed4a8929106512cc4aaa8"/>
+		<rom name="Reincarnations Awakening (2010)(Big Fish Games)(AU).cue" size="140" crc="b65e148c" md5="8b9f27af88c449f0dbb04b1e810b0e62" sha1="d5f59af26483981deb12b7ac9608a6ac7a21b45f"/>
+	</game>
+	<game name="Remington Top Shot (1998)(Activision)(AU)">
+		<description>Remington Top Shot (1998)(Activision)(AU)</description>
+		<rom name="Remington Top Shot (1998)(Activision)(AU).bin" size="647714928" crc="ca02b349" md5="aab2ec6a554573021cfbf1a28bd102a2" sha1="6bfb2c6eb1ffaa8acb2852a7d627243241dc9a49"/>
+		<rom name="Remington Top Shot (1998)(Activision)(AU).cue" size="130" crc="4a905d8d" md5="e9414596b1c3cefc254593e37d415ff8" sha1="c106c9bb2588f580962b8a4a0ecf972d422c6466"/>
+	</game>
+	<game name="Return to Ravenhearst (2009)(Reel Big Games)(AU)">
+		<description>Return to Ravenhearst (2009)(Reel Big Games)(AU)</description>
+		<rom name="Return to Ravenhearst (2009)(Reel Big Games)(AU).bin" size="371239680" crc="27976941" md5="490e5065d0dac072716678743aba7502" sha1="4a2e38d1f5cb564512fddcce3ecff812306c57f6"/>
+		<rom name="Return to Ravenhearst (2009)(Reel Big Games)(AU).cue" size="137" crc="62d58ce0" md5="06d1354dbddb8e832cab541e46a90627" sha1="40a5bd51395a038c1316c0b79c89efabe95524a9"/>
+	</game>
+	<game name="Rise Of Atlantis, The (2011)(Playrix Entertainment)(AU)[PC-Mac]">
+		<description>Rise Of Atlantis, The (2011)(Playrix Entertainment)(AU)[PC-Mac]</description>
+		<rom name="Rise Of Atlantis, The (2011)(Playrix Entertainment)(AU)[PC-Mac].bin" size="64425984" crc="b3d762f6" md5="957d78f622a4bb63f7df4b8d59d9d2ff" sha1="c18151b838ee27d402337642b1dd6b202ec7d422"/>
+		<rom name="Rise Of Atlantis, The (2011)(Playrix Entertainment)(AU)[PC-Mac].cue" size="152" crc="3bfcfe95" md5="97f67e971696bc6d1babfa0b7abbb954" sha1="e1e4a10a3a97b8f45203bd611cc321e4715debd6"/>
+	</game>
+	<game name="Riverworld (1998)(Cryo Interactive)">
+		<description>Riverworld (1998)(Cryo Interactive)</description>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 01 of 12).bin" size="301420560" crc="79043f86" md5="3b31e7f4e52302957f8f4f8601939891" sha1="4f237d3d46c46df4045ecb6969bddf15d65f4e58"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 02 of 12).bin" size="45873408" crc="9bc1d8f4" md5="a4e7aeb80cc1e34632b3fa33c71aeb02" sha1="fcb2956bab739d434d3e09bb511181aaabb93668"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 03 of 12).bin" size="50088192" crc="f128d1bf" md5="7589bba3ddc76892864e0116d857c68d" sha1="894f172f439a3f7db53a5d41f7d9726a1c561998"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 04 of 12).bin" size="44652720" crc="5eb54f5d" md5="8a2925f154842601361cf3a0c6d8f5d3" sha1="cabbd68c087c0e2ab89543df9309669cf16009a9"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 05 of 12).bin" size="49264992" crc="55b479a1" md5="f161e80444b4a4eba1950d361310bcf6" sha1="de64713703c739c0dacca8203644a4a3d3ce5b01"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 06 of 12).bin" size="54371184" crc="80a0c857" md5="988b99c9d09b1e3a47ba67720ec9bb2b" sha1="c73c97760efaa3d74cb8934db7a2b070a9a5a21b"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 07 of 12).bin" size="42644112" crc="64f3168a" md5="618f5a2aa6970b47b6f9a0a063c720d6" sha1="4af3e9af86290c603d1208f8a85e93aa26ec6c51"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 08 of 12).bin" size="62452656" crc="92a7ed17" md5="ea87e731f8b720fac79f2ff624951ae5" sha1="b3f3cc7229fa23e7ef21bdcf7b289af5ed39d0d1"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 09 of 12).bin" size="53674992" crc="d1ac5b87" md5="5ed31f8ec1df629686b6aeb627d7d04a" sha1="d41ea82b7dc7f875bdd2f6ee8a1dc3cb9863c0b5"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 10 of 12).bin" size="36599472" crc="8ab89433" md5="c886ad3d5cbead3c30cf440351109910" sha1="8bec4e79d69048d065e99dfb13cbb656a2c075e8"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 11 of 12).bin" size="55787088" crc="e07d3e8d" md5="5c4b43c34c3193810463cd95155c3a7b" sha1="187d1e8af1f1d1efe85dc479e85890ac90b80b15"/>
+		<rom name="Riverworld (1998)(Cryo Interactive) (Track 12 of 12).bin" size="47776176" crc="2ec91146" md5="e4198aa6f4bbe41df7ff16848d2f6793" sha1="be19c6a7c10acdef39a4be81f4f9371ff24aa2fd"/>
+		<rom name="Riverworld (1998)(Cryo Interactive).cue" size="1637" crc="b46489e2" md5="984d5e4769cfe9d5bf56cba7a7031088" sha1="a3ea854fa751681e91a479569d130b1f31356c9e"/>
+	</game>
+	<game name="Rocket Power Extreme Arcade Games (2001)(THQ)(AU)">
+		<description>Rocket Power Extreme Arcade Games (2001)(THQ)(AU)</description>
+		<rom name="Rocket Power Extreme Arcade Games (2001)(THQ)(AU).bin" size="151642848" crc="4e2627ab" md5="e7fe65a1ae1347f682dfd23be96d8de7" sha1="1d417ec9fe734e42f36c2907d9962866d96ab0a7"/>
+		<rom name="Rocket Power Extreme Arcade Games (2001)(THQ)(AU).cue" size="138" crc="cf6b9a17" md5="62381ae08fc518e230ac9384738fe784" sha1="ad8947596b6b35c686a21b5e3a33fe0a84bde8d3"/>
+	</game>
+	<game name="Rugby World Cup 1995 (1995)(Electronic Arts)">
+		<description>Rugby World Cup 1995 (1995)(Electronic Arts)</description>
+		<rom name="Rugby World Cup 1995 (1995)(Electronic Arts) (Track 1 of 4).bin" size="90065136" crc="62f58b13" md5="3a4c1aed4d250eca6a6c664fed3a973a" sha1="9cc103c35a860ec7d4ec4c9f8b16275183a5a7c0"/>
+		<rom name="Rugby World Cup 1995 (1995)(Electronic Arts) (Track 2 of 4).bin" size="54775728" crc="836defe6" md5="f57fb28c66fca20c06dc9bbe7c3aec50" sha1="2c10da03079d04ecc4c1e8018a51c16e96f39e83"/>
+		<rom name="Rugby World Cup 1995 (1995)(Electronic Arts) (Track 3 of 4).bin" size="42178416" crc="0e68ca8b" md5="fc2dfb55917088526e64dee346dd3542" sha1="458bb03d325d4107e6a69962fd16a93f4d3a5aee"/>
+		<rom name="Rugby World Cup 1995 (1995)(Electronic Arts) (Track 4 of 4).bin" size="46597824" crc="b4c3055e" md5="9a073224028243509e81ce59fdfb937d" sha1="3fda3a2891fe4026a5b1145bdd847e7f26970155"/>
+		<rom name="Rugby World Cup 1995 (1995)(Electronic Arts).cue" size="577" crc="78b73fb9" md5="c268f2332d780d2059c4a99c712ece94" sha1="c650b8ad976a3d83dabe0868314565849dff18fc"/>
+	</game>
+	<game name="Rugrats All Grown Up (2002)(THQ)(AU)">
+		<description>Rugrats All Grown Up (2002)(THQ)(AU)</description>
+		<rom name="Rugrats All Grown Up (2002)(THQ)(AU).bin" size="200820816" crc="562ab039" md5="f0349e3244db4247603d2a72efcc6a06" sha1="9b1da0d86c8e8c6fd213b2a74e69c280cb88deb1"/>
+		<rom name="Rugrats All Grown Up (2002)(THQ)(AU).cue" size="125" crc="5893e698" md5="4bbb82883dab3d342dfe15a0687dfa74" sha1="fb8a258be30969c89bf57600782ce4c13c31bd20"/>
+	</game>
+	<game name="Sabrina the Teenage Witch v1.0c (1998)(Simon &amp; Schuster)">
+		<description>Sabrina the Teenage Witch v1.0c (1998)(Simon &amp; Schuster)</description>
+		<rom name="Sabrina the Teenage Witch v1.0c (1998)(Simon &amp; Schuster).bin" size="481256832" crc="ec1b8ba8" md5="a6e88c4ccc9ea9fe11f67b36474436a4" sha1="402d53ad96cc8ac25e7d93655197d2b1e0a071ab"/>
+		<rom name="Sabrina the Teenage Witch v1.0c (1998)(Simon &amp; Schuster).cue" size="145" crc="524e49b0" md5="d61326ee7c11c2fc97721caae5de97ea" sha1="9cc627aad95660de4834ed20b9ca68141ec52cb4"/>
+	</game>
+	<game name="Saddle Club, The Willowbrook Stables (2003)(Atari)(AU)">
+		<description>Saddle Club, The Willowbrook Stables (2003)(Atari)(AU)</description>
+		<rom name="Saddle Club, The Willowbrook Stables (2003)(Atari)(AU).bin" size="447326880" crc="eb6ff886" md5="265d2cdbfe2eb1c7e20d081c77f667ca" sha1="50f9ff6b0e8a8c34d9b8fd84f91921b7315a04e8"/>
+		<rom name="Saddle Club, The Willowbrook Stables (2003)(Atari)(AU).cue" size="143" crc="da47ccea" md5="3d9bce25a5274e3bf08d093d87ef5a4a" sha1="1a410d7f935e741266d42a6a2c7a699f96c29ced"/>
+	</game>
+	<game name="Secret Legacy, The - Discover an Egytpian Mystery (2011)(Meridian4)(AU)">
+		<description>Secret Legacy, The - Discover an Egytpian Mystery (2011)(Meridian4)(AU)</description>
+		<rom name="Secret Legacy, The - Discover an Egytpian Mystery (2011)(Meridian4)(AU).bin" size="643032096" crc="2a8e4014" md5="ff60ce20ecb5498dffbb2228fe801cd6" sha1="c7fc1f4bd7f1ed5e0cf77483dc613341e55678cf"/>
+		<rom name="Secret Legacy, The - Discover an Egytpian Mystery (2011)(Meridian4)(AU).cue" size="160" crc="895ef349" md5="2706b4802b01d93cc0404c9d314a5dd5" sha1="6be1ff27273d081419426ded0b53a581173407ad"/>
+	</game>
+	<game name="Secrets of the Titanic 1912-2012 (2012)(GSP)(AU)[PC-Mac]">
+		<description>Secrets of the Titanic 1912-2012 (2012)(GSP)(AU)[PC-Mac]</description>
+		<rom name="Secrets of the Titanic 1912-2012 (2012)(GSP)(AU)[PC-Mac].bin" size="586760496" crc="32055642" md5="0af815feeebc7abfb9868246f25e1980" sha1="6b204616c64c1057f4c036dd7be067891ea3c937"/>
+		<rom name="Secrets of the Titanic 1912-2012 (2012)(GSP)(AU)[PC-Mac].cue" size="145" crc="c6e67efd" md5="67a28f03eb42eb4b86de4843f28b52ca" sha1="f717f04ab2446af0db94c03327d926fca538c9cd"/>
+	</game>
+	<game name="Shanghai Second Dynasty (1999)(Activision)[!]">
+		<description>Shanghai Second Dynasty (1999)(Activision)[!]</description>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 01 of 13).bin" size="398671056" crc="90851bf7" md5="4f6556f91ecbcb74b311b6a530f94ec6" sha1="87d507b48eafd75763b34da2755a75db95a8a90b"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 02 of 13).bin" size="18004560" crc="6252b060" md5="7091de9d01ad9b1ebd3abd331f5789f2" sha1="67e1324a3f7b09cd98721f8e707025980f8749bb"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 03 of 13).bin" size="16939104" crc="5ecab2ff" md5="381f8c9d9d854a19ea7c679d4e5916a4" sha1="8aa2fd5c63e1678ab75b1d27ecf0d9e6a6448b34"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 04 of 13).bin" size="25853184" crc="7672a4e7" md5="cfb492c2be106d4ffee71d49bd58ed3c" sha1="3a869705e076755575072e3a221ab28dba13cf78"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 05 of 13).bin" size="21871248" crc="73f2691c" md5="860b6db911c20923035ec4e6a98033f4" sha1="ac87df3d29e24fdfbd4b620256f5a49f15c22d8a"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 06 of 13).bin" size="22986096" crc="ca996473" md5="0d835936cc2362d99629d12663236a64" sha1="1caed97a3b116316883bd368b1cb58f82edbda09"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 07 of 13).bin" size="21452592" crc="422bef14" md5="d8ef308345db135e8051e2f674cca473" sha1="a1165efe70bfd392e9ac56ec6b9cae358f637924"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 08 of 13).bin" size="22141728" crc="7bdc57bf" md5="cf95219e19433748e20371c7c0b8acfd" sha1="16b347671e6f25b45e2070da18fd064a43c9c831"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 09 of 13).bin" size="24030384" crc="eba41f74" md5="a395e5d9a29017a9a84d83f0213de808" sha1="b8e5ea7d2c500f1d2955580ce7852a2b2d5f72a6"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 10 of 13).bin" size="21666624" crc="b0923740" md5="ada55a6ec4b25d3136b23ae03bd0342e" sha1="20fca479e2cd667a0b93e29c8dfd9518d981c549"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 11 of 13).bin" size="21231504" crc="eb2dee68" md5="08fbefb61d708a781c44f86aafb6030b" sha1="b015a3b05b423f2375144f3507730dd0230d8ae8"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 12 of 13).bin" size="26189520" crc="189bd641" md5="13d86d84885c2a7a4645c6b922c612c1" sha1="0c11d41696b983fc9f6a8438b2de206091e4db46"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!] (Track 13 of 13).bin" size="148533504" crc="6d0eec80" md5="0ec9cafc8aa200b31db99d105bc3ef20" sha1="b6c7407ea75e82d1a9f7ff508b832f9703e1ff8b"/>
+		<rom name="Shanghai Second Dynasty (1999)(Activision)[!].cue" size="1905" crc="778de528" md5="c26aae05b5c40b5f3a93bcafbe906bd0" sha1="ba2fea8425b7ed01cdbd11c2e7a9cb57c5164f33"/>
+	</game>
+	<game name="Shrek 2 (2004)(Activision)(AU)">
+		<description>Shrek 2 (2004)(Activision)(AU)</description>
+		<rom name="Shrek 2 (2004)(Activision)(AU).bin" size="509391456" crc="b3d9411b" md5="d2a88eb6f0eaad4cf90b9066391c906c" sha1="8e0b3156723a9ff71b26c5549d9bec02f76cef09"/>
+		<rom name="Shrek 2 (2004)(Activision)(AU).cue" size="119" crc="c797366b" md5="1992f880c108d8fd8f61389dc0932c14" sha1="cc267f653eee75f545c10a024b5700992f493151"/>
+	</game>
+	<game name="Shrek Game Land Activity Centre (2003)(TDK)(AU)">
+		<description>Shrek Game Land Activity Centre (2003)(TDK)(AU)</description>
+		<rom name="Shrek Game Land Activity Centre (2003)(TDK)(AU).bin" size="208328400" crc="a7be65fa" md5="dcaba1de8cb298be83b27c941552efe6" sha1="7569b82da49f99fec8eaf0030663701da6a98b3a"/>
+		<rom name="Shrek Game Land Activity Centre (2003)(TDK)(AU).cue" size="136" crc="03f6d4af" md5="630c52b6025b47983911d3a76aeb0d54" sha1="efb596928ab98a97f705b76366a44a4150bedbff"/>
+	</game>
+	<game name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line)">
+		<description>Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line)</description>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 01 of 13).bin" size="269555664" crc="1d1938d0" md5="754ec3eab02b290b281527af040fb64f" sha1="3be13e49672966e27805a307bf60ce5c5022540c"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 02 of 13).bin" size="30298464" crc="51d30aeb" md5="3156f04c43b4b42962b06f6cb4939f5a" sha1="34e62d6bf67f58155718f99994618ec6a3905d0a"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 03 of 13).bin" size="29839824" crc="919562e8" md5="37af244e261a7ab18e89549a28e0f571" sha1="7a7b80300ffcf4f5124142ddad95ccc76d2b5ccd"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 04 of 13).bin" size="30338448" crc="be393042" md5="19ccf8ef8019ddd090b6ff85ab97bc5d" sha1="d968c1de8565a65dfa6cafa03f859aafb956c3c6"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 05 of 13).bin" size="30867648" crc="cf338190" md5="245899967bebe90983d88dfff86d49b2" sha1="61651be62c9ab152bf7144b98557b019cfe3f335"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 06 of 13).bin" size="31194576" crc="e36aed46" md5="6d22ffccb98f9f866fc316b54b79f334" sha1="72c193a8580f7546046b255f9a34e454bc5ba8ef"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 07 of 13).bin" size="32020128" crc="3be406ee" md5="ceaadb444f39c28917ff860e3f90db14" sha1="f90bf5d621510c40be7470ab99fcd2b61235c1e2"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 08 of 13).bin" size="31622640" crc="ecb8658d" md5="0dd689bc0253b418f67cd9dc77ce58a6" sha1="72b38632a731a7e3e0cc366a8a7f37d81f30fb06"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 09 of 13).bin" size="27965280" crc="87567577" md5="b20557f3fa2e956079d5e5d10ae92bae" sha1="aa3c668738a47252c76012a60bf76daea89efa88"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 10 of 13).bin" size="28325136" crc="e2bfad74" md5="a9be9427d94d0c8ec41d193f83eb6b23" sha1="156a245f70f535acc718d5a75a53a10b148a2d99"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 11 of 13).bin" size="27979392" crc="ceb909b0" md5="50da0d9b11a9627bc84f7a0eadc076c8" sha1="b871b3126492cbe9431efa40dd666e0e83a2033a"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 12 of 13).bin" size="30507792" crc="ae665b34" md5="59a8f1833c33161390fae7cd4836dc5b" sha1="f845bf8fe47c8e7d53cd2a0b3c97dd4d69aa7559"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line) (Track 13 of 13).bin" size="30658320" crc="24f02b97" md5="ab088c3c1ec7a057ecb1ac19f8c47017" sha1="71785a70f39f10c737aa77778b34e202f5e9149a"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (1996)(Sierra On-Line).cue" size="2086" crc="12b20836" md5="91c2941c369f1086f5944e14bcd16885" sha1="9047ad4cb6a3ff5cb372a29148743dbd49d6b733"/>
+	</game>
+	<game name="SimGolf for Windows 95 (1996)(Maxis)">
+		<description>SimGolf for Windows 95 (1996)(Maxis)</description>
+		<rom name="SimGolf for Windows 95 (1996)(Maxis).bin" size="752696448" crc="631696ca" md5="4ae1b28ab21480f3f67de503049b63e0" sha1="1788168864c34fc83ccbdbf95969d5bdb2b9dc39"/>
+		<rom name="SimGolf for Windows 95 (1996)(Maxis).cue" size="125" crc="a2cc3c0f" md5="4715f6c48fd9c7bb691cffe0cff34f23" sha1="4d2fb800710d9571a4ab52dea1f02873ecb2b100"/>
+	</game>
+	<game name="Sims Vacation, The (2000)(Electronic Arts)(US)[Expansion Pack]">
+		<description>Sims Vacation, The (2000)(Electronic Arts)(US)[Expansion Pack]</description>
+		<rom name="Sims Vacation, The (2000)(Electronic Arts)(US)[Expansion Pack].bin" size="788886672" crc="0518b3de" md5="f85b4e8ed7a819831cb3cc9f726808bd" sha1="fd4484e40ad54e22756b35fabd64931730e2dc3f"/>
+		<rom name="Sims Vacation, The (2000)(Electronic Arts)(US)[Expansion Pack].cue" size="151" crc="314a0e9a" md5="16c3e251d0f353f511edb09e8e6c248e" sha1="a497b7bb97a7002ba43b9d7782c03a74dea29b3d"/>
+	</game>
+	<game name="Singles Flirt Up Your Life (2003)(Deep Silver)(GB)">
+		<description>Singles Flirt Up Your Life (2003)(Deep Silver)(GB)</description>
+		<rom name="Singles Flirt Up Your Life (2003)(Deep Silver)(GB).bin" size="692880384" crc="8261be01" md5="606238ebe301e85e51749471ad596988" sha1="84369b8dae8f717313fc6d18b26d76399cf5b355"/>
+		<rom name="Singles Flirt Up Your Life (2003)(Deep Silver)(GB).cue" size="139" crc="7180b83a" md5="f10898a473e77c0b41c3fc20ac84edd9" sha1="59ff9734391ac3fedeced1c2a0622d5680fba274"/>
+	</game>
+	<game name="Solitaire Master 3 v1.0 (2008)(Greenstreet Online)(US)">
+		<description>Solitaire Master 3 v1.0 (2008)(Greenstreet Online)(US)</description>
+		<rom name="Solitaire Master 3 v1.0 (2008)(Greenstreet Online)(US).bin" size="169882608" crc="bfb41ed9" md5="87a0e746e51a677a6304ff542493ac87" sha1="4956e80208bb3326e89190ebcf66c541ae50780b"/>
+		<rom name="Solitaire Master 3 v1.0 (2008)(Greenstreet Online)(US).cue" size="143" crc="666d4b24" md5="cddc9d6e9b762e8fa76fdd5704990855" sha1="c50fd8cf96251c3239fdd086ca462cab0f0e1f38"/>
+	</game>
+	<game name="Solitaire Over 1000 Games (2002)(Nodtronics)(AU)[!]">
+		<description>Solitaire Over 1000 Games (2002)(Nodtronics)(AU)[!]</description>
+		<rom name="Solitaire Over 1000 Games (2002)(Nodtronics)(AU)[!].bin" size="43824816" crc="eda9ccf7" md5="3005300155a04c1788889d5483a9bd37" sha1="93a9fccb5398c00c281013898971a3fedbd5ad7a"/>
+		<rom name="Solitaire Over 1000 Games (2002)(Nodtronics)(AU)[!].cue" size="140" crc="fae252fa" md5="a73b7559ed4e3e691956f77ebce04aff" sha1="e728ffb9cf0d6c68630a7f64c9ab0284cbd05ab2"/>
+	</game>
+	<game name="Space Quest 6 - Roger Wilco in the Spinal Frontier (1995)(Sierra)">
+		<description>Space Quest 6 - Roger Wilco in the Spinal Frontier (1995)(Sierra)</description>
+		<rom name="Space Quest 6 - Roger Wilco in the Spinal Frontier (1995)(Sierra).bin" size="743486016" crc="8e5b7e37" md5="aa6ec16f1fd25ce44308cf5adeb623f1" sha1="a20d2a3298e273fa1124750a53467c1f24b9b58c"/>
+		<rom name="Space Quest 6 - Roger Wilco in the Spinal Frontier (1995)(Sierra).cue" size="154" crc="fd5a50ec" md5="bdd855e8c68f80d7f92648d7c2c0d13e" sha1="e3929b68422700e3c6a1881dd0ed62533d362b95"/>
+	</game>
+	<game name="Spongebob Squarepants Lights, Camera, Pants! (2005)(THQ)(AU)">
+		<description>Spongebob Squarepants Lights, Camera, Pants! (2005)(THQ)(AU)</description>
+		<rom name="Spongebob Squarepants Lights, Camera, Pants! (2005)(THQ)(AU).bin" size="823200000" crc="0f676da1" md5="394f591e94dc2e058afd711b54b7058d" sha1="f3b928f8962247cfa6578970e3329ca3731bf6f9"/>
+		<rom name="Spongebob Squarepants Lights, Camera, Pants! (2005)(THQ)(AU).cue" size="149" crc="5ae7bf62" md5="809e35574d10edbbdf8b479c53e5b602" sha1="00e8b260a17412af6d5c7619831668ef00e03174"/>
+	</game>
+	<game name="Sport of Kings, The (2003)(Cyanide)(AU)">
+		<description>Sport of Kings, The (2003)(Cyanide)(AU)</description>
+		<rom name="Sport of Kings, The (2003)(Cyanide)(AU).bin" size="268527840" crc="89ccd7ad" md5="84ce4810772928433879f421928489fb" sha1="a3917ae5d9363cb97229a160d569ccca0f32c4dc"/>
+		<rom name="Sport of Kings, The (2003)(Cyanide)(AU).cue" size="128" crc="b7f6f3b5" md5="5aa32e80ca129972f4b1cef4d4fc2da1" sha1="099d78a9b5c8ddcf3ca57a4425e03ff1de25f342"/>
+	</game>
+	<game name="Sports Trilogy (2004)(Nodtronics)(AU)">
+		<description>Sports Trilogy (2004)(Nodtronics)(AU)</description>
+		<rom name="Sports Trilogy (2004)(Nodtronics)(AU) (Track 1 of 6).bin" size="422381568" crc="24588c5a" md5="eb613c56f9a83d506c7b212505cde027" sha1="a42b114272f0d1198e0b455866934146f9e9aed4"/>
+		<rom name="Sports Trilogy (2004)(Nodtronics)(AU) (Track 2 of 6).bin" size="18016320" crc="6b75dd44" md5="6bac083fd1738b293e94a582c2e6bbd7" sha1="ade0550591dac6a6164abcfdd740afb24afa94cd"/>
+		<rom name="Sports Trilogy (2004)(Nodtronics)(AU) (Track 3 of 6).bin" size="27048000" crc="5545aaab" md5="a29194da13974495abf845c1f91b5a0a" sha1="130a83d995395e97b2530933eff93b5914b56d36"/>
+		<rom name="Sports Trilogy (2004)(Nodtronics)(AU) (Track 4 of 6).bin" size="18416160" crc="445d3984" md5="9428b4f767787967e7772072f51d40dc" sha1="1457efb087ba169c2125e5935f4b900ec367a7bf"/>
+		<rom name="Sports Trilogy (2004)(Nodtronics)(AU) (Track 5 of 6).bin" size="35863296" crc="4d593638" md5="4efcbd9828bdb4d00f863dfd05712c9c" sha1="2297bb16582217ecf866ba7afa887ab72c616258"/>
+		<rom name="Sports Trilogy (2004)(Nodtronics)(AU) (Track 6 of 6).bin" size="34421520" crc="80951198" md5="1821da166623b49b6bb520695104ecaa" sha1="fd5c2d2586b25f98edea279caf4b301973e776a6"/>
+		<rom name="Sports Trilogy (2004)(Nodtronics)(AU).cue" size="821" crc="593dcc1f" md5="4120aab32874ca9fb804a3bcce4f3d43" sha1="69d81b5bd40ff972134eff8aa4f22aef1807caa3"/>
+	</game>
+	<game name="Strange Cases - The Tarot Card Mystery (2009)(Big Fish Games)(AU)">
+		<description>Strange Cases - The Tarot Card Mystery (2009)(Big Fish Games)(AU)</description>
+		<rom name="Strange Cases - The Tarot Card Mystery (2009)(Big Fish Games)(AU).bin" size="151395888" crc="80846477" md5="47a17ef95c7db3772f8f9d9b263b2539" sha1="05f2bee03e41b6c145715a867440ce79bcc0b00e"/>
+		<rom name="Strange Cases - The Tarot Card Mystery (2009)(Big Fish Games)(AU).cue" size="154" crc="b65a265e" md5="653f4e0e94745d808adaa6313d3359e3" sha1="6fccfc16fdfe75104ec9e3ea1ae2523a70daefb1"/>
+	</game>
+	<game name="Stray Souls Dollhouse Story (2011)(Alawar Games)(AU)">
+		<description>Stray Souls Dollhouse Story (2011)(Alawar Games)(AU)</description>
+		<rom name="Stray Souls Dollhouse Story (2011)(Alawar Games)(AU).bin" size="395789856" crc="338fc93a" md5="e116157019418e323d0d76cd7170185d" sha1="8976dcf67809a39fa1ac7e4addf1f90baa4c9a4e"/>
+		<rom name="Stray Souls Dollhouse Story (2011)(Alawar Games)(AU).cue" size="141" crc="2c4aee5c" md5="1a29fa2e0c7eb57ff59bc63a1ac588b6" sha1="48c0d843bb465e9737710edf17a89687032959f6"/>
+	</game>
+	<game name="Su Doku Classic 2 (2008)(Greenstreet)(AU)">
+		<description>Su Doku Classic 2 (2008)(Greenstreet)(AU)</description>
+		<rom name="Su Doku Classic 2 (2008)(Greenstreet)(AU).bin" size="56379792" crc="4e7eae00" md5="0e009099a8696334ae565e57cfb0a26b" sha1="b4f32f687dc09658839429c788596fce82c7a409"/>
+		<rom name="Su Doku Classic 2 (2008)(Greenstreet)(AU).cue" size="130" crc="335b7221" md5="44df1d9c75d86f9012a11f80dedeff71" sha1="a6d892cbd26d8e806d70957311a8bbdb5872fb21"/>
+	</game>
+	<game name="Sudoku - Infinite Variations (2005)(Nodtronics)(AU)">
+		<description>Sudoku - Infinite Variations (2005)(Nodtronics)(AU)</description>
+		<rom name="Sudoku - Infinite Variations (2005)(Nodtronics)(AU).bin" size="91163520" crc="4f3519b8" md5="cc3a7d5a23c961c983f2697d2f90c3ec" sha1="6663564886c650293bdae872b9bb8233d7ecccc7"/>
+		<rom name="Sudoku - Infinite Variations (2005)(Nodtronics)(AU).cue" size="140" crc="cd4d8afb" md5="c7a2b38aa4b9a2989e022f53c728a1a3" sha1="90dd26c86d1e64ebb98faf2a684f7c4f2474d840"/>
+	</game>
+	<game name="Sudoku Challenge, The (2005)(Play at Joes)">
+		<description>Sudoku Challenge, The (2005)(Play at Joes)</description>
+		<rom name="Sudoku Challenge, The (2005)(Play at Joes).bin" size="788533872" crc="2c8408e5" md5="eca0e1ca9c368947a2cb0616b999d205" sha1="31d2e1c8cc152378f36b2d59fd1b9b234ff3c6cd"/>
+		<rom name="Sudoku Challenge, The (2005)(Play at Joes).cue" size="131" crc="c1c386a8" md5="c26b25aa0547fe0609f60e7c5676d876" sha1="00c56e76b8919da2bc3569583715e94b2b98a0ef"/>
+	</game>
+	<game name="Sudoku Challenge, The (2005)(Play at Joes)(AU)">
+		<description>Sudoku Challenge, The (2005)(Play at Joes)(AU)</description>
+		<rom name="Sudoku Challenge, The (2005)(Play at Joes)(AU).bin" size="788533872" crc="2c8408e5" md5="eca0e1ca9c368947a2cb0616b999d205" sha1="31d2e1c8cc152378f36b2d59fd1b9b234ff3c6cd"/>
+		<rom name="Sudoku Challenge, The (2005)(Play at Joes)(AU).cue" size="135" crc="ebae4d88" md5="dbbd00ab63b89401313e3a8109717c8c" sha1="28c185150f3aa0442a30a14ff149e23b6a4f7eb1"/>
+	</game>
+	<game name="SuDoku Master (2005)(eGames)(AU)">
+		<description>SuDoku Master (2005)(eGames)(AU)</description>
+		<rom name="SuDoku Master (2005)(eGames)(AU).bin" size="134346240" crc="4547096a" md5="c770fe45512e0162576e675d96b6d800" sha1="c0389873364be6ed60e7d8667f9a3047a20316bb"/>
+		<rom name="SuDoku Master (2005)(eGames)(AU).cue" size="121" crc="6a3be815" md5="3a9c9f5a3caf833c1a25d7889f4db5f0" sha1="61384621e360c9b1aa88adbfbb9b32f93730407a"/>
+	</game>
+	<game name="Summoner (2000)(THQ)(US)(Disc 1 of 2)">
+		<description>Summoner (2000)(THQ)(US)(Disc 1 of 2)</description>
+		<rom name="Summoner (2000)(THQ)(US)(Disc 1 of 2).bin" size="682185840" crc="c176b354" md5="e01bbca38a317cab1e4d3ce3652ab31e" sha1="5219fe56b0d2029c26327f46bb4600278221fc8f"/>
+		<rom name="Summoner (2000)(THQ)(US)(Disc 1 of 2).cue" size="126" crc="d0193739" md5="38324b41c638321b927c6c948b5adbec" sha1="2d3b166acc95c246e58e805841e0f3edcf1db732"/>
+	</game>
+	<game name="Summoner (2000)(THQ)(US)(Disc 2 of 2)">
+		<description>Summoner (2000)(THQ)(US)(Disc 2 of 2)</description>
+		<rom name="Summoner (2000)(THQ)(US)(Disc 2 of 2).bin" size="763129920" crc="ade9d86d" md5="46dd10799f025ed9140544f569c56e00" sha1="6b362b8ae0ed7cfda9df118861f823781b6898b7"/>
+		<rom name="Summoner (2000)(THQ)(US)(Disc 2 of 2).cue" size="126" crc="9caa1d90" md5="b3e363a4dc2f1edc4c0da2a28c51b1ed" sha1="800c10cddbe951c6e066c5ea8577ffc6043d4848"/>
+	</game>
+	<game name="Super 2 Pack - 99 Mahjongg - Sudoku (2007)(Manaccom)(AU)">
+		<description>Super 2 Pack - 99 Mahjongg - Sudoku (2007)(Manaccom)(AU)</description>
+		<rom name="Super 2 Pack - 99 Mahjongg - Sudoku (2007)(Manaccom)(AU).bin" size="34183968" crc="c54330c2" md5="523de0e95068a66962cbead6ab0018ba" sha1="d5801575bda3252c9ccc620e2e95c9a1fe90253a"/>
+		<rom name="Super 2 Pack - 99 Mahjongg - Sudoku (2007)(Manaccom)(AU).cue" size="145" crc="22220aeb" md5="076856945635eeddbd0131259f65ac09" sha1="8b6b3ec2a50c847316e00365c5f7f4e23ad123c4"/>
+	</game>
+	<game name="Super 2 Pack - 99 Solitaire - Chess (2007)(Manaccom)(AU)">
+		<description>Super 2 Pack - 99 Solitaire - Chess (2007)(Manaccom)(AU)</description>
+		<rom name="Super 2 Pack - 99 Solitaire - Chess (2007)(Manaccom)(AU).bin" size="56177520" crc="d30260aa" md5="07862aaeed1436e9522431c4ab7a2438" sha1="c96eccf5a51c42cb97d24526c7c3ba754021f4aa"/>
+		<rom name="Super 2 Pack - 99 Solitaire - Chess (2007)(Manaccom)(AU).cue" size="145" crc="98a3ff88" md5="4bb25d540421c6968401977467f0d8a2" sha1="0a255ac0cbc2b5d0ce8a03f4b4e78ad421749516"/>
+	</game>
+	<game name="Super 2 Pack - Snowy Adventures - Snowy Treasure Hunter (2007)(Manaccom)(AU)">
+		<description>Super 2 Pack - Snowy Adventures - Snowy Treasure Hunter (2007)(Manaccom)(AU)</description>
+		<rom name="Super 2 Pack - Snowy Adventures - Snowy Treasure Hunter (2007)(Manaccom)(AU).bin" size="37450896" crc="9909c206" md5="98eb1a93f2391a2c578594f39c22cddc" sha1="450330ffd08c20b32d7de6933398785a445ec4b9"/>
+		<rom name="Super 2 Pack - Snowy Adventures - Snowy Treasure Hunter (2007)(Manaccom)(AU).cue" size="165" crc="62d6402d" md5="bacf34bdcca8ab0c7afdc75ecd7e8419" sha1="ff8bc5ea3310f79a61c033ecc173186e834f7b0b"/>
+	</game>
+	<game name="Supermarket Mania (2008)(Alawar Entertainment)(AU)[!]">
+		<description>Supermarket Mania (2008)(Alawar Entertainment)(AU)[!]</description>
+		<rom name="Supermarket Mania (2008)(Alawar Entertainment)(AU)[!].bin" size="52277904" crc="605f7cbd" md5="a427b7f88c689def107a16553cb5523c" sha1="a21ab45fdcfc291fdc9b89d67a8b1cb99fc84fd2"/>
+		<rom name="Supermarket Mania (2008)(Alawar Entertainment)(AU)[!].cue" size="142" crc="f34c0a55" md5="a4c95376011b1e3007adb215c0302d55" sha1="ef9dafe356b2985edd25445646f2bff4fbe0e9a5"/>
+	</game>
+	<game name="Texas Hold'em High Stakes Poker (2004)(THQ)(AU)">
+		<description>Texas Hold'em High Stakes Poker (2004)(THQ)(AU)</description>
+		<rom name="Texas Hold'em High Stakes Poker (2004)(THQ)(AU).bin" size="85923264" crc="769a8d0c" md5="a94e38495dd5585d67336a861118ea67" sha1="be1770d65ca3e99f3d8ef92a089f1f3845254e1f"/>
+		<rom name="Texas Hold'em High Stakes Poker (2004)(THQ)(AU).cue" size="136" crc="1a908da4" md5="96c48566d64aacc88384a616e6ec8825" sha1="5bf77963fd64389327eab74afc632fc2b0ae17ae"/>
+	</game>
+	<game name="Tom Clancy's Ghost Recon (2002)(Ubisoft)">
+		<description>Tom Clancy's Ghost Recon (2002)(Ubisoft)</description>
+		<rom name="Tom Clancy's Ghost Recon (2002)(Ubisoft).bin" size="788538576" crc="6d903ad2" md5="3aeccf1c1b1e39416f0b73c102c5c912" sha1="2a69a3ecd55bd01db862bbe1e9f0938f8f8751be"/>
+		<rom name="Tom Clancy's Ghost Recon (2002)(Ubisoft).cue" size="129" crc="019f8f02" md5="2adaee62fb66cfa1d35af9a8d21177db" sha1="38b7e634ae3f913d0f45befe46e2108a0eae8925"/>
+	</game>
+	<game name="Tomb Raider the Last Revelation (1999)(Eidos Interactive)">
+		<description>Tomb Raider the Last Revelation (1999)(Eidos Interactive)</description>
+		<rom name="Tomb Raider the Last Revelation (1999)(Eidos Interactive).bin" size="830303040" crc="3510b07a" md5="2b68717600d21f009861ee1573201fb4" sha1="72f1d8845c3cf549f9320cc3b8c2f1949ef4b275"/>
+		<rom name="Tomb Raider the Last Revelation (1999)(Eidos Interactive).cue" size="146" crc="d15b8efe" md5="c3eb84ed051e4a03d78667056efc8403" sha1="9983cdfd3a266f15869a721bf21dbd5d8c75dbc2"/>
+	</game>
+	<game name="Tonka Town (2003)(Atari Interactive)(US)[Scholastic Edition]">
+		<description>Tonka Town (2003)(Atari Interactive)(US)[Scholastic Edition]</description>
+		<rom name="Tonka Town (2003)(Atari Interactive)(US)[Scholastic Edition].bin" size="342382992" crc="6e725f1a" md5="6dbf497c9a6cd23f20964199f169253a" sha1="e5d8d7e4a24002384f3390468e554e543a62cf9d"/>
+		<rom name="Tonka Town (2003)(Atari Interactive)(US)[Scholastic Edition].cue" size="149" crc="d81cffe0" md5="a3f21c5b28b7d667f4e75d75da92f673" sha1="7bbd05f7024ac0986b92815e2706cce070f331ee"/>
+	</game>
+	<game name="Ultima Collection v1.02F (1998)(ORIGIN Systems)(AU)">
+		<description>Ultima Collection v1.02F (1998)(ORIGIN Systems)(AU)</description>
+		<rom name="Ultima Collection v1.02F (1998)(ORIGIN Systems)(AU).bin" size="676091808" crc="9ec0b026" md5="6e5f9ca87407fcfbaa3ccb4ce7a08fca" sha1="ddb48f37d33f70867892f032623255a69eeaf416"/>
+		<rom name="Ultima Collection v1.02F (1998)(ORIGIN Systems)(AU).cue" size="140" crc="2140ba12" md5="c2863540d4080eb343ae5190f40eab83" sha1="3a15e78012f657bab9cff17d7d645c00f60940b5"/>
+	</game>
+	<game name="Ultima Collection v1.02F (1998)(ORIGIN Systems)(US)">
+		<description>Ultima Collection v1.02F (1998)(ORIGIN Systems)(US)</description>
+		<rom name="Ultima Collection v1.02F (1998)(ORIGIN Systems)(US).bin" size="618263184" crc="888650e9" md5="3ff485729f262113d95c8fc101f5c151" sha1="ef8e218849e4900aedf9838e89bdf1207d5c76c9"/>
+		<rom name="Ultima Collection v1.02F (1998)(ORIGIN Systems)(US).cue" size="140" crc="b127e486" md5="881e681c594f38f37cc0b09bdbafc1f0" sha1="4fde314383151ec7f567c6836c672d3f8e4cb2ee"/>
+	</game>
+	<game name="Ultima IX Ascension (1999)(Electronic Arts)(AU)(Disc 1 of 2)">
+		<description>Ultima IX Ascension (1999)(Electronic Arts)(AU)(Disc 1 of 2)</description>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts)(AU)(Disc 1 of 2).bin" size="611950416" crc="50280b92" md5="aca03874b1c98636ad283cfeb38a3f35" sha1="7991f23734ab58f504711448a599150dfb1eb24c"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts)(AU)(Disc 1 of 2).cue" size="149" crc="838f5951" md5="bbed1806bfd66ecca7dd4f15defd1dca" sha1="6dae24b886f5cd643393a2e833da35ea5d927b8f"/>
+	</game>
+	<game name="Ultima IX Ascension (1999)(Electronic Arts)(AU)(Disc 2 of 2)">
+		<description>Ultima IX Ascension (1999)(Electronic Arts)(AU)(Disc 2 of 2)</description>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts)(AU)(Disc 2 of 2).bin" size="721593600" crc="d345f792" md5="f3b3809d195a21161881c7262f61c26b" sha1="b5e9fd518e4effcd71300d3156ebe234c146f027"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts)(AU)(Disc 2 of 2).cue" size="149" crc="dc144a8b" md5="435d731667625fcc97dc72f15287013a" sha1="58950752ad28a6b68d8b744636ee177eeee7c511"/>
+	</game>
+	<game name="Ultima VIII - Pagan (1994)(ORIGIN Systems)(M6)">
+		<description>Ultima VIII - Pagan (1994)(ORIGIN Systems)(M6)</description>
+		<rom name="Ultima VIII - Pagan (1994)(ORIGIN Systems)(M6).bin" size="54241824" crc="460070ef" md5="d3648de79b76a6ef1515471bfa0c2ad5" sha1="f61f6394c789adee3c7f3d6edde52be7d70d2c01"/>
+		<rom name="Ultima VIII - Pagan (1994)(ORIGIN Systems)(M6).cue" size="135" crc="7a15b5e7" md5="80c4a7ec5a2d8c9df2b3bd5b219620bf" sha1="0b6dd96458f32c968f7a649453f205de713ea331"/>
+	</game>
+	<game name="Ultima VIII - Pagan v2.12 (1994)(ORIGIN Systems)(M6)">
+		<description>Ultima VIII - Pagan v2.12 (1994)(ORIGIN Systems)(M6)</description>
+		<rom name="Ultima VIII - Pagan v2.12 (1994)(ORIGIN Systems)(M6).bin" size="58308432" crc="11a3bcdb" md5="d4830f88781f77b0036612e138039d43" sha1="926e1d5b9d067eb970a679e3df148e81c6d625d9"/>
+		<rom name="Ultima VIII - Pagan v2.12 (1994)(ORIGIN Systems)(M6).cue" size="141" crc="4aa6bb2b" md5="50205b9fabcd6607b27ab2ac5d2a73e9" sha1="cd13acf0453becb95131909860daaab18946e014"/>
+	</game>
+	<game name="Ultimate 101 Games for Windows XP, The (2003)(Nodtronics)(AU)">
+		<description>Ultimate 101 Games for Windows XP, The (2003)(Nodtronics)(AU)</description>
+		<rom name="Ultimate 101 Games for Windows XP, The (2003)(Nodtronics)(AU).bin" size="312745440" crc="dafbcfe5" md5="bae67baab902726baf0401a483e5ff41" sha1="0938cc66d11967a89d86e6a573b3f7154b42bedb"/>
+		<rom name="Ultimate 101 Games for Windows XP, The (2003)(Nodtronics)(AU).cue" size="150" crc="241417b4" md5="e04c124bb93c212f8e39d5ff5e0c74e4" sha1="0f3dc81dc6617b0c280a7cd0fd324faae21fe18d"/>
+	</game>
+	<game name="Ultimate Add On Collection for Doom &amp; Doom II, The (1995)(Microforum)">
+		<description>Ultimate Add On Collection for Doom &amp; Doom II, The (1995)(Microforum)</description>
+		<rom name="Ultimate Add On Collection for Doom &amp; Doom II, The (1995)(Microforum).bin" size="616033488" crc="a75b9f3f" md5="e6cb45f633e0b0d0a56a80c077be41bc" sha1="319c92ede7b245b9f2466f3a07c48d7d9d397094"/>
+		<rom name="Ultimate Add On Collection for Doom &amp; Doom II, The (1995)(Microforum).cue" size="158" crc="21666a65" md5="497ab96df13bbc8694d7e1a1b4693dc9" sha1="a487ba653bf2eba6eddc59633259de6767ab24dc"/>
+	</game>
+	<game name="Ultimate Doom, The (1995)(iD Software)">
+		<description>Ultimate Doom, The (1995)(iD Software)</description>
+		<rom name="Ultimate Doom, The (1995)(iD Software).bin" size="26885712" crc="8abfcd1f" md5="29403f448444515ee6731ad12fe2104f" sha1="f13fcb5614b23c642abc16acdeec420e4b049e08"/>
+		<rom name="Ultimate Doom, The (1995)(iD Software).cue" size="127" crc="33005dcf" md5="8f3d8f4c6255d0dff3459cfafc173d44" sha1="bdc4d6698562f02320f44a235f837a30edf1fa36"/>
+	</game>
+	<game name="Ultimate Doom, The (1997-06-13)(iD Software)">
+		<description>Ultimate Doom, The (1997-06-13)(iD Software)</description>
+		<rom name="Ultimate Doom, The (1997-06-13)(iD Software).bin" size="61269600" crc="27dbb1c2" md5="8ff84211f6864cacb28e1d10090dc687" sha1="4cd1e334c69e788dbaceb0d1856b8b5aea19041d"/>
+		<rom name="Ultimate Doom, The (1997-06-13)(iD Software).cue" size="133" crc="bb3c77e3" md5="8f8a020ecffc5ee93eb1e0eb62ff20c6" sha1="be6a132d8eed007318ba40a5888dcea4808ec349"/>
+	</game>
+	<game name="Ultimate Doom, The (1997-07-01)(iD Software)">
+		<description>Ultimate Doom, The (1997-07-01)(iD Software)</description>
+		<rom name="Ultimate Doom, The (1997-07-01)(iD Software).bin" size="61975200" crc="d5f44af2" md5="a3acdd1528b877d8d50c62f32acd392d" sha1="32e7738fbb151c07c100877b90ef06c195594be5"/>
+		<rom name="Ultimate Doom, The (1997-07-01)(iD Software).cue" size="133" crc="eb115983" md5="efa8b9f4dfd2277fbdd74ae471335e3a" sha1="cf918f2d9485a49a5897f61b93ebef615e13a3dc"/>
+	</game>
+	<game name="Ultimate Mah-Jongg (2005)(Nodtronics)(AU)">
+		<description>Ultimate Mah-Jongg (2005)(Nodtronics)(AU)</description>
+		<rom name="Ultimate Mah-Jongg (2005)(Nodtronics)(AU).bin" size="106705536" crc="fcfa0fe1" md5="9da0478089e9ed419f4120680ec8f4e6" sha1="de29342cb606971e9a598ab04eb306d0cae65276"/>
+		<rom name="Ultimate Mah-Jongg (2005)(Nodtronics)(AU).cue" size="130" crc="3a35e8d9" md5="96557fdb8173b967ce5b5ce772ead013" sha1="02423c8135de46c0b4b597040ee3eb12b044621e"/>
+	</game>
+	<game name="Ultimate Solitaire 750 Unique Games (2005)(THQ)(AU)">
+		<description>Ultimate Solitaire 750 Unique Games (2005)(THQ)(AU)</description>
+		<rom name="Ultimate Solitaire 750 Unique Games (2005)(THQ)(AU).bin" size="116635680" crc="a03b1f49" md5="4ea698708a0f025d49d02b45802efbd4" sha1="71b179037ce0ca49a3af100a56c3f9c2780eeca9"/>
+		<rom name="Ultimate Solitaire 750 Unique Games (2005)(THQ)(AU).cue" size="140" crc="13626937" md5="50386ff14178277fc8122d93b8da4702" sha1="b275d04dfd3031e426fa5b7cf277295130020fdc"/>
+	</game>
+	<game name="Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition]">
+		<description>Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition]</description>
+		<rom name="Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition] (Track 1 of 7).bin" size="100710288" crc="9ccc689e" md5="d3871cdf470a8979c5aa5abd3b4cc26c" sha1="b83ad320997e203a12d73448ddbc7759b8aad23e"/>
+		<rom name="Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition] (Track 2 of 7).bin" size="15532608" crc="6908a1ac" md5="c9ac7082941ae93529f9080955cb7d36" sha1="2e9b9c7ab80617e7a27253b91169d3f309df63a6"/>
+		<rom name="Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition] (Track 3 of 7).bin" size="21908880" crc="41926e04" md5="1fb41554085e6140d25c9b584fc3993d" sha1="239a74b396a719f40c2495a6e0386ff16e8ff645"/>
+		<rom name="Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition] (Track 4 of 7).bin" size="14335440" crc="557c0b14" md5="cbd2fe921cdc5d85e39be0d60127924f" sha1="96791080ea41cb2687924b653dd2d039febb0590"/>
+		<rom name="Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition] (Track 5 of 7).bin" size="19890864" crc="83d97a83" md5="d807ab8c59eb7991b61f53c8b0d9734e" sha1="f6a2a02dbc21fcf5c85cebd14efa0af8fa66d381"/>
+		<rom name="Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition] (Track 6 of 7).bin" size="17139024" crc="1ce4f7fb" md5="eda632629aa40b13a8195ab471495c93" sha1="e2db264b294323fd2dc28e7944ec1afcfa23e342"/>
+		<rom name="Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition] (Track 7 of 7).bin" size="48312432" crc="1ed56323" md5="9c713f5a661b8970ba38bab64dc4be38" sha1="0189c1232f58f876d0594370383138a7116c3abe"/>
+		<rom name="Ultimate Yahtzee (2006)(Atari)(AU)[KFC edition].cue" size="912" crc="92982de6" md5="7948fd88b17cd33c5af0f4295f6007fd" sha1="50829891540ab6de3ffa1b2dcdd66ab787b806cd"/>
+	</game>
+	<game name="Vampire Saga Pandora's Box (2009)(Alawar Entertainment)(AU)">
+		<description>Vampire Saga Pandora's Box (2009)(Alawar Entertainment)(AU)</description>
+		<rom name="Vampire Saga Pandora's Box (2009)(Alawar Entertainment)(AU).bin" size="91549248" crc="6e10a6c5" md5="74881b04c5ba27fb35b60fcabcb72ac0" sha1="6bbb0c6e7e8d1056fe72de9d796c66ac2908228f"/>
+		<rom name="Vampire Saga Pandora's Box (2009)(Alawar Entertainment)(AU).cue" size="148" crc="1229eb4d" md5="0312dd5d77c1429510f70991d8d6c1b9" sha1="d3276459c320c971af315ced41943799ad98acd3"/>
+	</game>
+	<game name="Vampireville (2012)(iWin)(AU)">
+		<description>Vampireville (2012)(iWin)(AU)</description>
+		<rom name="Vampireville (2012)(iWin)(AU).bin" size="143415552" crc="7df19f86" md5="e69b3f79ad20e50f90d88b6a5eca2c0e" sha1="d66ef486a2b7540687e930d59216294e0e426f01"/>
+		<rom name="Vampireville (2012)(iWin)(AU).cue" size="118" crc="86233300" md5="9db975875f88a372fc2f1d0dad32847a" sha1="8358e920c56c1f4cb3cc40d02028d8681f278544"/>
+	</game>
+	<game name="Warlords Battlcry 2 (2002)(Ubisoft)(AU)">
+		<description>Warlords Battlcry 2 (2002)(Ubisoft)(AU)</description>
+		<rom name="Warlords Battlcry 2 (2002)(Ubisoft)(AU).bin" size="738464496" crc="2c186bc9" md5="0077b0b95fd54551a785aa832b778919" sha1="c2488ec43da0d6fae06afd47727424aa61422539"/>
+		<rom name="Warlords Battlcry 2 (2002)(Ubisoft)(AU).cue" size="128" crc="da3912d3" md5="da1375a537158911719f5fde0e2db679" sha1="1bead4add383d44e5ae8ac802fd12bee4624c3a3"/>
+	</game>
+	<game name="Who Killed Sam Rupert (1993)(Creative Multimedia)">
+		<description>Who Killed Sam Rupert (1993)(Creative Multimedia)</description>
+		<rom name="Who Killed Sam Rupert (1993)(Creative Multimedia).bin" size="643474272" crc="5abc5e8b" md5="880d0873b9ffe08298e0d20989211899" sha1="989147ca3dc9216e7132a3cc4955a43d80e4fad5"/>
+		<rom name="Who Killed Sam Rupert (1993)(Creative Multimedia).cue" size="138" crc="9ca36719" md5="6f4d4898c8be099ba50caffd41c6a76c" sha1="2b9b1b6d1ea7e8afe6e32a17140d2b793a4354b2"/>
+	</game>
+	<game name="Who Shot Johnny Rock (1994)(American Laser Games)">
+		<description>Who Shot Johnny Rock (1994)(American Laser Games)</description>
+		<rom name="Who Shot Johnny Rock (1994)(American Laser Games).bin" size="539958048" crc="2922b66d" md5="217eb9bde171efef2feb9a400b468d3a" sha1="7054b81b149ecfc7f5ab66c94c79c5edf28c6736"/>
+		<rom name="Who Shot Johnny Rock (1994)(American Laser Games).cue" size="138" crc="bd2313ee" md5="94a569d499ed6841f4bd784f62062cf8" sha1="6fd7a34c1a835c5ec7cbef3bea2a1a7bfb9393ed"/>
+	</game>
+	<game name="Wing Commander Privateer (1994)(ORIGIN Systems)">
+		<description>Wing Commander Privateer (1994)(ORIGIN Systems)</description>
+		<rom name="Wing Commander Privateer (1994)(ORIGIN Systems).bin" size="208309584" crc="cca590f9" md5="e5447e38f32fdbdeb63469d5b29f08ce" sha1="62a2516f59bf1b5f87afefffaac71d47cccda150"/>
+		<rom name="Wing Commander Privateer (1994)(ORIGIN Systems).cue" size="136" crc="6d7a73e0" md5="31f36975fce68312e6bd657405b2f32b" sha1="23bb1dbf8320fbb4e43ad2c6d3c385235b920e9c"/>
+	</game>
+	<game name="World Cricket 2002 (2001)(Nodtronics)(AU)">
+		<description>World Cricket 2002 (2001)(Nodtronics)(AU)</description>
+		<rom name="World Cricket 2002 (2001)(Nodtronics)(AU) (Track 1 of 6).bin" size="361662336" crc="75c92055" md5="f74fa0ebcc7658de48b5323e1b6afc7c" sha1="60cc4ea346647a3ca7370733dd525062eb187e89"/>
+		<rom name="World Cricket 2002 (2001)(Nodtronics)(AU) (Track 2 of 6).bin" size="17832864" crc="64529bc7" md5="b41bfa81444b4fe0b0efcf06a90d8428" sha1="1b60babd1ba11d2e0547a3577ccd36ce8f2eaaa3"/>
+		<rom name="World Cricket 2002 (2001)(Nodtronics)(AU) (Track 3 of 6).bin" size="26690496" crc="0645231d" md5="ac6a579259fd8da6aca2b90345818346" sha1="29a73b21611952e7fcbf0e1cc09a137b83beaf35"/>
+		<rom name="World Cricket 2002 (2001)(Nodtronics)(AU) (Track 4 of 6).bin" size="18058656" crc="697a5b84" md5="d0a03ebdcc317f3c095c9d59e6993e5a" sha1="78d52fcf429c614eb6577079263d4dacd2f2a7bb"/>
+		<rom name="World Cricket 2002 (2001)(Nodtronics)(AU) (Track 5 of 6).bin" size="35505792" crc="b7afe63e" md5="999be72de52ca4657986e2bcd70b1d5d" sha1="beff457e0fb5a367b3a88d64d83c3b6634eddc17"/>
+		<rom name="World Cricket 2002 (2001)(Nodtronics)(AU) (Track 6 of 6).bin" size="34419168" crc="8791f683" md5="7aca93047681d05122af62cee7606d2e" sha1="80351e81a1b5a3f83ac4f8a5ef90cbcc5caacf5e"/>
+		<rom name="World Cricket 2002 (2001)(Nodtronics)(AU).cue" size="845" crc="d8aee558" md5="e0bd4d4973338fbce6df34329b74ecc5" sha1="638e124b6b81e023a7d1dded73ddef1989d29d7b"/>
+	</game>
+	<game name="World of Goo (2009)(Mastertronic)(AU)">
+		<description>World of Goo (2009)(Mastertronic)(AU)</description>
+		<rom name="World of Goo (2009)(Mastertronic)(AU).bin" size="81066384" crc="f00616a5" md5="6aa36286dd820e50648039c45c633109" sha1="badb05665ecf9158e4ce41ef08ce95321247bbac"/>
+		<rom name="World of Goo (2009)(Mastertronic)(AU).cue" size="126" crc="8b2acedc" md5="80919e01d0a5d67b9a747b47644e711f" sha1="c7327bfa9a798d0b396cee5006cdba5b6cf339ed"/>
+	</game>
+	<game name="Worms (1995)(Ocean)(GB)">
+		<description>Worms (1995)(Ocean)(GB)</description>
+		<rom name="Worms (1995)(Ocean)(GB) (Track 1 of 9).bin" size="103941936" crc="841de084" md5="606724a6f002a88640b2278a53f90a2e" sha1="23609fead8aad47cca29954f40c31aa3d8db2dae"/>
+		<rom name="Worms (1995)(Ocean)(GB) (Track 2 of 9).bin" size="60580464" crc="6be706e9" md5="14b0b53fca324da06051b99dbb4fcfeb" sha1="f1dd2588cfb2d1cc78ac66f8709fd94a30391c96"/>
+		<rom name="Worms (1995)(Ocean)(GB) (Track 3 of 9).bin" size="72693264" crc="7e3fe013" md5="898e4fdb32ddab77c5e224820d15a2ee" sha1="13a1711068b4b74f74889406933a698fed28bc99"/>
+		<rom name="Worms (1995)(Ocean)(GB) (Track 4 of 9).bin" size="69221712" crc="e90a92e2" md5="db1706d3d25a4c18ecd1aa88759098e9" sha1="a05d66c79f880e13783c1f1e9383915b296c5e6f"/>
+		<rom name="Worms (1995)(Ocean)(GB) (Track 5 of 9).bin" size="70578816" crc="b7021631" md5="296ad13e481af2ceb85f766faebea913" sha1="d00b3edf10ff561ca1d88d3db37991ce94fa4f0a"/>
+		<rom name="Worms (1995)(Ocean)(GB) (Track 6 of 9).bin" size="69837936" crc="7c9af24e" md5="69ecb2fdc69e3047c897fe530283d93c" sha1="4ebe9439f55cbf394b98ee0344bd6b5934b9acbb"/>
+		<rom name="Worms (1995)(Ocean)(GB) (Track 7 of 9).bin" size="73678752" crc="efdf5395" md5="babc0e212583fb8ed1ef1ccabadf4fa4" sha1="1edaa7ac1db0bb98e66a6062d2fca5573870434d"/>
+		<rom name="Worms (1995)(Ocean)(GB) (Track 8 of 9).bin" size="55530720" crc="cf1b9c06" md5="1dad6c60d33d32c029e8ae26dc257a11" sha1="231834295e3c22c532f8f9bc1f302060685c3ee7"/>
+		<rom name="Worms (1995)(Ocean)(GB) (Track 9 of 9).bin" size="2368464" crc="26cb091a" md5="155122dead5b7df2c1d21db9667900c8" sha1="a582d0162306bde4e9f5b0648063813e9208bb17"/>
+		<rom name="Worms (1995)(Ocean)(GB).cue" size="1103" crc="76ec0213" md5="21032e8afa8cf9fcb1e78bf92f806595" sha1="9890db8c54a00733ec3296aa8489aeb0a9b3d01c"/>
+	</game>
+	<game name="Worms 3D (2003)(Team 17)(M5)(Disc 1 of 2)">
+		<description>Worms 3D (2003)(Team 17)(M5)(Disc 1 of 2)</description>
+		<rom name="Worms 3D (2003)(Team 17)(M5)(Disc 1 of 2).bin" size="780598224" crc="a2c4a5c5" md5="8f40ec6d6056203c1e25e5ff2d6c6508" sha1="5bb66f1194240c35a2f2b5c6332108750575853c"/>
+		<rom name="Worms 3D (2003)(Team 17)(M5)(Disc 1 of 2).cue" size="130" crc="b24e4987" md5="e9a3f4ab3504fac05075c0049f1a5ac1" sha1="6f8d966036b7236b2925d00dd72f52555d64d465"/>
+	</game>
+	<game name="Worms 3D (2003)(Team 17)(M5)(Disc 2 of 2)">
+		<description>Worms 3D (2003)(Team 17)(M5)(Disc 2 of 2)</description>
+		<rom name="Worms 3D (2003)(Team 17)(M5)(Disc 2 of 2).bin" size="338285808" crc="186a2d22" md5="c5ea984f2907b94426bd0859b39614d6" sha1="ebd36c20ebe4d751e735107e2faa3044cb7ee916"/>
+		<rom name="Worms 3D (2003)(Team 17)(M5)(Disc 2 of 2).cue" size="130" crc="fefd632e" md5="964302d390a6ed68bad4c94e2fc93a15" sha1="49702bbfcf2030d60fa0f41f857947ca87885445"/>
+	</game>
+	<game name="Worms Forts Under Siege (2004)(Sega)(AU)">
+		<description>Worms Forts Under Siege (2004)(Sega)(AU)</description>
+		<rom name="Worms Forts Under Siege (2004)(Sega)(AU).bin" size="788889024" crc="98821538" md5="b0d6f65657cecac1dc43557c8fc4cb86" sha1="77866ee426eef0c3f494e77172a84832789ee3ca"/>
+		<rom name="Worms Forts Under Siege (2004)(Sega)(AU).cue" size="129" crc="b59fac9a" md5="e4b40909695d598a2c8a1a461e1802ff" sha1="2b468797505143284e59e3ce21ee3ce1ad15fe58"/>
+	</game>
+	<game name="Zoo Tycoon (2001)(Microsoft)">
+		<description>Zoo Tycoon (2001)(Microsoft)</description>
+		<rom name="Zoo Tycoon (2001)(Microsoft).bin" size="655968096" crc="c5966765" md5="8ce3f1de53e625fb8e524dc09b316a28" sha1="7adc99c495a0c1b069fb6370b311c54dfce8624e"/>
+		<rom name="Zoo Tycoon (2001)(Microsoft).cue" size="117" crc="cdd8275a" md5="3363fbfc8704494944e68dd37c4973fc" sha1="b797bebcfff22250a881d4e603cda590949bf856"/>
+	</game>
+	<game name="Zoo Tycoon 2 Zookeeper Collection (2006)(Microsoft)(Disc 1 of 2)">
+		<description>Zoo Tycoon 2 Zookeeper Collection (2006)(Microsoft)(Disc 1 of 2)</description>
+		<rom name="Zoo Tycoon 2 Zookeeper Collection (2006)(Microsoft)(Disc 1 of 2).bin" size="630434784" crc="d9d4f536" md5="06c498a1ad820f8b2abc844acc9b66e0" sha1="bb5499b66f340be0ab83b89f837017066b9b11bf"/>
+		<rom name="Zoo Tycoon 2 Zookeeper Collection (2006)(Microsoft)(Disc 1 of 2).cue" size="153" crc="ff75f6e6" md5="f243c28abfc4007260940036b857ee69" sha1="f5b2cba36058e870cb087abec2e7a0d5143b11a4"/>
+	</game>
+	<game name="Zoo Tycoon 2 Zookeeper Collection (2006)(Microsoft)(Disc 2 of 2)">
+		<description>Zoo Tycoon 2 Zookeeper Collection (2006)(Microsoft)(Disc 2 of 2)</description>
+		<rom name="Zoo Tycoon 2 Zookeeper Collection (2006)(Microsoft)(Disc 2 of 2).bin" size="445661664" crc="e02187e9" md5="a335fb5c46cec21f0c1bf8169553b4fc" sha1="0991024bba0cc4ae051cece4488a0c218326d630"/>
+		<rom name="Zoo Tycoon 2 Zookeeper Collection (2006)(Microsoft)(Disc 2 of 2).cue" size="153" crc="b3c6dc4f" md5="7b6297011c0fe7ee018ee9a972b6e5b2" sha1="80a985291395f2308ed96d560025b01beb13cc1c"/>
+	</game>
+</datafile>

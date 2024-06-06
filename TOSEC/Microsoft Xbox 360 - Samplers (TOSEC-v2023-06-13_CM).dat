@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft Xbox 360 - Samplers</name>
+		<description>Microsoft Xbox 360 - Samplers (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Burnout Paradise (2007-10-31)(Electronic Arts)(PAL)(M3)(beta)">
+		<description>Burnout Paradise (2007-10-31)(Electronic Arts)(PAL)(M3)(beta)</description>
+		<rom name="Burnout Paradise (2007-10-31)(Electronic Arts)(PAL)(M3)(beta).zip" size="2904587489" crc="97c7ff91" md5="7687242e3294631f5a851bf18caf820c" sha1="62e3d355bad384ac02d00464f18dbf7c3bc4eee3"/>
+	</game>
+	<game name="Burnout Revenge (2006-02-07)(Electronic Arts)(PAL)(FR)(beta)">
+		<description>Burnout Revenge (2006-02-07)(Electronic Arts)(PAL)(FR)(beta)</description>
+		<rom name="Burnout Revenge (2006-02-07)(Electronic Arts)(PAL)(FR)(beta).zip" size="3660332991" crc="88bebcb4" md5="9d30cc6aa8e0704aa2d9712272a45674" sha1="846e5876c68c18a1e9756d173a18cd0d2f02e7b2"/>
+	</game>
+	<game name="Condemned 2 - Bloodshot (2008-02-03)(Electronic Arts)(PAL)(proto)">
+		<description>Condemned 2 - Bloodshot (2008-02-03)(Electronic Arts)(PAL)(proto)</description>
+		<rom name="Condemned 2 - Bloodshot (2008-02-03)(Electronic Arts)(PAL)(proto).zip" size="7199624262" crc="1e32a844" md5="c94ecac6719aac12c32aba7e6b6d96d4" sha1="cfe1bb43e45045c6506e8abbe7f083fb83987777"/>
+	</game>
+	<game name="Deus Ex - Human Revolution (2011-04-12)(Square Enix)(PAL)(EN-PL)(proto)">
+		<description>Deus Ex - Human Revolution (2011-04-12)(Square Enix)(PAL)(EN-PL)(proto)</description>
+		<rom name="Deus Ex - Human Revolution (2011-04-12)(Square Enix)(PAL)(EN-PL)(proto).zip" size="2993246627" crc="bdf9454d" md5="0e58926131a0acdc891dc3c6105c3808" sha1="1b92bac9f9a3b6f76052bf3b0f5e1b5b26826186"/>
+	</game>
+	<game name="FaceBreaker (2008-08-06)(Electronic Arts)(PAL)(M3)(alpha)">
+		<description>FaceBreaker (2008-08-06)(Electronic Arts)(PAL)(M3)(alpha)</description>
+		<rom name="FaceBreaker (2008-08-06)(Electronic Arts)(PAL)(M3)(alpha).zip" size="3004060521" crc="3db40347" md5="6f06a79b9aa0e5c7c75973392237fa95" sha1="b48d46c0662f104f91aeb0cbc59d28a8ea06f478"/>
+	</game>
+	<game name="Kingdom Under Fire - Circle of Doom (2007-09-07)(Microsoft Game Studios)(PAL)(M9)(proto)">
+		<description>Kingdom Under Fire - Circle of Doom (2007-09-07)(Microsoft Game Studios)(PAL)(M9)(proto)</description>
+		<rom name="Kingdom Under Fire - Circle of Doom (2007-09-07)(Microsoft Game Studios)(PAL)(M9)(proto).zip" size="4285748981" crc="0b25f639" md5="c1d16281c82192afa227b37e29d9c566" sha1="5ac8e6186f6026d507ead32d3f7aad325e5834cb"/>
+	</game>
+	<game name="Lost Planet - Colonies (2008-03-10)(Capcom)(PAL)(proto)">
+		<description>Lost Planet - Colonies (2008-03-10)(Capcom)(PAL)(proto)</description>
+		<rom name="Lost Planet - Colonies (2008-03-10)(Capcom)(PAL)(proto).zip" size="7018995960" crc="3d79d3b5" md5="c411ffbe62c5c85d24422050c2510168" sha1="543b3fd9b4460f58899b749e6a3aff57c68aa174"/>
+	</game>
+	<game name="Lost Planet 2 (2009-12-16)(Capcom)(PAL)(M6)(proto)">
+		<description>Lost Planet 2 (2009-12-16)(Capcom)(PAL)(M6)(proto)</description>
+		<rom name="Lost Planet 2 (2009-12-16)(Capcom)(PAL)(M6)(proto).zip" size="4364965688" crc="0e937eb0" md5="9bb21c0d012ba6a885a0d746a48391f8" sha1="9f56778f8e6554dbd3cfedfa80ecce7260550bc1"/>
+	</game>
+	<game name="Lost Planet 2 (2010-01-27)(Capcom)(PAL)(proto)">
+		<description>Lost Planet 2 (2010-01-27)(Capcom)(PAL)(proto)</description>
+		<rom name="Lost Planet 2 (2010-01-27)(Capcom)(PAL)(proto).zip" size="6986938564" crc="b094d77e" md5="dd1cf4fd59d35053023eeaa2903c89f5" sha1="d450025ab51acc6424f666533a61d40fc4c6de0a"/>
+	</game>
+	<game name="Ninja Gaiden II (2008-03-20)(Microsoft Game Studios)(PAL)(proto)">
+		<description>Ninja Gaiden II (2008-03-20)(Microsoft Game Studios)(PAL)(proto)</description>
+		<rom name="Ninja Gaiden II (2008-03-20)(Microsoft Game Studios)(PAL)(proto).zip" size="3573726409" crc="90cb096e" md5="9c3cefbb5a85196936d007e8ef65f821" sha1="24be997b52c3c809aaaced08d26c0ecf8e231338"/>
+	</game>
+	<game name="Project Sylpheed (2007-05-07)(Square Enix)(PAL)(proto)">
+		<description>Project Sylpheed (2007-05-07)(Square Enix)(PAL)(proto)</description>
+		<rom name="Project Sylpheed (2007-05-07)(Square Enix)(PAL)(proto).zip" size="6218649515" crc="d73fad7d" md5="170ff4edaa4f960c6362d25e8f743cdb" sha1="796642be2d340474151242203012c5d6041e6eb3"/>
+	</game>
+	<game name="R.U.S.E. (2010-07-14)(Ubisoft)(PAL)(proto)">
+		<description>R.U.S.E. (2010-07-14)(Ubisoft)(PAL)(proto)</description>
+		<rom name="R.U.S.E. (2010-07-14)(Ubisoft)(PAL)(proto).zip" size="4072351731" crc="59dbb6ff" md5="a4e15f3c08539cbc005be6614f1a941c" sha1="ef0d84182197bd073c8eb89b4f841d84e3460dc4"/>
+	</game>
+	<game name="Street Fighter X Tekken (2012-01-15)(Capcom)(PAL)(proto)">
+		<description>Street Fighter X Tekken (2012-01-15)(Capcom)(PAL)(proto)</description>
+		<rom name="Street Fighter X Tekken (2012-01-15)(Capcom)(PAL)(proto).zip" size="3410983109" crc="fc4f7df2" md5="57344bfa0ca89bf486f75d1a2d3267ad" sha1="0fa4992c3f359b04432164f3b03f75c30211e327"/>
+	</game>
+	<game name="TimeShift (2007-09-12)(Vivendi Games)(PAL)(proto)">
+		<description>TimeShift (2007-09-12)(Vivendi Games)(PAL)(proto)</description>
+		<rom name="TimeShift (2007-09-12)(Vivendi Games)(PAL)(proto).zip" size="4601974947" crc="60665cb9" md5="1798cc8dc072d4c5d9246740a39d8b09" sha1="15eb826958f957a32c08bd48b49ad680ecbeaea7"/>
+	</game>
+	<game name="Virtua Fighter 5 (2007-08-15)(Sega)(PAL)(proto)">
+		<description>Virtua Fighter 5 (2007-08-15)(Sega)(PAL)(proto)</description>
+		<rom name="Virtua Fighter 5 (2007-08-15)(Sega)(PAL)(proto).zip" size="3385583943" crc="791fb1e7" md5="1ad74d3040aa6a394f4170c93efb7058" sha1="e18fb9fa35e764d20b98907029eeef9e239b3c58"/>
+	</game>
+</datafile>

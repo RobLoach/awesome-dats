@@ -1,0 +1,392 @@
+clrmamepro (
+	name "ScummVM GLK-Hugo"
+	description "ScummVM - GLK Engine - Hugo Games"
+	category "ScummVM"
+	version v1.01
+	date 2020-05-21
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name acs
+	description "A Crimson Spring (Multi-OS)[R1.0.04-001206][!]"
+	year 2000
+	manufacturer "Robb Sherwin"
+	sourcefile glk-hugo
+	rom ( name ACS_GFX size 1956558 crc fdcb0622 md5 f94b76bde5d5d83dc60f90451a1a23fb sha1 743389fba534d7e55a5fb80bd4a09379d8f09214 )
+	rom ( name ACS_MUS size 18649188 crc f0fb5f23 md5 eb0db321972d8935d88554c454e195a9 sha1 2cdeceece65b04561e7183dc1812b9fc9a049991 )
+	rom ( name scourge.hex size 371658 crc 0ad8c4a7 md5 12b564b46a4434386675a953740b26bb sha1 e0aab5852527ec1210e1c5ea7bb09d1858afcf78 )
+)
+
+game (
+	name acs-1
+	description "A Crimson Spring (Multi-OS)[R1.0.04-001206][text only][!]"
+	year 2000
+	manufacturer "Robb Sherwin"
+	sourcefile glk-hugo
+	rom ( name scourgdos.hex size 371811 crc 5168392a md5 8014286996f8fa0b602919778ade9e62 sha1 a0bedf600a9ae43cce533f463a6235d803351b1d )
+)
+
+game (
+	name adv350h
+	description "Adventure, Colossal Cave (Multi-OS)[350 point-Hugo][!]"
+	year 1997
+	manufacturer "Willie Crowther and Don Woods & Graham Nelson and David Baggett & Kent Tessman"
+	sourcefile glk-hugo
+	rom ( name colossal.hex size 124148 crc 486e8c72 md5 b50af0ba51b225f8b965aa8f54bfec18 sha1 b559d3fe7366786b0939053026dfd1cf56d69b4e )
+)
+
+game (
+	name annoyotron2
+	description "Aggravatron: Annoyotron 2 (Multi-OS)[v0.98b][!]"
+	year 2001
+	manufacturer "Ben Parrish"
+	sourcefile glk-hugo
+	rom ( name annoy2.hex size 66762 crc 0b5ac179 md5 ca25e6e9dbe7c0056cf0b4f520e267a8 sha1 6c908d94e29fb9cc9f3bca771f450d25178f2318 )
+)
+
+game (
+	name cb2
+	description "Clockwork Boy 2, The (Multi-OS)[R0.5-010313][!]"
+	year 2013
+	manufacturer "Roody Yogurt and Marius Müller"
+	sourcefile glk-hugo
+	rom ( name cb2.hex size 155732 crc c3e9037d md5 45f511fb19fe8b491096383041a52596 sha1 f7c1483ce2b24b8fde0f204760dc3adf153b73aa )
+)
+
+game (
+	name down
+	description "Down (Multi-OS)[R4-011400][!]"
+	year 2000
+	manufacturer "Kent Tessman"
+	sourcefile glk-hugo
+	rom ( name down.hex size 99561 crc 582e922e md5 e37e8faea03f0b081e7a1d4195109994 sha1 cbb0718660cf76a542d723c15b51f0834cd3f23c )
+)
+
+game (
+	name dragonhunt
+	description "Dragon Hunt (Multi-OS)[!]"
+	year 2001
+	manufacturer "Joachim Froholt"
+	sourcefile glk-hugo
+	rom ( name DMUSIC size 20920 crc 6c2704d9 md5 08c2a2c9551ca3d14e645bd05bbee795 sha1 81891c9232a341c5eed74e7671fb34d724c2d2b2 )
+	rom ( name dragon.hex size 68944 crc a2a145a4 md5 db5d9e13788c9bf8f0c8e4a02daff83a sha1 b1d33ab041b2b60ed5199bfd7ff978549cac81fa )
+)
+
+game (
+	name eastofeastwood
+	description "East of Eastwood (Multi-OS)[V1-100995][!]"
+	year 1995
+	manufacturer "Cardinal Teulbachs"
+	sourcefile glk-hugo
+	rom ( name EAST.H$$ size 12623 crc 3a7b4f60 md5 734d3de09e56ae060f341a8d2222f822 sha1 2475c14a8c0753e3cf5d61b973ed0d36a943ea6b )
+	rom ( name EAST.HEX size 42445 crc b07b710e md5 febb47a4ba4a76e160bfd18dd2fddd62 sha1 863f5c3792734bea6829f3f75ee3da5b21191382 )
+)
+
+game (
+	name fallacyofdawn
+	description "Fallacy of Dawn (Multi-OS)[R1.05-010930][!]"
+	year 2007
+	manufacturer "Robb Sherwin"
+	sourcefile glk-hugo
+	rom ( name dawn.hex size 729176 crc e6e518c7 md5 572e07430be19dcc03b5365d8a635770 sha1 4f598df6492862e43ab6cd293944e6d74f1ca3a9 )
+	rom ( name DAWN_GFX size 6189160 crc 5b98e62c md5 5f60cf5c133bee469b1540cad07be010 sha1 00a13f0a67bae43731ac26d0059edc1ccfc081bd )
+)
+
+game (
+	name futureboy
+	description "Future Boy! |Demo|(Multi-OS)[R1.01-091804][!]"
+	year 2004
+	manufacturer "Kent Tessman"
+	sourcefile glk-hugo
+	rom ( name FBDATAI1 size 3435287 crc 6d056425 md5 7feaf0fb7b4a6094743aa56fb1a9dc1e sha1 9f95faf82647a733e1f26f94fba680706ef7b947 )
+	rom ( name FBDATAM1 size 6314762 crc acee5df1 md5 4ead2820c316f29e0b89ee02a2d3f39b sha1 7b85f5ae80dfd1855a20a7e0411a10945b27c0b3 )
+	rom ( name FBDATAS1 size 2463042 crc 776be35c md5 8fdf0a1a354fe6618c5c8f50012ae876 sha1 c6a49692157551621fd392102d85c9a4c766850b )
+	rom ( name FBDATAUI size 715376 crc 6478c7b2 md5 622c6a7d8da29d231e32363024d5bb63 sha1 792b7bf8aa78a4280c2292840bdbd9fcb34adbbe )
+	rom ( name FBDATAV1 size 23167498 crc 6e6f6d33 md5 22c9d9876d2aded097983f7c9a1d4e38 sha1 371b020d9a807b12f9e170ffcb42e7d3c8fb6fad )
+	rom ( name FBRESCR0 size 786036 crc 4cb922d9 md5 dc17310d4269ae50cd739f26f386440e sha1 aa2e9a4791fd77db5fef35e9aa3acb639baeeba8 )
+	rom ( name FBRESEN0 size 498975 crc c49acd93 md5 cb2b3615fba3dd09311edd62aacee4f7 sha1 2e0eb73c99283ce4bbd7b6736463fb42d97a7f7d )
+	rom ( name FBRESFR0 size 7868686 crc 5a333879 md5 0766008a8e267d2373c6577e3c09b45a sha1 a6ec39ca854a661f544b0255fb6c1918bf0f21dd )
+	rom ( name FBRESNA0 size 2364230 crc 9cd31cb4 md5 1065f2f98a7d9470d7b39335170426f7 sha1 542b478371cb4151b9ae2aeb1b3e47c231cb789d )
+	rom ( name FBRESVA0 size 260115 crc 2960205d md5 9fd128b6c174b7e4b85e5d70406834d4 sha1 43fff4339ad2aa021fc1418e73e4bbe764013574 )
+	rom ( name future.hex size 827396 crc 38a4feaa md5 a07659a028628a89805c0fab90543a84 sha1 b029f72aef1d8707a251a70de5650fe6415ad471 )
+)
+
+game (
+	name guiltybastards
+	description "Guilty Bastards (Multi-OS)[R2.09-020900][!]"
+	year 2000
+	manufacturer "Kent Tessman"
+	sourcefile glk-hugo
+	rom ( name GBDATA size 1347431 crc 7bd0a5fa md5 798bcd613956c161e3dfcc8f2ee6150f sha1 7ea2ff35660b95c2ee36a2afd9c210b5495b3673 )
+	rom ( name GBMUSIC size 5237308 crc 647ebe19 md5 9419fc0a6b80c6a030fc37427056737b sha1 49fd78dab54ae394fdd98555ffd724fcbdf3e69b )
+	rom ( name guilty.hex size 246971 crc 423ecd0d md5 71bccdcab8cd284ce171b68c5b3a1514 sha1 05b44828ddd599231f0465e9f8d4cbb57a9bfe18 )
+)
+
+game (
+	name guiltybastards-1
+	description "Guilty Bastards (Multi-OS)[R2.09-020900][text only][!]"
+	year 2000
+	manufacturer "Kent Tessman"
+	sourcefile glk-hugo
+	rom ( name guilty.hex size 246971 crc 423ecd0d md5 71bccdcab8cd284ce171b68c5b3a1514 sha1 05b44828ddd599231f0465e9f8d4cbb57a9bfe18 )
+)
+
+game (
+	name halloweenhorror1
+	description "Halloween Horror, The: Part 1 (Multi-OS)[R1][!]"
+	year 2012
+	manufacturer "Roody Yogurt"
+	sourcefile glk-hugo
+	rom ( name horrorpartI.hex size 68923 crc ae1856e4 md5 4d132d3d0cb0010576b4bb92bac28dde sha1 193eb8d160946ab97b7f7da638422299be785f9a )
+)
+
+game (
+	name halloweenhorror2
+	description "Halloween Horror, The: Part 2 (Multi-OS)[R1][!]"
+	year 2012
+	manufacturer "Roody Yogurt"
+	sourcefile glk-hugo
+	rom ( name horrorpartII.hex size 55574 crc e6a2b6ac md5 ec0f267aeb718ad0b2cbacaf0a347a44 sha1 e6b5fb31dc39c576b8848a1bf702ccc7fefd38c4 )
+)
+
+game (
+	name hammurabi
+	description "Hammurabi (Multi-OS)[R1.01-021001][!]"
+	year 2002
+	manufacturer "Robb Sherwin"
+	sourcefile glk-hugo
+	rom ( name hammurabi.hex size 46905 crc 779edecd md5 55656638fee410ff34ff3fe5e0783a3f sha1 9cf4840abd29f0dbfb81da5c1b2a36f10244d8ae )
+)
+
+game (
+	name htgessay
+	description "Hauning the Ghosts (Multi-OS)[R0.9d][!]"
+	year 1998
+	manufacturer "Jason Peter Brown"
+	sourcefile glk-hugo
+	rom ( name htgessay.hex size 142921 crc d50fa64b md5 616d299a7ffd063f156c2f5f2be492cc sha1 5c29f07096984489c17c64b9bcc1d2443ffcf6b9 )
+	rom ( name htgpics size 79724 crc 5b7b9b3a md5 3e375fe863c1159ddddf49544b54c5e5 sha1 12889c00bcd5dedfa0ae00da78300622a35faced )
+)
+
+game (
+	name hugoclock
+	description "Hugo Clock, The (Multi-OS)[v2][!]"
+	year 2012
+	manufacturer "Jason McWright"
+	sourcefile glk-hugo
+	rom ( name clock.hex size 120887 crc ca81fc88 md5 6c2271234ebbe594adb85523a0ff6bb5 sha1 7ecb3a39a08274e4cb97959306bfd95fc69a916a )
+)
+
+game (
+	name hugozork
+	description "Hugo Zork I: The Great Underground Empire (Multi-OS)[R1-beta][!]"
+	year 1999
+	manufacturer "John Menichelli & Kent Tessman"
+	sourcefile glk-hugo
+	rom ( name hugozork.hex size 172150 crc dfbfd2e1 md5 127cbf1ec31cf905896b1eac59b0a197 sha1 149021da6c45ab0aef4aaf8d5bbd590eaa1b3664 )
+)
+
+game (
+	name ish
+	description "Escape from Ice Station Hippo (Multi-OS)[v1.3][!]"
+	year 2012
+	manufacturer "Jason McWright"
+	sourcefile glk-hugo
+	rom ( name ISH.hex size 113958 crc c526373b md5 fcf9a46bdd41c64afaa6a84ba36d3994 sha1 01407df1d5b0bf2680d042b100fe55b9f08e3e4f )
+)
+
+game (
+	name ndrift
+	description "Necrotic Drift (Multi-OS)[v1.03][!]"
+	year 2015
+	manufacturer "Robb Sherwin"
+	sourcefile glk-hugo
+	rom ( name MALL size 7741524 crc 82e23865 md5 c9b2a0cca692a5d1dc1839f34bf4f466 sha1 363243f042509e090305ad97481068c2c879b30d )
+	rom ( name NDMUSIC size 32428390 crc 0b875071 md5 f237e66a0a25c89e2118278bdea74bbb sha1 153bb8c3f12ab740104c599961754bb8e6811387 )
+	rom ( name ndrift.hex size 556591 crc 9712d332 md5 7272292461d73e3f8aae0cb6f7da3a4e sha1 c6b914e3068ddae4d1fa29acc5dcb290f848feb9 )
+)
+
+game (
+	name nextday
+	description "Next Day, The (Multi-OS)[R1-130109][!]"
+	year 2013
+	manufacturer "Jonathan Blask"
+	sourcefile glk-hugo
+	rom ( name NDMEDIA size 259251 crc cd7dfa2f md5 0cb4c5f8ab6b0049cca1d6a18f5435ef sha1 029063269e9e8a9cfd501417bb5c4d1d6637a7a4 )
+	rom ( name nextday.hex size 136844 crc 67661d87 md5 09c83b441ffa2fa4168b15d5d4b13277 sha1 c741d833762d253a1391b91b6d9fce9f99a91dbe )
+)
+
+game (
+	name nmnl
+	description "Nothing More, Nothing Less (Multi-OS)[v1.21][!]"
+	year 2001
+	manufacturer "Gilles Duchesne"
+	sourcefile glk-hugo
+	rom ( name NMNL.hex size 171732 crc bb7c313f md5 e5621d7bd0cedfe423a6ce2d447aad7e sha1 c4b4d226daf422cdbeb70200c0d570286baa9905 )
+)
+
+game (
+	name partyarty
+	description "Party Arty, Man of La Munchies (Multi-OS)[R2-120111][!]"
+	year 2012
+	manufacturer "Roody Yogurt"
+	sourcefile glk-hugo
+	rom ( name party.hex size 86845 crc 8fbe8265 md5 dc455e5af4b39e4b22032330a5c598b0 sha1 8a0e3cc16e8a643c132fd3bf6e46f39375babd00 )
+)
+
+game (
+	name pantomime
+	description "Pantomime (Multi-OS)[R1.02-060426][!]"
+	year 2006
+	manufacturer "Robb Sherwin"
+	sourcefile glk-hugo
+	rom ( name pmime.hex size 248466 crc c67bcf3f md5 22f7a26725590fd3e6060d043859d1f8 sha1 35b95b43688ec52a8108a8eeb4804647251a4c98 )
+)
+
+game (
+	name paxless
+	description "PAXLess: A Quest to the IF Suite (Multi-OS)[!]"
+	year 2010
+	manufacturer "Royce 'Garynar' Odle"
+	sourcefile glk-hugo
+	rom ( name paxless.hex size 61973 crc 0e1b7e2c md5 665e52fdfbe717b67a54834bcaab9ede sha1 aece8775041ccad5aa9a87578be50d4c602bdeef )
+)
+
+game (
+	name pirateadv
+	description "Scott Adams Adventure 02: Pirate Adventure (Multi-OS)[Hugo-v1.1.0][!]"
+	year 1997
+	manufacturer "Scott and Alexis Adams & Julian Arnold"
+	sourcefile glk-hugo
+	rom ( name pirate.hex size 53915 crc 993faf55 md5 3ba4d5540ba14d8f12aa5a07c7909e83 sha1 133744f21a5834687caedef3af98982092966873 )
+)
+
+game (
+	name pom
+	description "Persistence of Memory (Multi-OS)[R2-990215][!]"
+	year 1999
+	manufacturer "Jason Dyer"
+	sourcefile glk-hugo
+	rom ( name memory.hex size 95577 crc d3078b48 md5 a1785cd2ef3f887fd1a4ce67133915e1 sha1 688b2e1e8ab4db75d38ad96f20b3cef3181d6374 )
+)
+
+game (
+	name renga
+	description "Renga in Four Parts (Multi-OS)[R1-040714][!]"
+	year 2014
+	manufacturer "Jason Dyer"
+	sourcefile glk-hugo
+	rom ( name renga.hex size 64373 crc aadfef7e md5 1659703d727262d62cc7179809d9eb87 sha1 c97c0a8f85e65463291bbd3ed42a9b4a0cc8e5d0 )
+)
+
+game (
+	name retronemesis
+	description "Retro-Nemesis (Multi-OS)[v1.01][!]"
+	year 2013
+	manufacturer "Robb Sherwin"
+	sourcefile glk-hugo
+	rom ( name retro-nemesis.hex size 101526 crc e20b7cdc md5 e30667af6a2e7607aea29fb6d90bb588 sha1 c36c60cd24a2366065ee5e3313f1545b07d5c86a )
+	rom ( name RNMUS size 24399286 crc 08c13fbf md5 e5901903885873a1660fa4725ab11adc sha1 81c5a7d5a6a585f22395d485d3a33dc203a97a2c )
+)
+
+game (
+	name scavhunt
+	description "Scavenger Hunt (Multi-OS)[v0.7][!]"
+	year 2002
+	manufacturer "Gilles Duchesne"
+	sourcefile glk-hugo
+	rom ( name ScavHunt.hex size 129514 crc 3df0171b md5 7ff66f3ffb2991a0eafac44240da2e28 sha1 2b5919a09e227f60d2e29393601d29449cf99b04 )
+)
+
+game (
+	name spinning
+	description "Spinning (Multi-OS)[!]"
+	year 2013
+	manufacturer "Rob O'Hara"
+	sourcefile glk-hugo
+	rom ( name spinning.hex size 99140 crc 4daaff50 md5 469d3c1c2c44e4f5ff98ee502a0bca42 sha1 f70fb8cd89c0652af339ea94a9ce11a72ee208f2 )
+)
+
+game (
+	name spur
+	description "Spur: A Western Misadventure (Multi-OS)[R9][!]"
+	year 1999
+	manufacturer "Kent Tessman"
+	sourcefile glk-hugo
+	rom ( name spur.hex size 185338 crc 34f93c76 md5 3bf01b040605226e2ea8d24709b49f04 sha1 2488fb43d8340d6cbf1f82b1243c1cbf88dd639f )
+)
+
+game (
+	name squest
+	description "SceptreQuest: The Quest for the Sceptre (Multi-OS)[101095][!]"
+	year 1995
+	manufacturer "Sean Givan & Cardinal Teulbachs"
+	sourcefile glk-hugo
+	rom ( name SQUEST.H$$ size 15245 crc b6e3f0ea md5 7b0d055e51ae85dfdc33e53f84ad12e4 sha1 3447a1272277e8f30d1ded4cbbee651d2c325916 )
+	rom ( name SQUEST.HEX size 36322 crc ad17c811 md5 1c9dee681fe617c494f21ba3d0a059c4 sha1 8af64ddd08e3d569cfd42af578455d438d715ac8 )
+)
+
+game (
+	name teleporttest
+	description "Teleport Test (Multi-OS)[R0.5][!]"
+	year 2012
+	manufacturer "Paul Robinson"
+	sourcefile glk-hugo
+	rom ( name "Air Leak.wav" size 451756 crc 3415cc09 md5 40ef72d07ddf0a5ae2cfb4d3afa543ce sha1 46a8895eff34c725b6b6be672ef1c5491066fbc4 )
+	rom ( name boom.wav size 423980 crc eadd8b21 md5 7626b2c7b8fc19bf6bdd2a06d8c913e0 sha1 1406e97abb32d021c31d47639690d590359698d8 )
+	rom ( name "Shut down.wav" size 725716 crc c8098673 md5 1928f3a32113616147c84966e2c22a27 sha1 cd6b4fac0e56852660005f2c21237ab49c3d448d )
+	rom ( name "start up.wav" size 565180 crc ba85539b md5 5f6dd7f7b7c7c21a32a4d891112d4351 sha1 677b694eac2298020e6d81dce13dff76a629a920 )
+	rom ( name teleport.hex size 100723 crc e3172b87 md5 9aa729b1aac4ef920f0bdfdfd6d28bc6 sha1 9e6836c634e6696f1ef78dc8697a877c8e2f2003 )
+)
+
+game (
+	name tetrish
+	description "Tetris for Hugo {Freefall}(Multi-OS)[!]"
+	year 1998
+	manufacturer "Andrew Plotkin & Kent Tessman"
+	sourcefile glk-hugo
+	rom ( name TETRIS.HEX size 6464 crc 53869481 md5 b7e0bbc3ff87bc1d718d341eef1894b2 sha1 0a737a265cde751179b1fe764e8d78219132dd94 )
+	rom ( name TETRIS1 size 263861 crc 68cb6cdb md5 ffff5e3ea7ecb98c2b51de51979a3cb9 sha1 27337ef163e4a1f8b02a159371c8d03ac404f895 )
+)
+
+game (
+	name tradingpunches
+	description "Convergence Saga, Part 1: Trading Punches (Multi-OS)[v1.9][!]"
+	year 2006
+	manufacturer "Sidney Merk"
+	sourcefile glk-hugo
+	rom ( name TRADGFX size 2832041 crc 8af037f3 md5 fd7c1bced05e01d84ae957df2d64eac1 sha1 9c71f00043fb5e5ef78d9fdb31c5edc813afef01 )
+	rom ( name trading.hex size 315934 crc 382dd084 md5 0391cc1bc3dc3cc7556ad7c0eed2fd40 sha1 34b435884fa0b6b47c93de9ce339835239056fe3 )
+	rom ( name TRADMUS size 9018130 crc 72ce0e67 md5 efc3a7447c247d55147bf6d4358198ce sha1 37b6bb2255ce247215a4aea0ca7afaa59aa367e4 )
+)
+
+game (
+	name tripkey
+	description "Paul Robinson's 'Tripkey' (Multi-OS)[v0.35-121011][!]"
+	year 2012
+	manufacturer "Paul Robinson"
+	sourcefile glk-hugo
+	rom ( name tripkey.hex size 188058 crc b4d5c4fd md5 f8942235750dbdff86e8a82c152456df sha1 1096e0149b24e563e65a612059a6c391c1644069 )
+)
+
+game (
+	name wfte
+	description "Waiting for the End (Multi-OS)[v3][!]"
+	year 2013
+	manufacturer "Paul Lee"
+	sourcefile glk-hugo
+	rom ( name waiting.hex size 73099 crc 4922b233 md5 4cc322da7b7d7ab53442c3b7cf751af1 sha1 5e82af48a533a274c3746f6005e99ad6c0db9e78 )
+)
+
+game (
+	name worldbuilder
+	description "World Builder (Multi-OS)[R2-120111][!]"
+	year 2012
+	manufacturer "Paul Lee"
+	sourcefile glk-hugo
+	rom ( name worldbuilder.hex size 90382 crc b4fbf975 md5 00a7186b1affa6c466ec26397b835cb5 sha1 0af33c099eaa0e87d4a027821f50d5940844ca5b )
+)
+

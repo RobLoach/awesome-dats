@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Demos - [ISO]</name>
+		<description>Sega Dreamcast - Demos - [ISO] (TOSEC-v2024-03-26)</description>
+		<category>TOSEC-ISO</category>
+		<version>2024-03-26</version>
+		<author>Maddog</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h Megavolt85][version 3, works on console]">
+		<description>Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h Megavolt85][version 3, works on console]</description>
+		<rom name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h Megavolt85][version 3, works on console].gdi" size="113" crc="3a15f95b" md5="c527f1ec937b56caa65084d436f8c0a0" sha1="59d06a3411be8a77cd3643f6ed8b4b6d2acc96c0"/>
+		<rom name="track01.iso" size="2509824" crc="199f975a" md5="f06e1b6d276455216a79bb466ed35bcf" sha1="9095c65e49261f72f34abb4339edf850455842b8"/>
+		<rom name="track02.raw" size="1237152" crc="bc56e241" md5="03c796f60db2e9ef0b65a42a47a9d321" sha1="1bc5d3822f954a634e1f39584f98da42784e914e"/>
+		<rom name="track03.iso" size="26959872" crc="e575d8bc" md5="17115809301d5b78dfa002f45202486d" sha1="1d11b5fb5aa323a2106ded9546a0b54d77d479cb"/>
+		<rom name="track04.iso" size="1376256" crc="b4ba3571" md5="875862d7cac0552612a9c2942f8282cd" sha1="7f4248766e9767d592ef7112c6521d2f8d653ea0"/>
+	</game>
+</datafile>
+

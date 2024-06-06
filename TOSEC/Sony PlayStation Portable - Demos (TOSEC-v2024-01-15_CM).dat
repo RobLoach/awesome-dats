@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation Portable - Demos</name>
+		<description>Sony PlayStation Portable - Demos (TOSEC-v2024-01-15)</description>
+		<category>TOSEC-ISO</category>
+		<version>2024-01-15</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Anataus 4 (2008)(Fit - Marq)">
+		<description>Anataus 4 (2008)(Fit - Marq)</description>
+		<rom name="Anataus 4 (2008)(Fit - Marq).pbp" size="2240555" crc="4dde5802" md5="d33615db31cee2d2f34d254951fe618b" sha1="4e5148116a1440bac59a8f7f5949becb2e8fe019"/>
+	</game>
+</datafile>

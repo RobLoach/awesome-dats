@@ -1,0 +1,576 @@
+clrmamepro (
+	name "ScummVM ASYLUM"
+	description "ScummVM - ASYLUM Engine Games"
+	category "ScummVM"
+	version v1.02
+	date 2022-01-17
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name asylum
+	description "Sanitarium (Windows)[v1.01][!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxenres
+	rom ( name RES.000 size 272057 crc a4f86b73 md5 4d13f1412f9e7dd3eaf0a58f0e00e662 sha1 efbf72756fd539a1ac74cd0b0e6089b50c881fb4 )
+	rom ( name RES.002 size 13733398 crc 60c5dcc3 md5 2f5556b7ca334487aa9bdc47150eb135 sha1 5bc8129ec6a61bb1c8a53a3d75d4fc86bc4ce3c7 )
+	rom ( name RES.104 size 112145366 crc 4291e89d md5 3aca007ea7793e220acfe5dc51b23fe6 sha1 9080fa4aa56ad35823d8aa0b9a72130f38ba1e58 )
+	rom ( name RES.204 size 119791856 crc fa90b25f md5 bbb723988e222a17f9353b1dfaf026ff sha1 d8a89568cb6b260b712452162c217bfa055f3754 )
+	rom ( name RES.304 size 67954752 crc c1c39a37 md5 6fd02ad70f3bd87739a46c9046321976 sha1 458842b7aa94deaccb46806de0bc6f4969163059 )
+	rom ( name SCN.006 size 2918330 crc cb68a806 md5 3a5b54da08198012dc0614114782d5fb sha1 00c088297400e54554e5c38b9233ef284e51ebdb )
+)
+
+game (
+	name asylum-1
+	description "Sanitarium (Windows)[v1.00]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxenres
+	rom ( name RES.000 size 272057 crc a4f86b73 md5 4d13f1412f9e7dd3eaf0a58f0e00e662 sha1 efbf72756fd539a1ac74cd0b0e6089b50c881fb4 )
+	rom ( name RES.002 size 13733398 crc 60c5dcc3 md5 2f5556b7ca334487aa9bdc47150eb135 sha1 5bc8129ec6a61bb1c8a53a3d75d4fc86bc4ce3c7 )
+	rom ( name RES.104 size 112145366 crc 4291e89d md5 3aca007ea7793e220acfe5dc51b23fe6 sha1 9080fa4aa56ad35823d8aa0b9a72130f38ba1e58 )
+	rom ( name RES.204 size 119791856 crc fa90b25f md5 bbb723988e222a17f9353b1dfaf026ff sha1 d8a89568cb6b260b712452162c217bfa055f3754 )
+	rom ( name RES.304 size 67954752 crc c1c39a37 md5 6fd02ad70f3bd87739a46c9046321976 sha1 458842b7aa94deaccb46806de0bc6f4969163059 )
+	rom ( name SCN.006 size 2918330 crc 7510a2b5 md5 71a5f49cbda597a11e877589075e27b5 sha1 41c38cb836209b611400571d92efc0454769170d )
+)
+
+game (
+	name asylum-2
+	description "Sanitarium (Windows)[Steam]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxstaemres
+	rom ( name RES.000 size 272057 crc 6a5fe5b3 md5 f58f8dc3e63663f174977d359e11132c sha1 82e7e701b8c03368ff936119dffa91c79dbf4abc )
+	rom ( name SCN.006 size 2918330 crc cb68a806 md5 3a5b54da08198012dc0614114782d5fb sha1 00c088297400e54554e5c38b9233ef284e51ebdb )
+	rom ( name SNTRM.DAT size 8930 crc 1e456723 md5 7cfcc457c1f579fbf9878ac175d29374 sha1 3e05188810f4e54c5340d696f5f066fd89e8df81 )
+	rom ( name Vids\MOV000_2_SMK.ogv size 6569244 crc 05b1f0ac md5 e078220e12e431d767b0a5467db9e70e sha1 40967e27d56b81077b233ca1bb1a335b6aba0528 )
+)
+
+game (
+	name asylum-de
+	description "Sanitarium (Windows/German)[!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxres
+	rom ( name RES.000 size 285660 crc d183a0cf md5 058ea2fca583c27a8e3d7ccc16a9a3bd sha1 3cdf13314231769f374e578f4bd9b57f386897ba )
+	rom ( name RES.001 size 16927718 crc 8c8fd8d8 md5 2771ed34c2c3203be93e75f52f53e1ee sha1 9a19d5fdbfcc3478292fd5b9c761a12e56849b15 )
+	rom ( name RES.002 size 13733398 crc 60c5dcc3 md5 2f5556b7ca334487aa9bdc47150eb135 sha1 5bc8129ec6a61bb1c8a53a3d75d4fc86bc4ce3c7 )
+	rom ( name RES.003 size 36512026 crc 998ee87a md5 b8cb83123e325bffec00f4e3c97ea608 sha1 56173d561a2a87e28c9d15b502e0c188ad17ecc2 )
+	rom ( name RES.005 size 17976468 crc 5ec3fb43 md5 a41fc59b9e670d2ad2b328f7fd23525d sha1 7a7063d6c803cab3019042cb05ccc13fb0934eba )
+	rom ( name RES.006 size 42980096 crc c0a8940e md5 843b215d07000486d2b538f96e39d8aa sha1 6985532afbf777c76053a2ec906ea17c576afe4f )
+	rom ( name RES.007 size 28917952 crc a66d0159 md5 c89beb0e49175d05765d4951b6a0e783 sha1 7c48ae2a82e0511297dbc80f3f47435d9c5970f7 )
+	rom ( name RES.008 size 40323111 crc c9239e59 md5 6ee4e4aaee7e4549f863d979c1270628 sha1 8599a6a156a43b4601b977e7a898da4570b19c1e )
+	rom ( name RES.009 size 20451199 crc 63ea443a md5 9041ebc382bc00bf9ee9370f7c4674c0 sha1 2836d1a463cce6ff82a968c8f59c8591408aaeb2 )
+	rom ( name RES.010 size 52350586 crc 1a242261 md5 7fd53dcebc328f7e1806fcc55cee6a7b sha1 aaa3952492a2b58fa0efea42756014954dfec2a8 )
+	rom ( name RES.011 size 36571970 crc bc28a451 md5 de9eecab9b3578ebc199beeb9fa3d00d sha1 5706f596f56bbe86be48a932c1e234fc346036d4 )
+	rom ( name RES.012 size 43944491 crc a218c482 md5 22e16f27a4ebd3f3ae43cbd42020e5fa sha1 5c84f75f984b25212591952bca0f39002ebb2514 )
+	rom ( name RES.013 size 48004690 crc ba3b97e9 md5 9ae1cc6c67b1c8765cef1452a40bd6fd sha1 716d6a0742ceec220d9556f6e3a18cf32c2aa5fe )
+	rom ( name RES.014 size 29331511 crc bdb4db55 md5 8029c5a2dd8dc40c5a85bd52618bfb85 sha1 ea94025f0261565cfc31c83bd4c824ef1b52765c )
+	rom ( name RES.015 size 21144090 crc 6550f652 md5 da40e06970475f91de57312b37d4d89d sha1 be422116bd587fed2f5501015c0666266a62fe29 )
+	rom ( name RES.016 size 19565161 crc 0c3a70b6 md5 a46faabfa65aa6c364fa2f28aa88fbe4 sha1 4b5717625a1333c620acd2a2067410427b67ea74 )
+	rom ( name RES.017 size 17707459 crc faa0d6c5 md5 9c67a6a41a754b93b83acbc280044667 sha1 a15fd38278d146fad02fd2e96eccaad9c23c5585 )
+	rom ( name RES.018 size 2142645 crc 480480fb md5 750df698e62bdb7552c212806e92cc9e sha1 fdf562b0f03ede1be9e3bf6ea676bd6015a9e845 )
+	rom ( name RES.104 size 110171814 crc 636e17bf md5 a1f580fe6eb7efd2764505c5473aa2ad sha1 80cbf465b4acf79ff2d9abc351f4d80363e40dc2 )
+	rom ( name RES.204 size 117637058 crc ecb69522 md5 f13c1089de54b4186dc880bea9e9b595 sha1 dec11c9bc2aad1cc0a3e3c886976af7c5a79f207 )
+	rom ( name RES.304 size 79237864 crc 86374ccf md5 820a414191d1f78a62c17dbed48ec588 sha1 71b7026ece55051cb05600a960c6cfca46d703b9 )
+	rom ( name SCN.017 size 1300370 crc 4c293653 md5 4b1ce6578160f463f06609158d3012d5 sha1 4726cad5ff623e426bd8446d1f2539fedc93a785 )
+	rom ( name SNTRM.DAT size 8930 crc 25d3f65f md5 f427fda37a0e29afd4acf982c4cb9fb0 sha1 b02e83deb52b4068e137528177e89f9689d61411 )
+	rom ( name vids.cap size 2547 crc c850e882 md5 beb30170dccd488e4bb1ab015df9cc97 sha1 8154a26656c36608c89832aee08a1b8da936ad91 )
+	rom ( name Vids\mov000.smk size 11107808 crc 24cada38 md5 97adfc2c58eab038291a565cd93d3132 sha1 3de9eba415441e7ebaea45250070719b4c9e4c13 )
+	rom ( name Vids\Mov001.smk size 18542016 crc 22e5f415 md5 5cc87d6798a5d5a81b8fa98d1595381b sha1 e5c31e7a0ecba2431abe9b2bf45f1b49b2df1280 )
+	rom ( name Vids\Mov002.smk size 22944824 crc 9696e51f md5 7ab467f457ca34799c64ac81d0ea223c sha1 f76c3517115bf9f0b17b4554539ca34d8f5869d7 )
+	rom ( name Vids\mov003.smk size 31526256 crc 0c07673c md5 da457ca9811e7cbc644d96c68dee955d sha1 f46c2de04901aeda9a2a4858e240d3d64dce95be )
+	rom ( name Vids\Mov004.smk size 5751020 crc c154ff71 md5 970c0b5ec1cba99faec12f3dbd73852a sha1 05bd5687b91c39d78bb50d4d4d23e94aa273099e )
+	rom ( name Vids\Mov005.smk size 4523804 crc 7e6a60d7 md5 c4a2c8493d8a76f51305e50d27286f1d sha1 92934c31c05376c4066d70431144c337485468a6 )
+	rom ( name Vids\Mov006.smk size 10983292 crc 41a7bae4 md5 87febe870ef05a718e412643d5a7b257 sha1 47c7ac2c449053b90c29a73c8abec95d210f377f )
+	rom ( name Vids\Mov009.smk size 9386424 crc 5e79c891 md5 889f30cee5c2c065f3db97c2022286a3 sha1 97fa1b3e5bef21d92dd95f16e2ae4f31165d5fd6 )
+	rom ( name Vids\Mov012.smk size 5556308 crc 188467f5 md5 373fc65ae191fa6ff908cd3fe1c83d61 sha1 718708c9df15324f10d2ec88c71ae4daa64cf433 )
+	rom ( name Vids\Mov013.smk size 8004560 crc 72dac6e6 md5 206c483474b394758fa2f7e464c81b10 sha1 c4a95b7af3d3d56b169b060c13d05f48706e6e9f )
+	rom ( name Vids\Mov016.smk size 51564860 crc faa91e85 md5 8743465ce5b6ca5bc0848789aa8ed1bf sha1 49e27a00e403b02d49b3750fd43843bca108c200 )
+	rom ( name Vids\Mov019.smk size 4900384 crc 6105fa53 md5 f27775eb08c4951788ae30a4eb243787 sha1 30dad26435e423e8e2731fc401676f6589bc59f9 )
+	rom ( name Vids\Mov020.smk size 10069360 crc 9b2aea4f md5 ff94fe898f6530655b45ca2c76560931 sha1 f58cb6a116b5446e4af12628a758e2e81f1ae687 )
+	rom ( name Vids\Mov021.smk size 5381076 crc b402890e md5 182477a206b665c2fea1173b05a1a5be sha1 717921aedaa874a104bf9013fd18a3fd1c427b45 )
+	rom ( name Vids\Mov022.smk size 16653196 crc 2253b6a7 md5 915afa65a3135859e24fefa75d1445dc sha1 7619f27b3e4d8fb2e7e9ff7595dcb2800bfab1a4 )
+	rom ( name Vids\Mov023.smk size 10960864 crc 4154129b md5 3f8158a3c700d065e9d3e50ed73f7675 sha1 fbd847b365c7d04be566b0bb6d85d6e9029d81d6 )
+	rom ( name Vids\Mov025.smk size 17365028 crc 6ec4e581 md5 b21718c92feaea62d0af241f696a0633 sha1 89ffc61be53d2c52a8287b6634c6e7573c582215 )
+	rom ( name Vids\Mov026.smk size 32437260 crc e352add3 md5 16f81d4a65977b840fa13ceab99a96c3 sha1 bb6a6dafe912cf76e66327a596b58dc8a3cffc2e )
+	rom ( name Vids\Mov027.smk size 21360528 crc 63085050 md5 1a49054ddcdd0df6bedb90692246df9d sha1 8e4c11f520d909034eecb608e5f6ba0fd6de5f83 )
+	rom ( name Vids\Mov028.smk size 37642464 crc fd763018 md5 c2977457100fb060849839831903e684 sha1 a941f276dcc3cf502a37907ba273285c7ddc0443 )
+	rom ( name Vids\mov029.smk size 37725604 crc c7c5f0df md5 f562b0f8cfce0fb9fc2444a8c3ba5253 sha1 b0952f93f9631b2ea37cc696f3feec3388d9e2d6 )
+	rom ( name Vids\Mov033.smk size 15811916 crc 3dfda4b2 md5 6b0ae4588f1db49b6fd17b29c6d3179d sha1 54e5431f64379d9dbbd3b4aab1da19fc09f7499f )
+	rom ( name Vids\Mov034.smk size 28267220 crc 78f5efb9 md5 4dee989bfd1aa1433f5c5b70f940fa52 sha1 1d60fcfce0f5050c68d29edde17911852d39bcae )
+	rom ( name Vids\Mov035.smk size 25732688 crc 401e6ffe md5 e6ddf023b21067454b12286a4e59b939 sha1 4224f3b257bcbc8e2c824b70789f6dcd7a7a2e02 )
+	rom ( name Vids\Mov036.smk size 4907992 crc 22e257d1 md5 1432dbf773c571dc2410102fb94b8795 sha1 4c2117c65a370b20fb87fea7427b22c0f1686bf7 )
+	rom ( name Vids\Mov037.smk size 9156876 crc ee7c4ac1 md5 7bd02f875882cfb5728b07ac30a7520f sha1 3b75e4e585d049746264e28622ab98de59a8c39c )
+	rom ( name Vids\Mov039.smk size 55838120 crc 0603239e md5 0fe7bd2d5867fac86d640e3a3382022d sha1 1bde115816b69e2ff7da5854d7a555c30390c643 )
+	rom ( name Vids\Mov041.smk size 13401944 crc dc6f3c04 md5 fd9edbea22c9fdafe0951e2fa5f73c01 sha1 3a869a011dcf94aacf7d5998a63b624b252b4603 )
+	rom ( name Vids\Mov042.smk size 10362876 crc 780718bd md5 fcfc444b638170b3e37423155f01d32e sha1 818542d0e53c04aac2207bdf687a95dbbe7aeca1 )
+	rom ( name Vids\Mov043.smk size 68269752 crc 308181eb md5 65013760549510f261986de32bd8cad5 sha1 9f865c206f5f189168879d29bec5da051c0ef168 )
+	rom ( name Vids\Mov044.smk size 78158232 crc 27506d7f md5 3792cf2c847928a837c612f1d4965031 sha1 3b0032afa41891ee7be347ff3318c7f5ecb386ed )
+	rom ( name Vids\Mov045.smk size 30513192 crc f9cc309d md5 6007258fafe391507d031780d26597e2 sha1 dfec3e1628825cf8f6c7c555903622bdb8f35d59 )
+	rom ( name Vids\Mov046.smk size 29916836 crc 608ef4ba md5 7b834c0cbe7f314c0f28d08df4571937 sha1 16abca68d02536a26026319ccdf24502e68e5ac4 )
+	rom ( name Vids\Mov048.smk size 8594864 crc 758ce5d6 md5 71a52997af71467faaabe080a47fd26d sha1 e0060adff1371d6cf99db42d7e6301ecc2c4307d )
+)
+
+game (
+	name asylum-demo
+	description "Sanitarium |Demo|(Windows)[!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	rom ( name RES.000 size 9022 crc 86c5d485 md5 57446ce089c6f9decb7f3faf41d09edf sha1 e4d1f2a7b2ecbaf4924eb547fc645dacbdc9ab4e )
+	rom ( name RES.001 size 827908 crc eeb71d72 md5 1fb068de4bbb3f57528b3fad54d47a05 sha1 e0f36a4fbdfd58d400f445e4b9f39469e7b4164f )
+	rom ( name RES.002 size 3971192 crc bdf73ebd md5 4e347fcff615a9ce08bde2e1427ddecb sha1 327e7058e760142049063d758ba726c07d26cb38 )
+	rom ( name RES.004 size 6976230 crc cfd58b67 md5 c2dbb7fadaaf8c10c192add8890e588f sha1 22d073bf5f573f8a8c1254625c38cccf54a8237d )
+	rom ( name RES.005 size 18060726 crc 581d4664 md5 e9ed6c250ddb28482fd20a900ca003c8 sha1 f751b4d0cdee131d4d4e2e0898a7fbcad632080c )
+	rom ( name SCN.005 size 566582 crc b7e56760 md5 7f412e0e4abfd7322d4f10a963aad8c8 sha1 d0b7585700a585093cbeb51e34c977761df04ea5 )
+	rom ( name SNTRM.DAT size 326 crc 477efbe8 md5 6a8079e0b49affc99d148624fbb584a1 sha1 676ab8cb246936634e9b1c36baf02adf569739b1 )
+	rom ( name Vids\MOV000.SMK size 1868840 crc fe8db481 md5 1d89df0d49d4ec2d5346e6d3f4fcf6ef sha1 f318db2a550744eca04a8495735a4eb828232760 )
+	rom ( name Vids\MOV001.SMK size 16339172 crc 8fbfd8e0 md5 cbedb1755de2498fe2504524137db25c sha1 40bb000f2832da4e5fb0e0539dca838e741ef8a3 )
+	rom ( name Vids\MOV002.SMK size 11589004 crc 594344fb md5 e1358c269bba482b77f6b552c3f36667 sha1 ece1c87f2283e6a41fc9b477f68023b7ffd5c644 )
+	rom ( name Vids\MOV003.SMK size 19371032 crc cacdd7c7 md5 77d87e1c5e5139f10ff31653f2ca7ce4 sha1 0f22f68177eaddea257690b56e700edc7e9591fb )
+)
+
+game (
+	name asylum-demo-1
+	description "Sanitarium |Demo|(Windows)[PC Gamer][!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	rom ( name ASYLUM.DAT size 326 crc 477efbe8 md5 6a8079e0b49affc99d148624fbb584a1 sha1 676ab8cb246936634e9b1c36baf02adf569739b1 )
+	rom ( name RES.000 size 9012 crc a68db956 md5 a527449397576a019cdd4884a96403e2 sha1 a356dfda89d1d9a753834e560d104cd87af1f376 )
+	rom ( name RES.001 size 827908 crc eeb71d72 md5 1fb068de4bbb3f57528b3fad54d47a05 sha1 e0f36a4fbdfd58d400f445e4b9f39469e7b4164f )
+	rom ( name RES.002 size 7942246 crc 023598e1 md5 8e7418e74e9999555c767b440f6c5c9e sha1 d21292c198c9c2fade432bb59a6a11701554b13a )
+	rom ( name RES.004 size 16510194 crc 05f15741 md5 82f7a4b5be6d381fd69de4947e5332ff sha1 1b2ca12b8f7c750068bbf64cd6d3fc1cbbf16a43 )
+	rom ( name RES.005 size 18105164 crc 9fd8fb7b md5 0b4ad33324f5b6d75134fcfb9e6e0d41 sha1 d80f43093461b4afb6bab66131df8111b96b8428 )
+	rom ( name SCN.005 size 566582 crc 2e352642 md5 9b67a5423db689b053cce41b353c5073 sha1 d46eb6c9826821873a29c1b2709e23e8f7b5f6b2 )
+	rom ( name Vids\MOV001.AVI size 17816660 crc 4d6d13e8 md5 8851ef14900719c2889c7ecbf3618aeb sha1 ac2556e546acc8bdac51423368da250839c1261a )
+	rom ( name Vids\MOV002.AVI size 9586156 crc 809a9df3 md5 38a462f7f39c71e769e546aa7106dcb7 sha1 ba3f32d74df8ddf85337d01cce48c6f71580a44d )
+	rom ( name Vids\MOV003.AVI size 21056938 crc 96dd5265 md5 8cd6f971b47bf1e5f9eb477749a3b3c8 sha1 52ac6fee60f82f4ac33241e78cb90290c97e66b5 )
+)
+
+game (
+	name asylum-es
+	description "Sanitarium (Windows/Spanish)[GoG, Kelmer & raycool][!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxenres
+	rom ( name Res.000 size 272057 crc dffc4f2f md5 4a112c41f58ac89b472be8cbfe82ab4b sha1 0c32d3f4d03e353f0d79bef5ad1d1819146beefa )
+	rom ( name RES.002 size 3971300 crc c4577b05 md5 9651e433f7b902f2fcae3048f62a116f sha1 ef77e7199b2c41d6776b88634c0c090b25747107 )
+	rom ( name RES.104 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name RES.204 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name RES.304 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name SCN.006 size 2918330 crc cb68a806 md5 3a5b54da08198012dc0614114782d5fb sha1 00c088297400e54554e5c38b9233ef284e51ebdb )
+)
+
+game (
+	name asylum-fr
+	description "Sanitarium (Windows/French)[GoG][!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxres
+	rom ( name RES.000 size 277931 crc 38ca57f3 md5 2a4677ee3fd7bfa3161e16cd59371238 sha1 87b05d8442e6f1afceea5eb4b8acc20b4501ea0e )
+	rom ( name RES.001 size 16964654 crc 45f7fefb md5 0592965d0b1ddc316d6c467b8e35017a sha1 07bab6d426af4aea4c2fa313e69745d4cd63c75d )
+	rom ( name RES.002 size 3971300 crc c4577b05 md5 9651e433f7b902f2fcae3048f62a116f sha1 ef77e7199b2c41d6776b88634c0c090b25747107 )
+	rom ( name RES.003 size 34677854 crc c6d08a29 md5 eeed10e6f54d965453be4f54abc019b2 sha1 813fd1ec25fb07788dc277ebad8555e3924aed1b )
+	rom ( name RES.005 size 17976562 crc 20e54c51 md5 d97e48c95b3406b381cf5b003f376138 sha1 b0e442b64a65bc2dff9728dcfc8768ef1ed76689 )
+	rom ( name RES.006 size 42938996 crc 9be946dc md5 251d24225f30c5b9aa89229970ed512b sha1 2a06637721a4554f0c47bc52d1f9eb39f8548f27 )
+	rom ( name RES.007 size 28917952 crc a66d0159 md5 c89beb0e49175d05765d4951b6a0e783 sha1 7c48ae2a82e0511297dbc80f3f47435d9c5970f7 )
+	rom ( name RES.008 size 40323111 crc c9239e59 md5 6ee4e4aaee7e4549f863d979c1270628 sha1 8599a6a156a43b4601b977e7a898da4570b19c1e )
+	rom ( name RES.009 size 20451199 crc 63ea443a md5 9041ebc382bc00bf9ee9370f7c4674c0 sha1 2836d1a463cce6ff82a968c8f59c8591408aaeb2 )
+	rom ( name RES.010 size 52350586 crc 1a242261 md5 7fd53dcebc328f7e1806fcc55cee6a7b sha1 aaa3952492a2b58fa0efea42756014954dfec2a8 )
+	rom ( name RES.011 size 36571970 crc bc28a451 md5 de9eecab9b3578ebc199beeb9fa3d00d sha1 5706f596f56bbe86be48a932c1e234fc346036d4 )
+	rom ( name RES.012 size 43944491 crc a218c482 md5 22e16f27a4ebd3f3ae43cbd42020e5fa sha1 5c84f75f984b25212591952bca0f39002ebb2514 )
+	rom ( name RES.013 size 48004690 crc ba3b97e9 md5 9ae1cc6c67b1c8765cef1452a40bd6fd sha1 716d6a0742ceec220d9556f6e3a18cf32c2aa5fe )
+	rom ( name RES.014 size 29331511 crc bdb4db55 md5 8029c5a2dd8dc40c5a85bd52618bfb85 sha1 ea94025f0261565cfc31c83bd4c824ef1b52765c )
+	rom ( name RES.015 size 21144090 crc 6550f652 md5 da40e06970475f91de57312b37d4d89d sha1 be422116bd587fed2f5501015c0666266a62fe29 )
+	rom ( name RES.016 size 19565161 crc 0c3a70b6 md5 a46faabfa65aa6c364fa2f28aa88fbe4 sha1 4b5717625a1333c620acd2a2067410427b67ea74 )
+	rom ( name RES.017 size 17777767 crc d9370f94 md5 b56084f333e644e97b2e67834b730a1f sha1 1bcf685be39ae1e0474f2e38d86f172bed89d747 )
+	rom ( name RES.018 size 2144211 crc 4bb54297 md5 1cbcfbd4f5a1e5e637549d442c077d7d sha1 e93b78f00bd667402b4c56c15b2f45335627adb3 )
+	rom ( name RES.104 size 101823996 crc ad1c336e md5 3c452f8dfc9b15b96a776b28e5d811d3 sha1 2cd4c34c099a041949934af6c8c6cd72bd0a64df )
+	rom ( name RES.204 size 116484888 crc a1f85db4 md5 8d636ab4f9c5a5f97c687d5c8b019f64 sha1 bc74b5b17cf19acf7abb9cdde994e77b89398422 )
+	rom ( name RES.304 size 72284822 crc dfa6c16d md5 74129761447aa7ff91c44415cb9c1871 sha1 359208f84f7523736e56363126dd7b98e923a6ea )
+	rom ( name SCN.017 size 1300370 crc 4c293653 md5 4b1ce6578160f463f06609158d3012d5 sha1 4726cad5ff623e426bd8446d1f2539fedc93a785 )
+	rom ( name SNTRM.DAT size 8930 crc 1c7adbe4 md5 e09a12543c6ede1727c8ecffb74e7fd2 sha1 beb2a408fe0f141a2213a9300cc9120a0c7cd42d )
+	rom ( name vids.cap size 2546 crc 4510c5bd md5 5aa035b30d558c4882a83ce11292876e sha1 3e8c5eeafaf29093b7017b2f265ba558ec09d947 )
+	rom ( name Vids\Mov000.smk size 11031048 crc 65f7ffea md5 9ad76385e81d3ed7fd49b93ff61c3af9 sha1 126fa4919172863fce6f9d31bd785a5840e90065 )
+	rom ( name Vids\Mov001.smk size 18533352 crc 5ddef671 md5 8e95b26ffead5f32f72d8a3bf4238bc6 sha1 99b7019ce6e7b2425d6007d34041b88f044eb887 )
+	rom ( name Vids\Mov002.smk size 22916348 crc efc36e43 md5 f7649ec21114ee52ed98bed73a7891e0 sha1 43616b99e4cd9f1663f5b7b742f24e4ecab88f01 )
+	rom ( name Vids\mov003.smk size 31505888 crc 938f40b8 md5 398a926ff7d31a044b813cca31ea3e0f sha1 aebf7e39799106427ea563e2141c18b7bfaec56a )
+	rom ( name Vids\Mov004.smk size 5738816 crc ef749e31 md5 6a1b51adb02e3c1e3fc3df11c872263b sha1 6a03d4cc5aa96c7621866a164ac7e192a7f876bf )
+	rom ( name Vids\Mov005.smk size 4516752 crc 89d24ee4 md5 a458f6c8593e5fb4b970fd6885da0770 sha1 7e9bc1687d67e526c9babc03df28540c15b407f6 )
+	rom ( name Vids\Mov006.smk size 10984964 crc 75507814 md5 7a3e1bf40634b17a3e87e54fdd8bc73b sha1 722f9aa968038903d198736411a5a33d47f45a5b )
+	rom ( name Vids\Mov009.smk size 9380376 crc 2c5c05ad md5 88d5203a5fdca9ebeddab240fe856e11 sha1 66bc6f14152ff2f814b114b607782e3fac6538b4 )
+	rom ( name Vids\Mov012.smk size 5555360 crc 8882c6f9 md5 234620c946290a129bc8b0c7e7a56bc6 sha1 260459d0658e23aaa2cf00fa2f0c05390f7193b2 )
+	rom ( name Vids\Mov013.smk size 7985904 crc 80e609ac md5 44663358c187382b5ea19f5ece30016c sha1 464476f30a2fcce4c4b0e8b305f1ca0f1c006ecf )
+	rom ( name Vids\Mov016.smk size 51540160 crc 11c44de3 md5 48b82b8d119a9d3bf25614aaf473f5a8 sha1 6095124954d49d0d14a21bb2d8f38224fa25607a )
+	rom ( name Vids\Mov019.smk size 4906452 crc f4aefcf1 md5 77510398033c5a2f71b01a75565f3b08 sha1 753a4c253e4144c0fe18de5fd5495aabf2bcd8f2 )
+	rom ( name Vids\Mov020.smk size 10072120 crc 73ecd81f md5 fe044da04ef691ea33c5ee02939d8e4e sha1 f25d248d074dfd98ddaabf64edb7c40ee905f260 )
+	rom ( name Vids\Mov021.smk size 5381888 crc e1bcf0fe md5 d85eda28a1104628eb48696ca47d1f92 sha1 a3e55d146fb526546d720f357469af41853c0b75 )
+	rom ( name Vids\Mov022.smk size 16657148 crc e777a0db md5 6e1cce763cc0e785781bdaf0de5f69bb sha1 779c7bcd3e08c50bdd0eddd0f6dee1508b3901cd )
+	rom ( name Vids\Mov023.smk size 10978480 crc 2618c41a md5 a03fc1f2edfd224a8cbe8b5d721caece sha1 0ea355d7d3e8ee5cc4cfbbd0a9be0aa846330a89 )
+	rom ( name Vids\Mov025.smk size 17333972 crc 8de5feec md5 f8348b595951a48cd0d6f1af87f289fc sha1 55019afa076a10018123cf816a862bdbbebb4237 )
+	rom ( name Vids\Mov026.smk size 32397268 crc 6b7d618c md5 f0e724b9b4f38668bdafe0a2a90d5b96 sha1 dc61778f911ac2e66a49b526e9ab7684dfae10ea )
+	rom ( name Vids\Mov027.smk size 21336700 crc 9bbe16b6 md5 a33543851bc7d527915154cdfca5ff9e sha1 fa08319e9ac80094b45a968567b88f80d291a55a )
+	rom ( name Vids\Mov028.smk size 37631724 crc c2c0083b md5 a3da904dd3bd225127eb85e67c46310d sha1 f95b42899cadc26fd98f6a01419dc9d82851622d )
+	rom ( name Vids\mov029.smk size 37736184 crc 6b421590 md5 b623dd30612a70b73ca8f2078d60cdd5 sha1 cb96e96c5572a83639749fd1ccabb1297ee6b2bd )
+	rom ( name Vids\Mov033.smk size 15799388 crc 698d5334 md5 2dff7fcc4a05e545854fe4111c8a99f2 sha1 8189c8b40f3524a9da0fcaeb37ded28cc07b54e6 )
+	rom ( name Vids\Mov034.smk size 28230220 crc 9ba4f712 md5 e8e6b8a94eed9cdbd868d821e59c44ad sha1 2e84a58643466830e1f7f174a1896c4e09841fcd )
+	rom ( name Vids\Mov035.smk size 25722740 crc 3f943f27 md5 059279b619daa23ada00565ba02e631c sha1 816c3b516104f6cff02ad7d93a4b55e88180ac16 )
+	rom ( name Vids\Mov036.smk size 4915488 crc 3d85878a md5 e4d5bdccda782ee207f84f38a4470497 sha1 c2fafa5bc0654c14d8c7e727791334ac560eae96 )
+	rom ( name Vids\Mov037.smk size 9174448 crc 4f5b2b0f md5 9ee0e4ca9b75e5597006258acf462e48 sha1 4e76a81bccb24b5109a52c4a415d4a82fc124363 )
+	rom ( name Vids\Mov039.smk size 55808524 crc 1fcd956f md5 aa1642d67b6178003a0a62de2fd6c240 sha1 0fdf4a2c32cd2648d4075dc093f6d869d959f78e )
+	rom ( name Vids\Mov041.smk size 13408016 crc 97850548 md5 8c0bdb38c6bda49394cb869c6ac59796 sha1 5cad81c5f5d4d06ab2cc601c46a495e7d607bad1 )
+	rom ( name Vids\Mov042.smk size 10372572 crc 434fda01 md5 9d2badc1400b7dc1a5160b9ac7fe3484 sha1 ee6ae64b5943ba9a92d1875de2a1ec8f1d74c879 )
+	rom ( name Vids\Mov043.smk size 68292372 crc 16ffea7b md5 5b50d233603c2cef3941891945092a35 sha1 c2a4e676bf2bb77350f210617391d0b75dc4cf89 )
+	rom ( name Vids\Mov044.smk size 77999448 crc bd6ad219 md5 cd01b7d49421b1ed52c098971421362e sha1 5656a6bd64d2c00667765b956718bcc13fe98fca )
+	rom ( name Vids\Mov045.smk size 30423704 crc a07a6565 md5 1174573ad42d7644d763a08dabaa4333 sha1 d75a59fd6f15533a4bc16e5b2cd6292b581b02b8 )
+	rom ( name Vids\Mov046.smk size 29823440 crc 5801c9b8 md5 441cd63e80bd9d20646f1be4ff4f04b4 sha1 f91df82b3c31c480b71b0118d4fe8d28f5f35d78 )
+	rom ( name Vids\Mov048.smk size 8598388 crc 6c53f18c md5 a72c51ba561af5527f56ee0a79a8cb62 sha1 e54a8dde4ab77ae2b6c9c8b71330877fe1103537 )
+)
+
+game (
+	name asylum-gog
+	description "Sanitarium (Windows)[GoG][!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxenres
+	rom ( name RES.000 size 272057 crc 6a5fe5b3 md5 f58f8dc3e63663f174977d359e11132c sha1 82e7e701b8c03368ff936119dffa91c79dbf4abc )
+	rom ( name RES.002 size 3971300 crc c4577b05 md5 9651e433f7b902f2fcae3048f62a116f sha1 ef77e7199b2c41d6776b88634c0c090b25747107 )
+	rom ( name RES.104 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name RES.204 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name RES.304 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name SCN.006 size 2918330 crc cb68a806 md5 3a5b54da08198012dc0614114782d5fb sha1 00c088297400e54554e5c38b9233ef284e51ebdb )
+)
+
+game (
+	name asylum-ru
+	description "Sanitarium (Windows/Russian)[!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxres
+	rom ( name RES.000 size 263624 crc d0d08b6f md5 1f8a262bf8b3035bd3cfda24068c4651 sha1 7c65c2300da095a8e9d4584c9219bb2090747d55 )
+	rom ( name RES.001 size 17779431 crc 19ded407 md5 7246dc44c2da06136ad6fa339215843a sha1 01d692c98bc577474f9696caf91e8ced201a36eb )
+	rom ( name RES.002 size 13733398 crc 60c5dcc3 md5 2f5556b7ca334487aa9bdc47150eb135 sha1 5bc8129ec6a61bb1c8a53a3d75d4fc86bc4ce3c7 )
+	rom ( name RES.003 size 38586630 crc 7ced72e4 md5 13237e70d8224f0a8f512b4047bba7c5 sha1 06fdb1197bc3e6f2f0f4379a22f00cef05169ee2 )
+	rom ( name RES.005 size 17934525 crc ebb469c1 md5 f86f2205bbdfffdf428649f680652d98 sha1 76a6e7a093366b69dbb8e84f91b9b740ebc22f6d )
+	rom ( name RES.006 size 42931445 crc adc1fe34 md5 f0cb892403dc4f213be750d17b6da5de sha1 e2baa93aefd02978daa55307a4688cfacec781f3 )
+	rom ( name RES.007 size 28898176 crc 4597e624 md5 316831ab2605ed2427f00ad76f81944d sha1 47f402fb371d59901fc58de0e9af929558229115 )
+	rom ( name RES.008 size 40303335 crc cb890cca md5 1f02c25b510b8b04f114b8a26a2012b4 sha1 c3773a8e7e10d8d3d957f1f48712b7079067afe7 )
+	rom ( name RES.009 size 20433475 crc 85e442b5 md5 e82296965cdc0b44813e64de497da536 sha1 a8ffcbcde27c0910b09f4cf6ba7db5ea95fa9eac )
+	rom ( name RES.010 size 52330810 crc 2733ae5f md5 7bd216405d1762e0f6f8a362057f0427 sha1 b16a3c753ff0d851104b9d6535d217c1b1861892 )
+	rom ( name RES.011 size 36553273 crc 32cec6e9 md5 31df3117bdea738ede41e019bcd44d9d sha1 d1e92b594efce1ecc87d2ab84bc0dafc8edba028 )
+	rom ( name RES.012 size 43904939 crc f8b2b31b md5 da42533bd47dba8f5e04b5baa4528733 sha1 2f6ca709e3b21a44db72d84d80e22fb01cb41265 )
+	rom ( name RES.013 size 47997139 crc 28d64967 md5 c36a63fa9dc4df0bac19e667c6c00304 sha1 3fe0e6702a5b66d07ae13d3f44372d11f55b86fb )
+	rom ( name RES.014 size 29311689 crc 58538c37 md5 1c9a9d31773d2cf91ed5d35c4e1eaa5c sha1 2e9ffc6c386a34a7c280f8078f2b4d2f39e958e8 )
+	rom ( name RES.015 size 21132464 crc ac10a61d md5 21fa42d204028f8a920f74cc87ef2938 sha1 76f703ef3509630d51245dd534262b26560a89e8 )
+	rom ( name RES.016 size 19544464 crc cd157a71 md5 54e2d3a0d235ae7a833e5c2e2b3c7f1c sha1 10b17b3f04b8ac3aead9d140071dd90dff1fa74d )
+	rom ( name RES.017 size 17569961 crc b0af212b md5 775ce756b37c7e45aff99d12e178c632 sha1 b84a8302dedcc96d01af30a02c98f316ed3a4a19 )
+	rom ( name RES.018 size 1694025 crc 62f1e1eb md5 7a5e278f4e8945d97869ad5af07a99c0 sha1 d5ed5b5286e3e94b1f57d5d197b32d861593514e )
+	rom ( name RES.104 size 107668556 crc e317de1b md5 f9fa729387aaf00f8d4d8a1059bf97ae sha1 474190083ec8bdbace8ddd5e1ec6c38bfa94679b )
+	rom ( name RES.204 size 118247254 crc cfc413e8 md5 a0caf554e52f0ee0b6868a803f8d8ef9 sha1 6ee8c419fcc05c26ce66f45fb3453225ae5a4a3e )
+	rom ( name RES.304 size 76838462 crc 5134b25e md5 3e1e679e6224dbe9bb67cb6c77adcb05 sha1 f5904c8ca3e8533c37c4a88e12dec32885ddf4ec )
+	rom ( name SCN.017 size 1300370 crc bbe1763b md5 b5a1d6e2c2dc969fdbbc02e1656278df sha1 1b3675553020133e0174116f2b7e6c3c86c22fee )
+	rom ( name SNTRM.DAT size 8930 crc 1e456723 md5 7cfcc457c1f579fbf9878ac175d29374 sha1 3e05188810f4e54c5340d696f5f066fd89e8df81 )
+	rom ( name vids.cap size 2529 crc 3ce28081 md5 77ed82f83b8b1be330bcc694e6165f71 sha1 197c48e215111f7a9cbc5480a4714313dc7ea123 )
+	rom ( name Vids\Mov000.smk size 8256984 crc 06b58a1c md5 5c71d0c61fdbe627ffd0d4dc6def8ca7 sha1 11eae4739a36f9fc8639bccf4c206224a812b90f )
+	rom ( name Vids\Mov001.smk size 21392344 crc 76e62f93 md5 037cfcb07cf745e12ad80c29f51d1234 sha1 596e7a5e847b4e76da6b85c78a289f0474ab7923 )
+	rom ( name Vids\Mov002.smk size 22914208 crc d4101a33 md5 4ed03a3e97573241b8bb074c864abd5d sha1 e79f8b7970bc5fc9475f8bcbcc1ba9cdc6354282 )
+	rom ( name Vids\Mov003.smk size 31488148 crc 6c56b7bb md5 4068c206031f1e01f21b5d7c7eed34c2 sha1 55b896d16e0d5d4f8b3c36e1913bdbde2ea22ed5 )
+	rom ( name Vids\Mov004.smk size 5697804 crc 4ba9fa0b md5 05e4df23e522fdf801d0e5e2b9abe123 sha1 f32f4b6b9ba3934e34be8a7efa6179bd94de4ad8 )
+	rom ( name Vids\Mov005.smk size 4510376 crc 43928651 md5 04c5960aad9d26fd22ae83bf7fd9f202 sha1 852888ed9da2dc4104269f7d5715767157c8a2f5 )
+	rom ( name Vids\Mov006.smk size 10952856 crc e4d44591 md5 e028c37356292fe90405cd88b2b8c3e8 sha1 3a1bd369bf30576966c008125a96664348f2203a )
+	rom ( name Vids\Mov009.smk size 9392336 crc 966dc9f4 md5 c2edc4b71a8138b1ae095d3ea4619534 sha1 3c3a994b193c9392b8b945decdf3730a0a68e3f5 )
+	rom ( name Vids\Mov012.smk size 5557752 crc 3dab92d9 md5 8f2a3efeee87428dfd6f1751cb8500f7 sha1 2d3ef9b851961360ac3eb2d49c69241573a2c2dd )
+	rom ( name Vids\Mov013.smk size 7937108 crc 8a49f720 md5 1e000b0f22e75070844a433029a4fbf5 sha1 8438a8a17f3a35af84f7fe85a359293587712af3 )
+	rom ( name Vids\Mov016.smk size 51492400 crc b666e0b7 md5 777249706139a3ef154af61fb620fc40 sha1 34268cafcf20734eba3e8c48fab63624d975a2d6 )
+	rom ( name Vids\Mov019.smk size 4890156 crc 5a719d84 md5 8f4c462d3a208a9cc2cf297949b58edf sha1 62972ed7c9d564e61546f626390dbceb8e6e3807 )
+	rom ( name Vids\Mov020.smk size 10040376 crc 2b1d82fa md5 b5a249a44bcbd582553d073d1e3b6306 sha1 0deb0ac649c4da1483ff36f9cca8a4e9459524ca )
+	rom ( name Vids\Mov021.smk size 5375432 crc 92cc8427 md5 7030a27f86fa0c409d3c5cd410edca03 sha1 69242c3028eaa5dd84c2cb1d97fc96945635e118 )
+	rom ( name Vids\Mov022.smk size 16601140 crc bdcb9e41 md5 973d917ca07ce7d494adad68419388df sha1 1fa6d924f9a3aa5668c64b38bec4a8b3a8299c77 )
+	rom ( name Vids\Mov023.smk size 10922092 crc 51772a1f md5 f2780030f94277ec52074b429fad4d72 sha1 d571d8b03bb453ad52d03f0f45a6bd15b7adfa47 )
+	rom ( name Vids\Mov025.smk size 17235996 crc 7dc420bc md5 9a82431a563c15879220839c518dba21 sha1 a05c0795535cef44caf755f00841eba0bf7ec33d )
+	rom ( name Vids\Mov026.smk size 32205292 crc 84ded7e1 md5 cbae4837832b90f9ab48fbc83718744c sha1 ad19b59bf4aad0db056af035c8d9149fd3555abc )
+	rom ( name Vids\Mov027.smk size 21322284 crc 10c86c91 md5 db64a5ea9c2f91232816a49d473c6fac sha1 02bc42928c3c2a8abf5f3745b292dd5d7665583e )
+	rom ( name Vids\Mov028.smk size 37645376 crc 2bb1e8a3 md5 c8e5d29ecc4b42eaf64e20659256ee05 sha1 c8fc4df7c983b99115c3583f794a9d0701044579 )
+	rom ( name Vids\Mov029.smk size 37718056 crc 96ba03bf md5 46b524d2f57b55d04b7bccad7847c15b sha1 aa6bc091008f6b1aba75098d6cb383d02acd5c08 )
+	rom ( name Vids\Mov033.smk size 15855004 crc 8107704f md5 4ce0fbac51a4230792330a29fe604b6e sha1 b5c190c6e52ef3cab062bee013dfa29fd6890bd6 )
+	rom ( name Vids\Mov034.smk size 28168448 crc e075abe0 md5 5d7fa64a17961b40c4f67ae05169f465 sha1 94bb41345b9bd943e773451bd1cb40ac63143985 )
+	rom ( name Vids\Mov035.smk size 25605740 crc 4b54a147 md5 9cd4d977fa8f1f6d360dd0bb61f2c2c8 sha1 96584f19939a6f993b197f0d66ec44d41854f5d9 )
+	rom ( name Vids\Mov036.smk size 4912776 crc 3a884fac md5 b01986a560ba13edc53d59f1eb1be912 sha1 361e7e9ce256a448c1d678728515deebe8a6e90a )
+	rom ( name Vids\Mov037.smk size 9093900 crc 23dae894 md5 5aa7c341c7b2ee6dcd0fbdd8194808b7 sha1 3bfe85700efa79925b1b9b0d01d66840d2f88a17 )
+	rom ( name Vids\Mov039.smk size 55423416 crc 29d8b510 md5 579b5ce20e9663902e56dcce27fb5392 sha1 f7075e8deb9220249a08811e6cee2f4638598b94 )
+	rom ( name Vids\Mov041.smk size 13367020 crc 78bdb082 md5 e7ea7c479609e91af5df149ff3014ddd sha1 52efe48b407d10e7f1b325a44fa60d4a8402047a )
+	rom ( name Vids\Mov042.smk size 10347920 crc 462d5909 md5 35e15fe545997768c25fcaaa2797b1a2 sha1 5f06d65071bf09e97eff998d14fd495d99dd0866 )
+	rom ( name Vids\Mov043.smk size 68085708 crc 7a368418 md5 99061612074299e5cff9f5a8a640c247 sha1 21910e65e0d33726641d1e2dfad2d0eb185709c4 )
+	rom ( name Vids\Mov044.smk size 78028076 crc 24a43a42 md5 69a4c0e5ca1309aacefd0f4890b13c06 sha1 1bfedaf51f0b2b88a5a6d6098bbb0b269e15a604 )
+	rom ( name Vids\Mov045.smk size 30392084 crc a49ee3f7 md5 9f6d77b073d7d00513c4da1b72d106ff sha1 93a1339a0cc49114b5e6efb8520e19cf06d02ca2 )
+	rom ( name Vids\Mov046.smk size 29860876 crc 74f77db4 md5 7c92f0c56d57fa720e51f02fd268a08b sha1 bbc9b04d792d9c8e17f78b372645a4eb7840dc8d )
+	rom ( name Vids\Mov048.smk size 8615440 crc 96609bf2 md5 fc2a1412b00aa4042773626702ac7bcb sha1 c73ae7ca19a20aa6d61fd4168e54dabd60bb6a5b )
+)
+
+game (
+	name asylum-ru-1
+	description "Sanitarium (Windows/Russian)[GoG, Fargus][!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxenres
+	rom ( name RES.000 size 247149 crc 8f2791c0 md5 1f7b3734a8da87464ce3765bd79be208 sha1 119eb61bf0dc71c6200c04be8a8d3375419d43d6 )
+	rom ( name RES.002 size 3971300 crc c4577b05 md5 9651e433f7b902f2fcae3048f62a116f sha1 ef77e7199b2c41d6776b88634c0c090b25747107 )
+	rom ( name RES.104 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name RES.204 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name RES.304 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name SCN.006 size 2918330 crc cb68a806 md5 3a5b54da08198012dc0614114782d5fb sha1 00c088297400e54554e5c38b9233ef284e51ebdb )
+)
+
+game (
+	name asylum-ru-2
+	description "Sanitarium (Windows/Russian)[Steam, Fargus][!]"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	romof asylumxstaemres
+	rom ( name RES.000 size 247149 crc 8f2791c0 md5 1f7b3734a8da87464ce3765bd79be208 sha1 119eb61bf0dc71c6200c04be8a8d3375419d43d6 )
+	rom ( name SCN.006 size 2918330 crc cb68a806 md5 3a5b54da08198012dc0614114782d5fb sha1 00c088297400e54554e5c38b9233ef284e51ebdb )
+	rom ( name SNTRM.DAT size 8930 crc 1e456723 md5 7cfcc457c1f579fbf9878ac175d29374 sha1 3e05188810f4e54c5340d696f5f066fd89e8df81 )
+	rom ( name Vids\MOV000_2_SMK.ogv size 6569244 crc 05b1f0ac md5 e078220e12e431d767b0a5467db9e70e sha1 40967e27d56b81077b233ca1bb1a335b6aba0528 )
+)
+
+resource (
+	name asylumxenres
+	description "ZZZ - Sanitarium English Resources"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	rom ( name Music\MUS.005 size 3971300 crc c4577b05 md5 9651e433f7b902f2fcae3048f62a116f sha1 ef77e7199b2c41d6776b88634c0c090b25747107 )
+	rom ( name Music\MUS.006 size 13021286 crc 4c1b2777 md5 ea50243961f9feb32b2fe35607102d25 sha1 bc7840b37e02b6eb5ad846c1237131de02037bb8 )
+	rom ( name Music\MUS.007 size 13733398 crc 60c5dcc3 md5 2f5556b7ca334487aa9bdc47150eb135 sha1 5bc8129ec6a61bb1c8a53a3d75d4fc86bc4ce3c7 )
+	rom ( name Music\MUS.008 size 14385224 crc 8ceceda2 md5 1937ec8dad7ebf666828beb70d9547c8 sha1 a5429200080260703e6bb89284c7c6ac3abdda53 )
+	rom ( name Music\MUS.009 size 5307030 crc e1ad8e60 md5 f10a2803591c328d25032fe282317460 sha1 cd0acd2d452ec5fb973aa2308c293626d8f1eb27 )
+	rom ( name Music\MUS.010 size 7828512 crc 388ecb3c md5 0b14bf09fe726bfa7cf659e032678610 sha1 bc9b820289e64ef804154fc759965fc1fd5e4b91 )
+	rom ( name Music\MUS.011 size 4096306 crc c645e692 md5 ffbe15ea646ba3a6339901bcd34df5e8 sha1 1c98f1e6e7c32e14d1e3aa2bf6057dcaa0b12616 )
+	rom ( name Music\MUS.012 size 8949992 crc 21ed4851 md5 c9474cf8ae520d00fafc3f72a1bfaa8c sha1 b2f110577661045448dc1ec4bba5b66bd9bfc8de )
+	rom ( name Music\MUS.013 size 12640758 crc 84347057 md5 7047014384932cd76a8c9f2c189cc8cd sha1 924b151d5406056d5809d7a259bfaf6a047b1836 )
+	rom ( name Music\MUS.014 size 4760520 crc 6209391c md5 e1551b8042655701d0f8d04fd15c7a4e sha1 c57b2d548af1eb3c3fd088d85d735919f90a1d56 )
+	rom ( name Music\MUS.015 size 3718130 crc e542bfe6 md5 ed4b633b8db9e7c38c4c794ea2886b02 sha1 b0e7f89aeadee243784c3f902c0f39e340d4de87 )
+	rom ( name Music\MUS.016 size 3462496 crc 9d40fa1e md5 b3ce3ee9a17784a1089b279fc7d57bcb sha1 8b3c4f3e4b5ccb7830091ead6e7c5a8fd82fcc6e )
+	rom ( name Music\MUS.017 size 2374746 crc cafa3cf3 md5 109bae02a6a3cfc935c733edccf2544d sha1 5c18ce8f8800a4434320e64fd30424d48316a3b8 )
+	rom ( name RES.001 size 19127174 crc fbc970da md5 c8df4b2c7080b761d9869f45559df737 sha1 b5e999a230fed1f81f944fd007d03801016a9e69 )
+	rom ( name RES.003 size 40153792 crc fb6c8cea md5 aee5efceab93b97b21000d661bea8f57 sha1 92939f91faa1086a8965441d9ea84ae743cee7bb )
+	rom ( name RES.005 size 18068618 crc 9de30b40 md5 1e23732352246c5aeca4510e86672aa3 sha1 b687898ce3efefe441c2d80a0156c378a3c1da27 )
+	rom ( name RES.006 size 43742852 crc c63e281e md5 abe040765f65ed1fc82767f56659d551 sha1 f106bae9e68c1821b6a2971e55b14c6b6009f1e8 )
+	rom ( name RES.007 size 28917952 crc a66d0159 md5 c89beb0e49175d05765d4951b6a0e783 sha1 7c48ae2a82e0511297dbc80f3f47435d9c5970f7 )
+	rom ( name RES.008 size 40323111 crc c9239e59 md5 6ee4e4aaee7e4549f863d979c1270628 sha1 8599a6a156a43b4601b977e7a898da4570b19c1e )
+	rom ( name RES.009 size 20451199 crc 63ea443a md5 9041ebc382bc00bf9ee9370f7c4674c0 sha1 2836d1a463cce6ff82a968c8f59c8591408aaeb2 )
+	rom ( name RES.010 size 52350586 crc 1a242261 md5 7fd53dcebc328f7e1806fcc55cee6a7b sha1 aaa3952492a2b58fa0efea42756014954dfec2a8 )
+	rom ( name RES.011 size 36571970 crc bc28a451 md5 de9eecab9b3578ebc199beeb9fa3d00d sha1 5706f596f56bbe86be48a932c1e234fc346036d4 )
+	rom ( name RES.012 size 43944491 crc a218c482 md5 22e16f27a4ebd3f3ae43cbd42020e5fa sha1 5c84f75f984b25212591952bca0f39002ebb2514 )
+	rom ( name RES.013 size 48004690 crc ba3b97e9 md5 9ae1cc6c67b1c8765cef1452a40bd6fd sha1 716d6a0742ceec220d9556f6e3a18cf32c2aa5fe )
+	rom ( name RES.014 size 29331511 crc bdb4db55 md5 8029c5a2dd8dc40c5a85bd52618bfb85 sha1 ea94025f0261565cfc31c83bd4c824ef1b52765c )
+	rom ( name RES.015 size 21144090 crc 6550f652 md5 da40e06970475f91de57312b37d4d89d sha1 be422116bd587fed2f5501015c0666266a62fe29 )
+	rom ( name RES.016 size 19565161 crc 0c3a70b6 md5 a46faabfa65aa6c364fa2f28aa88fbe4 sha1 4b5717625a1333c620acd2a2067410427b67ea74 )
+	rom ( name RES.017 size 18138499 crc 0bbf629f md5 7afb7206df58c38e933bdfba8492134e sha1 55774e9eb185b4ac559b93833c5c4f4b2d8d6558 )
+	rom ( name RES.018 size 2034325 crc 2f6d3859 md5 6a9e86824d3b5f338f01ec0e6189fa92 sha1 94f1a2c1692a02d670f02d0bc92cd1b66c70c516 )
+	rom ( name SCN.005 size 1449774 crc d576c344 md5 f5542da72430e36bf40ce53917729167 sha1 7672af3fc91cc4081c7b0c6b56eca70d644bdfb0 )
+	rom ( name SCN.007 size 1613758 crc d12b8e81 md5 8332dbcb829e395ad6a3e516b1326e49 sha1 10177cbb80d155aae0219b00623a79bd05895a2d )
+	rom ( name SCN.008 size 2449878 crc d4ee9b8b md5 d2ed5e04ca7c7c943474c8c9dac2be6a sha1 800391259d6b5b1aa0859ec1010a30f9378c5901 )
+	rom ( name SCN.009 size 1439826 crc 17773137 md5 6a1d108f6ce434a1931cb7a50c1b5948 sha1 9f43f2b6c74768b0e995da4d22d4d684b89457f4 )
+	rom ( name SCN.010 size 1956534 crc 93347413 md5 6571468b35a2e96a832ffe65d1da6242 sha1 bea7286102282432eb30854cc42e0277dadc8f0e )
+	rom ( name SCN.011 size 1998038 crc e90793e2 md5 22227ea163f11da9c441e1bd4bf03d73 sha1 3678f8b6213d697a806e149455f357ce0852bb5f )
+	rom ( name SCN.012 size 2727330 crc 036e4fe1 md5 f151c8a735f4e537c1b9315e330feed6 sha1 24224d8ad4f8f90b742262b5ea72972f39ac7284 )
+	rom ( name SCN.013 size 2117278 crc 3e82f4e0 md5 63801b4a2a1e378fb1e40495bd1bbcc6 sha1 6237b6d1901df45813e928869f3f1e493412f5ab )
+	rom ( name SCN.014 size 2067150 crc e7a5f0f2 md5 7179c7771250f320d26dc29a5289f867 sha1 a737b88ee73a48de1a3eb0c976210f165cf2dc7f )
+	rom ( name SCN.015 size 1309702 crc 093fb33a md5 b3987c81dabab0b8c6cd93dcca883037 sha1 388927cc289093aec5a55820b68b8aebc71ec8d2 )
+	rom ( name SCN.016 size 1955622 crc 390bc78c md5 ddb8dae0ed3687e794aaec009e5d89ad sha1 628e859a41dcf55677af45bf00ff12cd13e5b88b )
+	rom ( name SCN.017 size 1300370 crc bbe1763b md5 b5a1d6e2c2dc969fdbbc02e1656278df sha1 1b3675553020133e0174116f2b7e6c3c86c22fee )
+	rom ( name SNTRM.DAT size 8930 crc 1e456723 md5 7cfcc457c1f579fbf9878ac175d29374 sha1 3e05188810f4e54c5340d696f5f066fd89e8df81 )
+	rom ( name vids.cap size 2529 crc 3ce28081 md5 77ed82f83b8b1be330bcc694e6165f71 sha1 197c48e215111f7a9cbc5480a4714313dc7ea123 )
+	rom ( name Vids\Mov000.smk size 12321560 crc 43b278f7 md5 e1b671528221967b44861d9e66cfefa1 sha1 3f96c46d32d1c58c685f24dd685f30021917e02e )
+	rom ( name Vids\Mov001.smk size 21383620 crc db5f3626 md5 3febb7db16405df9ca9d336d1ae44001 sha1 bfe2be8625bb36c38e8e392730c4c9a1a56b1702 )
+	rom ( name Vids\Mov002.smk size 22962640 crc 2edf30cc md5 ba65aeb7f96a280f8f8a3f1a1de40ac5 sha1 9f76fb712ddd3a4d28d53e7d5d05c6c61ae5c469 )
+	rom ( name Vids\mov003.smk size 31474348 crc 65a0c53d md5 b42dd405265ee71266b427f68a93cb38 sha1 651626476e23828718e60a90a953a19c2e106d76 )
+	rom ( name Vids\Mov004.smk size 5712976 crc 4b8a9ead md5 6e623d5aaff514ed95bad48e61b5dbcc sha1 3f7d29fd51e09d98274ece4ddd5bb82b2ec6cd4d )
+	rom ( name Vids\Mov005.smk size 4516948 crc 0c559711 md5 61d6f3c30a61b77f2727f69928306e97 sha1 e7a46d68069c75c2a7ca981ab733a7929481718b )
+	rom ( name Vids\Mov006.smk size 10940172 crc 0e0e19bd md5 047d69596fc386523ba0f0e534e47cc0 sha1 1f2a676bccf40770d107dc9977f792b159593e8a )
+	rom ( name Vids\Mov007.smk size 1791292 crc 64b8c7d1 md5 64ecbaa030799dbd17c4373d21063c57 sha1 ae94d5144cb95cb4919dae9a7882f5a53de6f126 )
+	rom ( name Vids\Mov008.smk size 5751276 crc cdca6bae md5 bcf5c57546fcd99b5e763594cc019b74 sha1 fb75ac9ee96bbcc941bcd2039282b98ffeef5b53 )
+	rom ( name Vids\Mov009.smk size 9382144 crc 8b8cc47b md5 d5b14c5b5c543c668bc289a80d73a7be sha1 5a6ec5ee2f7448ff249908d7b0c1f43ed9aa9996 )
+	rom ( name Vids\Mov010.smk size 4696688 crc 9c8cf705 md5 b6266febef5b9ba167935cc43c2dc373 sha1 5a499bc03b7f40bd641a67bfee0edaa0fce7e367 )
+	rom ( name Vids\Mov012.smk size 5557576 crc fb242198 md5 cbd271d7a4405e716830558be18dbdbb sha1 6d7a7a4029a33f92cb924940277a1f961eaecfe0 )
+	rom ( name Vids\Mov013.smk size 7949484 crc b770eeba md5 b2a2b3ca89dc86608caa69fcf0ad39b6 sha1 b4baa39113d758ba2112d4c4695814fb0c72ec2d )
+	rom ( name Vids\Mov015.smk size 4261364 crc 8d2212a9 md5 888a869d3a26ca1e28c5929069f1ae95 sha1 e29d72a50495ad17a1c98ec17f9e3203570bcfa0 )
+	rom ( name Vids\Mov016.smk size 51427276 crc 6ce171f4 md5 c98ea771b3e781f5a6c369da5bde634d sha1 a799de74b49d232cc33a09d4746992dd26f5c2bd )
+	rom ( name Vids\Mov017.smk size 3361952 crc 89d90f27 md5 4df62d8d9d5c678043d19a9eebb91eb4 sha1 9e14525d8a70fe9f113e88415f6962a86f3a08ca )
+	rom ( name Vids\Mov019.smk size 4877952 crc 8b502599 md5 4ba3380130979d8200aa78bbb2dfb9b8 sha1 5b127e39cb2cdcff1058b2372cd494c67f415fa7 )
+	rom ( name Vids\Mov020.smk size 10042100 crc 6507ee2c md5 322e60b133df9e50ad4fdd4111cc35dc sha1 21d2911feeaa1982d7760289720c8b78ba9c2fcc )
+	rom ( name Vids\Mov021.smk size 5369024 crc 9ef15754 md5 02e569bba4552ab278fa8e9907283d96 sha1 0ab09d97b4636d44ff8b172ccbd6d8ef2e29e2f3 )
+	rom ( name Vids\Mov022.smk size 16606144 crc a519d053 md5 95e74365268b77ec587a01fece48bac3 sha1 026e63a9011360d699f8f4019bbd0341106e3cc4 )
+	rom ( name Vids\Mov023.smk size 10926956 crc 38ab12da md5 a6c8427da02eab02d0ede8e098f64729 sha1 e90ac4ea2e84b7b906a5836748719d58ce1c64b9 )
+	rom ( name Vids\Mov025.smk size 17230172 crc 3fa565ae md5 23e166c440982f2949b68628d7ab8358 sha1 c4a7c7dbd3d69d9d807a3fe7a644bb56ce4b12ba )
+	rom ( name Vids\Mov026.smk size 32283764 crc 06ec0cfd md5 b23d7469a8df27134d9a90066fc2a115 sha1 9f2af1964b2a6d6b7023ad70ab10081e23fcd313 )
+	rom ( name Vids\Mov027.smk size 21282288 crc e6f2de32 md5 6ca6fb1074007d0f026f8996c52333ef sha1 0292d7a91561270da41741480a441fc60a7f10de )
+	rom ( name Vids\Mov028.smk size 37525020 crc 8b0bb140 md5 9f1e0897cfa8c8f493fdb1fbabb00f96 sha1 10938d3a6e65f42812c09ffad7fdb7a55c8f6dbc )
+	rom ( name Vids\mov029.smk size 37475616 crc eed52ecd md5 27d82e1fb0289bce38ec85c4b215a2d9 sha1 7f230614d73f62e176c959582d9294c99233f4fc )
+	rom ( name Vids\Mov033.smk size 15821744 crc 3235d318 md5 6d99367daed90edd28941c88961a5271 sha1 0a74a3020d29a1f275e86b2cb2a90c3b7e9da232 )
+	rom ( name Vids\Mov034.smk size 28100036 crc ed18c375 md5 0bb04b22a6930b04f6b0b67687955a74 sha1 52dbba5f8c9b5114c6ed33ae4923279de699e3ee )
+	rom ( name Vids\Mov035.smk size 25492512 crc 03d15f57 md5 3ddc9173f514759571f4522c2ed300bc sha1 a11563d1c8999782003592ea932f72123026b394 )
+	rom ( name Vids\Mov036.smk size 4901916 crc fd3d88b1 md5 ac93c6b0b6cc63dc7f25e353d1924bac sha1 30530af7a546711e62ae536b7e542e970629f2cf )
+	rom ( name Vids\Mov037.smk size 9108556 crc 2ece31c6 md5 c68a5f5c0b0d54b4f0d4867c54f087d0 sha1 3d2073169559006d9b0fa3fa3f21719911abdcc2 )
+	rom ( name Vids\Mov039.smk size 55424412 crc 43c9c1f4 md5 ec483dcbea56eead3c4ce8b4bf64e2fb sha1 1e561a74e4c42add6e5675d3263bfd84fdfad29b )
+	rom ( name Vids\Mov041.smk size 13373808 crc 3a7029dc md5 333ff9c82d21aa56a43cccdc35e8c655 sha1 0f1fd2fd9e42f157645a993db05b01b83b17e856 )
+	rom ( name Vids\Mov042.smk size 10347920 crc 462d5909 md5 35e15fe545997768c25fcaaa2797b1a2 sha1 5f06d65071bf09e97eff998d14fd495d99dd0866 )
+	rom ( name Vids\Mov043.smk size 68096084 crc eab7da67 md5 c16c3a0e70753868a0fcb86bfe33b1f0 sha1 e6bfdae8250a29470db4f50540bb801c183576e3 )
+	rom ( name Vids\Mov044.smk size 77958656 crc fea934ce md5 63b516c9b5c736cc44f7f649896638fe sha1 8c27f7337cbfa51ff20439a2003c4c249f1f93e9 )
+	rom ( name Vids\Mov045.smk size 30443964 crc b4467c7c md5 96c18f8eb666e8ea40805b107c169af6 sha1 43ddef156df5d6c6873a50b1c4bf99cc137c279a )
+	rom ( name Vids\Mov046.smk size 29960196 crc 51178d17 md5 cca05db64785f9093671a9afe39f102f sha1 28410d4065a3c5dae9281331c43d1dc85a47af5d )
+	rom ( name Vids\Mov047.smk size 7325496 crc 89394f55 md5 e7195cba643db848d51067b9a8488335 sha1 e8ffa80a47652f4754e09cb1735ac8cf4c4af54b )
+	rom ( name Vids\Mov048.smk size 8615440 crc 96609bf2 md5 fc2a1412b00aa4042773626702ac7bcb sha1 c73ae7ca19a20aa6d61fd4168e54dabd60bb6a5b )
+)
+
+resource (
+	name asylumxres
+	description "ZZZ - Sanitarium Resources"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	rom ( name Music\MUS.005 size 3971300 crc c4577b05 md5 9651e433f7b902f2fcae3048f62a116f sha1 ef77e7199b2c41d6776b88634c0c090b25747107 )
+	rom ( name Music\MUS.006 size 13021286 crc 4c1b2777 md5 ea50243961f9feb32b2fe35607102d25 sha1 bc7840b37e02b6eb5ad846c1237131de02037bb8 )
+	rom ( name Music\MUS.007 size 13733398 crc 60c5dcc3 md5 2f5556b7ca334487aa9bdc47150eb135 sha1 5bc8129ec6a61bb1c8a53a3d75d4fc86bc4ce3c7 )
+	rom ( name Music\MUS.008 size 14385224 crc 8ceceda2 md5 1937ec8dad7ebf666828beb70d9547c8 sha1 a5429200080260703e6bb89284c7c6ac3abdda53 )
+	rom ( name Music\MUS.009 size 5307030 crc e1ad8e60 md5 f10a2803591c328d25032fe282317460 sha1 cd0acd2d452ec5fb973aa2308c293626d8f1eb27 )
+	rom ( name Music\MUS.010 size 7828512 crc 388ecb3c md5 0b14bf09fe726bfa7cf659e032678610 sha1 bc9b820289e64ef804154fc759965fc1fd5e4b91 )
+	rom ( name Music\MUS.011 size 4096306 crc c645e692 md5 ffbe15ea646ba3a6339901bcd34df5e8 sha1 1c98f1e6e7c32e14d1e3aa2bf6057dcaa0b12616 )
+	rom ( name Music\MUS.012 size 8949992 crc 21ed4851 md5 c9474cf8ae520d00fafc3f72a1bfaa8c sha1 b2f110577661045448dc1ec4bba5b66bd9bfc8de )
+	rom ( name Music\MUS.013 size 12640758 crc 84347057 md5 7047014384932cd76a8c9f2c189cc8cd sha1 924b151d5406056d5809d7a259bfaf6a047b1836 )
+	rom ( name Music\MUS.014 size 4760520 crc 6209391c md5 e1551b8042655701d0f8d04fd15c7a4e sha1 c57b2d548af1eb3c3fd088d85d735919f90a1d56 )
+	rom ( name Music\MUS.015 size 3718130 crc e542bfe6 md5 ed4b633b8db9e7c38c4c794ea2886b02 sha1 b0e7f89aeadee243784c3f902c0f39e340d4de87 )
+	rom ( name Music\MUS.016 size 3462496 crc 9d40fa1e md5 b3ce3ee9a17784a1089b279fc7d57bcb sha1 8b3c4f3e4b5ccb7830091ead6e7c5a8fd82fcc6e )
+	rom ( name Music\MUS.017 size 2374746 crc cafa3cf3 md5 109bae02a6a3cfc935c733edccf2544d sha1 5c18ce8f8800a4434320e64fd30424d48316a3b8 )
+	rom ( name SCN.005 size 1449774 crc d576c344 md5 f5542da72430e36bf40ce53917729167 sha1 7672af3fc91cc4081c7b0c6b56eca70d644bdfb0 )
+	rom ( name SCN.006 size 2918330 crc cb68a806 md5 3a5b54da08198012dc0614114782d5fb sha1 00c088297400e54554e5c38b9233ef284e51ebdb )
+	rom ( name SCN.007 size 1613758 crc d12b8e81 md5 8332dbcb829e395ad6a3e516b1326e49 sha1 10177cbb80d155aae0219b00623a79bd05895a2d )
+	rom ( name SCN.008 size 2449878 crc d4ee9b8b md5 d2ed5e04ca7c7c943474c8c9dac2be6a sha1 800391259d6b5b1aa0859ec1010a30f9378c5901 )
+	rom ( name SCN.009 size 1439826 crc 17773137 md5 6a1d108f6ce434a1931cb7a50c1b5948 sha1 9f43f2b6c74768b0e995da4d22d4d684b89457f4 )
+	rom ( name SCN.010 size 1956534 crc 93347413 md5 6571468b35a2e96a832ffe65d1da6242 sha1 bea7286102282432eb30854cc42e0277dadc8f0e )
+	rom ( name SCN.011 size 1998038 crc e90793e2 md5 22227ea163f11da9c441e1bd4bf03d73 sha1 3678f8b6213d697a806e149455f357ce0852bb5f )
+	rom ( name SCN.012 size 2727330 crc 036e4fe1 md5 f151c8a735f4e537c1b9315e330feed6 sha1 24224d8ad4f8f90b742262b5ea72972f39ac7284 )
+	rom ( name SCN.013 size 2117278 crc 3e82f4e0 md5 63801b4a2a1e378fb1e40495bd1bbcc6 sha1 6237b6d1901df45813e928869f3f1e493412f5ab )
+	rom ( name SCN.014 size 2067150 crc e7a5f0f2 md5 7179c7771250f320d26dc29a5289f867 sha1 a737b88ee73a48de1a3eb0c976210f165cf2dc7f )
+	rom ( name SCN.015 size 1309702 crc 093fb33a md5 b3987c81dabab0b8c6cd93dcca883037 sha1 388927cc289093aec5a55820b68b8aebc71ec8d2 )
+	rom ( name SCN.016 size 1955622 crc 390bc78c md5 ddb8dae0ed3687e794aaec009e5d89ad sha1 628e859a41dcf55677af45bf00ff12cd13e5b88b )
+	rom ( name Vids\Mov007.smk size 1791292 crc 64b8c7d1 md5 64ecbaa030799dbd17c4373d21063c57 sha1 ae94d5144cb95cb4919dae9a7882f5a53de6f126 )
+	rom ( name Vids\Mov008.smk size 5751276 crc cdca6bae md5 bcf5c57546fcd99b5e763594cc019b74 sha1 fb75ac9ee96bbcc941bcd2039282b98ffeef5b53 )
+	rom ( name Vids\Mov010.smk size 4696688 crc 9c8cf705 md5 b6266febef5b9ba167935cc43c2dc373 sha1 5a499bc03b7f40bd641a67bfee0edaa0fce7e367 )
+	rom ( name Vids\Mov015.smk size 4261364 crc 8d2212a9 md5 888a869d3a26ca1e28c5929069f1ae95 sha1 e29d72a50495ad17a1c98ec17f9e3203570bcfa0 )
+	rom ( name Vids\Mov017.smk size 3361952 crc 89d90f27 md5 4df62d8d9d5c678043d19a9eebb91eb4 sha1 9e14525d8a70fe9f113e88415f6962a86f3a08ca )
+	rom ( name Vids\Mov047.smk size 7325496 crc 89394f55 md5 e7195cba643db848d51067b9a8488335 sha1 e8ffa80a47652f4754e09cb1735ac8cf4c4af54b )
+)
+
+resource (
+	name asylumxstaemres
+	description "ZZZ - Sanitarium Steam Resources"
+	year 1998
+	manufacturer DreamForge
+	sourcefile asylum
+	rom ( name Music\MUS.005 size 3971300 crc c4577b05 md5 9651e433f7b902f2fcae3048f62a116f sha1 ef77e7199b2c41d6776b88634c0c090b25747107 )
+	rom ( name Music\MUS.006 size 13021286 crc 4c1b2777 md5 ea50243961f9feb32b2fe35607102d25 sha1 bc7840b37e02b6eb5ad846c1237131de02037bb8 )
+	rom ( name Music\MUS.007 size 13733398 crc 60c5dcc3 md5 2f5556b7ca334487aa9bdc47150eb135 sha1 5bc8129ec6a61bb1c8a53a3d75d4fc86bc4ce3c7 )
+	rom ( name Music\MUS.008 size 14385224 crc 8ceceda2 md5 1937ec8dad7ebf666828beb70d9547c8 sha1 a5429200080260703e6bb89284c7c6ac3abdda53 )
+	rom ( name Music\MUS.009 size 5307030 crc e1ad8e60 md5 f10a2803591c328d25032fe282317460 sha1 cd0acd2d452ec5fb973aa2308c293626d8f1eb27 )
+	rom ( name Music\MUS.010 size 7828512 crc 388ecb3c md5 0b14bf09fe726bfa7cf659e032678610 sha1 bc9b820289e64ef804154fc759965fc1fd5e4b91 )
+	rom ( name Music\MUS.011 size 4096306 crc c645e692 md5 ffbe15ea646ba3a6339901bcd34df5e8 sha1 1c98f1e6e7c32e14d1e3aa2bf6057dcaa0b12616 )
+	rom ( name Music\MUS.012 size 8949992 crc 21ed4851 md5 c9474cf8ae520d00fafc3f72a1bfaa8c sha1 b2f110577661045448dc1ec4bba5b66bd9bfc8de )
+	rom ( name Music\MUS.013 size 12640758 crc 84347057 md5 7047014384932cd76a8c9f2c189cc8cd sha1 924b151d5406056d5809d7a259bfaf6a047b1836 )
+	rom ( name Music\MUS.014 size 4760520 crc 6209391c md5 e1551b8042655701d0f8d04fd15c7a4e sha1 c57b2d548af1eb3c3fd088d85d735919f90a1d56 )
+	rom ( name Music\MUS.015 size 3718130 crc e542bfe6 md5 ed4b633b8db9e7c38c4c794ea2886b02 sha1 b0e7f89aeadee243784c3f902c0f39e340d4de87 )
+	rom ( name Music\MUS.016 size 3462496 crc 9d40fa1e md5 b3ce3ee9a17784a1089b279fc7d57bcb sha1 8b3c4f3e4b5ccb7830091ead6e7c5a8fd82fcc6e )
+	rom ( name Music\MUS.017 size 2374746 crc cafa3cf3 md5 109bae02a6a3cfc935c733edccf2544d sha1 5c18ce8f8800a4434320e64fd30424d48316a3b8 )
+	rom ( name RES.001 size 19127174 crc fbc970da md5 c8df4b2c7080b761d9869f45559df737 sha1 b5e999a230fed1f81f944fd007d03801016a9e69 )
+	rom ( name res.002 size 13021286 crc 4c1b2777 md5 ea50243961f9feb32b2fe35607102d25 sha1 bc7840b37e02b6eb5ad846c1237131de02037bb8 )
+	rom ( name RES.003 size 40153792 crc fb6c8cea md5 aee5efceab93b97b21000d661bea8f57 sha1 92939f91faa1086a8965441d9ea84ae743cee7bb )
+	rom ( name RES.005 size 18068618 crc 9de30b40 md5 1e23732352246c5aeca4510e86672aa3 sha1 b687898ce3efefe441c2d80a0156c378a3c1da27 )
+	rom ( name RES.006 size 43742852 crc c63e281e md5 abe040765f65ed1fc82767f56659d551 sha1 f106bae9e68c1821b6a2971e55b14c6b6009f1e8 )
+	rom ( name RES.007 size 28917952 crc a66d0159 md5 c89beb0e49175d05765d4951b6a0e783 sha1 7c48ae2a82e0511297dbc80f3f47435d9c5970f7 )
+	rom ( name RES.008 size 40323111 crc c9239e59 md5 6ee4e4aaee7e4549f863d979c1270628 sha1 8599a6a156a43b4601b977e7a898da4570b19c1e )
+	rom ( name RES.009 size 20451199 crc 63ea443a md5 9041ebc382bc00bf9ee9370f7c4674c0 sha1 2836d1a463cce6ff82a968c8f59c8591408aaeb2 )
+	rom ( name RES.010 size 52350586 crc 1a242261 md5 7fd53dcebc328f7e1806fcc55cee6a7b sha1 aaa3952492a2b58fa0efea42756014954dfec2a8 )
+	rom ( name RES.011 size 36571970 crc bc28a451 md5 de9eecab9b3578ebc199beeb9fa3d00d sha1 5706f596f56bbe86be48a932c1e234fc346036d4 )
+	rom ( name RES.012 size 43944491 crc a218c482 md5 22e16f27a4ebd3f3ae43cbd42020e5fa sha1 5c84f75f984b25212591952bca0f39002ebb2514 )
+	rom ( name RES.013 size 48004690 crc ba3b97e9 md5 9ae1cc6c67b1c8765cef1452a40bd6fd sha1 716d6a0742ceec220d9556f6e3a18cf32c2aa5fe )
+	rom ( name RES.014 size 29331511 crc bdb4db55 md5 8029c5a2dd8dc40c5a85bd52618bfb85 sha1 ea94025f0261565cfc31c83bd4c824ef1b52765c )
+	rom ( name RES.015 size 21144090 crc 6550f652 md5 da40e06970475f91de57312b37d4d89d sha1 be422116bd587fed2f5501015c0666266a62fe29 )
+	rom ( name RES.016 size 19565161 crc 0c3a70b6 md5 a46faabfa65aa6c364fa2f28aa88fbe4 sha1 4b5717625a1333c620acd2a2067410427b67ea74 )
+	rom ( name RES.017 size 18138499 crc 0bbf629f md5 7afb7206df58c38e933bdfba8492134e sha1 55774e9eb185b4ac559b93833c5c4f4b2d8d6558 )
+	rom ( name RES.018 size 2034325 crc 2f6d3859 md5 6a9e86824d3b5f338f01ec0e6189fa92 sha1 94f1a2c1692a02d670f02d0bc92cd1b66c70c516 )
+	rom ( name RES.104 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name RES.204 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name RES.304 size 299872422 crc c9184924 md5 9e2f3fa0b8b45f3f186ae0e370b6b326 sha1 257536b3b0c36b9966c7c92de535757fdc0d7004 )
+	rom ( name SCN.005 size 1449774 crc d576c344 md5 f5542da72430e36bf40ce53917729167 sha1 7672af3fc91cc4081c7b0c6b56eca70d644bdfb0 )
+	rom ( name SCN.007 size 1613758 crc d12b8e81 md5 8332dbcb829e395ad6a3e516b1326e49 sha1 10177cbb80d155aae0219b00623a79bd05895a2d )
+	rom ( name SCN.008 size 2449878 crc d4ee9b8b md5 d2ed5e04ca7c7c943474c8c9dac2be6a sha1 800391259d6b5b1aa0859ec1010a30f9378c5901 )
+	rom ( name SCN.009 size 1439826 crc 17773137 md5 6a1d108f6ce434a1931cb7a50c1b5948 sha1 9f43f2b6c74768b0e995da4d22d4d684b89457f4 )
+	rom ( name SCN.010 size 1956534 crc 93347413 md5 6571468b35a2e96a832ffe65d1da6242 sha1 bea7286102282432eb30854cc42e0277dadc8f0e )
+	rom ( name SCN.011 size 1998038 crc e90793e2 md5 22227ea163f11da9c441e1bd4bf03d73 sha1 3678f8b6213d697a806e149455f357ce0852bb5f )
+	rom ( name SCN.012 size 2727330 crc 036e4fe1 md5 f151c8a735f4e537c1b9315e330feed6 sha1 24224d8ad4f8f90b742262b5ea72972f39ac7284 )
+	rom ( name SCN.013 size 2117278 crc 3e82f4e0 md5 63801b4a2a1e378fb1e40495bd1bbcc6 sha1 6237b6d1901df45813e928869f3f1e493412f5ab )
+	rom ( name SCN.014 size 2067150 crc e7a5f0f2 md5 7179c7771250f320d26dc29a5289f867 sha1 a737b88ee73a48de1a3eb0c976210f165cf2dc7f )
+	rom ( name SCN.015 size 1309702 crc 093fb33a md5 b3987c81dabab0b8c6cd93dcca883037 sha1 388927cc289093aec5a55820b68b8aebc71ec8d2 )
+	rom ( name SCN.016 size 1955622 crc 390bc78c md5 ddb8dae0ed3687e794aaec009e5d89ad sha1 628e859a41dcf55677af45bf00ff12cd13e5b88b )
+	rom ( name SCN.017 size 1300370 crc bbe1763b md5 b5a1d6e2c2dc969fdbbc02e1656278df sha1 1b3675553020133e0174116f2b7e6c3c86c22fee )
+	rom ( name vids.cap size 2529 crc 3ce28081 md5 77ed82f83b8b1be330bcc694e6165f71 sha1 197c48e215111f7a9cbc5480a4714313dc7ea123 )
+	rom ( name Vids\MOV000_0_SMK.ogv size 858897 crc 40775a1a md5 911abbe4839fd775d6b16f9d2adc1d5f sha1 9cf0efd6590b13813bf0967969e93a98785924d4 )
+	rom ( name Vids\MOV000_1_SMK.ogv size 178186 crc 1e62a060 md5 c8e67f406a117097391f882b7bd77bd3 sha1 e092b4425f9b017bf673b0c72178da61a12a04a1 )
+	rom ( name Vids\MOV001_SMK.ogv size 19108691 crc d3be1e5f md5 f4d2eaf827a30e57401379d0d0c9baca sha1 e8ca8b6b5d299380403f75500f2c54d75cc63f87 )
+	rom ( name Vids\MOV002_SMK.OGV size 21182584 crc 860e34bb md5 82a3dcbda79b6b5004eb6208e19870ca sha1 36143e1578a6cdefd7196e7e58211a366f777d68 )
+	rom ( name Vids\MOV003_SMK.OGV size 30519343 crc b488e132 md5 d600ee405917fcabdebf032c08cd0e4e sha1 af5f5d3684640afee8bd1b48c205a9bb2833c8b5 )
+	rom ( name Vids\MOV004_SMK.OGV size 5750185 crc 6a23d576 md5 c1dbae41a2b2af8aa2b423c5386a1a3c sha1 b0d1ea4ccca8f0fdfa869935704287188a383fc2 )
+	rom ( name Vids\MOV005_SMK.OGV size 3727114 crc 1ec48298 md5 c2c65b1f4ebc8324075c29873e850499 sha1 018e018d32a2fd5dc3d1f65647b870e3798a37c9 )
+	rom ( name Vids\MOV006_SMK.OGV size 10740501 crc 8574bd98 md5 d4132008b1b8ebbd368cba0c761ac71d sha1 000d5a115d19cf72f5c41c460bb6b98b118af9f6 )
+	rom ( name Vids\MOV007_SMK.OGV size 1428236 crc 379de46b md5 2894da7c044f3aaa200fec17d09f3089 sha1 fef171f9d0acc489ead588bcebda1dd2d8b8e6d4 )
+	rom ( name Vids\MOV008_SMK.OGV size 4760500 crc cfdff006 md5 bf463d1aeccfd72860d60ec792b23fd3 sha1 2b3ba6ed7323838dd6a33965f1703a9e2f6d5d7d )
+	rom ( name Vids\MOV009_SMK.OGV size 7780997 crc d2225caa md5 2667cae4d97a491e51d7b47e88dcc03c sha1 e87ec71515fffb5dbbdbca07b3c911b4169e8064 )
+	rom ( name Vids\MOV010_SMK.OGV size 4586087 crc 457ce3b3 md5 e1c4fae63c83b906ec88cf08ec75bc25 sha1 7dc791d2844701d196b98ff2579fe478833ca328 )
+	rom ( name Vids\MOV012_SMK.OGV size 3797385 crc 53a29d5d md5 eb9fa55409a4fdff0aaa1d050f07941a sha1 9cf00e17e4748c04b241d726e49adea114c5735f )
+	rom ( name Vids\MOV013_SMK.OGV size 12657719 crc 78f6a255 md5 331ee8a158dc9eece5ff25d9936ee8eb sha1 521a45830128b5170ba169f1227103d149a98d34 )
+	rom ( name Vids\MOV015_SMK.OGV size 3206941 crc 7ecdf2a8 md5 b0dc53d2b5d8ab27187b15980d60a518 sha1 481c856adf479e06fd0c86acebe886d0a816ca37 )
+	rom ( name Vids\MOV016_SMK.OGV size 39401335 crc 28bbee11 md5 bb117449c10ddf20fef8a5bb196b3552 sha1 97d61bc7312e2bb70d3cbd489394ad7a04a9cbf4 )
+	rom ( name Vids\MOV017_SMK.OGV size 2244446 crc 12ee5ef5 md5 4a60ba67fc88fc18a01b652c24d30dcd sha1 04ffc9e559354ba32802a764ce2d60d5b585aa00 )
+	rom ( name Vids\MOV019_SMK.OGV size 4400852 crc 673e0ef5 md5 fe83cfc9178c9fcd0829bfaed5bf2dac sha1 4a4be5e54b068bacba33c053646d20e01eb2b7c9 )
+	rom ( name Vids\MOV020_SMK.OGV size 6705025 crc 52f295aa md5 f65f3f598b537f45ce3b23a8456edc9c sha1 704d918dc05ac124526b1522dea92b1cc10d60a0 )
+	rom ( name Vids\MOV021_SMK.OGV size 3526735 crc 9d5eb1f3 md5 ad1748a204d8e6f14f4b5d4db4c8f278 sha1 c72e4afb5184b738b4032709b7ad458a5fda3312 )
+	rom ( name Vids\MOV022_SMK.OGV size 16252889 crc 2e87887c md5 de258e358b128a18af4e3c859a900bd2 sha1 0eeb28bd5a5679f0f1abd3ccc44f75fcccb1f077 )
+	rom ( name Vids\MOV023_SMK.OGV size 7377006 crc 71704668 md5 f018355510286a996e36442ca2edbf02 sha1 62be66edbd0f99bccdf0dd452d55a933697c025d )
+	rom ( name Vids\MOV025_SMK.OGV size 7070590 crc 8a71dafb md5 7362f14f240dfd196b8c200875c3c27c sha1 e34e05e075205ae06bd0b42fe27525fbb46191c4 )
+	rom ( name Vids\MOV026_SMK.OGV size 24301260 crc 5ca85995 md5 32c0cae1d5cd85145b70cbc087324efa sha1 c20c2ebcbfd5aaca6a998a8e0f82b504adcd0669 )
+	rom ( name Vids\MOV027_SMK.OGV size 15141043 crc d0a93d63 md5 2f1667982aebc9ba5bce333984d51141 sha1 670f54a3757b436c705bd347f296114203ede0ad )
+	rom ( name Vids\MOV028_SMK.OGV size 26778235 crc 28da9b25 md5 c196bf21632b708bfb3a85ace3532ec2 sha1 80e279e603c75a50e22ddec6918738c28af138c6 )
+	rom ( name Vids\MOV029_SMK.OGV size 23905069 crc 0109f752 md5 d0f06eebe6934d4be51359ceb3b6450e sha1 a21267449fa00c79194269e89ee222a74799cef6 )
+	rom ( name Vids\MOV033_SMK.OGV size 12278626 crc 0a774f85 md5 fcd061f74a381af32eaa039ba9c34755 sha1 0c6406586b188827f5219c37dca88c78e54302e2 )
+	rom ( name Vids\MOV034_SMK.OGV size 17034085 crc 5572c127 md5 49ef7a25d88894e5f9a60ca553afc9be sha1 571dab3383d0551d66f9247bb127a5aec58e00c8 )
+	rom ( name Vids\MOV035_SMK.OGV size 18461208 crc 100456d3 md5 ee16ceb4aa309eb19ddd9c22cbe13ce3 sha1 65033bbb5b6f3296e5fbd248cfb48b1ad63a7ee5 )
+	rom ( name Vids\MOV036_SMK.OGV size 4344022 crc 643ba965 md5 a054294bc4a23d74bcfbbe6a2e40e8cf sha1 2438c393fa1d0bac1e9450d1647fd05e90775a03 )
+	rom ( name Vids\MOV037_SMK.OGV size 5961809 crc bcb85cba md5 c2106b1b2ce394565834817cff2d41d8 sha1 fe81d78f558e388bada00079296f57252ea0c247 )
+	rom ( name Vids\MOV039_SMK.OGV size 34280713 crc 76ae34b0 md5 722d0ddd2be3cc06811563f686123640 sha1 971dce8bb458336cf0e516ebf999306b8e5c0bc2 )
+	rom ( name Vids\MOV041_SMK.OGV size 8116821 crc c82e2952 md5 cae440da47a157cd9bee3771dd5c4d7c sha1 07f7623e68e9ac5ace82d85bb4f076e83f9cbfce )
+	rom ( name Vids\MOV042_SMK.OGV size 12784092 crc dc4c0f8f md5 1f2eb54e933d6497a197f846b9f9816c sha1 698a00b182f965493a10015ecb627605958a3ad9 )
+	rom ( name Vids\MOV043_SMK.OGV size 54515310 crc 1ea5144a md5 90fe6466440e9ac23e1b93e7cf6a37fa sha1 5c5fb9cf0a0eb6e845d8e6456defdb239e100f32 )
+	rom ( name Vids\MOV044_SMK.OGV size 46377647 crc f3c49629 md5 9b542cce33a5d7804b1389a3c285e7d7 sha1 1a171e62f2e7ff54e67d9ed95d8f8aaf1e5e96cb )
+	rom ( name Vids\MOV045_SMK.OGV size 32444322 crc 544dc152 md5 4fe08924086bbdd76a61cc5aafc28405 sha1 94fff8c560e070102d981a4d92aba45ab0f95154 )
+	rom ( name Vids\MOV046_SMK.OGV size 35067392 crc f0be52d8 md5 4de488e389f6c7602c55d8628619caaf sha1 4863f6687852115c4bbfb59dae0bd26066b1e5bf )
+	rom ( name Vids\MOV047_SMK.OGV size 8661159 crc a8e07d90 md5 7f6bed93c0e01cbdc312737534741a21 sha1 9746a159f58136c55d754be36de5059e68843809 )
+	rom ( name Vids\MOV048_SMK.OGV size 9156264 crc b2d0bf41 md5 b12e95c286c28662850a0421f570b68f sha1 6a5eff103353b2a658beb075af1162e8985a0741 )
+	rom ( name Vids\palette size 768 crc 4f1a1038 md5 1b18b19010392a4be200fc26205ba0a1 sha1 294fbaa224a8255a15c1f5eb673ce2a812977915 )
+)
+

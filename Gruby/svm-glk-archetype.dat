@@ -1,0 +1,38 @@
+clrmamepro (
+	name "ScummVM GLK-Archetype"
+	description "ScummVM - GLK Engine - Archetype Games"
+	category "ScummVM"
+	version v1.00
+	date 2019-11-12
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name gorreven
+	description "Gorreven Papers, The (Multi-OS)"
+	year 1995
+	manufacturer "Derek T. Jones"
+	sourcefile glk-archetype
+	rom ( name gorreven.acx size 66793 crc 09442023 md5 2d71cf046b480839c9126319921fa70d sha1 1fafa906a2739677f624a9f94aede1b8b4c8faba )
+)
+
+game (
+	name guesstheanimal
+	description "Guess the Animal (Multi-OS)"
+	year 1995
+	manufacturer "Derek T. Jones"
+	sourcefile glk-archetype
+	rom ( name ANIMAL.ACX size 1266 crc fc41578d md5 f1c4d7ba35db9f217eacd84181b4bb33 sha1 f80964d10d1e84a4f07d779f329d16cec5fc0c63 )
+)
+
+game (
+	name starshipsolitaire
+	description "Starship Solitaire Adventure, The (Multi-OS)"
+	year 1995
+	manufacturer "Derek T. Jones"
+	sourcefile glk-archetype
+	rom ( name starship.acx size 55762 crc 03bbfa6c md5 139a00b7fb8fe8f15af4ac227e5040b8 sha1 d8349d5a65b05c277ade24ab011bac09abf28caa )
+)
+

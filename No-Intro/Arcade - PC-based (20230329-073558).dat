@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>399</id>
+		<name>Arcade - PC-based</name>
+		<description>Arcade - PC-based</description>
+		<version>20230329-073558</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Mario Kart Arcade GP DX (Unknown) (v1.18) [b]" id="0001">
+		<category>Games</category>
+		<description>Mario Kart Arcade GP DX (Unknown) (v1.18) [b]</description>
+		<rom name="Mario Kart Arcade GP DX (Unknown) (v1.18) [b].7z" size="1688871977" crc="4400aeca" md5="8152f02e94472b3cd0367ed7825ff41d" sha1="daf9023b967024d5f08aa0bba20160efd6486a84" sha256="c7be17b5ed0fc3e597c328cc8e8a32bd4c4ab9b043baae2e2adac4e25da89661" status="baddump"/>
+	</game>
+</datafile>

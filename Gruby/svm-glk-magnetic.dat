@@ -1,0 +1,127 @@
+clrmamepro (
+	name "ScummVM GLK-Magnetic"
+	description "ScummVM - GLK Engine - Magnetic Games"
+	category "ScummVM"
+	version v1.01
+	date 2020-08-26
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name corruption
+	description "Corruption (DOS)[v1.11][!]"
+	year 1988
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name corrupt.gfx size 200297 crc e69ed269 md5 6f54696d014ee8f1d228f9206691cedf sha1 49f9774d14dc6cb6c4e1c5a83e12e2db626a5bef )
+	rom ( name corrupt.mag size 167466 crc bb15e3e3 md5 40059a7580eca1191b92e92865f55acf sha1 cae0063bfdbe91079536661424267eff6447dcb7 )
+	rom ( name corrupt.mp3 size 649836 crc b302f43d md5 38105ca0867a050526b2202a6e3469d4 sha1 c3ab9d4a3e102a68e97de74978e6100e3f9110d2 )
+	rom ( name corrupt.png size 71328 crc c922c886 md5 485b788256a0e8796eb716fe41025659 sha1 97d4385a874abd2dafdb88a54c1b13dc7a9123c3 )
+)
+
+game (
+	name corruption-1
+	description "Corruption (DOS)[v1.12][from collection][!]"
+	year 1991
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name ccorrupt.gfx size 951497 crc dffbc583 md5 584886e9c4218523b55190e079dc4952 sha1 12bcd3c227d253d432509cb8c856325d25dbe1e9 )
+	rom ( name ccorrupt.hnt size 31618 crc 6dc41b1c md5 b404f3b067534b4982f2f4048db3348d sha1 3d10a362271bbb98f2b445f2441cb06b794e7cfd )
+	rom ( name ccorrupt.mag size 177185 crc a243fc63 md5 323804d54bffdc57d1626752f0d66582 sha1 5859092290c9258f2e140f9a9405439cd7522d74 )
+)
+
+game (
+	name fish
+	description "Fish! (DOS)[v1.07][!]"
+	year 1988
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name fish.gfx size 199160 crc f88fd98b md5 f0b61389d3cd65aeb719fba84a864f88 sha1 951f1b846528fbdef2de91b7d90b32ce4c4fd954 )
+	rom ( name fish.mag size 162858 crc 8d6b636f md5 1c403e3b5a9d6669b0f3f3660c6a41aa sha1 c9410475da44636272b821aa7868c4e78f3755fd )
+	rom ( name fish.mp3 size 334044 crc e1d28a8e md5 099d1f9488c13f779dc628a8453fd952 sha1 e63fd436a430194a6e96e9a6d2fc9fb575cdb48c )
+	rom ( name fish.png size 97790 crc 3b061976 md5 e3ca8cc0267066bf9e179fedc8d21505 sha1 0d393d27015a49a29fa99e368020a0a4be75f498 )
+)
+
+game (
+	name fish-1
+	description "Fish! (DOS)[v1.10][from collection][!]"
+	year 1991
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name cfish.gfx size 575480 crc 769e7695 md5 145a1cb4ac187a09db15ff1426503621 sha1 543015c6541dc9eb5d91ba7e83fa76a8bec96ec6 )
+	rom ( name cfish.hnt size 31618 crc 6dc41b1c md5 b404f3b067534b4982f2f4048db3348d sha1 3d10a362271bbb98f2b445f2441cb06b794e7cfd )
+	rom ( name cfish.mag size 172517 crc 51415fd6 md5 2616fcdef92d1c5dd385c9c8a0da1c22 sha1 81172e3b940c53ebab50e384c081283ee91c69f0 )
+)
+
+game (
+	name guild
+	description "Guild of Thieves, The (DOS)[!]"
+	year 1987
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name guild.gfx size 212224 crc 4223b3a5 md5 016dc876c53e23e99e4493e8c5673f5f sha1 09517c709a312516a3abc02755b8887a6ae1b882 )
+	rom ( name guild.mag size 130858 crc 449bbd8f md5 3416832716a172d33855eafedcdfa1bd sha1 9a779a15c66aa3a7e7632f58c7a47b479662ba4f )
+	rom ( name guild.png size 68659 crc 5b2eff32 md5 93c6768c7cb41ad4086fe89e7fe6f42c sha1 ab0db6c380296b4345e0198a3f010418fc5e2bc6 )
+)
+
+game (
+	name guild-1
+	description "Guild of Thieves, The (DOS)[v1.3][from collection][!]"
+	year 1991
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name cguild.gfx size 669633 crc 42b56c6a md5 48e1e3da2e02c9dedfdf0693ef1077ae sha1 3a4af8272b848f77c99c0f8152d6afee09dc4b89 )
+	rom ( name cguild.hnt size 31618 crc 6dc41b1c md5 b404f3b067534b4982f2f4048db3348d sha1 3d10a362271bbb98f2b445f2441cb06b794e7cfd )
+	rom ( name cguild.mag size 141766 crc c003e2b6 md5 9fb0ae1574ed4ac1616d850e4041269d sha1 8ca06d3973114c6ac5d152c19a0a9c84c412b33b )
+)
+
+game (
+	name jinxter
+	description "Jinxter (DOS)[v1.0][!]"
+	year 1987
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name jinxter.gfx size 271104 crc d2eeaad1 md5 962c50a12cd929580dd13f57a67667f0 sha1 b656317de141458ad2346980500266cc9626f0cb )
+	rom ( name jinxter.mag size 156458 crc 18d47f98 md5 ab1cd85a27d1418627131675140c9241 sha1 1346d96ed87f0e2591d4c887ecacbcb02cbec3d4 )
+	rom ( name jinxter.mp3 size 591084 crc d8e7de4e md5 3f263b611a71abbf55d756ad6f9498f6 sha1 423e78fe335666b36706d770bbfce04405fd481c )
+	rom ( name jinxter.png size 82942 crc 8b7f616f md5 9c96313c42e353304938ac1c05e4d784 sha1 0db18db5d7d30584e9c5acb8f1f4228bccb3492d )
+)
+
+game (
+	name myth
+	description "Myth (DOS)[v1.0][!]"
+	year 1989
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name myth.gfx size 32540 crc ab135db9 md5 8b419437a01ea36652cc3a917a22caaf sha1 53fcdd7bb38c60afe82f663912fbe41966ff5a70 )
+	rom ( name myth.mag size 99370 crc bb4258cf md5 fc288c842e77f5cffd43f777346fc2c3 sha1 6068915d938fc5c8837302cf9d609789d47458a6 )
+)
+
+game (
+	name pawn
+	description "Pawn, The (DOS)[!]"
+	year 1985
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name pawn.gfx size 276612 crc 7126c012 md5 342a6e73689368cc130c88ed0d8c8128 sha1 f040d3b514859780e6bd82bf07545ef5825afead )
+	rom ( name pawn.mag size 103466 crc ab9315ee md5 c732efef48ed4d33b03ad724e200f3dd sha1 bcd0f66e578321863018ab15c4a28b2ca392fbac )
+	rom ( name pawn.mp3 size 604908 crc 6b8159d8 md5 296de65e98a05feb51bb2d102973d650 sha1 b70b643574b4ab9fd6b8b29a93cc705c867e6232 )
+	rom ( name pawn.png size 65079 crc 620289b3 md5 df5fef7021e3b469e84e00b966559224 sha1 b77ac6168be0ea84052cc705e17e08f76bb27634 )
+)
+
+game (
+	name wonderland
+	description "Wonderland (DOS)[v1.21][!]"
+	year 1990
+	manufacturer "Magnetic Scrolls"
+	sourcefile glk-magnetic
+	rom ( name wonder.gfx size 2534113 crc 74211a7a md5 66b2865437d680829bb372f2dca0df3a sha1 0948271bf28730830a278fafdf36101f717c052e )
+	rom ( name wonder.hnt size 19620 crc d08ca7a2 md5 b78ea3c754bb08249349f3f66700c415 sha1 662e786d09d61f9f0019ce5f20eba4ee094d4dc3 )
+	rom ( name wonder.mag size 183916 crc 0e5f058c md5 a00f0d63e3942a63f132e988272de7a7 sha1 361ccb99292296111ce3954490be3ffb82608c4e )
+	rom ( name wonder.mp3 size 1212627 crc 0e4028b3 md5 d454ef9ca3345c246bc878cccdf9fc6d sha1 ce5924d14a453e92ed6a9128edfdc4b7a2fdffb0 )
+	rom ( name wonder.png size 34622 crc 7b88a6e4 md5 77b2b7b4fedcb9761ee623074d207c68 sha1 def185307b31939772816e5c24d42d9108990cc3 )
+	rom ( name wonder.snd size 57370 crc f665d53a md5 cd161febd94ee5b92f8a392641d98931 sha1 10e5bacd611254a16ebdbfe58fdf0f03c0fe50e5 )
+)
+

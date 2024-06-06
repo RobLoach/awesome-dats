@@ -2,84 +2,273 @@ clrmamepro (
 	name "ScummVM XEEN"
 	description "ScummVM - XEEN Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2016-09-12
+	version v1.12
+	date 2021-08-18
 	author Gruby
 	forcemerging split
 	forcenodump required
 )
 
 game (
+	name cloudsofxeen
+	description "Might and Magic IV: Clouds of Xeen (DOS)"
+	year 1992
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name XEEN.CC size 13435646 crc ecf2e3ab md5 60933c74b1ddb2a6b93b86757b0995e4 sha1 8b2cff57083c1d7c0a6e663637fe76cdae5e6cf8 )
+	rom ( name XEEN.CUR size 283796 crc b0f3330d md5 f6a64b6e3702eb65d31a65e46582e8cd sha1 dbc0dea78b9dcfd3a5e11ce452c4a581fd5a37a8 )
+	rom ( name XEEN.DAT size 155405 crc 871d11c3 md5 83b62b9c5f3f19a3ce7cd1c0eeb59d31 sha1 5bbc7948f419153bb8c4c474d965c790246e2efd )
+)
+
+game (
+	name cloudsofxeen-de
+	description "Might and Magic IV: Clouds of Xeen (DOS/German)[GOG][!]"
+	year 1992
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name XEEN.CC size 13214150 crc ed558415 md5 08ec9a6ee8a4c2552c5bbfd796f8abdf sha1 1045f01339f8ab63b9417c333d9db6fba2d45f40 )
+	rom ( name XEEN.DAT size 155207 crc ceba6740 md5 add0fefddc2b2bbd78818acb3e2be1ce sha1 d5ee9f650ac077d3f535306e0b03d7d770522492 )
+)
+
+game (
+	name cloudsofxeen-fr
+	description "Might and Magic IV: Clouds of Xeen {Les Nuages de Xeen}(DOS/French)[!]"
+	year 1992
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name XEEN.CC size 13203565 crc 21848e15 md5 3a902466266734c8ac604a11a73c02af sha1 e394b3184aeea208c2faf0eabdca94102196bb8f )
+	rom ( name XEEN.CUR size 283796 crc 65c92b5f md5 7237f0df902aa420a3110923439cd897 sha1 ce7fb0488d661456673a4e42b20aa43b6626618d )
+	rom ( name XEEN.DAT size 155497 crc 4147c7db md5 55fc7e28122d3595b8463bdac73577a4 sha1 cc1d070faf1b483271de99ac3a18044bd124e4ad )
+)
+
+game (
+	name cloudsofxeen-nz
+	description "Might and Magic IV: Clouds of Xeen (DOS/Chinese)[!]"
+	year 1992
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name CHINFONT.COD size 11951 crc 2fcec6e1 md5 4c353510c91afcd1642a998f9d541297 sha1 d0b89d72358fd6ebdf6c4cdac7d4b3b33727bb1a )
+	rom ( name CHINFONT.FNT size 410130 crc bb11272a md5 c66cea8a8fadb618aa198edc0da3ff74 sha1 a2013df08aafc5f804d5e1f864b76bc7b6ed7724 )
+	rom ( name XEEN.CC size 13859999 crc 4643660e md5 6b608c318ed0b4fcd4fe1760aef5c19f sha1 7323e705fbd64880e81a592f3104e9efdb40fef3 )
+	rom ( name XEEN.CUR size 283796 crc 4cbeab78 md5 6fb06552ac02c678bdd07edbb051861d sha1 8b59615654847dd741e54cbf22c16b2bed33b275 )
+	rom ( name XEEN.DAT size 163998 crc 413fea60 md5 0d66d6fc5cc215d0779dea43e2dd21c6 sha1 af38aa3edb9c74682601cb7580daa070547a6f22 )
+	rom ( name XEEN_n.DAT size 164108 crc bc1569d5 md5 823ef64c09afdeadf44ea5270162f450 sha1 259daaaec8b2a1fff4c210b31a32e57893f13579 )
+)
+
+game (
+	name cloudsofxeen-ru
+	description "Might and Magic IV: Clouds of Xeen (DOS/Russian)[!]"
+	year 1992
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name XEEN.CC size 13417817 crc 03ac657a md5 3f6f7650c09d9c6937424837817879b9 sha1 7bd316174cb98434f4c4a799e1b86844d5819401 )
+	rom ( name XEEN.CUR size 283796 crc 68b08528 md5 ade477d4d916b27e0ba13dbd67902cf8 sha1 d5ed653e5fc274bb71704a9fcafebfeebe9fc38d )
+	rom ( name XEEN.DAT size 392544 crc 8b430c9d md5 0b22efb3c40e86a55204a7c7240f4029 sha1 e1af15616a3618d984d9732f94ab4711a99d5ca3 )
+)
+
+game (
+	name darksideofxeen
+	description "Might and Magic V: Darkside of Xeen (DOS)"
+	year 1993
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name DARK.CC size 11217676 crc d5e96530 md5 89d5c3a3a31fdaf5868728b64541c9bd sha1 29665d274acedc80a7acb7fad3939fd78fd74846 )
+	rom ( name INTRO.CC size 8986211 crc 3d514392 md5 26d3415d232861b0a7695deace4e187d sha1 3818b2b1b2326b86bd3cd9962d094910b85891c4 )
+	rom ( name XEEN.DAT size 154658 crc fa10c2a5 md5 6cb0aac835df684e417f6bf834dc8c96 sha1 5eafa2ad11e66e2e9ebdeaecbadd122938acdc94 )
+)
+
+game (
+	name darksideofxeen-de
+	description "Might and Magic V: Darkside of Xeen (DOS/German)[GOG][!]"
+	year 1993
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name DARK.CC size 11168312 crc ef8fe799 md5 aa0d414266824e87368e5667cd76351a sha1 b6db681e7cd3956bddb350608f40563938dc9e09 )
+	rom ( name INTRO.CC size 8899953 crc 3fe0905b md5 7e1acaea0aa4f021758a1ba3478ad432 sha1 3be052ea04648d1ddcd61dcc34a5bfd5d5e85f7f )
+	rom ( name XEEN.DAT size 155207 crc ceba6740 md5 add0fefddc2b2bbd78818acb3e2be1ce sha1 d5ee9f650ac077d3f535306e0b03d7d770522492 )
+)
+
+game (
+	name darksideofxeen-de-1
+	description "Might and Magic V: Darkside of Xeen (DOS/German)[!]"
+	year 1993
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name DARK.CC size 11173657 crc 7b50c64f md5 3b70f89d877a6396fcf27bc473d721de sha1 1990515f99df8f42e7d07110010838b953f954f3 )
+	rom ( name INTRO.CC size 8899953 crc 3fe0905b md5 7e1acaea0aa4f021758a1ba3478ad432 sha1 3be052ea04648d1ddcd61dcc34a5bfd5d5e85f7f )
+	rom ( name XEEN.DAT size 154050 crc d812c7f5 md5 9f728b59f5af1dcd833279c43e6c3891 sha1 94af30198e5305f93221d73d6a7dcee6985d240d )
+)
+
+game (
+	name darksideofxeen-fr
+	description "Might and Magic V: Darkside of Xeen {La Face Cachée de Xeen}(DOS/French)[!]"
+	year 1993
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name DARK.CC size 11152923 crc d0c8cf10 md5 8e1a3136fc7a14a3f32e025e0f8ad10a sha1 fb3a0dc188474257b3680c08d71f3e940bbdf5aa )
+	rom ( name DARK.CUR size 381691 crc 6275399a md5 17fd8857f22f3017bbfdcdf825abfbd2 sha1 9eac5f0d5cdffcaae15057b715abbe3fa47f46a5 )
+	rom ( name INTRO.CC size 8764585 crc fba61959 md5 b8d8625149803ef0b884ed7771062d5e sha1 b3c384f862b47bc730ebd96f160b74e373b6f7b8 )
+	rom ( name XEEN.DAT size 154332 crc 71544c32 md5 4ca951face791db4fee1d685b3364e8f sha1 d0826ee44a57451038cf805bc4b7ac54ce49dc68 )
+)
+
+game (
+	name darksideofxeen-nz
+	description "Might and Magic V: Darkside of Xeen (DOS/Chinese)[!]"
+	year 1993
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name CHINFONT.BIG size 28286 crc 63a1e252 md5 2eed0afa38d5c4a7c6fc3818b33f51b5 sha1 7760570d18387013a42c028e66d169a1f544c23d )
+	rom ( name CHINFONT.COD size 6595 crc 854afd01 md5 958a057856a443c33f136a5ab8f967b7 sha1 da37363cb17ce33ffa102baca67c4598a938a951 )
+	rom ( name DARK.CC size 11137412 crc 72d53f40 md5 2f0d290c6babd8624ba5b37d3ef062f9 sha1 8ad3f16a06858892e2b68eef168fef2af9d554ba )
+	rom ( name DARK.CUR size 381691 crc ebc3801b md5 f7b2e2218be9f1b6a24b45ec2e3a385f sha1 fd3ba3494d6adddadb025b94ed7d37f9790c4e63 )
+	rom ( name INTRO.CC size 9079048 crc b7b088d9 md5 513e529feddbe4c4fa8e7888c8aef608 sha1 1fc7e164008aa6f4c02b14650f92e2aa0f56e12d )
+	rom ( name TEXTPAT.FNT size 404076 crc 34366197 md5 6c202b5c8f982eb5114b19e2889de97f sha1 5a5c2e31a95896947d84edd81be097da25f28bf5 )
+	rom ( name XEEN.DAT size 160413 crc ea56cc8c md5 ee88030651fb0357acc52c724a09e420 sha1 ea064b015c5ee685795d6cf5df31f1184d0eb8e3 )
+)
+
+game (
+	name swordsofxeen
+	description "Might and Magic: Swords of Xeen (DOS)[!]"
+	year 1995
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name SWRD.CC size 13026924 crc c836f620 md5 938e27ccafb9df3fbac06e0b4db74ec1 sha1 fc56259afaaad9b02fe227019784c6c47c6b58ea )
+	rom ( name SWRD.CUR size 242048 crc f29b6b6a md5 9a8c5c4e32e5e3353fdd22f749f86f74 sha1 285a6d2237952d8f4d64bc1515a20cdc07214a8b )
+	rom ( name XEEN.DAT size 619778 crc 3b1f0195 md5 0680510c3883f92d2483d7fbfb7aa140 sha1 e3796882b17c75364576facccdef0b541c51ae67 )
+)
+
+game (
 	name worldofxeen
-	description "World of Xeen (DOS)[!]"
+	description "Might and Magic: World of Xeen (DOS)[!]"
 	year 1994
 	manufacturer "New World Computing"
 	sourcefile xeen
-	rom ( name BOSS.MM4 size 64000 crc aed8e227 md5 69146138b507605cab9e8ced92253944 )
-	rom ( name DARK.CC size 11217676 crc d5e96530 md5 89d5c3a3a31fdaf5868728b64541c9bd )
-	rom ( name DARK.CUR size 381671 crc 9ab15530 md5 1138cb0299b653c07e8b955f1f709948 )
-	rom ( name INTRO.CC size 8986211 crc 3d514392 md5 26d3415d232861b0a7695deace4e187d )
-	rom ( name MUSIC\xeen02.ogg size 2504800 crc d88bd5f5 md5 c35270c6ac924dfc8fb45e4533915a6d )
-	rom ( name MUSIC\xeen03.ogg size 310859 crc f471aebc md5 7796b9047e7711c6d19e5ad793f9ce74 )
-	rom ( name MUSIC\xeen04.ogg size 726756 crc c115614e md5 c09a6dd196c24ef4abf4e5224506bdc1 )
-	rom ( name MUSIC\xeen05.ogg size 406016 crc bbcb048a md5 f378c2a496dbc49f1bf20f49cc7d3e08 )
-	rom ( name MUSIC\xeen06.ogg size 719068 crc 1928742a md5 8a87226b9f4ca46b664bde4a23275465 )
-	rom ( name MUSIC\xeen07.ogg size 2226330 crc 56fceb18 md5 bfd8b9d04e5e92fc2b57925346370c13 )
-	rom ( name MUSIC\xeen08.ogg size 248172 crc 3382ac7a md5 66e56fbb1a3d80e2903cffeaa939206f )
-	rom ( name MUSIC\xeen09.ogg size 190402 crc 3b91d685 md5 f6c7ef5663c447c0b13956d974449f2a )
-	rom ( name MUSIC\xeen10.ogg size 2102266 crc 9f2b14fd md5 975087b25f43fe680d07745f8a7f57d8 )
-	rom ( name MUSIC\xeen11.ogg size 1059356 crc 1fe8e076 md5 d6da75f88f205903cf818a5f50f5d9ec )
-	rom ( name MUSIC\xeen12.ogg size 328863 crc 438fe4eb md5 e6d34b92415b03e2bc89c026d34676b8 )
-	rom ( name MUSIC\xeen13.ogg size 974684 crc 8ca5071b md5 95673dd11c299e08a9868a388557f120 )
-	rom ( name MUSIC\xeen14.ogg size 785662 crc f0d8f74d md5 336d06f2b9a8f4d6d08012897397a128 )
-	rom ( name MUSIC\xeen15.ogg size 64290 crc d3148923 md5 2ca771e2ab9d9a8f12211bd4c092e793 )
-	rom ( name MUSIC\xeen16.ogg size 3293382 crc d01c3077 md5 e8e095c66f7d709a68fb7f8f5bcfad33 )
-	rom ( name MUSIC\xeen17.ogg size 1607116 crc b8ecf609 md5 3ede9074f095dec2fea2845737f48185 )
-	rom ( name MUSIC\xeen18.ogg size 617853 crc ba44450c md5 47d3e947900a5e753f9f42dde5264dd6 )
-	rom ( name MUSIC\xeen19.ogg size 4095388 crc b3440774 md5 9576c61a6903ae7434cc6346792382dc )
-	rom ( name MUSIC\xeen20.ogg size 109089 crc 79255a60 md5 afff6c2b4a8a3477423b2dfd50c7c63b )
-	rom ( name MUSIC\xeen21.ogg size 1421530 crc 64bc4c62 md5 912c5e17d3a9c1f68cdf0981bb771a48 )
-	rom ( name MUSIC\xeen22.ogg size 1842036 crc 8f418c51 md5 95aad531c9c6bd8906a930782c0a8015 )
-	rom ( name MUSIC\xeen23.ogg size 845782 crc d21e1cfd md5 f28ede3d5aad056f04830a041c8f1a81 )
-	rom ( name MUSIC\xeen24.ogg size 2765368 crc 0973c0e2 md5 a5804d0de5b216e4276c346fd2d464cb )
-	rom ( name MUSIC\xeen25.ogg size 1495225 crc 4adf0b51 md5 b4cc4455477dfeefbfc8a256361c5f1c )
-	rom ( name MUSIC\xeen26.ogg size 4504272 crc f5010f3a md5 7bf890dd4519ab8e89e53f23b224fa8a )
-	rom ( name MUSIC\xeen27.ogg size 1043631 crc 92da7ba9 md5 f5dc077878b0ee94957c5cee91042a14 )
-	rom ( name MUSIC\xeen28.ogg size 848705 crc a39f2368 md5 a6fd9e2620f3a68a33bdc75de9217a09 )
-	rom ( name MUSIC\xeen29.ogg size 691975 crc 70177f54 md5 7bd1ee5004239ae0126c205050053443 )
-	rom ( name MUSIC\xeen30.ogg size 7053339 crc c0595a6a md5 182d215a5add2918fa22021bdc12e245 )
-	rom ( name MUSIC\xeen31.ogg size 6498902 crc 8c043116 md5 624a5618c40198b9f2cc50d017c7e84f )
-	rom ( name MUSIC\xeen32.ogg size 2748836 crc a40afad5 md5 c1821335e37926601da0e8b39d29477b )
-	rom ( name MUSIC\xeen33.ogg size 1063983 crc d7495486 md5 58e2b3a8885ab7639d5b74d28c4b3914 )
-	rom ( name MUSIC\xeen34.ogg size 1283671 crc f6c4cd99 md5 2ca874b240ef3b1af3fd78a2581d4dbe )
-	rom ( name MUSIC\xeen35.ogg size 1917966 crc eb17331d md5 4f9fb1bb7d30897c16810f3ee9aad972 )
-	rom ( name MUSIC\xeen36.ogg size 3011521 crc 2e613b7d md5 221a9e87369b4525b70f08cf43e98178 )
-	rom ( name MUSIC\xeen37.ogg size 1353418 crc 6fe631ea md5 c7bdd076ced5a5678ff60d7b92d6c2da )
-	rom ( name MUSIC\xeen38.ogg size 2661587 crc ff8f3d07 md5 eb44ec3794bb3304af5008828d16c287 )
-	rom ( name MUSIC\xeen39.ogg size 2417699 crc bc0984b8 md5 e3e8843a8c5d917d05074ff2db1041e4 )
-	rom ( name MUSIC\xeen40.ogg size 3313321 crc b1e881fb md5 8c42f7090ebb8f9564dcd814b678daeb )
-	rom ( name MUSIC\xeen41.ogg size 1659856 crc b8a2f6d0 md5 12af2d0f581abfb6a8acca93ed644d90 )
-	rom ( name MUSIC\xeen42.ogg size 1612424 crc be856b28 md5 60e37bb7ca487e7640f59d6a5fb77e2a )
-	rom ( name MUSIC\xeen43.ogg size 2169437 crc 4e403861 md5 8094372a602a4ee34233f9d0fb6e8806 )
-	rom ( name MUSIC\xeen44.ogg size 2865423 crc 90417c39 md5 2bb386af81c43d29c2c2e2aebbda8c4d )
-	rom ( name MUSIC\xeen45.ogg size 449240 crc a99e1282 md5 3fd2116469f8da28a833555cac25fcc2 )
-	rom ( name MUSIC\xeen46.ogg size 1719955 crc f650953b md5 8755800e6edb363baa71d233115db947 )
-	rom ( name MUSIC\xeen47.ogg size 2320006 crc 8584b1fe md5 706cfc930b207a72848e8cae067ec899 )
-	rom ( name MUSIC\xeen48.ogg size 3575257 crc 10b52043 md5 cff0b40377f675ac576d7a214192650d )
-	rom ( name MUSIC\xeen49.ogg size 3630284 crc ac21ec0a md5 4e26079643d95a05550fd7984cc3f081 )
-	rom ( name MUSIC\xeen50.ogg size 581810 crc 3ffe4982 md5 0e7e58a9cd6805473b16d39ac65536b2 )
-	rom ( name MUSIC\xeen51.ogg size 2589745 crc b1f14433 md5 315775300cc388706b81bafde7a0dbbe )
-	rom ( name MUSIC\xeen52.ogg size 911131 crc fb80b4fa md5 a6a949e215666ee22d431af842a04ea2 )
-	rom ( name MUSIC\xeen53.ogg size 4829295 crc 6485b9b5 md5 34a82cf981a4e05f083ad16c2a50ff11 )
-	rom ( name MUSIC\xeen54.ogg size 3117393 crc da607d7c md5 2fb38f0814bb3f638781ce73cc3da10e )
-	rom ( name MUSIC\xeen55.ogg size 3510162 crc de2dd5da md5 ed973f2a8448877d24a36fa9f5d04c55 )
-	rom ( name MUSIC\xeen56.ogg size 3984346 crc ccb7db50 md5 4a606e3806f88fa70fd452c1f6f0eeb4 )
-	rom ( name MUSIC\xeen57.ogg size 535549 crc 4bf07390 md5 1968d09c334c89c0a5526e7ec7a9aaf6 )
-	rom ( name MUSIC\xeen58.ogg size 1716074 crc ab9bf044 md5 e88aa513f4bb6e19a359063bd3fc704d )
-	rom ( name MUSIC\xeen59.ogg size 255340 crc 7379602a md5 5755baf1fa90b0e55df78b776a1a9b74 )
-	rom ( name MUSIC\xeen60.ogg size 4823502 crc a9cc14c9 md5 d19c668131e90abdd70f22ee4c5a6b1b )
-	rom ( name XEEN.CC size 13435646 crc ecf2e3ab md5 60933c74b1ddb2a6b93b86757b0995e4 )
-	rom ( name XEEN.CUR size 283796 crc a6a7d9e1 md5 99b052f926a3e4fd27d519e5a9df526f )
-	rom ( name XEEN.DAT size 154658 crc fa10c2a5 md5 6cb0aac835df684e417f6bf834dc8c96 )
+	romof worldofxres
+	rom ( name DARK.CC size 11217676 crc d5e96530 md5 89d5c3a3a31fdaf5868728b64541c9bd sha1 29665d274acedc80a7acb7fad3939fd78fd74846 )
+	rom ( name XEEN.CC size 13435646 crc ecf2e3ab md5 60933c74b1ddb2a6b93b86757b0995e4 sha1 8b2cff57083c1d7c0a6e663637fe76cdae5e6cf8 )
+)
+
+game (
+	name worldofxeen-1
+	description "Might and Magic: World of Xeen (DOS)[Monster-Spawn Mod v1.0][!]"
+	year 2021
+	manufacturer "New World Computing & Ludmeister"
+	sourcefile xeen
+	romof worldofxres
+	rom ( name DARK.CC size 11222393 crc 3fa7db9b md5 c77fdb6a9525463979fb8992338a8df6 sha1 f08ee8d836500336a81cbf2b6564a826186f5049 )
+	rom ( name XEEN.CC size 13536623 crc 3e6a5134 md5 381988abfd8e945eaf68422f730fc8fd sha1 594fc8b92779d21454a76e1bfe65dd719b6fcbba )
+	rom ( name XEEN.DAT size 377584 crc d6f89adf md5 5673002a18d25e01ef269ad6ee67f95c sha1 576632a0ee07bea4eda251ef1932da045160bfeb )
+)
+
+game (
+	name worldofxeen-cd
+	description "Might and Magic: World of Xeen (CD/DOS)[!]"
+	year 1994
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name DARK.CC size 11288403 crc 6421f2f8 md5 00a90f7b2696dc80d7167bdceb54d4e1 sha1 96fda506aba04aa545eeb1a90766217866ad08d8 )
+	rom ( name INTRO.CC size 12393360 crc 94a6fd11 md5 0cb10f51a783bb6b52ee19ca628bf831 sha1 4e2bf1fd72f48fded650f45b0b95a4f5c8ced3fb )
+	rom ( name track02.ogg size 2504800 crc d88bd5f5 md5 c35270c6ac924dfc8fb45e4533915a6d sha1 7d881656fe9f32c9dd7246a2c963a0a2ad583b71 )
+	rom ( name track03.ogg size 310859 crc f471aebc md5 7796b9047e7711c6d19e5ad793f9ce74 sha1 e8b1baf41d3ce07f633c76888b4116b8ef7b6d83 )
+	rom ( name track04.ogg size 726756 crc c115614e md5 c09a6dd196c24ef4abf4e5224506bdc1 sha1 ee3f061f9d603e287f6a38346a562c5688f2f0e8 )
+	rom ( name track05.ogg size 406016 crc bbcb048a md5 f378c2a496dbc49f1bf20f49cc7d3e08 sha1 e467e87d92381ac9c3ecaf53431fb7cafba1dd83 )
+	rom ( name track06.ogg size 719068 crc 1928742a md5 8a87226b9f4ca46b664bde4a23275465 sha1 1eaf9b6dac301300b0298a1e2c933b287939f195 )
+	rom ( name track07.ogg size 2226330 crc 56fceb18 md5 bfd8b9d04e5e92fc2b57925346370c13 sha1 e9591eb46ac38b1c4198cd23b7da8fdf968d47e1 )
+	rom ( name track08.ogg size 248172 crc 3382ac7a md5 66e56fbb1a3d80e2903cffeaa939206f sha1 d3ae0a5a7510c7991cd610b6eae1790487decc03 )
+	rom ( name track09.ogg size 190402 crc 3b91d685 md5 f6c7ef5663c447c0b13956d974449f2a sha1 6805dafd2a8b5d372961c75493994587cb318159 )
+	rom ( name track10.ogg size 2102266 crc 9f2b14fd md5 975087b25f43fe680d07745f8a7f57d8 sha1 c0ff03909c07051427b563ead133f979cec3e6af )
+	rom ( name track11.ogg size 1059356 crc 1fe8e076 md5 d6da75f88f205903cf818a5f50f5d9ec sha1 cfe10a11e21828a0025e5a13cc2e8fe5d4d8fd7c )
+	rom ( name track12.ogg size 328863 crc 438fe4eb md5 e6d34b92415b03e2bc89c026d34676b8 sha1 9a3e78857c263553c7df52f646caee8ee1aa9a4b )
+	rom ( name track13.ogg size 974684 crc 8ca5071b md5 95673dd11c299e08a9868a388557f120 sha1 35932040f223111536ed2f56fb96ce17aae501fb )
+	rom ( name track14.ogg size 785662 crc f0d8f74d md5 336d06f2b9a8f4d6d08012897397a128 sha1 4d5c152c6e725d6eb90e875dd6a0d47c118d828a )
+	rom ( name track15.ogg size 64290 crc d3148923 md5 2ca771e2ab9d9a8f12211bd4c092e793 sha1 95f309aaf23920a4240b17feb2caf63321d64801 )
+	rom ( name track16.ogg size 3293382 crc d01c3077 md5 e8e095c66f7d709a68fb7f8f5bcfad33 sha1 dc3d525708c59f9984abcf1df28e65f88e23c9c2 )
+	rom ( name track17.ogg size 1607116 crc b8ecf609 md5 3ede9074f095dec2fea2845737f48185 sha1 d660797db872a97b147f5c89363d75b55102d92a )
+	rom ( name track18.ogg size 617853 crc ba44450c md5 47d3e947900a5e753f9f42dde5264dd6 sha1 c5c952f9648f7fb6531c64725f1e1a3610719604 )
+	rom ( name track19.ogg size 4095388 crc b3440774 md5 9576c61a6903ae7434cc6346792382dc sha1 0d5f63d421eca24f7623fff524c5c5d060d378d5 )
+	rom ( name track20.ogg size 109089 crc 79255a60 md5 afff6c2b4a8a3477423b2dfd50c7c63b sha1 005aee62907e0bd2f37ed5f8e2462059c6bc7db1 )
+	rom ( name track21.ogg size 1421530 crc 64bc4c62 md5 912c5e17d3a9c1f68cdf0981bb771a48 sha1 b51b049ab133c6135331378a13aec0374322586c )
+	rom ( name track22.ogg size 1842036 crc 8f418c51 md5 95aad531c9c6bd8906a930782c0a8015 sha1 0ec9cc832d0d631978362de6bd9132753866ffbc )
+	rom ( name track23.ogg size 845782 crc d21e1cfd md5 f28ede3d5aad056f04830a041c8f1a81 sha1 e6afc31d63077e590ed6f22b32e3e4f1b1cc1c51 )
+	rom ( name track24.ogg size 2765368 crc 0973c0e2 md5 a5804d0de5b216e4276c346fd2d464cb sha1 8e26cb90cd7de955b9cfaf78702659c3a61e0fe5 )
+	rom ( name track25.ogg size 1495225 crc 4adf0b51 md5 b4cc4455477dfeefbfc8a256361c5f1c sha1 d1eabc628a013b9d551400e4d414e763814c84ad )
+	rom ( name track26.ogg size 4504272 crc f5010f3a md5 7bf890dd4519ab8e89e53f23b224fa8a sha1 7ac0be17f384219fcc37d959395367e927413e47 )
+	rom ( name track27.ogg size 1043631 crc 92da7ba9 md5 f5dc077878b0ee94957c5cee91042a14 sha1 0febd05370c151a7c9e8d49b21a8d66bbce3f77e )
+	rom ( name track28.ogg size 848705 crc a39f2368 md5 a6fd9e2620f3a68a33bdc75de9217a09 sha1 b24f67ae45273b8608ad9f46213b17983dd88c0f )
+	rom ( name track29.ogg size 691975 crc 70177f54 md5 7bd1ee5004239ae0126c205050053443 sha1 dec859c50877dd31106de98d0bec3a57c6aa98eb )
+	rom ( name track30.ogg size 7053339 crc c0595a6a md5 182d215a5add2918fa22021bdc12e245 sha1 44fd6fae14a02bc97f0dd6b2d9876440b180daa2 )
+	rom ( name track31.ogg size 6498902 crc 8c043116 md5 624a5618c40198b9f2cc50d017c7e84f sha1 99e4772b16a59fe067ad04139d52e19635aa7251 )
+	rom ( name track32.ogg size 2748836 crc a40afad5 md5 c1821335e37926601da0e8b39d29477b sha1 d7d1b4cbe9d10bd92a8190e6270ae01aad71e5c5 )
+	rom ( name track33.ogg size 1063983 crc d7495486 md5 58e2b3a8885ab7639d5b74d28c4b3914 sha1 2d28ffe7318117f68bbf72f240b6f2efe6e69005 )
+	rom ( name track34.ogg size 1283671 crc f6c4cd99 md5 2ca874b240ef3b1af3fd78a2581d4dbe sha1 a04f5087b03c816d23805aa48137f93c2aa42f15 )
+	rom ( name track35.ogg size 1917966 crc eb17331d md5 4f9fb1bb7d30897c16810f3ee9aad972 sha1 324330ad2a6436a5d80f0ce8a7d5c6f47362fdc5 )
+	rom ( name track36.ogg size 3011521 crc 2e613b7d md5 221a9e87369b4525b70f08cf43e98178 sha1 f7ea7ab0736d024f635a81de7adc5e98410e0d8b )
+	rom ( name track37.ogg size 1353418 crc 6fe631ea md5 c7bdd076ced5a5678ff60d7b92d6c2da sha1 b8a864ddc98fe200542871d32e67ee6ae0e9ce43 )
+	rom ( name track38.ogg size 2661587 crc ff8f3d07 md5 eb44ec3794bb3304af5008828d16c287 sha1 b46bafcaf846553b585751e20ae1a7006f5d433f )
+	rom ( name track39.ogg size 2417699 crc bc0984b8 md5 e3e8843a8c5d917d05074ff2db1041e4 sha1 2583be2cb3d6c79c3795c01911a5ef60f0aec605 )
+	rom ( name track40.ogg size 3313321 crc b1e881fb md5 8c42f7090ebb8f9564dcd814b678daeb sha1 f603ab00d8d052e76d17f47b595fae2babb225d6 )
+	rom ( name track41.ogg size 1659856 crc b8a2f6d0 md5 12af2d0f581abfb6a8acca93ed644d90 sha1 3175a311520f1b4a62b32f23f5df085093948047 )
+	rom ( name track42.ogg size 1612424 crc be856b28 md5 60e37bb7ca487e7640f59d6a5fb77e2a sha1 4cb1a1b5b523a401f3cbcaff63a3bd59fd02d34e )
+	rom ( name track43.ogg size 2169437 crc 4e403861 md5 8094372a602a4ee34233f9d0fb6e8806 sha1 093d40494eca46fcdbc06f4a36440e341a94b7dd )
+	rom ( name track44.ogg size 2865423 crc 90417c39 md5 2bb386af81c43d29c2c2e2aebbda8c4d sha1 43073cf8fb2b982ba734b0c19d82ed268860cd28 )
+	rom ( name track45.ogg size 449240 crc a99e1282 md5 3fd2116469f8da28a833555cac25fcc2 sha1 f451c4582fcdaf19a876d661d712b0137d6e7434 )
+	rom ( name track46.ogg size 1719955 crc f650953b md5 8755800e6edb363baa71d233115db947 sha1 c62fcafefae3b8e73c73edc18a6dc89873955290 )
+	rom ( name track47.ogg size 2320006 crc 8584b1fe md5 706cfc930b207a72848e8cae067ec899 sha1 de38332d408b92d77be60df1f3a5d1f2348c90e9 )
+	rom ( name track48.ogg size 3575257 crc 10b52043 md5 cff0b40377f675ac576d7a214192650d sha1 7b5603a16e99355a49c00ea1bd5ed5821dc42796 )
+	rom ( name track49.ogg size 3630284 crc ac21ec0a md5 4e26079643d95a05550fd7984cc3f081 sha1 de906979e395aabf21571ad0f433e82c422d2976 )
+	rom ( name track50.ogg size 581810 crc 3ffe4982 md5 0e7e58a9cd6805473b16d39ac65536b2 sha1 0d12354f963179f817afc57ac489bfe6a097eeef )
+	rom ( name track51.ogg size 2589745 crc b1f14433 md5 315775300cc388706b81bafde7a0dbbe sha1 7866dfeb4cf4b4508d805b4acdb55c0bfe1c3906 )
+	rom ( name track52.ogg size 911131 crc fb80b4fa md5 a6a949e215666ee22d431af842a04ea2 sha1 c0ab7c69d0681fd3fb3e8c6114b4cb6f41d192b6 )
+	rom ( name track53.ogg size 4829295 crc 6485b9b5 md5 34a82cf981a4e05f083ad16c2a50ff11 sha1 38d115ad30a5d303abcaab17262866779310b886 )
+	rom ( name track54.ogg size 3117393 crc da607d7c md5 2fb38f0814bb3f638781ce73cc3da10e sha1 4b186696653f61e6203cead276d4c751c22ce7ef )
+	rom ( name track55.ogg size 3510162 crc de2dd5da md5 ed973f2a8448877d24a36fa9f5d04c55 sha1 dff44ecc1e3d5be38844ea7a9942e0da46b838c0 )
+	rom ( name track56.ogg size 3984346 crc ccb7db50 md5 4a606e3806f88fa70fd452c1f6f0eeb4 sha1 7f60e9dd820102b06af2607013072b415794d41b )
+	rom ( name track57.ogg size 535549 crc 4bf07390 md5 1968d09c334c89c0a5526e7ec7a9aaf6 sha1 247d27e0914280cc9630d8d3bb81fa223d8453b5 )
+	rom ( name track58.ogg size 1716074 crc ab9bf044 md5 e88aa513f4bb6e19a359063bd3fc704d sha1 c98eb2d812fc92eac71a37254f4e210a1595045e )
+	rom ( name track59.ogg size 255340 crc 7379602a md5 5755baf1fa90b0e55df78b776a1a9b74 sha1 f0456164bad99da8b30d2e747272a50ba8576074 )
+	rom ( name track60.ogg size 4823502 crc a9cc14c9 md5 d19c668131e90abdd70f22ee4c5a6b1b sha1 f8076e006fa69a88e3d8a83c600e656f48480ff2 )
+	rom ( name XEEN.CC size 13438429 crc 2d073b21 md5 0653c52953ec8e02eb03095dac762607 sha1 138bc9aa11572d51b6ecd21fd2ce5b4aaebac33b )
+)
+
+game (
+	name worldofxeen-de
+	description "Might and Magic: World of Xeen (DOS/German)[!]"
+	year 1994
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name DARK.CC size 11173657 crc 7b50c64f md5 3b70f89d877a6396fcf27bc473d721de sha1 1990515f99df8f42e7d07110010838b953f954f3 )
+	rom ( name INTRO.CC size 8899953 crc 3fe0905b md5 7e1acaea0aa4f021758a1ba3478ad432 sha1 3be052ea04648d1ddcd61dcc34a5bfd5d5e85f7f )
+	rom ( name XEEN.CC size 13214150 crc ed558415 md5 08ec9a6ee8a4c2552c5bbfd796f8abdf sha1 1045f01339f8ab63b9417c333d9db6fba2d45f40 )
+)
+
+game (
+	name worldofxeen-de-1
+	description "Might and Magic: World of Xeen (DOS/German)[GOG][!]"
+	year 1994
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name DARK.CC size 11168312 crc ef8fe799 md5 aa0d414266824e87368e5667cd76351a sha1 b6db681e7cd3956bddb350608f40563938dc9e09 )
+	rom ( name INTRO.CC size 8899953 crc 3fe0905b md5 7e1acaea0aa4f021758a1ba3478ad432 sha1 3be052ea04648d1ddcd61dcc34a5bfd5d5e85f7f )
+	rom ( name XEEN.CC size 13214150 crc ed558415 md5 08ec9a6ee8a4c2552c5bbfd796f8abdf sha1 1045f01339f8ab63b9417c333d9db6fba2d45f40 )
+)
+
+game (
+	name worldofxeen-fr
+	description "Might and Magic: World of Xeen (DOS/French)[!]"
+	year 1994
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name DARK.CC size 11152923 crc d0c8cf10 md5 8e1a3136fc7a14a3f32e025e0f8ad10a sha1 fb3a0dc188474257b3680c08d71f3e940bbdf5aa )
+	rom ( name INTRO.CC size 8764585 crc fba61959 md5 b8d8625149803ef0b884ed7771062d5e sha1 b3c384f862b47bc730ebd96f160b74e373b6f7b8 )
+	rom ( name XEEN.CC size 13203565 crc 21848e15 md5 3a902466266734c8ac604a11a73c02af sha1 e394b3184aeea208c2faf0eabdca94102196bb8f )
+)
+
+resource (
+	name worldofxres
+	description "ZZZ - Might and Magic: World of Xeen - English Resource[!]"
+	year 1994
+	manufacturer "New World Computing"
+	sourcefile xeen
+	rom ( name INTRO.CC size 8986211 crc 3d514392 md5 26d3415d232861b0a7695deace4e187d sha1 3818b2b1b2326b86bd3cd9962d094910b85891c4 )
 )
 

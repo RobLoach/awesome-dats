@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>40</id>
+		<name>Commodore - Amiga (Bitstream)</name>
+		<description>Commodore - Amiga (Bitstream)</description>
+		<version>20240604-172503</version>
+		<author>C. V. Reynolds, Connie, FakeShemp, Gefflon, Hiccup, Money_114, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<comment>Software Preservation Society (http://www.softpres.org/games)</comment>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Hugo (Disk 1) (Sweden)" id="3778">
+		<category>Games</category>
+		<description>Hugo (Disk 1) (Sweden)</description>
+		<rom name="Hugo (Disk 1) (Sweden).raw" size="2473326" crc="3adb1fde" md5="98ac2b7ce7cb1c3d720c349fd741035b" sha1="07d6c398791a75e65a9007c441367a60e08730af"/>
+	</game>
+	<game name="Hugo (Disk 2) (Sweden)" id="3779">
+		<category>Games</category>
+		<description>Hugo (Disk 2) (Sweden)</description>
+		<rom name="Hugo (Disk 2) (Sweden).raw" size="2484603" crc="2ff74346" md5="c36f530e42d2dcc2c723bcadc9822640" sha1="0318daec066a2102a456af536358ac822a54d657"/>
+	</game>
+	<game name="Hugo (Disk 3) (Sweden)" id="3780">
+		<category>Games</category>
+		<description>Hugo (Disk 3) (Sweden)</description>
+		<rom name="Hugo (Disk 3) (Sweden).raw" size="2406609" crc="fb47f2a5" md5="0d0618adfaade48d0f8b4edf3146d6e4" sha1="a6d4093ac41669141e5fc4205e81d6392e614077"/>
+	</game>
+	<game name="Hugo (Disk 4) (Sweden)" id="3781">
+		<category>Games</category>
+		<description>Hugo (Disk 4) (Sweden)</description>
+		<rom name="Hugo (Disk 4) (Sweden).raw" size="2502179" crc="07864382" md5="7fa8e9656c0eeadedeaa6151b94ee6c6" sha1="d8987f65c27f6704a93436ea81c9b4dbb43cd76e"/>
+	</game>
+	<game name="Hugo (Disk 5) (Sweden)" id="3782">
+		<category>Games</category>
+		<description>Hugo (Disk 5) (Sweden)</description>
+		<rom name="Hugo (Disk 5) (Sweden).raw" size="2400373" crc="74287f61" md5="7b3e56b75fea7cd8ba99f691f45e3e5b" sha1="064071cd3046019b469a789ee078b7bc9cbeae9e"/>
+	</game>
+	<game name="Hugo (Disk 6) (Sweden)" id="3783">
+		<category>Games</category>
+		<description>Hugo (Disk 6) (Sweden)</description>
+		<rom name="Hugo (Disk 6) (Sweden).raw" size="2465475" crc="3ed9ee2b" md5="a7706031cec62806c42165ba86bd508a" sha1="fb41c20ebc8b8323b1c0db58a8d23b652d96c332"/>
+	</game>
+	<game name="Hugo (Disk 7) (Sweden)" id="3784">
+		<category>Games</category>
+		<description>Hugo (Disk 7) (Sweden)</description>
+		<rom name="Hugo (Disk 7) (Sweden).raw" size="2430711" crc="3e4e30c1" md5="62f8f647720993af47ede22469d1e3c7" sha1="9d47426762d25853385d4a76d9006c42a05b4f53"/>
+	</game>
+	<game name="Hugo (Disk 8) (Sweden)" id="3785">
+		<category>Games</category>
+		<description>Hugo (Disk 8) (Sweden)</description>
+		<rom name="Hugo (Disk 8) (Sweden).raw" size="2450882" crc="6ba4e51f" md5="f8f479682750082202a7efae7406a7d4" sha1="71c9a60434edab198752bd3aae4d5851693b0a7c"/>
+	</game>
+</datafile>

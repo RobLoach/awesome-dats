@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM SKY"
 	description "ScummVM - SKY Engine Games"
 	category "ScummVM"
-	version v1.08
-	date 2016-10-26
+	version v1.16
+	date 2021-01-04
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,671 +11,691 @@ clrmamepro (
 
 game (
 	name sky
-	description "Beneath a Steel Sky (Floppy v0.0348)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS)[v0.0348][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 11564 crc d4db73a3 md5 22d9956b990881f84ed38757661b7561 )
-	rom ( name SKY.DSK size 8830435 crc 04c3f1d0 md5 5a249f56b4da6cdcedbd935822118ca9 )
+	rom ( name SKY.DNR size 11564 crc d4db73a3 md5 22d9956b990881f84ed38757661b7561 sha1 b4f5841538429a08d65471d2ac8f481bee921f1f )
+	rom ( name SKY.DSK size 8830435 crc 04c3f1d0 md5 5a249f56b4da6cdcedbd935822118ca9 sha1 7d72789f2c9fa0a022b290d6ee615b51e427f73d )
 )
 
 game (
 	name sky-de
-	description "Beneath a Steel Sky (Floppy v0.0348/German)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/German)[v0.0348][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky
 	romof sky
-	rom ( name GERMAN.ROM size 43 crc f5af71c8 md5 17be9ba29a47e261e7afef24d2ce43cc )
+	rom ( name GERMAN.ROM size 43 crc f5af71c8 md5 17be9ba29a47e261e7afef24d2ce43cc sha1 2e55c080ff8b4b17f67b437fc9d46e763216b81c )
 )
 
 game (
 	name sky-es
-	description "Beneath a Steel Sky (Floppy v0.0348/Spanish)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/Spanish)[v0.0348][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky
 	romof sky
-	rom ( name SPANISH.ROM size 44 crc 322772c7 md5 9c594760214dd467fbbbc220fdf04534 )
+	rom ( name SPANISH.ROM size 44 crc 322772c7 md5 9c594760214dd467fbbbc220fdf04534 sha1 a8251bfd90ab8c0034981c1dc03beb063b1aadd6 )
 )
 
 game (
 	name sky-fr
-	description "Beneath a Steel Sky (Floppy v0.0348/French)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/French)[v0.0348][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky
 	romof sky
-	rom ( name FRENCH.ROM size 43 crc d8a0dfcb md5 3b85d955d53d80c2e0ddd9faa321048b )
+	rom ( name FRENCH.ROM size 43 crc d8a0dfcb md5 3b85d955d53d80c2e0ddd9faa321048b sha1 01fb6dacbd3f91571000c3fb102c9be99cf3d71b )
 )
 
 game (
 	name sky-it
-	description "Beneath a Steel Sky (Floppy v0.0348/Italian)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/Italian)[v0.0348][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky
 	romof sky
-	rom ( name ITALIAN.ROM size 44 crc 182bf8cf md5 b748bb46199e94bcc1cf434e384f3197 )
+	rom ( name ITALIAN.ROM size 44 crc 182bf8cf md5 b748bb46199e94bcc1cf434e384f3197 sha1 ba4a1da5e34f97541bc0f13f3698b24b16046df0 )
 )
 
 game (
 	name sky-pt
-	description "Beneath a Steel Sky (Floppy v0.0348/Portuguese)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/Portuguese)[v0.0348][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky
 	romof sky
-	rom ( name PORTUGUESE.ROM size 47 crc 99d7cbcf md5 570750972a0846a4f7b880ff322559e0 )
+	rom ( name PORTUGUESE.ROM size 47 crc 99d7cbcf md5 570750972a0846a4f7b880ff322559e0 sha1 ed9f32287598e23d0d6325aefb8ad7690caa6418 )
 )
 
 game (
 	name sky-se
-	description "Beneath a Steel Sky (Floppy v0.0348/Swedish)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/Swedish)[v0.0348][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky
 	romof sky
-	rom ( name SWEDISH.ROM size 44 crc 26a116fe md5 b09f757420ba2e644c979521c7e0966b )
+	rom ( name SWEDISH.ROM size 44 crc 26a116fe md5 b09f757420ba2e644c979521c7e0966b sha1 a397bce04b6c7fd4f60353623ac9ae9e5b09084c )
 )
 
 game (
 	name sky-1
-	description "Beneath a Steel Sky (Floppy v0.0331)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS)[v0.0331][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 11564 crc 5e1210d3 md5 2c8ca420599a4e943ae3b2130f264120 )
-	rom ( name SKY.DSK size 8829811 crc 0f22659c md5 272bb923dbdc33be7cd373d5eb93ae98 )
+	rom ( name SKY.DNR size 11564 crc 5e1210d3 md5 2c8ca420599a4e943ae3b2130f264120 sha1 fc7b80a476f6a68dae2959bc250381ad8861c0c3 )
+	rom ( name SKY.DSK size 8829811 crc 0f22659c md5 272bb923dbdc33be7cd373d5eb93ae98 sha1 b361254c29212f9ffe7bbc26099ab71690b0e4b1 )
 )
 
 game (
 	name sky-de-1
-	description "Beneath a Steel Sky (Floppy v0.0331/German)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/German)[v0.0331][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-1
 	romof sky-1
-	rom ( name GERMAN.ROM size 43 crc 0846035d md5 31b7f751fa4698e911cefd774583ec47 )
+	rom ( name GERMAN.ROM size 43 crc 0846035d md5 31b7f751fa4698e911cefd774583ec47 sha1 f5ec8ac90046df959db4a9967c00dffef0db9616 )
 )
 
 game (
 	name sky-es-1
-	description "Beneath a Steel Sky (Floppy v0.0331/Spanish)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/Spanish)[v0.0331][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-1
 	romof sky-1
-	rom ( name SPANISH.ROM size 44 crc b2bffc7e md5 3fd66fc1c6249262b4d1fa3361b251c4 )
+	rom ( name SPANISH.ROM size 44 crc b2bffc7e md5 3fd66fc1c6249262b4d1fa3361b251c4 sha1 21e2b84365fcc52e778d001ebfa4b3abfee225df )
 )
 
 game (
 	name sky-fr-1
-	description "Beneath a Steel Sky (Floppy v0.0331/French)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/French)[v0.0331][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-1
 	romof sky-1
-	rom ( name FRENCH.ROM size 43 crc 2549ad5e md5 597222c93dce92b69b9ba241b5bf45a7 )
+	rom ( name FRENCH.ROM size 43 crc 2549ad5e md5 597222c93dce92b69b9ba241b5bf45a7 sha1 e419db295cd9e0a0cf932b1dab2ec92fe1f1a2a9 )
 )
 
 game (
 	name sky-it-1
-	description "Beneath a Steel Sky (Floppy v0.0331/Italian)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/Italian)[v0.0331][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-1
 	romof sky-1
-	rom ( name ITALIAN.ROM size 44 crc 98b37676 md5 6aa170f17ca4dd29dfaa77d0fe91fa31 )
+	rom ( name ITALIAN.ROM size 44 crc 98b37676 md5 6aa170f17ca4dd29dfaa77d0fe91fa31 sha1 38795fa750e47e82003275a281370c7ebe49c8fc )
 )
 
 game (
 	name sky-pt-1
-	description "Beneath a Steel Sky (Floppy v0.0331/Portuguese)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/Portuguese)[v0.0331][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-1
 	romof sky-1
-	rom ( name PORTUGUESE.ROM size 47 crc 088ca063 md5 f38c6bfc7ffb68c62001554190d09ba6 )
+	rom ( name PORTUGUESE.ROM size 47 crc 088ca063 md5 f38c6bfc7ffb68c62001554190d09ba6 sha1 eab48b32b8f92ee11f175b445671c24acfd1d2cf )
 )
 
 game (
 	name sky-se-1
-	description "Beneath a Steel Sky (Floppy v0.0331/Swedish)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/Swedish)[v0.0331][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-1
 	romof sky-1
-	rom ( name SWEDISH.ROM size 44 crc a6399847 md5 ac593dc4310a416273b758fe2746ad5d )
+	rom ( name SWEDISH.ROM size 44 crc a6399847 md5 ac593dc4310a416273b758fe2746ad5d sha1 db0a2d7c8408ce583e5422771bc21b1e7eddda94 )
 )
 
 game (
 	name sky-2
-	description "Beneath a Steel Sky (Floppy v0.0288)"
+	description "Beneath a Steel Sky (Floppy/DOS)[v0.0288][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 11236 crc 93df7892 md5 51f0588cc5ea0d2ad6f6d7b0bb5384be )
-	rom ( name SKY.DSK size 8252443 crc d984366d md5 3739e503dd7b0d075b978d7ceae887f1 )
+	rom ( name SKY.DNR size 11236 crc 93df7892 md5 51f0588cc5ea0d2ad6f6d7b0bb5384be sha1 47e40074bb0f747b466075bc5e0bf3fe584bb0c0 )
+	rom ( name SKY.DSK size 8252443 crc d984366d md5 3739e503dd7b0d075b978d7ceae887f1 sha1 f019d17b385d14f1af788cb9a9cf81f9751a5605 )
 )
 
 game (
 	name sky-de-2
-	description "Beneath a Steel Sky (Floppy v0.0288/German)"
+	description "Beneath a Steel Sky (Floppy/DOS/German)[v0.0288][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-2
 	romof sky-2
-	rom ( name GERMAN.ROM size 43 crc 8fe5af78 md5 54fc3739c56de5668c6ccab4571ae210 )
+	rom ( name GERMAN.ROM size 43 crc 8fe5af78 md5 54fc3739c56de5668c6ccab4571ae210 sha1 74e1b19d31724a6aa198b6d35680554b21d9eac6 )
 )
 
 game (
 	name sky-fr-2
-	description "Beneath a Steel Sky (Floppy v0.0288/French)"
+	description "Beneath a Steel Sky (Floppy/DOS/French)[v0.0288][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-2
 	romof sky-2
-	rom ( name FRENCH.ROM size 43 crc a2ea017b md5 1228f29f8eef99af3077be9613a19aa2 )
+	rom ( name FRENCH.ROM size 43 crc a2ea017b md5 1228f29f8eef99af3077be9613a19aa2 sha1 40902bcffa320c7f18cdf6be6c6868c87e9e9328 )
 )
 
 game (
 	name sky-3
-	description "Beneath a Steel Sky (Floppy v0.0303)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS)[v0.0303][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 11308 crc e1bb5c4f md5 7f54987bf84eacd3a4502cf5f8a283b9 )
-	rom ( name SKY.DSK size 8387069 crc 9ca62c89 md5 faea23f336fe7c7bcacd0b2e3513f7f7 )
+	rom ( name SKY.DNR size 11308 crc e1bb5c4f md5 7f54987bf84eacd3a4502cf5f8a283b9 sha1 015ada9641aaab9605e6e48b377d6415227b9e7d )
+	rom ( name SKY.DSK size 8387069 crc 9ca62c89 md5 faea23f336fe7c7bcacd0b2e3513f7f7 sha1 31dab6a08fdf125ae1ea506ed1b5a4b15fc38134 )
 )
 
 game (
 	name sky-de-3
-	description "Beneath a Steel Sky (Floppy v0.0303/German)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/German)[v0.0303][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-3
 	romof sky-3
-	rom ( name GERMAN.ROM size 43 crc dc7c7dba md5 9b01e5a9501712ea4ea4cd72a23c0615 )
+	rom ( name GERMAN.ROM size 43 crc dc7c7dba md5 9b01e5a9501712ea4ea4cd72a23c0615 sha1 c5b365d760b6f4a1952bea0815ac68c19bc8449f )
 )
 
 game (
 	name sky-fr-3
-	description "Beneath a Steel Sky (Floppy v0.0303/French)[!]"
+	description "Beneath a Steel Sky (Floppy/DOS/French)[v0.0303][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-3
 	romof sky-3
-	rom ( name FRENCH.ROM size 43 crc f173d3b9 md5 bb45f2991318d954aa2cef6933555761 )
+	rom ( name FRENCH.ROM size 43 crc f173d3b9 md5 bb45f2991318d954aa2cef6933555761 sha1 ddb8c6d279e34d3e304a97fa85759ad8c6a5c792 )
 )
 
 game (
 	name sky-cd
-	description "Beneath a Steel Sky (CD v0.0368)[!]"
+	description "Beneath a Steel Sky (CD/DOS)[v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 40796 crc a3206462 md5 f05a0ae79722022b31cfbaf3b7c92578 )
-	rom ( name SKY.DSK size 72429382 crc e2afb274 md5 b7e889df94e3ac47eff999f9e4d4eb9e )
+	rom ( name SKY.DNR size 40796 crc a3206462 md5 f05a0ae79722022b31cfbaf3b7c92578 sha1 eba390243a0db729a7ad7d5eb9a9af18ee4148ee )
+	rom ( name SKY.DSK size 72429382 crc e2afb274 md5 b7e889df94e3ac47eff999f9e4d4eb9e sha1 6ee32fc92cdc803e214d26b7450b2abb04f78359 )
 )
 
 game (
 	name sky-cd-de
-	description "Beneath a Steel Sky (CD v0.0368/German)[!]"
+	description "Beneath a Steel Sky (CD/DOS/German)[v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd
 	romof sky-cd
-	rom ( name GERMAN.ROM size 39 crc ca4a0d20 md5 b1d764572b370eee73fe1d5fe1a2875e )
+	rom ( name GERMAN.ROM size 39 crc ca4a0d20 md5 b1d764572b370eee73fe1d5fe1a2875e sha1 3660f416e62bcc02fd17af7412759cbf38bd567d )
 )
 
 game (
 	name sky-cd-es
-	description "Beneath a Steel Sky (CD v0.0368/Spanish)[!]"
+	description "Beneath a Steel Sky (CD/DOS/Spanish)[v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd
 	romof sky-cd
-	rom ( name SPANISH.ROM size 40 crc 9cc9fdf1 md5 03229648043804dcc5a218f36afd1b82 )
+	rom ( name SPANISH.ROM size 40 crc 9cc9fdf1 md5 03229648043804dcc5a218f36afd1b82 sha1 fc0d7d0c4c3e5f66ab05cfd9770a92960df794c0 )
 )
 
 game (
 	name sky-cd-fr
-	description "Beneath a Steel Sky (CD v0.0368/French)[!]"
+	description "Beneath a Steel Sky (CD/DOS/French)[v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd
 	romof sky-cd
-	rom ( name FRENCH.ROM size 39 crc e745a323 md5 deba4ce3b03cd536cacce57418d89059 )
+	rom ( name FRENCH.ROM size 39 crc e745a323 md5 deba4ce3b03cd536cacce57418d89059 sha1 190c00747265b6e6473bdd55e5a0de58a26a75f4 )
 )
 
 game (
 	name sky-cd-it
-	description "Beneath a Steel Sky (CD v0.0368/Italian)[!]"
+	description "Beneath a Steel Sky (CD/DOS/Italian)[v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd
 	romof sky-cd
-	rom ( name ITALIAN.ROM size 40 crc b6c577f9 md5 eac6b99d245010115dd1c899b4db8450 )
+	rom ( name ITALIAN.ROM size 40 crc b6c577f9 md5 eac6b99d245010115dd1c899b4db8450 sha1 cda10df638ba0f8ab467ed0231cec17f8824143f )
 )
 
 game (
 	name sky-cd-cz
-	description "Beneath a Steel Sky (CD v0.0372/Czech)"
+	description "Beneath a Steel Sky (CD/DOS/Czech)[v0.0372]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name sky.dnr size 40780 crc 2ed8fec1 md5 2af8b999940b07827bbfdd48853d6e24 )
-	rom ( name sky.dsk size 72515628 crc 4bf47502 md5 bae25210be9ea9d08f8530296aa891d5 )
+	rom ( name sky.dnr size 40780 crc 2ed8fec1 md5 2af8b999940b07827bbfdd48853d6e24 sha1 fb421b43353d129768b3ba46d56fa5e6f5d9afc3 )
+	rom ( name sky.dsk size 72515628 crc 4bf47502 md5 bae25210be9ea9d08f8530296aa891d5 sha1 b9e69c2880e421150b544540b5f985cbeb04ddbd )
 )
 
 game (
 	name sky-cd-eu
-	description "Beneath a Steel Sky (CD v0.0368)[EU][!]"
+	description "Beneath a Steel Sky (CD/DOS)[EU][v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 40796 crc a3206462 md5 f05a0ae79722022b31cfbaf3b7c92578 )
-	rom ( name SKY.DSK size 72429382 crc e53776a5 md5 a031f007a590c3f4f04826df9b019a83 )
+	rom ( name SKY.DNR size 40796 crc a3206462 md5 f05a0ae79722022b31cfbaf3b7c92578 sha1 eba390243a0db729a7ad7d5eb9a9af18ee4148ee )
+	rom ( name SKY.DSK size 72429382 crc e53776a5 md5 a031f007a590c3f4f04826df9b019a83 sha1 0d62705205a5064a1f58a993bd53d2ff59e2d56d )
 )
 
 game (
 	name sky-cd-eu-de
-	description "Beneath a Steel Sky (CD v0.0368/German)[EU][!]"
+	description "Beneath a Steel Sky (CD/DOS/German)[EU][v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-eu
 	romof sky-cd-eu
-	rom ( name GERMAN.ROM size 52 crc c9f9822a md5 cfcdb05d3e3e840e196872bab9c57362 )
+	rom ( name GERMAN.ROM size 52 crc c9f9822a md5 cfcdb05d3e3e840e196872bab9c57362 sha1 296e6bd1668708de692f92f6f9eed3d789945546 )
 )
 
 game (
 	name sky-cd-eu-es
-	description "Beneath a Steel Sky (CD v0.0368/Spanish)[EU][!]"
+	description "Beneath a Steel Sky (CD/DOS/Spanish)[EU][v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-eu
 	romof sky-cd-eu
-	rom ( name SPANISH.ROM size 53 crc f1eab4b9 md5 ef1068c6d3355455e0958a59b4903fbd )
+	rom ( name SPANISH.ROM size 53 crc f1eab4b9 md5 ef1068c6d3355455e0958a59b4903fbd sha1 ffe6e48d759f596c6cdc0894b289beb1e51eabe1 )
 )
 
 game (
 	name sky-cd-eu-fr
-	description "Beneath a Steel Sky (CD v0.0368/French)[EU][!]"
+	description "Beneath a Steel Sky (CD/DOS/French)[EU][v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-eu
 	romof sky-cd-eu
-	rom ( name FRENCH.ROM size 52 crc 544fce3d md5 056707d0c5ebad96db97d7233acbadf6 )
+	rom ( name FRENCH.ROM size 52 crc 544fce3d md5 056707d0c5ebad96db97d7233acbadf6 sha1 d371119e4a7ed94740e28fb5396b214314ceb284 )
 )
 
 game (
 	name sky-cd-eu-it
-	description "Beneath a Steel Sky (CD v0.0368/Italian)[EU][!]"
+	description "Beneath a Steel Sky (CD/DOS/Italian)[EU][v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-eu
 	romof sky-cd-eu
-	rom ( name ITALIAN.ROM size 53 crc 932e1d79 md5 f1923c3afc34c50470a1e1b4b238461f )
+	rom ( name ITALIAN.ROM size 53 crc 932e1d79 md5 f1923c3afc34c50470a1e1b4b238461f sha1 a48f7d9e0a2390432717f97114e79c02eddb4db0 )
 )
 
 game (
 	name sky-cd-eu-pt
-	description "Beneath a Steel Sky (CD v0.0368/Portuguese)[EU][!]"
+	description "Beneath a Steel Sky (CD/DOS/Portuguese)[EU][v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-eu
 	romof sky-cd-eu
-	rom ( name PORTUGUESE.ROM size 56 crc 51ff58cc md5 ecb392c326ea7ab869fe272b9354f941 )
+	rom ( name PORTUGUESE.ROM size 56 crc 51ff58cc md5 ecb392c326ea7ab869fe272b9354f941 sha1 2e361af7736fb02df78843cb37722a25d113e5a1 )
 )
 
 game (
 	name sky-cd-eu-se
-	description "Beneath a Steel Sky (CD v0.0368/Swedish)[EU][!]"
+	description "Beneath a Steel Sky (CD/DOS/Swedish)[EU][v0.0368][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-eu
 	romof sky-cd-eu
-	rom ( name SWEDISH.ROM size 53 crc 2089d522 md5 e47820ef9f5b9870ffca900b2b784264 )
+	rom ( name SWEDISH.ROM size 53 crc 2089d522 md5 e47820ef9f5b9870ffca900b2b784264 sha1 58d697b8613d2710996278944ce81ca6b60c382f )
 )
 
 game (
 	name sky-cd-gog
-	description "Beneath a Steel Sky (CD v0.0372)[!]"
+	description "Beneath a Steel Sky (CD/DOS)[v0.0372][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 40780 crc 3d09639f md5 2484982a89dec770c7e283fb0081eba2 )
-	rom ( name SKY.DSK size 72395713 crc 18c96045 md5 b175c5f9b4c26ce633b7cc538c19b9fd )
+	rom ( name SKY.DNR size 40780 crc 3d09639f md5 2484982a89dec770c7e283fb0081eba2 sha1 58cf9d0943d9bbe58cc8e360ea343852e4097765 )
+	rom ( name SKY.DSK size 72395713 crc 18c96045 md5 b175c5f9b4c26ce633b7cc538c19b9fd sha1 af6926e94c3cabce0a0e86f52c10529d9b8dcec3 )
 )
 
 game (
 	name sky-cd-gog-de
-	description "Beneath a Steel Sky (CD v0.0372/German)[!]"
+	description "Beneath a Steel Sky (CD/DOS/German)[v0.0372][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-gog
 	romof sky-cd-gog
-	rom ( name GERMAN.ROM size 39 crc fdeb3cc4 md5 7bfa1487dc65b367fb0004fcf8bbcf5b )
+	rom ( name GERMAN.ROM size 39 crc fdeb3cc4 md5 7bfa1487dc65b367fb0004fcf8bbcf5b sha1 b0968fb7ac94106a02c432a4d6b02232c44c3376 )
 )
 
 game (
 	name sky-cd-gog-es
-	description "Beneath a Steel Sky (CD v0.0372/Spanish)[!]"
+	description "Beneath a Steel Sky (CD/DOS/Spanish)[v0.0372][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-gog
 	romof sky-cd-gog
-	rom ( name SPANISH.ROM size 40 crc 3b997aa1 md5 b67293ee8bcd38b566caafb9aca62b38 )
+	rom ( name SPANISH.ROM size 40 crc 3b997aa1 md5 b67293ee8bcd38b566caafb9aca62b38 sha1 4514ea6dbe6a2339c32a5b23e456e3453c531edb )
 )
 
 game (
 	name sky-cd-gog-fr
-	description "Beneath a Steel Sky (CD v0.0372/French)[!]"
+	description "Beneath a Steel Sky (CD/DOS/French)[v0.0372][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-gog
 	romof sky-cd-gog
-	rom ( name FRENCH.ROM size 39 crc d0e492c7 md5 c77734d224d05cd6f0cbda9d20368df9 )
+	rom ( name FRENCH.ROM size 39 crc d0e492c7 md5 c77734d224d05cd6f0cbda9d20368df9 sha1 0164d2621d18693f700f14da453142aa76223896 )
 )
 
 game (
 	name sky-cd-gog-it
-	description "Beneath a Steel Sky (CD v0.0372/Italian)[!]"
+	description "Beneath a Steel Sky (CD/DOS/Italian)[v0.0372][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-gog
 	romof sky-cd-gog
-	rom ( name ITALIAN.ROM size 40 crc 1195f0a9 md5 a7ac6c9d94279c23b75c7a518b9ab9c9 )
+	rom ( name ITALIAN.ROM size 40 crc 1195f0a9 md5 a7ac6c9d94279c23b75c7a518b9ab9c9 sha1 ced80bbaf31d3914cbdf1db21266609a54a190cc )
 )
 
 game (
 	name sky-cd-gog-pt
-	description "Beneath a Steel Sky (CD v0.0372/Portuguese)[!]"
+	description "Beneath a Steel Sky (CD/DOS/Portuguese)[v0.0372][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-gog
 	romof sky-cd-gog
-	rom ( name PORTUGUESE.ROM size 43 crc 318d68d7 md5 56b1e465c270c00627fa84bdbaeeb0eb )
+	rom ( name PORTUGUESE.ROM size 43 crc 318d68d7 md5 56b1e465c270c00627fa84bdbaeeb0eb sha1 8a06a2335ddf89835c67db02945b9f971209dd3a )
 )
 
 game (
 	name sky-cd-gog-se
-	description "Beneath a Steel Sky (CD v0.0372/Swedish)[!]"
+	description "Beneath a Steel Sky (CD/DOS/Swedish)[v0.0372][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-gog
 	romof sky-cd-gog
-	rom ( name SWEDISH.ROM size 40 crc 2f1f1e98 md5 2d2234acfa4913541a4f34bae45a1163 )
+	rom ( name SWEDISH.ROM size 40 crc 2f1f1e98 md5 2d2234acfa4913541a4f34bae45a1163 sha1 190ffd76332c671ce99d462bcb21052bb92810bc )
 )
 
 game (
 	name sky-mep
-	description "Beneath a Steel Sky (CD v0.0372)[Enhanced Music][!]"
+	description "Beneath a Steel Sky (CD/DOS)[Enhanced Music][v0.0372][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-gog
 	romof sky-cd-gog
-	rom ( name music_001.ogg size 2591073 crc fb66adee md5 79a41ec0b793cbaa5434cadf74656010 )
-	rom ( name music_002.ogg size 778379 crc 61daff84 md5 00a7ab2ac61c501828e69b8413f7149a )
-	rom ( name music_101.ogg size 2029839 crc b40b4a53 md5 a5285144b93134af34c1fe0abcbd805c )
-	rom ( name music_102.ogg size 1533463 crc 7fe6e11f md5 3ac3ca67443e51fe61918d714872e113 )
-	rom ( name music_103.ogg size 2036847 crc d69e4fef md5 dd5e6e6e443a56f0bbc4592e451d4fb7 )
-	rom ( name music_104.ogg size 713782 crc 9f39792c md5 fc056c85424212c94fba8e40a5ff1330 )
-	rom ( name music_202.ogg size 1687898 crc 0fc3277b md5 a17367bb90d80551c2e55d5ee9084bf2 )
-	rom ( name music_203.ogg size 1069211 crc 5415e8d6 md5 042a544d9b96d24ad4520321fc8523c9 )
-	rom ( name music_301.ogg size 2810401 crc 6e2529a5 md5 fafac2809a1f85cf1467d622d53bc421 )
-	rom ( name music_302.ogg size 2710389 crc 242b0915 md5 7a2153906165beaf34e99c2e1037c979 )
-	rom ( name music_303.ogg size 1868389 crc e9ba5706 md5 96234ae62e6c798b83d61b267fe4554a )
-	rom ( name music_401.ogg size 4057872 crc e8c9ffca md5 e73996764a39d571d6a18063dc7ad70b )
-	rom ( name music_402.ogg size 2050030 crc fc955e24 md5 04dc5c035b309e430c49de4bddc2a1c1 )
-	rom ( name music_403.ogg size 2036847 crc dc14d696 md5 f2d1101b1fdd421336db0ec3450043a9 )
-	rom ( name music_404.ogg size 3413858 crc 323fa64c md5 cdaf2471868693d6c478cc1776440120 )
-	rom ( name music_405.ogg size 2283006 crc 572ddb21 md5 30fd58303e7ca3c9ca0bfa20be9d81ec )
-	rom ( name music_406.ogg size 3316473 crc 375da4e0 md5 7821e5f07ade630a512674fff941386a )
-	rom ( name music_407.ogg size 526734 crc 7c0f3642 md5 25bbb054648986a5492485565af8bb00 )
-	rom ( name music_408.ogg size 2905696 crc cfae5556 md5 4e0c0feccc3244bd40c4df37c1ab6b80 )
-	rom ( name music_409.ogg size 2050030 crc e584caef md5 6c45608d66c03e05e6fd9b7310e8093e )
-	rom ( name music_410.ogg size 1128224 crc 25085e7d md5 18caa054aa067586db154436e72fd6aa )
-	rom ( name music_411.ogg size 2029839 crc 0c7bc2a0 md5 6a446a6080ae1926ada0430324ffc153 )
-	rom ( name music_502.ogg size 2904514 crc 3449081c md5 79a5a15bc8739af3b1613c097ea473d1 )
-	rom ( name music_503.ogg size 1983602 crc 1bba303e md5 feeba92f5f39cffdaf4e3e8a7c2e3cd7 )
-	rom ( name music_505.ogg size 1066764 crc 8d070f59 md5 f6b6aefc6c96cd4776912a2a6f3dbb2b )
-	rom ( name music_601.ogg size 3243821 crc 18bbaa20 md5 d072941d22a749136a18b0836837e4ab )
+	rom ( name music_001.ogg size 2591073 crc fb66adee md5 79a41ec0b793cbaa5434cadf74656010 sha1 977bb5ba04d4e80da8535c248c1ec1a2502fbe85 )
+	rom ( name music_002.ogg size 778379 crc 61daff84 md5 00a7ab2ac61c501828e69b8413f7149a sha1 34212eb8d71e293d18a3e685fc69574cb27e2e18 )
+	rom ( name music_101.ogg size 2029839 crc b40b4a53 md5 a5285144b93134af34c1fe0abcbd805c sha1 6fcbed61b0285d6ddd825f5bbfc9a2b3e5e4af38 )
+	rom ( name music_102.ogg size 1533463 crc 7fe6e11f md5 3ac3ca67443e51fe61918d714872e113 sha1 35ce030ed217f0c42d43635e675204495a4e6ed2 )
+	rom ( name music_103.ogg size 2036847 crc d69e4fef md5 dd5e6e6e443a56f0bbc4592e451d4fb7 sha1 024c1687f22300fa7a125dcda81b67a6cad28624 )
+	rom ( name music_104.ogg size 713782 crc 9f39792c md5 fc056c85424212c94fba8e40a5ff1330 sha1 94590b5d721d3eb4492b76f407b6a7653259c596 )
+	rom ( name music_202.ogg size 1687898 crc 0fc3277b md5 a17367bb90d80551c2e55d5ee9084bf2 sha1 e17406f8df2797290d9d8070287bda2404f4a472 )
+	rom ( name music_203.ogg size 1069211 crc 5415e8d6 md5 042a544d9b96d24ad4520321fc8523c9 sha1 80d9858fa85fa17bb953624eb343ec11a6fdc650 )
+	rom ( name music_301.ogg size 2810401 crc 6e2529a5 md5 fafac2809a1f85cf1467d622d53bc421 sha1 03b4c36da2b427640641b2c2e85d03037981b6e5 )
+	rom ( name music_302.ogg size 2710389 crc 242b0915 md5 7a2153906165beaf34e99c2e1037c979 sha1 f2f285283319b52b0d18422cf95f32655c33cd82 )
+	rom ( name music_303.ogg size 1868389 crc e9ba5706 md5 96234ae62e6c798b83d61b267fe4554a sha1 f46c251c1ccf737afd22dc4641fac419eeb056c0 )
+	rom ( name music_401.ogg size 4057872 crc e8c9ffca md5 e73996764a39d571d6a18063dc7ad70b sha1 3a6eb0626b1bed9ce3d65c2ee50857fae5f78277 )
+	rom ( name music_402.ogg size 2050030 crc fc955e24 md5 04dc5c035b309e430c49de4bddc2a1c1 sha1 869d587e659b0e7f9088381b3d8d1d85467aa783 )
+	rom ( name music_403.ogg size 2036847 crc dc14d696 md5 f2d1101b1fdd421336db0ec3450043a9 sha1 a9b2724603f71f63da14637f2bd1ae727e33c62d )
+	rom ( name music_404.ogg size 3413858 crc 323fa64c md5 cdaf2471868693d6c478cc1776440120 sha1 97c4fb02b3eae48be8ae904ec7f893dfbdfb5669 )
+	rom ( name music_405.ogg size 2283006 crc 572ddb21 md5 30fd58303e7ca3c9ca0bfa20be9d81ec sha1 82e7901901f4c8c62421b742582f6ea4c3daa9b6 )
+	rom ( name music_406.ogg size 3316473 crc 375da4e0 md5 7821e5f07ade630a512674fff941386a sha1 b17d550d9f3d06caf99cbb447da98cf81f7fd3c1 )
+	rom ( name music_407.ogg size 526734 crc 7c0f3642 md5 25bbb054648986a5492485565af8bb00 sha1 a160c573e2df5f2067c35dc86aa8e15412d6d3dc )
+	rom ( name music_408.ogg size 2905696 crc cfae5556 md5 4e0c0feccc3244bd40c4df37c1ab6b80 sha1 8d78d884e8fa276c90edeaf4e4759ce4546b2718 )
+	rom ( name music_409.ogg size 2050030 crc e584caef md5 6c45608d66c03e05e6fd9b7310e8093e sha1 1d444098c7a6dba8e6e3c3baf98db53e2b4bde2c )
+	rom ( name music_410.ogg size 1128224 crc 25085e7d md5 18caa054aa067586db154436e72fd6aa sha1 a684a5fb74f0e3389cb76efdc185966c858e0aa7 )
+	rom ( name music_411.ogg size 2029839 crc 0c7bc2a0 md5 6a446a6080ae1926ada0430324ffc153 sha1 211f7671865747851ebd5d7eca100762b21e56e9 )
+	rom ( name music_502.ogg size 2904514 crc 3449081c md5 79a5a15bc8739af3b1613c097ea473d1 sha1 f55a6dc6812c61ee2060b1f38b15d89b5f7caf04 )
+	rom ( name music_503.ogg size 1983602 crc 1bba303e md5 feeba92f5f39cffdaf4e3e8a7c2e3cd7 sha1 219c4d11ab0f1bac1233c97bb94f18740b423c9c )
+	rom ( name music_505.ogg size 1066764 crc 8d070f59 md5 f6b6aefc6c96cd4776912a2a6f3dbb2b sha1 13da8f314c120fd5356d82c596ae05516890953f )
+	rom ( name music_601.ogg size 3243821 crc 18bbaa20 md5 d072941d22a749136a18b0836837e4ab sha1 34f37ea524a42dcbd8a7f4f787fe84bb6891cab5 )
 )
 
 game (
 	name sky-cd-hu
-	description "Beneath a Steel Sky (CD v0.0368/Hungarian)"
+	description "Beneath a Steel Sky (CD/DOS/Hungarian)[v0.0368]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 40796 crc 777df536 md5 13e49ab86dafea375c02aa9079382a8f )
-	rom ( name SKY.DSK size 72696310 crc 41474d1e md5 eb0d2f2be26f9fec316a71ac98d5e304 )
+	rom ( name SKY.DNR size 40796 crc 777df536 md5 13e49ab86dafea375c02aa9079382a8f sha1 659c9460b450124e2343f7e56cd2e2f60f5c6db6 )
+	rom ( name SKY.DSK size 72696310 crc 41474d1e md5 eb0d2f2be26f9fec316a71ac98d5e304 sha1 64ada3a1f3b5dc5d9363106decc1fd1bc4bf31d9 )
 )
 
 game (
 	name sky-cd-pl
-	description "Beneath a Steel Sky (CD v0.0372/Polish)"
+	description "Beneath a Steel Sky (CD/DOS/Polish)[v0.0372]"
 	year 2011
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name sky.dnr size 40780 crc 8a653afe md5 db305aaf1d80990557ea3d5bb2a823b8 )
-	rom ( name sky.dsk size 72592553 crc ab1379a5 md5 ec892ca4e1b162c974e0ef60abe8cab6 )
+	rom ( name sky.dnr size 40780 crc 8a653afe md5 db305aaf1d80990557ea3d5bb2a823b8 sha1 d1f1cbfce8bf6fc66c8860573a5616ffb0a3fb86 )
+	rom ( name sky.dsk size 72592553 crc ab1379a5 md5 ec892ca4e1b162c974e0ef60abe8cab6 sha1 7304193e4dbc3ad287af4cc8c0fd15c084f39c31 )
+)
+
+game (
+	name sky-cd-ru
+	description "Beneath a Steel Sky (CD/DOS/Russian)[v0.0372]"
+	year 2014
+	manufacturer "Revolution Software"
+	sourcefile sky
+	rom ( name SKY.DNR size 40780 crc 0bdf248a md5 d608509eb87454e0ebc6e489ca1ba1b4 sha1 0d5565f97799c947b246c6a35e9526a2ff3f5c06 )
+	rom ( name SKY.DSK size 73123280 crc e3312b64 md5 a162e91be5a23c28d7105264088b3706 sha1 f197e428e6ecab6b5c9b34a2542cf7df57778de1 )
+)
+
+game (
+	name sky-cd-ru-1
+	description "Beneath a Steel Sky (CD/DOS/Russian)[v0.0372][Old-Games][!]"
+	year 2014
+	manufacturer "Revolution Software"
+	sourcefile sky
+	rom ( name SKY.DNR size 40780 crc 82e7905c md5 0190b9d07527029c8e85e2b12edc01ea sha1 8cca31e8f34a76d2c951dd81a572535f6a82bd0a )
+	rom ( name SKY.DSK size 73123264 crc 722c8587 md5 b07a41cdc8c6af9e02142e9d917127ae sha1 5e21710ab42cd83da6e036da95313ed3ba02395d )
 )
 
 game (
 	name sky-cd-us
-	description "Beneath a Steel Sky (CD v0.0368)[US]"
+	description "Beneath a Steel Sky (CD/DOS)[US][v0.0368]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 40796 crc a3206462 md5 f05a0ae79722022b31cfbaf3b7c92578 )
-	rom ( name SKY.DSK size 72429382 crc b9091b22 md5 ff3d234b98196d04ef253fb269628629 )
+	rom ( name SKY.DNR size 40796 crc a3206462 md5 f05a0ae79722022b31cfbaf3b7c92578 sha1 eba390243a0db729a7ad7d5eb9a9af18ee4148ee )
+	rom ( name SKY.DSK size 72429382 crc b9091b22 md5 ff3d234b98196d04ef253fb269628629 sha1 671fa266ac7105d715c52cb5d0f2a556d0e72eb7 )
 )
 
 game (
 	name sky-cd-us-de
-	description "Beneath a Steel Sky (CD v0.0368/German)[US]"
+	description "Beneath a Steel Sky (CD/DOS/German)[US][v0.0368]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-us
 	romof sky-cd-us
-	rom ( name GERMAN.ROM size 64 crc 34cca5a4 md5 b1c30717d38e2a59fbe33abc974adedb )
+	rom ( name GERMAN.ROM size 64 crc 34cca5a4 md5 b1c30717d38e2a59fbe33abc974adedb sha1 86e995f4a86dd143ea753805c0c140424a656dfc )
 )
 
 game (
 	name sky-cd-us-es
-	description "Beneath a Steel Sky (CD v0.0368/Spanish)[US]"
+	description "Beneath a Steel Sky (CD/DOS/Spanish)[US][v0.0368]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-us
 	romof sky-cd-us
-	rom ( name SPANISH.ROM size 65 crc 658c0bc2 md5 3e5cbd9620c31d874486d3baa8b0df3a )
+	rom ( name SPANISH.ROM size 65 crc 658c0bc2 md5 3e5cbd9620c31d874486d3baa8b0df3a sha1 e8cc4865b09012af697c5d642f569052c7c587b6 )
 )
 
 game (
 	name sky-cd-us-fr
-	description "Beneath a Steel Sky (CD v0.0368/French)[US]"
+	description "Beneath a Steel Sky (CD/DOS/French)[US][v0.0368]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-us
 	romof sky-cd-us
-	rom ( name FRENCH.ROM size 64 crc bd0c2ed7 md5 8a82edcdd3f822b0e74290aa286a6a80 )
+	rom ( name FRENCH.ROM size 64 crc bd0c2ed7 md5 8a82edcdd3f822b0e74290aa286a6a80 sha1 5398802a659775a0b652fb1de7f40e21580cfef9 )
 )
 
 game (
 	name sky-cd-us-it
-	description "Beneath a Steel Sky (CD v0.0368/Italian)[US]"
+	description "Beneath a Steel Sky (CD/DOS/Italian)[US][v0.0368]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-us
 	romof sky-cd-us
-	rom ( name ITALIAN.ROM size 65 crc f92082f5 md5 484e256eb99d83a36e8f8262db28091d )
+	rom ( name ITALIAN.ROM size 65 crc f92082f5 md5 484e256eb99d83a36e8f8262db28091d sha1 ee6ee5665d19350fb064338f13bc08558d711ad1 )
 )
 
 game (
 	name sky-cd-us-pt
-	description "Beneath a Steel Sky (CD v0.0368/Portuguese)[US]"
+	description "Beneath a Steel Sky (CD/DOS/Portuguese)[US][v0.0368]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-us
 	romof sky-cd-us
-	rom ( name PORTUGUESE.ROM size 68 crc 9bc0d1fc md5 c8d5a7a0e341cf5a713e38347ccaf4c3 )
+	rom ( name PORTUGUESE.ROM size 68 crc 9bc0d1fc md5 c8d5a7a0e341cf5a713e38347ccaf4c3 sha1 8f7361b892f0f58a977f01a4d7e56822502ab23f )
 )
 
 game (
 	name sky-cd-us-se
-	description "Beneath a Steel Sky (CD v0.0368/Swedish)[US]"
+	description "Beneath a Steel Sky (CD/DOS/Swedish)[US][v0.0368]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-cd-us
 	romof sky-cd-us
-	rom ( name SWEDISH.ROM size 65 crc 51eb18d2 md5 c2d07030bf39a82e04b94a710b68117c )
+	rom ( name SWEDISH.ROM size 65 crc 51eb18d2 md5 c2d07030bf39a82e04b94a710b68117c sha1 441f87be89c39985e5f2ba9e87a68ed40927599d )
 )
 
 game (
 	name sky-demo
-	description "Beneath a Steel Sky {Demo}(Floppy v0.0267)"
+	description "Beneath a Steel Sky |Demo|(Floppy/DOS)[v0.0267]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 1980 crc eef0d3ca md5 22c52b311fba2458b7849f5e3df3a19c )
-	rom ( name SKY.DSK size 814147 crc 399b3f7e md5 498c9a77509fbf722f73dd52dc275686 )
+	rom ( name SKY.DNR size 1980 crc eef0d3ca md5 22c52b311fba2458b7849f5e3df3a19c sha1 71d0f0f1725b6331283163e404a31b25cbbcb6a3 )
+	rom ( name SKY.DSK size 814147 crc 399b3f7e md5 498c9a77509fbf722f73dd52dc275686 sha1 5d77766d630d9b26c329429d28dd5364cbba44b0 )
 )
 
 game (
 	name sky-demo-1
-	description "Beneath a Steel Sky {Demo}(Floppy v0.0109/PC Gamer)"
+	description "Beneath a Steel Sky |PCGamer Demo|(Floppy/DOS)[v0.0109]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 1948 crc 0e2ee7e0 md5 57db203259f0b57ab766c3b198048039 )
-	rom ( name SKY.DSK size 1328979 crc 6ec48dae md5 0e78f4d401b342a81a442bd416ea913a )
+	rom ( name SKY.DNR size 1948 crc 0e2ee7e0 md5 57db203259f0b57ab766c3b198048039 sha1 6d12dcae1d06e882c1edabbed96bac44eec1309f )
+	rom ( name SKY.DSK size 1328979 crc 6ec48dae md5 0e78f4d401b342a81a442bd416ea913a sha1 84c7f5ecaa42abeca6e7851a3a6edd6b1fde9f2d )
 )
 
 game (
 	name sky-demo-cd
-	description "Beneath a Steel Sky {Demo}(CD v0.0365)"
+	description "Beneath a Steel Sky |Demo|(CD/DOS)[v0.0365]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 13692 crc 002dfaf2 md5 53151a6b9d2090b29469e7c94c027735 )
-	rom ( name SKY.DSK size 26623798 crc 9e363413 md5 f17d6955ac63da9ba34a196d2fbce432 )
+	rom ( name SKY.DNR size 13692 crc 002dfaf2 md5 53151a6b9d2090b29469e7c94c027735 sha1 1d021a88cc7039df39eb6832c4b83daaec890523 )
+	rom ( name SKY.DSK size 26623798 crc 9e363413 md5 f17d6955ac63da9ba34a196d2fbce432 sha1 a9e81978eb17a7063b81e417430eb57cefb95df4 )
 )
 
 game (
 	name sky-demo-cd-de
-	description "Beneath a Steel Sky {Demo}(CD v0.0365/German)"
+	description "Beneath a Steel Sky |Demo|(CD/DOS/German)[v0.0365]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-demo-cd
 	romof sky-demo-cd
-	rom ( name GERMAN.ROM size 74 crc 6d9bf532 md5 20489649774a0aa7f70f487114c0e33f )
+	rom ( name GERMAN.ROM size 74 crc 6d9bf532 md5 20489649774a0aa7f70f487114c0e33f sha1 b17d476a378837b25a0cae191c5160efc21a4fb6 )
 )
 
 game (
 	name sky-demo-cd-es
-	description "Beneath a Steel Sky {Demo}(CD v0.0365/Spanish)"
+	description "Beneath a Steel Sky |Demo|(CD/DOS/Spanish)[v0.0365]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-demo-cd
 	romof sky-demo-cd
-	rom ( name SPANISH.ROM size 75 crc 36164341 md5 b5a33606e6e4829126d6604f8d38f7c3 )
+	rom ( name SPANISH.ROM size 75 crc 36164341 md5 b5a33606e6e4829126d6604f8d38f7c3 sha1 ba851e36454042ea0ebc8c0dc0f2b1a908ef03af )
 )
 
 game (
 	name sky-demo-cd-fr
-	description "Beneath a Steel Sky {Demo}(CD v0.0365/French)"
+	description "Beneath a Steel Sky |Demo|(CD/DOS/French)[v0.0365]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-demo-cd
 	romof sky-demo-cd
-	rom ( name FRENCH.ROM size 74 crc f7949985 md5 32844ac635118ab1a3fb8659e93bb649 )
+	rom ( name FRENCH.ROM size 74 crc f7949985 md5 32844ac635118ab1a3fb8659e93bb649 sha1 ce78847bea65fdfad6b2d0d0d54c9973b0a928a1 )
 )
 
 game (
 	name sky-demo-cd-it
-	description "Beneath a Steel Sky {Demo}(CD v0.0365/Italian)"
+	description "Beneath a Steel Sky |Demo|(CD/DOS/Italian)[v0.0365]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-demo-cd
 	romof sky-demo-cd
-	rom ( name ITALIAN.ROM size 75 crc 0b73098a md5 ad736cbe373b21b438662747d3c6055c )
+	rom ( name ITALIAN.ROM size 75 crc 0b73098a md5 ad736cbe373b21b438662747d3c6055c sha1 5a51afad28d567ffed98effdc1d610860d042b73 )
 )
 
 game (
 	name sky-demo-cd-pt
-	description "Beneath a Steel Sky {Demo}(CD v0.0365/Portuguese)"
+	description "Beneath a Steel Sky |Demo|(CD/DOS/Portuguese)[v0.0365]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-demo-cd
 	romof sky-demo-cd
-	rom ( name PORTUGUESE.ROM size 78 crc 083599d1 md5 bb82027fd2303fc587aa4bbbddff3b9f )
+	rom ( name PORTUGUESE.ROM size 78 crc 083599d1 md5 bb82027fd2303fc587aa4bbbddff3b9f sha1 4dd4cb4fb004b6e476b37a867fb9ba2b0ce6baf6 )
 )
 
 game (
 	name sky-demo-cd-se
-	description "Beneath a Steel Sky {Demo}(CD v0.0365/Swedish)"
+	description "Beneath a Steel Sky |Demo|(CD/DOS/Swedish)[v0.0365]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
 	cloneof sky-demo-cd
 	romof sky-demo-cd
-	rom ( name SWEDISH.ROM size 75 crc 81d07cf7 md5 45733acc4043ac98cd69c7da3b0d7036 )
+	rom ( name SWEDISH.ROM size 75 crc 81d07cf7 md5 45733acc4043ac98cd69c7da3b0d7036 sha1 cfe9471ae32598c541fd7569675f5c0f9f372ed8 )
 )
 
 game (
 	name sky-demo-de
-	description "Beneath a Steel Sky {Demo}(Floppy v0.0272/German)"
+	description "Beneath a Steel Sky |Demo|(Floppy/DOS/German)[v0.0272][!]"
 	year 1994
 	manufacturer "Revolution Software"
 	sourcefile sky
-	rom ( name SKY.DNR size 1860 crc 4444a861 md5 9b901d20069fdb255e8f91e5a7822267 )
-	rom ( name SKY.DSK size 734425 crc df16e49d md5 69d279ee110b26ce2d1d5f1a71624ccf )
+	rom ( name SKY.DNR size 1860 crc 4444a861 md5 9b901d20069fdb255e8f91e5a7822267 sha1 ac0982090c2a0f8c6645e6f094a6e71049064ad9 )
+	rom ( name SKY.DSK size 734425 crc df16e49d md5 69d279ee110b26ce2d1d5f1a71624ccf sha1 a85ab0eabe3c8e9d05f33c3cadf46bb8738397cb )
 )
 

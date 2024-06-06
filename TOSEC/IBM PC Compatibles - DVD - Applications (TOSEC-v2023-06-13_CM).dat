@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - DVD - Applications</name>
+		<description>IBM PC Compatibles - DVD - Applications (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adobe Photoshop Elements 10 (2011)(Adobe)[PC-Mac]">
+		<description>Adobe Photoshop Elements 10 (2011)(Adobe)[PC-Mac]</description>
+		<rom name="Adobe Photoshop Elements 10 (2011)(Adobe)[PC-Mac].iso" size="3837886464" crc="10376f14" md5="b0263e428f9644ed5155d16feb05783c" sha1="0af94d5bda2430c13ed9262ff898084dc06585bb"/>
+	</game>
+	<game name="Adobe Premiere Elements 10 (2011)(Adobe)[PC-Mac]">
+		<description>Adobe Premiere Elements 10 (2011)(Adobe)[PC-Mac]</description>
+		<rom name="Adobe Premiere Elements 10 (2011)(Adobe)[PC-Mac].iso" size="5370806272" crc="514c96c9" md5="e4a26b5ede68386cf360eaee46fb3809" sha1="4c82c87f744cc49886c2905fe103b8308ae5da31"/>
+	</game>
+	<game name="CoralDRAW Graphics Suite X5 (2010)(Corel Corporation)(AU)">
+		<description>CoralDRAW Graphics Suite X5 (2010)(Corel Corporation)(AU)</description>
+		<rom name="CoralDRAW Graphics Suite X5 (2010)(Corel Corporation)(AU).iso" size="7955021824" crc="dae11bd3" md5="3f01a9e1c25c40420fe65b74b4dc7dcf" sha1="4fc3e3fee3fa5d87b86a29ac2c018b7711f83bec"/>
+	</game>
+	<game name="Microsoft Works Suite 2006 (2005-08)(Microsoft)[OEM]">
+		<description>Microsoft Works Suite 2006 (2005-08)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Works Suite 2006 (2005-08)(Microsoft)[OEM].iso" size="3146459136" crc="a11b309c" md5="6348b02cb4a224eb771ac946087e1f3d" sha1="78c5748339718da28df16ead39255f0dead3be81"/>
+	</game>
+</datafile>

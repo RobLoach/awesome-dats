@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Coverdiscs - [BIN]</name>
+		<description>IBM PC Compatibles - CD - Coverdiscs - [BIN] (TOSEC-v2023-08-29)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-08-29</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3D Artist - Issue 029 (2011)(Imagine Publishing)(GB)">
+		<description>3D Artist - Issue 029 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="3D Artist - Issue 029 (2011)(Imagine Publishing)(GB).bin" size="763856688" crc="4c0d7c7e" md5="aa7bb58049d623ea63ade4a8e2d9c6ee" sha1="81ff16c2cd74cdcc981da508eb984ce7598431bd"/>
+		<rom name="3D Artist - Issue 029 (2011)(Imagine Publishing)(GB).cue" size="141" crc="cd0765ba" md5="f5cce5959defadb43c6d6a1489d6f468" sha1="59698349e2db18239f0ee9565c552f360c5410f0"/>
+	</game>
+	<game name="APC - Issue 396 (2013-12)(Future Publishing)(AU)">
+		<description>APC - Issue 396 (2013-12)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 396 (2013-12)(Future Publishing)(AU).bin" size="782971392" crc="3e059767" md5="a4c2ce136a09bd211d9212492796b7d5" sha1="e9b2ac9a4eb7af75fbb90e8b7f0378f8331a2f95"/>
+		<rom name="APC - Issue 396 (2013-12)(Future Publishing)(AU).cue" size="137" crc="08dcec41" md5="0e1f238504cf28b846ce0af27b610e9f" sha1="22604df5dfdb480b216aef0fa8d0a7d982d2451b"/>
+	</game>
+	<game name="APC - Issue 397 (2013)(Future Publishing)(AU)[christmas edition]">
+		<description>APC - Issue 397 (2013)(Future Publishing)(AU)[christmas edition]</description>
+		<rom name="APC - Issue 397 (2013)(Future Publishing)(AU)[christmas edition].bin" size="492979200" crc="8d5a83cc" md5="5a505c64e831a38552406c32edc08785" sha1="6fdcecac8b5cb781b097b2b243489262727b79b5"/>
+		<rom name="APC - Issue 397 (2013)(Future Publishing)(AU)[christmas edition].cue" size="153" crc="b17075f1" md5="ade63bd477e431f7c3882a66c1423d7a" sha1="23d0aa37ba8453d171931ea7703c1c65318ae616"/>
+	</game>
+	<game name="APC - Issue 398 (2014-01)(Future Publishing)(AU)">
+		<description>APC - Issue 398 (2014-01)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 398 (2014-01)(Future Publishing)(AU).bin" size="298873344" crc="f78e790a" md5="6710e9ea5e4ef872a139276b4a05ad38" sha1="82f5f1e6299b3f463184d42cc32c95f29eb804d1"/>
+		<rom name="APC - Issue 398 (2014-01)(Future Publishing)(AU).cue" size="137" crc="e61c2f69" md5="de80a0a4c18fadd484f82c18ab52d00d" sha1="f980d4abd49f807bc45a0dd433dc264998ecfcab"/>
+	</game>
+	<game name="APC - Issue 399 (2014-02)(Future Publishing)(AU)">
+		<description>APC - Issue 399 (2014-02)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 399 (2014-02)(Future Publishing)(AU).bin" size="453014016" crc="e8f73e21" md5="eba1966c3838aff6af05d9012efd32da" sha1="3afa7b5c8eef3b2cee8a2426d47a065f57a00a58"/>
+		<rom name="APC - Issue 399 (2014-02)(Future Publishing)(AU).cue" size="137" crc="9ea42c30" md5="7c9922f89145e3e9dd6425b54bedbe0c" sha1="9b5286811beb080ca9706e692797a6782e2fb913"/>
+	</game>
+	<game name="APC - Issue 400 (2014-03)(Future Publishing)(AU)">
+		<description>APC - Issue 400 (2014-03)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 400 (2014-03)(Future Publishing)(AU).bin" size="433595904" crc="c71a1fbb" md5="fca5c76b54cad5ca8c13df1d89874907" sha1="6f321f3d6d4da693736433b770666a213aa0a1eb"/>
+		<rom name="APC - Issue 400 (2014-03)(Future Publishing)(AU).cue" size="137" crc="f53c07fa" md5="09ce14080c7cfe8f62f12a4fad8e48f4" sha1="a264668eb1b4a309a3bff02e17db85c06f2ebbc9"/>
+	</game>
+	<game name="APC - Issue 401 (2014-04)(Future Publishing)(AU)">
+		<description>APC - Issue 401 (2014-04)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 401 (2014-04)(Future Publishing)(AU).bin" size="230232576" crc="e62e75c9" md5="8cfad249205c79ce757d45b76c7d7658" sha1="c87c88d88bd8741f86a8218798bdd430538919b1"/>
+		<rom name="APC - Issue 401 (2014-04)(Future Publishing)(AU).cue" size="137" crc="a38376a7" md5="af905d06d8cbe9c1bcc587569e2c8173" sha1="99dc2674e573452458bfca6cd67135cc62adc64a"/>
+	</game>
+	<game name="APC - Issue 403 (2014-06)(Future Publishing)(AU)">
+		<description>APC - Issue 403 (2014-06)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 403 (2014-06)(Future Publishing)(AU).bin" size="677601792" crc="32998a62" md5="71e619d452158f8b49d98b377527fa0a" sha1="e518f198f339e6e242e03bf8671cdb60312e1683"/>
+		<rom name="APC - Issue 403 (2014-06)(Future Publishing)(AU).cue" size="137" crc="7cf40211" md5="400207ca98425f7332beff6ac443125b" sha1="c788bb797338152d07ed529148c4925af6ce655d"/>
+	</game>
+	<game name="APC - Issue 404 (2014-07)(Future Publishing)(AU)">
+		<description>APC - Issue 404 (2014-07)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 404 (2014-07)(Future Publishing)(AU).bin" size="352009728" crc="7ec2a58c" md5="a792984a6174efc35f5458f04e481fe0" sha1="8448916e5b9e84b836b7a7de8da56f3b188e5713"/>
+		<rom name="APC - Issue 404 (2014-07)(Future Publishing)(AU).cue" size="137" crc="90a3e8d7" md5="8aaddb56837ab295cf853297ab102347" sha1="b129d202cabe96c0522ecf607ba09adca7a83800"/>
+	</game>
+	<game name="APC - Issue 405 (2014-08)(Future Publishing)(AU)">
+		<description>APC - Issue 405 (2014-08)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 405 (2014-08)(Future Publishing)(AU).bin" size="565458432" crc="a817f2c1" md5="9287e9fec10998a3689d9068820a7be8" sha1="70be1c5508ecbf4666f4eccc2395ca75d64d87b1"/>
+		<rom name="APC - Issue 405 (2014-08)(Future Publishing)(AU).cue" size="137" crc="9a127d82" md5="b1fbd2ef0ef9b26d6638df6f7d456c22" sha1="c0b53f1b3a45f038aaef28d0d07ceb740ce08129"/>
+	</game>
+	<game name="APC - Issue 407 (2014-10)(Future Publishing)(AU)">
+		<description>APC - Issue 407 (2014-10)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 407 (2014-10)(Future Publishing)(AU).bin" size="159559680" crc="acb8b3d3" md5="17be4e8988b672220e1c84a84289e5ae" sha1="f5658d4a430fe58d8201885ff98820f4a50e8761"/>
+		<rom name="APC - Issue 407 (2014-10)(Future Publishing)(AU).cue" size="137" crc="94dc6654" md5="03551da4419203a5c1d0aa4957642726" sha1="9d584564205fc93ddd827557c4a173b5254ee7d4"/>
+	</game>
+	<game name="APC - Issue 409 (2014-12)(Future Publishing)(AU)">
+		<description>APC - Issue 409 (2014-12)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 409 (2014-12)(Future Publishing)(AU).bin" size="224888832" crc="51297c4a" md5="82aed6d1995a7fde56574762847da8f3" sha1="337cf4872d3155e27446bb10a1808a9471227894"/>
+		<rom name="APC - Issue 409 (2014-12)(Future Publishing)(AU).cue" size="137" crc="9702b599" md5="09cc484cb8c898f965917b3283d600d2" sha1="529f9b15d267f11d4dee09a0692a0be45ff320ea"/>
+	</game>
+	<game name="APC - Issue 415 (2015-05)(Future Publishing)(AU)">
+		<description>APC - Issue 415 (2015-05)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 415 (2015-05)(Future Publishing)(AU).bin" size="788917248" crc="a3df8a49" md5="2b78f61267f20b90c57fa5c55f1f52f5" sha1="51c3c84d920b9b5738c429d72a2958ec71808db2"/>
+		<rom name="APC - Issue 415 (2015-05)(Future Publishing)(AU).cue" size="137" crc="d23d7eba" md5="7c87ecd9e6317a6cc9684c469f736ad9" sha1="f2e1df539a31dddba42970c443e0c4d3e889e76a"/>
+	</game>
+	<game name="Atomic Collection Volume One (2005-01)(Haymarket Media)(AU)">
+		<description>Atomic Collection Volume One (2005-01)(Haymarket Media)(AU)</description>
+		<rom name="Atomic Collection Volume One (2005-01)(Haymarket Media)(AU).bin" size="700310352" crc="c8b166d9" md5="55a83d56eda0a647ae26ace27a06a639" sha1="2c750960c2a69781dd655d45d1a477b00ec3d41a"/>
+		<rom name="Atomic Collection Volume One (2005-01)(Haymarket Media)(AU).cue" size="148" crc="8953fb0a" md5="1b358816e15e789b9bb9657581ab6a25" sha1="273c6b1446dfc97883fd4cee41656a9459216652"/>
+	</game>
+	<game name="Australian Netguide - Issue 064 (2003-09)(Australian Netguide)(AU)">
+		<description>Australian Netguide - Issue 064 (2003-09)(Australian Netguide)(AU)</description>
+		<rom name="Australian Netguide - Issue 064 (2003-09)(Australian Netguide)(AU).bin" size="748194720" crc="cdc669dc" md5="4efd4bb7f145a7ec28ca61f3e0d2dd0b" sha1="b92b2f7f000c9981a4c5cba8fedfef37705ce665"/>
+		<rom name="Australian Netguide - Issue 064 (2003-09)(Australian Netguide)(AU).cue" size="155" crc="de20df91" md5="b4fe7e0af2a5e502922128611f1d53be" sha1="fa4f4006158284e56a0f1aa19ba8e8e4658b6daa"/>
+	</game>
+	<game name="Australian Netguide - Issue 065 (2003-10)(Australian Netguide)(AU)">
+		<description>Australian Netguide - Issue 065 (2003-10)(Australian Netguide)(AU)</description>
+		<rom name="Australian Netguide - Issue 065 (2003-10)(Australian Netguide)(AU).bin" size="741609120" crc="86e7a00e" md5="0785b63146e0486447b0e8842b62d3cb" sha1="fefcc4095a8630bcf51e81d3a9f9f35340c767df"/>
+		<rom name="Australian Netguide - Issue 065 (2003-10)(Australian Netguide)(AU).cue" size="155" crc="94a0d659" md5="99ceb6d8bfd70c02fb9cc1ca0a7739b2" sha1="fa0804cf3973a62898e2beb98378170df5210a3d"/>
+	</game>
+	<game name="Australian Netguide - Issue 071 (2004-04)(Australian Netguide)(AU)">
+		<description>Australian Netguide - Issue 071 (2004-04)(Australian Netguide)(AU)</description>
+		<rom name="Australian Netguide - Issue 071 (2004-04)(Australian Netguide)(AU).bin" size="738565632" crc="cf7b4d85" md5="bc5ba06fc6d8d4e622c50cd491f127a9" sha1="b94178eda8fcc59e60df4184da12f73407d95b90"/>
+		<rom name="Australian Netguide - Issue 071 (2004-04)(Australian Netguide)(AU).cue" size="155" crc="62c97576" md5="967bfd220faeba7eadd411fc080afd92" sha1="83903500ad3a40b079b67338d795dfef958ecad7"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)(Disc 1 of 2)">
+		<description>Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)(Disc 1 of 2)</description>
+		<rom name="Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)(Disc 1 of 2).bin" size="771844080" crc="7e616f22" md5="92aba1fe0d1ca60a081b99641ca0c4b3" sha1="9edc9c2d532afb7c01898cbf31fdfa09970e69e8"/>
+		<rom name="Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)(Disc 1 of 2).cue" size="172" crc="b9615802" md5="7bfae14596ebdf2ff948bbe1f432b03c" sha1="6e2a5952ac022779a5bece18c0a9093ae5f24cb8"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)(Disc 2 of 2)">
+		<description>Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)(Disc 2 of 2)</description>
+		<rom name="Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)(Disc 2 of 2).bin" size="781668384" crc="0e43b495" md5="f7c53df64e4aacb885afaef81c17c59b" sha1="cec49523ebf140cc1b78ad8029d2948a5dfe84a5"/>
+		<rom name="Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)(Disc 2 of 2).cue" size="172" crc="f5d272ab" md5="60a9a8373d5f2bcd040576001d52333c" sha1="e9de19dd78d8be92b874b0ce0a7ede74b5e99c9d"/>
+	</game>
+	<game name="Complete Guide to Digital Painting - Volume 2 (2009)(Imagine Publishing)(GB)">
+		<description>Complete Guide to Digital Painting - Volume 2 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Complete Guide to Digital Painting - Volume 2 (2009)(Imagine Publishing)(GB).bin" size="738687936" crc="a7eb787d" md5="3e31b3049dec2fc04dfef6c0a5bf70f9" sha1="d17b826612152b513602ba08922160c491af06e5"/>
+		<rom name="Complete Guide to Digital Painting - Volume 2 (2009)(Imagine Publishing)(GB).cue" size="165" crc="0a4dbe92" md5="9dc4a59df0aeb2f77bf598a9fa70dee2" sha1="957ec60f22ef00d6a3dfb0e88f39966e4405a2fe"/>
+	</game>
+	<game name="Computer Arts - Issue 137 (2007-07)(Future Publishing)(GB)">
+		<description>Computer Arts - Issue 137 (2007-07)(Future Publishing)(GB)</description>
+		<rom name="Computer Arts - Issue 137 (2007-07)(Future Publishing)(GB).bin" size="816621456" crc="fcf9428b" md5="c279ded770ee9c4a9c88b2909856c73a" sha1="79cf6b0f34c64a80f503f2753dd4e4aa5e0b8a64"/>
+		<rom name="Computer Arts - Issue 137 (2007-07)(Future Publishing)(GB).cue" size="147" crc="f88d1757" md5="1b2ef3982eb1b9f62ea464d81834e646" sha1="742face8f9d664c9eeb269bbe1fca1b492a63c4a"/>
+	</game>
+	<game name="Computer Arts - Issue 175 (2010-06)(Future Publishing)(GB)">
+		<description>Computer Arts - Issue 175 (2010-06)(Future Publishing)(GB)</description>
+		<rom name="Computer Arts - Issue 175 (2010-06)(Future Publishing)(GB).bin" size="724688832" crc="e3ba88e5" md5="b5edd9188758590d147db14a2915177c" sha1="ad0759ebeed580d19411327144bffd25ae221ffc"/>
+		<rom name="Computer Arts - Issue 175 (2010-06)(Future Publishing)(GB).cue" size="145" crc="6ddccc78" md5="0b0fdf081a63a3fb286822fe32a17368" sha1="dc0106302608e4d9d11e7d625afce32f975f8459"/>
+	</game>
+	<game name="Digital Artist - Issue 08 (2010)(Imagine Publishing)(GB)">
+		<description>Digital Artist - Issue 08 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Digital Artist - Issue 08 (2010)(Imagine Publishing)(GB).bin" size="746386032" crc="6e416951" md5="3c06a8b1a6c89da19fc71640287669a1" sha1="9fa88a347aa190d442d02e7efdbbd1a54a3fbbc3"/>
+		<rom name="Digital Artist - Issue 08 (2010)(Imagine Publishing)(GB).cue" size="145" crc="ff673663" md5="ecc2b06946c4a8067ad5232eefdad73e" sha1="5c4965972f30ebce8a030e5912800b9931274383"/>
+	</game>
+	<game name="Disc, The - Issue Two (1993)(Robot Madness)(AU)">
+		<description>Disc, The - Issue Two (1993)(Robot Madness)(AU)</description>
+		<rom name="Disc, The - Issue Two (1993)(Robot Madness)(AU).bin" size="703144512" crc="3ef087d1" md5="8e04c432ca7d5ba1ed2681e5c31dd8aa" sha1="51a11b7f4fb65a6aa74feb25e04b974c7fb977fc"/>
+		<rom name="Disc, The - Issue Two (1993)(Robot Madness)(AU).cue" size="136" crc="27eeeefc" md5="afd326cc84e1e8e236109c33d097fb47" sha1="6cbc8aac296faf6ac8fd6cfaf922cad74c9de895"/>
+	</game>
+	<game name="Edutainment.net - Issue 1 (1997-06)(Edutainment.net)(AU)">
+		<description>Edutainment.net - Issue 1 (1997-06)(Edutainment.net)(AU)</description>
+		<rom name="Edutainment.net - Issue 1 (1997-06)(Edutainment.net)(AU).bin" size="764230656" crc="f1ef9cd5" md5="f6ab064c64dff945958dbf5c2182040b" sha1="e45cc49040ff46b4a8c1cfa0b7b82c105137ed18"/>
+		<rom name="Edutainment.net - Issue 1 (1997-06)(Edutainment.net)(AU).cue" size="160" crc="d95adae6" md5="5f7bcfdb611adbd6265e997cc12486e7" sha1="e7bb6d4ce72db0b2a8adebc2562391c5607aac88"/>
+	</game>
+	<game name="Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 1 of 3)">
+		<description>Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 1 of 3)</description>
+		<rom name="Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 1 of 3).bin" size="713895504" crc="40feb039" md5="0c1166a24f5851c579c87610eea8226a" sha1="b033748ef80102bff6edc79f114663a80c4e0ab4"/>
+		<rom name="Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 1 of 3).cue" size="167" crc="94cc1cd3" md5="cf831fc5f57e04959bc547d9bf069526" sha1="3a3f529099033fa94849e8812bda53df51031849"/>
+	</game>
+	<game name="Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 2 of 3)[Red Hat Linux 6]">
+		<description>Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 2 of 3)[Red Hat Linux 6]</description>
+		<rom name="Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 2 of 3)[Red Hat Linux 6].bin" size="653867760" crc="0565b3bc" md5="db7a17c4d474678eb41d39a35bea6157" sha1="f8e48153dcda4e289b8b0b9fe48a16dcb9e7c2e8"/>
+		<rom name="Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 2 of 3)[Red Hat Linux 6].cue" size="184" crc="33b9b676" md5="600e36ce4c678b70d86b150e156b1b79" sha1="58521d13e5a371f4ab2bab404748dd5ceef065d6"/>
+	</game>
+	<game name="Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 3 of 3)[OpenLinux 2.2-N]">
+		<description>Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 3 of 3)[OpenLinux 2.2-N]</description>
+		<rom name="Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 3 of 3)[OpenLinux 2.2-N].bin" size="643137936" crc="96de8965" md5="9fb60437c9a95c1fd50d6d45c9f5d26a" sha1="d00a89e1cc577e3c25a7731159912799abb60aa4"/>
+		<rom name="Linux Pocketbook - The Revised Edition (1999)(ACP Publishing)(AU)(Disc 3 of 3)[OpenLinux 2.2-N].cue" size="184" crc="fa220dce" md5="41b08b359e3d38f0ce2bf9c55269a65e" sha1="04ce2783d9faee88d6326adeb8312b7fd6ea4923"/>
+	</game>
+	<game name="PC Authority - Issue 104 (2006-07)(Haymarket)(AU)(Disc 1 of 2)">
+		<description>PC Authority - Issue 104 (2006-07)(Haymarket)(AU)(Disc 1 of 2)</description>
+		<rom name="PC Authority - Issue 104 (2006-07)(Haymarket)(AU)(Disc 1 of 2).bin" size="591142272" crc="174a7889" md5="2786b3e74f3aef7d6bc7429aad02728a" sha1="b992bdec70c27d8a839e8fcde8d202dd24d2c7ab"/>
+		<rom name="PC Authority - Issue 104 (2006-07)(Haymarket)(AU)(Disc 1 of 2).cue" size="152" crc="91bd5a26" md5="cabdd19a71afaadae78c5c3c50b947f8" sha1="4ce8e649a767d2653a3c31ded1bff1440550478e"/>
+	</game>
+	<game name="PC Authority - Issue 104 (2006-07)(Haymarket)(AU)(Disc 2 of 2)">
+		<description>PC Authority - Issue 104 (2006-07)(Haymarket)(AU)(Disc 2 of 2)</description>
+		<rom name="PC Authority - Issue 104 (2006-07)(Haymarket)(AU)(Disc 2 of 2).bin" size="539788704" crc="e3cd568a" md5="aa6846fbbfec2932894f5a2c1c87b41c" sha1="6e1df988b1dcfe55a8a619c1b8fb4f3b8ed8e841"/>
+		<rom name="PC Authority - Issue 104 (2006-07)(Haymarket)(AU)(Disc 2 of 2).cue" size="152" crc="dd0e708f" md5="311a625c621d168c5865da20597c88f0" sha1="559fe614e4a36078255d31901dc5407c8a137c2b"/>
+	</game>
+	<game name="PC Gameguide CD#6 (2000)(Next Gaming)(AU)">
+		<description>PC Gameguide CD#6 (2000)(Next Gaming)(AU)</description>
+		<rom name="PC Gameguide CD#6 (2000)(Next Gaming)(AU).bin" size="782562144" crc="9fbbd31d" md5="2b216c71819b3dc4ce746021241797dd" sha1="307132ddae26475fbf314f6c791df429aacb74a9"/>
+		<rom name="PC Gameguide CD#6 (2000)(Next Gaming)(AU).cue" size="145" crc="0b7ef30b" md5="4acb8a12559e42108a23c94bb4904aaa" sha1="1e8b58ec6410dcc6f08a544d74358bfdeeabddf9"/>
+	</game>
+	<game name="PC Gamer - Volume 10 Number 07 (2003-07)(Future Publishing)(US)">
+		<description>PC Gamer - Volume 10 Number 07 (2003-07)(Future Publishing)(US)</description>
+		<rom name="PC Gamer - Volume 10 Number 07 (2003-07)(Future Publishing)(US).bin" size="769428576" crc="bdc6e22f" md5="301ddeb08a8fbd78cdba1c69c47b8886" sha1="a78e3620c25c5f48614106be1e6f231dd5f59124"/>
+		<rom name="PC Gamer - Volume 10 Number 07 (2003-07)(Future Publishing)(US).cue" size="152" crc="07cc528f" md5="5619ec03dc219b1048aae8c8d666d0eb" sha1="b93a9c5d46f8dd53f74fbaaf3d4ea0c69b938d20"/>
+	</game>
+	<game name="PC Magazine Australia Bonus Disc (2000)(ZDNet)(AU)">
+		<description>PC Magazine Australia Bonus Disc (2000)(ZDNet)(AU)</description>
+		<rom name="PC Magazine Australia Bonus Disc (2000)(ZDNet)(AU).bin" size="635917296" crc="eefb1403" md5="2ce0deed5f8914bbafb394f40d758e9b" sha1="10a4a20b25daeca069eb15baa44e8dadab6959b2"/>
+		<rom name="PC Magazine Australia Bonus Disc (2000)(ZDNet)(AU).cue" size="139" crc="1b74d65c" md5="3d95c72ffe66214a5d351d93b70eda39" sha1="f61764054307952f51c3daf144017718af6e50d4"/>
+	</game>
+	<game name="PC Plus #186 Super Disc 2 (2002-02)(Future Publishing)(GB)[PCP-186-2-02-02]">
+		<description>PC Plus #186 Super Disc 2 (2002-02)(Future Publishing)(GB)[PCP-186-2-02-02]</description>
+		<rom name="PC Plus #186 Super Disc 2 (2002-02)(Future Publishing)(GB)[PCP-186-2-02-02].bin" size="767111856" crc="7cb0acc3" md5="949e5af686d95a51bcac91ec18de24c7" sha1="88aecfa5a56fc31fa00daa9d2b0d0dcfa722853c"/>
+		<rom name="PC Plus #186 Super Disc 2 (2002-02)(Future Publishing)(GB)[PCP-186-2-02-02].cue" size="141" crc="2f0145a6" md5="8e1eea35526c3e71781e3be9b5e8a1ba" sha1="60649b6347ffb3cc5c5a937833499000bf0c22e7"/>
+	</game>
+	<game name="PC Powerplay - Issue 001 (1996-04)(Next Publishing)(AU)">
+		<description>PC Powerplay - Issue 001 (1996-04)(Next Publishing)(AU)</description>
+		<rom name="PC Powerplay - Issue 001 (1996-04)(Next Publishing)(AU).bin" size="491958432" crc="c56f1424" md5="c269f32157194bf01fda4c46bd454784" sha1="147c055ff5eb766fc997eb6b5d68f52675ee858d"/>
+		<rom name="PC Powerplay - Issue 001 (1996-04)(Next Publishing)(AU).cue" size="144" crc="e09fb10c" md5="de724e00a43fe5e3d3bcf346c73e4863" sha1="60eb9664ff00850adbb7c932fd6960e15750001e"/>
+	</game>
+	<game name="PC Powerplay - Issue 002 (1996-06)(Next Publishing)(AU)">
+		<description>PC Powerplay - Issue 002 (1996-06)(Next Publishing)(AU)</description>
+		<rom name="PC Powerplay - Issue 002 (1996-06)(Next Publishing)(AU).bin" size="529964400" crc="cffdbaf3" md5="03a1d376d90ec8efb0af8cb76214f260" sha1="b3039d30cc7e5aefac3be49e395711935ebcceee"/>
+		<rom name="PC Powerplay - Issue 002 (1996-06)(Next Publishing)(AU).cue" size="144" crc="dc4e7da3" md5="a16c62a3f96574a283e40ac796ec41c5" sha1="57f4d3cd1269a8deaa615fa575666762f2bdb813"/>
+	</game>
+	<game name="Photoshop Projects - Volume 02 (2010)(Media Factory)(AU)">
+		<description>Photoshop Projects - Volume 02 (2010)(Media Factory)(AU)</description>
+		<rom name="Photoshop Projects - Volume 02 (2010)(Media Factory)(AU).bin" size="433238400" crc="67f1b26e" md5="a9a262c04c0806ee3edcd39cc2ea8666" sha1="964467f460d8fe1dcb1ba11a5f2904de43320f22"/>
+		<rom name="Photoshop Projects - Volume 02 (2010)(Media Factory)(AU).cue" size="145" crc="29c56ec0" md5="7425925e432a4acaa856e67295f1b013" sha1="9ade7172bf28319213a53ad51f5becad325f6acc"/>
+	</game>
+	<game name="Photoshop Projects - Volume 13 (2013)(Citrus Media)(AU)">
+		<description>Photoshop Projects - Volume 13 (2013)(Citrus Media)(AU)</description>
+		<rom name="Photoshop Projects - Volume 13 (2013)(Citrus Media)(AU).bin" size="567391776" crc="e831f7bf" md5="8c65924eab4a89e4de0dc83df0d4121f" sha1="bcf2720d016af59a84f5d68d2254d804975ac45e"/>
+		<rom name="Photoshop Projects - Volume 13 (2013)(Citrus Media)(AU).cue" size="144" crc="d49dae3e" md5="8000cb2ddb5c95d74081ed77c406c129" sha1="57463c69fbd246e08529c692e1c2cb836e2516c0"/>
+	</game>
+	<game name="Photoshop Projects - Volume 14 (2013)(Citrus Media)(AU)">
+		<description>Photoshop Projects - Volume 14 (2013)(Citrus Media)(AU)</description>
+		<rom name="Photoshop Projects - Volume 14 (2013)(Citrus Media)(AU).bin" size="576649248" crc="dbcb723f" md5="2cfe70f7f0ed0de74e1ad29a93acca4c" sha1="15b9b96832363b47f8ee320b1085cb6aabb505dd"/>
+		<rom name="Photoshop Projects - Volume 14 (2013)(Citrus Media)(AU).cue" size="144" crc="a7733daa" md5="2d44ac5d2af0fcf90ab58897420c1d1f" sha1="0cde1c4811aca3218c360c1c230fcee874ee4daa"/>
+	</game>
+	<game name="Photoshop Projects - Volume 15 (2014)(Citrus Media)(AU)">
+		<description>Photoshop Projects - Volume 15 (2014)(Citrus Media)(AU)</description>
+		<rom name="Photoshop Projects - Volume 15 (2014)(Citrus Media)(AU).bin" size="170825760" crc="b32a206a" md5="e27c8a78ce99155a97102aec9406662f" sha1="36328b5c99a8e293ce3be5d0e438aa5113c5fa5e"/>
+		<rom name="Photoshop Projects - Volume 15 (2014)(Citrus Media)(AU).cue" size="146" crc="5c51deac" md5="e47db46bf4ee26a6469c45dd27cfa961" sha1="e507cf7e129493d1a424665a63c33a8587824195"/>
+	</game>
+	<game name="Retro Gamer - Issue 01 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 01 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 01 (2004)(Live Publishing)(GB).bin" size="779243472" crc="4b63d68a" md5="7dade00a74ee7e9b915d0c1d1708659e" sha1="64dfa3a86aad9ebbfce65567704e6d0b19bcaa60"/>
+		<rom name="Retro Gamer - Issue 01 (2004)(Live Publishing)(GB).cue" size="139" crc="ef56d37a" md5="4da2636613370401d7a2660d1aaa1423" sha1="e498356aac0da700cd2154bd9f28082affa5e191"/>
+	</game>
+	<game name="Retro Gamer - Issue 03 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 03 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 03 (2004)(Live Publishing)(GB).bin" size="711971568" crc="ccd1b2aa" md5="fdbd7eb0ba60b6a7686fe6c25585ed1c" sha1="ab9f108c9595266c0c25057aa40834cc3b6e2b6f"/>
+		<rom name="Retro Gamer - Issue 03 (2004)(Live Publishing)(GB).cue" size="139" crc="272e086a" md5="9f6eb9c9d880254c1a146c13a0d2b1a6" sha1="66473d1892d664dc148e85afef52406fce905149"/>
+	</game>
+	<game name="Upgrading Pocketbook, The (2000)(ACP Publishing)(AU)(Disc 1 of 2)">
+		<description>Upgrading Pocketbook, The (2000)(ACP Publishing)(AU)(Disc 1 of 2)</description>
+		<rom name="Upgrading Pocketbook, The (2000)(ACP Publishing)(AU)(Disc 1 of 2).bin" size="724025568" crc="3f0420c8" md5="ea539bd1e434aee3ed0048ed03779c55" sha1="b331f11a11b86e601df485d547ab73749ac52a40"/>
+		<rom name="Upgrading Pocketbook, The (2000)(ACP Publishing)(AU)(Disc 1 of 2).cue" size="154" crc="ef0929b8" md5="ae49ed225828a59e324dd1fb1c8bfc87" sha1="c47a6f40efc9683feb9c38b52919a65a3a530418"/>
+	</game>
+	<game name="Upgrading Pocketbook, The (2000)(ACP Publishing)(AU)(Disc 2 of 2)">
+		<description>Upgrading Pocketbook, The (2000)(ACP Publishing)(AU)(Disc 2 of 2)</description>
+		<rom name="Upgrading Pocketbook, The (2000)(ACP Publishing)(AU)(Disc 2 of 2).bin" size="778274448" crc="388b706a" md5="f9b3b0295ff4047b9f856ed9a7b1e089" sha1="9061a72d86b2c7a1762cdbef2f29a210437ecc11"/>
+		<rom name="Upgrading Pocketbook, The (2000)(ACP Publishing)(AU)(Disc 2 of 2).cue" size="154" crc="a3ba0311" md5="1992dc4c37e3610f8c59fc36b511f61e" sha1="d6f48372fec7c1ae4044ab5acd59752c61fba96a"/>
+	</game>
+</datafile>

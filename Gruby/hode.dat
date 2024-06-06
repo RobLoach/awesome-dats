@@ -1,0 +1,772 @@
+clrmamepro (
+	name HODE
+	description "HODe Engine Games"
+	category "HODe"
+	version v1.04
+	date 2021-05-03
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name hode-demo-psx
+	description "Heart of Darkness |Demo|(Playstation)[!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	rom ( name CINE\CHUTE.STR size 1587600 crc 98666a16 md5 3afe448da65b975d9400862b326d193d sha1 d7ad7cf64a1da1220ea076fd79354961782a6073 )
+	rom ( name CINE\CINE14L.STR size 5997600 crc cdd30704 md5 e8142fd4c720e0c1c60d47abc9b45b78 sha1 d556fad5408eb8f4c6deaf4a764536de459f0741 )
+	rom ( name CINE\DEMO1.STR size 31890768 crc 5dd9a43a md5 9788138849822c378330ea84ab42695f sha1 abe638e3eba6de571ad058befcdad215a12b4711 )
+	rom ( name CINE\GCHT.STR size 1587600 crc 20889e9b md5 138b4122c3c9ccc0dcee609fe358bda3 sha1 6c3ad67731326e4644491090d000fbad06561081 )
+	rom ( name CINE\INTRO.STR size 143907120 crc cf780def md5 709d58cc0d6a0b8a61cecbb5648231c7 sha1 34447407b89ff14e15826938eec95908c7cd105e )
+	rom ( name CINE\RAPT.STR size 45475920 crc 09f5e1ad md5 7836b97f42666788f9c199bafbc8e3fd sha1 fb624bf628e7f0dc0ebde2471eab98c7b53737ed )
+	rom ( name ROCK_HOD.LVL size 18700288 crc 7e37bbdd md5 897222fad2c48e557ae29c90a394450c sha1 9cbc3bad9efe5f21f66c33d9872e29a1bd7b4c0c )
+	rom ( name ROCK_HOD.MST size 77824 crc 63843d8f md5 087d7579f2aaf65e587429a4c2a05689 sha1 e7fbfcde10c08aa64ae1398fc95257891863790b )
+	rom ( name SETUP\CHAHAUT2.STR size 196608 crc 3fbdab83 md5 7f31869c61f03d7828f3122f2802d2f2 sha1 c06b5026a8f25d841bed26f85bae716294ef80af )
+	rom ( name SETUP\CHARBAS2.STR size 196608 crc 0c8d0d09 md5 65f8293918c04235d1df15ddbb94c7bc sha1 d21d6539e6b3f84ce061b0e12efb55a4ec51ba0e )
+	rom ( name SETUP\MAGN_A_2.STR size 860160 crc 08bc9857 md5 d2539d440c0b87cbb3e6ff23a8c69dec sha1 9e3c7894c09e471e6abbe92515df389e67621a4b )
+	rom ( name SETUP\MAGN_R_2.STR size 860160 crc e16a8e91 md5 5667e84ffee053fce81d11e5aa4e19f1 sha1 44c5e177d5543df7c91173b3d13e176701c99c38 )
+	rom ( name SETUP\ORDI_A_2.STR size 491520 crc 4a197592 md5 42678f02a63f9f7951d40edae125b345 sha1 4c9d9eb57a356d6e114d6504c09b957a7232b6bc )
+	rom ( name SETUP\ORDI_R_2.STR size 491520 crc 4923cf80 md5 ad13883c0ca9ce8faa57078ec14f5aec sha1 719b68c82b51b9076d2697a6a755716482638f8f )
+	rom ( name SETUP\PROJ_A_2.STR size 1056768 crc 29371fed md5 3cfea32ab3351eeb2664876ee109237b sha1 f0b8f2f8152aec22721fd8d225e046db3109fc21 )
+	rom ( name SETUP\PROJ_R_2.STR size 442368 crc fbaa4d79 md5 28c9c70a79a1451c1f1e0458bba105ce sha1 992ee7efc44a1719194bfec79e242648917bcb7e )
+	rom ( name SETUP\QUIT2.STR size 1327104 crc aa37831f md5 04f0ed91890ca054aa8104085bb7b95f sha1 95cff6350333ec1363944bcc206409dd055e3d83 )
+	rom ( name SETUP\SAUV_A_2.STR size 393216 crc 62a44026 md5 e47ac4b28687fe2d52dfb821e70a3344 sha1 dc8b0af0a221f0a5b663a2eccd2864a5b5d1fbd3 )
+	rom ( name SETUP\SAUV_R_2.STR size 417792 crc c0eb4441 md5 d861290f4f4cff5f41942a17f0e7d75d sha1 90efb209814b1b1d3e5c0f395f70f1d9fa7b3729 )
+	rom ( name SETUP\SETUP.DAX size 2768896 crc af80af9c md5 1893b2b2dfb58a2ba35e5cb1edd35304 sha1 cd153cd533b882f723e937a1853d129dd48fab42 )
+	rom ( name SETUP\STLINA2R.STR size 589824 crc 7d81db54 md5 e9367ebc6a46e0c55b381e8de6c67faf sha1 04f47b59fb6d9c00bfd6f358f5b8c2e986858329 )
+	rom ( name SETUP\STLINB2R.STR size 393216 crc 45c60a77 md5 202c58177b2a70246bb7f3adc12a2540 sha1 3f2c846ffd2d467deffaf49a91c873eb2ba04f2c )
+	rom ( name SETUP\STLINC2R.STR size 319488 crc 86cfc07e md5 8113e1147126ea6f290db98627e9c7da sha1 875df7cc146f26339a3c519af794736e0e12bbae )
+	rom ( name SETUP\STLIND2R.STR size 565248 crc 126d7f1c md5 a95bf05bdc2ae7e13df96d1d54f4923a sha1 e8cdf30fabc8178500c3210b7273a3fc1c7cb836 )
+	rom ( name SETUP\STLINE2R.STR size 565248 crc 75f83896 md5 c91e434108134cf5ef886bd87b11014b sha1 80c8180615b00f444d33983b19b5de3bb9a9a739 )
+	rom ( name SETUP\STLINF2R.STR size 565248 crc 1a11fae7 md5 f59fbe3b6fd093dd5fa73157fda336ee sha1 4dbe75254455167a3b9605a1704d3d2364fd074b )
+	rom ( name SETUP\STLINKA2.STR size 589824 crc 6c3fc079 md5 8416225ab9fe25437fdd6e412f8c89ff sha1 458e949f57ac96436beefd28c37bac0fab265c37 )
+	rom ( name SETUP\STLINKB2.STR size 393216 crc a97b0a0b md5 2c3a4a6c128157b8d5100c7f8cf62a2b sha1 a8d568492950e74c402e681cad3d587ab94842e6 )
+	rom ( name SETUP\STLINKC2.STR size 319488 crc 03b7b818 md5 7a4735c59c016bebc60b4f318215c2fc sha1 a180429f57f276d71534057b2a0c32e4695efe29 )
+	rom ( name SETUP\STLINKD2.STR size 565248 crc 5fb5d932 md5 23c91cf2edb5a80039e99480e4f983ee sha1 b3f225c3460a7a84f4253797a9fee95f14d727db )
+	rom ( name SETUP\STLINKE2.STR size 565248 crc ab7117d4 md5 4774ddb4589421400bd707d56cc90729 sha1 1d91e0ce8c9ca7d14ee7219964de0869f6c2674e )
+	rom ( name SETUP\STLINKF2.STR size 565248 crc 39dd75c6 md5 589f0037bf920994737c49cd888ecdea sha1 cf946f842b59d9495407599d0dae0f3f09273bec )
+	rom ( name SETUP\STPCOFF2.STR size 1155072 crc 00f643c3 md5 4df5e735cc96c707b2f3f26b3fcfc9ef sha1 c2872e1da99ac4769c7248b99689dabbf8ae15e4 )
+	rom ( name SETUP\STPVAIS2.STR size 1449984 crc 64733eee md5 32d813c925111db77b25590fa09aeb23 sha1 02f1d3f1b34ebc6ff7e82a3f0f315a66f378bd82 )
+)
+
+game (
+	name hode-demo-psx-fr
+	description "Heart of Darkness |Demo|(Playstation/French)[!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	rom ( name CINE\CHUTE.STR size 1587600 crc 2c7c8c56 md5 40c53dde71cbd307b7bc815211995092 sha1 fea487f0bda132de0d672e3a4a14842d81f88745 )
+	rom ( name CINE\CINE14L.STR size 5997600 crc c3b1870e md5 82d329e90a98de3a230b049cf0f45fa1 sha1 cdfa66c686b35e068a90e3e8d38aa63ae67cff3e )
+	rom ( name CINE\DEMO1.STR size 31890768 crc 4574b5a4 md5 bd3420cb1b188278ac1c1efcc9c6bb0f sha1 bf7e8ea048282eedb2047bcca38ad51a82943b09 )
+	rom ( name CINE\GCHT.STR size 1587600 crc 6d7ffc3b md5 12e6027946c66906f140f9994651147b sha1 0099a36a36d09cb77e4d6f1755e515b234c07998 )
+	rom ( name CINE\INTRO.STR size 143907120 crc 8e42a1f7 md5 af879737b6241c7eac5291e24d637633 sha1 b524e1d7056f6040a1fb8da3824e0b7193943370 )
+	rom ( name CINE\RAPT.STR size 45475920 crc d11cfeda md5 e253dca4ecddc8840a553791e59137b9 sha1 f9371ae063aee6e7966f85027c3eff8b00a2b978 )
+	rom ( name ROCK_HOD.LVL size 18700288 crc 7e37bbdd md5 897222fad2c48e557ae29c90a394450c sha1 9cbc3bad9efe5f21f66c33d9872e29a1bd7b4c0c )
+	rom ( name ROCK_HOD.MST size 77824 crc 63843d8f md5 087d7579f2aaf65e587429a4c2a05689 sha1 e7fbfcde10c08aa64ae1398fc95257891863790b )
+	rom ( name SETUP\CHAHAUT2.STR size 196608 crc 70c57bc3 md5 ebc5040dcd6440803f5b2932d9ead5ae sha1 c3ff5a3f164dc933ec80242395f8db160174caa7 )
+	rom ( name SETUP\CHARBAS2.STR size 196608 crc 8dcd7acd md5 533b7bae3902bf97ece70f3fe65ec7f2 sha1 3c83352a8f98204b68cd740c02f96a4787353008 )
+	rom ( name SETUP\MAGN_A_2.STR size 860160 crc 6d7b6f4e md5 956c3c4232ccd094240dc2d68b68bb97 sha1 7b354f2949a46fcf65945604b64c474ae3a0f0f6 )
+	rom ( name SETUP\MAGN_R_2.STR size 860160 crc c4845a13 md5 7a25fe90ce6ff36d43095a7bce4afc8f sha1 ea71dcf98ffe0a6ea6409215194aec9473e48fa3 )
+	rom ( name SETUP\ORDI_A_2.STR size 491520 crc 9bb7be49 md5 a1a0f5aa25ff518301126327c3dfc932 sha1 40e607854b5e9efb3414cb645e613ca5126bf80b )
+	rom ( name SETUP\ORDI_R_2.STR size 491520 crc 3cd75662 md5 f93b42a17e8587a53cf8aad72e7ac3ef sha1 f0e610bcd1a94215da58eb6300da806a6735eafb )
+	rom ( name SETUP\PROJ_A_2.STR size 1056768 crc 8af28c75 md5 28f216eeb95541860d0434515649d4c0 sha1 d8626f5a0a56fc390ae7cbc600e6d85ca8e37f9f )
+	rom ( name SETUP\PROJ_R_2.STR size 442368 crc 3cbc09fb md5 e1257b4762e88efad76a81c7d84b9c42 sha1 851b1798a753e83f769b7af000d235d400b8b052 )
+	rom ( name SETUP\QUIT2.STR size 1327104 crc 55a9fce5 md5 b877462b379d0bb3f966bdd9b2f90444 sha1 1485773abbfa0ba8ebc07cbea11e3cb5985d3988 )
+	rom ( name SETUP\SAUV_A_2.STR size 393216 crc 3461d9b9 md5 1bc8b66eca3385f36559748eda244b98 sha1 23b7a1af397d2b46083988c6ea4ec9031365c95b )
+	rom ( name SETUP\SAUV_R_2.STR size 417792 crc 6bf3b6f0 md5 bac11c0e6a6290bf182fda56dc15ab53 sha1 5ba4de57d68b285502e250c818de68258739578f )
+	rom ( name SETUP\SETUP.DAX size 2797568 crc 5378bd15 md5 e56fb1a3405ad3b7e5d282543cb67490 sha1 e091dddd74dc00ccf57a48dc8495ed95cde6a42d )
+	rom ( name SETUP\STLINA2R.STR size 589824 crc 012bf2b0 md5 640893fec1b72a2cac66988d973d5c16 sha1 df459f3757ed61a7a4011b845d087dc4532d066c )
+	rom ( name SETUP\STLINB2R.STR size 393216 crc 3d6e4807 md5 6deeec9aa6a6cbe60fcaef8c7debe79a sha1 80308aba547b6d2bde796a84f6815226fae0b753 )
+	rom ( name SETUP\STLINC2R.STR size 319488 crc 74016314 md5 ae3934c5d80d951f669b5b255debe639 sha1 d36a783671903f8a1af00de274e3a242fe9fdc8e )
+	rom ( name SETUP\STLIND2R.STR size 565248 crc 777913f9 md5 4f071e5690e2f320a40c71594c1aa399 sha1 cf2f814940addc637752afcd8aaa95ba20428fd1 )
+	rom ( name SETUP\STLINE2R.STR size 565248 crc 6f3ab2b1 md5 11a58cf0bad044ab392fb85fef32984f sha1 6fb1181aa289be65f118736856c8d04afe3bce97 )
+	rom ( name SETUP\STLINF2R.STR size 565248 crc 6ca79c12 md5 6f274c9b9d37128911696b4307e8bf68 sha1 370f5b1b6bd57d4bbb98cd06f0a281a5021fcfbc )
+	rom ( name SETUP\STLINKA2.STR size 589824 crc f1dccfa2 md5 32e1d42d24b6d6ac7ea9823c27f40239 sha1 44235a8296c8a20c5346c99a4ca478bf3ee66815 )
+	rom ( name SETUP\STLINKB2.STR size 393216 crc 7c8a3925 md5 4300af1cfa6ceec77a47e02010b1b3db sha1 231d1143db6ae342e591004207208e295f3646e4 )
+	rom ( name SETUP\STLINKC2.STR size 319488 crc 8f1a0745 md5 82d6ce30f18d671542932a9e797245da sha1 76c2fe8913cd74b904d6d8a3298163d541fb34cc )
+	rom ( name SETUP\STLINKD2.STR size 565248 crc b59b1a88 md5 fe0f2d4fd6cd2ee9ec6327428e11376a sha1 4c0e03f9d0c2059b9e947f7560436540778bc6fa )
+	rom ( name SETUP\STLINKE2.STR size 565248 crc c35d4a59 md5 df404f81e8cffcb57b0d197bb8ae0f51 sha1 0eec4d254a30152068e1f6245d464e5e866f883b )
+	rom ( name SETUP\STLINKF2.STR size 565248 crc c4d91691 md5 3c6a84f6885c0c74ab712852edb09bd4 sha1 88ad121ce43130946a1cadc627b42f9b89b27b5b )
+	rom ( name SETUP\STPCOFF2.STR size 1155072 crc 70b55856 md5 4718bc6234a863b9369fe7594b10f58e sha1 7a5fcba49d0760b799bf7c0e9a7faa798a04fbf0 )
+	rom ( name SETUP\STPVAIS2.STR size 1449984 crc 984f2008 md5 8506448af7d358d953864621bb5f2a9d sha1 c622cbe3b445abfe9a65432308e632a9eb003ecc )
+)
+
+game (
+	name hode-demo-win
+	description "Heart of Darkness |Demo|(Windows)[v1.2][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxdemores
+	rom ( name hod_demo.paf size 48421064 crc ff73a8b4 md5 8c4fa8dd092eff740dca2d432ad0d8ac sha1 50a0942256b17ed26f3b0f59f4cf7570a6eb8688 )
+	rom ( name setup.dat size 5804032 crc 9ebe2677 md5 865c78e2a2c5845b702a451553dacd94 sha1 24bbb82fe25c9c52c5a2c471db3646acd0dd4f1f )
+)
+
+game (
+	name hode-demo-win-1
+	description "Heart of Darkness |Demo|(Windows)[v1.0][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	rom ( name hod_demo.paf size 135080136 crc 82dd17d3 md5 26db71cfbb30e66a6a9af0482ff2bf6e sha1 c1b46680b9e8596d72f998fb2b56d723a28a06af )
+	rom ( name rock_hod.lvl size 4999168 crc e0b1f1d9 md5 16606ec87d5840c1589378e921b0ab12 sha1 c514afa2137b434cdd8da0024c1e4f20bff1cdb7 )
+	rom ( name rock_hod.mst size 77824 crc e4ac58de md5 768ef75ef6b345add139913bff60764a sha1 fa3fd22005a859abdae3b6d8b4f5ecb061a16e37 )
+	rom ( name rock_hod.sss size 5560320 crc c6360491 md5 6d65ef1d4a2cb7dbd16aefd4b7b58259 sha1 855d5b4b4fec7c8d8d64575d8a1ce5ee27d8e2d5 )
+	rom ( name setup.dat size 5769216 crc e5ed0e76 md5 bdc3f552cadc843919c2914c3fc04eb7 sha1 56fd54d28074657b947e165134f044d9a91cef47 )
+)
+
+game (
+	name hode-demo-win-fr
+	description "Heart of Darkness |Demo|(Windows/French)[v1.2][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxdemores
+	rom ( name hod_demo.paf size 48419016 crc 8536c52b md5 7a66a638973953fca3acab070b814bfe sha1 a9d2f24921213638d2a97de2c64deef44f2b135e )
+	rom ( name setup.dat size 5867520 crc 9c99c981 md5 62a963a8207929fafcd996cce176d79b sha1 032f0b9a15575a1f468283107e0a7a896bee1f40 )
+)
+
+game (
+	name hode-mini-win
+	description "Heart of Darkness |Mini Game|(Windows)[v1.3][!]"
+	year 1999
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxminires
+	rom ( name hod_demo.paf size 135061704 crc 4695b800 md5 c03bbde7310fbe8df0d11c4a21ee67eb sha1 e60599c35283d24a1938ba0c09963c6bf756ab4d )
+	rom ( name setup.dat size 5804032 crc d7315e04 md5 2ea0d8013763ff4cfc8ce5b1b5283072 sha1 957567bcc4ff5650d85fe543d34ff2f773bb8aca )
+)
+
+game (
+	name hode-mini-win-de
+	description "Heart of Darkness |Mini Game|(Windows/German)[v1.3][!]"
+	year 1999
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxminires
+	rom ( name hod_demo.paf size 135061704 crc a1c952fc md5 50439b73dda1f62c35b7196323ef6b6b sha1 e2b3afe95ef5e169f60a23a1f04aceeaabea52e4 )
+	rom ( name setup.dat size 5863424 crc e73cefd4 md5 574e51c2f652b683f33c965df211ee91 sha1 69081b5b9f3ba9ed7f4d67cd3fbae805723de8cd )
+)
+
+game (
+	name hode-mini-win-fr
+	description "Heart of Darkness |Mini Game|(Windows/French)[v1.3][!]"
+	year 1999
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxminires
+	rom ( name hod_demo.paf size 135059656 crc a49d1ed5 md5 71876411694bbe4b3aefd38e2c349b02 sha1 2229d9743c1a4064561ff1a1530d6ba79ebab5a7 )
+	rom ( name setup.dat size 5867520 crc b60fe7af md5 b66a2fbdf02f001c9c96f19f84c21f32 sha1 e6d1ae87b991d3cf623b8ec9fb33cdd2a3d4a1b4 )
+)
+
+game (
+	name hode-mini-win-fr-1
+	description "Heart of Darkness |Mini Game|(Windows/French)[Coca Cola Special Edition][!]"
+	year 1999
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxminires
+	rom ( name fort_hod.lvl size 3536896 crc 3e6aebec md5 0fe2d4f5ac78af7de8870f9dab52a016 sha1 d08d11b148786ef4b7391ac7c877186ec4721980 )
+	rom ( name fort_hod.mst size 40960 crc 06bdb3cf md5 ef2df39b5f44397abaad74f0eee1204a sha1 590a577830747d2ca1bee3fe3c5212e2a30e8dfa )
+	rom ( name fort_hod.sss size 3123200 crc 6ad13bbb md5 7f813bd2f5dac6f1798ac03c5abb0c1b sha1 93120414e8077a3a205092a99001457d221e0a11 )
+	rom ( name hod_demo2.paf size 158271688 crc d633089b md5 9326100d7b34b792d388d8b62f7910f6 sha1 a31d6df563f155147759de4730b7bcb4d5cb99c0 )
+	rom ( name setup.dat size 5867520 crc b60fe7af md5 b66a2fbdf02f001c9c96f19f84c21f32 sha1 e6d1ae87b991d3cf623b8ec9fb33cdd2a3d4a1b4 )
+)
+
+game (
+	name hode-mini-win-fr-2
+	description "Heart of Darkness |Mini Game|(Windows/French)[v1.0][!]"
+	year 1999
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	rom ( name hod_demo.paf size 135078088 crc 73552025 md5 f35e7ef9888271f3e7b5987229585711 sha1 6ab49f3e847397a1efb991066863db4d81bd1fa8 )
+	rom ( name rock_hod.lvl size 4999168 crc e0b1f1d9 md5 16606ec87d5840c1589378e921b0ab12 sha1 c514afa2137b434cdd8da0024c1e4f20bff1cdb7 )
+	rom ( name rock_hod.mst size 77824 crc e4ac58de md5 768ef75ef6b345add139913bff60764a sha1 fa3fd22005a859abdae3b6d8b4f5ecb061a16e37 )
+	rom ( name rock_hod.sss size 5560320 crc c6360491 md5 6d65ef1d4a2cb7dbd16aefd4b7b58259 sha1 855d5b4b4fec7c8d8d64575d8a1ce5ee27d8e2d5 )
+	rom ( name setup.dat size 5834752 crc 3e216653 md5 ba7d0b09add5cff8de3dccd178eed506 sha1 1d476d896cafd3d4af00b15eb2eb695a804a0662 )
+)
+
+game (
+	name hode-mini-win-it
+	description "Heart of Darkness |Mini Game|(Windows/Italian)[v1.3][!]"
+	year 1999
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxminires
+	rom ( name hod_demo.paf size 135035080 crc ca4eef2a md5 5bb0ca05abf07e3944cfc1d9da1a9d0d sha1 e0e19db218719ef0b4bb3214bdf21a227d16e473 )
+	rom ( name setup.dat size 5922816 crc 52295f81 md5 e0a96dd5d241fa3a2201cbb42968f0bf sha1 0e185de35507ad7a8591de92707f65b2832968c5 )
+)
+
+game (
+	name hode-psx
+	description "Heart of Darkness (PlayStation)[EU][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxpsxres
+	rom ( name CINE\BACK.STR size 18804240 crc 324968b0 md5 7beeb4a81dc40a2ee34002ac9e4dd898 sha1 8ec50dc48ada9e15da49a2b7aef64aded414320b )
+	rom ( name CINE\CHUTE.STR size 1587600 crc 5fc2a9df md5 8a41aecee1b6c8a64df2dcd4148aa9c5 sha1 092447db101b4f53fac5b919606fb7705a60370b )
+	rom ( name CINE\CHUTE_I.STR size 1587600 crc a458c2a6 md5 ba2bfc4a23d42132a91a454e2f1b05f7 sha1 7179e91a62d134577e457c45089cbbfe8cc9c9e3 )
+	rom ( name CINE\CINE14L.STR size 5997600 crc d097625b md5 6bc788263ca28cdaf9e0996c9c5676b0 sha1 f232d739bdf3672ddc5092cb63a5b78e25a19157 )
+	rom ( name CINE\CINEMA.STR size 50556240 crc 3c756fa0 md5 52ec9e8258ab5a3540afec48a56c9433 sha1 6eb96d8acdf799de3a6dc8dc4d2487d5a1a822ad )
+	rom ( name CINE\COOKIE.STR size 4198320 crc a055d883 md5 4ec49e59be0b7548adc3657d1c571ef8 sha1 eb975184b36594828c13558e6d8447f8f39850c5 )
+	rom ( name CINE\DOGFALL.STR size 10689840 crc b7ae25e4 md5 66b08abfafa55026af16f6a8a4e82fcd sha1 7383c6a7410bda826752402080e06ea42b0367d8 )
+	rom ( name CINE\DOGFREE1.STR size 5468400 crc 5f17a290 md5 81ef302433df4abc60f5f1311aaa362b sha1 df37cb5d389bbebd70ebf47ca118bc5d5a025ef4 )
+	rom ( name CINE\DOGFREE2.STR size 2857680 crc fc2ad6a2 md5 8b026c11c009d913a82162738a4c01f7 sha1 aaa1e8c22bf57d3eaee8cc92bea41ff7d4c088d7 )
+	rom ( name CINE\END.STR size 165322080 crc e1b494d8 md5 1646e2914131981a531dc80172f37025 sha1 ec62c4b278ae581180a5fcb41b6fca2a2c4716a2 )
+	rom ( name CINE\GCHT.STR size 1587600 crc f5653f9c md5 ccc43cb4dbb7895429f60d37e5e77114 sha1 972a137b51f8fd66997e088b0ec701b8371d1dd9 )
+	rom ( name CINE\GLISSE.STR size 10760400 crc 9adaaa77 md5 d210237bb4727a527ba01bfe2dbb1a45 sha1 4450b213cb403f391c053e5e0a0f171174cb56c9 )
+	rom ( name CINE\INTRO.STR size 143907120 crc 73f31d61 md5 bcad196d28fd42a5e161cc5b045901d4 sha1 65114756e844686270e67f577410e2dbc4496dff )
+	rom ( name CINE\ISLAND.STR size 119987280 crc 7c7b9650 md5 22b044d2cf8141f815f2670063b5914e sha1 9772606f78937fffd740651db751da37121d396d )
+	rom ( name CINE\ISLEFALL.STR size 10654560 crc ccc2c92f md5 a61a525de3a9427bcc1dbf31f41b6aa7 sha1 a8e58da1c4c5c8bd8943e2f405665033f0425247 )
+	rom ( name CINE\LASTFALL.STR size 38172960 crc 674f888a md5 518a5aa0642fcc53a1d723d5d14cb7a7 sha1 69b07320a244f55207a1932f12b8e54c08b7d70a )
+	rom ( name CINE\LSTPIECE.STR size 9593808 crc ee4c66c8 md5 a1f08dd3f36c2fdd3345fc30a0d285f4 sha1 93bcc0b09aa9062a5d8e8bb31be106fb948cd515 )
+	rom ( name CINE\MEETING.STR size 26071920 crc e187d484 md5 150f5bd29b3ec7dd56576de3ce87ebb0 sha1 17d5b8ea9def509d420b0642e1c54da3d49564ef )
+	rom ( name CINE\METEOR.STR size 8961120 crc 5f764a5d md5 986068090349aa06120e699f666bec8a sha1 6f4f1190eca996313931bc7d169e49c4e63e6c4b )
+	rom ( name CINE\PLOT.STR size 10866240 crc 7225203a md5 cb46dc0d726b75ab8fbbe6db36f30e65 sha1 d71ad8613d9a7827c82c1da98a82e0fd2edf7839 )
+	rom ( name CINE\POWER.STR size 7655760 crc e27eb4c3 md5 7983bcb5ec3e72695fe85fb793502ff7 sha1 819c7dc41dbe1024b92e30579276c2a28cdfb1e0 )
+	rom ( name CINE\PUZZLE.STR size 2646000 crc 1c7bbfda md5 071ddefa73717d213e475d7c80e4fed7 sha1 d4e54d234ff3b9540ae96d1a97a992db778a5d6f )
+	rom ( name CINE\RAPT.STR size 45475920 crc b37bb91b md5 19bd0ce6aacc242078c8154566eee56b sha1 a92a510c7ed72e935095f602029a0d8260428263 )
+	rom ( name CINE\TOGETHER.STR size 29564640 crc ae00688b md5 dfea68c7f593cbd3c2d14d1e4173d57b sha1 3318541e0ce4f606745ae48486d815d2cff54bd8 )
+	rom ( name CINE\VICIOUS.STR size 4586400 crc 0ccd9e32 md5 dacfa6fe16d2763c4f2e98ce76568530 sha1 4c6cf00143d0d5522f88a0a57fdf45d231c508fa )
+	rom ( name SETUP\CHAHAUT2.STR size 196608 crc 3fbdab83 md5 7f31869c61f03d7828f3122f2802d2f2 sha1 c06b5026a8f25d841bed26f85bae716294ef80af )
+	rom ( name SETUP\CHARBAS2.STR size 196608 crc 0c8d0d09 md5 65f8293918c04235d1df15ddbb94c7bc sha1 d21d6539e6b3f84ce061b0e12efb55a4ec51ba0e )
+	rom ( name SETUP\MAGN_A_2.STR size 860160 crc 08bc9857 md5 d2539d440c0b87cbb3e6ff23a8c69dec sha1 9e3c7894c09e471e6abbe92515df389e67621a4b )
+	rom ( name SETUP\MAGN_R_2.STR size 860160 crc e16a8e91 md5 5667e84ffee053fce81d11e5aa4e19f1 sha1 44c5e177d5543df7c91173b3d13e176701c99c38 )
+	rom ( name SETUP\ORDI_A_2.STR size 491520 crc 4a197592 md5 42678f02a63f9f7951d40edae125b345 sha1 4c9d9eb57a356d6e114d6504c09b957a7232b6bc )
+	rom ( name SETUP\ORDI_R_2.STR size 491520 crc 4923cf80 md5 ad13883c0ca9ce8faa57078ec14f5aec sha1 719b68c82b51b9076d2697a6a755716482638f8f )
+	rom ( name SETUP\PROJ_A_2.STR size 1056768 crc 29371fed md5 3cfea32ab3351eeb2664876ee109237b sha1 f0b8f2f8152aec22721fd8d225e046db3109fc21 )
+	rom ( name SETUP\PROJ_R_2.STR size 442368 crc fbaa4d79 md5 28c9c70a79a1451c1f1e0458bba105ce sha1 992ee7efc44a1719194bfec79e242648917bcb7e )
+	rom ( name SETUP\QUIT2.STR size 1327104 crc aa37831f md5 04f0ed91890ca054aa8104085bb7b95f sha1 95cff6350333ec1363944bcc206409dd055e3d83 )
+	rom ( name SETUP\SAUV_A_2.STR size 393216 crc 62a44026 md5 e47ac4b28687fe2d52dfb821e70a3344 sha1 dc8b0af0a221f0a5b663a2eccd2864a5b5d1fbd3 )
+	rom ( name SETUP\SAUV_R_2.STR size 417792 crc c0eb4441 md5 d861290f4f4cff5f41942a17f0e7d75d sha1 90efb209814b1b1d3e5c0f395f70f1d9fa7b3729 )
+	rom ( name SETUP\SETUP.DAX size 2768896 crc af80af9c md5 1893b2b2dfb58a2ba35e5cb1edd35304 sha1 cd153cd533b882f723e937a1853d129dd48fab42 )
+	rom ( name SETUP\STLINA2R.STR size 589824 crc 7d81db54 md5 e9367ebc6a46e0c55b381e8de6c67faf sha1 04f47b59fb6d9c00bfd6f358f5b8c2e986858329 )
+	rom ( name SETUP\STLINB2R.STR size 393216 crc 45c60a77 md5 202c58177b2a70246bb7f3adc12a2540 sha1 3f2c846ffd2d467deffaf49a91c873eb2ba04f2c )
+	rom ( name SETUP\STLINC2R.STR size 319488 crc 86cfc07e md5 8113e1147126ea6f290db98627e9c7da sha1 875df7cc146f26339a3c519af794736e0e12bbae )
+	rom ( name SETUP\STLIND2R.STR size 565248 crc 126d7f1c md5 a95bf05bdc2ae7e13df96d1d54f4923a sha1 e8cdf30fabc8178500c3210b7273a3fc1c7cb836 )
+	rom ( name SETUP\STLINE2R.STR size 565248 crc 75f83896 md5 c91e434108134cf5ef886bd87b11014b sha1 80c8180615b00f444d33983b19b5de3bb9a9a739 )
+	rom ( name SETUP\STLINF2R.STR size 565248 crc 1a11fae7 md5 f59fbe3b6fd093dd5fa73157fda336ee sha1 4dbe75254455167a3b9605a1704d3d2364fd074b )
+	rom ( name SETUP\STLINKA2.STR size 589824 crc 6c3fc079 md5 8416225ab9fe25437fdd6e412f8c89ff sha1 458e949f57ac96436beefd28c37bac0fab265c37 )
+	rom ( name SETUP\STLINKB2.STR size 393216 crc a97b0a0b md5 2c3a4a6c128157b8d5100c7f8cf62a2b sha1 a8d568492950e74c402e681cad3d587ab94842e6 )
+	rom ( name SETUP\STLINKC2.STR size 319488 crc 03b7b818 md5 7a4735c59c016bebc60b4f318215c2fc sha1 a180429f57f276d71534057b2a0c32e4695efe29 )
+	rom ( name SETUP\STLINKD2.STR size 565248 crc 5fb5d932 md5 23c91cf2edb5a80039e99480e4f983ee sha1 b3f225c3460a7a84f4253797a9fee95f14d727db )
+	rom ( name SETUP\STLINKE2.STR size 565248 crc ab7117d4 md5 4774ddb4589421400bd707d56cc90729 sha1 1d91e0ce8c9ca7d14ee7219964de0869f6c2674e )
+	rom ( name SETUP\STLINKF2.STR size 565248 crc 39dd75c6 md5 589f0037bf920994737c49cd888ecdea sha1 cf946f842b59d9495407599d0dae0f3f09273bec )
+	rom ( name SETUP\STPCOFF2.STR size 1155072 crc 00f643c3 md5 4df5e735cc96c707b2f3f26b3fcfc9ef sha1 c2872e1da99ac4769c7248b99689dabbf8ae15e4 )
+	rom ( name SETUP\STPVAIS2.STR size 1449984 crc 64733eee md5 32d813c925111db77b25590fa09aeb23 sha1 02f1d3f1b34ebc6ff7e82a3f0f315a66f378bd82 )
+)
+
+game (
+	name hode-psx-1
+	description "Heart of Darkness (PlayStation)[US][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxpsxres
+	rom ( name CINE\BACK.STR size 18804240 crc d110993f md5 10e4647608ef610d7ad72ba03c81b146 sha1 29c48873af9f0f5ca3869f533436f3f40800b6c4 )
+	rom ( name CINE\CHUTE.STR size 1587600 crc b9e88836 md5 20ab4802e3408cea3adce5ffb9b9dc04 sha1 84b753e3632e2e19a63febf7ea9d6ff526328a16 )
+	rom ( name CINE\CHUTE_I.STR size 1587600 crc 2390a993 md5 ce7969d1b98df8f1aa6f97801295eafa sha1 74f93375ef9c1e0e96c4147d6aca5796a439ece3 )
+	rom ( name CINE\CINE14L.STR size 5997600 crc dd051601 md5 16c8f96ce020cdbf7c10c334a201f78e sha1 6edcf700d05978fdfe8bd3d6082ad1147136b5d1 )
+	rom ( name CINE\CINEMA.STR size 50556240 crc c1d11e27 md5 fbb709b9a4d8035a660b60e78e429113 sha1 fb4fcbea7fbd6c154c6588755b427e11a98036b2 )
+	rom ( name CINE\COOKIE.STR size 4198320 crc d4b4e833 md5 a4eb4a100c9e2802b66152274f52d740 sha1 8256f9fc66683480f686368a1df144e7b53b0389 )
+	rom ( name CINE\DOGFALL.STR size 10689840 crc 5e4b0893 md5 36c4d8ddca9bc117d6790477fa50bf96 sha1 f08eeb58ac419432fd1a73981760df9e2704309e )
+	rom ( name CINE\DOGFREE1.STR size 5468400 crc bebc81c5 md5 77ecf34e5f6833d33d3cd31f3b9975b8 sha1 d9347da80eaae68d23c0dd965d139fdf7ca8eab8 )
+	rom ( name CINE\DOGFREE2.STR size 2857680 crc b4be944f md5 b9cab7191a4abe21956f997c851eadbe sha1 44cfce18b825604de3c2538420afcd2287283e9c )
+	rom ( name CINE\END.STR size 165322080 crc 8393071c md5 702409ad69f8054d1c118bd61282791e sha1 ad06ac19085acd95b9bbbf82569cef6cbadb730b )
+	rom ( name CINE\GCHT.STR size 1587600 crc f8c07379 md5 3a000f5d698f4ac5dba324e273581946 sha1 2840b99e701633d0c0aeeb23bfcd0d5c8d147ec5 )
+	rom ( name CINE\GLISSE.STR size 10760400 crc 4be25ddb md5 40b0bf3bc70f92f35200fe4e5da67f6a sha1 d431b9cc7560cb09e74884c1b4bee7a54b8ceb96 )
+	rom ( name CINE\INTRO.STR size 143907120 crc f246c59b md5 78314ee9afe0653ad73473951cfe02bd sha1 f6acb57559da84d362a7119c2a0faf1b99021ae8 )
+	rom ( name CINE\ISLAND.STR size 119987280 crc 93e57408 md5 4a689d97f0d8e1b4d0234e13656d3f81 sha1 ed35584d54094ac0cd846cea39fe05fc68026e30 )
+	rom ( name CINE\ISLEFALL.STR size 10654560 crc 7c911059 md5 e8035539e3462249d3471b36603415a4 sha1 c54360022bdf0a4db0ee8beaccaade2ab6c74ebd )
+	rom ( name CINE\LASTFALL.STR size 38172960 crc d06d3bf8 md5 65ce46458415d79af50332f09760fb47 sha1 23f36f3015f3715f338675743d1e35407b6cc040 )
+	rom ( name CINE\LSTPIECE.STR size 9593808 crc fe4d7e1a md5 9034d4c98334988806c4ed497537ef77 sha1 743cc5410fd8d48d7e7ce101b967cd68e7688f5f )
+	rom ( name CINE\MEETING.STR size 26071920 crc 85302040 md5 1390d851b6a0ac3e174415afb4e72b13 sha1 129a3fe2a60e4b4fd9ab00935d46f4c46a45eca2 )
+	rom ( name CINE\METEOR.STR size 8961120 crc e3a09750 md5 92300b87658cb222d50a9414cb570069 sha1 417a9b297f717006d2d8a7fda396a2798fd281aa )
+	rom ( name CINE\PLOT.STR size 10866240 crc 29955a60 md5 388b31babcbb791c9279c898e92390d6 sha1 7f7676ebda3ca65ce78eb7a3f368a9498a5a0c52 )
+	rom ( name CINE\POWER.STR size 7655760 crc e197a34d md5 632ef9b6ee87125c8a25e69f9a4466cf sha1 ece9fcf72051689f2809c1442b7eaea95212618c )
+	rom ( name CINE\PUZZLE.STR size 2646000 crc bd35f1c9 md5 68fa55c3456d5a8b01291f8630c27f11 sha1 2ecc5d0b21c66d19c699af42d9d2fecbc6dfdc26 )
+	rom ( name CINE\RAPT.STR size 45475920 crc f3f36c4f md5 bd19405a1eeaadcc849390676c593a64 sha1 c6f15769cd1751621ebe58ec57d8f8b7868157c6 )
+	rom ( name CINE\TOGETHER.STR size 29564640 crc a23516bf md5 7e39bea1c0fb11a7a9c20a016144d80e sha1 20782e1722487395d21a85997a96a0a9f6b197c9 )
+	rom ( name CINE\VICIOUS.STR size 4586400 crc dc52093c md5 9140801132b54dc9e560ea5d4b0ccb8d sha1 853a2c682941b440fe159ded31385b468c22d129 )
+	rom ( name SETUP\CHAHAUT2.STR size 196608 crc 3fbdab83 md5 7f31869c61f03d7828f3122f2802d2f2 sha1 c06b5026a8f25d841bed26f85bae716294ef80af )
+	rom ( name SETUP\CHARBAS2.STR size 196608 crc 0c8d0d09 md5 65f8293918c04235d1df15ddbb94c7bc sha1 d21d6539e6b3f84ce061b0e12efb55a4ec51ba0e )
+	rom ( name SETUP\MAGN_A_2.STR size 860160 crc 08bc9857 md5 d2539d440c0b87cbb3e6ff23a8c69dec sha1 9e3c7894c09e471e6abbe92515df389e67621a4b )
+	rom ( name SETUP\MAGN_R_2.STR size 860160 crc e16a8e91 md5 5667e84ffee053fce81d11e5aa4e19f1 sha1 44c5e177d5543df7c91173b3d13e176701c99c38 )
+	rom ( name SETUP\ORDI_A_2.STR size 491520 crc 4a197592 md5 42678f02a63f9f7951d40edae125b345 sha1 4c9d9eb57a356d6e114d6504c09b957a7232b6bc )
+	rom ( name SETUP\ORDI_R_2.STR size 491520 crc 4923cf80 md5 ad13883c0ca9ce8faa57078ec14f5aec sha1 719b68c82b51b9076d2697a6a755716482638f8f )
+	rom ( name SETUP\PROJ_A_2.STR size 1056768 crc 29371fed md5 3cfea32ab3351eeb2664876ee109237b sha1 f0b8f2f8152aec22721fd8d225e046db3109fc21 )
+	rom ( name SETUP\PROJ_R_2.STR size 442368 crc fbaa4d79 md5 28c9c70a79a1451c1f1e0458bba105ce sha1 992ee7efc44a1719194bfec79e242648917bcb7e )
+	rom ( name SETUP\QUIT2.STR size 1327104 crc aa37831f md5 04f0ed91890ca054aa8104085bb7b95f sha1 95cff6350333ec1363944bcc206409dd055e3d83 )
+	rom ( name SETUP\SAUV_A_2.STR size 393216 crc 62a44026 md5 e47ac4b28687fe2d52dfb821e70a3344 sha1 dc8b0af0a221f0a5b663a2eccd2864a5b5d1fbd3 )
+	rom ( name SETUP\SAUV_R_2.STR size 417792 crc c0eb4441 md5 d861290f4f4cff5f41942a17f0e7d75d sha1 90efb209814b1b1d3e5c0f395f70f1d9fa7b3729 )
+	rom ( name SETUP\SETUP.DAX size 2772992 crc d2f50f5d md5 157942136bcf1ccacb489e83eb898852 sha1 9d5708b6dedce70a17c76c10ea16f02121826aab )
+	rom ( name SETUP\STLINA2R.STR size 589824 crc 7d81db54 md5 e9367ebc6a46e0c55b381e8de6c67faf sha1 04f47b59fb6d9c00bfd6f358f5b8c2e986858329 )
+	rom ( name SETUP\STLINB2R.STR size 393216 crc 45c60a77 md5 202c58177b2a70246bb7f3adc12a2540 sha1 3f2c846ffd2d467deffaf49a91c873eb2ba04f2c )
+	rom ( name SETUP\STLINC2R.STR size 319488 crc 86cfc07e md5 8113e1147126ea6f290db98627e9c7da sha1 875df7cc146f26339a3c519af794736e0e12bbae )
+	rom ( name SETUP\STLIND2R.STR size 565248 crc 126d7f1c md5 a95bf05bdc2ae7e13df96d1d54f4923a sha1 e8cdf30fabc8178500c3210b7273a3fc1c7cb836 )
+	rom ( name SETUP\STLINE2R.STR size 565248 crc 75f83896 md5 c91e434108134cf5ef886bd87b11014b sha1 80c8180615b00f444d33983b19b5de3bb9a9a739 )
+	rom ( name SETUP\STLINF2R.STR size 565248 crc 1a11fae7 md5 f59fbe3b6fd093dd5fa73157fda336ee sha1 4dbe75254455167a3b9605a1704d3d2364fd074b )
+	rom ( name SETUP\STLINKA2.STR size 589824 crc 6c3fc079 md5 8416225ab9fe25437fdd6e412f8c89ff sha1 458e949f57ac96436beefd28c37bac0fab265c37 )
+	rom ( name SETUP\STLINKB2.STR size 393216 crc a97b0a0b md5 2c3a4a6c128157b8d5100c7f8cf62a2b sha1 a8d568492950e74c402e681cad3d587ab94842e6 )
+	rom ( name SETUP\STLINKC2.STR size 319488 crc 03b7b818 md5 7a4735c59c016bebc60b4f318215c2fc sha1 a180429f57f276d71534057b2a0c32e4695efe29 )
+	rom ( name SETUP\STLINKD2.STR size 565248 crc 5fb5d932 md5 23c91cf2edb5a80039e99480e4f983ee sha1 b3f225c3460a7a84f4253797a9fee95f14d727db )
+	rom ( name SETUP\STLINKE2.STR size 565248 crc ab7117d4 md5 4774ddb4589421400bd707d56cc90729 sha1 1d91e0ce8c9ca7d14ee7219964de0869f6c2674e )
+	rom ( name SETUP\STLINKF2.STR size 565248 crc 39dd75c6 md5 589f0037bf920994737c49cd888ecdea sha1 cf946f842b59d9495407599d0dae0f3f09273bec )
+	rom ( name SETUP\STPCOFF2.STR size 1155072 crc 00f643c3 md5 4df5e735cc96c707b2f3f26b3fcfc9ef sha1 c2872e1da99ac4769c7248b99689dabbf8ae15e4 )
+	rom ( name SETUP\STPVAIS2.STR size 1449984 crc 64733eee md5 32d813c925111db77b25590fa09aeb23 sha1 02f1d3f1b34ebc6ff7e82a3f0f315a66f378bd82 )
+)
+
+game (
+	name hode-psx-de
+	description "Heart of Darkness (PlayStation/German)[!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxpsxres
+	rom ( name CINE\BACK.STR size 18804240 crc 27e22106 md5 585aecb01d5bd4123e1a8f5793a39b02 sha1 7345503fa3b1db55e5dddaf84e03668143156ff0 )
+	rom ( name CINE\CHUTE.STR size 1587600 crc 0646dce4 md5 41cd9eb9d50b37c0fbcb5e57e2a94891 sha1 95d1eb10ec5a786ca5f37bd9d7865a0db0a41820 )
+	rom ( name CINE\CHUTE_I.STR size 1587600 crc 1a9b391d md5 13fbe433d06a9cf499a7910d9a3a546d sha1 ea66c5fc3b020e2d6ea7df619351d4cacc6c90fe )
+	rom ( name CINE\CINE14L.STR size 5997600 crc 1f7dd990 md5 066f0f75bbd66372413c4e9f592b43c1 sha1 695c5633fc19e68d8592e8695e6444c1b3d30130 )
+	rom ( name CINE\CINEMA.STR size 50556240 crc a92ec687 md5 5b60930927448c63cd8bde497999760e sha1 b6b189962a596a85c4325fc8863330050b743f20 )
+	rom ( name CINE\COOKIE.STR size 4198320 crc b959f126 md5 cb1e4564f909ab7eda878a691a157934 sha1 f0c5874d82570dc44bb03508ad045221bc709b98 )
+	rom ( name CINE\DOGFALL.STR size 10689840 crc 00906e91 md5 07e077d6ce2369670973c3bb409d1cb7 sha1 d4b20cb23c6dee5fea9dc9726a3ec51ac1d3e0f4 )
+	rom ( name CINE\DOGFREE1.STR size 5468400 crc 9c7cf831 md5 3fc3ba17ab19e92dc87bbc90b66841e6 sha1 7bf98f0676db98dabb0d811ee7be50b15b4c0873 )
+	rom ( name CINE\DOGFREE2.STR size 2857680 crc 33cc9ef3 md5 d3110911bd57fa19b5cf106cc226e6c5 sha1 41100b86d3a60eb0c01575cff1eb77d010e1defe )
+	rom ( name CINE\END.STR size 165322080 crc e8d30a56 md5 bcf96a913140fa7c6716698df835fade sha1 e38bb0573c51ddb07ca83facfb6b1ef7d864c0c7 )
+	rom ( name CINE\GCHT.STR size 1587600 crc 3db668a0 md5 7355a2dc1d84dc90f39ee7bcf9ab7a03 sha1 d152f346b251c1007f8cf7a43d1e34198207979d )
+	rom ( name CINE\GLISSE.STR size 10760400 crc 8ad7c6b8 md5 5cb35fc0ccb0e0867d779192eb2099d1 sha1 8ec83f7bf9c9083d017f7ba7525c812b0953cd81 )
+	rom ( name CINE\INTRO.STR size 143907120 crc db006819 md5 505b9b20b1dfe7e226eea76123d46717 sha1 d4a191d8fddaf3843b78a56a6abd02c473c175d7 )
+	rom ( name CINE\ISLAND.STR size 119987280 crc 3cb0f228 md5 afdf1f039ee1989daabba6ddc801adcc sha1 430959b7af39f7baa2ccaa5dd4f914cc2a2873b4 )
+	rom ( name CINE\ISLEFALL.STR size 10654560 crc 0d1a23e1 md5 328792af293d6d32060dcfabc2845043 sha1 3c6a9a53fb41757273b779c55497cad195bebd15 )
+	rom ( name CINE\LASTFALL.STR size 38172960 crc d6a3a683 md5 1136cc1d607206f5825cf43e664b7c41 sha1 cc1b6baa6be8be26e629ca77272ce7e337113edf )
+	rom ( name CINE\LSTPIECE.STR size 9593808 crc 5f1a3669 md5 6ea3027d499626ffafa8944444b718a8 sha1 4e8cd072819f60dd956050a0c1df9cca1c4c4c11 )
+	rom ( name CINE\MEETING.STR size 26071920 crc 773911fd md5 f7cdb373bb93d23bd74ed509b2cbe2ec sha1 186c4675b637ab04ef5ae8f88fc96e553fe1bf75 )
+	rom ( name CINE\METEOR.STR size 8961120 crc 7338b4d1 md5 98ca72d5696a8774d104dbb465508a99 sha1 f67a382b946b58d0fe7e2fcf35a286593efaae87 )
+	rom ( name CINE\PLOT.STR size 10866240 crc 9a39757d md5 b208640b257c2ff904a06454759296e1 sha1 75886fa34a95abda00ed15a96d7b73c4ac003874 )
+	rom ( name CINE\POWER.STR size 7655760 crc 00dd52f3 md5 f04caf9671f286aa979b06ae93b07eb4 sha1 436e1d709dc41d54ac8ffa5c3fe5cc0aa8734bf0 )
+	rom ( name CINE\PUZZLE.STR size 2646000 crc 400028d0 md5 a68e3ccf84fb3e443115bbc33ed1afa1 sha1 56b465ced33ccacb81ab96e333200aa02ac6af96 )
+	rom ( name CINE\RAPT.STR size 45475920 crc 96dcfb7c md5 433e16cc24c3642ce0719e91d76bd5a7 sha1 c618a8888de9175bebdda57e1a608a246999654c )
+	rom ( name CINE\TOGETHER.STR size 29564640 crc eef93050 md5 0395add5d0e965fe44cc4856e1dca51f sha1 3f45af854715cde1a62846b46aac79f1e19c42e3 )
+	rom ( name CINE\VICIOUS.STR size 4586400 crc d88e0207 md5 db8004edbc60736b6a0e12c3cb264558 sha1 eda78788bebeb26f57d18090744871042e75f847 )
+	rom ( name SETUP\CHAHAUT2.STR size 196608 crc 4a7f4cd8 md5 bc29e6173dddcc99698de206cdd1827f sha1 502a66d9b9fea2acb35d231b39ddff90e919224c )
+	rom ( name SETUP\CHARBAS2.STR size 196608 crc e8ecdc69 md5 3b39f371f210c77c6a65ff6ea92ea62c sha1 81e1eb3ce86a595d7cd837ebb2861e08c752daaa )
+	rom ( name SETUP\MAGN_A_2.STR size 860160 crc 39aa747a md5 c84527f1b1044704b180449509e25f08 sha1 69f02bf4b07c882b2a0d5fe003b70923923d7dc8 )
+	rom ( name SETUP\MAGN_R_2.STR size 860160 crc 1b1b2208 md5 76d4a67066f7f5357473291984aaf7d1 sha1 e3ef934aae8fe71d9798838c8ec3f7f9408e7cf8 )
+	rom ( name SETUP\ORDI_A_2.STR size 491520 crc 6fd00078 md5 faf3861f80daa02797aceb817b3af3a0 sha1 d06b4a6f452fe48e97048e66c158edba41173ab7 )
+	rom ( name SETUP\ORDI_R_2.STR size 491520 crc 44385252 md5 465b17f96e1f48913ef704067a2e6534 sha1 31dfdd3abcaa4a88c2cd397ea0d2bfc77542adb3 )
+	rom ( name SETUP\PROJ_A_2.STR size 1056768 crc 7f4d1f86 md5 e9c8b7310c4306328e289a4840346fad sha1 0592fbf8009ee228cd62309f8b658424ebb6a128 )
+	rom ( name SETUP\PROJ_R_2.STR size 442368 crc 28b505ad md5 7c7aff2e9e068c61ef24ce11f6fcf635 sha1 ca04dac061f70a7d8f99d96ff6d6f8495a2bbb30 )
+	rom ( name SETUP\QUIT2.STR size 1327104 crc 6aa8e933 md5 fab10199a79c8f35533e9c79a4daf585 sha1 1310d96ed3ba1da38a35510dd8b4101acc15f205 )
+	rom ( name SETUP\SAUV_A_2.STR size 393216 crc 3f57db40 md5 2b47ba310dc896261a26d3a79c70670d sha1 63996c6f07f017cf4dae371cddab8de806b26022 )
+	rom ( name SETUP\SAUV_R_2.STR size 417792 crc c1bd13ad md5 15e2a5055e5ffabea8383568d06ef659 sha1 529faeb6775fdcff0c383fa46f7d3c4f106e16b7 )
+	rom ( name SETUP\SETUP.DAX size 2813952 crc a8bd9646 md5 909e012ecd541a64fa3e521b3e71fcd6 sha1 d74033be32c5e36d5afa82b39e514fc4df8078fc )
+	rom ( name SETUP\STLINA2R.STR size 589824 crc 4171d209 md5 73159e5929d4134698dfb40d987eee9a sha1 17f79f03a16eab89a358dacf05de299329a85b5b )
+	rom ( name SETUP\STLINB2R.STR size 393216 crc 35759219 md5 69941b5e375e7cd62280841138cbe3eb sha1 4a5a3afa87a605a810bf90700180a4358c0c8e05 )
+	rom ( name SETUP\STLINC2R.STR size 319488 crc 89793bc3 md5 b9c5d2a244c3a184d17b858be24b4377 sha1 d1c7e5c5eb54658fbf359e9ba22f9ca36b9ec285 )
+	rom ( name SETUP\STLIND2R.STR size 565248 crc 153e748f md5 58019eb4142e546a36462cb4caa92b43 sha1 7b2803208578058bf0276b7640b3c83ee0cc5a26 )
+	rom ( name SETUP\STLINE2R.STR size 565248 crc dc7572c9 md5 8ba63617b3f3844a78df027df70060bf sha1 cace3549bcb891a18429aea3e700c21e3163912c )
+	rom ( name SETUP\STLINF2R.STR size 565248 crc 53c0497a md5 940aaf9c47d5a483e20659ec0a25e045 sha1 54ee96d2855e306f7fe6c8bb3007d06954908e90 )
+	rom ( name SETUP\STLINKA2.STR size 589824 crc 89e06d7e md5 76fa90c12c754f280b472e7f9db62a3c sha1 b6917ebc742bfe8174ce2b4bf21a113172b399d8 )
+	rom ( name SETUP\STLINKB2.STR size 393216 crc 3b26ad39 md5 3e8732686792de379e512bc252da0ecc sha1 892ad60c6aaef76355eb8716deab21e4d4ae8f11 )
+	rom ( name SETUP\STLINKC2.STR size 319488 crc 9c96f06d md5 2b8f7a5934434b4197515e71cefc7b4c sha1 9c05d726b49a93c54233331ffad6eb9df933c299 )
+	rom ( name SETUP\STLINKD2.STR size 565248 crc 17a8edd5 md5 a7793d8a2a5b7757c6b23adbd6863bcc sha1 f3f78bf63a946ce57f63d76ce5d5ed3c063423b4 )
+	rom ( name SETUP\STLINKE2.STR size 565248 crc d923162f md5 9d8830f57f6ee60cc7a1ee28fb0bb4cb sha1 06b66aad1745db5dc64b3d0c0d11dc2c95b781dd )
+	rom ( name SETUP\STLINKF2.STR size 565248 crc 61cde027 md5 c1de0c67088252700dda43bf99820a9d sha1 74081c162c07983aa83cc24f5e0e116c80ddaf71 )
+	rom ( name SETUP\STPCOFF2.STR size 1155072 crc ad4d080e md5 0001d6cabf2f3ff465f60e4853ec9711 sha1 8bce5f06ed88cf2af77ef55fe433a7ee933aa2b8 )
+	rom ( name SETUP\STPVAIS2.STR size 1449984 crc 4efbea8c md5 0da1d4e2965158794e4818020afed864 sha1 c5f284493c38b9bd3edf61ca4452bdcd7bcc8f8c )
+)
+
+game (
+	name hode-psx-es
+	description "Heart of Darkness (PlayStation/Spanish)[!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxpsxres
+	rom ( name CINE\BACK.STR size 18804240 crc 474c6a50 md5 4672f27f3a16a823abd7b03f2fb2c5fe sha1 e18d4799240badfd320f8efa6af1ef0bf508c2d3 )
+	rom ( name CINE\CHUTE.STR size 1712256 crc 87d12854 md5 481ae9e32963e438fd251ccc4c0ac75a sha1 17a15ac34273b68b1d7f635c739e26cbfd5ec83f )
+	rom ( name CINE\CHUTE_I.STR size 1712256 crc 456767d5 md5 e58024ac0e1e2ff5af96d53634dad7a2 sha1 9d18eb306832e723f5404163c9f599fa41036fad )
+	rom ( name CINE\CINE14L.STR size 5997600 crc cc4d04c3 md5 4666aaa305d599a65ccc68eb5bc07be8 sha1 f4f08daa02427c68200ea88bfcbe4d58a3e59c45 )
+	rom ( name CINE\CINEMA.STR size 50556240 crc d3fcbe1b md5 723c9593e927dd3c2a49703831321f4c sha1 b0ada2a5fbf13e68be60ac85245fe87e10cd2a00 )
+	rom ( name CINE\COOKIE.STR size 4198320 crc 2cf7c055 md5 2c6ffda688e9f4a92857f329c68f0c82 sha1 a70c53b07247e4aba8525bad2aa9cb89b72a9b12 )
+	rom ( name CINE\DOGFALL.STR size 10689840 crc 34db5e8c md5 47e21c91eb8581adbe2bbaf281cab520 sha1 4e058cb35f357b602b85c94f3073056fe99757f4 )
+	rom ( name CINE\DOGFREE1.STR size 5468400 crc 608a6982 md5 ea23698292ac5218c404b4c0f91f0bc2 sha1 d67c26bbe565575b431a49daa9beb6e769ba7bd8 )
+	rom ( name CINE\DOGFREE2.STR size 2857680 crc ec6630d6 md5 63a354b6309f0a966e81faeb6d309f22 sha1 c8f0d1be3efea7223042a1981ab62697d494dd65 )
+	rom ( name CINE\END.STR size 165322080 crc 6bf7a7df md5 fb3462735593d4a37b68806679199217 sha1 b348e6f6f205cf057d26983d4eeede464aeb2220 )
+	rom ( name CINE\GCHT.STR size 1712256 crc c290fca0 md5 1896ed7318e35cbd599c2d6dfb232d69 sha1 49e0f27cbb911b1d5fce6b847976d47dfbaa3a70 )
+	rom ( name CINE\GLISSE.STR size 10875648 crc 4f6839e0 md5 549ddf4dda0ea34139def24c2fd6d2fb sha1 5a7cf6ede9538516bce6b9c75c9d4977d32178ed )
+	rom ( name CINE\INTRO.STR size 143907120 crc 9a14b315 md5 a40fd0d847c9dfe96de87a6743aefeaf sha1 208e5a894e8b7ad5e3739b4d57e028e9a285c4cb )
+	rom ( name CINE\ISLAND.STR size 119987280 crc b56c34f7 md5 13057878737ad2f2953cb8f386481eeb sha1 ac50eafddbc649731c6984e3ca2942342d1ca909 )
+	rom ( name CINE\ISLEFALL.STR size 10654560 crc bcd55a9b md5 4742757e073de6b10aa49b625b52779b sha1 92b4e079ee5347d1354971a6c71428e1cdb6566a )
+	rom ( name CINE\LASTFALL.STR size 38172960 crc d853c3e2 md5 0b35bcf0d7663cb7812bcd87358b0f1b sha1 893877092df51ba0a77e9c91c8175ec7a4b18386 )
+	rom ( name CINE\LSTPIECE.STR size 9593808 crc 24257656 md5 d712ea72145a53b4c648bbc4a61dbd60 sha1 f9c196e0a6f8f3b283d3447bf4079e46c1d4c14b )
+	rom ( name CINE\MEETING.STR size 26071920 crc bf590e74 md5 5b09eebb52f5f8c6e085c3f85b29f420 sha1 f3d5a9c419b5265eae8fb2d3ec82c3de720d081b )
+	rom ( name CINE\METEOR.STR size 8961120 crc 3016507e md5 75762f65db6422460258eb80c58f9139 sha1 1f3af18617a1a67ba1c0ff8d898e4ff800fe4291 )
+	rom ( name CINE\PLOT.STR size 10866240 crc 1981c9bb md5 cb426bd555044a6b0522872c6a43ceca sha1 72a15d6f45901577b9f92afccfdaa68f7b2be6bd )
+	rom ( name CINE\POWER.STR size 7655760 crc 235dafe9 md5 253a99e2820029a19fa76f65b46dce36 sha1 102a5584b6a45191602d207dbc7d4e8565b0f189 )
+	rom ( name CINE\PUZZLE.STR size 2646000 crc 649d1d44 md5 34e2ec00cb847e270c4a18131eaa2c7f sha1 cccb2f94e6e1f43f4566810fa593bce090932f33 )
+	rom ( name CINE\RAPT.STR size 45475920 crc 50cf36b9 md5 1ffec2de2fb3d22c33693349cae9ee05 sha1 7d7a0d8aa11bc21362b94d6ccc062e9d48f51166 )
+	rom ( name CINE\TOGETHER.STR size 29564640 crc 149d9bfd md5 123a7bc223722d40684339eb7da00786 sha1 a88590a40bd1616c2a5e13224a03ecc06016e738 )
+	rom ( name CINE\VICIOUS.STR size 4586400 crc d454fbf2 md5 aa45b032fc1b813d8652d42d8f6e9693 sha1 28560864d5a7c3730ea9b9c2df03a26a2f43af98 )
+	rom ( name SETUP\CHAHAUT2.STR size 196608 crc 90aafe16 md5 301661c782c126c51c28003a08848640 sha1 d29f665b305b55ec49cc98cbc27d83719aafe4a2 )
+	rom ( name SETUP\CHARBAS2.STR size 196608 crc 0a4d5754 md5 a1bf2ac5a9417023c240bfd5fc7c760b sha1 e5632dc0354089c3121efc479145ec0c14270293 )
+	rom ( name SETUP\MAGN_A_2.STR size 860160 crc a74bb164 md5 35c9b64da56e6c70582e2d2f3da619b5 sha1 56435815e47b58dfdfd92ac8ce351d1087c9d0f3 )
+	rom ( name SETUP\MAGN_R_2.STR size 860160 crc 9f6f8cec md5 1308f8fac421fad28e259b0199bf6569 sha1 283113c554304d1e5e7300abc8bd2ccc76854b5e )
+	rom ( name SETUP\ORDI_A_2.STR size 491520 crc cd0cfe49 md5 9a3ab1973fa1d1467d52aade8c5ff5ed sha1 7b7efa6a8b673862798cfc4338d8071c0b003b00 )
+	rom ( name SETUP\ORDI_R_2.STR size 491520 crc 34b3c45c md5 2e169967a1e9ada3ac77b92712ef3f22 sha1 2c0c373ba2460d82fd65d79a8a79e2ce0090f6c1 )
+	rom ( name SETUP\PROJ_A_2.STR size 1056768 crc 2e7676b8 md5 8b10a3b9e0f34b18fad7e6fbec176a43 sha1 a389066c1ae20db5733ba0bf8f7b104e0a12b49c )
+	rom ( name SETUP\PROJ_R_2.STR size 442368 crc 15b5584d md5 9a5bc5e961038358fea202afc347e462 sha1 2b38e70bb3dfa0a51bd3282260aad9d097e2bca0 )
+	rom ( name SETUP\QUIT2.STR size 1327104 crc 30191b28 md5 c14c04f99490471bccdc497c15fdc790 sha1 5a92320e15bc3f878f8b73f41c25540ebb36b2eb )
+	rom ( name SETUP\SAUV_A_2.STR size 393216 crc fac54b55 md5 ee96e517c72e4adef3e7113da7343ef7 sha1 5e9c43d746a67e6e2e2c701ac72361a23fd21d0f )
+	rom ( name SETUP\SAUV_R_2.STR size 417792 crc 1e5da782 md5 b1ba7faaf4efc8502f773997a5505d0a sha1 a5bf67e87b968d7f93c0ea8a4de6a2dec1284b6c )
+	rom ( name SETUP\SETUP.DAX size 2854912 crc 484a6785 md5 f41af316418a6bc81dfb8ac9d0304469 sha1 3db6b46a4c8271e13a9cb6f66815f5d7e4d17391 )
+	rom ( name SETUP\STLINA2R.STR size 589824 crc 18c862a3 md5 57e48411fab5d993aedf6bb64f851dbc sha1 303400067f6d5fca7c7f9497433cd4c4ed21c081 )
+	rom ( name SETUP\STLINB2R.STR size 393216 crc bdcd773d md5 6c2b0cfa7ae5e30b7b8de38598aa4225 sha1 b6ab2a21f7583c6588d4e8fa99053fcb2dadf941 )
+	rom ( name SETUP\STLINC2R.STR size 319488 crc 601d7701 md5 b1fed0648fd2a3ad50fb4011b9ca5e56 sha1 fff4c45a39f8d6b1362bc863edca3068ea8bfae2 )
+	rom ( name SETUP\STLIND2R.STR size 565248 crc 06824c3b md5 98949ec0ca095db9a4c4793d422ed71d sha1 d26acd69d1a15377bdacea42dc05370acb7be184 )
+	rom ( name SETUP\STLINE2R.STR size 565248 crc 9fd649b9 md5 f87d3e9768e282635c5f470d8dd39707 sha1 4d62fd28a0dc28501626d004b1d38d52d728d23b )
+	rom ( name SETUP\STLINF2R.STR size 565248 crc 8834ff59 md5 a05bfa560ea20120e471fe151ed8d969 sha1 23eb804c7ad01c1b4c445e00eece21ab5f734b4b )
+	rom ( name SETUP\STLINKA2.STR size 589824 crc defe70cb md5 b01d3cc1676b1719dc7f584e329a0528 sha1 e9295e40477c198298d9bbe4e57fc8ffa830f717 )
+	rom ( name SETUP\STLINKB2.STR size 393216 crc a35e6f37 md5 a6c67ab9530322a02c44a6e0494839fd sha1 0f82e020707cc1dd91ee75756f7f14ae502644a3 )
+	rom ( name SETUP\STLINKC2.STR size 319488 crc 555381ff md5 9d2965a049f4a169e6e37143bffa9616 sha1 c7ebb7aec7e9ba0cd6119efec7825d1f9664f15f )
+	rom ( name SETUP\STLINKD2.STR size 565248 crc d588e540 md5 3c00d2edaf2a109d9c93b989febff83c sha1 ad980db547cdfcd0890413d2480f5dd54407b870 )
+	rom ( name SETUP\STLINKE2.STR size 565248 crc 48834f22 md5 091cf8e74df050d4ab3e2cef63bfa585 sha1 3bbcce62af5f5a89e50dbe7238fef329a520f393 )
+	rom ( name SETUP\STLINKF2.STR size 565248 crc 835b157d md5 29199c21ef223a88093250ff8e6d67c3 sha1 a518dd683a8f658ad61dc714eb76bf1dbcba1521 )
+	rom ( name SETUP\STPCOFF2.STR size 1155072 crc 56d899d7 md5 bd6e15dfa93d29062cf804a6bd02f6da sha1 9f7e074880613b44ce5a56ade4ce51c4d411bacb )
+	rom ( name SETUP\STPVAIS2.STR size 1449984 crc 6b99ee3d md5 65bdb4ed093c541a79a3f2183f80d51c sha1 cada49573b564a6d5cfead322c2f881f4d10ae56 )
+)
+
+game (
+	name hode-psx-fr
+	description "Heart of Darkness (PlayStation/French)[!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxpsxres
+	rom ( name CINE\BACK.STR size 18804240 crc 93c50fef md5 7def39decad9aa1cc21026d34921a494 sha1 a674dcffb6a3c529a0edb27955f77860baa1e250 )
+	rom ( name CINE\CHUTE.STR size 1587600 crc f5292fb8 md5 b7dca5cbead9ec42f757df1debef1dea sha1 59c3ad6da4bad300eb9df185f74b101e007468db )
+	rom ( name CINE\CHUTE_I.STR size 1587600 crc 0d426ed6 md5 856739e2ec57be42ec85e2075950ecc9 sha1 84362dad8a93597b09ef5e9be0d9ac6d5762295e )
+	rom ( name CINE\CINE14L.STR size 5997600 crc 46da81bd md5 7cdf5706b74ce10a17a14f22e9ba5e3b sha1 20d5868e9b812598244d94591140fb329a0f7452 )
+	rom ( name CINE\CINEMA.STR size 50556240 crc b2af91bc md5 52809bf2e6c098e1672b316431d7a867 sha1 fb7e8405b4551a29d15182780751d61948bbdd1a )
+	rom ( name CINE\COOKIE.STR size 4198320 crc 38c63e24 md5 56fbc1a464ae2b31af97aa431be4461f sha1 8b5e3b247b350f5006f5cd9481e759a9458ece88 )
+	rom ( name CINE\DOGFALL.STR size 10689840 crc c9602c62 md5 82c7f8f229216666b8967b5f9fdeb134 sha1 c49a8719e61a2a1cb5e79bf83b04971585466635 )
+	rom ( name CINE\DOGFREE1.STR size 5468400 crc c9d50cf3 md5 ee730ab85744fe38b31f50f36c909e77 sha1 6aef5c81e04f6f2e15088f61d322f73f581c03f8 )
+	rom ( name CINE\DOGFREE2.STR size 2857680 crc 94690864 md5 2f33153309190d27736018c13b758357 sha1 f9d525be070445190eb9c1ffce03c48a4c146fe3 )
+	rom ( name CINE\END.STR size 165322080 crc 1e7f1104 md5 bebe6a1d7e46c99a2c2dc1f052668ede sha1 065bd7f5cf73e9ef463ac26495aea0579109edbf )
+	rom ( name CINE\GCHT.STR size 1587600 crc 979ccffe md5 ab6e06e2e478635514f84fa632541d17 sha1 d08274f2bd22f4de33417a0472c558fbdeb54aad )
+	rom ( name CINE\GLISSE.STR size 10760400 crc 30ff6b04 md5 eab4e79bde2a4c9a1f54fc9a5804c427 sha1 ee68b5b0a9fa69988e485a5f47f17e722e807d90 )
+	rom ( name CINE\INTRO.STR size 143907120 crc 5296b6b6 md5 1998704e544206e0f0609455fea68163 sha1 ecfa3488519530d3d8c9dd53938c77d368b9b30d )
+	rom ( name CINE\ISLAND.STR size 119987280 crc 23305fb2 md5 c5212ec6c8a6d5010ca2b39d83a527b4 sha1 a928c9805af244054e148fb1502d0af4a16a02dc )
+	rom ( name CINE\ISLEFALL.STR size 10654560 crc bb396178 md5 2575dcd75f82ba392b06e64f0e1e41ff sha1 3f1bb0962c7b0703e4c325ebac6801f7e94ecbfd )
+	rom ( name CINE\LASTFALL.STR size 38172960 crc 9268b1f2 md5 22d988a7e2b105afd3b1c585cf4ad78e sha1 6ef66be623da0d3bd35cdf04975bd3b1ff5ad50b )
+	rom ( name CINE\LSTPIECE.STR size 9593808 crc fdcaf104 md5 5b5c1880c34428456e40838dce9e6330 sha1 8cc48cd955b90f28811e2d7c4add9f64e9527aa7 )
+	rom ( name CINE\MEETING.STR size 26071920 crc f4376ac3 md5 ddab430df17a24f646332db753b9a18a sha1 222b24a17be2083d7606b57e24c5243a07b53fbe )
+	rom ( name CINE\METEOR.STR size 8961120 crc fc83fed6 md5 733d85da16568cee92ba30ba52fcc0b8 sha1 da105dacab1a4784ed4eaad791018ecc0b1af177 )
+	rom ( name CINE\PLOT.STR size 10866240 crc 201c600e md5 1a15c3b366d00fcf117b5868b4b04aed sha1 907f05e522009dceb9b4c0026e5a4d2bbf24575a )
+	rom ( name CINE\POWER.STR size 7655760 crc c57d552f md5 9b55b3d35c1d4a79ed3c3065e47726ed sha1 4875704bcf58bed2b10a6c581d533f2949ddee0b )
+	rom ( name CINE\PUZZLE.STR size 2646000 crc 813f1d35 md5 f3e2134cb401512f7961bb144871dbe5 sha1 785e26b81f7eedd30c0f80c01ffb1bd48ace41b7 )
+	rom ( name CINE\RAPT.STR size 45475920 crc 3c33a25f md5 a3a551933b0cde2818b8ff5572ac3d02 sha1 e5f95b17e7153ed87bb25288459fa312d1b80e6d )
+	rom ( name CINE\TOGETHER.STR size 29564640 crc 49f64d5e md5 8885fb8012057b3e31dc740a38d5679f sha1 baad963a78538731183d56ce168e8e7cb28fdfee )
+	rom ( name CINE\VICIOUS.STR size 4586400 crc 7d12b138 md5 05f045bcedde2e72cf79ffcbf6408a94 sha1 7503b88801e7050b9168d7ea8d2707744c7f3cc6 )
+	rom ( name SETUP\CHAHAUT2.STR size 196608 crc 70c57bc3 md5 ebc5040dcd6440803f5b2932d9ead5ae sha1 c3ff5a3f164dc933ec80242395f8db160174caa7 )
+	rom ( name SETUP\CHARBAS2.STR size 196608 crc 8dcd7acd md5 533b7bae3902bf97ece70f3fe65ec7f2 sha1 3c83352a8f98204b68cd740c02f96a4787353008 )
+	rom ( name SETUP\MAGN_A_2.STR size 860160 crc 6d7b6f4e md5 956c3c4232ccd094240dc2d68b68bb97 sha1 7b354f2949a46fcf65945604b64c474ae3a0f0f6 )
+	rom ( name SETUP\MAGN_R_2.STR size 860160 crc c4845a13 md5 7a25fe90ce6ff36d43095a7bce4afc8f sha1 ea71dcf98ffe0a6ea6409215194aec9473e48fa3 )
+	rom ( name SETUP\ORDI_A_2.STR size 491520 crc 9bb7be49 md5 a1a0f5aa25ff518301126327c3dfc932 sha1 40e607854b5e9efb3414cb645e613ca5126bf80b )
+	rom ( name SETUP\ORDI_R_2.STR size 491520 crc 3cd75662 md5 f93b42a17e8587a53cf8aad72e7ac3ef sha1 f0e610bcd1a94215da58eb6300da806a6735eafb )
+	rom ( name SETUP\PROJ_A_2.STR size 1056768 crc 8af28c75 md5 28f216eeb95541860d0434515649d4c0 sha1 d8626f5a0a56fc390ae7cbc600e6d85ca8e37f9f )
+	rom ( name SETUP\PROJ_R_2.STR size 442368 crc 3cbc09fb md5 e1257b4762e88efad76a81c7d84b9c42 sha1 851b1798a753e83f769b7af000d235d400b8b052 )
+	rom ( name SETUP\QUIT2.STR size 1327104 crc 55a9fce5 md5 b877462b379d0bb3f966bdd9b2f90444 sha1 1485773abbfa0ba8ebc07cbea11e3cb5985d3988 )
+	rom ( name SETUP\SAUV_A_2.STR size 393216 crc 3461d9b9 md5 1bc8b66eca3385f36559748eda244b98 sha1 23b7a1af397d2b46083988c6ea4ec9031365c95b )
+	rom ( name SETUP\SAUV_R_2.STR size 417792 crc 6bf3b6f0 md5 bac11c0e6a6290bf182fda56dc15ab53 sha1 5ba4de57d68b285502e250c818de68258739578f )
+	rom ( name SETUP\SETUP.DAX size 2797568 crc 5378bd15 md5 e56fb1a3405ad3b7e5d282543cb67490 sha1 e091dddd74dc00ccf57a48dc8495ed95cde6a42d )
+	rom ( name SETUP\STLINA2R.STR size 589824 crc 012bf2b0 md5 640893fec1b72a2cac66988d973d5c16 sha1 df459f3757ed61a7a4011b845d087dc4532d066c )
+	rom ( name SETUP\STLINB2R.STR size 393216 crc 3d6e4807 md5 6deeec9aa6a6cbe60fcaef8c7debe79a sha1 80308aba547b6d2bde796a84f6815226fae0b753 )
+	rom ( name SETUP\STLINC2R.STR size 319488 crc 74016314 md5 ae3934c5d80d951f669b5b255debe639 sha1 d36a783671903f8a1af00de274e3a242fe9fdc8e )
+	rom ( name SETUP\STLIND2R.STR size 565248 crc 777913f9 md5 4f071e5690e2f320a40c71594c1aa399 sha1 cf2f814940addc637752afcd8aaa95ba20428fd1 )
+	rom ( name SETUP\STLINE2R.STR size 565248 crc 6f3ab2b1 md5 11a58cf0bad044ab392fb85fef32984f sha1 6fb1181aa289be65f118736856c8d04afe3bce97 )
+	rom ( name SETUP\STLINF2R.STR size 565248 crc 6ca79c12 md5 6f274c9b9d37128911696b4307e8bf68 sha1 370f5b1b6bd57d4bbb98cd06f0a281a5021fcfbc )
+	rom ( name SETUP\STLINKA2.STR size 589824 crc f1dccfa2 md5 32e1d42d24b6d6ac7ea9823c27f40239 sha1 44235a8296c8a20c5346c99a4ca478bf3ee66815 )
+	rom ( name SETUP\STLINKB2.STR size 393216 crc 7c8a3925 md5 4300af1cfa6ceec77a47e02010b1b3db sha1 231d1143db6ae342e591004207208e295f3646e4 )
+	rom ( name SETUP\STLINKC2.STR size 319488 crc 8f1a0745 md5 82d6ce30f18d671542932a9e797245da sha1 76c2fe8913cd74b904d6d8a3298163d541fb34cc )
+	rom ( name SETUP\STLINKD2.STR size 565248 crc b59b1a88 md5 fe0f2d4fd6cd2ee9ec6327428e11376a sha1 4c0e03f9d0c2059b9e947f7560436540778bc6fa )
+	rom ( name SETUP\STLINKE2.STR size 565248 crc c35d4a59 md5 df404f81e8cffcb57b0d197bb8ae0f51 sha1 0eec4d254a30152068e1f6245d464e5e866f883b )
+	rom ( name SETUP\STLINKF2.STR size 565248 crc c4d91691 md5 3c6a84f6885c0c74ab712852edb09bd4 sha1 88ad121ce43130946a1cadc627b42f9b89b27b5b )
+	rom ( name SETUP\STPCOFF2.STR size 1155072 crc 70b55856 md5 4718bc6234a863b9369fe7594b10f58e sha1 7a5fcba49d0760b799bf7c0e9a7faa798a04fbf0 )
+	rom ( name SETUP\STPVAIS2.STR size 1449984 crc 984f2008 md5 8506448af7d358d953864621bb5f2a9d sha1 c622cbe3b445abfe9a65432308e632a9eb003ecc )
+)
+
+game (
+	name hode-psx-it
+	description "Heart of Darkness (PlayStation/Italian)[!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxpsxres
+	rom ( name CINE\BACK.STR size 18910080 crc 5d56d915 md5 5489ff6f79d04fc8231eb88ffb1b2642 sha1 61b87bd68561b316338f76827fea41359f909ec7 )
+	rom ( name CINE\CHUTE.STR size 1587600 crc a0351d81 md5 1bb0d0e1cadeb2cdc152660aa1f40eee sha1 7420e9a3525a5ef560a5f636c3d395fcb828e9d0 )
+	rom ( name CINE\CHUTE_I.STR size 1587600 crc bc07216c md5 409adb8de259db294fca2c126db41e3a sha1 cde3c96c40f380d470bce3c0d29c71377289a8b1 )
+	rom ( name CINE\CINE14L.STR size 6039936 crc 8611c3b2 md5 064b151b1df706b7d3750888a0ffc53f sha1 016d86dd3eb51b1de57edeeb40653fcd538db6b5 )
+	rom ( name CINE\CINEMA.STR size 50709120 crc 3aa74e20 md5 209761e8cf4733549ccc37b9c0a8dc06 sha1 e65d897c9c851988dc2b71bbbd4a69ff3ee827e5 )
+	rom ( name CINE\COOKIE.STR size 4290048 crc 8c0d54e2 md5 67ad85dad8abdaf332042e4ef4faaae8 sha1 b1c5d95eae6d3f2b9920a62c77e2f860ba7b4996 )
+	rom ( name CINE\DOGFALL.STR size 10838016 crc 7970a86e md5 311bf02bc9ae82df65dd74c27340ea54 sha1 fa562ca2cf7a7e790f68cb3182fe6456d9a52047 )
+	rom ( name CINE\DOGFREE1.STR size 5588352 crc 21de01f0 md5 cbd45a78b7271cb6e6c807345c5f6f45 sha1 963f175bde0e4843cdc27ab1253c6b7251863691 )
+	rom ( name CINE\DOGFREE2.STR size 2991744 crc 7a8ac663 md5 a2f93d1f917e4483892404bdb47a96e3 sha1 99939ee4e23d5aefa71e1a9412d2b53c46b80f7f )
+	rom ( name CINE\END.STR size 165467904 crc a9a020e7 md5 3a77f14971951ef534b427483b86f341 sha1 7f68762f04ff826d3167d389d81cc003401c8c68 )
+	rom ( name CINE\GCHT.STR size 1587600 crc 11c4c3d7 md5 ed582806f26c436c6a8a96b944319faa sha1 b46fe2ebbccde2d7f1be004b04fbd44480d2bf43 )
+	rom ( name CINE\GLISSE.STR size 10875648 crc 8fc6c783 md5 84c8c90f46f54f77f5a42dc30e43e216 sha1 cbd78891b2ab41952c9ddc0ae77a19515471f5f5 )
+	rom ( name CINE\INTRO.STR size 143961216 crc 11ebc776 md5 1a558a32d2813dba69ac7dcd2d322c7f sha1 14d1ecca04ca541d6d9fa94a26b2ea92d6c8ab2d )
+	rom ( name CINE\ISLAND.STR size 120140160 crc f7032270 md5 c2f9075b295bdb3f675b67a5f893c929 sha1 c72dfc678cb616c28267f39ae3cd8b2308694a02 )
+	rom ( name CINE\ISLEFALL.STR size 10725120 crc 677f6a7c md5 d0124f988509e6be320ac5dc74703e36 sha1 c9fc5261789c10df3391b23df341ad524e1f684e )
+	rom ( name CINE\LASTFALL.STR size 38290560 crc f4abb120 md5 7b9433151c138edd41d2b0817304beaf sha1 7036772383b3be7b816a0c77f325faa8bd56465b )
+	rom ( name CINE\LSTPIECE.STR size 9727872 crc 3d4b8549 md5 f8f4226a62869b6e0146437ec062e490 sha1 4214d01eb49aea0f1ab447e42f318617828dd4db )
+	rom ( name CINE\MEETING.STR size 26210688 crc 4b4c2ee7 md5 929d9eae2daa1be159a6d1ab9d89016f sha1 255911cc7906da2f647237a237fd54896d04a458 )
+	rom ( name CINE\METEOR.STR size 9088128 crc 2c4f77b8 md5 d601841417412bc28d6c635d94e614f8 sha1 24225a36ded0cd43beb4b9e0c0344b1419ae865d )
+	rom ( name CINE\PLOT.STR size 11007360 crc 1ee55a75 md5 8d7fd01f72ee52d1bef9b5ebdbe44796 sha1 24f436043177c112b78c5a18237699e16544a8ff )
+	rom ( name CINE\POWER.STR size 7808640 crc 8ea7add7 md5 c497dbafa0ec39db5e1a5f309af78294 sha1 65d04fa286913ecc23087fd60f2b04c3658bf193 )
+	rom ( name CINE\PUZZLE.STR size 2747136 crc ba9b66a8 md5 f7bde0fc877908bb4c7fed9ced1734ee sha1 bfe767fd82ffeb48ab4ab2afa10b738c0025b5d9 )
+	rom ( name CINE\RAPT.STR size 45534720 crc 45499ffe md5 e66529f3b5a0a56f1e1b8eb036ea7bc6 sha1 acf8d2a1bbd13e68086c86e11da5e5753e4e0621 )
+	rom ( name CINE\TOGETHER.STR size 29654016 crc 35bf2b1b md5 bcfe611d98095e285540845945064fa2 sha1 e25cc6e4620f6ae0000f736015ce2075bfb294e5 )
+	rom ( name CINE\VICIOUS.STR size 4722816 crc a332a072 md5 b306ddc94fc8d8e03b6e143a76df2fc7 sha1 f4b7cba5dd97e6c9e6f73c53f9c978fa4e78d0a3 )
+	rom ( name SETUP\CHAHAUT2.STR size 196608 crc 69d5205d md5 7919ca5b26fb0a5518033152b5e7979a sha1 6101b785ef3f801fedbfe39e8fbe9d6daaaccc0c )
+	rom ( name SETUP\CHARBAS2.STR size 196608 crc 2858d255 md5 38593a82d8322c22f4cefb524978c877 sha1 d4adc2fc9492ae3d6691fadd3326221d5f432702 )
+	rom ( name SETUP\MAGN_A_2.STR size 860160 crc 9ab9efeb md5 e78593306e1a0a9f69560a726ace22ca sha1 d0f0254536a2ae8ff4a5037294808458bf27fda6 )
+	rom ( name SETUP\MAGN_R_2.STR size 860160 crc 5e34959c md5 d12fcc564430657ccce45fbf665d3289 sha1 ef91a93b25cc38395c7fdad23eae10b842fbd6f1 )
+	rom ( name SETUP\ORDI_A_2.STR size 491520 crc 9ef6694c md5 ed44a6c00b243085babba3ffa9b901a4 sha1 c6ad1d38276dea4a39853b595a2e76c897322857 )
+	rom ( name SETUP\ORDI_R_2.STR size 491520 crc 4aeead31 md5 f3b22eb64df83cc59e9dd9986d384639 sha1 3c2f9334f608cadec88ddba9cd568c2a58a6cf21 )
+	rom ( name SETUP\PROJ_A_2.STR size 1056768 crc 2857ab30 md5 92e249bccc004d68e4d1da2f4b3db846 sha1 4cf7c67b8bb133ad91a6d93a6604de29075c0b06 )
+	rom ( name SETUP\PROJ_R_2.STR size 442368 crc 3eab61a7 md5 ad62aa4ae748241d6b5da92341de80aa sha1 99a71dd5dea0bb6973c3aacdcfb61edfcded113f )
+	rom ( name SETUP\QUIT2.STR size 1327104 crc 2ed1b8c9 md5 e752cf77e5b58570fa1a6aeba966ad26 sha1 5f61ba2c74f47930f7f4f8b831f544f925d2e653 )
+	rom ( name SETUP\SAUV_A_2.STR size 393216 crc 3b2fa35c md5 cd7e449073796200f5ebeef2199b6d27 sha1 3692ec510e8d573568e29187d9aa847ae02d348d )
+	rom ( name SETUP\SAUV_R_2.STR size 417792 crc fd63af81 md5 ec8edd84f3bf90e4896d7b9e23fe7995 sha1 433c503ae25c0de7cdef3c43f45cc0131d3acb3c )
+	rom ( name SETUP\SETUP.DAX size 2883584 crc e110a6fe md5 53af42da0289fbff29ac402f31fa63df sha1 be8978884cf54469e58162b6a4d639c7364099ce )
+	rom ( name SETUP\STLINA2R.STR size 589824 crc b54b4e52 md5 ea245d8b37c9f7853170f2b6b6efb557 sha1 5acfd4869c33963a0a121b7613544a534040052d )
+	rom ( name SETUP\STLINB2R.STR size 393216 crc fda6292e md5 0f2ba030f1380a7c67db7993285b7b59 sha1 2dd713fac6ac2afbcc13d5e43362547c4a643076 )
+	rom ( name SETUP\STLINC2R.STR size 319488 crc 47f1143d md5 c980855c40039f222416afbb061c33a1 sha1 9646ac9d850efe64d9337527780d5b8d626f5585 )
+	rom ( name SETUP\STLIND2R.STR size 565248 crc 4aa41e56 md5 b41d4d67de055d20ae3c63a8ea986737 sha1 233c428fdc0159e4992b49818012b69db5e0c876 )
+	rom ( name SETUP\STLINE2R.STR size 565248 crc 5b97b4ff md5 f1e742cda5347586a90ca33d7cb4dc95 sha1 f4578550b1ed32f57df8c280addfd07d8d682a57 )
+	rom ( name SETUP\STLINF2R.STR size 565248 crc fcafe732 md5 2de55dd2941bec79d155dd1e5e3225f5 sha1 bebe2671c7c2c54fcb9833044f60bb86a397ca46 )
+	rom ( name SETUP\STLINKA2.STR size 589824 crc 6e20535b md5 df0003a161b879c70d3e523333d2ba7c sha1 32a04ef69261f0b9ac532a50ab72414f37589edf )
+	rom ( name SETUP\STLINKB2.STR size 393216 crc b48827e7 md5 5a88eb74ef2a838f5cf20c7ddd546cfb sha1 ddc6d5b45f4005f1b132eb45ecf8899c273bb471 )
+	rom ( name SETUP\STLINKC2.STR size 319488 crc cd6e2b29 md5 191ade8c4b3e82a280f74a012befd9a3 sha1 c0562f0202d6142f64eada1471f917c47c34eac7 )
+	rom ( name SETUP\STLINKD2.STR size 565248 crc 7a97c196 md5 d782d142dd8167802715389250111b8e sha1 7cd11de917c1a480b666d753f61e11145bff0891 )
+	rom ( name SETUP\STLINKE2.STR size 565248 crc 849be959 md5 2ed8331fac4f5ee2ecf81bc1aade34d4 sha1 a8ea63b14ec25f2afb377a6dc76bcc44cec74dac )
+	rom ( name SETUP\STLINKF2.STR size 565248 crc e80a930f md5 83a7bff33d4e60f35a951cc41583eba5 sha1 2817ae817cbbfa88274de990251f43882fdbd8c5 )
+	rom ( name SETUP\STPCOFF2.STR size 1155072 crc 3b9dfe48 md5 61f026477805ce0e93bf002ac89b97eb sha1 306752c12880120149a5cda09231d50026443a89 )
+	rom ( name SETUP\STPVAIS2.STR size 1449984 crc af1de0e1 md5 0cfcdae933252b508f2c78a76d543a81 sha1 2d51a24e923cd9b69d0c40ad1421ecc41db8c024 )
+)
+
+game (
+	name hode-win
+	description "Heart of Darkness (Windows)[EU v1.4][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 429191368 crc c99235c5 md5 fcaa8d36b339b089638c35d0ce430722 sha1 020700936298c9bc631bde453abb8887057bff72 )
+	rom ( name setup.dat size 5769216 crc e5ed0e76 md5 bdc3f552cadc843919c2914c3fc04eb7 sha1 56fd54d28074657b947e165134f044d9a91cef47 )
+)
+
+game (
+	name hode-win-1
+	description "Heart of Darkness (Windows)[EU v1.03][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 429209800 crc 8fe9651a md5 9cb7a7d968346df7b3c440fe9babb6c9 sha1 bb3e556a5bd134597ef2146f9890643a9bb11256 )
+	rom ( name setup.dat size 5769216 crc e5ed0e76 md5 bdc3f552cadc843919c2914c3fc04eb7 sha1 56fd54d28074657b947e165134f044d9a91cef47 )
+)
+
+game (
+	name hode-win-2
+	description "Heart of Darkness (Windows)[US v1.04][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 430104776 crc 7f35e730 md5 4a5079d7c8eb911e42a1de2cc4dfa888 sha1 6978d96ecf59e06e96d86aa01182f0869c9bb73d )
+	rom ( name setup.dat size 5769216 crc e5ed0e76 md5 bdc3f552cadc843919c2914c3fc04eb7 sha1 56fd54d28074657b947e165134f044d9a91cef47 )
+)
+
+game (
+	name hode-win-de
+	description "Heart of Darkness (Windows/German)[v1.4][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 429191368 crc 59eb041c md5 1a78503ac19e9f2759a8e55c602a9e42 sha1 b5c5532c4045f32735aa5419c407c9b094ce8c00 )
+	rom ( name setup.dat size 5832704 crc 3cc3f69e md5 75681d36854cf00b17f9d21af2a9a2ce sha1 d362500a5c028a35f9341c2cb5c69901afba87c3 )
+)
+
+game (
+	name hode-win-de-1
+	description "Heart of Darkness (Windows/German)[v1.03][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 429209800 crc e5da3e35 md5 d7675d8321fef7843e99cabf9985fc85 sha1 f51a9f9addad0b21ab524840838fb8fd6e235396 )
+	rom ( name setup.dat size 5832704 crc 3cc3f69e md5 75681d36854cf00b17f9d21af2a9a2ce sha1 d362500a5c028a35f9341c2cb5c69901afba87c3 )
+)
+
+game (
+	name hode-win-es
+	description "Heart of Darkness (Windows/Spanish)[v1.05][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 429332680 crc 81312bd0 md5 de41e24cdda831b83f0d0ec4e104753f sha1 93b98210775985739e70ffd2207c74bfc74fd11b )
+	rom ( name setup.dat size 5844992 crc e0b4d951 md5 c8fb1e902c611bb99cc8f70aca5205b4 sha1 b9755210f230555d8afc3573e5219603c4bd369a )
+)
+
+game (
+	name hode-win-fr
+	description "Heart of Darkness (Windows/French)[v1.4][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 429191368 crc 4b972e3a md5 0092b7d4ae2136307d931958bd4fcb91 sha1 a1adca76fe54cdd3e825417b079fbf74a323e705 )
+	rom ( name setup.dat size 5834752 crc 3e216653 md5 ba7d0b09add5cff8de3dccd178eed506 sha1 1d476d896cafd3d4af00b15eb2eb695a804a0662 )
+)
+
+game (
+	name hode-win-fr-1
+	description "Heart of Darkness (Windows/French)[v1.03][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 429209800 crc c09fe6e9 md5 cf174b2d60445d8e6a187d6f2b3a05cf sha1 6df823a778ed0df275217692fd814a7408b725cb )
+	rom ( name setup.dat size 5834752 crc 3e216653 md5 ba7d0b09add5cff8de3dccd178eed506 sha1 1d476d896cafd3d4af00b15eb2eb695a804a0662 )
+)
+
+game (
+	name hode-win-fr-2
+	description "Heart of Darkness: The Adventure Begins (Windows/French)[OEM v1.3][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxminires
+	rom ( name fort_hod.lvl size 3536896 crc 3e6aebec md5 0fe2d4f5ac78af7de8870f9dab52a016 sha1 d08d11b148786ef4b7391ac7c877186ec4721980 )
+	rom ( name fort_hod.mst size 40960 crc 06bdb3cf md5 ef2df39b5f44397abaad74f0eee1204a sha1 590a577830747d2ca1bee3fe3c5212e2a30e8dfa )
+	rom ( name fort_hod.sss size 3123200 crc 6ad13bbb md5 7f813bd2f5dac6f1798ac03c5abb0c1b sha1 93120414e8077a3a205092a99001457d221e0a11 )
+	rom ( name hod_oem.paf size 236302536 crc 5dabbcf6 md5 97337ff97a66debe0750e7b06acbb1ee sha1 2769653eb6ca0cfb485b47c8c83011bf498cb772 )
+	rom ( name pwr1_hod.lvl size 5261312 crc e9798590 md5 df33a67e5909366e61a98fb86d47dac6 sha1 a89df4acd7138588d0e1a30dff8df63d0c1f7092 )
+	rom ( name pwr1_hod.mst size 131072 crc 84d6b1e0 md5 0b6b2bd030c42687352ce25d2aa571e2 sha1 f6e26461d888216457c4eadf1c71d9bf385dbbd6 )
+	rom ( name pwr1_hod.sss size 6844416 crc 0801346c md5 82c1108bcb89cbbad1201bd02973c3b3 sha1 b8e764c49f7c95f9c5f514c12788761d1d9d6030 )
+	rom ( name setup.dat size 5867520 crc b60fe7af md5 b66a2fbdf02f001c9c96f19f84c21f32 sha1 e6d1ae87b991d3cf623b8ec9fb33cdd2a3d4a1b4 )
+)
+
+game (
+	name hode-win-it
+	description "Heart of Darkness (Windows/Italian)[v1.4][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 429314248 crc dbc217bf md5 327094fd2f88e5447f7cae9b83b67732 sha1 3c475ade3fc5e03a5a255af8264232038dc6e502 )
+	rom ( name setup.dat size 5894144 crc af71eb08 md5 74d81fbd82f677ef1f4fe9d4e0e15b9a sha1 39f310f3586dc5e2f0ff6f81b8ac7257012e933b )
+)
+
+game (
+	name hode-win-jp
+	description "Heart of Darkness {ハート　オブ　ダークネス}(Windows/Japanese)[v1.05][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	romof hodxwinres
+	rom ( name hod.paf size 428896456 crc 3b883f98 md5 80e666eb55529cc3390f4b3ff91554cf sha1 fe75aff52c879aa5cc84a87babbca2ce0affec23 )
+	rom ( name setup.dat size 6533120 crc c09ad66e md5 06242238e9cb6b4fd9ecfe5819af3ffe sha1 5cb36223a3fc5561d9c9d945fe3261cd188b5665 )
+)
+
+resource (
+	name hodxdemores
+	description "ZZZ - Heart of Darkness - Demo Resources[v1.2][!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	rom ( name rock_hod.lvl size 4968448 crc 7e50e77d md5 4630088632bdc2ca1fd11bd19f91747f sha1 9fddeac91b8de1cbbce35fa3330f674cb5e0e7c7 )
+	rom ( name rock_hod.mst size 77824 crc 63843d8f md5 087d7579f2aaf65e587429a4c2a05689 sha1 e7fbfcde10c08aa64ae1398fc95257891863790b )
+	rom ( name rock_hod.sss size 5545984 crc 69682a22 md5 41f0f083af6820a960e97debe5945324 sha1 982323a992c998e7c741d4d8fcaba11998d8072c )
+)
+
+resource (
+	name hodxminires
+	description "ZZZ - Heart of Darkness - Mini Game Resources[!]"
+	year 1999
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	rom ( name rock_hod.lvl size 4968448 crc 7e50e77d md5 4630088632bdc2ca1fd11bd19f91747f sha1 9fddeac91b8de1cbbce35fa3330f674cb5e0e7c7 )
+	rom ( name rock_hod.mst size 77824 crc 6a6fa6f7 md5 240dd61b26b3b948f394ac01a79bc3a8 sha1 24dee01526c06b6f003b2c8e22e4d5787df333c8 )
+	rom ( name rock_hod.sss size 5548032 crc c50c13bb md5 67400afa5b57c181cb899f2d914754e1 sha1 ec683718d26bc1e0b4a254215621dd6c6c3e60b0 )
+)
+
+resource (
+	name hodxpsxres
+	description "ZZZ - Heart of Darkness - PlayStation Resources[!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	rom ( name DARK_HOD.LVL size 1519616 crc 79c01b55 md5 a24a2aa160f1c1e180612093b2e6e7cb sha1 f6482575f1d4d2b6aa8910c709681a714edfba6b )
+	rom ( name DARK_HOD.MST size 10240 crc e05c0147 md5 92d5b86b5548f35a08f03175e5a462f3 sha1 a97ac13edde17fd33cb06e9907139949c8b79cdb )
+	rom ( name FORT_HOD.LVL size 13987840 crc caf0e23c md5 28057e53a725870e688dbd9107d23d9e sha1 e94a21bc4f779dba658ef5ab45f1ad15880913d8 )
+	rom ( name FORT_HOD.MST size 40960 crc 016bb7a0 md5 35310c314142300abce1237dc6a5b851 sha1 f7423c3d277650ac36378f09f59034cec28b6b34 )
+	rom ( name HOD.DEM size 18432 crc 7f9a7ef8 md5 4868852d405076e14129e5d187998f2e sha1 bb842cfbe210a29db50c999ed35eb75ecf1a48e6 )
+	rom ( name ISLD_HOD.LVL size 26011648 crc cfe30753 md5 1a9b5be03a228c537d1a4c4b5b5eb7c8 sha1 c0fbd02deea136d57b60bc8a7c3df69741491335 )
+	rom ( name ISLD_HOD.MST size 88064 crc 958f7450 md5 c8ca8753b7eed557c2b313b4dec318f5 sha1 9ff92346444a66833eb2f8a1b3853ad788d1777b )
+	rom ( name LAR1_HOD.LVL size 42919936 crc 8968efb8 md5 5ca2c6fb5619b3cadd0c2571b86ea9b0 sha1 575dde976affeedfa5f1637a34d5efdda3218778 )
+	rom ( name LAR1_HOD.MST size 151552 crc d9f6d585 md5 f185c626b9dd8d0816ff54e65506cc5e sha1 b36ec9ca6122edd72a52543afad4c8bcd23ca03a )
+	rom ( name LAR2_HOD.LVL size 15636480 crc 449c8dd4 md5 221e407e8dc893052f031e80f02d47bd sha1 dc907525ef0859be25dca20746e43edaf06b073b )
+	rom ( name LAR2_HOD.MST size 104448 crc 73f3c603 md5 b4b4d37c6d5e2bc27672fb6897b77f46 sha1 266edb49e8846fc8ae883dfe5ca269e0b7651e82 )
+	rom ( name LAVA_HOD.LVL size 17618944 crc 4e494f1c md5 131ffa52d2f47400f396730b3dd8fdb3 sha1 8412a41febf1ca5d8140a7344f758c8cad924951 )
+	rom ( name LAVA_HOD.MST size 86016 crc 99686e08 md5 30bddbcecfb233e260e18d743aadefed sha1 e4584f4c893a6977e01b3f4f3b2cdbd23a96bbac )
+	rom ( name PWR1_HOD.LVL size 46583808 crc 8add9bce md5 38a87ebf42a6c4fc418d9f2750be5e2e sha1 f6c60f57de3ec1429286531451a6ca957c8f2cab )
+	rom ( name PWR1_HOD.MST size 131072 crc f6bdb1b2 md5 9495f21fd14952df9807ab8a28752781 sha1 2383746cee299ef57b49db5367dfadb2a6a7bbe8 )
+	rom ( name PWR2_HOD.LVL size 8214528 crc cd8652be md5 251252ddf92f433246b7e3205c92cc05 sha1 46c30e728b28f0bb2c976832220cd6d3d4050b0e )
+	rom ( name PWR2_HOD.MST size 71680 crc 8d60afc4 md5 cc7bf8a4e9147d2b2a24fd5c6c19082e sha1 c82e435630be6799f469a460f5fc982a998854da )
+	rom ( name ROCK_HOD.LVL size 18700288 crc 7e37bbdd md5 897222fad2c48e557ae29c90a394450c sha1 9cbc3bad9efe5f21f66c33d9872e29a1bd7b4c0c )
+	rom ( name ROCK_HOD.MST size 77824 crc 63843d8f md5 087d7579f2aaf65e587429a4c2a05689 sha1 e7fbfcde10c08aa64ae1398fc95257891863790b )
+)
+
+resource (
+	name hodxwinres
+	description "ZZZ - Heart of Darkness - Windows Resources[!]"
+	year 1998
+	manufacturer "Amazing Studio"
+	sourcefile hode
+	rom ( name dark_hod.lvl size 724992 crc 64c9b764 md5 6291cf83daede9bb6ad980e6783edcc9 sha1 e7c188e5c47632d512d96d9da89fc8c060528d45 )
+	rom ( name dark_hod.mst size 10240 crc dd06455f md5 44b00c6caa3cbab11bf3fc214a69ff87 sha1 6c2d93b2e31c299215d0fdf05ac1e8e8e95e9042 )
+	rom ( name dark_hod.sss size 3291136 crc c3c8765e md5 1bbfc6a2a99ee73fb5d27adf8356dc1e sha1 8d5b19842e551b8ec73bda411c210cc96e08569a )
+	rom ( name fort_hod.lvl size 3551232 crc e51f7594 md5 8a2cd126a85f2ba60d06066ca644be08 sha1 82456ed6e29780b5b8031a67ba3dddb8da813c19 )
+	rom ( name fort_hod.mst size 40960 crc 5cf0cb75 md5 0341f50bece8b6d8ae6ec5d6c6158916 sha1 ce55095902ade9f1d8a198f271d0946d6228b90d )
+	rom ( name fort_hod.sss size 3131392 crc 73225ca4 md5 eff53d8fca1b28c0ad1a5a0b5bf78ce6 sha1 6ff572b553d93040c9cad74891db05b2cc8267c6 )
+	rom ( name isld_hod.lvl size 4257792 crc 96d74ae2 md5 eb19441e4e6acaf8eddfd51fe2244dc2 sha1 f78e9316f2187c0ca9e42abe8a2242b3d3e6feaf )
+	rom ( name isld_hod.mst size 88064 crc b69bf82d md5 175a3199cc18ffb4f121e0b5e3eca389 sha1 448e5dd5bbe59621279562d8695c9a864cb4c286 )
+	rom ( name isld_hod.sss size 5474304 crc 02e97978 md5 837a624df1e7d1d3c6f996ae232bea6f sha1 61c5da6dfcf80684c56baebddb04125ca0c1f209 )
+	rom ( name lar1_hod.lvl size 3899392 crc 40ed4d79 md5 eedbec30bda5b66dc000f6f256b8ba38 sha1 84f7b33a9b57f2afa68063e0128512991f86dfa0 )
+	rom ( name lar1_hod.mst size 151552 crc 68f6880c md5 958046b257e64ab075e99797a7de69d0 sha1 9db53a4a75327eeca45ffa5b761a9f04af5e5204 )
+	rom ( name lar1_hod.sss size 6705152 crc 51d5cd4d md5 28863f8ea1e9c587c5fd0352258a60af sha1 72667991fde3caf36978da1fa929695de80abe4b )
+	rom ( name lar2_hod.lvl size 2373632 crc 4a8a5b1a md5 1511c1b8152bad5cc14e5b865e761725 sha1 999b2548490f586f955c9f5c6db95f88d49102f3 )
+	rom ( name lar2_hod.mst size 104448 crc 16c7e206 md5 45d8eb8fcf8ded91fd7ee9a834f97628 sha1 333ea4e6be6ca9aad735fafe59177546aab41c4e )
+	rom ( name lar2_hod.sss size 5361664 crc 9a933e46 md5 5e869191ca4de16061c7a7feddc3d2a8 sha1 c5c655b718ead1d2eb460a058df7eb3b795dea9e )
+	rom ( name lava_hod.lvl size 2609152 crc b6b264ec md5 fb73743b1ce7dc655c048a3ee183fcaf sha1 2921eb2f78354e79c1257ef55543bb1a1492e914 )
+	rom ( name lava_hod.mst size 86016 crc 63d760aa md5 72db21256d388c0ba38c2635c7c617cc sha1 c05ce42c0abdbb2dbfc109cbb4ea7eee1937445d )
+	rom ( name lava_hod.sss size 4354048 crc 43a56090 md5 69f9de5747922fe128659d83113e5867 sha1 8fc8d2c86f67e13ca840d604c603249b20723f85 )
+	rom ( name pwr1_hod.lvl size 5234688 crc 95a83957 md5 f27056f03bf310ba2caf3311f76c186c sha1 cd6489e11914770d95034aa6afaa2fc67f035ce8 )
+	rom ( name pwr1_hod.mst size 131072 crc 5438d8a3 md5 00f65d3b31dc34078aebd36475f21ad1 sha1 f821e5686ae27b2ed5000ea4b38a464ecebe44a7 )
+	rom ( name pwr1_hod.sss size 6918144 crc b695441f md5 cb8eca65ee943a64b88c78d232bc3d53 sha1 cbb39e1bfd24dcbd5bf65f9e0b92faaa9b6b02a6 )
+	rom ( name pwr2_hod.lvl size 2201600 crc 31bc27e2 md5 f4666a77e92c78199d2969827d5693b6 sha1 7263ecf8d51d45c2c62dc11701eac03b67738fd8 )
+	rom ( name pwr2_hod.mst size 77824 crc 38bc57ab md5 b1bc7061f99b1012dac1f3b208fe6dbb sha1 132b29e758a28529009e979ef31a29a42d0a5c4b )
+	rom ( name pwr2_hod.sss size 4900864 crc 09dd74b9 md5 28eb2c24391648e6ac19da64c2dad80b sha1 24342241b4353777cc22696be8a684d635f9c809 )
+	rom ( name rock_hod.lvl size 4999168 crc 48710a9a md5 6109ae9a9b7160e0fe5a68fb069aa894 sha1 cdb3d7ad1ae13f2234380f79bc8ec57e1e505cef )
+	rom ( name rock_hod.mst size 77824 crc 045d18d1 md5 294d3da20945c7c4379a44b0d59cd3e4 sha1 5b49637348f6c6a2737a64cacf01f9bcef8e83f6 )
+	rom ( name rock_hod.sss size 5560320 crc 93069aa7 md5 cea277bb9a358fd052961174f64e8b92 sha1 55c841f6c091c2ae68f0636c075c66405d00cc6a )
+)
+

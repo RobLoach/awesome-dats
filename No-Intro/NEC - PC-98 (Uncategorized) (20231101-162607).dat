@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>243</id>
+		<name>NEC - PC-98 (Uncategorized)</name>
+		<description>NEC - PC-98 (Uncategorized)</description>
+		<version>20231101-162607</version>
+		<author>MeguCocoa, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Ash. (Japan) (Disk 1)" id="0047">
+		<description>Ash. (Japan) (Disk 1)</description>
+		<rom name="Ash. (Japan) (Disk 1).dsk" size="1261568" crc="a8d5b467" md5="28be5c4b2f90546dde16269ebb0f5d2e" sha1="fbe3f2e3c03ef22168b76c0de40e3c543f66dc31"/>
+	</game>
+	<game name="Ash. (Japan) (Disk 2)" id="0048">
+		<description>Ash. (Japan) (Disk 2)</description>
+		<rom name="Ash. (Japan) (Disk 2).dsk" size="1261568" crc="a32ac682" md5="155d32e7befdbae808b93633b0494df9" sha1="f866a0dd240321b5821f8ee3be0c19068f505e54"/>
+	</game>
+	<game name="Atlas (Japan) (Data Disk)" id="0049">
+		<description>Atlas (Japan) (Data Disk)</description>
+		<rom name="Atlas (Japan) (Data Disk).fdi" size="1265664" crc="15a09862" md5="0bb9ce9d72bc616f4d249611aea2186c" sha1="919dbaa413bc3e1204f2d4aa056414cd4448e3e5"/>
+	</game>
+	<game name="Atlas (Japan) (Game Disk)" id="0050">
+		<description>Atlas (Japan) (Game Disk)</description>
+		<rom name="Atlas (Japan) (Game Disk).fdi" size="1265664" crc="4e8acd74" md5="b4174c5abf68557a70adb6e7fe46b651" sha1="c1fcecd3e03f3b6b232485e513025ca69dd4bfa2"/>
+	</game>
+	<game name="Atlas (Japan) (User Disk)" id="0052">
+		<description>Atlas (Japan) (User Disk)</description>
+		<rom name="Atlas (Japan) (User Disk).fdi" size="1265664" crc="b27f3356" md5="087b1c3ef81dfb39d0981397a8b9c8c2" sha1="7bc9ff60496f592048ee402ef21bb4e0ffa7d056"/>
+	</game>
+	<game name="Atlas (Japan) (System Disk)" id="0051">
+		<description>Atlas (Japan) (System Disk)</description>
+		<rom name="Atlas (Japan) (System Disk).fdi" size="1265664" crc="5d52581f" md5="b3a7a175bf3cabb051611ad4e83548f0" sha1="1dbd448085100ec7ce433ef29b268943ed200e3b"/>
+	</game>
+	<game name="Atlas 2 (Japan) (Unknown, Vis)" id="0055">
+		<description>Atlas 2 (Japan) (Unknown, Vis)</description>
+		<rom name="Atlas 2 (Japan) (Unknown, Vis).fdi" size="1265664" crc="5dc8da4b" md5="f3d0481f13007891a12a20a77853fe09" sha1="c3d50ec26408017206aabc0e479d77e09e03a62d"/>
+	</game>
+	<game name="Atlas 2 (Japan) (Data Disk)" id="0053">
+		<description>Atlas 2 (Japan) (Data Disk)</description>
+		<rom name="Atlas 2 (Japan) (Data Disk).fdi" size="1265664" crc="34fe9443" md5="b5774e32d91ce03ff0b7163ebc61f82d" sha1="0e910e5f6d6ca0573349b834dfa6e8cbc169ee3b"/>
+	</game>
+	<game name="Atlas 2 (Japan) (System Disk)" id="0054">
+		<description>Atlas 2 (Japan) (System Disk)</description>
+		<rom name="Atlas 2 (Japan) (System Disk).fdi" size="1265664" crc="eed77fc5" md5="50601adc484e78121d7ad78d7a64f2c8" sha1="d3881dd41eea10b67e0c4cb909be80368ebb331e"/>
+	</game>
+</datafile>

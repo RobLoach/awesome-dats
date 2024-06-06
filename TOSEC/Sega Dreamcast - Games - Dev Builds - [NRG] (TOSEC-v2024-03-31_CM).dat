@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Games - Dev Builds - [NRG]</name>
+		<description>Sega Dreamcast - Games - Dev Builds - [NRG] (TOSEC-v2024-03-31)</description>
+		<category>TOSEC-ISO</category>
+		<version>2024-03-31</version>
+		<author>Maddog</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Agartha v0.800 (2001-04-17)(No Cliché)(NTSC-PAL)(proto)[b damaged files]">
+		<description>Agartha v0.800 (2001-04-17)(No Cliché)(NTSC-PAL)(proto)[b damaged files]</description>
+		<rom name="Agartha v0.800 (2001-04-17)(No Cliché)(NTSC-PAL)(proto)[b damaged files].nrg" size="605386616" crc="d10d3639" md5="a4f1cc59a193d1d8b74f3469bf95fdff" sha1="2d55b1e46b51d868588ba162cc236be5cf994b0b"/>
+	</game>
+</datafile>
+

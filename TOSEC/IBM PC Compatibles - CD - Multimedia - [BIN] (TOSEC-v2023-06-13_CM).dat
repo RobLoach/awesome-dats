@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Multimedia - [BIN]</name>
+		<description>IBM PC Compatibles - CD - Multimedia - [BIN] (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="12000 Clipart No 1 (2004)(Cosmi)">
+		<description>12000 Clipart No 1 (2004)(Cosmi)</description>
+		<rom name="12000 Clipart No 1 (2004)(Cosmi).bin" size="664684608" crc="b0bc014c" md5="cf19046882d7739b54a091ea0644a36a" sha1="7de3485cf1b0f256140efd9049f2b90668a0c777"/>
+		<rom name="12000 Clipart No 1 (2004)(Cosmi).cue" size="80" crc="00ce56f5" md5="fb23b2577b4fdca4558542a750bfd39b" sha1="b47900c7905e1177834e67c3bee9f52648b7d088"/>
+	</game>
+	<game name="1999 World Book (1999)(IBM)[International English Edition]">
+		<description>1999 World Book (1999)(IBM)[International English Edition]</description>
+		<rom name="1999 World Book (1999)(IBM)[International English Edition].bin" size="773375232" crc="45f177b1" md5="8fe37fbcb38b9e5d24da44869a39b2b0" sha1="d707ac38c396e662699192e7219f16c7ce1675af"/>
+		<rom name="1999 World Book (1999)(IBM)[International English Edition].cue" size="147" crc="0263912c" md5="353b94e4d6ac5a5b0bbf7eb32d16a4a2" sha1="a9e949e52b10ad288eae5cfbddda796fec37ce3e"/>
+	</game>
+	<game name="20th Century Day by Day (2001)(Global Software Publishing)(EU)">
+		<description>20th Century Day by Day (2001)(Global Software Publishing)(EU)</description>
+		<rom name="20th Century Day by Day (2001)(Global Software Publishing)(EU).bin" size="728073360" crc="2af5c783" md5="2e8e5582c0947e141c5dab53778f42e4" sha1="56de52b6ca1c136f52214ba18de149413a0d900a"/>
+		<rom name="20th Century Day by Day (2001)(Global Software Publishing)(EU).cue" size="151" crc="9192025c" md5="2e0120779508c2d3105e8b99d2b996cf" sha1="0baa1edd49b1ebbdb8c7640c407e0e13147f0c20"/>
+	</game>
+	<game name="27,500 Vector Clip Art (2001)(Nodtronics)(AU)">
+		<description>27,500 Vector Clip Art (2001)(Nodtronics)(AU)</description>
+		<rom name="27,500 Vector Clip Art (2001)(Nodtronics)(AU).bin" size="818521872" crc="5a945e4e" md5="d7ea1c6f1deacbce871151778e7475d8" sha1="ea76f843c225f9cde2b8b5b8840ee1421740a6ef"/>
+		<rom name="27,500 Vector Clip Art (2001)(Nodtronics)(AU).cue" size="134" crc="6924f01c" md5="51efac97ca61af76668ee4eab28298dd" sha1="e1a80ab2ae08a79fe903b4df566285a9b89efdd4"/>
+	</game>
+	<game name="3D ATLAS 98 v3.0 (1997)(Creative Wonders)(US)">
+		<description>3D ATLAS 98 v3.0 (1997)(Creative Wonders)(US)</description>
+		<rom name="3D ATLAS 98 v3.0 (1997)(Creative Wonders)(US).bin" size="729225840" crc="ed079d6d" md5="4a2a3de7113b4ae5dcb805bb0111e52a" sha1="6644e9d121cd35f7aee625f35bab77fc27bba2d0"/>
+		<rom name="3D ATLAS 98 v3.0 (1997)(Creative Wonders)(US).cue" size="134" crc="50d40a93" md5="bd9cce010e2295ad76ba2b0a37ea1caf" sha1="387c62337f00487f249773b2549b759eb1e21852"/>
+	</game>
+	<game name="AA Picture CD-ROM, The - Australia (2006)(Automobile Association Developments)">
+		<description>AA Picture CD-ROM, The - Australia (2006)(Automobile Association Developments)</description>
+		<rom name="AA Picture CD-ROM, The - Australia (2006)(Automobile Association Developments).bin" size="354681600" crc="ce4a5e3b" md5="154dc9dacbe7af057a954562bc36f224" sha1="bc82f97cfd802c81fd76e376f9ee27c6c472598c"/>
+		<rom name="AA Picture CD-ROM, The - Australia (2006)(Automobile Association Developments).cue" size="167" crc="a597608f" md5="ae468498b5c9fe21682838810dd24fd0" sha1="54fef015850f1291782f4fea196a06f1eac75587"/>
+	</game>
+	<game name="Adobe Photoshop CS4 Classroom in a Book (2009)(Adobe)">
+		<description>Adobe Photoshop CS4 Classroom in a Book (2009)(Adobe)</description>
+		<rom name="Adobe Photoshop CS4 Classroom in a Book (2009)(Adobe).bin" size="778399104" crc="79a39c43" md5="c46daf916adba4d30486980399b83d66" sha1="3d4525fa3d8ee31d41add6c5248831a70c684dc7"/>
+		<rom name="Adobe Photoshop CS4 Classroom in a Book (2009)(Adobe).cue" size="142" crc="aaff8b0d" md5="bfca9282a8ff4aa910689a11726b8dde" sha1="e6b58a6410c12a0f0c39d9eca9964f851c307eb5"/>
+	</game>
+	<game name="All New Discovery 3 (2004)(Land Rover)(AU)">
+		<description>All New Discovery 3 (2004)(Land Rover)(AU)</description>
+		<rom name="All New Discovery 3 (2004)(Land Rover)(AU).bin" size="210264096" crc="d3166f47" md5="f93e9902aa69a0c90de13ac34265ee9a" sha1="59045155310d6e52e453060ec72f0a9248a3b967"/>
+		<rom name="All New Discovery 3 (2004)(Land Rover)(AU).cue" size="131" crc="8482e6b0" md5="20f72ca644a8a2c38195d5e4342c9875" sha1="30ae90a2d805a6a2f8b6d9a4d4e80a922b4ef9d3"/>
+	</game>
+	<game name="Ansett Travel Planner (1997-10)(Ansett)(AU)">
+		<description>Ansett Travel Planner (1997-10)(Ansett)(AU)</description>
+		<rom name="Ansett Travel Planner (1997-10)(Ansett)(AU).bin" size="284763696" crc="358f35c0" md5="0b5ab9debf11291e5bc361154ee21662" sha1="99e3517534608941a513e343c0a9d66761fea200"/>
+		<rom name="Ansett Travel Planner (1997-10)(Ansett)(AU).cue" size="132" crc="58e329c1" md5="12334fbad41fca07628c37b46594d235" sha1="58dbffcccbe06c08b3b84056f56fa832f737ddf3"/>
+	</game>
+	<game name="Art of Illumination, The (2009)(Dover Publications)">
+		<description>Art of Illumination, The (2009)(Dover Publications)</description>
+		<rom name="Art of Illumination, The (2009)(Dover Publications).bin" size="674661792" crc="baceb431" md5="075fa99433ba98d0e1909c09aaae3219" sha1="2cb5f37400dedfbe2e00b55fe66723d2834275fa"/>
+		<rom name="Art of Illumination, The (2009)(Dover Publications).cue" size="140" crc="20c11242" md5="33d95e44692c19ae29395f96c6ebfde5" sha1="0e008d6c3c4ed4d01a5ec3a139f9fd6b037d507f"/>
+	</game>
+	<game name="Australia in Focus - Volume One (1995)(Creative Software Technologies)(AU)">
+		<description>Australia in Focus - Volume One (1995)(Creative Software Technologies)(AU)</description>
+		<rom name="Australia in Focus - Volume One (1995)(Creative Software Technologies)(AU).bin" size="130931136" crc="156c3630" md5="f0a2b792eef05b8de9c82db71d237b97" sha1="570f6ea44aad977b5c78bd1123bd352e4532fd7d"/>
+		<rom name="Australia in Focus - Volume One (1995)(Creative Software Technologies)(AU).cue" size="163" crc="2c96e548" md5="c3fbf06a43e8498bd79efe707b277349" sha1="289731128595a56dd243d0058b4eaae0f4aaf0bf"/>
+	</game>
+	<game name="Australia Screensaver (2000)(Outback Press)(AU)">
+		<description>Australia Screensaver (2000)(Outback Press)(AU)</description>
+		<rom name="Australia Screensaver (2000)(Outback Press)(AU).bin" size="4419408" crc="1cc58371" md5="d6b7ebd37efd9098d20cb0a375de82c5" sha1="598cec087b5f2f07ac7a380eb9120f75ecc92d38"/>
+		<rom name="Australia Screensaver (2000)(Outback Press)(AU).cue" size="136" crc="332c2568" md5="3d382bfcf74bb9b71480034e54944c07" sha1="af5fec533438fc0f3e8cba48fc549eae17c907bd"/>
+	</game>
+	<game name="Australian Birds (1995)(Websters Publishing)(AU)">
+		<description>Australian Birds (1995)(Websters Publishing)(AU)</description>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 01 of 22).bin" size="710304" crc="585eb522" md5="55fb4a8631b5f9e8231ffb7daab84a7f" sha1="a3f5fa7684beec85af4950d1fdf24ffa58527430"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 02 of 22).bin" size="34583808" crc="e5e173fa" md5="b0ed7de1d6cb02538586b36b2051df3e" sha1="4896dafe4a378f78d1bfb97a3455592d1f6585d9"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 03 of 22).bin" size="32351760" crc="361f85c3" md5="a84d7fdbf9926d17924530a87ce13280" sha1="8c9deb219c04df442c75cc06e671f1d3a866faab"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 04 of 22).bin" size="34644960" crc="c343b460" md5="6e8f899047c1a64eb19920bb27973324" sha1="20ec0981da070643e414aa5235adc208b950a364"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 05 of 22).bin" size="32093040" crc="f5dfb261" md5="d68cd633ff04db001ea8aa1b67ecde1b" sha1="318096755ebe8b64fc8b059ee2a01152bec17059"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 06 of 22).bin" size="34692000" crc="f0b0dbc2" md5="e9d7a3f7a0688644c0810e129aa8b337" sha1="4c8c1dbc9c6802c6bb25e4d792e5480f7d5c31e8"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 07 of 22).bin" size="29614032" crc="b3d20c8b" md5="ace708fa5e86a4b6f234aff4ffb8cf5e" sha1="ac3669ae19f39132fd4b6d5df25c80bce358319d"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 08 of 22).bin" size="32848032" crc="7ea2fc7c" md5="c0169eebc6284a625d82b933b71369dd" sha1="4e2bad3b9a6b469f53d86e112873406c081a51be"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 09 of 22).bin" size="30980544" crc="3aaee6b6" md5="ad04970850260fa25e083ec134986ba1" sha1="6460d3ff706d22d869c43f204a0ad65a9e6bbb96"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 10 of 22).bin" size="34644960" crc="fa228de7" md5="48181b7712397ab2ff3fd24a086a1222" sha1="03735b1c1ad4eb77348443ce49edda5f89af77d5"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 11 of 22).bin" size="34421520" crc="38f21e42" md5="c23b54091b2b88a20242c4e6023a0f16" sha1="aebb0ff114a2b15762564b959b2d310af7b58488"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 12 of 22).bin" size="30042096" crc="5593e184" md5="1836752f565edcfffc2bd841e9e92a1c" sha1="95eb8d16dd82d369e865defb455c30d01e2d13dc"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 13 of 22).bin" size="33276096" crc="89635f59" md5="ed1402e5575b0e9feb84fa5b6b9de938" sha1="bca2926bdc0435c896dadd337e4d24509fab67cd"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 14 of 22).bin" size="28988400" crc="b725b76c" md5="3c42691990b52553de8d13f2642b92a6" sha1="6ac9d81d5888a95d2f6a3bd43440fee08925466a"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 15 of 22).bin" size="34842528" crc="a37e02c7" md5="1e3f24bc0c9ee088c514f585d18843c4" sha1="1f4d0636e902631045b549d5a2ebe30a2285d07d"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 16 of 22).bin" size="34811952" crc="40a8b8a6" md5="432efb6161bcb06f1a8351c18bb9c184" sha1="883eb002e22e20fed43d58ecbece8de3197e1872"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 17 of 22).bin" size="34670832" crc="06eb231a" md5="3887cb42598accff7c7511bd618b6c58" sha1="16e28630badfaa261aefd3960a0fd6bdc66917fa"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 18 of 22).bin" size="34814304" crc="254a77cf" md5="18529f9d5bbf1bfc27587866db37ab84" sha1="dfa299de71755c0e9dc12baa4c205fb93d2b56cf"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 19 of 22).bin" size="34536768" crc="5e3bc1ec" md5="bcb4c127a0d024d0dbbf1763fb402d20" sha1="f376ed5e508bbb07e12543d8b786dddf024d3e5c"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 20 of 22).bin" size="34320384" crc="05b53198" md5="22ba4adc17c6e798f1171b85856cd49f" sha1="af6e9ba4795190863d9ca8f97fc030fdf860a1c9"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 21 of 22).bin" size="34804896" crc="e74250e1" md5="ccde58ffa73ed53d092cfee8d6ed0585" sha1="78b983f599cfe8f1ff780e134d08bf0ec4566579"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU) (Track 22 of 22).bin" size="30192624" crc="d4b40220" md5="6c764379319480bc29d38c4a09962f5f" sha1="56cbe31ae201005e40e9c99512d212661c5caf1d"/>
+		<rom name="Australian Birds (1995)(Websters Publishing)(AU).cue" size="3388" crc="b9f0cd19" md5="f9a883515e72c6235412d7951784475d" sha1="3482183c1e09be9e9c37cffbed44fb1ac1d3cc13"/>
+	</game>
+	<game name="Australian Birds v2 (1995)(Websters Publishing)(AU)">
+		<description>Australian Birds v2 (1995)(Websters Publishing)(AU)</description>
+		<rom name="Australian Birds v2 (1995)(Websters Publishing)(AU).cue" size="3454" crc="3f23fe3b" md5="dbfb8bdf8c9956591ceaa6b0a8553fff" sha1="0c9ceb0efd96f69a5149e5f4578541f1269fd05a"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 01 of 22).bin" size="710304" crc="af81cbc1" md5="ca28b376187549a90b6ed3c2acca00c1" sha1="833e607fdf61d09a6678ceccb38b40401afd35de"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 02 of 22).bin" size="34358016" crc="475d5226" md5="60115b49c0325425aa94279993234360" sha1="22356513e3ce9b427ecf433da7af2ea3b224cd07"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 03 of 22).bin" size="31556784" crc="ef2c8bc8" md5="63d9a099e361e4063b074f7a530fc21d" sha1="e770d8556ec94e83eb95782aae2f0dc598d4868c"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 04 of 22).bin" size="31693200" crc="31b0b3dc" md5="953395470686b7212917990d9f49dd51" sha1="7fcad17efd1edba2e858e802c940b9615c3a58bf"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 05 of 22).bin" size="30394896" crc="e33b4e3d" md5="cd53fde689a0be2b6a6496ba2089f7ce" sha1="c87c5bf90d867fb9774a5fb17d48137ea41e1ca0"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 06 of 22).bin" size="32238864" crc="905b2faf" md5="09785f9cf1fe266f0e3038582687e072" sha1="51ab4664db52eead3cc6de8d62289ca137de847f"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 07 of 22).bin" size="34536768" crc="7f443c76" md5="4a8218fb349518340233ed11e1b3ae3c" sha1="636970298244b1f56ad65a9b2d1dd340e6f42c83"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 08 of 22).bin" size="32095392" crc="17b8b20c" md5="ac9f1f133faa1a2862c369f542923946" sha1="dad8f26df901fdd21f6f34642f8a2765a9071c4a"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 09 of 22).bin" size="29773968" crc="87217750" md5="e0f49cdf7ae835c6778b791110581104" sha1="1d03519513153d98b101e2f6b03c158fd8bc023b"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 10 of 22).bin" size="31114608" crc="2638b749" md5="b61da27592cc36d351ecaf9368822f7f" sha1="5322427359550b9d91be5f5ed759b43e6c97c428"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 11 of 22).bin" size="30303168" crc="65201898" md5="0d8338342746578a3e11504490f2c975" sha1="1e118d0933d243f766950a1e2accd4a520fee248"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 12 of 22).bin" size="34717872" crc="1a44bf7d" md5="17c8fe49f4a57612058752644db6f625" sha1="4fc02d6e1636f793fd0d02a31f34cacafb419476"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 13 of 22).bin" size="33746496" crc="d4212874" md5="f510cc7f61a36324a6bab887ab3f71b4" sha1="bdfe9bb7e18ffed15ef210bdf1d743e2886f9aca"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 14 of 22).bin" size="31596768" crc="94a56305" md5="e349e8b2164d4deaac4364bdbbe708d1" sha1="f77c627a427d154768ef0cbcf146be0a27d7890b"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 15 of 22).bin" size="35124768" crc="77e2ca1b" md5="abab96d2230f74bfb6c1b28db838d6a8" sha1="2164be049a9d2d501ac32418c99a1d2baf4ddbf7"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 16 of 22).bin" size="35016576" crc="41ed26cb" md5="b4c5367064a81addf2b3e0596ee64a85" sha1="e2fa2244fd0730aa43f181755884d360528f63cb"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 17 of 22).bin" size="35197680" crc="7a8e356c" md5="eb80295501c9477de730a0d822661f00" sha1="7aededeeb29aec2deea4b7c683a9403bfe6e44d8"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 18 of 22).bin" size="35098896" crc="efde2003" md5="a715938606ab3dabb3dbacc965f4ea11" sha1="c55bdc356680353152945a7626f3b66bfd7acb40"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 19 of 22).bin" size="35200032" crc="58a029e6" md5="3c7810b1e7af674be0805bcab9bfb2e6" sha1="e87bcac31c7c0856984a57a11257def018144607"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 20 of 22).bin" size="35169456" crc="f6300685" md5="601cf8629669e2bd24c51e179a467ee7" sha1="0013c370bf406556b8658ace897f5756152d6b35"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 21 of 22).bin" size="35209440" crc="3ae5cc6d" md5="208cdcbcd3c62fe03e6b290a60743449" sha1="a94a6434e258a7d9836be65548c210f742f765e8"/>
+		<rom name="Australian Birds v2 (1996)(Websters Publishing)(AU) (Track 22 of 22).bin" size="6606768" crc="65b34bd8" md5="ddd039d4f0312d4393a01b8f8717b961" sha1="bc21ac1ebe3be93acfc0e9b88ccb672b0e8fb14c"/>
+	</game>
+	<game name="Australian Infopedia v1.5 (1995)(Future Vision Multimedia)(AU)">
+		<description>Australian Infopedia v1.5 (1995)(Future Vision Multimedia)(AU)</description>
+		<rom name="Australian Infopedia v1.5 (1995)(Future Vision Multimedia)(AU).bin" size="826083552" crc="c5cb839c" md5="f74e688977d5bd60bd77e0a0104a6ecf" sha1="ba2fad4f10f830131f05c357ca75ab9dd0ad54f0"/>
+		<rom name="Australian Infopedia v1.5 (1995)(Future Vision Multimedia)(AU).cue" size="151" crc="4506cd81" md5="e76867f6029cec6ea8732df3c6ef5c53" sha1="181597df1934b0c07a1f517b02b9b965028e8ee6"/>
+	</game>
+	<game name="Australian Infopedia v2.0 (1996)(Softkey Multimedia)(AU)">
+		<description>Australian Infopedia v2.0 (1996)(Softkey Multimedia)(AU)</description>
+		<rom name="Australian Infopedia v2.0 (1996)(Softkey Multimedia)(AU).bin" size="836121888" crc="b271b6f2" md5="e81934453eb4f61d2656a636d962d0ce" sha1="8b973cd2b503b11d184d9167500a02428c986d47"/>
+		<rom name="Australian Infopedia v2.0 (1996)(Softkey Multimedia)(AU).cue" size="145" crc="4598f09e" md5="0481a8ab0c98feb3cf94b070e9e2e549" sha1="9c26c4a70607669e24e985293076a00df1a59102"/>
+	</game>
+	<game name="Australian Native Fishes for Aquariums (1996)(Natural Learning)(AU)">
+		<description>Australian Native Fishes for Aquariums (1996)(Natural Learning)(AU)</description>
+		<rom name="Australian Native Fishes for Aquariums (1996)(Natural Learning)(AU).bin" size="65834832" crc="f0f8a94e" md5="3e56dae0e98cbae7ba7979f43e6dd5c4" sha1="cf51367dc38bb9c988cade9edeb82821fb5b1b87"/>
+		<rom name="Australian Native Fishes for Aquariums (1996)(Natural Learning)(AU).cue" size="156" crc="137224f7" md5="99be86dd33c346cd706e05a1db8ec94f" sha1="836294ad30d993c93d1632345b37ff26c9bb81ab"/>
+	</game>
+	<game name="Australian Native Fishes for Aquariums v2 (1996)(Natural Learning)(AU)">
+		<description>Australian Native Fishes for Aquariums v2 (1996)(Natural Learning)(AU)</description>
+		<rom name="Australian Native Fishes for Aquariums v2 (1996)(Natural Learning)(AU).bin" size="65474976" crc="c0c183b5" md5="63b2cdafe749b626d57f95c86b4f3304" sha1="23b8852ccd9535beac1909283ec8242610d0a188"/>
+		<rom name="Australian Native Fishes for Aquariums v2 (1996)(Natural Learning)(AU).cue" size="159" crc="c387757a" md5="7d812d803c6e78133a938b404959acc4" sha1="962a91676732c29d67136bcb5fcf4df40c0a1f59"/>
+	</game>
+	<game name="Ayrton Senna Racing In My Blood (1997)(Sirius)(AU)(Disc 1 of 2)">
+		<description>Ayrton Senna Racing In My Blood (1997)(Sirius)(AU)(Disc 1 of 2)</description>
+		<rom name="Ayrton Senna Racing In My Blood (1997)(Sirius)(AU)(Disc 1 of 2).bin" size="738711456" crc="f173c053" md5="7f671d91507d3b9fc1346844f33f0f26" sha1="d7d0f53427b060924faf350e8e8fe93769da2195"/>
+		<rom name="Ayrton Senna Racing In My Blood (1997)(Sirius)(AU)(Disc 1 of 2).cue" size="167" crc="befdb19c" md5="f72e103dd4e673810fe331fb1a63fc93" sha1="5b9c53e360f6327bae9b879947883193a1e7b6ba"/>
+	</game>
+	<game name="Ayrton Senna Racing In My Blood (1997)(Sirius)(AU)(Disc 2 of 2)">
+		<description>Ayrton Senna Racing In My Blood (1997)(Sirius)(AU)(Disc 2 of 2)</description>
+		<rom name="Ayrton Senna Racing In My Blood (1997)(Sirius)(AU)(Disc 2 of 2).bin" size="491426880" crc="c1f53b10" md5="5c51892286644ee783f170d4c6bf76e9" sha1="d88b90ff4c5c3ffbbcf5f379e89d2bdddfb2e7fe"/>
+		<rom name="Ayrton Senna Racing In My Blood (1997)(Sirius)(AU)(Disc 2 of 2).cue" size="167" crc="3e2e9412" md5="84d4657468205b4154cfadefb10419df" sha1="649765883431e3199d362787259d061892188243"/>
+	</game>
+	<game name="Baywatch Companion with Screensaver, The (1995)(Byron Preiss Multimedia)(US)">
+		<description>Baywatch Companion with Screensaver, The (1995)(Byron Preiss Multimedia)(US)</description>
+		<rom name="Baywatch Companion with Screensaver, The (1995)(Byron Preiss Multimedia)(US).bin" size="725046336" crc="804445f1" md5="5fc6e36f9d3318f9213087baa282d315" sha1="b5096ff0d84c264fa0e3e0d9b6de62e0b7e9f0e4"/>
+		<rom name="Baywatch Companion with Screensaver, The (1995)(Byron Preiss Multimedia)(US).cue" size="165" crc="c9e7546b" md5="4222aa9c5d68b6071d372296f1f84009" sha1="7d09231941d0184129bd8a139c276d7a7f9779e0"/>
+	</game>
+	<game name="Britannica CD 98 Standard Edition (1998)(Encyclopedia Britannica)(Disc 1 of 2)">
+		<description>Britannica CD 98 Standard Edition (1998)(Encyclopedia Britannica)(Disc 1 of 2)</description>
+		<rom name="Britannica CD 98 Standard Edition (1998)(Encyclopedia Britannica)(Disc 1 of 2).bin" size="315022176" crc="702ff4c4" md5="f23b6699beab968865bfc05fe0559f4e" sha1="b1bde481f9b0c8af49eff6beaa29037957d16c5e"/>
+		<rom name="Britannica CD 98 Standard Edition (1998)(Encyclopedia Britannica)(Disc 1 of 2).cue" size="167" crc="5d90385c" md5="c9e5f764218d41de4977009436b92f92" sha1="a111db20843d7ee05974a4db4ca778195faed19f"/>
+	</game>
+	<game name="Britannica CD 98 Standard Edition (1998)(Encyclopedia Britannica)(Disc 2 of 2)">
+		<description>Britannica CD 98 Standard Edition (1998)(Encyclopedia Britannica)(Disc 2 of 2)</description>
+		<rom name="Britannica CD 98 Standard Edition (1998)(Encyclopedia Britannica)(Disc 2 of 2).bin" size="771147888" crc="55bbf03f" md5="2d1c1ac033ad1ea619fb5a7a8c13a7e6" sha1="a3cf7bd8f0b696040870770027435368cf94c14c"/>
+		<rom name="Britannica CD 98 Standard Edition (1998)(Encyclopedia Britannica)(Disc 2 of 2).cue" size="167" crc="112312f5" md5="e770d8835b985de6aac1b782ad4c7f21" sha1="6ebfad0204c70a1c5635af1a76cc55b1c563a7ff"/>
+	</game>
+	<game name="Burning Secrets - If These Walls Could Talk Part 2 (1995)(Arcus Media Group)[PC-Mac]">
+		<description>Burning Secrets - If These Walls Could Talk Part 2 (1995)(Arcus Media Group)[PC-Mac]</description>
+		<rom name="Burning Secrets - If These Walls Could Talk Part 2 (1995)(Arcus Media Group)[PC-Mac].bin" size="771303120" crc="5c125319" md5="80b7408fb421196f784e11d91ab61f44" sha1="a985f41781afb6ec61ffb87e8851ee3950c44390"/>
+		<rom name="Burning Secrets - If These Walls Could Talk Part 2 (1995)(Arcus Media Group)[PC-Mac].cue" size="173" crc="7c13efcd" md5="79d9b58880266556c2abd70bccc9ab5c" sha1="b8c3e96c916743435fea77ba55504594e0b64ab5"/>
+	</game>
+	<game name="Celluloid Heroes Australian Film 1977 to 1996 (1997)(Webster Publishing)(AU)">
+		<description>Celluloid Heroes Australian Film 1977 to 1996 (1997)(Webster Publishing)(AU)</description>
+		<rom name="Celluloid Heroes Australian Film 1977 to 1996 (1997)(Webster Publishing)(AU).bin" size="713573280" crc="6d42f805" md5="3a566a2bf700026dfdc5e1d00a9eeb85" sha1="9d2fca9d63c04bbdc06ac5f9411cd3ad665facae"/>
+		<rom name="Celluloid Heroes Australian Film 1977 to 1996 (1997)(Webster Publishing)(AU).cue" size="166" crc="8c2f5ed7" md5="230ec1c0482608b9cd79d432898d8b10" sha1="3da1a114c4e1d826ddc4d5027a118421de2f8937"/>
+	</game>
+	<game name="Cocktail Classics (1997)(Softkey)">
+		<description>Cocktail Classics (1997)(Softkey)</description>
+		<rom name="Cocktail Classics (1997)(Softkey).bin" size="330112608" crc="7bd903f5" md5="e383e91941724f784e79dda7daeeb396" sha1="7beb32c47700dfa39eb129afe3f89fa0a4bb902e"/>
+		<rom name="Cocktail Classics (1997)(Softkey).cue" size="122" crc="eeae444c" md5="c827151dd9a6cfd3cecf25898b00677e" sha1="5cb305e1000ed3d81e9b3465efdd70037258b7a5"/>
+	</game>
+	<game name="Colour Printing With HP Series 1 (1997)(Hewlett Packard)">
+		<description>Colour Printing With HP Series 1 (1997)(Hewlett Packard)</description>
+		<rom name="Colour Printing With HP Series 1 (1997)(Hewlett Packard).bin" size="623058912" crc="98c56bc2" md5="e2c0993d70bb888cde23e2a55136655d" sha1="37ef5082ee9114e051651bab744df200b3315dfe"/>
+		<rom name="Colour Printing With HP Series 1 (1997)(Hewlett Packard).cue" size="145" crc="7b57fb09" md5="fefa287b84ba5cd09357f21ad334ab0f" sha1="f5e99cebc517e9bc8f0c33cbd48d6c0c5e5d9e71"/>
+	</game>
+	<game name="Complete PC Tutorial, The (1997)(Wesbster Publishing)(AU)">
+		<description>Complete PC Tutorial, The (1997)(Wesbster Publishing)(AU)</description>
+		<rom name="Complete PC Tutorial, The (1997)(Wesbster Publishing)(AU).bin" size="727337184" crc="a2c8b822" md5="bef4543d6d36633f242dbbdbff9e0de5" sha1="c0c9547096f5af5569a17f58c4677b84a50e93e1"/>
+		<rom name="Complete PC Tutorial, The (1997)(Wesbster Publishing)(AU).cue" size="146" crc="dda6fe48" md5="5af326776c3dfba24b514e1912b174b6" sha1="5808746063e48273310516b1ede3b1bdfe3da80e"/>
+	</game>
+	<game name="Completely New Camry (2006)(Toyota)(AU)">
+		<description>Completely New Camry (2006)(Toyota)(AU)</description>
+		<rom name="Completely New Camry (2006)(Toyota)(AU).bin" size="669727296" crc="8833deb3" md5="242fc611dd379eec034d26d15789b23b" sha1="951e7c8f9c5e3d16e4257eadd9c18fffb54addff"/>
+		<rom name="Completely New Camry (2006)(Toyota)(AU).cue" size="128" crc="a55f29b4" md5="ebe4b660a4357b08af9bbd5842f5929b" sha1="4aff68eaf69e64f7bd258b512516910eb73965c9"/>
+	</game>
+	<game name="Compton's Encyclopedia 2000 (1999)(Broderbund)">
+		<description>Compton's Encyclopedia 2000 (1999)(Broderbund)</description>
+		<rom name="Compton's Encyclopedia 2000 (1999)(Broderbund).bin" size="726219984" crc="cfa67cd1" md5="cb06cf6ac94ac4b1faf77c6dc8ff4b09" sha1="145eae0f4b9995082a846fda063fb947b66f5517"/>
+		<rom name="Compton's Encyclopedia 2000 (1999)(Broderbund).cue" size="135" crc="4fd22b4a" md5="8082cfb99f5a6bcce69abc1dc48b43b2" sha1="725f19a201bd3bf7394c885a7672cd93907d7d1e"/>
+	</game>
+	<game name="Cook'n With Betty Crocker (2003)(DVO Enterprises)">
+		<description>Cook'n With Betty Crocker (2003)(DVO Enterprises)</description>
+		<rom name="Cook'n With Betty Crocker (2003)(DVO Enterprises).bin" size="777105504" crc="2e5c4d4f" md5="ea643b7abf342823075829142f44cecf" sha1="458aeb5f0e4ddc694cd9afa1a7ab7a58f94a82c3"/>
+		<rom name="Cook'n With Betty Crocker (2003)(DVO Enterprises).cue" size="138" crc="18a0457f" md5="9691b09a897b210b2dc620431a88daa0" sha1="cda7040d88659d5bee24bbfb73cc27cd545c20e1"/>
+	</game>
+	<game name="Corel Gallery Magic (1997)(Corel)(Disc 1 of 2)">
+		<description>Corel Gallery Magic (1997)(Corel)(Disc 1 of 2)</description>
+		<rom name="Corel Gallery Magic (1997)(Corel)(Disc 1 of 2).bin" size="776037696" crc="feabcc8c" md5="78889d8b2933bd7e2b0725bc0d22afc0" sha1="96837943f5e2de34d37a51d74014656ff146914c"/>
+		<rom name="Corel Gallery Magic (1997)(Corel)(Disc 1 of 2).cue" size="135" crc="f13d7be8" md5="41e6dcfe9203811738300c56f6e8d70e" sha1="d4a66707c361e774a09d3f6f3857ef1e84be27b6"/>
+	</game>
+	<game name="Corel Gallery Magic (1997)(Corel)(Disc 2 of 2)">
+		<description>Corel Gallery Magic (1997)(Corel)(Disc 2 of 2)</description>
+		<rom name="Corel Gallery Magic (1997)(Corel)(Disc 2 of 2).bin" size="729025920" crc="845072eb" md5="233dbffb607fb3bcbac98bf33005a299" sha1="750ad877737832d5bfdde4bcb92fa1a65d842024"/>
+		<rom name="Corel Gallery Magic (1997)(Corel)(Disc 2 of 2).cue" size="135" crc="bd8e5141" md5="b74531c840b1801ff3da518b1dd3b0a8" sha1="363f66fd7b1560d277ef6116c0b1ba75c4fbec78"/>
+	</game>
+	<game name="David Hart Interactive CD-ROM (1998)(Hart, David)(AU)">
+		<description>David Hart Interactive CD-ROM (1998)(Hart, David)(AU)</description>
+		<rom name="David Hart Interactive CD-ROM (1998)(Hart, David)(AU).bin" size="563804976" crc="bd45c52c" md5="dc846f1c85d39b9a371fd01ca607232f" sha1="5fb567b545cc2b2ca1c0b3430aa3a0c5368ed4e9"/>
+		<rom name="David Hart Interactive CD-ROM (1998)(Hart, David)(AU).cue" size="142" crc="5f13e573" md5="34082ecd7420c06015ae413c32c384ce" sha1="19630bcc0d4dd0a31bdc262cb8d0372e97dc4a2d"/>
+	</game>
+	<game name="Diabetes Resource Hub, The (1996)(Eli Lilly Australia)(AU)">
+		<description>Diabetes Resource Hub, The (1996)(Eli Lilly Australia)(AU)</description>
+		<rom name="Diabetes Resource Hub, The (1996)(Eli Lilly Australia)(AU).bin" size="253035216" crc="c8589670" md5="fa9ac47e174ccfe95bb72809b3674be0" sha1="5b021c1e032b6903b7dd4679f352b420c8130828"/>
+		<rom name="Diabetes Resource Hub, The (1996)(Eli Lilly Australia)(AU).cue" size="147" crc="340b6c94" md5="2fc78d1aa5d48abf67e86319b67757e6" sha1="a0ca936616379fd2c76152e0a97e1140ddb4bfbd"/>
+	</game>
+	<game name="Encyclopedia Britannica - The Human Body (2005)(QA International)[PC-Mac]">
+		<description>Encyclopedia Britannica - The Human Body (2005)(QA International)[PC-Mac]</description>
+		<rom name="Encyclopedia Britannica - The Human Body (2005)(QA International)[PC-Mac].bin" size="689735760" crc="4d0c8467" md5="2fcabdbe93cd2265bd7584d0f7f46b01" sha1="467667a12bb52757a7c0b7ac7af75bf241bfc0bb"/>
+		<rom name="Encyclopedia Britannica - The Human Body (2005)(QA International)[PC-Mac].cue" size="163" crc="affc7406" md5="138927dc796ece767c6df203bb0aa1aa" sha1="7096360395327bd1ba0c7f57470b2bfecbeda3b7"/>
+	</game>
+	<game name="Endless Summer, The (1994)(Sirius)(AU)(Disc 1 of 3)">
+		<description>Endless Summer, The (1994)(Sirius)(AU)(Disc 1 of 3)</description>
+		<rom name="Endless Summer, The (1994)(Sirius)(AU)(Disc 1 of 3).bin" size="600324480" crc="3ab735dd" md5="43cef35f63a49a5882b2383816d2e75e" sha1="55781fa48a6387259b8f2bdd367b179dcb0fe8b0"/>
+		<rom name="Endless Summer, The (1994)(Sirius)(AU)(Disc 1 of 3).cue" size="155" crc="ddefde6a" md5="9a33bd062c6fee99ccc9433ec3bff115" sha1="180fbf0926d7a4bddafbc5045b043597f63c8266"/>
+	</game>
+	<game name="Endless Summer, The (1994)(Sirius)(AU)(Disc 2 of 3)">
+		<description>Endless Summer, The (1994)(Sirius)(AU)(Disc 2 of 3)</description>
+		<rom name="Endless Summer, The (1994)(Sirius)(AU)(Disc 2 of 3).bin" size="594933696" crc="36ef8c5b" md5="604c8c2ceec247661d21721597fd1ffc" sha1="2c5bca8cf3ef540a111af4a89aa8bb62f63844fd"/>
+		<rom name="Endless Summer, The (1994)(Sirius)(AU)(Disc 2 of 3).cue" size="140" crc="891a07a1" md5="c1945fdfba5a83f1a3096b92de51387a" sha1="d7a707d7d28ba0d5d3cb2dbf5e04577cc5836d1f"/>
+	</game>
+	<game name="Endless Summer, The (1994)(Sirius)(AU)(Disc 3 of 3)">
+		<description>Endless Summer, The (1994)(Sirius)(AU)(Disc 3 of 3)</description>
+		<rom name="Endless Summer, The (1994)(Sirius)(AU)(Disc 3 of 3).bin" size="507949680" crc="fe62d09a" md5="bb3a12bcfe7acb482fb2961df177bb1f" sha1="47dda2f5a8e82bc72cad96f908a4a793c4473681"/>
+		<rom name="Endless Summer, The (1994)(Sirius)(AU)(Disc 3 of 3).cue" size="155" crc="945d1aa1" md5="4f0530206cabc03317b6bfd7a5304b6d" sha1="fdb18b89d79c432744d75c69bab799f5a48dc1d2"/>
+	</game>
+	<game name="Family Zoo Animal Encyclopedia (1994)(Top-Thunder Technologies)(US)">
+		<description>Family Zoo Animal Encyclopedia (1994)(Top-Thunder Technologies)(US)</description>
+		<rom name="Family Zoo Animal Encyclopedia (1994)(Top-Thunder Technologies)(US).bin" size="516132288" crc="3ffbf451" md5="bd53003db30db90d22876ca0d6fd09fc" sha1="b9a89033029db4a35e088dd7dbd3eb1c1d9b03ee"/>
+		<rom name="Family Zoo Animal Encyclopedia (1994)(Top-Thunder Technologies)(US).cue" size="156" crc="313a08fd" md5="51bb3492f46bcfa613aaf0d440b913f1" sha1="eaa524adda272a005148a0cb544bc5860f455d59"/>
+	</game>
+	<game name="Flash 3D Animation Interactivity and Games (2006)(Focal Press)">
+		<description>Flash 3D Animation Interactivity and Games (2006)(Focal Press)</description>
+		<rom name="Flash 3D Animation Interactivity and Games (2006)(Focal Press).bin" size="118837152" crc="fe60c7fb" md5="53e604e5c9d42bfc909feecbaed22178" sha1="7dbde3a2cb97be3d5da0b006b4c8ebd37f2de5b6"/>
+		<rom name="Flash 3D Animation Interactivity and Games (2006)(Focal Press).cue" size="151" crc="4aad2dde" md5="bc4669f15edb4ca00643ebe4cd3429bd" sha1="bc72ecadd75de57d0f841d9d727f858d760fdd12"/>
+	</game>
+	<game name="Frogs of Australia (1997)(Webster Publishing)(AU)">
+		<description>Frogs of Australia (1997)(Webster Publishing)(AU)</description>
+		<rom name="Frogs of Australia (1997)(Webster Publishing)(AU).bin" size="267636432" crc="3e2f2f20" md5="cd3b62225cd03553a295791003891c62" sha1="d643f73295cc53cb3ed29a94dffa0fe827019bdd"/>
+		<rom name="Frogs of Australia (1997)(Webster Publishing)(AU).cue" size="138" crc="6a22bad8" md5="eec64dae7f4b3b27204d818458a7792d" sha1="071b7a94810a4f77fd219206491903e4e023e0df"/>
+	</game>
+	<game name="Garden Designer (1996)(GSP)">
+		<description>Garden Designer (1996)(GSP)</description>
+		<rom name="Garden Designer (1996)(GSP).bin" size="95705232" crc="aa420ada" md5="61945ce2b26be520c9247949e79bda18" sha1="12c43ed7d496adbd05c00ea7136513914b6c8e04"/>
+		<rom name="Garden Designer (1996)(GSP).cue" size="116" crc="9c491784" md5="fcf8e2cd3cee502f32069c3a92cedee0" sha1="d2cc4b7214f387733f29570cfeae672d758cda8b"/>
+	</game>
+	<game name="Geomundo Atlas Multimedia (1998)(Hewlett Packard)(AR)">
+		<description>Geomundo Atlas Multimedia (1998)(Hewlett Packard)(AR)</description>
+		<rom name="Geomundo Atlas Multimedia (1998)(Hewlett Packard)(AR).bin" size="611364768" crc="90fec0c6" md5="13e8ade29005a347862aa671c9126e10" sha1="3fda79de260c0ba1b94fca215681a96f7a787749"/>
+		<rom name="Geomundo Atlas Multimedia (1998)(Hewlett Packard)(AR).cue" size="142" crc="a2a0f3ca" md5="20f2db26f37f37aaabcd70787b7f519d" sha1="c4e0479ea5656f7414577dfee289af371443ea48"/>
+	</game>
+	<game name="Great Generals of the 20th Century, The (1998)(Marshall Media)(GB)">
+		<description>Great Generals of the 20th Century, The (1998)(Marshall Media)(GB)</description>
+		<rom name="Great Generals of the 20th Century, The (1998)(Marshall Media)(GB).bin" size="764138928" crc="0351b1d1" md5="704f4c30f01dee5d03b00fb52292c327" sha1="bf9352378cd23cc6257d81aac9ed114386d856ce"/>
+		<rom name="Great Generals of the 20th Century, The (1998)(Marshall Media)(GB).cue" size="155" crc="6aa03133" md5="dd641c178e6940a25e3494eb87a79842" sha1="ee2ef4db444ce1ef98ecda87b68a37bce906dbe0"/>
+	</game>
+	<game name="GSP Wine Cellar v2 (1998)(Global Software Publishing)">
+		<description>GSP Wine Cellar v2 (1998)(Global Software Publishing)</description>
+		<rom name="GSP Wine Cellar v2 (1998)(Global Software Publishing).bin" size="8942304" crc="0aab4bbf" md5="8aee708cee9bc90c03a7c46e3eec4de4" sha1="406135628f4ccdc54a92fe2f3d15cac3546561ea"/>
+		<rom name="GSP Wine Cellar v2 (1998)(Global Software Publishing).cue" size="142" crc="c79b2505" md5="6296e57d03a90992054fb05d72e0b6b3" sha1="ba889549e076b81e4823d9c9d3bb1a900e6f6d76"/>
+	</game>
+	<game name="Interactive Geography Geodome Landforms (1998)(Attica Interactive)">
+		<description>Interactive Geography Geodome Landforms (1998)(Attica Interactive)</description>
+		<rom name="Interactive Geography Geodome Landforms (1998)(Attica Interactive).bin" size="602314272" crc="7f658120" md5="fe0b7f980b51aea31d75bbf80893283f" sha1="3e35406ceadb550757905972035459ef0515fbb6"/>
+		<rom name="Interactive Geography Geodome Landforms (1998)(Attica Interactive).cue" size="155" crc="6f74dfd6" md5="c64b4042662d66949a7cb9ce1d0520a5" sha1="516a3531e122b23d72e1b107f04f2bf22b870fcf"/>
+	</game>
+	<game name="Internet for Dummies, The (1999)(IDG Books)[australian edition]">
+		<description>Internet for Dummies, The (1999)(IDG Books)[australian edition]</description>
+		<rom name="Internet for Dummies, The (1999)(IDG Books)[australian edition].bin" size="339913392" crc="80c7d603" md5="cad40ef1d94cd2db0472716a178d1f55" sha1="3ee44074e3c7f0b5537891cf10fdeab0371eb834"/>
+		<rom name="Internet for Dummies, The (1999)(IDG Books)[australian edition].cue" size="152" crc="f032c6f8" md5="19599b1361bff084d12ac9b04de7da02" sha1="a054fbd0c2e3803cb3ff022b911e3efd879b26a5"/>
+	</game>
+	<game name="Isaac Asimov Science Adventure II (1994)(Knowledge Adventure)(US)">
+		<description>Isaac Asimov Science Adventure II (1994)(Knowledge Adventure)(US)</description>
+		<rom name="Isaac Asimov Science Adventure II (1994)(Knowledge Adventure)(US).bin" size="749358960" crc="f7e5e121" md5="a2accf9461987b8a0cb96f876eef0767" sha1="2695a8b0a40bddab5f826bd4c05f9b1d45061248"/>
+		<rom name="Isaac Asimov Science Adventure II (1994)(Knowledge Adventure)(US).cue" size="154" crc="bbb76a4d" md5="1cdf091ba068ff2a0822ba7348a7e6e4" sha1="1bbab20218aa1d6b2309d74fa3520aaa34e4f36e"/>
+	</game>
+	<game name="Jacaranda Interactive Atlas Of Australia v1.0a (2001)(John Wiley &amp; Sons)(AU)">
+		<description>Jacaranda Interactive Atlas Of Australia v1.0a (2001)(John Wiley &amp; Sons)(AU)</description>
+		<rom name="Jacaranda Interactive Atlas Of Australia v1.0a (2001)(John Wiley &amp; Sons)(AU).bin" size="572427408" crc="aae49b15" md5="a485a45e14f0a416799a8cadfbd6a7a4" sha1="9a2879819339cfcae4bcd14a07a0adb51fe6e644"/>
+		<rom name="Jacaranda Interactive Atlas Of Australia v1.0a (2001)(John Wiley &amp; Sons)(AU).cue" size="165" crc="22cbe4e6" md5="9e7eba9e725d3a1d9e715f4f1b9edced" sha1="5453c48bc9727398c9c53984f886ae3c4435b21f"/>
+	</game>
+	<game name="Key Healthy Indulgences (1996)(SoftKey International)">
+		<description>Key Healthy Indulgences (1996)(SoftKey International)</description>
+		<rom name="Key Healthy Indulgences (1996)(SoftKey International).bin" size="645586368" crc="ea654624" md5="18a1bcbad34a47eb5bc7216e97a2993e" sha1="c7db70306b1b3412b508e4f5153c2620a34bb0fe"/>
+		<rom name="Key Healthy Indulgences (1996)(SoftKey International).cue" size="142" crc="75519369" md5="317580663bc50451a5148ee3aee3c1ed" sha1="9e022b0171b1c20582d9d27964ee83421dfd6fd7"/>
+	</game>
+	<game name="Legendary Clips No 1 (1995)(Legend Multimedia)">
+		<description>Legendary Clips No 1 (1995)(Legend Multimedia)</description>
+		<rom name="Legendary Clips No 1 (1995)(Legend Multimedia).bin" size="531987120" crc="8a2b4868" md5="97acfe7fe659953a75dfec8058aeecef" sha1="29d517370e077235432175484cb5100daf7fac5a"/>
+		<rom name="Legendary Clips No 1 (1995)(Legend Multimedia).cue" size="135" crc="8716cce2" md5="83bd60928cb7f1148c1ea0a8932f9384" sha1="421ae73c6bbdbe9235c80d921dbd8b7155ffa7c4"/>
+	</game>
+	<game name="Make-A-Mix Cookbook, The (1995)(Pinpoint Publishing)">
+		<description>Make-A-Mix Cookbook, The (1995)(Pinpoint Publishing)</description>
+		<rom name="Make-A-Mix Cookbook, The (1995)(Pinpoint Publishing).bin" size="7453488" crc="c969597c" md5="97a79959e114f50888374d7a323a3a73" sha1="f5c1579c075c5f4b1577257b539f87e4be82cb3f"/>
+		<rom name="Make-A-Mix Cookbook, The (1995)(Pinpoint Publishing).cue" size="141" crc="0c643bee" md5="01a18bb4b459fbd460f0bb96d85956f1" sha1="8e0278d3ea463273b0b0b15adffefc06c9ef44c7"/>
+	</game>
+	<game name="Mastering Microsoft Access 97 (1997)(Sybex)[Fourth Edition]">
+		<description>Mastering Microsoft Access 97 (1997)(Sybex)[Fourth Edition]</description>
+		<rom name="Mastering Microsoft Access 97 (1997)(Sybex)[Fourth Edition].bin" size="53263392" crc="efc965a6" md5="dc654a95993a827c5e81daadb4401ad9" sha1="3078e1aaa0a88ad1b95304096c51acbd025d0da1"/>
+		<rom name="Mastering Microsoft Access 97 (1997)(Sybex)[Fourth Edition].cue" size="148" crc="949b303c" md5="c313363be1726fda3ad89a94a501e6c0" sha1="a6467743b24a33d91a6e73f6fc4027a3e7aeed58"/>
+	</game>
+	<game name="Mastermind (1996)(BBC Worldwide)">
+		<description>Mastermind (1996)(BBC Worldwide)</description>
+		<rom name="Mastermind (1996)(BBC Worldwide).bin" size="652386000" crc="3fdcd98f" md5="58980b939894588b287ad7693a4c3d5d" sha1="09dc10f5eecf454f8ee25bd9127fb9ecd0b140aa"/>
+		<rom name="Mastermind (1996)(BBC Worldwide).cue" size="121" crc="2bbbd7b5" md5="540e838fc05900f5410d3e24e8a72c78" sha1="9bcb4468fea1ec25c1075a07c3f8c244aa0ddb15"/>
+	</game>
+	<game name="Microsoft Ancient Lands (1994)(Microsoft)">
+		<description>Microsoft Ancient Lands (1994)(Microsoft)</description>
+		<rom name="Microsoft Ancient Lands (1994)(Microsoft).bin" size="682035312" crc="3b6898c1" md5="2965a33296082a49f9364c31fb338360" sha1="a12bc0744198f42a10d6aa17937a2af916c88ba6"/>
+		<rom name="Microsoft Ancient Lands (1994)(Microsoft).cue" size="130" crc="b836483c" md5="fa6813593e823a97abab104017abb1da" sha1="a257c0395e0067efd05c4799450287b60cdf2eac"/>
+	</game>
+	<game name="Microsoft Art Gallery (1993-08)(Microsoft)">
+		<description>Microsoft Art Gallery (1993-08)(Microsoft)</description>
+		<rom name="Microsoft Art Gallery (1993-08)(Microsoft).bin" size="772552032" crc="45a7f236" md5="9fc590c1b7a67408977ea30a2e7eab36" sha1="a5344f5934a37141e7953049793638e13fdb2207"/>
+		<rom name="Microsoft Art Gallery (1993-08)(Microsoft).cue" size="131" crc="7277348a" md5="9b95fa75255c04ef22972fd736203090" sha1="09a78f924f4584ebf4e00c8f11618ace8c562eed"/>
+	</game>
+	<game name="Microsoft Bookshelf for Windows 1991 Edition (1991)(Microsoft)">
+		<description>Microsoft Bookshelf for Windows 1991 Edition (1991)(Microsoft)</description>
+		<rom name="Microsoft Bookshelf for Windows 1991 Edition (1991)(Microsoft).bin" size="752578848" crc="c04adc0a" md5="797065f8ee4475c78aef0681a287dccd" sha1="9fe970dfe0ccd1a5f80b67f816eaa81452b21b3a"/>
+		<rom name="Microsoft Bookshelf for Windows 1991 Edition (1991)(Microsoft).cue" size="151" crc="5cddfae9" md5="d4202aaa02b2e7f8b7db6541adaa24eb" sha1="8d7e24370cdca1695dd8fa36da73cf90fc4b3f04"/>
+	</game>
+	<game name="Microsoft Cinemania 97 (1996-07)(Microsoft)[OEM]">
+		<description>Microsoft Cinemania 97 (1996-07)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Cinemania 97 (1996-07)(Microsoft)[OEM].bin" size="730027872" crc="1c979fd0" md5="2a6c2a1c882d05b62f39c4bd4d894668" sha1="74623a142146b03824f1784ebdf11c0ecff584d5"/>
+		<rom name="Microsoft Cinemania 97 (1996-07)(Microsoft)[OEM].cue" size="137" crc="6b18a154" md5="8ac64835c1189e8beb72a67d07607057" sha1="7f85c9f495f45dc961052ae52eae7833194ccd3b"/>
+	</game>
+	<game name="Microsoft Dinosaurs (1994-03)(Microsoft)">
+		<description>Microsoft Dinosaurs (1994-03)(Microsoft)</description>
+		<rom name="Microsoft Dinosaurs (1994-03)(Microsoft).bin" size="463532160" crc="f035b50b" md5="1b0d938f9dffc1629c6609859ad57697" sha1="540d1361576a7311b0896b673b8bf1e01765183e"/>
+		<rom name="Microsoft Dinosaurs (1994-03)(Microsoft).cue" size="129" crc="de9eb5db" md5="79a6636f52b7d9033b701c91df2baeb6" sha1="bacdd915e7c990f995cac7d709e9749250fb6be2"/>
+	</game>
+	<game name="Microsoft Encarta (1992-09)(Microsoft)">
+		<description>Microsoft Encarta (1992-09)(Microsoft)</description>
+		<rom name="Microsoft Encarta (1992-09)(Microsoft).bin" size="781282656" crc="6b1ac0fb" md5="cfcec7eb457034a48ce3c9ecbb58260d" sha1="185d42f9e6aeda6bb61608b37a587572700c952d"/>
+		<rom name="Microsoft Encarta (1992-09)(Microsoft).cue" size="127" crc="5a528538" md5="db48504b6682e727624c7bea349f9ab1" sha1="886c2502ddf18687a3abae679f1e70c10be10a7f"/>
+	</game>
+	<game name="Microsoft Encarta 95 (1994-09)(Microsoft)[OEM]">
+		<description>Microsoft Encarta 95 (1994-09)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Encarta 95 (1994-09)(Microsoft)[OEM].bin" size="776581008" crc="93d8c6de" md5="4759bc672ccf80895d9f903af0202c77" sha1="e4605364a7959cafd7a6a899773ee84dc988b525"/>
+		<rom name="Microsoft Encarta 95 (1994-09)(Microsoft)[OEM].cue" size="135" crc="34e27fd0" md5="ff22d89096d7d1fc218275c488a399de" sha1="18e095b9b6460440b01c7bb545a1f489740e96ba"/>
+	</game>
+	<game name="Microsoft Encarta 96 Encyclopedia (1995)(Microsoft)[World English Edition]">
+		<description>Microsoft Encarta 96 Encyclopedia (1995)(Microsoft)[World English Edition]</description>
+		<rom name="Microsoft Encarta 96 Encyclopedia (1995)(Microsoft)[World English Edition].bin" size="781868304" crc="5ceec2e5" md5="52a1c49bcbe08f83dea48469172b554d" sha1="04c0529a1a5a4a68da1c049253dbdf42802aebc0"/>
+		<rom name="Microsoft Encarta 96 Encyclopedia (1995)(Microsoft)[World English Edition].cue" size="163" crc="96823a83" md5="a71e62399acdcd52352ea60f4f603ee0" sha1="b6454a39b08a4f7e7ca821ca3fe747084abd7637"/>
+	</game>
+	<game name="Microsoft Encarta 96 Encyclopedia (1995-08)(Microsoft)[OEM]">
+		<description>Microsoft Encarta 96 Encyclopedia (1995-08)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Encarta 96 Encyclopedia (1995-08)(Microsoft)[OEM].bin" size="782917296" crc="184609f0" md5="6ac8b2af260dbc018e8bd9747f17edd7" sha1="5f24f7fb0b046617e223669df9a87e1f64289050"/>
+		<rom name="Microsoft Encarta 96 Encyclopedia (1995-08)(Microsoft)[OEM].cue" size="148" crc="a4740612" md5="08b1cdf88bc63c9910809e47cfa15991" sha1="6943866a798cbac132b454886dc96411c9474b5a"/>
+	</game>
+	<game name="Microsoft Encarta 97 Encyclopedia (1996-08)(Microsoft)[OEM]">
+		<description>Microsoft Encarta 97 Encyclopedia (1996-08)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Encarta 97 Encyclopedia (1996-08)(Microsoft)[OEM].bin" size="779739744" crc="0c21805b" md5="73cf0896d618a9bced3de3d68e6c0e9c" sha1="b24fe6cf09446a3a130257d45d2f09ba1153a4a8"/>
+		<rom name="Microsoft Encarta 97 Encyclopedia (1996-08)(Microsoft)[OEM].cue" size="148" crc="67a9851a" md5="7e4218eebfe5026cfc237cccf82b903b" sha1="b091445499f9d386a279e9ef40286b0bb35c2df0"/>
+	</game>
+	<game name="Microsoft Encarta 98 Encyclopedia (1997)(Microsoft)[International Edition]">
+		<description>Microsoft Encarta 98 Encyclopedia (1997)(Microsoft)[International Edition]</description>
+		<rom name="Microsoft Encarta 98 Encyclopedia (1997)(Microsoft)[International Edition].bin" size="624627696" crc="62273317" md5="a533c9aacaa2622c1347642b5a47225e" sha1="c90260ba7962e212e581d487b15afc2828981a5f"/>
+		<rom name="Microsoft Encarta 98 Encyclopedia (1997)(Microsoft)[International Edition].cue" size="163" crc="15c0e637" md5="8852b2486024b0fc026623514ee5c223" sha1="41f343f14da86c82047a7023f9d5e0d7d0d78fbe"/>
+	</game>
+	<game name="Microsoft Encarta Encyclopedia 99 (1998)(Microsoft)(Disc 1 of 2)">
+		<description>Microsoft Encarta Encyclopedia 99 (1998)(Microsoft)(Disc 1 of 2)</description>
+		<rom name="Microsoft Encarta Encyclopedia 99 (1998)(Microsoft)(Disc 1 of 2).bin" size="592600512" crc="6970bd0a" md5="7582fddf7690773342d4b825de18328b" sha1="c3d3f598555b3a50db044cec7a5e65cf0b76a921"/>
+		<rom name="Microsoft Encarta Encyclopedia 99 (1998)(Microsoft)(Disc 1 of 2).cue" size="153" crc="80327ca8" md5="ee505fed7c18868ff39c1d7599d3012b" sha1="eaedd5738a55435e2fe1faea5463b49442321730"/>
+	</game>
+	<game name="Microsoft Encarta Encyclopedia 99 (1998)(Microsoft)(Disc 2 of 2)">
+		<description>Microsoft Encarta Encyclopedia 99 (1998)(Microsoft)(Disc 2 of 2)</description>
+		<rom name="Microsoft Encarta Encyclopedia 99 (1998)(Microsoft)(Disc 2 of 2).bin" size="524646528" crc="e0f95cb1" md5="eb7e55752d3d8c76020eaef15f5c22ef" sha1="1a86eca1f625463d84ff74212d2a105eec8e3f0e"/>
+		<rom name="Microsoft Encarta Encyclopedia 99 (1998)(Microsoft)(Disc 2 of 2).cue" size="153" crc="cc815601" md5="e8f882a6a071114736dcf491f37e3b3f" sha1="972e91d7b3f922861bac8a2d2ac0ca53225b8615"/>
+	</game>
+	<game name="Microsoft Encarta Interactive World Atlas 2001 (2000)(Microsoft)(Disc 1 of 2)">
+		<description>Microsoft Encarta Interactive World Atlas 2001 (2000)(Microsoft)(Disc 1 of 2)</description>
+		<rom name="Microsoft Encarta Interactive World Atlas 2001 (2000)(Microsoft)(Disc 1 of 2).bin" size="717837456" crc="bd299cd2" md5="877615661e71994d2b2a18ba51dfe139" sha1="7a1fee3c09ec61f64023b4f8346bceae6a1b9d58"/>
+		<rom name="Microsoft Encarta Interactive World Atlas 2001 (2000)(Microsoft)(Disc 1 of 2).cue" size="166" crc="0a0c291a" md5="fa4e83444c29bf818909eb54f5330ff8" sha1="5668c736cfc6318c0f6abb9457d1621da3ceb580"/>
+	</game>
+	<game name="Microsoft Encarta Interactive World Atlas 2001 (2000)(Microsoft)(Disc 2 of 2)">
+		<description>Microsoft Encarta Interactive World Atlas 2001 (2000)(Microsoft)(Disc 2 of 2)</description>
+		<rom name="Microsoft Encarta Interactive World Atlas 2001 (2000)(Microsoft)(Disc 2 of 2).bin" size="461046096" crc="06874354" md5="6f5945277f441a9d247c088def5dc594" sha1="0745beb984be2a35cbc4374336ef6bcb8c1775ac"/>
+		<rom name="Microsoft Encarta Interactive World Atlas 2001 (2000)(Microsoft)(Disc 2 of 2).cue" size="166" crc="46bf03b3" md5="3cd5a640da37b44d4627b4bab85e5b13" sha1="fda68dc6195720191236cc0c198c8200b7d9028a"/>
+	</game>
+	<game name="Microsoft Encarta Resource Centre (1998-07)(Microsoft)">
+		<description>Microsoft Encarta Resource Centre (1998-07)(Microsoft)</description>
+		<rom name="Microsoft Encarta Resource Centre (1998-07)(Microsoft).bin" size="128520336" crc="edb8a269" md5="1c288734d142ff470adbeab91dfc5b79" sha1="b012084db197697ce9c3922591ae1586d7d56385"/>
+		<rom name="Microsoft Encarta Resource Centre (1998-07)(Microsoft).cue" size="143" crc="21125580" md5="21c87debf667758d7c3dee7faa32a689" sha1="716436705c2bcf548ef1a5feb772536bc8be05f4"/>
+	</game>
+	<game name="Microsoft Encarta World Edition 1998 Edition (1997)(Microsoft)">
+		<description>Microsoft Encarta World Edition 1998 Edition (1997)(Microsoft)</description>
+		<rom name="Microsoft Encarta World Edition 1998 Edition (1997)(Microsoft).bin" size="743067360" crc="60a95192" md5="476d122c8f12bc15e7c77b569b81e138" sha1="d69f28404408da73c53c93d91aa1b4c1a65756d9"/>
+		<rom name="Microsoft Encarta World Edition 1998 Edition (1997)(Microsoft).cue" size="151" crc="49fbda56" md5="158a286e5a4458f5b4851eae159faa3c" sha1="98303a91b885a28d15e6a41459031283c45e8c3d"/>
+	</game>
+	<game name="Microsoft Money 2000 Standard (1999-09)(Microsoft)[OEM]">
+		<description>Microsoft Money 2000 Standard (1999-09)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Money 2000 Standard (1999-09)(Microsoft)[OEM].bin" size="180356064" crc="e71940af" md5="447599012a8ff4f0a1157fe1c9fae6f9" sha1="541af3ab5e4e850c9f20bad211f972e1a4a06d71"/>
+		<rom name="Microsoft Money 2000 Standard (1999-09)(Microsoft)[OEM].cue" size="144" crc="3dd937e7" md5="bec0b9d9eb1cdc44ab86f374a413b6ec" sha1="d1b6684ce4907dc81fb8bbd60bdebb7fddcf5bed"/>
+	</game>
+	<game name="Microsoft Multimedia Beethoven - The Ninth Symphony (1992)(Microsoft)">
+		<description>Microsoft Multimedia Beethoven - The Ninth Symphony (1992)(Microsoft)</description>
+		<rom name="Microsoft Multimedia Beethoven - The Ninth Symphony (1992)(Microsoft) (Track 1 of 6).bin" size="6091680" crc="382b2ae7" md5="c9048c5a7a6f52c499047e2fc9ce6fbb" sha1="cec4aa5fd2e74fa0538d5ac22790b3a11b959b93"/>
+		<rom name="Microsoft Multimedia Beethoven - The Ninth Symphony (1992)(Microsoft) (Track 2 of 6).bin" size="181656720" crc="b0c8b684" md5="eb79cf0e78aef86bed2a3e328c92ad2d" sha1="fdf74c68e1f4caeabd7d9e4c618b74000db32be8"/>
+		<rom name="Microsoft Multimedia Beethoven - The Ninth Symphony (1992)(Microsoft) (Track 3 of 6).bin" size="107573424" crc="882b669d" md5="077ef71dba3df0b8898748ba9ad1110c" sha1="03d17c8e1eaef83344d5677ae1dedaa32148b8f8"/>
+		<rom name="Microsoft Multimedia Beethoven - The Ninth Symphony (1992)(Microsoft) (Track 4 of 6).bin" size="167838720" crc="8d9e2ecd" md5="fa3e90f1611c9a82127b6ce35f4ee7d0" sha1="a9ed5dedee0fb92b093cd3d4927bf33fa70618d8"/>
+		<rom name="Microsoft Multimedia Beethoven - The Ninth Symphony (1992)(Microsoft) (Track 5 of 6).bin" size="272413344" crc="6bb30e92" md5="5701886f4f62e7076087abaada2f8662" sha1="fc3c0befadf746f46bf8d75e2ac2cc884a2730ad"/>
+		<rom name="Microsoft Multimedia Beethoven - The Ninth Symphony (1992)(Microsoft) (Track 6 of 6).bin" size="11983440" crc="35e1d015" md5="b744a72d9f603e00049d3810d99bd9fe" sha1="36065c5fe7b00a46eda9c4ce357adc2f7cb75668"/>
+		<rom name="Microsoft Multimedia Beethoven - The Ninth Symphony (1992)(Microsoft).cue" size="1013" crc="ef7561e7" md5="05fc5f752b587783569e1e82c042bef3" sha1="8109f88a318f2abcf8f524e7cd93cabbb5334de9"/>
+	</game>
+	<game name="Microsoft Musical Instruments (1994-05)(Microsoft)[OEM]">
+		<description>Microsoft Musical Instruments (1994-05)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Musical Instruments (1994-05)(Microsoft)[OEM].bin" size="570733968" crc="74125f16" md5="5258ca0a5f66dd5f7051c0a64cdfa355" sha1="cc84b85acc216effb76be4f7f64fce37bef7a909"/>
+		<rom name="Microsoft Musical Instruments (1994-05)(Microsoft)[OEM].cue" size="144" crc="1871b866" md5="884e5179c70c106ac747b508b6b1c9ee" sha1="3d0651d2b74f18fe169579f97e2edc003f8da350"/>
+	</game>
+	<game name="Milo Cereal Gilly Desktop Coach (2006)(DNA Digital Media Group)(AU)">
+		<description>Milo Cereal Gilly Desktop Coach (2006)(DNA Digital Media Group)(AU)</description>
+		<rom name="Milo Cereal Gilly Desktop Coach (2006)(DNA Digital Media Group)(AU).bin" size="171999408" crc="791f3a99" md5="5c0af3a099a5149e9b7b916cd999a57c" sha1="e3d20caefc0b198f45d8579f152cc4c635b8f079"/>
+		<rom name="Milo Cereal Gilly Desktop Coach (2006)(DNA Digital Media Group)(AU).cue" size="156" crc="3327eedb" md5="cf323e71fc3b163cb078b52148993ccf" sha1="80115c8deb14c2fa48620306915cf51be91c4cc1"/>
+	</game>
+	<game name="Miracles of the Sea, The (1996)(Focus Multimedia)(GB)">
+		<description>Miracles of the Sea, The (1996)(Focus Multimedia)(GB)</description>
+		<rom name="Miracles of the Sea, The (1996)(Focus Multimedia)(GB).bin" size="724441872" crc="981d5be9" md5="0f0bbb0daf020b3718d39be93fb01952" sha1="3c15ed3e56f6fdd54637da86bebd275fe6b082b4"/>
+		<rom name="Miracles of the Sea, The (1996)(Focus Multimedia)(GB).cue" size="142" crc="84e7f57e" md5="8ceed4b910af15171fd9ddb7aa78d909" sha1="fa6a4dd24d8269fb3015670bc4032412c61ae860"/>
+	</game>
+	<game name="Motor Performance Car Of The Year (2004)(ACP)(AU)">
+		<description>Motor Performance Car Of The Year (2004)(ACP)(AU)</description>
+		<rom name="Motor Performance Car Of The Year (2004)(ACP)(AU).bin" size="496420176" crc="a68de588" md5="b0999cc38bbaa674d7499a3ef624cabe" sha1="10ffdcf55f845a6845865e7e9c8be44c612a1688"/>
+		<rom name="Motor Performance Car Of The Year (2004)(ACP)(AU).cue" size="138" crc="c5a2a1ca" md5="c76864e0e97fefa4c16faf817b687103" sha1="83a3fc189131c84aec0f2e551dc19233aff6cd9f"/>
+	</game>
+	<game name="Motorcycle Registry Vol 2 (1996)(Arc Media)">
+		<description>Motorcycle Registry Vol 2 (1996)(Arc Media)</description>
+		<rom name="Motorcycle Registry Vol 2 (1996)(Arc Media).bin" size="211538880" crc="1d3e750d" md5="a3d2086acd49f4b34b1443ff95f161e6" sha1="d78b069889ecb392d24895d9f045574c2f92a752"/>
+		<rom name="Motorcycle Registry Vol 2 (1996)(Arc Media).cue" size="132" crc="976926b0" md5="5d1628a072bc412bc85e1047056bad1f" sha1="823965580e23129ccaec021017b5143b74a02a1b"/>
+	</game>
+	<game name="MP3 Underground (2001)(Que)">
+		<description>MP3 Underground (2001)(Que)</description>
+		<rom name="MP3 Underground (2001)(Que).bin" size="341667984" crc="f5422444" md5="e41e7f110b7255d4030f0398c14e16a1" sha1="bf407de62cb1117fe8d3f6c65384ac885026694c"/>
+		<rom name="MP3 Underground (2001)(Que).cue" size="116" crc="963f3a45" md5="aa70c1bf5b770063b315394b941a67c7" sha1="2d88e967427bb17106455beebece467dd016e29c"/>
+	</game>
+	<game name="Multiplayer Gaming and Engine Coding for the Torque Game Engine (2008)(GarageGames)">
+		<description>Multiplayer Gaming and Engine Coding for the Torque Game Engine (2008)(GarageGames)</description>
+		<rom name="Multiplayer Gaming and Engine Coding for the Torque Game Engine (2008)(GarageGames).bin" size="134656704" crc="c67cbb3a" md5="f77fd5b9413d58170817826e71af6611" sha1="85de824e8f7c15219564fcc03dde6db6cbc49df2"/>
+		<rom name="Multiplayer Gaming and Engine Coding for the Torque Game Engine (2008)(GarageGames).cue" size="172" crc="a2954608" md5="5532bd795d1418c68d8a23cb2bdc1211" sha1="da53deb020b41f36370ca2e8da37f9472719bf8c"/>
+	</game>
+	<game name="Mummy - Tomb of the Pharaoh (1996)(Interplay Productions)">
+		<description>Mummy - Tomb of the Pharaoh (1996)(Interplay Productions)</description>
+		<rom name="Mummy - Tomb of the Pharaoh (1996)(Interplay Productions).bin" size="698280576" crc="6ab24584" md5="425b4651727b7281e5a671f6f29aa8a8" sha1="de74ba63d4c2d5c458a5fd1a77682adf3cd18b24"/>
+		<rom name="Mummy - Tomb of the Pharaoh (1996)(Interplay Productions).cue" size="146" crc="dacca48f" md5="5d37d76c3ee8f98c530ecbe080b7abf7" sha1="c5312f32a821fb4a682094a0a135a2df5c3c197f"/>
+	</game>
+	<game name="New Ford RTV Ute (2003)(Ford)(AU)">
+		<description>New Ford RTV Ute (2003)(Ford)(AU)</description>
+		<rom name="New Ford RTV Ute (2003)(Ford)(AU).bin" size="27381984" crc="367f4283" md5="917d90d66a6c678bf5bfaef58c92c082" sha1="0a193b70f4b1b65878842837e201b6c893725887"/>
+		<rom name="New Ford RTV Ute (2003)(Ford)(AU).cue" size="122" crc="81ee3b32" md5="7e9c6f76aa973c6547bdadd152b54ba5" sha1="d89a8260237fc2c61dafaa934edc6435aa3e6232"/>
+	</game>
+	<game name="New Grollier Multimedia Encycolpedia, The (1993)(Grollier)[OEM]">
+		<description>New Grollier Multimedia Encycolpedia, The (1993)(Grollier)[OEM]</description>
+		<rom name="New Grollier Multimedia Encycolpedia, The (1993)(Grollier)[OEM].bin" size="778394400" crc="b00e9147" md5="62bc8a259889b8b7ff38aa6f88afd1d1" sha1="6f2af899dd1c77f5b35c455212c547e0c1b7b1bb"/>
+		<rom name="New Grollier Multimedia Encycolpedia, The (1993)(Grollier)[OEM].cue" size="152" crc="e0336cc7" md5="3d3ff3299a4dcd3292ed7d1550111c42" sha1="8a6431e9af5bdb516fea05e989602d8a89caab32"/>
+	</game>
+	<game name="New Way Things Work, The v3.01 (1998)(Dorling Kindersley)">
+		<description>New Way Things Work, The v3.01 (1998)(Dorling Kindersley)</description>
+		<rom name="New Way Things Work, The v3.01 (1998)(Dorling Kindersley).bin" size="725119248" crc="600cfdd9" md5="b4e949df8d41686338832a6a0b61df55" sha1="0bd73c51ec85b7bd446c021dfdd4ab69b4ff2998"/>
+		<rom name="New Way Things Work, The v3.01 (1998)(Dorling Kindersley).cue" size="146" crc="99efa18e" md5="53cf1f07c47fc0a63492cdb294ba23f3" sha1="e0ecd4b8fcae9ae534540c81a73eb1e52dd88d6f"/>
+	</game>
+	<game name="Oxford Interactive Encyclopedia, The v1.1 (1997)(The Learning Company)">
+		<description>Oxford Interactive Encyclopedia, The v1.1 (1997)(The Learning Company)</description>
+		<rom name="Oxford Interactive Encyclopedia, The v1.1 (1997)(The Learning Company).bin" size="741030528" crc="50af30a8" md5="796e14363d226cbecf79198eefbf8184" sha1="75ce3212910a01e7c614884cef174ee2910384a4"/>
+		<rom name="Oxford Interactive Encyclopedia, The  v1.1 (1997)(The Learning Company).cue" size="160" crc="f21fad32" md5="c6ffe27aed819c3ba461b5612a037545" sha1="1700d3dffead4d663ff4c48beb00b7ede5ba2d34"/>
+	</game>
+	<game name="Perspectives on an Ocean Planet (1994)(California Institute of Technology)(US)">
+		<description>Perspectives on an Ocean Planet (1994)(California Institute of Technology)(US)</description>
+		<rom name="Perspectives on an Ocean Planet (1994)(California Institute of Technology)(US).bin" size="559124496" crc="e14abed8" md5="bb20438c41b1ae7cf1a313f70dedfe14" sha1="247898140ce5d657efebc1cb276ce284c3edba8f"/>
+		<rom name="Perspectives on an Ocean Planet (1994)(California Institute of Technology)(US).cue" size="167" crc="53c943e3" md5="f56aacbd625058b944b60d9078a94a84" sha1="2c7fc49686a0b57a0a909e9f7f2be1eabc7cda69"/>
+	</game>
+	<game name="San Diego Zoo Presents, The... The Animals! v1.0.4 (1992)(Software Toolworks)[PC-Mac]">
+		<description>San Diego Zoo Presents, The... The Animals! v1.0.4 (1992)(Software Toolworks)[PC-Mac]</description>
+		<rom name="San Diego Zoo Presents, The... The Animals! v1.0.4 (1992)(Software Toolworks)[PC-Mac].bin" size="717073056" crc="b33c9210" md5="68a9d1d897901babbcec3fc5211bbd14" sha1="532a6e6a62eedb0aca032aa616790689930d4496"/>
+		<rom name="San Diego Zoo Presents, The... The Animals! v1.0.4 (1992)(Software Toolworks)[PC-Mac].cue" size="174" crc="a65a901b" md5="d8346eb5a9635df6b3ecb4d3751f76a2" sha1="cf35c6bdb76e453ee905bf893af72ef3aa92bc21"/>
+	</game>
+	<game name="Snakes of Australia (1997)(Wesbster Publishing)(AU)">
+		<description>Snakes of Australia (1997)(Wesbster Publishing)(AU)</description>
+		<rom name="Snakes of Australia (1997)(Wesbster Publishing)(AU).bin" size="408182544" crc="6d1f4624" md5="3698faf95181c2e7230575466499d7d3" sha1="413513949719356c583c844faf9deb403590469d"/>
+		<rom name="Snakes of Australia (1997)(Wesbster Publishing)(AU).cue" size="140" crc="b28efa5e" md5="eaddd69d1edc8f7191ec2984ef41907f" sha1="74ed3a4a4b1ee9711e66da785b265ab21dc66529"/>
+	</game>
+	<game name="Solar System Explorer (1996)(Maris Multimedia)">
+		<description>Solar System Explorer (1996)(Maris Multimedia)</description>
+		<rom name="Solar System Explorer (1996)(Maris Multimedia).bin" size="735933744" crc="ec54c14e" md5="569e9d789dd6d7da335b095300b2ef5a" sha1="57caa2276e08030fd03c359bb3b6480b81ed157c"/>
+		<rom name="Solar System Explorer (1996)(Maris Multimedia).cue" size="135" crc="ef1a7433" md5="4d287e2d7c087fa4c25bc3747aee7c1c" sha1="729274c733c716a79137d674d5dd40fea419f5a9"/>
+	</game>
+	<game name="Space &amp; Astronomy (1998)(Walnut Creek)(US)">
+		<description>Space &amp; Astronomy (1998)(Walnut Creek)(US)</description>
+		<rom name="Space &amp; Astronomy (1998)(Walnut Creek)(US).bin" size="688303392" crc="1935d3d2" md5="21e003ea17ec77b210925bd0da5df88a" sha1="f1dd877d8e867b74e3a13a0e7329a278d6b9c9fe"/>
+		<rom name="Space &amp; Astronomy (1998)(Walnut Creek)(US).cue" size="131" crc="3d927c42" md5="5e657ffc4b534db6eee85cf1db415f90" sha1="274969a1ae3ed52981ec331aefc9d7df4b83fadc"/>
+	</game>
+	<game name="Space Race, The (1995)(Flagtower)">
+		<description>Space Race, The (1995)(Flagtower)</description>
+		<rom name="Space Race, The (1995)(Flagtower).bin" size="562278528" crc="996950c6" md5="c5ec2b13f40b76a169d7ab594d092644" sha1="55397db3df9da73d8c45b41823ccd79f310f4001"/>
+		<rom name="Space Race, The (1995)(Flagtower).cue" size="122" crc="959c279b" md5="ab60a12c26e0cecc4330774d05b1b89e" sha1="20f36ac00246875e98dddcf180ee1377c6df9772"/>
+	</game>
+	<game name="Special Edition Using Office 97 (1997)(Que)">
+		<description>Special Edition Using Office 97 (1997)(Que)</description>
+		<rom name="Special Edition Using Office 97 (1997)(Que).bin" size="383695872" crc="937e117d" md5="8eb897841d500e793da24d0eecf8a472" sha1="7abb91ba6558cd3143a1f65e1eba66c0c9b86bf0"/>
+		<rom name="Special Edition Using Office 97 (1997)(Que).cue" size="132" crc="9d7d0ba2" md5="5528e775ae4857604ae3162a17e56aa4" sha1="854070cd7996b3b289c3c06177ade3cb94921a92"/>
+	</game>
+	<game name="Thematic NIV Study Bible, The (1999)(Hodder &amp; Stoughton)(US)">
+		<description>Thematic NIV Study Bible, The (1999)(Hodder &amp; Stoughton)(US)</description>
+		<rom name="Thematic NIV Study Bible, The (1999)(Hodder &amp; Stoughton)(US).bin" size="141181152" crc="8704ae7f" md5="67e8187131f440bec2eac295849a9d62" sha1="0bd8d5d736d46cccc3e58c06496a2a3a0ec641ef"/>
+		<rom name="Thematic NIV Study Bible, The (1999)(Hodder &amp; Stoughton)(US).cue" size="149" crc="14850feb" md5="9d6fd187762d24f04cd6b1930d0affad" sha1="f94001efe3f8f7509854273fd7f68fe0dcbfb98e"/>
+	</game>
+	<game name="To Flush Isn't the End of the Line (2005)(Healthy Waterways)(AU)">
+		<description>To Flush Isn't the End of the Line (2005)(Healthy Waterways)(AU)</description>
+		<rom name="To Flush Isn't the End of the Line (2005)(Healthy Waterways)(AU).bin" size="481786032" crc="f2beb2b8" md5="110318491f0dce09d572319dcc84917b" sha1="fe32c04496ed49253348b9af3665c6975df4b5fa"/>
+		<rom name="To Flush Isn't the End of the Line (2005)(Healthy Waterways)(AU).cue" size="153" crc="c1008337" md5="bb4c323f9e419379b31e44447b8aa278" sha1="d774da711b28bef3e31dd475cc4b0fd8853fb0a4"/>
+	</game>
+	<game name="TRD Toyota Supercharged (2007)(Toyota)(AU)">
+		<description>TRD Toyota Supercharged (2007)(Toyota)(AU)</description>
+		<rom name="TRD Toyota Supercharged (2007)(Toyota)(AU).bin" size="256306848" crc="00e39be7" md5="8b7878355708255a78b00426d9fbbdbd" sha1="94fe977b5608bf6220ddc7ac65951a92c98145b0"/>
+		<rom name="TRD Toyota Supercharged (2007)(Toyota)(AU).cue" size="131" crc="5c397d18" md5="8cbbea1727601e0cafb7e5846ca7e7ef" sha1="c607d3d5f66566799955c3413a609885a7f74b56"/>
+	</game>
+	<game name="Waltzing Matilda (2000)(Webster Publishing)(AU)">
+		<description>Waltzing Matilda (2000)(Webster Publishing)(AU)</description>
+		<rom name="Waltzing Matilda (2000)(Webster Publishing)(AU).bin" size="770223552" crc="96afbdcf" md5="d76fefac9d442cc3c4d10449870ddb39" sha1="a714391ab7cc48b3951cbf9cabd14a829dfb23fa"/>
+		<rom name="Waltzing Matilda (2000)(Webster Publishing)(AU).cue" size="136" crc="d2826909" md5="aa6f5c7361975c06f85f3357dd332a7a" sha1="04e120573bac370b8494cd34ce5ceef139f2fb22"/>
+	</game>
+	<game name="Websters Concise Encyclopedia CD-Rom for Windows (1995)(Attica Cybernetics)">
+		<description>Websters Concise Encyclopedia CD-Rom for Windows (1995)(Attica Cybernetics)</description>
+		<rom name="Websters Concise Encyclopedia CD-Rom for Windows (1995)(Attica Cybernetics).bin" size="722238048" crc="264927bb" md5="c1639f6622a222cbc706876a4090f854" sha1="51c07f65adb87b743673f4035285215ae6764d12"/>
+		<rom name="Websters Concise Encyclopedia CD-Rom for Windows (1995)(Attica Cybernetics).cue" size="164" crc="b07f868b" md5="bf5b921be3b540062e82aa7ed8268e78" sha1="2dba2645752c1e4efb0b11636bf09e32246d7e9c"/>
+	</game>
+	<game name="Weird (1997)(Electric Sheep)">
+		<description>Weird (1997)(Electric Sheep)</description>
+		<rom name="Weird (1997)(Electric Sheep).bin" size="779488080" crc="20238193" md5="c803e0fd3236388e0d7700b62921b083" sha1="432eed8f1d75e3b42c37c8f017a8af277d0488db"/>
+		<rom name="Weird (1997)(Electric Sheep).cue" size="117" crc="229634f7" md5="00d777779e6749a79bf6ec5111b58540" sha1="f34ffe6be9e05336842a36872c1aa52844127308"/>
+	</game>
+</datafile>

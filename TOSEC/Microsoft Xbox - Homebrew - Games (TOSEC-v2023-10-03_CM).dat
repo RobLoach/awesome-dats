@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft Xbox - Homebrew - Games</name>
+		<description>Microsoft Xbox - Homebrew - Games (TOSEC-v2023-10-03)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-10-03</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Shark! Shark! (2023-05-03)(erfg12)[no audio]">
+		<description>Shark! Shark! (2023-05-03)(erfg12)[no audio]</description>
+		<rom name="Shark! Shark! (2023-05-03)(erfg12)[no audio].iso" size="17104896" crc="e72b9ec7" md5="d054548469385769c086b57ecd8d9250" sha1="b79da08edc0ebd52f75ddb57e39f780b8fc2f576"/>
+	</game>
+</datafile>

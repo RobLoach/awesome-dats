@@ -2,88 +2,83 @@ clrmamepro (
 	name "ScummVM MACVENTURE"
 	description "ScummVM - MACVENTURE Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2016-10-02
+	version v1.05
+	date 2021-11-09
 	author Gruby
 	forcemerging split
 	forcenodump required
 )
 
 game (
-	name dejavu
-	description "Deja Vu: A Nightmare Comes True (Zojoi Rerelease/Macintosh)[!]"
+	name deja_vu
+	description "Deja Vu: A Nightmare Comes True (Macintosh)[Zojoi Rerelease][!]"
 	year 1985
 	manufacturer "ICOM Simulations"
 	sourcefile macventure
-	rom ( name "._Deja About" size 32768 crc 291b8fbb md5 b97f2f66023dfa4aaa0c3fefbcccd191 )
-	rom ( name "._Deja Diploma" size 8192 crc e0395800 md5 61595ca565f4df504fef2dd86a942433 )
-	rom ( name "._Deja Game" size 4096 crc 331cae85 md5 8946f27d59306544d4bc7b4b485cc4e1 )
-	rom ( name "._Deja Title" size 12288 crc c14b5f6f md5 bf5979d74b318d09f68c89fea2054199 )
-	rom ( name "._Deja Vu.bin" size 73728 crc 93b6d525 md5 df62b9d161652508d516502ba7f64ad2 )
-	rom ( name ._StartupScreen size 4096 crc 92009a4d md5 8381dddbd09fced5772231d8cf14397c )
-	rom ( name "Deja About" size 0 crc 00000000 )
-	rom ( name "Deja Diploma" size 0 crc 00000000 )
-	rom ( name "Deja Game" size 7804 crc 8a37fa90 md5 df4d9a398f9b93a6194abdf63c501d35 )
-	rom ( name "Deja Title" size 0 crc 00000000 )
-	rom ( name "Deja Vu 2\Deja Filter" size 17969 crc b33d4d4e md5 0f7befb2bba0d27f9c9a5c057a856d70 )
-	rom ( name "Deja Vu 2\Deja Graphic" size 287643 crc 28acd1c7 md5 1961b8301a481a6b83ca137f805fbbf2 )
-	rom ( name "Deja Vu 2\Deja Object" size 5132 crc ccc4e71a md5 6a80684284e276d371aa3c1b0c494318 )
-	rom ( name "Deja Vu 2\Deja Sound" size 93953 crc 1dde0715 md5 4058fabe5318259f67c66086aa089a5e )
-	rom ( name "Deja Vu 2\Deja Text" size 48660 crc ed566e92 md5 7e9335e30d2a1cd044648234e5a5f81d )
-	rom ( name "Deja Vu.bin" size 0 crc 00000000 )
-	rom ( name StartupScreen size 21888 crc 3802631d md5 e5131a3f90feba529062de08d96a860c )
+	rom ( name "Deja About" size 32768 crc 291b8fbb md5 b97f2f66023dfa4aaa0c3fefbcccd191 sha1 bbf014b2416f47c2c8db23e79603ca094f947485 )
+	rom ( name "Deja Diploma" size 8192 crc e0395800 md5 61595ca565f4df504fef2dd86a942433 sha1 c445a56161a906dc783fba96f35043e595211759 )
+	rom ( name "Deja Game" size 7804 crc 8a37fa90 md5 df4d9a398f9b93a6194abdf63c501d35 sha1 e99513132b61c26c49a89092b7b274f884b211e4 )
+	rom ( name "Deja Title" size 12288 crc c14b5f6f md5 bf5979d74b318d09f68c89fea2054199 sha1 1307fc3575909481d8cc00f6fa9eae95d3f3b589 )
+	rom ( name "Deja Vu 2\Deja Filter" size 17969 crc b33d4d4e md5 0f7befb2bba0d27f9c9a5c057a856d70 sha1 97039caa743c25e5d47f5e91ac7b2f02b773eb7d )
+	rom ( name "Deja Vu 2\Deja Graphic" size 287643 crc 28acd1c7 md5 1961b8301a481a6b83ca137f805fbbf2 sha1 a00794dbad914e0ce938e7333a6c5aabb279f91f )
+	rom ( name "Deja Vu 2\Deja Object" size 5132 crc ccc4e71a md5 6a80684284e276d371aa3c1b0c494318 sha1 ef8b7394404805573ef17dbfbb95459b6c3acd86 )
+	rom ( name "Deja Vu 2\Deja Sound" size 93953 crc 1dde0715 md5 4058fabe5318259f67c66086aa089a5e sha1 cd2ce62261cd395e1c4f6b84cbe29d865af42b9f )
+	rom ( name "Deja Vu 2\Deja Text" size 48660 crc ed566e92 md5 7e9335e30d2a1cd044648234e5a5f81d sha1 7b1c3897f3fa31eb3cf24ac1c74b0e799fc7a5f7 )
+	rom ( name "Deja Vu.bin" size 70656 crc e6d3a1fb md5 f1527104e1e2a3e4fd4761d2052298a0 sha1 4436f738953e1754c63d0395ff770f8a5312b9a3 )
+	rom ( name StartupScreen size 21888 crc 3802631d md5 e5131a3f90feba529062de08d96a860c sha1 0cecbc2a5f1d349809755b8a31bc290866d868be )
 )
 
 game (
-	name dejavu2
-	description "Deja Vu II: Lost in Las Vegas (Zojoi Rerelease/Macintosh)[!]"
+	name deja_vu2
+	description "Deja Vu II: Lost in Las Vegas (Macintosh)[Zojoi Rerelease][!]"
 	year 1988
 	manufacturer "ICOM Simulations"
 	sourcefile macventure
-	rom ( name "._Lost in Las Vegas.bin" size 69632 crc dada766a md5 60da1caf3b86ac25baa2753420fdc42f )
-	rom ( name "._Vegas About" size 65536 crc ac911fd3 md5 291c77098dc9fbb9b7dbc9172b9947f2 )
-	rom ( name "._Vegas Diploma" size 12288 crc df01e5a8 md5 6477b476a74dd5c5b3af305d7b31623f )
-	rom ( name "._Vegas Game" size 4096 crc f5d47f9a md5 5ce647b6eec1dc4bb029066fc0d8277e )
-	rom ( name "._Vegas Title" size 12288 crc 2eb7c3d0 md5 09b424baf4f5880c2df6f8ed35368d25 )
-	rom ( name "Lost in Las Vegas Data\._Vegas Filter" size 4096 crc 406d0bb5 md5 663fb3341c70069d9e088fa0b3e00aef )
-	rom ( name "Lost in Las Vegas Data\._Vegas Graphic" size 4096 crc 192afaf6 md5 1dac707c62059cce08c3d8d7c4bfdbed )
-	rom ( name "Lost in Las Vegas Data\._Vegas Object" size 4096 crc 56ef5e54 md5 23fcaf2dcaedb2882b3eb5ed53c26b24 )
-	rom ( name "Lost in Las Vegas Data\._Vegas Sound" size 4096 crc 0a5a742f md5 1cb2f61fd7059ea48d6ab655671871e5 )
-	rom ( name "Lost in Las Vegas Data\._Vegas Text" size 4096 crc ff36c55c md5 0d10c0dc3189977518250fee698d31fd )
-	rom ( name "Lost in Las Vegas Data\Vegas Filter" size 55767 crc 58afc029 md5 2a06f6873d7adfe9462e928a6f9dbaa0 )
-	rom ( name "Lost in Las Vegas Data\Vegas Graphic" size 342879 crc 493ec4d4 md5 9201692d8a3e8d09819ef504acc5e538 )
-	rom ( name "Lost in Las Vegas Data\Vegas Object" size 10100 crc 6461d663 md5 3e051ad4336d9c36b13bcd69df172efa )
-	rom ( name "Lost in Las Vegas Data\Vegas Sound" size 101056 crc 4e7dd1ec md5 ee933955ac8b3373306dc56655ce1318 )
-	rom ( name "Lost in Las Vegas Data\Vegas Text" size 74732 crc 6e5e29c1 md5 84d111c7e027747e55b145f870ebf6b2 )
-	rom ( name "Lost in Las Vegas.bin" size 0 crc 00000000 )
-	rom ( name "Vegas About" size 0 crc 00000000 )
-	rom ( name "Vegas Diploma" size 0 crc 00000000 )
-	rom ( name "Vegas Game" size 18024 crc 703027da md5 d9ca10767b3b0d4a044c031d4b1fbb75 )
-	rom ( name "Vegas Title" size 0 crc 00000000 )
+	rom ( name "Lost in Las Vegas Data\Vegas Filter" size 55767 crc 58afc029 md5 2a06f6873d7adfe9462e928a6f9dbaa0 sha1 274be62b40ffdf577e705f55f52e5de23f9146fc )
+	rom ( name "Lost in Las Vegas Data\Vegas Graphic" size 342879 crc 493ec4d4 md5 9201692d8a3e8d09819ef504acc5e538 sha1 ef224c52fd67d8d6e49a8666f9cea76783856508 )
+	rom ( name "Lost in Las Vegas Data\Vegas Object" size 10100 crc 6461d663 md5 3e051ad4336d9c36b13bcd69df172efa sha1 809d08f29fa22f4fbe97877ce9dda37ff5ebeabf )
+	rom ( name "Lost in Las Vegas Data\Vegas Sound" size 101056 crc 4e7dd1ec md5 ee933955ac8b3373306dc56655ce1318 sha1 7ff8a942c638e9156b7978fc5a9004cadb84385c )
+	rom ( name "Lost in Las Vegas Data\Vegas Text" size 74732 crc 6e5e29c1 md5 84d111c7e027747e55b145f870ebf6b2 sha1 48380eaa4f5aeeb45df9c203f615605d09bc21f5 )
+	rom ( name "Lost in Las Vegas.bin" size 67968 crc d368c429 md5 905674b29e46a83043ef47c5d4e5086b sha1 851e2a8a2c7076f39147dabfbefc660efbef9ad1 )
+	rom ( name "Vegas About" size 65536 crc ac911fd3 md5 291c77098dc9fbb9b7dbc9172b9947f2 sha1 b655ad3b2201b9833a4a85a5d737b020cc7f7abc )
+	rom ( name "Vegas Diploma" size 12288 crc df01e5a8 md5 6477b476a74dd5c5b3af305d7b31623f sha1 a35c4bd0a84932a2aa98afe97061e8bac615aa51 )
+	rom ( name "Vegas Game" size 18024 crc 703027da md5 d9ca10767b3b0d4a044c031d4b1fbb75 sha1 2529cd39782f6698881a5edf885f0550a95069a6 )
+	rom ( name "Vegas Title" size 12288 crc 2eb7c3d0 md5 09b424baf4f5880c2df6f8ed35368d25 sha1 39f1f41453178434f3fea9aec23168e8c48cde2c )
 )
 
 game (
 	name shadowgate
-	description "Shadowgate (Zojoi Rerelease/Macintosh)[!]"
+	description "Shadowgate (Macintosh)[Zojoi Rerelease][!]"
 	year 1987
 	manufacturer "ICOM Simulations"
 	sourcefile macventure
-	rom ( name "._Shadow About" size 32768 crc 9ddfe39a md5 9bd753466a635073dcc531253aa6c82c )
-	rom ( name "._Shadow Diploma" size 8192 crc d0d4ea0f md5 063246a53c365795141b594c5790f25d )
-	rom ( name "._Shadow Game" size 4096 crc 358b3b68 md5 ed253a2809a6010f6ffb189c97877cf7 )
-	rom ( name "._Shadow Title" size 16384 crc d4e9a349 md5 c6c59bd3c678788b2b1e7b8da3ac298d )
-	rom ( name ._Shadowgate.bin size 73728 crc 090c92fe md5 2dfe77e0a14a40a6567acb41a3a7398e )
-	rom ( name ._StartupScreen size 4096 crc 459aa249 md5 fd62d9aeb5c65439b6cd4c3e19bbe150 )
-	rom ( name "Shadow About" size 0 crc 00000000 )
-	rom ( name "Shadow Diploma" size 0 crc 00000000 )
-	rom ( name "Shadow Game" size 8150 crc 775b6843 md5 f347038007fd3a2c33ad01c6ca85d62b )
-	rom ( name "Shadow Title" size 0 crc 00000000 )
-	rom ( name "Shadowgate II\Shadow Filter" size 36396 crc ac49b11b md5 62c5a5836f2bba4e576c421393b1ae12 )
-	rom ( name "Shadowgate II\Shadow Graphic" size 327284 crc 3f88312e md5 d7287bb34ad713ca494541618013277f )
-	rom ( name "Shadowgate II\Shadow Object" size 5316 crc 681922ac md5 9840f72d3a6effdb2654860e781644fb )
-	rom ( name "Shadowgate II\Shadow Sound" size 227314 crc c02fec64 md5 ea5fe5845c0b237e1d474be6e8d59253 )
-	rom ( name "Shadowgate II\Shadow Text" size 59451 crc 9f3e0854 md5 82e45916f6b510a750c5534b198f7f52 )
-	rom ( name Shadowgate.bin size 0 crc 00000000 )
-	rom ( name StartupScreen size 21888 crc c48911b5 md5 4e0e1ffdf09024f25109747a6a0a66f3 )
+	rom ( name "Shadow About" size 32768 crc 9ddfe39a md5 9bd753466a635073dcc531253aa6c82c sha1 f7ff2ceecdc707fb61bfb60f58a454cf8f31b104 )
+	rom ( name "Shadow Diploma" size 8192 crc d0d4ea0f md5 063246a53c365795141b594c5790f25d sha1 36f8a7a244c057ccf09354e0d566ba3ca4b7fcb2 )
+	rom ( name "Shadow Game" size 8150 crc 775b6843 md5 f347038007fd3a2c33ad01c6ca85d62b sha1 0cfa9c233d92b9ffdc5fa919c6da48fa251b8d73 )
+	rom ( name "Shadow Title" size 16384 crc d4e9a349 md5 c6c59bd3c678788b2b1e7b8da3ac298d sha1 a8b1fa2d8574ae42a447e0ed033a9466b1dde4fa )
+	rom ( name "Shadowgate II\Shadow Filter" size 36396 crc ac49b11b md5 62c5a5836f2bba4e576c421393b1ae12 sha1 2e7d590f626e5d9946dbdd9c9a0a81aa96b94f83 )
+	rom ( name "Shadowgate II\Shadow Graphic" size 327284 crc 3f88312e md5 d7287bb34ad713ca494541618013277f sha1 e7fee635da6877b43da611bbb6d1f2d2e3822b7b )
+	rom ( name "Shadowgate II\Shadow Object" size 5316 crc 681922ac md5 9840f72d3a6effdb2654860e781644fb sha1 71dde424acbe8eb8d089601816ccd4b997a5a964 )
+	rom ( name "Shadowgate II\Shadow Sound" size 227314 crc c02fec64 md5 ea5fe5845c0b237e1d474be6e8d59253 sha1 e45341a8bc22a4f7f22270f86a07e0c170ee7e23 )
+	rom ( name "Shadowgate II\Shadow Text" size 59451 crc 9f3e0854 md5 82e45916f6b510a750c5534b198f7f52 sha1 c9f8f66f9f01037260b0ec889fd98da8c39a8890 )
+	rom ( name Shadowgate.bin size 70528 crc ac91a4ca md5 054db22bdc6db3ccb89a23cd840f858e sha1 26a4ee652a8ad009cecbd079e8c6338c6c3f1fba )
+	rom ( name StartupScreen size 21888 crc c48911b5 md5 4e0e1ffdf09024f25109747a6a0a66f3 sha1 ce742bbe48284a4ad2e699f4b9b5a5eba0465120 )
+)
+
+game (
+	name uninvitedmv-demo
+	description "Uninvited |Demo|(Macintosh)[!]"
+	year 1986
+	manufacturer "ICOM Simulations"
+	sourcefile macventure
+	rom ( name "Uninvited About" size 60177 crc 834f8b9d md5 3f59191568ec13a5f836ffdf9e67df73 sha1 86beea783eb24ef3ee0fa1cd9c020db8c8376d6b )
+	rom ( name "Uninvited Demo" size 54469 crc 9cff49da md5 9c9e4b5620ae6be63657ed1de4fcbeed sha1 1bf28050b421a8b697b4758209c4a8d17352bf75 )
+	rom ( name "Uninvited Filter" size 7063 crc 19539677 md5 fa9a22fed6938a74281c543b39a9e0bd sha1 7275d52022953553175e4660e91246164f0298c8 )
+	rom ( name "Uninvited Game" size 1878 crc a65685f6 md5 aaefff4bb515e0d570c3ef9169b6ebdc sha1 fb587599d7107a205efdc348a1b16884edf10512 )
+	rom ( name "Uninvited Graphic" size 62127 crc d11c43de md5 3e770f8e1987d94ffa1f3321f346018c sha1 ce1d2b70df0053a8304a5b21ce12d86c5e92e0a4 )
+	rom ( name "Uninvited Object" size 1268 crc e11094a0 md5 e061b8db1ed5b9953321822e81482040 sha1 d373660dfb99496923ffed288cd16ee76f1eab73 )
+	rom ( name "Uninvited Sound" size 48620 crc c73c7d8d md5 55534104d284554cc1e332bf7803e187 sha1 4c7ef499b5efe4cf2eab94a58d9d943de258b7b7 )
+	rom ( name "Uninvited Text" size 21582 crc 86fe33f1 md5 826607135523dda93d30c5abc59ae7e2 sha1 437b6fa17dee55be71ce268d93baff0a919736b8 )
+	rom ( name "Uninvited Title" size 16512 crc e28e6767 md5 2f28294bbfd67ad9ba1d5204369687f0 sha1 b87db2ecedc667852498d6f85e9f727008f68348 )
 )
 

@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>423</id>
+		<name>Nintendo - Wii (Development Kit Hard Drives)</name>
+		<description>Nintendo - Wii (Development Kit Hard Drives)</description>
+		<version>20240417-085623</version>
+		<author>relax</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Active Life - Magical Carnival (Beta) (2010-07-02)" id="0001">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Active Life - Magical Carnival (Beta) (2010-07-02)</description>
+		<rom name="Active Life - Magical Carnival (Beta) (2010-07-02).iso" size="4707319808" crc="2abaab7c" md5="90d25e571ad3347133ff8a02408ce09d" sha1="483b1228ac9bd928d19eba666c59d158f3aa46bf" sha256="13bb700b273375f79f61c870723edd997114bcbbfcd125c5c44a091f845db887" serial="SFDEAF"/>
+	</game>
+	<game name="Big Top Circus (USA) (0.2.2319) (Proto)" id="0015" cloneofid="p">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Big Top Circus (USA) (0.2.2319) (Proto)</description>
+		<rom name="Big Top Circus (USA) (0.2.2319) (Proto).iso" size="4294967296" crc="8686537a" md5="fc354bf33c2e26acf355805f8b94d7bc" sha1="def0ca39b1c5224718e7b6928d3cdd130603b995" sha256="3b27d513d49c95a8f6f9a113786fff787e61255499ac6439b46ed48ccb990578" serial="RBCE5D"/>
+	</game>
+	<game name="BondX (USA) (Beta) (2009-06-18)" id="0007" cloneofid="0011">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>BondX (USA) (Beta) (2009-06-18)</description>
+		<rom name="BondX (USA) (Beta) (2009-06-18).iso" size="4707319808" crc="f15744f5" md5="c39ed80abd6ef31c9c045e035d633edb" sha1="3dd1f8b9a3db375866c748b12e642167bfcce336" sha256="698e23349061785f32bfa69626f325cd234e2d26255a765678c29ac708f59500" serial="SJBE4Q"/>
+	</game>
+	<game name="Call of Duty - Modern Warfare - Reflex Edition (Europe) (En,Fr) (Beta)" id="0014">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Call of Duty - Modern Warfare - Reflex Edition (Europe) (En,Fr) (Beta)</description>
+		<rom name="Call of Duty - Modern Warfare - Reflex Edition (Europe) (En,Fr) (Beta).iso" size="4707319808" crc="51ef73fc" md5="75dd800a7aa1075fd1334794e35ab912" sha1="4c76be2cce66f60e82f88b331cc9b95817861ba7" sha256="f1786a14b778e8ec3ad6a095faa05204b0191e76b545ad7fb5af26221dedf955" serial="RJAP52"/>
+	</game>
+	<game name="Dead Space - Extraction (v430) (Beta)" id="0003" cloneofid="0006">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Dead Space - Extraction (v430) (Beta)</description>
+		<rom name="Dead Space - Extraction (v430) (Beta).iso" size="4707319808" crc="b6893f82" md5="1264a7448a5e62538083403ace25f4ab" sha1="9f9b8576167cec9059eac52a540aa65efe27a3d9" sha256="9c3a2b54d2f254d8c463cc0add6a8e834324ecab826713cc42ce6a34d37c81dd" serial="RABAZZ"/>
+	</game>
+	<game name="Dead Space - Extraction (v441) (Beta) (2009-04-22)" id="0004" cloneofid="0006">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Dead Space - Extraction (v441) (Beta) (2009-04-22)</description>
+		<rom name="Dead Space - Extraction (v441) (Beta) (2009-04-22).iso" size="4707319808" crc="d020e5cb" md5="4c77a1ec543be8b8ff4e44dc58164a40" sha1="f3c4588f2adf0c94f508b37f7693b8ccd1632a7f" sha256="4aef0690b0492aaea9546e35a062a7afcf4379ece60a2609ebaec7c43ab124b1" serial="RABAZZ"/>
+	</game>
+	<game name="Dead Space - Extraction (v512) (Beta)" id="0005" cloneofid="0006">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Dead Space - Extraction (v512) (Beta)</description>
+		<rom name="Dead Space - Extraction (v512) (Beta).iso" size="4294967296" crc="c8daf9bd" md5="57df9487b7505a6e2f43d4cfd3f2c5d7" sha1="800b947f6e7eee9ad9f853fbb3faf8fd748fa1a9" sha256="be4596ca049d320c2523ba6e3e991a663c659031483942600e61940b8d27edb8" serial="RABAZZ"/>
+	</game>
+	<game name="Dead Space - Extraction (v1111) (Beta)" id="0006">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Dead Space - Extraction (v1111) (Beta)</description>
+		<rom name="Dead Space - Extraction (v1111) (Beta).iso" size="4707319808" crc="76ee443d" md5="06501a4d359248edf637937bb9fa7982" sha1="e5820c9ab14644113eed0cc7d10290bb513a4511" sha256="1ced782a3bf54b3025bfe9763dbf64c57076f36d12e800823809230aad10f243" serial="RZJE69"/>
+	</game>
+	<game name="Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-28)" id="0037" cloneofid="0041">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-28)</description>
+		<rom name="Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-28).iso" size="4707319808" crc="62af2e2b" md5="e9a21559f7677b4e2a3b81894d01aa3d" sha1="6a5605b03c085bb5e1d035e80c670a0e047e4fb2" sha256="69e6679e0c18d843b907edbb81e6349bb9132c39a164c47f8d52f9205b19d3d0" serial="SJREA4"/>
+	</game>
+	<game name="Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-26)" id="0036" cloneofid="0041">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-26)</description>
+		<rom name="Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-26).iso" size="4707319808" crc="878088dc" md5="ccc0ee7c5c26d4b1fd8073721c80e769" sha1="8ddf372cf0728efd029fec3bfd47c857581ce22c" sha256="039843d4016d6ba42472aaffbabac2b54dd5378cb8f104ea1733a62d05faa319" serial="SJREA4"/>
+	</game>
+	<game name="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-12)" id="0038" cloneofid="0041">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-12)</description>
+		<rom name="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-12).iso" size="4707319808" crc="1dcb4e14" md5="dbee30a152f3afd7dfd85365809927cd" sha1="8c8f2ef96120f4d843a610e9bb5b1e84212d3b33" sha256="f0d872f75d9d5c01475de6c4a3d844efd3afac2f641eba2c7df4387522ae84b5" serial="SJRXA4"/>
+	</game>
+	<game name="Def Jam - Rapstar (United Kingdom) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-19)" id="0039" cloneofid="0041">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Def Jam - Rapstar (United Kingdom) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-19)</description>
+		<rom name="Def Jam - Rapstar (United Kingdom) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-19).iso" size="4707319808" crc="6d331d94" md5="bd81842dce036176e3ce9c6ae17c38a0" sha1="8d45a08b1abb97767536898b62e56e9013119ea1" sha256="db5f3b670c22489b24b0287fb227ecb385b793db4260215d076356231abc8d12" serial="SJRPA4"/>
+	</game>
+	<game name="Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-28)" id="0040">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-28)</description>
+		<rom name="Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-28).iso" size="4707319808" crc="5a0dc23a" md5="f63dc21e9825b371fc2d9fb6ffa610a7" sha1="b5d1d974bd0631acf98d792df8584ba139bfdf86" sha256="b3aac40d54521d83750f466e9852929d84d38a92ee5b303c3130de51310b5c6b" serial="SJRZA4"/>
+	</game>
+	<game name="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)" id="0041">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)</description>
+		<rom name="Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29).iso" size="4707319808" crc="d5ea171a" md5="b2d44460cef881b96b44fe305d274db6" sha1="5432aa1083e1e1477e732724c0dfc22327a22504" sha256="3a757e41139d31f7cab9b8f62fa8af511db3321b01749554de60c9a1c3bbf873" serial="SJRXA4"/>
+	</game>
+	<game name="Def Jam - Rapstar (France) (En,Fr,De,Es,It,Pt) (Beta)" id="0042" cloneofid="0041">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Def Jam - Rapstar (France) (En,Fr,De,Es,It,Pt) (Beta)</description>
+		<rom name="Def Jam - Rapstar (France) (En,Fr,De,Es,It,Pt) (Beta).iso" size="4707319808" crc="b13f92c5" md5="c6d08494cdaa5c4d655aac682eb1efea" sha1="12d94d4c8b6c29364328575778597cc691c5a988" sha256="1aa818210a0fe4754c9be9bbda6537a018d9cc955c5c364c3ecab621ee3ff80c" serial="SJRYA4"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)" id="0025">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23).iso" size="4294967296" crc="42399f3f" md5="5727563e274bd87fede0ebcb989b30fa" sha1="85866441a795b411d45dc311f3a13779bfe0e32b" sha256="73b4de0e8bf28bc325d57d28957ab1498ebf2cba8a395ce8d6abe4211ef9ebb0" serial="RABA4Q"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 1) (2011-07-28)" id="0018" cloneofid="0025">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 1) (2011-07-28)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 1) (2011-07-28).iso" size="4294967296" crc="1ed7e8ca" md5="c14b7ba55228e7c7e8ad77eb1b7c09d1" sha1="1b886b55cf92c9a04e76a63d9abd2113623ff53c" sha256="ab30fd59d00cd602391ed08f1de05e052bcfb564a6e4598c8ef421163cc7e656" serial="RABAZZ"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 2) (2011-07-xx)" id="0019" cloneofid="0025">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 2) (2011-07-xx)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 2) (2011-07-xx).iso" size="4707319808" crc="b5dd95af" md5="97ca616f6bea5659276953fc259b452c" sha1="bf515cf63bf63be7b09210c924ac77f6ccc5566c" sha256="c7d617900aa348902714ebbae828f4deb6b3177d63d92bc7a46bfcce90be8e58" serial="RABAZZ"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 3) (2011-xx-xx)" id="0020" cloneofid="0025">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 3) (2011-xx-xx)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 3) (2011-xx-xx).iso" size="4707319808" crc="86e68ba5" md5="d42ecc1ca7296f6116f971d287cd1420" sha1="e4e875ed66c7d263bd7f5fb845794a902dd57fa4" sha256="4b71065dd4bdc17139302b7f3036390b67a9d88776494d94889f3fe592216cbe" serial="RABAZZ"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 4) (2012-02-xx)" id="0021" cloneofid="0025">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 4) (2012-02-xx)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 4) (2012-02-xx).iso" size="4707319808" crc="38472423" md5="675c030e4b33e7e3f4461117057b1f9a" sha1="b59c2cfc16996c64d8dec81b04fc3b8461a99d08" sha256="09c7b36bbf7f8802c6ffbfca61c9bee86e222707bd27eedc0cd9bade9051fe21" serial="RABAZZ"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 5) (2012-xx-xx)" id="0022" cloneofid="0025">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 5) (2012-xx-xx)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 5) (2012-xx-xx).iso" size="4707319808" crc="8219f210" md5="84492e0f70581323617c4e233d6d2b0b" sha1="8a9694e6451ed4f067c1c24ff3d4c4cbc0cc509f" sha256="b1acbb6c2e2b4e1dd7642a55c45d6a9fb7f008e7c5070ceb180313f6fe679423" serial="RABAZZ"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 6) (2012-03-12)" id="0023" cloneofid="0025">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 6) (2012-03-12)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 6) (2012-03-12).iso" size="4707319808" crc="2fc81068" md5="75150156597830ce3373e06eff90e53d" sha1="751e17138423106a490149f641008a860e70ed8f" sha256="86416633ce4b56e2fb39ab087049d1f054fd96fdcf43b038acdd2f489786a523" serial="RABAZZ"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 7) (2012-03-23) (Debug)" id="0024" cloneofid="0025">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (Beta 7) (2012-03-23) (Debug)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (Beta 7) (2012-03-23) (Debug).iso" size="4707319808" crc="5b5a2382" md5="7ec83b9e6b0490db1dae23883af3e53c" sha1="6b458815a518e5d241a34c1a6f39ea480374ea02" sha256="7b04221c9b989db6f6897a21f15b12db01ce6317a793b95189457415fd19af69" serial="RABA4Q"/>
+	</game>
+	<game name="Go Vacation (Beta) (2010-07-02)" id="0002">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Go Vacation (Beta) (2010-07-02)</description>
+		<rom name="Go Vacation (Beta) (2010-07-02).iso" size="4707319808" crc="15194947" md5="519349970a8aaacd1f0090a50507aad7" sha1="7a1f0b7715c61d5b07b6f63e6c2c54c4ca92e31f" sha256="f76b6942db33741b76432e69df79c977ae7300591f74731acc98edfd7fe670eb" serial="SGVEAF"/>
+	</game>
+	<game name="GoldenEye 007 (USA) (v.376) (Beta) (2010-08-02)" id="0009" cloneofid="0011">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>GoldenEye 007 (USA) (v.376) (Beta) (2010-08-02)</description>
+		<rom name="GoldenEye 007 (USA) (v.376) (Beta) (2010-08-02).iso" size="4707319808" crc="abfddb06" md5="a31d2acffd1b932ffaeff6d2113c0a6e" sha1="fa39258721bdd43135a4b9497166cf662d51b739" sha256="747f232829c9d1d7d1a76de612586d36d3939760a3559b490cc0ef027e6b8072" serial="SJBE52"/>
+	</game>
+	<game name="GoldenEye 007 (USA) (v.58000618) (Beta) (2010-09-07)" id="0010" cloneofid="0011">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>GoldenEye 007 (USA) (v.58000618) (Beta) (2010-09-07)</description>
+		<rom name="GoldenEye 007 (USA) (v.58000618) (Beta) (2010-09-07).iso" size="4707319808" crc="d4ad527c" md5="fb2efcaa47ae24b7c2a181a1517e3935" sha1="6c33de20cc6ad36cb669458873de0a6f370d9dc8" sha256="714a85139f5558b6950b7cf52cc770f0ebb1bc3118028bb75ed31916636eab0b" serial="SJBE52"/>
+	</game>
+	<game name="GoldenEye 007 (Europe) (Beta)" id="0011">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>GoldenEye 007 (Europe) (Beta)</description>
+		<rom name="GoldenEye 007 (Europe) (Beta).iso" size="4707319808" crc="a2d3e5b1" md5="014d1591a3162a58e472f70dbb52d845" sha1="6f0b786558933746ab18a93b670911c1bd57b85a" sha256="b69599966324216de685c44e5d25c1d90beccc8cde3e123e14358417980dfbf7" serial="SJBP52"/>
+	</game>
+	<game name="GoldenEye 007 (Japan) (v.664) (Beta) (2011-04-12)" id="0012" cloneofid="0011">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>GoldenEye 007 (Japan) (v.664) (Beta) (2011-04-12)</description>
+		<rom name="GoldenEye 007 (Japan) (v.664) (Beta) (2011-04-12).iso" size="4707319808" crc="4e85408d" md5="96cfd6eec2a3febe0ae0902de2d67776" sha1="24a01992a4222d858d75b01a066e88105ad49b83" sha256="615e1d95359dfe4b240d406b9b6b20feb74d8cfd242d799c3c9cfa653c2bc8e0" serial="SJBJ52"/>
+	</game>
+	<game name="GoldenEye 007 (Japan) (v.664) (Beta) (2011-04-27)" id="0013" cloneofid="0011">
+		<description>GoldenEye 007 (Japan) (v.664) (Beta) (2011-04-27)</description>
+		<rom name="GoldenEye 007 (Japan) (v.664) (Beta) (2011-04-27).iso" size="4707319808" crc="fe86da7f" md5="89e1f11d66f18a4b7b739b7fb74cd3ca" sha1="38a3b02d6b68fe6d73e18dc95006b8b8e6a0ef80" sha256="c40f4525a0c40fc938dc4dc7ac50eef644138a358ab9056c4a80521279647a37" serial="SJBJ52"/>
+	</game>
+	<game name="GoldenEye 2010 (USA) (Beta)" id="0008" cloneofid="0011">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>GoldenEye 2010 (USA) (Beta)</description>
+		<rom name="GoldenEye 2010 (USA) (Beta).iso" size="4707319808" crc="0c33ec92" md5="80d9bc0234bde57af24eda86da5439f8" sha1="f1fe14bcbdb4510c58762b34a60f8f03c2718894" sha256="c091ed2c693869bec209c0ae651a2b6dfe9258f6d1b34ba77dd99f6bec036548" serial="RW3E4Q"/>
+	</game>
+	<game name="Nitrobike (USA) (En,Fr,Es) (Beta) (2008-05-08)" id="0026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Nitrobike (USA) (En,Fr,Es) (Beta) (2008-05-08)</description>
+		<rom name="Nitrobike (USA) (En,Fr,Es) (Beta) (2008-05-08).iso" size="4294967296" crc="825d9740" md5="93ee7d795fafcf0c8f7348a77ad642aa" sha1="10b59d9d28a036cb05bd12ecca5505c5dc6ecba8" sha256="b45ef019165d2e14eb6f2f5feee139070d37eb65471803af5b86731716e69575" serial="RNRE41"/>
+	</game>
+	<game name="Rock Band 3 (USA) (Beta) (2010-01-19)" id="0048" cloneofid="0044">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rock Band 3 (USA) (Beta) (2010-01-19)</description>
+		<rom name="Rock Band 3 (USA) (Beta) (2010-01-19).iso" size="4707319808" crc="12ddfeb0" md5="fa35aeb43509f4c5eedad8f295215548" sha1="820cb5c952504d92fe9fdd183cfecf5e2a30e0a5" sha256="ff09b758514ec792a312dc5734c7a76ab7cebeb9ac227177012ea2ce38badc29" serial="RABA69"/>
+	</game>
+	<game name="Rock Band 3 (USA) (Beta) (2010-03-16)" id="0047" cloneofid="0044">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rock Band 3 (USA) (Beta) (2010-03-16)</description>
+		<rom name="Rock Band 3 (USA) (Beta) (2010-03-16).iso" size="4707319808" crc="2439ed1c" md5="b92bd11e3e8fe92256a5130eb8bd7d94" sha1="f334ff548af97301de05d1f224976a4c575af3a9" sha256="8db012438f5e4d5eff4f67ddfcf2aede589f40752ce2117db2d0d3a87c707b7a" serial="RABA69"/>
+	</game>
+	<game name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-08-29)" id="0046" cloneofid="0044">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-08-29)</description>
+		<rom name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-08-29).iso" size="4707319808" crc="d5060110" md5="3e9330ad8fbcc91f9f843d4bbd5b7af0" sha1="0a6ab1950fe740fb65fba95bdf260dc3682c25ad" sha256="0fd0d1ddf98ca76f0cfbbb8686fb579f182f60ce7ce775e5d39aefc4da9bc80c" serial="SZBE69"/>
+	</game>
+	<game name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-09-01)" id="0045" cloneofid="0044">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-09-01)</description>
+		<rom name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-09-01).iso" size="4707319808" crc="e8cd2322" md5="5a64667e31d4ba8f0e85d9a1c4725da7" sha1="b5363835c4ead63cd6153147df7d2b5956367828" sha256="036f0435d5627b72d650eacbb660e83397fe711a10224076bb0b74da82c1e36b" serial="SZBE69"/>
+	</game>
+	<game name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)" id="0044">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)</description>
+		<rom name="Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19).iso" size="4707319808" crc="34043520" md5="2a93f3a964d37191169b606104b80e20" sha1="0bf9b0c2eabea0838217806f4e4e437ab1230d8e" sha256="3f060a6e674a417498f207b4b633ac1b8c7865719d83702b065a3b3f831ffabe" serial="SZBE69"/>
+	</game>
+	<game name="Score International Baja 1000 (USA) (Beta) (2008-08-28)" id="0028" cloneofid="0029">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Score International Baja 1000 (USA) (Beta) (2008-08-28)</description>
+		<rom name="Score International Baja 1000 (USA) (Beta) (2008-08-28).iso" size="4294967296" crc="3d094b6b" md5="deb8fe27fb65b09ac64ae4f79319264c" sha1="5bf027a9ec82b555cca15a0e2b55637a8bdc447b" sha256="a4694cd7b4fc5af3a8836c670635aa357c634a697eacc9d0925db7995d62837d" serial="RJCE52"/>
+	</game>
+	<game name="Score International Baja 1000 (USA) (Beta) (2008-08-22)" id="0027" cloneofid="0029">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Score International Baja 1000 (USA) (Beta) (2008-08-22)</description>
+		<rom name="Score International Baja 1000 (USA) (Beta) (2008-08-22).iso" size="4294967296" crc="36bbb78c" md5="c00c9d05a9bde6be7442bae8f32e7ed2" sha1="9b92ac061b078b25b3ac2c8845922f75cda37078" sha256="5e803ae1eab3553fd1c1df530fe108091307d27ab5f9c09f8a7da564d1c390ef" serial="RJCE52"/>
+	</game>
+	<game name="Score International Baja 1000 (USA) (Beta) (2008-09-02)" id="0029">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Score International Baja 1000 (USA) (Beta) (2008-09-02)</description>
+		<rom name="Score International Baja 1000 (USA) (Beta) (2008-09-02).iso" size="4294967296" crc="3a030dc9" md5="16a266ba1846f7bb399bbada09ee713f" sha1="c8a4efe6877452a032cfea083da5156598798a26" sha256="602ddf6e0e1000ce6273d1013f585e3cc8aff974257336a1fb4f3a83a4c908f6" serial="RJCE52"/>
+	</game>
+	<game name="Simpsons Game, The (USA) (Beta) (2007-07-06)" id="0043">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Simpsons Game, The (USA) (Beta) (2007-07-06)</description>
+		<rom name="Simpsons Game, The (USA) (Beta) (2007-07-06).iso" size="4707319808" crc="c2a4b3a5" md5="fb73f310895ecb19914640309609f375" sha1="cdb6cf6f749a8291514330969dbe4604e586f729" sha256="e002474963b0db3ee5dce5991b2387210d569c775d96f08dbfdfdc9f4b499527" serial="RSNE69"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-23)" id="0032" cloneofid="0035">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-23)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-23).iso" size="4294967296" crc="07b130f2" md5="db4067845fbc84f3a5d8aa2bcda1056e" sha1="209f04216f01925cd0834ec132932d4650476eb0" sha256="9348d72f328a7fc531537c98445f1419bd4f40a1a217ee837e77e1830fea065b" serial="SKYE52"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-10)" id="0031" cloneofid="0035">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-10)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-10).iso" size="4294967296" crc="1b923fca" md5="12fa67598b558e4a841296cdc98c9825" sha1="8bed308aeef446b74c372c5805a12944f504039d" sha256="9aa89c8e05a7a0ed18eba1f5e4a1d4b5b3bf140eb10467576cad4a60f6e1e5da" serial="SKYE52"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)" id="0035">
+		<category>Educational</category>
+		<category>Preproduction</category>
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508).iso" size="4294967296" crc="0c053e6b" md5="247240572d546cbe6bd55d7fd581bf6a" sha1="5a578eb7e6e14ae73b95951b9d8ac87983f3a93c" sha256="e07d7416170e1fb5008784952b2b4fc73bad34beef87aad5592c8d998db5afe1" serial="SKYE52"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T160554)" id="0034" cloneofid="0035">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T160554)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T160554).iso" size="4294967296" crc="270e2af9" md5="ac424623ada09282a3c0c3235c7ca5e3" sha1="41849e04187e2d991beb877fbf8cff2649642d6e" sha256="990f1ffbe288baf8b56002f1e1dc2edcd17f12f2a0003132617368d0ac6e97f6" serial="SKYE52"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-06-28)" id="0033" cloneofid="0035">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Skylanders - Giants (USA) (En,Fr) (Beta) (2012-06-28)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr) (Beta) (2012-06-28).iso" size="4294967296" crc="b24a0dfd" md5="91768ba5d5e9c2382be7c1d2ddbadb10" sha1="82e90bc843bbb63072797c1aad23feae9169293b" sha256="08bfe415786f4966456e536527f491cec137f82345d6aeece8a6e5e11b26d380" serial="SKYE52"/>
+	</game>
+	<game name="Skylanders - Swap Force (USA) (Beta) (2013-03-25)" id="0030">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Skylanders - Swap Force (USA) (Beta) (2013-03-25)</description>
+		<rom name="Skylanders - Swap Force (USA) (Beta) (2013-03-25).iso" size="4707319808" crc="26a77e11" md5="7924d9903b5c2680c6bfbaf1a0540989" sha1="e830391674fe8786cb9cf9e2e6eca89859ad415e" sha256="d7ef54d7e57157ac814690827c18a246a3b294c02f119fc239d56ac8e9a92a07" serial="RABAZZ"/>
+	</game>
+	<game name="Spider-Man 4 (USA) (Proto) (2010-01-15)" id="0017">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Spider-Man 4 (USA) (Proto) (2010-01-15)</description>
+		<rom name="Spider-Man 4 (USA) (Proto) (2010-01-15).iso" size="4294967296" crc="e3e645f0" md5="c4e62724c5fd44a869c71e499015f0df" sha1="eeae72cb79330321d6fa06ff5209de1cc86388e7" sha256="7722dc52f5d23d3bfa57d0368c3ac8934adeada2a91fc377928fa7255e9a8f0f" serial="RJZE69"/>
+	</game>
+	<game name="ZooVets (USA) (0.5.0586) (Beta)" id="0016">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>ZooVets (USA) (0.5.0586) (Beta)</description>
+		<rom name="ZooVets (USA) (0.5.0586) (Beta).iso" size="4294967296" crc="6cd5e489" md5="d7a8d7c233f5600af0fcdffb84e08e20" sha1="500666cbb5611d6c22970c2db5abc5a51c816cf9" sha256="93e1cba967d4ef0c23ea0f7a0d1aff3465ce73f59cf1405c208cfb4d73d2ede7" serial="RZVELT"/>
+	</game>
+</datafile>

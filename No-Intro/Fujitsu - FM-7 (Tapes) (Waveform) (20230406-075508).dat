@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>410</id>
+		<name>Fujitsu - FM-7 (Tapes) (Waveform)</name>
+		<description>Fujitsu - FM-7 (Tapes) (Waveform)</description>
+		<version>20230406-075508</version>
+		<author>FakeShemp, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Arranger II (Japan)" id="0001">
+		<description>Arranger II (Japan)</description>
+		<rom name="Arranger II (Japan).wav" size="32251948" crc="fae82449" md5="c4e9f9c71f0eedcaeab28090e0446ac1" sha1="721e3fdb996b079797ebb82a2254995be0102ab4"/>
+	</game>
+	<game name="Biotek (Japan)" id="0003">
+		<description>Biotek (Japan)</description>
+		<rom name="Biotek (Japan).wav" size="10809388" crc="cb802346" md5="8b7c8b0dacbdc45b32e2b8b62af22f25" sha1="8a5daea20e8505e40287a3eb7db6f2f98d1b5992"/>
+	</game>
+	<game name="Cobra Hunter (Japan)" id="0006">
+		<description>Cobra Hunter (Japan)</description>
+		<rom name="Cobra Hunter (Japan).wav" size="10038444" crc="1c9d4efa" md5="2c299c5a8aff2f80d51f82188fa4743c" sha1="b70e58496d1689f33d6118d1dd870870fd60ff69"/>
+	</game>
+	<game name="Crash Ball (Japan)" id="0004">
+		<description>Crash Ball (Japan)</description>
+		<rom name="Crash Ball (Japan).wav" size="16940076" crc="7a628f61" md5="eaf9a0093a20ec36b827c82b082951e8" sha1="2350a2b42f04744745d7b52a1fe4898d3182dc7e"/>
+	</game>
+	<game name="Elevator Game (Japan)" id="0005">
+		<description>Elevator Game (Japan)</description>
+		<rom name="Elevator Game (Japan).wav" size="2710060" crc="846b2e77" md5="5c4490036c938ee494ee46ce5ca7d6fc" sha1="09e6715a355d631a9f479eeaa4f6dccb89b4a2e2"/>
+	</game>
+	<game name="FM Racer (Japan)" id="0007">
+		<description>FM Racer (Japan)</description>
+		<rom name="FM Racer (Japan).wav" size="3954220" crc="777e1ea8" md5="99e1c156e691ae0719f8e6446a1ec9e1" sha1="59fdb035581b5d297ffe4a314d023107da584d2b"/>
+	</game>
+	<game name="Hitsuji Yaai! (Japan)" id="0008">
+		<description>Hitsuji Yaai! (Japan)</description>
+		<rom name="Hitsuji Yaai! (Japan).wav" size="9139756" crc="97ff3233" md5="32110b50accbffe9affa8c84203c986c" sha1="ff0ac78795b57fd5bdf7bbaafc316d0b191fc6e6"/>
+	</game>
+	<game name="I wa Sanjutsu Nari (Japan)" id="0009">
+		<description>I wa Sanjutsu Nari (Japan)</description>
+		<rom name="I wa Sanjutsu Nari (Japan).wav" size="9584172" crc="427bd922" md5="6c5bcf08c44afbfb297b9a7b5671542b" sha1="731b621cf9aed66bd5afcd1d810fa4cbf9bf4b2a"/>
+	</game>
+	<game name="Killer Station (Japan)" id="0010">
+		<description>Killer Station (Japan)</description>
+		<rom name="Killer Station (Japan).wav" size="4826668" crc="1652727c" md5="70bfbce0743a936a846ec2b00dd8b6a4" sha1="b240cceac097b72b8d99507889840ecb688144a3"/>
+	</game>
+	<game name="Kinasai! (Japan)" id="0011">
+		<description>Kinasai! (Japan)</description>
+		<rom name="Kinasai! (Japan).wav" size="4146988" crc="56127e96" md5="a07d3f9b65adfe70d9e6abfceafdb72c" sha1="620c13418dabf233734e310f1897d5e578a7ebd4"/>
+	</game>
+	<game name="Marine Attack (Japan)" id="0015">
+		<description>Marine Attack (Japan)</description>
+		<rom name="Marine Attack (Japan).wav" size="10505644" crc="96b8c3ef" md5="678bef3ce568f5b26b732a7b74bad49d" sha1="74fd2192e0399b5e435d0f3d17f6801f0b450f72"/>
+	</game>
+	<game name="Oozumou (Japan)" id="0012">
+		<description>Oozumou (Japan)</description>
+		<rom name="Oozumou (Japan).wav" size="12050476" crc="8a902fbb" md5="39d8cc5b1714aeec894cb6ada8fc4231" sha1="01bb00f6871e45aa4d4bd3237b41db6421ac5bd8"/>
+	</game>
+	<game name="Ringu no Ue wa Oosawagi (Japan)" id="0013">
+		<description>Ringu no Ue wa Oosawagi (Japan)</description>
+		<rom name="Ringu no Ue wa Oosawagi (Japan).wav" size="21856812" crc="949a52c4" md5="e9b452096505752a9c4e9e2ef5e2f303" sha1="4db94a68cefa87aa5a29d9f51940b52ad8db75fd"/>
+	</game>
+	<game name="Shinjuwan Kougeki (Japan)" id="0002">
+		<description>Shinjuwan Kougeki (Japan)</description>
+		<rom name="Shinjuwan Kougeki (Japan).wav" size="14606892" crc="d71a5bd6" md5="3e4b0d8e629a0268886ec37b6b1f2b25" sha1="6d773f8a24ac1accee71f978008f83c1516278eb"/>
+	</game>
+	<game name="Soukoban (Japan)" id="0014">
+		<description>Soukoban (Japan)</description>
+		<rom name="Soukoban (Japan).wav" size="10470956" crc="fdfaebfc" md5="ec5365cc6084c271d3c37417fc190d1c" sha1="95606fa018d3b5a40de397b278b3fe32e2e9abd1"/>
+	</game>
+	<game name="Space Warp (Japan)" id="0016">
+		<description>Space Warp (Japan)</description>
+		<rom name="Space Warp (Japan).wav" size="1839660" crc="ec5f824c" md5="b915a7884a7ba1034b9cf843000d769d" sha1="7daf9b87aabae34b2a1bac4e2c9c902be4236535"/>
+	</game>
+	<game name="Yume no Pro Yakyuu (Japan)" id="0017">
+		<description>Yume no Pro Yakyuu (Japan)</description>
+		<rom name="Yume no Pro Yakyuu (Japan).wav" size="8824364" crc="40b0610a" md5="7775bb1b2344efb3e651fad0f692a45e" sha1="4b267a8092809433d0e60b6756989b0a01af689c"/>
+	</game>
+</datafile>

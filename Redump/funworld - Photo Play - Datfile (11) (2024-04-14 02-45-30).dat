@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>funworld - Photo Play</name>
+		<description>funworld - Photo Play - Discs (11) (2024-04-14 02-45-30)</description>
+		<version>2024-04-14 02-45-30</version>
+		<date>2024-04-14 02-45-30</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Snake II (Europe)">
+		<category>Games</category>
+		<description>Snake II (Europe)</description>
+		<rom name="Snake II (Europe).cue" size="83" crc="5650129b" md5="d38144c3972efa5d43aa6dcfedf21f0a" sha1="567f80b1dc31b76558bce4c2f87d1ad831765d93"/>
+		<rom name="Snake II (Europe).bin" size="632302272" crc="ce91b76c" md5="a6b8687411419350cb0ac2dc4550f799" sha1="16603595c6821b845f83a42354a5c428cca44dac"/>
+	</game>
+	<game name="Update 2001 (Europe) (Disc 1)">
+		<category>Games</category>
+		<description>Update 2001 (Europe) (Disc 1)</description>
+		<rom name="Update 2001 (Europe) (Disc 1).cue" size="95" crc="b837879e" md5="05bedb8f563f2005766485f33719a47a" sha1="8c265403793298cab1c839f8949fcbd6f09163bc"/>
+		<rom name="Update 2001 (Europe) (Disc 1).bin" size="662826528" crc="e5cefa54" md5="08da900dc34e4cf136e87ae2fe5fb2ef" sha1="ed1e73f60bfb5b1608a3867f470941316e841a23"/>
+	</game>
+	<game name="Update 2001 (Europe) (Disc 2)">
+		<category>Games</category>
+		<description>Update 2001 (Europe) (Disc 2)</description>
+		<rom name="Update 2001 (Europe) (Disc 2).cue" size="95" crc="b96aa14f" md5="ff6e29544ed2411077805c24541b6f33" sha1="2373f5e56eeb97f2b1b55b46b7303a57419bce1d"/>
+		<rom name="Update 2001 (Europe) (Disc 2).bin" size="743728272" crc="cadd4990" md5="b72630754821190aa312bfcffffc70a9" sha1="5248881684b861b87ad66c3ec4bdeaf2bfe88b61"/>
+	</game>
+	<game name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 1)">
+		<category>Multimedia</category>
+		<description>I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 1)</description>
+		<rom name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 1).cue" size="150" crc="fa63c7ab" md5="dc214fec6db15d18d32500dea7fa714b" sha1="465bc2a761c406409e1ffdfab48b3da1f74e49ab"/>
+		<rom name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 1).bin" size="677841696" crc="09c3a007" md5="6c26e8597618fb209a41ef2efd815c89" sha1="217ba48d141a4f56453b6e7617cd71c30f60d8f3"/>
+	</game>
+	<game name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 2)">
+		<category>Multimedia</category>
+		<description>I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 2)</description>
+		<rom name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 2).cue" size="150" crc="fb3ee17a" md5="3254661a24b48ec62f58ed81c2f5c3a7" sha1="f57a50de8c0462f8ccce6c2717181aa93d5d68ab"/>
+		<rom name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 2).bin" size="716421552" crc="5042d56f" md5="696d9b373782f354d85ef14872149c7f" sha1="95c8c12d9fdac7375b3b1089dbb08cc2dc9bc595"/>
+	</game>
+	<game name="I.G.O. 5 (Italy) (Disc 1)">
+		<category>Multimedia</category>
+		<description>I.G.O. 5 (Italy) (Disc 1)</description>
+		<rom name="I.G.O. 5 (Italy) (Disc 1).cue" size="91" crc="1b9d5745" md5="376445ad775c52280a602eeda64925fd" sha1="18d0a55e1bea7baecc3784915b1fd5a854fe0f7f"/>
+		<rom name="I.G.O. 5 (Italy) (Disc 1).bin" size="677051424" crc="d8d20f3b" md5="295fb2d228008208916efe91a0b646c8" sha1="96ea0839ef48f86b6b7fc701f83b86041108369d"/>
+	</game>
+	<game name="I.G.O. 5 (Italy) (Disc 2)">
+		<category>Multimedia</category>
+		<description>I.G.O. 5 (Italy) (Disc 2)</description>
+		<rom name="I.G.O. 5 (Italy) (Disc 2).cue" size="91" crc="1ac07194" md5="9c240ba127501cf695fd4e6b40176718" sha1="657227579d8552c43ed4b14a5a8454e182ca1e87"/>
+		<rom name="I.G.O. 5 (Italy) (Disc 2).bin" size="566044080" crc="923db45b" md5="dfbe926d03c65ac5e831280afacdb8f7" sha1="b29aec05580937cb460f698294796b6841544cb9"/>
+	</game>
+	<game name="I.G.O. Ed. 4 Update (Italy) (Disc 1)">
+		<category>Multimedia</category>
+		<description>I.G.O. Ed. 4 Update (Italy) (Disc 1)</description>
+		<rom name="I.G.O. Ed. 4 Update (Italy) (Disc 1).cue" size="102" crc="f9ce2ceb" md5="a7b9b53af4dd68ef375f8cc07a5a25cd" sha1="5a38fba000a56b803f8f68588e81d1f297d117d4"/>
+		<rom name="I.G.O. Ed. 4 Update (Italy) (Disc 1).bin" size="625893072" crc="41cd4008" md5="544dd25f4a050b12a4e5b202d6dc3ee8" sha1="b770877707eb2188c415da49285b76dd0e68ba83"/>
+	</game>
+	<game name="I.G.O. Ed. 4 Update (Italy) (Disc 2)">
+		<category>Multimedia</category>
+		<description>I.G.O. Ed. 4 Update (Italy) (Disc 2)</description>
+		<rom name="I.G.O. Ed. 4 Update (Italy) (Disc 2).cue" size="102" crc="ebbb3349" md5="2ac9b5569414761427411bef90a477b3" sha1="c76218d5b9699d527dfae8cb58ca005822b31435"/>
+		<rom name="I.G.O. Ed. 4 Update (Italy) (Disc 2).bin" size="562466688" crc="5828d383" md5="761801102bb73fe943a841034594a79b" sha1="c82ba3678fdbacc2e9de89cee4e233407247d410"/>
+	</game>
+	<game name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 1)">
+		<category>Multimedia</category>
+		<description>I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 1)</description>
+		<rom name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 1).cue" size="149" crc="a7ec4db7" md5="8e6856689268164c2efe4ddcacce5c6d" sha1="bd823195198de262feafbd0b5b5156ce11b41069"/>
+		<rom name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 1).bin" size="650259792" crc="991fe55a" md5="a9d18ee97d878d7356766103b6ffdde9" sha1="3aa0d69031568bf19d430b53486f1bbca9417cb7"/>
+	</game>
+	<game name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 2)">
+		<category>Multimedia</category>
+		<description>I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 2)</description>
+		<rom name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 2).cue" size="149" crc="a6b16b66" md5="4ac0222bac344cf680e4c82125289abb" sha1="cf8f41845c3ebef50fe7bde25103f57b8f4f1525"/>
+		<rom name="I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 2).bin" size="683281872" crc="86e53440" md5="54dae2432b2c07b4086016da955d35b6" sha1="80a5c5aee5450bbcf6666920876457d8f39fafff"/>
+	</game>
+</datafile>

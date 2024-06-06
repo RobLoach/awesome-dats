@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Bonus Discs</name>
+		<description>IBM PC Compatibles - CD - Bonus Discs (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB)[Audio CD]">
+		<description>Book of Unwritten Tales, The v2 (2011)(King Art)(GB)[Audio CD]</description>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 01 of 20).bin" size="16351104" crc="6294098b" md5="7188d9c8757611ee5f403a48ba364f0b" sha1="0840d48021634ca5b77e482023411690c63972b1"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 02 of 20).bin" size="18926544" crc="5be05827" md5="f1dd421a15b70198d2ae9d65fc17a7d2" sha1="7962f6b2961e924585ab2f1420ecac73fde0b956"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 03 of 20).bin" size="21156240" crc="e231b7d5" md5="38d89c6352b9a745842cfa641392297e" sha1="0a9dbd9ac34d7f6423ec2c1a3482a2b37f2cc7c6"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 04 of 20).bin" size="20855184" crc="36327a99" md5="5839428fcc1f25bfb63ae1bdb92a11b9" sha1="5da058de6b01ee7af5ec9c4002641b56a1d7c07e"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 05 of 20).bin" size="14344848" crc="f999e78f" md5="a92e4fd6a6404c36f7ec69613346c043" sha1="d77d6624e6821698fe7b942ff560ac7220a1fa78"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 06 of 20).bin" size="15012816" crc="aaa2e026" md5="d72f9eed89972f5a21af547115743e88" sha1="434306fdbc6054b531daea447a07aa388744f5ee"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 07 of 20).bin" size="13796832" crc="24cd5102" md5="022ba7176500c243f7a74cd765c42c88" sha1="d3a92190ea1ca19bbbf71c2e889790f6763cc5e5"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 08 of 20).bin" size="17830512" crc="a12c8968" md5="1bce9a2344b39d42d8376963999f281e" sha1="6ad47010f01a22deff353b06f635466ea29dfe2a"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 09 of 20).bin" size="16219392" crc="f818a353" md5="ee0aff593fc530bcb43b3b2d68a35384" sha1="c71b5cec443381d3bf052bc25a2087d96dbd19c9"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 10 of 20).bin" size="11362512" crc="a3ba3770" md5="d89786d63d2ab7d6365ee090a711049b" sha1="eda02461b02ad97b32f2f39237284dc89aeffc67"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 11 of 20).bin" size="8015616" crc="4624d2b4" md5="2e36844479e19aaa63f76877c54856ac" sha1="ef13c9dd11cd8e4b1ef1044679e349e1de330dee"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 12 of 20).bin" size="12286848" crc="0435dde6" md5="a9960afdf2a296f387c5097e1da0cd06" sha1="0bba047105131704b62a4feddcad3e23a8e9b1f9"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 13 of 20).bin" size="14984592" crc="89a0626d" md5="331d10073800d96c88d7badd40f6aede" sha1="bee19b0cdc182d57a56f192906d88ddefe500216"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 14 of 20).bin" size="17080224" crc="63619879" md5="4af803e6e7c2a1056ce3e04cd179f52a" sha1="c26239351539fb5ce3e0fafbe1ec859ae6f0be62"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 15 of 20).bin" size="17143728" crc="5e616c1f" md5="f2b9273e3aacd1c8e47f55c966ded10d" sha1="7377c610437ff763e1386cfd80c51444dab75ba0"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 16 of 20).bin" size="14347200" crc="679a30a2" md5="d66bcb61335f8274e6b1270e657b826b" sha1="be53487885d158b01a37aa47490770fa0b22e203"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 17 of 20).bin" size="11400144" crc="6212fd50" md5="956104bf5075b8193cbe476ffc300381" sha1="e50450600b2578897d0f6a87913ef51cfd5af43d"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 18 of 20).bin" size="22369872" crc="8fd45284" md5="c46dbbfd00de082e52808e2f32387f48" sha1="34578d03c28175b766d226a195ed121070c54783"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 19 of 20).bin" size="18858336" crc="681b54c9" md5="ce25c6ff7219a8be63dcc76cf8f8ee4f" sha1="dee82ed5fadd6889981a89ed768f21d87d55b849"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB) (Track 20 of 20).bin" size="59395056" crc="723babdc" md5="23bc1cc33711066788639f9f268633dd" sha1="f96182c719872167079eedab86182f3f19823bc1"/>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB)[Audio CD].cue" size="2623" crc="6f58fb54" md5="ef571c6c7afa6777a3e1d3364a9bbc1c" sha1="12c2d3c74592125645b0897cf037054039615310"/>
+	</game>
+	<game name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB)[Audio CD]">
+		<description>Deponia v1.1 (2012)(Daedalic Entertainment)(GB)[Audio CD]</description>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 01 of 13).bin" size="10353504" crc="5ce230b9" md5="538aba6a4ff357c4273628d246cccda4" sha1="f3b08b200905d0765686ec57796769052768c689"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 02 of 13).bin" size="32777472" crc="ecfe4c03" md5="175e75aa565c3698d088388468f8d07c" sha1="ead24be8ea859ac6d89abbc694580768497bed1e"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 03 of 13).bin" size="23776368" crc="bd43d30b" md5="9584a142340989e7a3fce5e113db2118" sha1="7569bdbf89e55169fc45ae5036d5c3f996b431b4"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 04 of 13).bin" size="10353504" crc="4d271957" md5="3e6aefae553f99cf1ed4bb028658c03c" sha1="00d8f1af00441da9da7121eba50fc4fa7663a040"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 05 of 13).bin" size="8434272" crc="bb7c38c6" md5="0308b5c61605afb5eab0909e96662ce1" sha1="c154c7cd285263b18a029d13ac3e16fa9667c62d"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 06 of 13).bin" size="20946912" crc="d033286e" md5="a9144a6f5352aa4e5cdcfcf8b6e6ad6a" sha1="72e6b7e94e6b7b2e36db97e34ff38006fd782024"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 07 of 13).bin" size="10353504" crc="5d4e843c" md5="b08a35aa2c2921fbee7bddebd8817d92" sha1="89b774c0cf4e418cdf02978e87d8c3ab7881e819"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 08 of 13).bin" size="33261984" crc="7745fc37" md5="9449319413663aa9a28fa8817e5dc138" sha1="a34dc03ad1e5455998b075569a08a01dffdabd3a"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 09 of 13).bin" size="23181312" crc="3c6aed87" md5="9691532dfadf16918fd23376fcf22673" sha1="5a6444fbe00f97aae8fe533f36a2e6d96317a0b7"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 10 of 13).bin" size="24881808" crc="396309cf" md5="adb5cb930830c8d17162bd5bf05dff63" sha1="1313fa3fabfedfc523a01f7c61a2bfc705600370"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 11 of 13).bin" size="34332144" crc="20309a19" md5="a5726e3ed460e742116f81055c6e49e3" sha1="dae2f2eae8013c26cef5e04da5da9e0cd408c63f"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 12 of 13).bin" size="26093088" crc="f71d2750" md5="b245a3db791d71cdb52bcdaa9f860164" sha1="9899d1582ff598f3942b372537c905a517b88b2d"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB) (Track 13 of 13).bin" size="10353504" crc="c8290eab" md5="cad5f854c5cb53dcdeb9b711f0e1a95b" sha1="82b0f3fd2ba0adc549f630b776383b3cd62e3015"/>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB)[Audio CD].cue" size="2634" crc="ae5e4c6d" md5="658652d0a47bb1f849266b1025741ca0" sha1="08d1b89f9530eeba5e20f5174dcc50c92ec718e2"/>
+	</game>
+	<game name="Fate Of the World (2011)(Red Redemption)(AU)[Audio CD]">
+		<description>Fate Of the World (2011)(Red Redemption)(AU)[Audio CD]</description>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 01 of 26).bin" size="21450240" crc="a05062d8" md5="3a624655097e6ec3f5353e4732db970b" sha1="82887692372ffeec44b4160f1e1d2f7089487eb0"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 02 of 26).bin" size="7761600" crc="ec0168a4" md5="40e215621f7662a85d7705814d7443c9" sha1="d6b76b774c8aa52dc2ea9c6f2b06c39c35bddfca"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 03 of 26).bin" size="6209280" crc="665dc2b1" md5="d850f8cff1ebb824b33ff1ffa7155cad" sha1="e5320c7c0d38290c2a87297f8080ed7e1e44b9ea"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 04 of 26).bin" size="6773760" crc="f899c602" md5="48e2f6bb920278836ba4479c978563f0" sha1="4a9b1963d49c0bac3d46e2dcf0c86fa3f97ef998"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 05 of 26).bin" size="6773760" crc="ec4a330d" md5="7cc9f14cf287a0f2935f0e110df1922c" sha1="cd3afdb98f108fd6a3a4a9a809a8293addffec59"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 06 of 26).bin" size="4515840" crc="323d037f" md5="3cd478ed0049090c80f12fc163e1266a" sha1="78c3433d13942442d0f2a4bef6fc6034bd5b029e"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 07 of 26).bin" size="5644800" crc="9dbc229b" md5="ceeaee3574cb72b0a4dbd670d6af52b8" sha1="048296a2cf75874ed80e72da15d1a11c09c0126f"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 08 of 26).bin" size="5644800" crc="79b18719" md5="e2eb1fc0fc482349b0dc23c64acd28dd" sha1="68020926055f418046b4d1933479f3595566b235"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 09 of 26).bin" size="5644800" crc="8e1e60f1" md5="1d3119b5eeb548eb45e4bb5e9516e625" sha1="86efe32b3d99c7bb3b961181e22f1aaa5ed682c0"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 10 of 26).bin" size="11289600" crc="5c047a56" md5="60326c371b80acfbf2b4f2f14394d8a0" sha1="01f063b7204ee4dc9b2abb46cc8650e05f99e0b6"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 11 of 26).bin" size="5644800" crc="36fc36e2" md5="d72663f47b3f55e1bd0dab1a3004402a" sha1="6ee1064caa994836ff3dc73f167916b76b7be328"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 12 of 26).bin" size="5644800" crc="b2b24cdd" md5="6751788e35c3566e85db2353a561263d" sha1="95ae186a0aa156b180064df323bddf57ec184dd9"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 13 of 26).bin" size="6773760" crc="c22e4cc3" md5="c98c19763c1c8ce50f3efd23ad483472" sha1="8e1448f29aa5f272691545cfc88e88a077cf5e13"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 14 of 26).bin" size="5644800" crc="bdc49090" md5="f313e91ddf35398bfd4f0413b4a967d3" sha1="6af7a470d6a52cd8f422764d621e4665d2833153"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 15 of 26).bin" size="9031680" crc="1c0f802f" md5="c549c98a1e50bbf5e2fc3addade23070" sha1="234db37ad1ddc3abb62814b6842117b703e19a93"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 16 of 26).bin" size="6801984" crc="8399d939" md5="12e20406a962b2488962297e62f2df28" sha1="09cd2267a9592cb680cd49bea8ef62f9b750cb3e"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 17 of 26).bin" size="10160640" crc="544f2b11" md5="bb02a152c2fb1191e197e1891b3695ca" sha1="b31f1b5bc73209a348bfd7e2654227e91b7a1409"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 18 of 26).bin" size="9031680" crc="762b5906" md5="3939564e1706cd579b23359660d5a5c2" sha1="34e03d304f3e87a0bb59644664ee09be7642d14a"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 19 of 26).bin" size="6773760" crc="b04bf2e4" md5="c1008f835514d6ccadcf652f9fb5c64a" sha1="2b22aff15a6952c1a322b04efc1e3eea9d8705ab"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 20 of 26).bin" size="5644800" crc="41ec4306" md5="f5f2d0ec3317cde1b5917b913a8c3a58" sha1="ac429f6d77d4eb7358d3898ade47901a906c8798"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 21 of 26).bin" size="10160640" crc="2318276e" md5="0d401f7d3537eb1c3add387441e8a0e6" sha1="9d0035a915c1c1e2826b1a835b34a2beb82615f5"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 22 of 26).bin" size="12983040" crc="c2c02184" md5="4dfb1cc2dbc9ec35632c7551bc8bf26f" sha1="38803f8080612b9f80c228c21728ba2c24967f31"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 23 of 26).bin" size="4515840" crc="497ccae9" md5="b2afa37d0a997ca3d4a5257e42e6b6e3" sha1="827064672725c72ab89e5decc415856ed050c2c8"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 24 of 26).bin" size="6773760" crc="c6d8490b" md5="81f772b27dca1369e5496629d539eb97" sha1="9e122693b967370e7100ca93aceabedbb1ffceb3"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 25 of 26).bin" size="11289600" crc="d6d406cb" md5="3879d8743dc4f3446fe8f5fc64420280" sha1="0b7700172a042e3e19fc187301a32186d80690ea"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU) (Track 26 of 26).bin" size="13547520" crc="10faf302" md5="2affad9da36fcaf4b52c8059c2baf697" sha1="d7ee77a44cc2c98120e1c5ed1fddd4bf4ef8bb0b"/>
+		<rom name="Fate Of the World (2011)(Red Redemption)(AU)[Audio CD].cue" size="3195" crc="c3886c6f" md5="d3c18c4fb20bc06552acae176c84a25a" sha1="c0038833aaade7b640da8c82722f66b50c700503"/>
+	</game>
+	<game name="Tiny Bang Story, The (2011)(Calibri Games)(AU)[Audio CD]">
+		<description>Tiny Bang Story, The (2011)(Calibri Games)(AU)[Audio CD]</description>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 01 of 10).bin" size="28842576" crc="abdd02ee" md5="07a29703d788d986fd67ace6b5679a03" sha1="6eb0be7eca34a107c9046f03bdcc8b7237c37888"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 02 of 10).bin" size="20674080" crc="e3b8abdd" md5="591207b41b8a17436308903fa8b6b921" sha1="4c650a79a67ab1e845a337a792caa66bd230364f"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 03 of 10).bin" size="19361664" crc="bf9d8fa1" md5="c94114a7661c8899c214b8ff63fc7719" sha1="fb9040a365c04c4408cdc4ae4fb9de8bffbd2ca1"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 04 of 10).bin" size="21344400" crc="6b5600a0" md5="062870ed39cc6c976a95bb565f76452c" sha1="aec569f8013cbb98faa36909b4584856c0d625f1"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 05 of 10).bin" size="28576800" crc="71000433" md5="a7d0c95bd2e9fc4dea1296c7a3fa5193" sha1="8c3c6e4d762beb43a60cefdf5590b30de9c69a27"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 06 of 10).bin" size="26050752" crc="8ff67170" md5="46a2092f63e0eda663d84322132e6428" sha1="cd861a510a9b3cf521f0bd7f553f588d8fcda1b9"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 07 of 10).bin" size="25401600" crc="4bfa56d8" md5="cb799ac7c9e73427351a367e401fba95" sha1="a2dab7b342e0431bd4e941d8cf4a30d04d95a523"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 08 of 10).bin" size="18627840" crc="5f40d96d" md5="e896cf9d4ca82af22a3d0a827b148f2e" sha1="9b349b5c73a4b14c7357c162d790bc1f23d6d7e5"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 09 of 10).bin" size="26554080" crc="ec24c31d" md5="2c63d4084ad26b9f15ee4247d298e29c" sha1="ce88aff30b25ac6d567e71be258f4560cd58a662"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU) (Track 10 of 10).bin" size="29576400" crc="21cb564a" md5="293c10c4d5dc064a634bbdf929ca7a70" sha1="cd3bb9a9bd307e95f7a7410400ac2c346c489076"/>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU)[Audio CD].cue" size="1979" crc="9f602172" md5="55a1055302744a12cc12787843a4cccb" sha1="8710069779a65979e21452b1ba0f62f87e254783"/>
+	</game>
+	<game name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7)[Audio CD]">
+		<description>Trials Evolution - Gold Edition (2013)(Ubisoft)(M7)[Audio CD]</description>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 01 of 23).bin" size="34819008" crc="d13c3a42" md5="7ff05b14f2510a36e6b6a7a4e2a9198a" sha1="008b51acbbe3c564c79cdf6dfdd83f88ae1069ff"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 02 of 23).bin" size="47609184" crc="7b03751f" md5="6bc6d50f11e6e46f00b906733b80be85" sha1="5ef23797ed2432180cfc3e57d0453b50bd79207b"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 03 of 23).bin" size="46379088" crc="216dd816" md5="e5700a08b7fe06edd1581b88639d215f" sha1="c8098375e9aed3f8fbde3b435620791a1bf1fa0b"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 04 of 23).bin" size="44631552" crc="66f0706d" md5="7f8dd7eb4b698fe5d6ad681cc97bebf0" sha1="a5a7a105b99c15cb5f35b8954964df9d0a3256f3"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 05 of 23).bin" size="49841232" crc="13113e2d" md5="bb397da5d65f77eecdb70177d05af9be" sha1="9dcb500cdc2b2ee4457e8949e24229a7f52d6b3e"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 06 of 23).bin" size="34814304" crc="9a86471a" md5="db013957b93c6ea02a0694e1ce22b655" sha1="d7eb3d01422c344d52ba7bc0f45a81fd2c53381e"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 07 of 23).bin" size="24465504" crc="71c63c62" md5="44234c230fb3432c16ef4e0a0068c0ce" sha1="e71b50183ba4b991aa6d8342b91c31568aa0c60f"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 08 of 23).bin" size="40553184" crc="b44c2fb4" md5="ac556414c14f0b91e6da0f8643b68c18" sha1="46c81350716d023277fe4fae3b4685c75632533d"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 09 of 23).bin" size="26754000" crc="f8c5c982" md5="2d934f5434fd439f0c9e246f5c381453" sha1="cf224313bb915e5b4fbcdb07a9e5f7cabad35c52"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 10 of 23).bin" size="32111856" crc="8d85c718" md5="480527e73655d1cc848f18adb93d7afa" sha1="e59b700bfdb36668b33a324fd1b71c2fd64d477c"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 11 of 23).bin" size="30959376" crc="0411163a" md5="04fb4890186e2134bca8c48f7f4f0c93" sha1="28ae36d388881e062353513ee3676ae7d8cafa50"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 12 of 23).bin" size="26321232" crc="0f35bb31" md5="c3ecd2711ca76d1c49edc51975cb5228" sha1="14d47779dfc9fbc005b2c5286537f45b12656db3"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 13 of 23).bin" size="20563536" crc="31f464dc" md5="171bf831f778f021c18b265c9cef9e3a" sha1="35ed827792cfe2f262eb52aa6b1394111fc85aa8"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 14 of 23).bin" size="40306224" crc="03baff3d" md5="67d3d815931fa130b8da40a54b31e718" sha1="791165d8dc9137f5b32d635301154435e536ffe1"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 15 of 23).bin" size="37330944" crc="ec1db623" md5="4ff6d6125a3fda551ff7470b6b41fb8c" sha1="6081af882b56b00b205299495adfcb4a05359190"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 16 of 23).bin" size="27172656" crc="75c5de21" md5="0a434aaf5ad5bdc83b36d6be3d3b6980" sha1="0191070d63de451bf969b06a5842d10b21bdfa38"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 17 of 23).bin" size="52407264" crc="f5d18796" md5="58f40452b4e5a38c5a1dfdf8c4cfbdc7" sha1="abaed15f063e13a2a65d0a9cd6dfd1ca7a321780"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 18 of 23).bin" size="39125520" crc="3e20d67c" md5="dbdbf7e0e62392a4dca6b76d156c6997" sha1="fbfdc75c41de39a7784987202ad2ae6a0fdb7934"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 19 of 23).bin" size="32885664" crc="11b4934c" md5="c59d216d9e22f37c42120034074f15f2" sha1="78447c047478daa0a71b028b581d0a12014dba56"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 20 of 23).bin" size="6155184" crc="50a09836" md5="956905305912efcd1ae0ddc4016625f1" sha1="5cc93d30970015ed8c25278bd9555d54675ed7c5"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 21 of 23).bin" size="6166944" crc="098a7aef" md5="988c1c3fe167f3e27a8931bf65392553" sha1="f948ead95d4b17c950ed1764e143a8d46ca29cc8"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 22 of 23).bin" size="5999952" crc="017e248b" md5="5167b0ccc50292c00d0f514a5132a000" sha1="290f8b3d15bcf03050e2c884e859db615980412e"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7) (Track 23 of 23).bin" size="6171648" crc="77aec062" md5="51e007e21663ee96819b1e0fab4d6032" sha1="31a424dd4822c6665fdcb30190c72e50bc0d7e5d"/>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7)[Audio CD].cue" size="5615" crc="a98505a1" md5="3dd67b567f4971c5aea7ba54465024a7" sha1="811b31ce57025aad04db28a04d0d1642227c2883"/>
+	</game>
+	<game name="Ultima IX Ascension (1999)(Electronic Arts)[Audio CD]">
+		<description>Ultima IX Ascension (1999)(Electronic Arts)[Audio CD]</description>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 01 of 21).bin" size="24218544" crc="fec4695c" md5="61128c19c4704347bd00abdf07609211" sha1="95416e4557c0a863c7373276a94163940e40e1f7"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 02 of 21).bin" size="20069616" crc="4c1f34e0" md5="438d3f56fcf21b96be0c1f455d112dbb" sha1="885e72b6b0abbb626d534f2b12e7bd7653a7951a"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 03 of 21).bin" size="33802944" crc="5076dacc" md5="dbe0741ce68038a1148adc568eacc4a5" sha1="2df1c17d381aa17cc00314f3112ac0da17b6616e"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 04 of 21).bin" size="20829312" crc="d081d5f1" md5="2b6294db4e8bce70574738e7f8e6aca1" sha1="2bd25e2ce8e735b8296bc3e225f940cc4a6290b9"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 05 of 21).bin" size="20130768" crc="95a67d55" md5="1aab59e4f998360bbeda0fb8493bdc6e" sha1="3f972ddbe9e3514b7ee192158e23fab99f777268"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 06 of 21).bin" size="20300112" crc="51d65c56" md5="e425263b81f77bba64b8df1d4170eae0" sha1="3d3072b94c29ecbecfc7664755fc64a4b0e15f81"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 07 of 21).bin" size="12089280" crc="dc337f15" md5="823ee786877900854ec1563e479390b8" sha1="eaff9b9eb40390fb3b66096bed6851c112efbe8b"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 08 of 21).bin" size="7639296" crc="01976b14" md5="f306d30dc70756840488a021d55f0f33" sha1="67f0b33076af4a080cae801046797290544643f2"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 09 of 21).bin" size="17181360" crc="111eb244" md5="033cc9fdf1c0c2e3868ef2332307fb2b" sha1="ca6b9eea9b287206ea019a74fe1a8f91960e1073"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 10 of 21).bin" size="18129216" crc="b0a6e33a" md5="c5b1e8ce1bb8d74a51de7ddf9440a8c7" sha1="67e9128efa77df10826fe3b36261632ab76fe419"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 11 of 21).bin" size="22426320" crc="3aeae9bd" md5="3816375c7032a520645be8b829552bbf" sha1="cd4b1650d367854d7066d84c50488f4f5bc45f92"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 12 of 21).bin" size="20086080" crc="86bac5e6" md5="94f1716f91f34b10cc436d91b9271b73" sha1="9d103d98efe37e8c8d10e131e0933ee24c12869b"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 13 of 21).bin" size="11040288" crc="a048fa78" md5="eb2e964aebaca979b648ba26de848999" sha1="89384902a94521a78451f92fe1c4037645a40805"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 14 of 21).bin" size="11778816" crc="965fbd7f" md5="778c17847d83573eccbbe915221a0642" sha1="3d889028e8a89b4f842e637f08bbdc2c3d6d1e15"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 15 of 21).bin" size="14417760" crc="53708962" md5="e9eda0c7afc5b32bed63dd5a7278063e" sha1="e4daa71e6612f469137e6caee2b19cf0dad74ff6"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 16 of 21).bin" size="14239008" crc="dab0465b" md5="86e1aaf5e1c6138347bac71bf28b6fcc" sha1="1cd1621cd9cf9dced051f48aee7bfe697a64779c"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 17 of 21).bin" size="32673984" crc="705c99a1" md5="7d4a6865bc737faa53873133be4a2bb9" sha1="926e1fe5fa4720511fedcdf653f9edff68314bea"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 18 of 21).bin" size="13182960" crc="e0bdcaea" md5="e09166c2994d232006c97e848d961b31" sha1="cc2279cf8fd940be6ab97cc8d85f99e72de6ee8d"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 19 of 21).bin" size="8123808" crc="fe8ef04f" md5="4d63a9f8331443ef6cc2f7ef976fa9de" sha1="22972284565e2eacaaa29ec51639222f365e47d7"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 20 of 21).bin" size="10990896" crc="96014ffa" md5="49e55c8aa900489e84aa0b01788e81fc" sha1="783ba1550008b840171a261552cb5eb0ac2a0ce0"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts) (Track 21 of 21).bin" size="22647408" crc="8a08e8a9" md5="f86eb66b48ece2c15af08bf79da42161" sha1="4b7be67e60a79666815bc7d39b3a76373e1f03ab"/>
+		<rom name="Ultima IX Ascension (1999)(Electronic Arts)[Audio CD].cue" size="2564" crc="150bc540" md5="a9c9965e1b14c12b491f78dfb24187db" sha1="ec601615ea0b77742abe41fb0710a719c99ee765"/>
+	</game>
+	<game name="World of Harry Potter, The (2006)(Electronic Arts)[Manual CD]">
+		<description>World of Harry Potter, The (2006)(Electronic Arts)[Manual CD]</description>
+		<rom name="World of Harry Potter, The (2006)(Electronic Arts)[Manual CD].bin" size="68937120" crc="391e48c6" md5="2853ad857e41662ef86aa2ae2cd9df9e" sha1="073563cde30881e3e7644647330740095392a9c8"/>
+		<rom name="World of Harry Potter, The (2006)(Electronic Arts)[Manual CD].cue" size="150" crc="01f39d2d" md5="3bddc87c9f0f4007910a140b1509e3e1" sha1="e6922856322b4e9a2e43751e7f30e71aad70c90f"/>
+	</game>
+</datafile>

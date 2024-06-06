@@ -1,0 +1,48 @@
+clrmamepro (
+	name "ScummVM GLK-Jacl"
+	description "ScummVM - GLK Engine - Jacl Games"
+	category "ScummVM"
+	version v1.01
+	date 2021-04-23
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name eldor
+	description "Curse of Eldor, The (Multi-OS)[R3]"
+	year 1996
+	manufacturer "Stuart Allen"
+	sourcefile glk-jacl
+	rom ( name eldor.jac size 168119 crc a2dfa4f4 md5 c1435d28e7eb577fa58c7456d4fa7009 sha1 1b9ec1d4e739c266d09f09c856f9154295d61a09 )
+)
+
+game (
+	name prisonbreak
+	description "Prisoner Break (Multi-OS)[v1.0]"
+	year 2009
+	manufacturer "Parham Doustdar"
+	sourcefile glk-jacl
+	rom ( name prisonbreak.j2 size 199403 crc 35b3cccb md5 63e19f7500fb3bb0bdca3cd09ef88f07 sha1 a8ad5c067c7752eee2edc8392fa4b438ce5bf58e )
+)
+
+game (
+	name unholygrail
+	description "Unholy Grail, The (Multi-OS)[R2, Build3]"
+	year 2017
+	manufacturer "Stuart Allen"
+	sourcefile glk-jacl
+	rom ( name grail.blorb size 58354 crc 678a827b md5 bbb2ee9d6c1c8fc283d0780a82310966 sha1 433f70feab121044bb61006a2298a6709b6c0418 )
+	rom ( name grail.j2 size 447833 crc 94a1187c md5 b1e43dc4eaf2706d5507c9642d89e409 sha1 2797e507b023cef1c1199b5e0e9a32a7bc4c8165 )
+)
+
+game (
+	name unholygrail-1
+	description "Unholy Grail, The (Multi-OS)[R1]"
+	year 2017
+	manufacturer "Stuart Allen"
+	sourcefile glk-jacl
+	rom ( name grail.j2 size 456730 crc 074b5c02 md5 2cf04cb897ba799c17cbeb407be67acb sha1 1ce13ca03261e70b20c2b38867b4a0c43f55779b )
+)
+

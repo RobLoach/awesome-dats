@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM SWORD2"
 	description "ScummVM - SWORD2 Engine Games"
 	category "ScummVM"
-	version v1.03
-	date 2016-09-12
+	version v1.12
+	date 2020-09-05
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,238 +11,374 @@ clrmamepro (
 
 game (
 	name sword2
-	description "Broken Sword II: The Smoking Mirror (PC)[EU][!]"
+	description "Broken Sword II: The Smoking Mirror (Windows)[EU][!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2res
-	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c )
-	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 )
-	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 )
-	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 )
-	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 )
-	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df )
-	rom ( name TEXT.CLU size 304968 crc db2a4e8a md5 21211f4d5fd1e3a41878adf118fb6fb0 )
+	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c sha1 28041e2bd8e6da8da9e49d7526ca6911f600bc92 )
+	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 sha1 3c31bce7b4ce50ceca3724cf38c3f36242b907b1 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 sha1 a7b30b0750f378b9887c083590b7faaf003649b0 )
+	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 sha1 b306fdd23bd1269add5fa4282c7847b2f4912987 )
+	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df sha1 662c09c2dae4ca5b4a78001bc0856d36e93d94b0 )
+	rom ( name TEXT.CLU size 304968 crc db2a4e8a md5 21211f4d5fd1e3a41878adf118fb6fb0 sha1 9382297b6c1fabaf89afb39c6ae8b26e0c80927f )
 )
 
 game (
 	name sword2-1
-	description "Broken Sword II: The Smoking Mirror (PC)[1CD version][!]"
+	description "Broken Sword II: The Smoking Mirror (Windows)[1CD version][!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs21res
-	rom ( name CARIB1.CLU size 29537932 crc 071045d3 md5 60d2a468cb88708efa750bcb8b2ec5fd )
-	rom ( name CD.INF size 294 crc 26436211 md5 c4ccbdcb8ecd8fff6c4ecab1b5154dcc )
-	rom ( name CLUSTER.TAB size 83544 crc e4d791d8 md5 4a5d8ff99ef80db589fcc5d6e54011f3 )
-	rom ( name CREDITS.BMP size 6372 crc be29521f md5 5dd9ea378e700467011dcd31cc218e38 )
-	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c )
-	rom ( name DOCKS.CLU size 20262263 crc 0e3ba3bd md5 303ab373ed6c31fc54e530f48296a1d1 )
-	rom ( name FONT.CLU size 38974 crc 0c646c60 md5 568ed58bd76dc5bb56dc02adcc907d4e )
-	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 )
-	rom ( name JUNGLE.CLU size 19033297 crc 19d064c8 md5 622a84b8f6dae8d835a85dd15b9f73e3 )
-	rom ( name PLAYERS.CLU size 10091432 crc 4e7b94f8 md5 d3d033975a20112a578a8729a07a59d2 )
-	rom ( name PYRAMID1.CLU size 21758357 crc 71194118 md5 272b6b48f45bf5211510d48b21f0b5ca )
-	rom ( name RESOURCE.INF size 175 crc 796ab450 md5 d356430c06ef318c5a2cda2e85574f43 )
-	rom ( name RESOURCE.TAB size 16588 crc 884af78a md5 f7c8e7f8b8737190b6317ccd6f8301ac )
-	rom ( name SCRIPTS.CLU size 1039952 crc 9663b545 md5 8937d836f3029a03c8d095e351f03da4 )
-	rom ( name SMACKS\CARIB.SMK size 3170556 crc 2935ca0f md5 d8304b8cb81ffb26ec519c02e20b2405 )
-	rom ( name SMACKS\ESCAPE.SMK size 4477140 crc d4948aee md5 7d23345f60da61c0f57dc4937d6c917f )
-	rom ( name SMACKS\EYE.SMK size 4727068 crc 4af38396 md5 358c412f45ad7df97b4fd7b4513942ac )
-	rom ( name SMACKS\FINALE.SMK size 20274156 crc b6e3210b md5 312f785b019923e483a17b3d07d964f0 )
-	rom ( name SMACKS\GUARD.SMK size 927156 crc 98045d56 md5 ed5c274539ee3dae9c6feefb34b2cea8 )
-	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 )
-	rom ( name SMACKS\JUNGLE.SMK size 2164956 crc 4549aaed md5 56a9daf08defd3c14b5396ab92e492c7 )
-	rom ( name SMACKS\MUSEUM.SMK size 4613564 crc 4b90c7bc md5 5af3f3b86e5d0d4fb5628b6086a0c01e )
-	rom ( name SMACKS\PABLO.SMK size 932504 crc d3677368 md5 1a4f810e18bed6ade11390f319974ed4 )
-	rom ( name SMACKS\PYRAMID.SMK size 1387316 crc 11bfb60b md5 47b3e4a8dc0001adddf5407ca71727a2 )
-	rom ( name SMACKS\QUARAM.SMK size 3352940 crc 29adc38f md5 b382ea4d21e8bd190ca065a0c733e94a )
-	rom ( name SMACKS\RIVER.SMK size 6472748 crc 9119717e md5 7abbe1177d1899646f165f2c428f2294 )
-	rom ( name SMACKS\SAILING.SMK size 2377012 crc 1af14a95 md5 2dc67e62c50349ac9e63e9deb2496419 )
-	rom ( name SMACKS\SHAMAN.SMK size 6511940 crc bd98b0ca md5 3b53cabbc928ace7bccad11dbbf4ef08 )
-	rom ( name SMACKS\STONE1.SMK size 420000 crc 69910621 md5 14b19ea086f583434856e2643db839ed )
-	rom ( name SMACKS\STONE2.SMK size 3763952 crc d62d571e md5 fc042feaffc6be2ad5c3549a453bc9f3 )
-	rom ( name SMACKS\STONE3.SMK size 1232900 crc 14ed796e md5 7bda34235c514aeb31ceaeeb5c90dc8b )
-	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 )
-	rom ( name TEXT.CLU size 304968 crc db2a4e8a md5 21211f4d5fd1e3a41878adf118fb6fb0 )
+	rom ( name CLUSTER.TAB size 83544 crc e4d791d8 md5 4a5d8ff99ef80db589fcc5d6e54011f3 sha1 b51b0069a0deb71c4ffa3ea5de0242f16b2bcde0 )
+	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c sha1 28041e2bd8e6da8da9e49d7526ca6911f600bc92 )
+	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 sha1 3c31bce7b4ce50ceca3724cf38c3f36242b907b1 )
+	rom ( name SMACKS\FINALE.SMK size 20274156 crc b6e3210b md5 312f785b019923e483a17b3d07d964f0 sha1 688a43c37c4c7ff6dc208e3b80ed123527c519e3 )
+	rom ( name SMACKS\SHAMAN.SMK size 6511940 crc bd98b0ca md5 3b53cabbc928ace7bccad11dbbf4ef08 sha1 b09132f88fe22f8428a025eb4674312e88ed1fa9 )
+	rom ( name TEXT.CLU size 304968 crc db2a4e8a md5 21211f4d5fd1e3a41878adf118fb6fb0 sha1 9382297b6c1fabaf89afb39c6ae8b26e0c80927f )
 )
 
 game (
 	name sword2-br
-	description "Broken Sword II: The Smoking Mirror (PC/Portuguese)"
+	description "Broken Sword II: The Smoking Mirror (Windows/Portuguese)[with English voice]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2res
-	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c )
-	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 )
-	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 )
-	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 )
-	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 )
-	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df )
-	rom ( name TEXT.CLU size 410949 crc 2572a56f md5 256c6d94e3e43de440c78bd62b824798 )
+	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c sha1 28041e2bd8e6da8da9e49d7526ca6911f600bc92 )
+	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 sha1 3c31bce7b4ce50ceca3724cf38c3f36242b907b1 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 sha1 a7b30b0750f378b9887c083590b7faaf003649b0 )
+	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 sha1 b306fdd23bd1269add5fa4282c7847b2f4912987 )
+	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df sha1 662c09c2dae4ca5b4a78001bc0856d36e93d94b0 )
+	rom ( name TEXT.CLU size 410949 crc 2572a56f md5 256c6d94e3e43de440c78bd62b824798 sha1 26e4f6da8a3e2ad84244f1b4d3cef7a85393318d )
+)
+
+game (
+	name sword2-cz
+	description "Broken Sword II: The Smoking Mirror (Windows/Czech)[with English voice]"
+	year 1997
+	manufacturer "Revolution Software"
+	sourcefile sword2
+	romof bs2res
+	rom ( name CREDITS.CLU size 5111 crc 7c77987c md5 5e3052a5ce3014b543abab76d5e72bb3 sha1 b8d7c6ca00d6d0d5e289167e4f0d3881267164ff )
+	rom ( name GENERAL.CLU size 7059728 crc b443cf2e md5 c55168e2bdf51aed6ac8585755cda657 sha1 20abf2bba316f42ef00b6274edbb79e787395dd4 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 sha1 a7b30b0750f378b9887c083590b7faaf003649b0 )
+	rom ( name SPEECH1.CLG size 69110810 crc ed91e7e5 md5 cbbaa3a0b50155c668cfb2d047849e7e sha1 d1847ddbd1e0da061dccc8fbda8ed723e17b9cdd )
+	rom ( name SPEECH2.CLG size 81084111 crc 3780e9c6 md5 0f88b6ea0ee2a479f4608c2f1639885e sha1 a53560ce0d1e083681d659c8ff088fde7542fb83 )
+	rom ( name TEXT.CLU size 279042 crc fe0703f3 md5 8352ac160a7dce22ce39acbeaaa0ef0d sha1 63601fd078a627660f804f207b648d0f3ed1a2ed )
 )
 
 game (
 	name sword2-de
-	description "Broken Sword II: The Smoking Mirror (PC/German)"
+	description "Broken Sword II: The Smoking Mirror {Baphomets Fluch II: Die Spiegel der Finsternis}(Windows/German)"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2res
-	rom ( name CREDITS.CLU size 6043 crc 7ce1f77e md5 2d38794a750f19cfb444f48427e6b21d )
-	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 )
-	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 )
-	rom ( name SMACKS\INTRO.SMK size 38461524 crc c269f5be md5 de237e3bd9ce2ad5773b1e9e20ab4533 )
-	rom ( name SPEECH1.CLG size 53064448 crc ffeccd60 md5 d5c5ce3eaf14b7271c96fb8ed50e2735 )
-	rom ( name SPEECH2.CLG size 62029669 crc 423d7dcc md5 ac8e267e924e79cbb09ab7459a5f8973 )
-	rom ( name TEXT.CLU size 556961 crc 3d1c5324 md5 5348a2df445fde479a6b38bb9acdddc1 )
+	rom ( name CREDITS.CLU size 6043 crc 7ce1f77e md5 2d38794a750f19cfb444f48427e6b21d sha1 a194e138561b765748ef9c062d60059bc622d1fc )
+	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 sha1 3c31bce7b4ce50ceca3724cf38c3f36242b907b1 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\INTRO.SMK size 38461524 crc c269f5be md5 de237e3bd9ce2ad5773b1e9e20ab4533 sha1 80da73a11d7ffe45f614d46f9a4d89a0b2567e15 )
+	rom ( name SPEECH1.CLG size 53064448 crc ffeccd60 md5 d5c5ce3eaf14b7271c96fb8ed50e2735 sha1 80093ea81835bb8dd34d7ea5a844740521e5651e )
+	rom ( name SPEECH2.CLG size 62029669 crc 423d7dcc md5 ac8e267e924e79cbb09ab7459a5f8973 sha1 2fd4e038a30f9810bb319094e17890fcb6a77680 )
+	rom ( name TEXT.CLU size 556961 crc 3d1c5324 md5 5348a2df445fde479a6b38bb9acdddc1 sha1 1d430795b36caf3c246e70f5b3db07e715f69db7 )
 )
 
 game (
 	name sword2-es
-	description "Broken Sword II: The Smoking Mirror (PC/Spanish)"
+	description "Broken Sword II: The Smoking Mirror {Broken Sword II: Las Fuerzas del Mal}(Windows/Spanish)"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2res
-	rom ( name CREDITS.CLU size 5196 crc a8576020 md5 90ff523386ed271527ec0cd695210ad2 )
-	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 )
-	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 )
-	rom ( name SMACKS\INTRO.SMK size 38427072 crc 5dad90ff md5 dbf4e1759b7c0c89fd6ba2c1e7d66fa0 )
-	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 )
-	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df )
-	rom ( name TEXT.CLU size 418165 crc 8021a515 md5 cd89b2e4cf5be891f2c1232eb63c21b3 )
+	rom ( name CREDITS.CLU size 5196 crc a8576020 md5 90ff523386ed271527ec0cd695210ad2 sha1 31e96c94b144e8ad4456b19d9cfe1e45a6f1ce9d )
+	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 sha1 3c31bce7b4ce50ceca3724cf38c3f36242b907b1 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\INTRO.SMK size 38427072 crc 5dad90ff md5 dbf4e1759b7c0c89fd6ba2c1e7d66fa0 sha1 cbdcbfd28593b5b916a7a86d270fe7e28c3928d7 )
+	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 sha1 b306fdd23bd1269add5fa4282c7847b2f4912987 )
+	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df sha1 662c09c2dae4ca5b4a78001bc0856d36e93d94b0 )
+	rom ( name TEXT.CLU size 418165 crc 8021a515 md5 cd89b2e4cf5be891f2c1232eb63c21b3 sha1 92cde2c9d59577b574f7c90af5edf4845773eeea )
+)
+
+game (
+	name sword2-fi
+	description "Broken Sword II: The Smoking Mirror (Windows/Finnish)[with English voice]"
+	year 1997
+	manufacturer "Revolution Software"
+	sourcefile sword2
+	romof bs2res
+	rom ( name CREDITS.CLU size 4818 crc bce75681 md5 ba09e3fb17e0dcb867d9de7b0a925534 sha1 b95fb5e4fb33f6fb3160ddee9c269a2127b86572 )
+	rom ( name GENERAL.CLU size 8030769 crc 48f55115 md5 93f47e7bbc5c3ff84d682b08e1c7e008 sha1 962ccb53dc42bb3595f0cc913f103dcf34989390 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 sha1 a7b30b0750f378b9887c083590b7faaf003649b0 )
+	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 sha1 b306fdd23bd1269add5fa4282c7847b2f4912987 )
+	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df sha1 662c09c2dae4ca5b4a78001bc0856d36e93d94b0 )
+	rom ( name TEXT.CLU size 454229 crc 04987b4d md5 199aea3811cd601cb382fe11b831ab01 sha1 9b632c4c26cf7c39b73a93f843f1f4fe45df515a )
 )
 
 game (
 	name sword2-fr
-	description "Broken Sword II: The Smoking Mirror (PC/French)[!]"
+	description "Broken Sword II: The Smoking Mirror {Les Chevaliers de Baphomet II: Les Boucliers de Quetzalcoatl}(Windows/French)[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2res
-	rom ( name CREDITS.CLU size 3731 crc 785a1a42 md5 8766e9a5bf4da6204fc7b05e4ca6ad80 )
-	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 )
-	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 )
-	rom ( name SMACKS\INTRO.SMK size 38437844 crc 44e15ed5 md5 e7d207725595e70781d71711b5e541fa )
-	rom ( name SPEECH1.CLG size 60400526 crc 05ad7663 md5 cf9f840ae4ac80118d465f8918497373 )
-	rom ( name SPEECH2.CLG size 72483264 crc bf8775f0 md5 daa72537246bf27c3e796ec4b0be1b5d )
-	rom ( name TEXT.CLU size 418165 crc d6b7a0e4 md5 37757e7b694fa195d63eee55f7f427f9 )
+	rom ( name CREDITS.CLU size 3731 crc 785a1a42 md5 8766e9a5bf4da6204fc7b05e4ca6ad80 sha1 9e47209e2b3d9a9f1c10b1b86b2708c0564921b8 )
+	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 sha1 3c31bce7b4ce50ceca3724cf38c3f36242b907b1 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\INTRO.SMK size 38437844 crc 44e15ed5 md5 e7d207725595e70781d71711b5e541fa sha1 6387320fd98fc9eaebb5a265660ac134ac870d71 )
+	rom ( name SPEECH1.CLG size 60400526 crc 05ad7663 md5 cf9f840ae4ac80118d465f8918497373 sha1 f26443365e038dc0725b4e788a37050911be24c4 )
+	rom ( name SPEECH2.CLG size 72483264 crc bf8775f0 md5 daa72537246bf27c3e796ec4b0be1b5d sha1 34e170e4caba6fc0d792bd0c13f6191e6a120c2a )
+	rom ( name TEXT.CLU size 418165 crc d6b7a0e4 md5 37757e7b694fa195d63eee55f7f427f9 sha1 f931f8102c54d8d39e4764704789d9a03e2aed2f )
 )
 
 game (
 	name sword2-gog
-	description "Broken Sword II: The Smoking Mirror (PC)[!]"
+	description "Broken Sword II: The Smoking Mirror (Windows)[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2gogres
-	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c )
-	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 )
-	rom ( name SPEECH1.CLU size 176260048 crc 9260cd14 md5 ff864e8ed3f2838e779e439a39dc9643 )
-	rom ( name SPEECH2.CLU size 210746030 crc cad3f3f8 md5 0f052e34414165c52e863c677f4286c0 )
-	rom ( name TEXT.CLU size 304968 crc db2a4e8a md5 21211f4d5fd1e3a41878adf118fb6fb0 )
-	rom ( name VIDEO\CARIB.DXA size 2186245 crc fed19c33 md5 e37256624da9a6ff501a50788b880ff2 )
-	rom ( name VIDEO\CARIB.FLA size 505400 crc c34b0559 md5 318a1af8d96bd6d0d4c2a0beb25a3773 )
-	rom ( name VIDEO\ESCAPE.DXA size 3362939 crc 552e10e1 md5 37a79782187a82d1cc8a9a7e959e44a3 )
-	rom ( name VIDEO\ESCAPE.FLA size 498245 crc b415e144 md5 08b66c41078e04ffbe9cecbc70db07ee )
-	rom ( name VIDEO\EYE.DXA size 7052599 crc d7d10de6 md5 e1d232542625b65db683361347585542 )
-	rom ( name VIDEO\EYE.FLA size 912084 crc bebfca67 md5 53d9439d7f6ea0bb5f489740488ef412 )
-	rom ( name VIDEO\FINALE.DXA size 23681634 crc 87c96ed7 md5 1aaf347302529e3babae9c0b02ffc721 )
-	rom ( name VIDEO\FINALE.FLA size 3810838 crc f4cca10c md5 22472506cfa86e2ff3cb08d8c08f5021 )
-	rom ( name VIDEO\GUARD.DXA size 826474 crc 642ae136 md5 dba41ea05837cbcb68ce56b8b8cfff94 )
-	rom ( name VIDEO\GUARD.FLA size 225335 crc 6e66e2fe md5 c685851450a9149be14668866c49b68b )
-	rom ( name VIDEO\INTRO.DXA size 27651711 crc 59b035f9 md5 f19bfd76ed3da2f7cbfe2a6ad50af246 )
-	rom ( name VIDEO\INTRO.FLA size 4147476 crc 08d38ab9 md5 830d50822f630adc743b1d8aaa00829d )
-	rom ( name VIDEO\JUNGLE.DXA size 1491260 crc 6ffdaeb7 md5 77e51e1ce70352f29ca51c073065d237 )
-	rom ( name VIDEO\JUNGLE.FLA size 434737 crc 74b406e7 md5 01f37fb4b8b38b5b7294777e2d3379ff )
-	rom ( name VIDEO\MUSEUM.DXA size 3531188 crc 417c3ece md5 0a10ae6fed90ccd9cd701e5d8f0c6bca )
-	rom ( name VIDEO\MUSEUM.FLA size 402288 crc e0d26898 md5 e823a08522842b58848a9b765c766d94 )
-	rom ( name VIDEO\PABLO.DXA size 890276 crc 006b28fc md5 23ee448dbc71439a57b40b1dd736c3da )
-	rom ( name VIDEO\PABLO.FLA size 209628 crc 67517970 md5 df5b1f78d23a795eea11be14980c584b )
-	rom ( name VIDEO\PYRAMID.DXA size 978517 crc ea3296d5 md5 5c0d15166e26e231c7999d0180096bfd )
-	rom ( name VIDEO\PYRAMID.FLA size 154273 crc f89de14d md5 4f5b52f3002816300cd87efe05a36fe3 )
-	rom ( name VIDEO\QUARAM.DXA size 2353045 crc 80561a73 md5 4ae2479f486251f163b4aabf728967b7 )
-	rom ( name VIDEO\QUARAM.FLA size 426284 crc af6b96eb md5 ff79a72902e11b97d7cbca188f76288b )
-	rom ( name VIDEO\RIVER.DXA size 10041124 crc b081e358 md5 007daaed0588200025c6969125a9a7fc )
-	rom ( name VIDEO\RIVER.FLA size 1475030 crc 1034f6da md5 9c0c7c4533374e8684f423b587682e75 )
-	rom ( name VIDEO\SAILING.DXA size 1819273 crc 9f72e9ee md5 ae5aef058f8220a7e2cfef26b0d80379 )
-	rom ( name VIDEO\SAILING.FLA size 355073 crc 1c43a1ba md5 ec94dd0e2d3a7aa1758227b924e2c5b6 )
-	rom ( name VIDEO\SHAMAN.DXA size 8865779 crc 33953da1 md5 533e245729b2a14f6a732903b1321ee3 )
-	rom ( name VIDEO\SHAMAN.FLA size 1756383 crc 1899ef9e md5 0f5e7ae13673f868f40a90621e07143d )
-	rom ( name VIDEO\STONE1.DXA size 392662 crc d44b82eb md5 7417e3c1c4e0db3a3e018c4a9a6694d5 )
-	rom ( name VIDEO\STONE2.DXA size 4579618 crc 17a4f07b md5 75bd218d87c9d2b0aef70e2ce5f2fc78 )
-	rom ( name VIDEO\STONE2.FLA size 662824 crc 68ac2e20 md5 695738b514f0ebe036770ccf432f5ef9 )
-	rom ( name VIDEO\STONE3.DXA size 951646 crc dd1caaa0 md5 98f3afbcc588b5741c729c8ce224252b )
-	rom ( name VIDEO\STONE3.FLA size 174425 crc 6be5cd1c md5 b471776ca3b0b5cdc5792fd896ca07aa )
+	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c sha1 28041e2bd8e6da8da9e49d7526ca6911f600bc92 )
+	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 sha1 3c31bce7b4ce50ceca3724cf38c3f36242b907b1 )
+	rom ( name SPEECH1.CLU size 176260048 crc 9260cd14 md5 ff864e8ed3f2838e779e439a39dc9643 sha1 f9177e53e7a3a05eb49b64a032cad26d28de14e6 )
+	rom ( name SPEECH2.CLU size 210746030 crc cad3f3f8 md5 0f052e34414165c52e863c677f4286c0 sha1 3163c712be2450aa2fc7c9db5cf54f2d724254fd )
+	rom ( name TEXT.CLU size 304968 crc db2a4e8a md5 21211f4d5fd1e3a41878adf118fb6fb0 sha1 9382297b6c1fabaf89afb39c6ae8b26e0c80927f )
+	rom ( name VIDEO\CARIB.DXA size 2186245 crc fed19c33 md5 e37256624da9a6ff501a50788b880ff2 sha1 8e03d48c706de6e5a77797a13abf4be4da3de664 )
+	rom ( name VIDEO\CARIB.FLA size 505400 crc c34b0559 md5 318a1af8d96bd6d0d4c2a0beb25a3773 sha1 fc441fc0a32ae707b9a05ef1e48d92e7796f1a8b )
+	rom ( name VIDEO\ESCAPE.DXA size 3362939 crc 552e10e1 md5 37a79782187a82d1cc8a9a7e959e44a3 sha1 a1cb1ac33c5b0d0580173d09baf1226a4143b789 )
+	rom ( name VIDEO\ESCAPE.FLA size 498245 crc b415e144 md5 08b66c41078e04ffbe9cecbc70db07ee sha1 457699d2d9c8ce53550d91eaa94937cd0eb3ab70 )
+	rom ( name VIDEO\EYE.DXA size 7052599 crc d7d10de6 md5 e1d232542625b65db683361347585542 sha1 7630be09b5686840eb0371270f94174018d54ccf )
+	rom ( name VIDEO\EYE.FLA size 912084 crc bebfca67 md5 53d9439d7f6ea0bb5f489740488ef412 sha1 2bd5edd20bcf923aa66da08d0ca7aa366ebe0768 )
+	rom ( name VIDEO\FINALE.DXA size 23681634 crc 87c96ed7 md5 1aaf347302529e3babae9c0b02ffc721 sha1 b6141f4e4dce16c9d6f10231435b455a814c2012 )
+	rom ( name VIDEO\FINALE.FLA size 3810838 crc f4cca10c md5 22472506cfa86e2ff3cb08d8c08f5021 sha1 c733b64d3afc8133ad53ae359a0a604075cb799c )
+	rom ( name VIDEO\GUARD.DXA size 826474 crc 642ae136 md5 dba41ea05837cbcb68ce56b8b8cfff94 sha1 71ea21d33068ebcebb684a2e84caf7d462c9982a )
+	rom ( name VIDEO\GUARD.FLA size 225335 crc 6e66e2fe md5 c685851450a9149be14668866c49b68b sha1 5dbdb98cab5a5f9f0e0f522865c735c28f875279 )
+	rom ( name VIDEO\INTRO.DXA size 27651711 crc 59b035f9 md5 f19bfd76ed3da2f7cbfe2a6ad50af246 sha1 d849d4b7c5cfc8bf8c5bd5f5ca7a1427969bf001 )
+	rom ( name VIDEO\INTRO.FLA size 4147476 crc 08d38ab9 md5 830d50822f630adc743b1d8aaa00829d sha1 ec21f1ebb5f1900062e900e2ffa02c17514cb31a )
+	rom ( name VIDEO\JUNGLE.DXA size 1491260 crc 6ffdaeb7 md5 77e51e1ce70352f29ca51c073065d237 sha1 fd1db8810a80a5449876cc469e57dcc637560ae5 )
+	rom ( name VIDEO\JUNGLE.FLA size 434737 crc 74b406e7 md5 01f37fb4b8b38b5b7294777e2d3379ff sha1 1da740e23d04323cf6cb8d7487469994515980cb )
+	rom ( name VIDEO\MUSEUM.DXA size 3531188 crc 417c3ece md5 0a10ae6fed90ccd9cd701e5d8f0c6bca sha1 c63590d99b749faf86eed8cb663fbebd7922b123 )
+	rom ( name VIDEO\MUSEUM.FLA size 402288 crc e0d26898 md5 e823a08522842b58848a9b765c766d94 sha1 40717db84a3cc2cbc8c60ae571bf677fb10396b0 )
+	rom ( name VIDEO\PABLO.DXA size 890276 crc 006b28fc md5 23ee448dbc71439a57b40b1dd736c3da sha1 17d0de7d6c1396b125d230ba06e9cbe2d31eb8b1 )
+	rom ( name VIDEO\PABLO.FLA size 209628 crc 67517970 md5 df5b1f78d23a795eea11be14980c584b sha1 3dd95dd01cb9e17cc5dd31355d4c8f4ce454bf38 )
+	rom ( name VIDEO\PYRAMID.DXA size 978517 crc ea3296d5 md5 5c0d15166e26e231c7999d0180096bfd sha1 c0e259e7a0155e8b322ab5ea6f1214df1782bfe8 )
+	rom ( name VIDEO\PYRAMID.FLA size 154273 crc f89de14d md5 4f5b52f3002816300cd87efe05a36fe3 sha1 7eda0691de536526abf106fad12ee238c634d9b1 )
+	rom ( name VIDEO\QUARAM.DXA size 2353045 crc 80561a73 md5 4ae2479f486251f163b4aabf728967b7 sha1 7c52a5efff3cbd2e5021f2148be7d887575da343 )
+	rom ( name VIDEO\QUARAM.FLA size 426284 crc af6b96eb md5 ff79a72902e11b97d7cbca188f76288b sha1 c9f0b3a4ae27512d2a2aad23c97739ca7bda0fa9 )
+	rom ( name VIDEO\RIVER.DXA size 10041124 crc b081e358 md5 007daaed0588200025c6969125a9a7fc sha1 ecf7df27436cb81f531138650e94b9f05dde1097 )
+	rom ( name VIDEO\RIVER.FLA size 1475030 crc 1034f6da md5 9c0c7c4533374e8684f423b587682e75 sha1 afa37ef0292205c1105d0a4a41251561598000a4 )
+	rom ( name VIDEO\SAILING.DXA size 1819273 crc 9f72e9ee md5 ae5aef058f8220a7e2cfef26b0d80379 sha1 e3bb9aee2153ac6c8956c7f7ac4642c2661f4ac8 )
+	rom ( name VIDEO\SAILING.FLA size 355073 crc 1c43a1ba md5 ec94dd0e2d3a7aa1758227b924e2c5b6 sha1 dd1d0035e366e7c9cf8e7958914ffd5b528f611d )
+	rom ( name VIDEO\SHAMAN.DXA size 8865779 crc 33953da1 md5 533e245729b2a14f6a732903b1321ee3 sha1 d2a9b1a6bcb17b440389f06a94d8172235cc32cd )
+	rom ( name VIDEO\SHAMAN.FLA size 1756383 crc 1899ef9e md5 0f5e7ae13673f868f40a90621e07143d sha1 2b641f127c8cb8858e7659943aa17782c9fb038f )
+	rom ( name VIDEO\STONE1.DXA size 392662 crc d44b82eb md5 7417e3c1c4e0db3a3e018c4a9a6694d5 sha1 d5663741977b586127583f143c13adfafc9f701e )
+	rom ( name VIDEO\STONE2.DXA size 4579618 crc 17a4f07b md5 75bd218d87c9d2b0aef70e2ce5f2fc78 sha1 1ea8b77518f071fe6c3b28656096569e11be4a6f )
+	rom ( name VIDEO\STONE2.FLA size 662824 crc 68ac2e20 md5 695738b514f0ebe036770ccf432f5ef9 sha1 26367f37e07e0fe9add79bf3d9b980c2ea9dbd34 )
+	rom ( name VIDEO\STONE3.DXA size 951646 crc dd1caaa0 md5 98f3afbcc588b5741c729c8ce224252b sha1 b8d6518554a830162aff451f264e709bd5f5e6b2 )
+	rom ( name VIDEO\STONE3.FLA size 174425 crc 6be5cd1c md5 b471776ca3b0b5cdc5792fd896ca07aa sha1 f14d5d4794878ebacfe5c31802eefff0455b0945 )
 )
 
 game (
 	name sword2-hu
-	description "Broken Sword II: The Smoking Mirror (PC/Hungarian)"
+	description "Broken Sword II: The Smoking Mirror (Windows/Hungarian)[with English voice]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2res
-	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c )
-	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 )
-	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 )
-	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 )
-	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 )
-	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df )
-	rom ( name TEXT.CLU size 304968 crc 9787d52f md5 a604a12743613533914314b95f74575a )
+	rom ( name CREDITS.CLU size 4747 crc fef18f18 md5 bd5868013e558ff69debe299ed7ffe1c sha1 28041e2bd8e6da8da9e49d7526ca6911f600bc92 )
+	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 sha1 3c31bce7b4ce50ceca3724cf38c3f36242b907b1 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 sha1 a7b30b0750f378b9887c083590b7faaf003649b0 )
+	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 sha1 b306fdd23bd1269add5fa4282c7847b2f4912987 )
+	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df sha1 662c09c2dae4ca5b4a78001bc0856d36e93d94b0 )
+	rom ( name TEXT.CLU size 304968 crc 9787d52f md5 a604a12743613533914314b95f74575a sha1 450a12a3b379765d92400d784094fa10b4ffeb4b )
 )
 
 game (
 	name sword2-it
-	description "Broken Sword II: The Smoking Mirror (PC/Italian)"
+	description "Broken Sword II: The Smoking Mirror {Broken Sword II: La Profezia dei Maya}(Windows/Italian)"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2res
-	rom ( name CREDITS.CLU size 4629 crc 3ef48fd0 md5 267df0b884e66294b6af9e9a56e9a001 )
-	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 )
-	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 )
-	rom ( name SMACKS\INTRO.SMK size 38432256 crc f1430821 md5 dcbd0b327fb274cc97d7c88fe3ea5a06 )
-	rom ( name SPEECH1.CLG size 68436993 crc 5cd59338 md5 7c8d9aa75637b29f79ca14a5b70533f7 )
-	rom ( name SPEECH2.CLG size 82088228 crc 4fe9f034 md5 75a75092a7bc5dd3803a721a47afdf8a )
-	rom ( name TEXT.CLU size 488745 crc 7380d0b0 md5 b6b697954cc6764dc3b6a748d7ea5c64 )
+	rom ( name CREDITS.CLU size 4629 crc 3ef48fd0 md5 267df0b884e66294b6af9e9a56e9a001 sha1 56bac3507d703e5a915b45db854028c00e7cf9ba )
+	rom ( name GENERAL.CLU size 7059728 crc 4442edc8 md5 e296590c0ab564acb8c2061427ef9fa6 sha1 3c31bce7b4ce50ceca3724cf38c3f36242b907b1 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\INTRO.SMK size 38432256 crc f1430821 md5 dcbd0b327fb274cc97d7c88fe3ea5a06 sha1 6dbb4156fa12a03983af9141266973ccf91c6a65 )
+	rom ( name SPEECH1.CLG size 68436993 crc 5cd59338 md5 7c8d9aa75637b29f79ca14a5b70533f7 sha1 5ce2b93c172588de6f689eb037ee9244681652e2 )
+	rom ( name SPEECH2.CLG size 82088228 crc 4fe9f034 md5 75a75092a7bc5dd3803a721a47afdf8a sha1 7a1b6a9ba7a4c171a3228756d5c069283b786178 )
+	rom ( name TEXT.CLU size 488745 crc 7380d0b0 md5 b6b697954cc6764dc3b6a748d7ea5c64 sha1 1a28c8d2014ad328d8c4a9693d2cbd8c4e055927 )
+)
+
+game (
+	name sword2-pl
+	description "Broken Sword II: The Smoking Mirror (Windows/Polish)[with English voice]"
+	year 1997
+	manufacturer "Revolution Software"
+	sourcefile sword2
+	romof bs21res
+	rom ( name CLUSTER.TAB size 84232 crc c85e6bcf md5 617233d21be382040b51d0a30b0c1401 sha1 627d0debf172f82ec2d8461fd9908261fafbe4d2 )
+	rom ( name CREDITS.CLU size 4691 crc cc89d514 md5 b2fe56d35e8ee2b9beba34ae0f458e9b sha1 d75ac24138e4e3b19e756d3d42a94ba3ff66edcd )
+	rom ( name GENERAL.CLU size 8030769 crc 48f55115 md5 93f47e7bbc5c3ff84d682b08e1c7e008 sha1 962ccb53dc42bb3595f0cc913f103dcf34989390 )
+	rom ( name SMACKS\FINALE.SMK size 18133956 crc 80160943 md5 1d405403eb4ff700f2da2774b447a83f sha1 e3599d62d113283b399a9dbaba1f2904cb244af8 )
+	rom ( name SMACKS\SHAMAN.SMK size 10704040 crc 18708f2a md5 fc448298bed71c057078af7c91dadb14 sha1 d08f3901bbc9865acf11e0dba46ea6cb75479aa5 )
+	rom ( name TEXT.CLU size 373704 crc 5fc3350d md5 268e0eab76305d4769d401b576ac2528 sha1 f5d6b45ba6dc9f5ba5b84b8eb9c836e71ef0dd11 )
 )
 
 game (
 	name sword2-ru
-	description "Broken Sword II: The Smoking Mirror (PC/Russian)"
+	description "Broken Sword II: The Smoking Mirror {Сломанный Меч: Дымящееся Зеркало}(Windows/Russian)[with English voice][Mediahauz]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2res
-	rom ( name CREDITS.CLU size 4042 crc 0efe9fa2 md5 9df5c88f1c7bb4bf89fcb074d80b3efa )
-	rom ( name GENERAL.CLU size 7059728 crc e6e55eea md5 6549f82e0e798c02f0350261e00cc878 )
-	rom ( name SMACKS\EYE.SMK size 84536 crc 6e891943 md5 44d119cd5963ba695d5d5646b04026ff )
-	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 )
-	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 )
-	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df )
-	rom ( name TEXT.CLU size 315178 crc a617900a md5 846ba57fcf7693ff80610929d1c4e9b1 )
+	rom ( name CREDITS.CLU size 4042 crc 0efe9fa2 md5 9df5c88f1c7bb4bf89fcb074d80b3efa sha1 ec600f37bddb0b37668304a1f0eba84d451b16fd )
+	rom ( name GENERAL.CLU size 7059728 crc e6e55eea md5 6549f82e0e798c02f0350261e00cc878 sha1 83844b176553204742c5fbbc2024e5cc5c3e87bb )
+	rom ( name SMACKS\EYE.SMK size 84536 crc 6e891943 md5 44d119cd5963ba695d5d5646b04026ff sha1 0e02d1dda83765fe612f2111cd6a6022c002e900 )
+	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 sha1 a7b30b0750f378b9887c083590b7faaf003649b0 )
+	rom ( name SPEECH1.CLG size 57935499 crc 7f84526c md5 73750406fc089f9d82f4d6996cb4b822 sha1 b306fdd23bd1269add5fa4282c7847b2f4912987 )
+	rom ( name SPEECH2.CLG size 67902875 crc 8d50c1ef md5 2bd0021f90fd8c9560097d429ff104df sha1 662c09c2dae4ca5b4a78001bc0856d36e93d94b0 )
+	rom ( name TEXT.CLU size 315178 crc a617900a md5 846ba57fcf7693ff80610929d1c4e9b1 sha1 46b017992a0a54f8916b7636fb87444225c80b13 )
+)
+
+game (
+	name sword2-ru-1
+	description "Broken Sword II: The Smoking Mirror {Сломанный Меч: Дымящееся Зеркало}(Windows/Russian)[Fargus]"
+	year 1997
+	manufacturer "Revolution Software"
+	sourcefile sword2
+	rom ( name CARIB1.CLU size 29537932 crc 071045d3 md5 60d2a468cb88708efa750bcb8b2ec5fd sha1 b76ba4f2b570b8531d66891e6b865f155ad2ac44 )
+	rom ( name CARIB2.CLU size 28797271 crc 01e38c1b md5 ef0a8247e12707b289fe78357e10cd78 sha1 8f4605b5d2ed4b3e8698eb050ecee2f3bb5cbeea )
+	rom ( name CARIB3.CLU size 24246760 crc 17903bbe md5 dce5f5dbdb734db727c930b50d726508 sha1 3f9698cddc5e88182393f618dc2c021daf59d58a )
+	rom ( name CD.INF size 294 crc 26436211 md5 c4ccbdcb8ecd8fff6c4ecab1b5154dcc sha1 843f079b4c00a82ef60865ed9526fbf42925f2cb )
+	rom ( name CLUSTER.TAB size 84232 crc c85e6bcf md5 617233d21be382040b51d0a30b0c1401 sha1 627d0debf172f82ec2d8461fd9908261fafbe4d2 )
+	rom ( name CREDITS.BMP size 6372 crc be29521f md5 5dd9ea378e700467011dcd31cc218e38 sha1 7eb6d01dfe6f03c9474a176ebb0973a54b15d6aa )
+	rom ( name CREDITS.CLU size 5024 crc 6d36dad7 md5 d40bbeb8ace87cbb8bc3409f532b7998 sha1 bc7def745091809b3d68468a169c49650a783e8a )
+	rom ( name DOCKS.CLU size 20262263 crc 0e3ba3bd md5 303ab373ed6c31fc54e530f48296a1d1 sha1 4d105b5dce965fdcf3e4c1b56f0a1bab9833a794 )
+	rom ( name FONT.CLU size 34878 crc 7b7f3e96 md5 efd3833f1d31580f43716b0fb289fcbe sha1 6dc9cfe9630c12f6b3e25a994ec35ab83c45e377 )
+	rom ( name GENERAL.CLU size 7320908 crc 61d981e9 md5 bdcc2702ef19c0b3d40fbe6bf15593a0 sha1 85ab6b1e80b3aeb87f576914979f61f8223ea57f )
+	rom ( name JUNGLE.CLU size 19033297 crc 19d064c8 md5 622a84b8f6dae8d835a85dd15b9f73e3 sha1 19650d2bcb6f66a634a20f6ed7ae63346702f773 )
+	rom ( name MUSIC1.CL3 size 44485550 crc 6f8b4735 md5 b8aa1daae5ec8469bb859cc70cda768a sha1 e8133cc2e3458ac310f7183afeed49528f4a86c4 )
+	rom ( name MUSIC2.CL3 size 44361764 crc 8b0df37c md5 d6dff282d52d13acad77131502411e8d sha1 7a8748ae9c92740422c45129f6d5d6a5de9667d9 )
+	rom ( name PARIS.CLU size 29426152 crc 15d795d6 md5 8dcfb0c138d51229cc30c22c60327e3d sha1 23582c183453318a177a3056cbc2d205bfbe825e )
+	rom ( name PLAYERS.CLU size 10091432 crc 4e7b94f8 md5 d3d033975a20112a578a8729a07a59d2 sha1 4306dd15a8cf41d5279b84832bfdd3135f5ad4bd )
+	rom ( name PYRAMID1.CLU size 21758357 crc 71194118 md5 272b6b48f45bf5211510d48b21f0b5ca sha1 803c524e21f0c441afc990d310650c0d887d98fb )
+	rom ( name PYRAMID2.CLU size 41994533 crc 06c35078 md5 23b6bb3ec87044ca5907699bc11057d5 sha1 9e046d26e264fe7f8be19851584ae063eb0bc776 )
+	rom ( name QUARAMON.CLU size 25676575 crc ff35368e md5 1db1c8a94ca201d057103127321a41ad sha1 b6b2f46108605af511d5c226711bbda2777d63fd )
+	rom ( name RESOURCE.INF size 175 crc 796ab450 md5 d356430c06ef318c5a2cda2e85574f43 sha1 5eca4c521057e5fbb7a51890173dbf827b0fe338 )
+	rom ( name RESOURCE.TAB size 16588 crc 346a2b81 md5 a0397a4d7ae1289315ca190c8369ce89 sha1 8ad0d0fbb1566b31b1f1bc930e4c42c397cd71b6 )
+	rom ( name SCRIPTS.CLU size 1039952 crc 9663b545 md5 8937d836f3029a03c8d095e351f03da4 sha1 608ea792c8e7a775d2ca55c7056ebce1351d735b )
+	rom ( name SMACKS\CARIB.OGG size 242859 crc 61b3c12d md5 0c48362fe6ec4e9ff285284d1cb349da sha1 56a6767761b22843d272fae3d469f56f67429df9 )
+	rom ( name SMACKS\CARIB.SMK size 3170556 crc 2935ca0f md5 d8304b8cb81ffb26ec519c02e20b2405 sha1 bb9f831d4651cca908c3ec8b5d679df1a2e72edd )
+	rom ( name SMACKS\ESCAPE.OGG size 226708 crc 64a96a99 md5 89c2f556d12492d0bd77ff9ce89ed6f5 sha1 c8103c7ae568dd369a41bec06a1786e783e6ff1d )
+	rom ( name SMACKS\ESCAPE.SMK size 4477140 crc d4948aee md5 7d23345f60da61c0f57dc4937d6c917f sha1 010e95a45cde0dac7888d8e3738cb07e77f197e0 )
+	rom ( name SMACKS\EYE.SMK size 9224100 crc abb69360 md5 e3d6d0b9eaadfec1b74f3e912c5f1dc8 sha1 5e6333be2a62f8f334255b7d97c1c9535104b2d5 )
+	rom ( name SMACKS\FINALE.OGG size 1723958 crc 62805969 md5 826be61a5cc7afcb0119d09276b18ffb sha1 e69dbc0cea313d2c66898693c31aa16d43f8107d )
+	rom ( name SMACKS\FINALE.SMK size 33260928 crc 06004967 md5 5a5db8374f994e9e43fe8ac96224eeab sha1 483d965daf03017cf4a2546e121a13312e9d9088 )
+	rom ( name SMACKS\GUARD.OGG size 116668 crc 367ee3d9 md5 97cc8448c696ae18eb8b12bbbd6a0bfb sha1 ce3b38f1702fe7ce6e5361e9800dc91b74c001b0 )
+	rom ( name SMACKS\GUARD.SMK size 1221872 crc 18616454 md5 214e78ec51be4443cfa8f4fac073ca67 sha1 c7d37c2056564000c5c95d1c1586f1ad122fd6cc )
+	rom ( name SMACKS\INTRO.OGG size 1992513 crc 1073aefb md5 2eda18be468dd64ef31cb1f43401c8f6 sha1 3646497f364c19233207fea39d64f0d97f6966a3 )
+	rom ( name SMACKS\INTRO.SMK size 37987208 crc 98da572b md5 30eee25cd47d630330f68858c7c99a4e sha1 e1d5f7c651a7ca7064b6eca4caf1f822531693df )
+	rom ( name SMACKS\JUNGLE.OGG size 256655 crc f2dfd67b md5 ce3a4ee292dc9709b26cef9f594b9c9f sha1 ab368e4173e3d5426ff204db61128a4da661a7df )
+	rom ( name SMACKS\JUNGLE.SMK size 2164956 crc 4549aaed md5 56a9daf08defd3c14b5396ab92e492c7 sha1 ce282289055930f05a0606641910272d322429a5 )
+	rom ( name SMACKS\MUSEUM.OGG size 186822 crc 75747f4d md5 af94790b82683fe217aa82262f650a89 sha1 fa07b3380cf9af0c10720044d4d4a5a3e0a13c40 )
+	rom ( name SMACKS\MUSEUM.SMK size 4613564 crc 4b90c7bc md5 5af3f3b86e5d0d4fb5628b6086a0c01e sha1 43bd2f004940233e859b98df545bd1fa93056cb6 )
+	rom ( name SMACKS\PABLO.OGG size 116458 crc 9b7b55c5 md5 ad1c696a90e8722f5963c746cfaa88b5 sha1 90dd59a72ddf5e6338bae5a9ddc5c072fd814802 )
+	rom ( name SMACKS\PABLO.SMK size 1243876 crc 9b4eab33 md5 a7c1d1456a4bb1d7b191ae58b412efac sha1 bd2dccb89b9357ad4641b353677943018dd6c668 )
+	rom ( name SMACKS\PYRAMID.OGG size 72648 crc 89bb6176 md5 b9ac4f1aef2e92976da08e292ddc1100 sha1 5d234001e39f86dee092b3d0fcd1cd9ef4ade2d2 )
+	rom ( name SMACKS\PYRAMID.SMK size 1387316 crc 11bfb60b md5 47b3e4a8dc0001adddf5407ca71727a2 sha1 9832ca22c77dcfc75fed989ea472553f3efbc1d8 )
+	rom ( name SMACKS\QUARAM.OGG size 222659 crc 1c637865 md5 89d1ce3d09d7cda02788c262914d36e9 sha1 1a0bfee9111af0661966b84020ae7f558a9e5536 )
+	rom ( name SMACKS\QUARAM.SMK size 3352940 crc 29adc38f md5 b382ea4d21e8bd190ca065a0c733e94a sha1 97c34d016d961daa5176f5b74e7487045250e813 )
+	rom ( name SMACKS\RIVER.OGG size 681256 crc e725a809 md5 f58064d5cbbc96c66f8e8f2918c39070 sha1 b30fee7eb724d1ea1acfc6fdc298290c32d57f25 )
+	rom ( name SMACKS\RIVER.SMK size 14304624 crc 38e2ab23 md5 8956556e958bb1ea549f1ff83f490166 sha1 b53c4a4b4d392a57f62acf0e0dd2b0d86f631c14 )
+	rom ( name SMACKS\SAILING.OGG size 175292 crc e461931a md5 3eea1cb23b89ebfd794d0d3969f6270d sha1 11b2002c9465fe8d72caed8a6bdec26d864c8aa8 )
+	rom ( name SMACKS\SAILING.SMK size 2377012 crc 1af14a95 md5 2dc67e62c50349ac9e63e9deb2496419 sha1 e6546b0d839053993b926482c57e30141bb3a4fd )
+	rom ( name SMACKS\SHAMAN.OGG size 852293 crc 6b8b69bb md5 348e57260fc40e253644027e1c672674 sha1 5fb5075d45af550f2c13768f34384fe446e2d3d6 )
+	rom ( name SMACKS\SHAMAN.SMK size 10704040 crc 18708f2a md5 fc448298bed71c057078af7c91dadb14 sha1 d08f3901bbc9865acf11e0dba46ea6cb75479aa5 )
+	rom ( name SMACKS\STONE1.SMK size 420000 crc 69910621 md5 14b19ea086f583434856e2643db839ed sha1 a953da236dc2cd00839ba5233c7365a9122da34b )
+	rom ( name SMACKS\STONE2.OGG size 441277 crc 1dd4ebe5 md5 64bba6ae7bdc145fb19d663c35d88b6f sha1 b6b1e40856745bea3da044be43fb8f4a1ff1aa2b )
+	rom ( name SMACKS\STONE2.SMK size 5658060 crc bed51c76 md5 c937724bced6e0534ad4f05f3f0de21a sha1 6a1759251f5561c3901e96706cad1e9e12497146 )
+	rom ( name SMACKS\STONE3.OGG size 113171 crc 8a4e88a7 md5 32f15ec4f791af79a02eba308dd2aebd sha1 0dfd2d4dbb7307a01e7f39241e80d39236ee29d7 )
+	rom ( name SMACKS\STONE3.SMK size 1232900 crc 14ed796e md5 7bda34235c514aeb31ceaeeb5c90dc8b sha1 d9e97f75bbddf692fa3d66f73a6d2422ec3be40b )
+	rom ( name SPEECH1.CL3 size 58953342 crc 3a77f487 md5 d2308ed288a3ed6a4a4e7d4c26ead1bb sha1 e1d9db7905e687ad4c32064c0200f09c3e8829c5 )
+	rom ( name SPEECH2.CL3 size 68237630 crc 81b210c3 md5 ec542ce5e503b7c0bcedd4f4a054e910 sha1 b1c2bac03f0bdbe73ad21e39d25694dee260f4c8 )
+	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 sha1 a09eea025c8823067426d22875cf031ab146dcc8 )
+	rom ( name TEXT.CLU size 288998 crc 584eea36 md5 76f2d96c4bc1617ad2203a31bbf097c5 sha1 b94c258ccbf1ef02cba87e7b742490c65e1d4f8d )
+	rom ( name WAREHOUS.CLU size 26819225 crc f95b8f5f md5 37f69a1f6bdacf58ad77d864638e145d sha1 a885af02def5fe7e4058bedfe208dd5608893f42 )
 )
 
 game (
 	name sword2demo
-	description "Broken Sword II: The Smoking Mirror {Demo}(PC)"
+	description "Broken Sword II: The Smoking Mirror |Demo|(Windows)[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
-	rom ( name CD.INF size 294 crc ca2f2eea md5 1e44ccdbf4ad86beb56999149708eb60 )
-	rom ( name DEMO.SMDK size 289700 crc f55ad0db md5 b115588e315b680fac4d3268fdf30cde )
-	rom ( name DOCKS.CLU size 20262263 crc 0e3ba3bd md5 303ab373ed6c31fc54e530f48296a1d1 )
-	rom ( name ENDDEMO.SMK size 592936 crc d0fba97e md5 c3630d228653bd11557fc8ef57d87160 )
-	rom ( name GENERAL.CLU size 8030769 crc 48f55115 md5 93f47e7bbc5c3ff84d682b08e1c7e008 )
-	rom ( name PLAYERS.CLU size 10091432 crc 4e7b94f8 md5 d3d033975a20112a578a8729a07a59d2 )
-	rom ( name RESOURCE.INF size 175 crc 796ab450 md5 d356430c06ef318c5a2cda2e85574f43 )
-	rom ( name RESOURCE.TAB size 16588 crc 884af78a md5 f7c8e7f8b8737190b6317ccd6f8301ac )
-	rom ( name SCRIPTS.CLU size 1039952 crc 9663b545 md5 8937d836f3029a03c8d095e351f03da4 )
-	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 )
-	rom ( name TEXT.CLU size 304968 crc db2a4e8a md5 21211f4d5fd1e3a41878adf118fb6fb0 )
+	rom ( name CD.INF size 294 crc ca2f2eea md5 1e44ccdbf4ad86beb56999149708eb60 sha1 4442f042cab42fbced2c1ef99577b0f434775b0e )
+	rom ( name DEMO.SMDK size 289700 crc f55ad0db md5 b115588e315b680fac4d3268fdf30cde sha1 bce4e3bb6d69bce9b3e75a118c751754d85e96d6 )
+	rom ( name DOCKS.CLU size 20262263 crc 0e3ba3bd md5 303ab373ed6c31fc54e530f48296a1d1 sha1 4d105b5dce965fdcf3e4c1b56f0a1bab9833a794 )
+	rom ( name ENDDEMO.SMK size 592936 crc d0fba97e md5 c3630d228653bd11557fc8ef57d87160 sha1 a15344200f92295d32467c540e1bd022359083dd )
+	rom ( name GENERAL.CLU size 8030769 crc 48f55115 md5 93f47e7bbc5c3ff84d682b08e1c7e008 sha1 962ccb53dc42bb3595f0cc913f103dcf34989390 )
+	rom ( name PLAYERS.CLU size 10091432 crc 4e7b94f8 md5 d3d033975a20112a578a8729a07a59d2 sha1 4306dd15a8cf41d5279b84832bfdd3135f5ad4bd )
+	rom ( name RESOURCE.INF size 175 crc 796ab450 md5 d356430c06ef318c5a2cda2e85574f43 sha1 5eca4c521057e5fbb7a51890173dbf827b0fe338 )
+	rom ( name RESOURCE.TAB size 16588 crc 884af78a md5 f7c8e7f8b8737190b6317ccd6f8301ac sha1 8655a5d4d493ab4c26dd5bc0caa06cd36c4e5713 )
+	rom ( name SCRIPTS.CLU size 1039952 crc 9663b545 md5 8937d836f3029a03c8d095e351f03da4 sha1 608ea792c8e7a775d2ca55c7056ebce1351d735b )
+	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 sha1 a09eea025c8823067426d22875cf031ab146dcc8 )
+	rom ( name TEXT.CLU size 304968 crc db2a4e8a md5 21211f4d5fd1e3a41878adf118fb6fb0 sha1 9382297b6c1fabaf89afb39c6ae8b26e0c80927f )
+)
+
+game (
+	name sword2demo-1
+	description "Broken Sword II: The Smoking Mirror |PC Gamer Demo|(Windows)[!]"
+	year 1997
+	manufacturer "Revolution Software"
+	sourcefile sword2
+	rom ( name CD.BIN size 5757 crc f8271293 md5 988584b904e808f198906d2bff7b59c3 sha1 8e13adef1c54f8c84f111a4b223f6b81414314c8 )
+	rom ( name CD.INF size 273 crc 23e21388 md5 c0ceef9517235f42ab9c3e0ecbceb4d0 sha1 2a1afb2029a3988e89f8d4492ce8c2362f91b276 )
+	rom ( name CREDITS.CLU size 3501 crc e7275ad7 md5 0da9dfc3034e6c0dd2eb0db5d93e1832 sha1 21887d097b99cf705698b0465330031d2ec16e81 )
+	rom ( name DOCKS.CLU size 21017250 crc 3e663830 md5 b41bb3fcac32f79676346cb73e75f7f5 sha1 83049d37f14af53ba8887d0d1054838fc76c6d20 )
+	rom ( name ENDDEMO.SMK size 490412 crc 55ab3879 md5 6b4c60c67bd82ba1c476d32c9d9dbfb1 sha1 91de4174098149a5cb986bcbe28a5762dc7d9d19 )
+	rom ( name FONT.CLU size 34878 crc 7b7f3e96 md5 efd3833f1d31580f43716b0fb289fcbe sha1 6dc9cfe9630c12f6b3e25a994ec35ab83c45e377 )
+	rom ( name GENERAL.CLU size 4519015 crc 2e093d36 md5 fe2379612cabfd0358cebc7751bc6571 sha1 1f19845c20fa705ab9b86d9e3b46c56f14671700 )
+	rom ( name MUSIC.CLU size 12709364 crc b7803192 md5 7421e0ba8b8ace92137699962097fb88 sha1 e406d7eb6df6082363ff11ed4c6c7ed167a75ccf )
+	rom ( name PLAYERS.CLU size 9943877 crc 51fd48ab md5 17ad041f5a44640a5afa08e253b777dc sha1 0634ff2165079bb7bb4cd3a12152d279b79d7adf )
+	rom ( name RESOURCE.INF size 160 crc 0e85ec1b md5 56e098274f3714afb5af21a6952ae91a sha1 44d6066256ccb964661495417f9a2488bc349c8c )
+	rom ( name RESOURCE.TAB size 15280 crc ccdee7a3 md5 bed13d0f2f1b2b3f3368859cd3d6c3d7 sha1 7961f50cd095418c2197b8df81551211f22f992b )
+	rom ( name SCRIPTS.CLU size 1105565 crc 364608b1 md5 3dc25d4ba8e06ccf5f3222ad4b43989b sha1 db2ac8c1a6bf74d60bf084b3f077f39d5d7f2d45 )
+	rom ( name SPEECH.CLU size 19735336 crc 34a6a834 md5 6b8821c47228d4769f2466ba50c48152 sha1 5e1a79e0be65ad6b46d7e3823d01e1675b45471f )
+	rom ( name STARTUP.INF size 361 crc c9841fb5 md5 01582ca57323bf534ccc16d8d6f507d2 sha1 fbfe52c1bd1471ba8108cbbe269103ebbb09f63c )
+	rom ( name TEXT.CLU size 520109 crc 5d0395c5 md5 82f61eabb30464bf0ecaa9167ada6a54 sha1 f448fe65b1f74cd6ea57235839f27b0734bcfec1 )
+	rom ( name VIELOGO.TGA size 50578 crc 747dc20e md5 e36d1e784e878c6f6a20309609d22249 sha1 9ee309afe8282122ceefc0995d7f05bd90deadb9 )
+)
+
+game (
+	name sword2demo-es
+	description "Broken Sword II: The Smoking Mirror {Broken Sword II: Las Fuerzas del Mal}|Demo|(Windows/Spanish)[!]"
+	year 1997
+	manufacturer "Revolution Software"
+	sourcefile sword2
+	rom ( name CLUSTERS\DOCKS.CLU size 20375248 crc 8d68283c md5 0800c4b014ee21606ce2a60705d5c00f sha1 c10e5d7122944041e2f52bb48633fa4f05095dd1 )
+	rom ( name CLUSTERS\GENERAL.CLU size 5803968 crc b15fcd33 md5 62bc8fea13af243efbfc774dd963ca35 sha1 a2da5c1b6f2cea862d8d38aa58667c52968e9acf )
+	rom ( name CLUSTERS\MUSIC.CLU size 16471429 crc f6f69b18 md5 22d60ead2d0920ca778f5a7a87e3f39a sha1 b5433d02108024d02976b0c4c1e237b5f511e766 )
+	rom ( name CLUSTERS\PLAYERS.CLU size 9904289 crc b295f353 md5 5c61fc1b2215dd475bf0cc3b6f69a158 sha1 ed8d9e21a7f224af636681ef000e65a2ba44a926 )
+	rom ( name CLUSTERS\RESOURCE.INF size 160 crc ef463f07 md5 22d41c372e64de30f1d11557ddcdcaf3 sha1 b825648c5020db476fb70accf3229fd8b34b9d39 )
+	rom ( name CLUSTERS\RESOURCE.TAB size 15472 crc 94617b4b md5 858e7d160afdb9c69984174215f91e72 sha1 cde7e68a54e535aa50c9f542d65e7bd5549204f1 )
+	rom ( name CLUSTERS\SCRIPTS.CLU size 926779 crc 836ddab3 md5 5eea44c0bca3ac1d5c0ef1135e4b4c30 sha1 3fa7f62b53ea7a225a2e15cb9f133c3f7d3c2f9c )
+	rom ( name CLUSTERS\SPEECH.CLU size 18379015 crc 0da34c7f md5 a86a7be21db5eace8929d5d8a54625c5 sha1 4f28f28ed7e01fd7ed73a362426fc3101fdacff2 )
+	rom ( name CLUSTERS\TEXT.CLU size 393350 crc 4430b299 md5 71051953a76691d151ee5e97e8bc02d3 sha1 7d7df183a1b28abd218289e32907ceb03f52dab2 )
+	rom ( name CLUSTERS\VIELOGO.TGA size 50578 crc 747dc20e md5 e36d1e784e878c6f6a20309609d22249 sha1 9ee309afe8282122ceefc0995d7f05bd90deadb9 )
+	rom ( name SMACKS\DEMO.SMK size 282568 crc 0e99b9c4 md5 84405772a8bc2339ba7a259511eba317 sha1 8042993ea905f2ae601fb088e82f355f4dc127a2 )
+	rom ( name SMACKS\ENDDEMO.SMK size 552856 crc 962d6d67 md5 8c87778699922eb1a5473c68c33e8782 sha1 24d645fb80a2177107180fcfc2783c6bee3a2efe )
+	rom ( name SMACKS\EYE.SMK size 9167696 crc f69e7047 md5 a7281c10ae15e19eed28ffa41bfeed24 sha1 d2aa98ddc74e865bd153619a1f2d4325380e3fcd )
+	rom ( name SMACKS\INTRO.SMK size 38463688 crc c4cb3560 md5 9475fe4f7ef4da82c758a50aa448ec77 sha1 4408bbea164f175b86c0e3f5220764686cddb321 )
+	rom ( name SWORD2\CD.BIN size 5757 crc f8271293 md5 988584b904e808f198906d2bff7b59c3 sha1 8e13adef1c54f8c84f111a4b223f6b81414314c8 )
+	rom ( name SWORD2\CD.INF size 273 crc 33da87a1 md5 3042da793a4f30d69abd830f7cc5287a sha1 a6f07b572ace6972d5a953000a46de9bb2cb8256 )
+	rom ( name SWORD2\SETTINGS.DAT size 10 crc f0e54d85 md5 ab596d0713dc8ca4d9d7a12f435fe173 sha1 435288de66a5ee30d63e797dd0b50b226f3b5474 )
+	rom ( name SWORD2\STARTUP.INF size 367 crc fb52e08a md5 9463dc5da30e0c7fe697188cd753b29d sha1 8e7651e4b4ba12c7f10228655c69532329ae7f94 )
 )
 
 game (
@@ -252,167 +388,167 @@ game (
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2psxres
-	rom ( name CREDITS.TXT size 4253 crc 7ff46981 md5 a22d0ec16793ef4be9fb289295726736 )
-	rom ( name QUANTUM.CLU size 15539696 crc 8700c63f md5 a89cb8e9d6003b94273ff01738ae5c63 )
-	rom ( name RESOURCE.INF size 175 crc 4ba80514 md5 6345f5d9c9067f7cc6bf0b7601856545 )
-	rom ( name RESOURCE.TAB size 16608 crc a9e67af7 md5 24b6cbfdcbb38406461d996707090d5e )
-	rom ( name SPEECH.CLU size 93720104 crc a0eff217 md5 bc7840f3878631346d64a392e8514bdf )
-	rom ( name STREAMS\BDEMO.STR size 29806896 crc c0567be3 md5 0f897b2ff02cac42299f52df823e168c )
-	rom ( name STREAMS\CARIB.STR size 6620880 crc 2f9392e3 md5 9d0b82cafc6f6f893d2276bc4d901a74 )
-	rom ( name STREAMS\DUMMY.STR size 1013712 crc a908f765 md5 4bc48a7d66c29539a9c2a5fd20000d27 )
-	rom ( name STREAMS\ESCAPE.STR size 7222992 crc 46a3e99f md5 050ad4c35fb861f7cf39a5f6a0a17f10 )
-	rom ( name STREAMS\FINALE.STR size 43662528 crc 71e4c092 md5 8225391e96ddc951201f396f25c27ab2 )
-	rom ( name STREAMS\GUARD.STR size 2293200 crc 06f3f2ed md5 d7589d9c2ae7bbb00657d47b4c08fddb )
-	rom ( name STREAMS\INTRO.STR size 52983504 crc a9e34150 md5 dfd223a9471ad2fed04d70a8c310a3b0 )
-	rom ( name STREAMS\JUNGLE.STR size 5567184 crc 411c7bc2 md5 b26d9df2eafed52610d22d7d37157d7b )
-	rom ( name STREAMS\MUSEUM.STR size 5040336 crc 7886df1d md5 b259f69a7781d507d8dfc7542ab05df3 )
-	rom ( name STREAMS\PABLO.STR size 2293200 crc 8d9c1eca md5 52e0466d7dc3c56bdaf4cdadc1553893 )
-	rom ( name STREAMS\PYRAMID.STR size 1879248 crc ea3f7154 md5 8c4e9395759e62b40e0b1932754eaeac )
-	rom ( name STREAMS\QUARAM.STR size 5491920 crc e2b43c78 md5 54045060d0d5cd643af681a598c4d661 )
-	rom ( name STREAMS\RDEMO.STR size 36973440 crc 61c251cf md5 a217811532c680a7fb38e984ddfc2b8f )
-	rom ( name STREAMS\RIVER.STR size 19415760 crc 67823780 md5 d2dde9ab1b1c6315e6f5c071f9411b25 )
-	rom ( name STREAMS\SAILING.STR size 4174800 crc 5dc899f8 md5 55a3eadcc58f65e7ed5ebee1b0b7a106 )
-	rom ( name STREAMS\SHAMAN.STR size 25888464 crc a5d131e7 md5 1588693c414a58ae516f321841ee1e37 )
-	rom ( name STREAMS\STONE1.STR size 1013712 crc 3e0b686a md5 85be063d4f99bebe529077c55e763598 )
-	rom ( name STREAMS\STONE2.STR size 9631440 crc 1f5be493 md5 52d2b0e2bae003ee6963f7dd0f8d5c9b )
-	rom ( name STREAMS\STONE3.STR size 2029776 crc 0eb84969 md5 a4b26ddf8e5982324257f6240f74af29 )
-	rom ( name TEXT.CLU size 838392 crc f3c682c0 md5 de183501dfcf2c0a19791db8fd455c27 )
+	rom ( name CREDITS.TXT size 4253 crc 7ff46981 md5 a22d0ec16793ef4be9fb289295726736 sha1 dc9c2e8c0dcf58e98cc83e6cb24aa4e3674f6d1d )
+	rom ( name QUANTUM.CLU size 15539696 crc 8700c63f md5 a89cb8e9d6003b94273ff01738ae5c63 sha1 a7321a819c07544747b50906d99c1722b1f56b10 )
+	rom ( name RESOURCE.INF size 175 crc 4ba80514 md5 6345f5d9c9067f7cc6bf0b7601856545 sha1 e8026d7d33651042112e6ca1f37c38b9a4a06f24 )
+	rom ( name RESOURCE.TAB size 16608 crc a9e67af7 md5 24b6cbfdcbb38406461d996707090d5e sha1 fa8f0c9357c27a834a4799386d34c9085d50b73a )
+	rom ( name SPEECH.CLU size 93720104 crc a0eff217 md5 bc7840f3878631346d64a392e8514bdf sha1 96af5f79c227cfa85439073efcd08b5518af5066 )
+	rom ( name STREAMS\BDEMO.STR size 29806896 crc c0567be3 md5 0f897b2ff02cac42299f52df823e168c sha1 efb25091442ca970ffc429b28ddc1a88b5055d63 )
+	rom ( name STREAMS\CARIB.STR size 6620880 crc 2f9392e3 md5 9d0b82cafc6f6f893d2276bc4d901a74 sha1 4dc3fd04ad4309df15be521399eeceef21625431 )
+	rom ( name STREAMS\DUMMY.STR size 1013712 crc a908f765 md5 4bc48a7d66c29539a9c2a5fd20000d27 sha1 9b16e1cbba62a090369627701197f51a09499b3f )
+	rom ( name STREAMS\ESCAPE.STR size 7222992 crc 46a3e99f md5 050ad4c35fb861f7cf39a5f6a0a17f10 sha1 4dcae219405335b5e2ff2dd89423fba7342e0e23 )
+	rom ( name STREAMS\FINALE.STR size 43662528 crc 71e4c092 md5 8225391e96ddc951201f396f25c27ab2 sha1 b3c14117e5843b4a3c1d606c406fe528592b0a9c )
+	rom ( name STREAMS\GUARD.STR size 2293200 crc 06f3f2ed md5 d7589d9c2ae7bbb00657d47b4c08fddb sha1 6ccd1266b1cb8ab1e59650a87e1d4c893325892f )
+	rom ( name STREAMS\INTRO.STR size 52983504 crc a9e34150 md5 dfd223a9471ad2fed04d70a8c310a3b0 sha1 8e2c7d353c76fe948aa09be4719fc3d5ca6c0cfb )
+	rom ( name STREAMS\JUNGLE.STR size 5567184 crc 411c7bc2 md5 b26d9df2eafed52610d22d7d37157d7b sha1 82427ec15d7bfa643955eeb340e3465f0a7ba808 )
+	rom ( name STREAMS\MUSEUM.STR size 5040336 crc 7886df1d md5 b259f69a7781d507d8dfc7542ab05df3 sha1 88fa719718d027382fb8ad19707558e175bb857e )
+	rom ( name STREAMS\PABLO.STR size 2293200 crc 8d9c1eca md5 52e0466d7dc3c56bdaf4cdadc1553893 sha1 7081d0c8cb4964e24cc4992a951f8aec2e9e32f6 )
+	rom ( name STREAMS\PYRAMID.STR size 1879248 crc ea3f7154 md5 8c4e9395759e62b40e0b1932754eaeac sha1 0cc40b5ebfa27459bc047c47cab8063893c950a1 )
+	rom ( name STREAMS\QUARAM.STR size 5491920 crc e2b43c78 md5 54045060d0d5cd643af681a598c4d661 sha1 02c490bac5cf13144728f5507c0ef4935225514c )
+	rom ( name STREAMS\RDEMO.STR size 36973440 crc 61c251cf md5 a217811532c680a7fb38e984ddfc2b8f sha1 8bef31e5ff5fbacc1c0117e2d3316b296bffe146 )
+	rom ( name STREAMS\RIVER.STR size 19415760 crc 67823780 md5 d2dde9ab1b1c6315e6f5c071f9411b25 sha1 69e08a946b2018f095c8062ef9650beb1727396e )
+	rom ( name STREAMS\SAILING.STR size 4174800 crc 5dc899f8 md5 55a3eadcc58f65e7ed5ebee1b0b7a106 sha1 473c749adf255cf0562078f2db54d5f62571719c )
+	rom ( name STREAMS\SHAMAN.STR size 25888464 crc a5d131e7 md5 1588693c414a58ae516f321841ee1e37 sha1 8ab39aafdb392e098fe5e4666eb03da8a10ccc16 )
+	rom ( name STREAMS\STONE1.STR size 1013712 crc 3e0b686a md5 85be063d4f99bebe529077c55e763598 sha1 0c3c21406f5d088f1cfe9aa774c4a940d1a2afac )
+	rom ( name STREAMS\STONE2.STR size 9631440 crc 1f5be493 md5 52d2b0e2bae003ee6963f7dd0f8d5c9b sha1 b4f92b8bfb5c4ac7ad30afe02fc4593fc3a89cb4 )
+	rom ( name STREAMS\STONE3.STR size 2029776 crc 0eb84969 md5 a4b26ddf8e5982324257f6240f74af29 sha1 e8a688fe8b5ad47257d1ce0a93a3d8ebbd3379fd )
+	rom ( name TEXT.CLU size 838392 crc f3c682c0 md5 de183501dfcf2c0a19791db8fd455c27 sha1 7dea3bc07eef79caf75b7768a2996264bca98436 )
 )
 
 game (
 	name sword2psx-de
-	description "Broken Sword II: The Smoking Mirror (PlayStation/German)[!]"
+	description "Broken Sword II: The Smoking Mirror {Baphomets Fluch II: Die Spiegel der Finsternis}(PlayStation/German)[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2psxres
-	rom ( name CREDITS.TXT size 3982 crc 581c6b09 md5 6c6b98dd597a25b9cf25e7d2a83542be )
-	rom ( name QUANTUM.CLU size 15541696 crc faf873d9 md5 74f13312d44e82c7ff5cc3c91dc4f63f )
-	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 )
-	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e )
-	rom ( name SPEECH.CLU size 96272424 crc 05457503 md5 c3c7bb6880b87db17d6e996bd33e24b6 )
-	rom ( name STREAMS\BDEMO.STR size 29806896 crc 5d571f92 md5 dd6dde9f18c22a61712487142cc41b35 )
-	rom ( name STREAMS\CARIB.STR size 6620880 crc b253199f md5 357c776fa0c4a8ac066c20d149b9228e )
-	rom ( name STREAMS\DUMMY.STR size 1013712 crc b007c7c4 md5 851b0963f6d216c3e51b736254058d9c )
-	rom ( name STREAMS\ESCAPE.STR size 7222992 crc e8a92050 md5 7ddbfc5d84639ef664c0fdf8ca688521 )
-	rom ( name STREAMS\FINALE.STR size 43662528 crc b350f278 md5 5687269fb352763fb9551752f1a93d94 )
-	rom ( name STREAMS\GUARD.STR size 2293200 crc c6630344 md5 e2b2a83c70174820b3e8da0edd45e45c )
-	rom ( name STREAMS\INTRO.STR size 52983504 crc 46c7c40a md5 38d4ca10a9f95277899700c3612e7c05 )
-	rom ( name STREAMS\JUNGLE.STR size 5567184 crc 81ead09d md5 8bc8079788f6ff4de717a4558a58e3a8 )
-	rom ( name STREAMS\MUSEUM.STR size 5040336 crc cfa1e341 md5 53f9bd35e4a1b85c80e8778801a2a1dc )
-	rom ( name STREAMS\PABLO.STR size 2293200 crc 5c909cc5 md5 e7c1cdcbd6deae12ad19d07260b089d5 )
-	rom ( name STREAMS\PYRAMID.STR size 1879248 crc 2d1f965b md5 a98e578525d342c538f334238dd9e347 )
-	rom ( name STREAMS\QUARAM.STR size 5491920 crc 81f64678 md5 fdd64063fad3c6c8079388ff88bfa305 )
-	rom ( name STREAMS\RDEMO.STR size 36973440 crc 224cb009 md5 114b7fcc341c84e3d210ba85aeddf966 )
-	rom ( name STREAMS\RIVER.STR size 19415760 crc 066c70bf md5 07bbd74009d43e1cfc887c7604c5de84 )
-	rom ( name STREAMS\SAILING.STR size 4174800 crc c92286c7 md5 ef93d1dbc243cf985d8225b8515d60cd )
-	rom ( name STREAMS\SHAMAN.STR size 25888464 crc 148a84d9 md5 9f914d6da439f4155679c68b8a64257c )
-	rom ( name STREAMS\STONE1.STR size 1013712 crc fc399b86 md5 dfb6ec3632fa07fd18d3b7425cc547f8 )
-	rom ( name STREAMS\STONE2.STR size 9631440 crc c361f2fb md5 b50406b8a1641dcd789155a962d3068e )
-	rom ( name STREAMS\STONE3.STR size 2029776 crc e1efca62 md5 6b533d440c196199d5a1ce0a99d90d21 )
-	rom ( name TEXT.CLU size 347456 crc 6e9a5442 md5 103b0e55e300c1746df0b7e91c6c3b57 )
+	rom ( name CREDITS.TXT size 3982 crc 581c6b09 md5 6c6b98dd597a25b9cf25e7d2a83542be sha1 4bc1364251579146bc55fbf6fa4304d96c16bed6 )
+	rom ( name QUANTUM.CLU size 15541696 crc faf873d9 md5 74f13312d44e82c7ff5cc3c91dc4f63f sha1 b3f9ade89deba4bf5aeef6d3d9940aa40e12f1f3 )
+	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 sha1 e2c60289284dcee41f72a2a22ce57fe5561767c2 )
+	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e sha1 9863521d58e10724921e8026b847416270a32772 )
+	rom ( name SPEECH.CLU size 96272424 crc 05457503 md5 c3c7bb6880b87db17d6e996bd33e24b6 sha1 392e12443bf3dc1353d5f74b8f6936665595739f )
+	rom ( name STREAMS\BDEMO.STR size 29806896 crc 5d571f92 md5 dd6dde9f18c22a61712487142cc41b35 sha1 cc130e9a5de3d915db1476226e81cfa87ec42e40 )
+	rom ( name STREAMS\CARIB.STR size 6620880 crc b253199f md5 357c776fa0c4a8ac066c20d149b9228e sha1 3b704e62c503e22b8504cb0e3a4abeb55776e2d9 )
+	rom ( name STREAMS\DUMMY.STR size 1013712 crc b007c7c4 md5 851b0963f6d216c3e51b736254058d9c sha1 6d6c4942d227350ec1f2dcde743421bd3cb494d3 )
+	rom ( name STREAMS\ESCAPE.STR size 7222992 crc e8a92050 md5 7ddbfc5d84639ef664c0fdf8ca688521 sha1 74d7d10ba46c9fcdbe7d1157b7a4cd6addbfe236 )
+	rom ( name STREAMS\FINALE.STR size 43662528 crc b350f278 md5 5687269fb352763fb9551752f1a93d94 sha1 284dcae2063359e6ecac903bd08417540d01c3e1 )
+	rom ( name STREAMS\GUARD.STR size 2293200 crc c6630344 md5 e2b2a83c70174820b3e8da0edd45e45c sha1 63aab9a01d495f7b9f8843212bdfc54ef09f6ec3 )
+	rom ( name STREAMS\INTRO.STR size 52983504 crc 46c7c40a md5 38d4ca10a9f95277899700c3612e7c05 sha1 fbc8811c6887caac19f7bf3304fec7d22777f94c )
+	rom ( name STREAMS\JUNGLE.STR size 5567184 crc 81ead09d md5 8bc8079788f6ff4de717a4558a58e3a8 sha1 a3f55221d902b30e689de869f5da9d8ba2b5d81c )
+	rom ( name STREAMS\MUSEUM.STR size 5040336 crc cfa1e341 md5 53f9bd35e4a1b85c80e8778801a2a1dc sha1 3f66951c45babc03258de925910bc788afa47d8c )
+	rom ( name STREAMS\PABLO.STR size 2293200 crc 5c909cc5 md5 e7c1cdcbd6deae12ad19d07260b089d5 sha1 716480bd5a6b9aaeb37ece811ac73524cb509c46 )
+	rom ( name STREAMS\PYRAMID.STR size 1879248 crc 2d1f965b md5 a98e578525d342c538f334238dd9e347 sha1 262daa914e72ccc0ca8fb4364886d70d8ab93206 )
+	rom ( name STREAMS\QUARAM.STR size 5491920 crc 81f64678 md5 fdd64063fad3c6c8079388ff88bfa305 sha1 390e571787a71daa981cdf96495ef53e2f311cd1 )
+	rom ( name STREAMS\RDEMO.STR size 36973440 crc 224cb009 md5 114b7fcc341c84e3d210ba85aeddf966 sha1 dc743e5be57da2a48a4fb36e14e09179c06ae582 )
+	rom ( name STREAMS\RIVER.STR size 19415760 crc 066c70bf md5 07bbd74009d43e1cfc887c7604c5de84 sha1 18bc8a3cf3ee969e9b76b94aeb1a2e878d3991f8 )
+	rom ( name STREAMS\SAILING.STR size 4174800 crc c92286c7 md5 ef93d1dbc243cf985d8225b8515d60cd sha1 6d89f6e714bafc53b830250df86c75efd6b8b2e6 )
+	rom ( name STREAMS\SHAMAN.STR size 25888464 crc 148a84d9 md5 9f914d6da439f4155679c68b8a64257c sha1 017007236cc64b4dbeef7c647ecb05da57891a3f )
+	rom ( name STREAMS\STONE1.STR size 1013712 crc fc399b86 md5 dfb6ec3632fa07fd18d3b7425cc547f8 sha1 03447e1eb50cb64036de29d54efcb41ae429fbe7 )
+	rom ( name STREAMS\STONE2.STR size 9631440 crc c361f2fb md5 b50406b8a1641dcd789155a962d3068e sha1 7d1073554595c24a1a1ffc157e21d4f128c09033 )
+	rom ( name STREAMS\STONE3.STR size 2029776 crc e1efca62 md5 6b533d440c196199d5a1ce0a99d90d21 sha1 30107e6ed95fa437a24eb9056e6230c04ed4a6ff )
+	rom ( name TEXT.CLU size 347456 crc 6e9a5442 md5 103b0e55e300c1746df0b7e91c6c3b57 sha1 efd4ef87b3e5f8def3fa033528078a99cb5242f4 )
 )
 
 game (
 	name sword2psx-es
-	description "Broken Sword II: The Smoking Mirror (PlayStation/Spanish)[!]"
+	description "Broken Sword II: The Smoking Mirror {Broken Sword II: Las Fuerzas del Mal}(PlayStation/Spanish)[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2psxres
-	rom ( name CREDITS.TXT size 4624 crc 4aa2f9e4 md5 728530292cdcc914a13ee520de2812b9 )
-	rom ( name QUANTUM.CLU size 15540736 crc c9202f5d md5 e63342a370eeb7c895b2b9ba6c5a640c )
-	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 )
-	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e )
-	rom ( name SPEECH.CLU size 94233368 crc 6a574c72 md5 8728fe1a4d6b7daddbe6cb1018040fe8 )
-	rom ( name STREAMS\BDEMO.STR size 29806896 crc 917bce2a md5 d702009979fd5dc8684e065ed6d6184d )
-	rom ( name STREAMS\CARIB.STR size 6620880 crc 39dc133a md5 5b62d3c8ed54387fb6ede05cbfe436d1 )
-	rom ( name STREAMS\DUMMY.STR size 1013712 crc f58bf37e md5 0c4401cc1d355b3d0e67f55ed10b2c13 )
-	rom ( name STREAMS\ESCAPE.STR size 7222992 crc 1ad0c8a5 md5 12bea986af22c8be79bcf55ab68b5a36 )
-	rom ( name STREAMS\FINALE.STR size 43662528 crc 8323186d md5 693534f0249ada2ea2059225c3e0fb9f )
-	rom ( name STREAMS\GUARD.STR size 2293200 crc f252acf0 md5 77dfbd5ac63f2d447e539e2e332a1773 )
-	rom ( name STREAMS\INTRO.STR size 52983504 crc b1b3fc83 md5 bf3dc67675c1c1bb349cd43e523a3c0a )
-	rom ( name STREAMS\JUNGLE.STR size 5567184 crc c5314f57 md5 e9f6a05875c6391c7fc0e3bcbeb0abde )
-	rom ( name STREAMS\MUSEUM.STR size 5040336 crc 05712ac0 md5 30f5afbc10f4824873f62abd714bd4e6 )
-	rom ( name STREAMS\PABLO.STR size 2293200 crc 32331fab md5 71be43a995827024ff5da8cd62ad8a3c )
-	rom ( name STREAMS\PYRAMID.STR size 1879248 crc a978f6a7 md5 788f6d993a205c1515c02e68798feebb )
-	rom ( name STREAMS\QUARAM.STR size 5491920 crc 313ec9ab md5 1912ada9cf54b91f981066db8bbcaf01 )
-	rom ( name STREAMS\RDEMO.STR size 36973440 crc 59fffa3f md5 28ab30c84ab6e326f07d04b69f4d0643 )
-	rom ( name STREAMS\RIVER.STR size 19415760 crc 76dbadd9 md5 863f79d8aca599992bfc46a208de8ed0 )
-	rom ( name STREAMS\SAILING.STR size 4174800 crc c0b43376 md5 210d03dfdaa2412cd36a9a226e8667b9 )
-	rom ( name STREAMS\SHAMAN.STR size 25888464 crc 828b3e8b md5 13e69b2a57cd86699027b64407d719ea )
-	rom ( name STREAMS\STONE1.STR size 1013712 crc acecbf66 md5 464b2cf17b6f06e627e53465cbbbd3ee )
-	rom ( name STREAMS\STONE2.STR size 9631440 crc 44c88325 md5 5283157298a7f6f08618aa55b2d1619c )
-	rom ( name STREAMS\STONE3.STR size 2029776 crc 8e7c32a1 md5 7fec236df65cab4e50a2b1e759970467 )
-	rom ( name TEXT.CLU size 316124 crc 4c862291 md5 e26748d7f8aefdf767d1653451bde9ec )
+	rom ( name CREDITS.TXT size 4624 crc 4aa2f9e4 md5 728530292cdcc914a13ee520de2812b9 sha1 972de33f8e6523fe978c7d0d1e035dd3e1646e97 )
+	rom ( name QUANTUM.CLU size 15540736 crc c9202f5d md5 e63342a370eeb7c895b2b9ba6c5a640c sha1 c0d6061aaa091ce9b9a2ee579559b9191f1960f6 )
+	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 sha1 e2c60289284dcee41f72a2a22ce57fe5561767c2 )
+	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e sha1 9863521d58e10724921e8026b847416270a32772 )
+	rom ( name SPEECH.CLU size 94233368 crc 6a574c72 md5 8728fe1a4d6b7daddbe6cb1018040fe8 sha1 c80ff7a6668b3b02884d8b2542a90ff81ca79052 )
+	rom ( name STREAMS\BDEMO.STR size 29806896 crc 917bce2a md5 d702009979fd5dc8684e065ed6d6184d sha1 7b26fc65b29105e158829dd3de39bebc3d8218cc )
+	rom ( name STREAMS\CARIB.STR size 6620880 crc 39dc133a md5 5b62d3c8ed54387fb6ede05cbfe436d1 sha1 655a40b45676254e2ecc361067d28396b6afa3c6 )
+	rom ( name STREAMS\DUMMY.STR size 1013712 crc f58bf37e md5 0c4401cc1d355b3d0e67f55ed10b2c13 sha1 afe9a1547fe6d63e7e784090780b92712aa262ff )
+	rom ( name STREAMS\ESCAPE.STR size 7222992 crc 1ad0c8a5 md5 12bea986af22c8be79bcf55ab68b5a36 sha1 28c9ac363fbecd306016536db69427dd0496184a )
+	rom ( name STREAMS\FINALE.STR size 43662528 crc 8323186d md5 693534f0249ada2ea2059225c3e0fb9f sha1 4c8b148a69f830a8d8ded79c178c16827da73a60 )
+	rom ( name STREAMS\GUARD.STR size 2293200 crc f252acf0 md5 77dfbd5ac63f2d447e539e2e332a1773 sha1 5f4cbf8e9a5e77f8e345ec2395314a82703686b2 )
+	rom ( name STREAMS\INTRO.STR size 52983504 crc b1b3fc83 md5 bf3dc67675c1c1bb349cd43e523a3c0a sha1 105d72831fb4127229aa77ff3c5a5a5d0b7ef9d0 )
+	rom ( name STREAMS\JUNGLE.STR size 5567184 crc c5314f57 md5 e9f6a05875c6391c7fc0e3bcbeb0abde sha1 62193a4e58e3df2ea4e969a15b510ccd7e882ec3 )
+	rom ( name STREAMS\MUSEUM.STR size 5040336 crc 05712ac0 md5 30f5afbc10f4824873f62abd714bd4e6 sha1 48a86f26847a11b0cba0874fe25ada0826f0fca0 )
+	rom ( name STREAMS\PABLO.STR size 2293200 crc 32331fab md5 71be43a995827024ff5da8cd62ad8a3c sha1 2ab6f7d7163e3c0b93f083c314f94b4146b1ecf6 )
+	rom ( name STREAMS\PYRAMID.STR size 1879248 crc a978f6a7 md5 788f6d993a205c1515c02e68798feebb sha1 ae2cad404fea179365ba1cac9e9a1e45ffbdb69d )
+	rom ( name STREAMS\QUARAM.STR size 5491920 crc 313ec9ab md5 1912ada9cf54b91f981066db8bbcaf01 sha1 879c01e283d6db0a276cf5ace1fe95c3272299ed )
+	rom ( name STREAMS\RDEMO.STR size 36973440 crc 59fffa3f md5 28ab30c84ab6e326f07d04b69f4d0643 sha1 8d6bc541ba9efe1daaa5187b7bd8525518e106b1 )
+	rom ( name STREAMS\RIVER.STR size 19415760 crc 76dbadd9 md5 863f79d8aca599992bfc46a208de8ed0 sha1 17ca0a805f80fa89377dcae23a43ec004b5745d5 )
+	rom ( name STREAMS\SAILING.STR size 4174800 crc c0b43376 md5 210d03dfdaa2412cd36a9a226e8667b9 sha1 8786971972898554b95e2ab9f9ed0b032b884e11 )
+	rom ( name STREAMS\SHAMAN.STR size 25888464 crc 828b3e8b md5 13e69b2a57cd86699027b64407d719ea sha1 3bf09f1dbfe74b19b8a8311777edc6ab176ae29f )
+	rom ( name STREAMS\STONE1.STR size 1013712 crc acecbf66 md5 464b2cf17b6f06e627e53465cbbbd3ee sha1 94a76a246500e35fb061ac5304fa578a73470051 )
+	rom ( name STREAMS\STONE2.STR size 9631440 crc 44c88325 md5 5283157298a7f6f08618aa55b2d1619c sha1 8b1ba04c2bf4161601e16336eac9c1cc26d497ee )
+	rom ( name STREAMS\STONE3.STR size 2029776 crc 8e7c32a1 md5 7fec236df65cab4e50a2b1e759970467 sha1 2902c894403b31d7597b77e2eea7fdaea084f115 )
+	rom ( name TEXT.CLU size 316124 crc 4c862291 md5 e26748d7f8aefdf767d1653451bde9ec sha1 911ef29741215bb102577dfbd12e03eec2f7f6bc )
 )
 
 game (
 	name sword2psx-fr
-	description "Broken Sword II: The Smoking Mirror (PlayStation/French)[!]"
+	description "Broken Sword II: The Smoking Mirror {Les Chevaliers de Baphomet II: Les Boucliers de Quetzalcoatl}(PlayStation/French)[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2psxres
-	rom ( name CREDITS.TXT size 3269 crc c0a370a1 md5 1c268779816dc7f9589d815e8d1a9f3d )
-	rom ( name QUANTUM.CLU size 15540392 crc ceeb50dc md5 06fe7bdd28690064e3b55db329735dc0 )
-	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 )
-	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e )
-	rom ( name SPEECH.CLU size 95231864 crc 235e7819 md5 b4cfb16be7fce8cdd61e6cecb01297e2 )
-	rom ( name STREAMS\BDEMO.STR size 29806896 crc 53b4c524 md5 395ed7fb91e544b178ed720d124789d8 )
-	rom ( name STREAMS\CARIB.STR size 6620880 crc 9a3943b5 md5 56b2c5486e5d79ed0aa9a85165487ab0 )
-	rom ( name STREAMS\DUMMY.STR size 1013712 crc 472d558b md5 199a828cc930836fe21123544aca1884 )
-	rom ( name STREAMS\ESCAPE.STR size 7222992 crc dfbcfdaf md5 ed9c7b932d15eddbdd57f142c9450446 )
-	rom ( name STREAMS\FINALE.STR size 43662528 crc 723babc2 md5 c91b2aebf8821dd3ddb40e5a20f104ee )
-	rom ( name STREAMS\GUARD.STR size 2293200 crc 6c092f2a md5 70c0fa19d844502cb9efede98594aa09 )
-	rom ( name STREAMS\INTRO.STR size 52983504 crc a5a38d8e md5 61e58d9b6d7193c3f397059db1cb944e )
-	rom ( name STREAMS\JUNGLE.STR size 5567184 crc 8128bb71 md5 ca41b1991ae75bbedaa96fa78f70a0d5 )
-	rom ( name STREAMS\MUSEUM.STR size 5040336 crc 4edce35f md5 bb69eea4eebcd81b146291f464c7f424 )
-	rom ( name STREAMS\PABLO.STR size 2293200 crc fb44a247 md5 11f7853526b580ee3c9b330244d9b2d0 )
-	rom ( name STREAMS\PYRAMID.STR size 1879248 crc f7d39826 md5 d0c7e0302cbadd35c20bf6718edba5d5 )
-	rom ( name STREAMS\QUARAM.STR size 5491920 crc fec5d1ad md5 2aba8238fef6a90c2addbd4f5b5a05d8 )
-	rom ( name STREAMS\RDEMO.STR size 36973440 crc 691b8904 md5 bd7a4a4d593f74df499872214af965d2 )
-	rom ( name STREAMS\RIVER.STR size 19415760 crc c5d5611f md5 26d76ca6a58647b4ab7a4217809e576d )
-	rom ( name STREAMS\SAILING.STR size 4174800 crc d1184ad7 md5 82b58adc0290e4862a059f25944fdd41 )
-	rom ( name STREAMS\SHAMAN.STR size 25888464 crc c5850e1e md5 c71ce0572a3695c379307b3c7398f41b )
-	rom ( name STREAMS\STONE1.STR size 1013712 crc d097f129 md5 2ca6c71d2f1d29848de9d02a54c773e1 )
-	rom ( name STREAMS\STONE2.STR size 9631440 crc ac3f04ec md5 fe156e5fccbc4791e46ec753820b5134 )
-	rom ( name STREAMS\STONE3.STR size 2029776 crc 68cc0c47 md5 d0aaee98f6daf4cc848b3608eb9f7aeb )
-	rom ( name TEXT.CLU size 327668 crc 1c233f7b md5 efa2c334e11b3a5477f80f6bbba0286e )
+	rom ( name CREDITS.TXT size 3269 crc c0a370a1 md5 1c268779816dc7f9589d815e8d1a9f3d sha1 fd29cefd896431d6122c7e79f11159c89f2169db )
+	rom ( name QUANTUM.CLU size 15540392 crc ceeb50dc md5 06fe7bdd28690064e3b55db329735dc0 sha1 523732ccc47de624de5484c4616fdfacefb03d5b )
+	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 sha1 e2c60289284dcee41f72a2a22ce57fe5561767c2 )
+	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e sha1 9863521d58e10724921e8026b847416270a32772 )
+	rom ( name SPEECH.CLU size 95231864 crc 235e7819 md5 b4cfb16be7fce8cdd61e6cecb01297e2 sha1 f78c838bc911d9c27787a31c9b7ef99a12072f84 )
+	rom ( name STREAMS\BDEMO.STR size 29806896 crc 53b4c524 md5 395ed7fb91e544b178ed720d124789d8 sha1 2c98f7c610168e9e98d71fb010d25ecdafd76949 )
+	rom ( name STREAMS\CARIB.STR size 6620880 crc 9a3943b5 md5 56b2c5486e5d79ed0aa9a85165487ab0 sha1 293a858f94d04de4f2819902aa64dd2fb167aeab )
+	rom ( name STREAMS\DUMMY.STR size 1013712 crc 472d558b md5 199a828cc930836fe21123544aca1884 sha1 0f5ab8d771c0b9b09dc566c94219aca188d2ddd6 )
+	rom ( name STREAMS\ESCAPE.STR size 7222992 crc dfbcfdaf md5 ed9c7b932d15eddbdd57f142c9450446 sha1 a244537f6d80c823077680857c83e6104f85490b )
+	rom ( name STREAMS\FINALE.STR size 43662528 crc 723babc2 md5 c91b2aebf8821dd3ddb40e5a20f104ee sha1 01f9ce72f95ccd0ad0a038fe59d12ed79d0c4e35 )
+	rom ( name STREAMS\GUARD.STR size 2293200 crc 6c092f2a md5 70c0fa19d844502cb9efede98594aa09 sha1 abc3cdc19bcda592934966cc00d2bad0dccb1a07 )
+	rom ( name STREAMS\INTRO.STR size 52983504 crc a5a38d8e md5 61e58d9b6d7193c3f397059db1cb944e sha1 824d4df5e53d21a657b3509588d11edf346660cc )
+	rom ( name STREAMS\JUNGLE.STR size 5567184 crc 8128bb71 md5 ca41b1991ae75bbedaa96fa78f70a0d5 sha1 3e7998339e0872d521be41d4b9c7c23dbd734465 )
+	rom ( name STREAMS\MUSEUM.STR size 5040336 crc 4edce35f md5 bb69eea4eebcd81b146291f464c7f424 sha1 478565cd8764b04768f5f1cbe8e7a084f4bccdf3 )
+	rom ( name STREAMS\PABLO.STR size 2293200 crc fb44a247 md5 11f7853526b580ee3c9b330244d9b2d0 sha1 7db81f35e23cc164c7a93a17ab2e5bda6194cc1b )
+	rom ( name STREAMS\PYRAMID.STR size 1879248 crc f7d39826 md5 d0c7e0302cbadd35c20bf6718edba5d5 sha1 44f432c581de4db120d33a102cb032657e51206f )
+	rom ( name STREAMS\QUARAM.STR size 5491920 crc fec5d1ad md5 2aba8238fef6a90c2addbd4f5b5a05d8 sha1 7736942ef8238f12c6c1c0bdb8c41584349b205d )
+	rom ( name STREAMS\RDEMO.STR size 36973440 crc 691b8904 md5 bd7a4a4d593f74df499872214af965d2 sha1 8fc0e7d6948b31cc7bcc9c1d733f6b924251c048 )
+	rom ( name STREAMS\RIVER.STR size 19415760 crc c5d5611f md5 26d76ca6a58647b4ab7a4217809e576d sha1 200f5864b91c82265ad4d599345da966c69ae33f )
+	rom ( name STREAMS\SAILING.STR size 4174800 crc d1184ad7 md5 82b58adc0290e4862a059f25944fdd41 sha1 72999b323e250ea98d157e528cee63773825f0b0 )
+	rom ( name STREAMS\SHAMAN.STR size 25888464 crc c5850e1e md5 c71ce0572a3695c379307b3c7398f41b sha1 a808f8085a5a7b5f82436546a923f25788bb6e82 )
+	rom ( name STREAMS\STONE1.STR size 1013712 crc d097f129 md5 2ca6c71d2f1d29848de9d02a54c773e1 sha1 7698e2815691e81b5d6bc8a97c5c9629f26163e4 )
+	rom ( name STREAMS\STONE2.STR size 9631440 crc ac3f04ec md5 fe156e5fccbc4791e46ec753820b5134 sha1 5cf96571bb92077ed88660c94344027fc8ddb30a )
+	rom ( name STREAMS\STONE3.STR size 2029776 crc 68cc0c47 md5 d0aaee98f6daf4cc848b3608eb9f7aeb sha1 ec20f2c8d1b6e3d39e3ad00b3cb38575f086bd0e )
+	rom ( name TEXT.CLU size 327668 crc 1c233f7b md5 efa2c334e11b3a5477f80f6bbba0286e sha1 a05f3f1403d84f3f0a29be6d849396173387095e )
 )
 
 game (
 	name sword2psx-it
-	description "Broken Sword II: The Smoking Mirror (PlayStation/Italian)[!]"
+	description "Broken Sword II: The Smoking Mirror {Broken Sword II: La Profezia dei Maya}(PlayStation/Italian)[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2psxres
-	rom ( name CREDITS.TXT size 4269 crc b8892501 md5 a7de18b465596d3a93665cf48e4024dc )
-	rom ( name QUANTUM.CLU size 15541472 crc 8a8d02b7 md5 e0ed83483750c31d3fc9ba9cc7e8a9bb )
-	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 )
-	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e )
-	rom ( name SPEECH.CLU size 112288808 crc ef35837e md5 a5c25ea9390ae26a808723ca40680819 )
-	rom ( name STREAMS\BDEMO.STR size 29806896 crc 78185ed2 md5 9f3ec1d8352fd97b7dc0b2bc47f9d97d )
-	rom ( name STREAMS\CARIB.STR size 6620880 crc 6f3eb0c8 md5 6b0f79b619ee77bdcfb556ad98193701 )
-	rom ( name STREAMS\DUMMY.STR size 1013712 crc cd07856e md5 8da988c39c1aa0e06febd16fe5b4dd26 )
-	rom ( name STREAMS\ESCAPE.STR size 7222992 crc d2d53152 md5 4b407f3582a6338a6e8be433922f8abb )
-	rom ( name STREAMS\FINALE.STR size 43662528 crc 0e706572 md5 4acc4fefb76e11f0c5af1d6964a2ab70 )
-	rom ( name STREAMS\GUARD.STR size 2293200 crc 5586ddf6 md5 0868d92be4174beb5304ed890434ddd6 )
-	rom ( name STREAMS\INTRO.STR size 52983504 crc b9aad1bb md5 e2b521c71a6d20cc66890a679a12096e )
-	rom ( name STREAMS\JUNGLE.STR size 5567184 crc 0723e895 md5 cd0af1d219533db190a98f13c916b2dc )
-	rom ( name STREAMS\MUSEUM.STR size 5040336 crc 79acb8cd md5 5e265413535a8dea304a53e6afc5eea6 )
-	rom ( name STREAMS\PABLO.STR size 2293200 crc 552935b2 md5 86dadf1992dd4393c0fe2dce71afa167 )
-	rom ( name STREAMS\PYRAMID.STR size 1879248 crc b9c4e101 md5 7a5f5600e2f97f9740f058e3db9c3420 )
-	rom ( name STREAMS\QUARAM.STR size 5491920 crc f3f9a816 md5 c62df981811c185d7344abce486db40e )
-	rom ( name STREAMS\RDEMO.STR size 36973440 crc 7638fedd md5 70ad50dc64fc94bce5c8d02542ef57f5 )
-	rom ( name STREAMS\RIVER.STR size 19415760 crc fafc596c md5 542d9df0d56791090e58c52dfcceb740 )
-	rom ( name STREAMS\SAILING.STR size 4174800 crc 4ad90eb2 md5 8a4f69f88daf8add938ce9c80bb54641 )
-	rom ( name STREAMS\SHAMAN.STR size 25888464 crc 8797290e md5 37068381f3ca9b64df6bea94a29b5f6f )
-	rom ( name STREAMS\STONE1.STR size 1013712 crc 40d0d7ba md5 7d724eb8b617b89626139f641aedef39 )
-	rom ( name STREAMS\STONE2.STR size 9631440 crc cbb6c5d9 md5 05c3ca4364c9fb1e7ebf3a0ce7fd7487 )
-	rom ( name STREAMS\STONE3.STR size 2029776 crc 7dbfc3f4 md5 6230a3cba5332f06cba9e1633efb0392 )
-	rom ( name TEXT.CLU size 334784 crc 60692217 md5 661a888dbe2f6ae19b937f938bfad3c9 )
+	rom ( name CREDITS.TXT size 4269 crc b8892501 md5 a7de18b465596d3a93665cf48e4024dc sha1 5445efe042d048f0b798b3e01af2350e4170f5ad )
+	rom ( name QUANTUM.CLU size 15541472 crc 8a8d02b7 md5 e0ed83483750c31d3fc9ba9cc7e8a9bb sha1 1854e1df67de0e1efe3a29906b727befae348093 )
+	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 sha1 e2c60289284dcee41f72a2a22ce57fe5561767c2 )
+	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e sha1 9863521d58e10724921e8026b847416270a32772 )
+	rom ( name SPEECH.CLU size 112288808 crc ef35837e md5 a5c25ea9390ae26a808723ca40680819 sha1 d97ed059bd37e4a013c1cef1985bc90d6996237e )
+	rom ( name STREAMS\BDEMO.STR size 29806896 crc 78185ed2 md5 9f3ec1d8352fd97b7dc0b2bc47f9d97d sha1 aad17e7c08f97f9d055e4d178290e7a68c3d6576 )
+	rom ( name STREAMS\CARIB.STR size 6620880 crc 6f3eb0c8 md5 6b0f79b619ee77bdcfb556ad98193701 sha1 dea03273a7e899b63b57c37f385c502a35c91d65 )
+	rom ( name STREAMS\DUMMY.STR size 1013712 crc cd07856e md5 8da988c39c1aa0e06febd16fe5b4dd26 sha1 2145d9f383ef19e62a9958f08d409df709ceb71a )
+	rom ( name STREAMS\ESCAPE.STR size 7222992 crc d2d53152 md5 4b407f3582a6338a6e8be433922f8abb sha1 03d5eb14673c2b727bcb2843aaefa58ea08aff06 )
+	rom ( name STREAMS\FINALE.STR size 43662528 crc 0e706572 md5 4acc4fefb76e11f0c5af1d6964a2ab70 sha1 c6f69ca5721278d76bff42aaaa8b71456c6938ea )
+	rom ( name STREAMS\GUARD.STR size 2293200 crc 5586ddf6 md5 0868d92be4174beb5304ed890434ddd6 sha1 414723850158882d44c65139bb5f5135a1b33554 )
+	rom ( name STREAMS\INTRO.STR size 52983504 crc b9aad1bb md5 e2b521c71a6d20cc66890a679a12096e sha1 1cfd869eb5a550944b5247954ff9c331d48b4929 )
+	rom ( name STREAMS\JUNGLE.STR size 5567184 crc 0723e895 md5 cd0af1d219533db190a98f13c916b2dc sha1 ede4dad081106e805ce36f7cbc67ba51ad7dea34 )
+	rom ( name STREAMS\MUSEUM.STR size 5040336 crc 79acb8cd md5 5e265413535a8dea304a53e6afc5eea6 sha1 724c1d0b372a6a5a4c095b589c076e6e24f12dd1 )
+	rom ( name STREAMS\PABLO.STR size 2293200 crc 552935b2 md5 86dadf1992dd4393c0fe2dce71afa167 sha1 dcd0dffa7fbd9608aba2f1197ba09963961c8a64 )
+	rom ( name STREAMS\PYRAMID.STR size 1879248 crc b9c4e101 md5 7a5f5600e2f97f9740f058e3db9c3420 sha1 d46e3f7a9b67ad87943d3df43348c57eca9326be )
+	rom ( name STREAMS\QUARAM.STR size 5491920 crc f3f9a816 md5 c62df981811c185d7344abce486db40e sha1 f6197e297aada9f70f2ee227532a8e157d479564 )
+	rom ( name STREAMS\RDEMO.STR size 36973440 crc 7638fedd md5 70ad50dc64fc94bce5c8d02542ef57f5 sha1 43d6220dc34fb07c4af2328c8b523c587bb37876 )
+	rom ( name STREAMS\RIVER.STR size 19415760 crc fafc596c md5 542d9df0d56791090e58c52dfcceb740 sha1 07a212d9ef6cfc5e45d9547e91488895289a8011 )
+	rom ( name STREAMS\SAILING.STR size 4174800 crc 4ad90eb2 md5 8a4f69f88daf8add938ce9c80bb54641 sha1 e5e15881d4c1ac9e846a9c288c3d9b3859219b41 )
+	rom ( name STREAMS\SHAMAN.STR size 25888464 crc 8797290e md5 37068381f3ca9b64df6bea94a29b5f6f sha1 64ebdf971513cfd757b66b5c99f0362d1da3d4cb )
+	rom ( name STREAMS\STONE1.STR size 1013712 crc 40d0d7ba md5 7d724eb8b617b89626139f641aedef39 sha1 6ee9e5c9c6fc9a545d3c3e974140a0f59d0f5383 )
+	rom ( name STREAMS\STONE2.STR size 9631440 crc cbb6c5d9 md5 05c3ca4364c9fb1e7ebf3a0ce7fd7487 sha1 b281303349c42c39973f70fe7e36103c7e307deb )
+	rom ( name STREAMS\STONE3.STR size 2029776 crc 7dbfc3f4 md5 6230a3cba5332f06cba9e1633efb0392 sha1 d15d779c32e58c6297d75b3f01507e25a8d3fcc8 )
+	rom ( name TEXT.CLU size 334784 crc 60692217 md5 661a888dbe2f6ae19b937f938bfad3c9 sha1 6c5e4f2e7efa46c3c807b8395abd97293f1cfff9 )
 )
 
 game (
@@ -422,167 +558,194 @@ game (
 	manufacturer "Revolution Software"
 	sourcefile sword2
 	romof bs2psxres
-	rom ( name CREDITS.TXT size 4213 crc e409b6b8 md5 8ba309cedbeee465ff2966aa55982c90 )
-	rom ( name QUANTUM.CLU size 15539736 crc 3ea1d2ac md5 5598160401c7121e40940dc76e438691 )
-	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 )
-	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e )
-	rom ( name SPEECH.CLU size 93720104 crc a0eff217 md5 bc7840f3878631346d64a392e8514bdf )
-	rom ( name STREAMS\BDEMO.STR size 29806896 crc 7f89165b md5 415dce14d07fce8f5a3a1484a995065e )
-	rom ( name STREAMS\CARIB.STR size 6620880 crc 1bd711cc md5 440629eca072325163881e0643440f03 )
-	rom ( name STREAMS\CRAVE.STR size 4139520 crc 560eb25f md5 bda6b50250fc14ad7433df08052a0485 )
-	rom ( name STREAMS\DUMMY.STR size 1013712 crc af0ea08a md5 51d2d3472d214361983c772aa22ef035 )
-	rom ( name STREAMS\ESCAPE.STR size 7222992 crc 59c1c0d4 md5 4b164a28f25b3aa3c3de70ff2ccad04e )
-	rom ( name STREAMS\FINALE.STR size 43718976 crc 185b111f md5 0b2f7196fb5e896fb3880da72be0142a )
-	rom ( name STREAMS\GUARD.STR size 2293200 crc c7d36267 md5 3e444eaa8f6593575c8eb9d66796004b )
-	rom ( name STREAMS\INTRO.STR size 52985856 crc 47f4ddf5 md5 83fa3d362ea29524a5633098ac034183 )
-	rom ( name STREAMS\INTRO_X.STR size 52985856 crc 583fdfbc md5 b11e1780e6f14023f2ee76dfced0c8a8 )
-	rom ( name STREAMS\JUNGLE.STR size 5567184 crc c5a6a67e md5 77f6a654a7cd9b2ba6b48cbbef370703 )
-	rom ( name STREAMS\MUSEUM.STR size 5040336 crc b1846fc4 md5 07d6bbaba627d43b8ef4fb1e9afba397 )
-	rom ( name STREAMS\PABLO.STR size 2293200 crc fc112b3e md5 0eb7101cca8fe31ad2ac33d4880575e5 )
-	rom ( name STREAMS\PYRAMID.STR size 1879248 crc 4d466544 md5 551997f08789fdc7a5b8bdc056101610 )
-	rom ( name STREAMS\QUARAM.STR size 5491920 crc de49d99e md5 0d945e31b73db06dd279dfb0a4bc91d3 )
-	rom ( name STREAMS\RDEMO.STR size 36973440 crc 8eef2c90 md5 9e7653474b99b0552a2fbf2ad914c192 )
-	rom ( name STREAMS\RIVER.STR size 19415760 crc d8bded4c md5 cae9056e8998e0c065655b4ead90d7f8 )
-	rom ( name STREAMS\SAILING.STR size 4174800 crc a99d9122 md5 57b18ceba9c811d718ebd02352701d73 )
-	rom ( name STREAMS\SHAMAN.STR size 25888464 crc 651f9182 md5 39dd5fb6d54707b6a0fa5bcb687f692e )
-	rom ( name STREAMS\STONE1.STR size 1025472 crc d3a87cc5 md5 43aab2e8924091043653c459585f0120 )
-	rom ( name STREAMS\STONE2.STR size 9631440 crc e4b34899 md5 6069737213c3b03d3d60333c98d70895 )
-	rom ( name STREAMS\STONE3.STR size 2029776 crc d35698a7 md5 e4541d47f5855479bdaefacff46530e5 )
-	rom ( name TEXT.CLU size 302756 crc d9ade7fa md5 faf7ac9f32260f2e5e99613214c922b0 )
+	rom ( name CREDITS.TXT size 4213 crc e409b6b8 md5 8ba309cedbeee465ff2966aa55982c90 sha1 d9ba7e8f3f2c9ebd0076c5cd1a4cfdaeffa9f213 )
+	rom ( name QUANTUM.CLU size 15539736 crc 3ea1d2ac md5 5598160401c7121e40940dc76e438691 sha1 0a2aef51253528e956b42ec54c9bdb1fcfd78528 )
+	rom ( name RESOURCE.INF size 175 crc 04849207 md5 083ed02db06f11e270c164cb8704b788 sha1 e2c60289284dcee41f72a2a22ce57fe5561767c2 )
+	rom ( name RESOURCE.TAB size 16608 crc 2ea12faa md5 2b99a85ebfc7292655731c6fcae13c9e sha1 9863521d58e10724921e8026b847416270a32772 )
+	rom ( name SPEECH.CLU size 93720104 crc a0eff217 md5 bc7840f3878631346d64a392e8514bdf sha1 96af5f79c227cfa85439073efcd08b5518af5066 )
+	rom ( name STREAMS\BDEMO.STR size 29806896 crc 7f89165b md5 415dce14d07fce8f5a3a1484a995065e sha1 1c49e8b1c6902fd71837c29150c5fadfe97f3d8e )
+	rom ( name STREAMS\CARIB.STR size 6620880 crc 1bd711cc md5 440629eca072325163881e0643440f03 sha1 6c58ab9f07b86d1cec17f968d20360e4ffa43959 )
+	rom ( name STREAMS\CRAVE.STR size 4139520 crc 560eb25f md5 bda6b50250fc14ad7433df08052a0485 sha1 4eafcb8412b8e7424682d79f84a94f2abfa8df5e )
+	rom ( name STREAMS\DUMMY.STR size 1013712 crc af0ea08a md5 51d2d3472d214361983c772aa22ef035 sha1 5b0e9fa55d33d96781c5dd1ee32af49c33ae3f4d )
+	rom ( name STREAMS\ESCAPE.STR size 7222992 crc 59c1c0d4 md5 4b164a28f25b3aa3c3de70ff2ccad04e sha1 1a3fbf87f35d1b50f67d622e0062aed6a60a5501 )
+	rom ( name STREAMS\FINALE.STR size 43718976 crc 185b111f md5 0b2f7196fb5e896fb3880da72be0142a sha1 f159660f079daf65b0149b95e4702e21ed65fe8d )
+	rom ( name STREAMS\GUARD.STR size 2293200 crc c7d36267 md5 3e444eaa8f6593575c8eb9d66796004b sha1 8a96fbd3ccbbb85c7ff11da7541b14567b6c678c )
+	rom ( name STREAMS\INTRO.STR size 52985856 crc 47f4ddf5 md5 83fa3d362ea29524a5633098ac034183 sha1 f9b9e08b03a84f4d3deaef5b1ef2a74dfec8d66b )
+	rom ( name STREAMS\INTRO_X.STR size 52985856 crc 583fdfbc md5 b11e1780e6f14023f2ee76dfced0c8a8 sha1 8449ae344b4ac7b139c556a9de169c37bfcd63a5 )
+	rom ( name STREAMS\JUNGLE.STR size 5567184 crc c5a6a67e md5 77f6a654a7cd9b2ba6b48cbbef370703 sha1 5787686a79efaf724d2da35fae8b7e53975c091e )
+	rom ( name STREAMS\MUSEUM.STR size 5040336 crc b1846fc4 md5 07d6bbaba627d43b8ef4fb1e9afba397 sha1 a872c251061c8c68b572a8a5d62fc8df1e94f1bc )
+	rom ( name STREAMS\PABLO.STR size 2293200 crc fc112b3e md5 0eb7101cca8fe31ad2ac33d4880575e5 sha1 2b5597477c7e083045f372288b603f4bf0ba296f )
+	rom ( name STREAMS\PYRAMID.STR size 1879248 crc 4d466544 md5 551997f08789fdc7a5b8bdc056101610 sha1 01559e48071105dd88d0fff45ca2cd0bd12cf0a4 )
+	rom ( name STREAMS\QUARAM.STR size 5491920 crc de49d99e md5 0d945e31b73db06dd279dfb0a4bc91d3 sha1 3f693bbb5c2fb78101cdf0a20d2128f5d7c07588 )
+	rom ( name STREAMS\RDEMO.STR size 36973440 crc 8eef2c90 md5 9e7653474b99b0552a2fbf2ad914c192 sha1 2b32ae8a6445f6078c87cb6258c35a5bbb18d32d )
+	rom ( name STREAMS\RIVER.STR size 19415760 crc d8bded4c md5 cae9056e8998e0c065655b4ead90d7f8 sha1 7c6b5b8e3439a9043995a6154158ebbaa363353f )
+	rom ( name STREAMS\SAILING.STR size 4174800 crc a99d9122 md5 57b18ceba9c811d718ebd02352701d73 sha1 7aa2f44ff74cb6d55a70fd7115960f6ec7b2d1a1 )
+	rom ( name STREAMS\SHAMAN.STR size 25888464 crc 651f9182 md5 39dd5fb6d54707b6a0fa5bcb687f692e sha1 823720cf2d36ec1be9519dbafbb2e3d9c7f0ac11 )
+	rom ( name STREAMS\STONE1.STR size 1025472 crc d3a87cc5 md5 43aab2e8924091043653c459585f0120 sha1 b83a0fdcd103917f7f60a00dec6f25058cf1eb68 )
+	rom ( name STREAMS\STONE2.STR size 9631440 crc e4b34899 md5 6069737213c3b03d3d60333c98d70895 sha1 11fff5805203179c28c69e834514fa106db6d509 )
+	rom ( name STREAMS\STONE3.STR size 2029776 crc d35698a7 md5 e4541d47f5855479bdaefacff46530e5 sha1 ee35e8cd35e34364a3f1433d7d6dcc01e3793446 )
+	rom ( name TEXT.CLU size 302756 crc d9ade7fa md5 faf7ac9f32260f2e5e99613214c922b0 sha1 7e2c53218444f81550c1b27503dbe7543c338f32 )
 )
 
 game (
 	name sword2psxdemo
-	description "Broken Sword II: The Smoking Mirror {Demo}(PlayStation)"
+	description "Broken Sword II: The Smoking Mirror |Demo|(PlayStation)"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
-	rom ( name DOCKS.CLU size 5818340 crc eb7a2ec0 md5 d1caaca15b76221c63d4d00543bb63b2 )
-	rom ( name DUMMY.STR size 1465296 crc af94392a md5 d4bc0fbe64dd7dbab5ff11618dd52caf )
-	rom ( name GENERAL.CLU size 970460 crc 46c8bfa0 md5 a75622a1482a7f7d32abee6f042ca374 )
-	rom ( name INTRO.STR size 57687504 crc d61d9df2 md5 0956a6472d825ccc04b26531b15cb8e4 )
-	rom ( name MUSIC.CLU size 3635160 crc 23b55dd5 md5 e20a35109332f8ad78fd4464c75eac72 )
-	rom ( name PLAYERS.CLU size 3085812 crc ac3696bc md5 33120670557c32c04f05c6e010c1c770 )
-	rom ( name QUANTUM.CLU size 865712 crc a5e9f37b md5 c86d28e0e4b50552dc5000cc457d921e )
-	rom ( name RDEMO.STR size 36973440 crc b3ef72eb md5 3fa660ba8ce84e6a5588ac58a1bd8ac4 )
-	rom ( name RESOURCE.INF size 160 crc 3d1dd109 md5 d018bccd86d8620430e02e2adac75e16 )
-	rom ( name RESOURCE.TAB size 15340 crc d4d290a9 md5 2348a945f8d75b3dabd24d50cbc54a6d )
-	rom ( name SCREENS.CLU size 1206272 crc 87671a7f md5 6d7290e468e3eeb2ab6f46df0f28ae47 )
-	rom ( name SCRIPTS.CLU size 1380972 crc 64ab10bc md5 16e570e4d9c707d1d43f212f1d4b0355 )
-	rom ( name SPEECH.CLU size 5682944 crc 59b81457 md5 27e284f4db07bbbd8a42ab06b26544d6 )
-	rom ( name TEXT.CLU size 346580 crc d22fb839 md5 4407aa4b87b1bc309b3cfc85944ca119 )
+	rom ( name DOCKS.CLU size 5818340 crc eb7a2ec0 md5 d1caaca15b76221c63d4d00543bb63b2 sha1 f4d982442ca06e152219ba604af9e69c3c38fa0c )
+	rom ( name DUMMY.STR size 1465296 crc af94392a md5 d4bc0fbe64dd7dbab5ff11618dd52caf sha1 49b98417072eda438a62759612cab6c08ddcfa9c )
+	rom ( name GENERAL.CLU size 970460 crc 46c8bfa0 md5 a75622a1482a7f7d32abee6f042ca374 sha1 ca3acf290404ab75e23dbb5f97f67b07374f1517 )
+	rom ( name INTRO.STR size 57687504 crc d61d9df2 md5 0956a6472d825ccc04b26531b15cb8e4 sha1 edb90c730d2d6f1b800383de6714bfabd527d71c )
+	rom ( name MUSIC.CLU size 3635160 crc 23b55dd5 md5 e20a35109332f8ad78fd4464c75eac72 sha1 dc09841cc933bba91439632c2520b6b731a7a4ed )
+	rom ( name PLAYERS.CLU size 3085812 crc ac3696bc md5 33120670557c32c04f05c6e010c1c770 sha1 b6479cc9729efad9dd3c1396019dd9cd631516b4 )
+	rom ( name QUANTUM.CLU size 865712 crc a5e9f37b md5 c86d28e0e4b50552dc5000cc457d921e sha1 a2b77c5d60ee96729e1c3aa4becbcd2215097ad4 )
+	rom ( name RDEMO.STR size 36973440 crc b3ef72eb md5 3fa660ba8ce84e6a5588ac58a1bd8ac4 sha1 b41b98b81078f7e82469c91ba449e8b832b41566 )
+	rom ( name RESOURCE.INF size 160 crc 3d1dd109 md5 d018bccd86d8620430e02e2adac75e16 sha1 c27f9f84de7b8efdeceeced42af6b726c1b8205a )
+	rom ( name RESOURCE.TAB size 15340 crc d4d290a9 md5 2348a945f8d75b3dabd24d50cbc54a6d sha1 77e2fbcbc8d7bcfbf13cf912f66f62547a2936d0 )
+	rom ( name SCREENS.CLU size 1206272 crc 87671a7f md5 6d7290e468e3eeb2ab6f46df0f28ae47 sha1 f7b56bfe60a9a2010f0ccf640a8d983213efae31 )
+	rom ( name SCRIPTS.CLU size 1380972 crc 64ab10bc md5 16e570e4d9c707d1d43f212f1d4b0355 sha1 618f4eeed40638149b1c4e90f004c5d8296a5f12 )
+	rom ( name SPEECH.CLU size 5682944 crc 59b81457 md5 27e284f4db07bbbd8a42ab06b26544d6 sha1 7e5d20faf22bb0bf6c234fee36f3fd590201026d )
+	rom ( name TEXT.CLU size 346580 crc d22fb839 md5 4407aa4b87b1bc309b3cfc85944ca119 sha1 92d876ac3fdbcb19a2dc3014b12d81d109f0ab02 )
 )
 
 resource (
 	name bs21res
-	description "ZZZ - Broken Sword II 1cd version Resources[!]"
+	description "ZZZ - Broken Sword II - 1cd Resources[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
-	rom ( name CARIB2.CLU size 28797271 crc 01e38c1b md5 ef0a8247e12707b289fe78357e10cd78 )
-	rom ( name CARIB3.CLU size 24246760 crc 17903bbe md5 dce5f5dbdb734db727c930b50d726508 )
-	rom ( name MUSIC.CLG size 64988849 crc 415faecb md5 9598db79ccb9a1f80bc60424a219e2e7 )
-	rom ( name PARIS.CLU size 29426152 crc 15d795d6 md5 8dcfb0c138d51229cc30c22c60327e3d )
-	rom ( name PYRAMID2.CLU size 41994533 crc 06c35078 md5 23b6bb3ec87044ca5907699bc11057d5 )
-	rom ( name QUARAMON.CLU size 25676575 crc ff35368e md5 1db1c8a94ca201d057103127321a41ad )
-	rom ( name SPEECH.CLG size 104570405 crc 6e92ccb6 md5 82dddda46487871bf90e660ac9a404ff )
-	rom ( name WAREHOUS.CLU size 26819225 crc f95b8f5f md5 37f69a1f6bdacf58ad77d864638e145d )
+	rom ( name CARIB1.CLU size 29537932 crc 071045d3 md5 60d2a468cb88708efa750bcb8b2ec5fd sha1 b76ba4f2b570b8531d66891e6b865f155ad2ac44 )
+	rom ( name CARIB2.CLU size 28797271 crc 01e38c1b md5 ef0a8247e12707b289fe78357e10cd78 sha1 8f4605b5d2ed4b3e8698eb050ecee2f3bb5cbeea )
+	rom ( name CARIB3.CLU size 24246760 crc 17903bbe md5 dce5f5dbdb734db727c930b50d726508 sha1 3f9698cddc5e88182393f618dc2c021daf59d58a )
+	rom ( name CD.INF size 294 crc 26436211 md5 c4ccbdcb8ecd8fff6c4ecab1b5154dcc sha1 843f079b4c00a82ef60865ed9526fbf42925f2cb )
+	rom ( name CREDITS.BMP size 6372 crc be29521f md5 5dd9ea378e700467011dcd31cc218e38 sha1 7eb6d01dfe6f03c9474a176ebb0973a54b15d6aa )
+	rom ( name DOCKS.CLU size 20262263 crc 0e3ba3bd md5 303ab373ed6c31fc54e530f48296a1d1 sha1 4d105b5dce965fdcf3e4c1b56f0a1bab9833a794 )
+	rom ( name FONT.CLU size 38974 crc 0c646c60 md5 568ed58bd76dc5bb56dc02adcc907d4e sha1 3f238b4685b7edb4d87eeb39da0d9a350f36f0c2 )
+	rom ( name JUNGLE.CLU size 19033297 crc 19d064c8 md5 622a84b8f6dae8d835a85dd15b9f73e3 sha1 19650d2bcb6f66a634a20f6ed7ae63346702f773 )
+	rom ( name MUSIC.CLG size 64988849 crc 415faecb md5 9598db79ccb9a1f80bc60424a219e2e7 sha1 5c9bcee46eaf20801823195bf3ded2663b2cf4ff )
+	rom ( name PARIS.CLU size 29426152 crc 15d795d6 md5 8dcfb0c138d51229cc30c22c60327e3d sha1 23582c183453318a177a3056cbc2d205bfbe825e )
+	rom ( name PLAYERS.CLU size 10091432 crc 4e7b94f8 md5 d3d033975a20112a578a8729a07a59d2 sha1 4306dd15a8cf41d5279b84832bfdd3135f5ad4bd )
+	rom ( name PYRAMID1.CLU size 21758357 crc 71194118 md5 272b6b48f45bf5211510d48b21f0b5ca sha1 803c524e21f0c441afc990d310650c0d887d98fb )
+	rom ( name PYRAMID2.CLU size 41994533 crc 06c35078 md5 23b6bb3ec87044ca5907699bc11057d5 sha1 9e046d26e264fe7f8be19851584ae063eb0bc776 )
+	rom ( name QUARAMON.CLU size 25676575 crc ff35368e md5 1db1c8a94ca201d057103127321a41ad sha1 b6b2f46108605af511d5c226711bbda2777d63fd )
+	rom ( name RESOURCE.INF size 175 crc 796ab450 md5 d356430c06ef318c5a2cda2e85574f43 sha1 5eca4c521057e5fbb7a51890173dbf827b0fe338 )
+	rom ( name RESOURCE.TAB size 16588 crc 884af78a md5 f7c8e7f8b8737190b6317ccd6f8301ac sha1 8655a5d4d493ab4c26dd5bc0caa06cd36c4e5713 )
+	rom ( name SCRIPTS.CLU size 1039952 crc 9663b545 md5 8937d836f3029a03c8d095e351f03da4 sha1 608ea792c8e7a775d2ca55c7056ebce1351d735b )
+	rom ( name SMACKS\CARIB.SMK size 3170556 crc 2935ca0f md5 d8304b8cb81ffb26ec519c02e20b2405 sha1 bb9f831d4651cca908c3ec8b5d679df1a2e72edd )
+	rom ( name SMACKS\ESCAPE.SMK size 4477140 crc d4948aee md5 7d23345f60da61c0f57dc4937d6c917f sha1 010e95a45cde0dac7888d8e3738cb07e77f197e0 )
+	rom ( name SMACKS\EYE.SMK size 4727068 crc 4af38396 md5 358c412f45ad7df97b4fd7b4513942ac sha1 b285b2ff131677a257442d82b7d68c835d912581 )
+	rom ( name SMACKS\GUARD.SMK size 927156 crc 98045d56 md5 ed5c274539ee3dae9c6feefb34b2cea8 sha1 cac1e6003160567a236c5d2d593dccc61811771b )
+	rom ( name SMACKS\INTRO.SMK size 38465460 crc 983f9fe5 md5 aa6c67749194e292e657fbae6eda7488 sha1 a7b30b0750f378b9887c083590b7faaf003649b0 )
+	rom ( name SMACKS\JUNGLE.SMK size 2164956 crc 4549aaed md5 56a9daf08defd3c14b5396ab92e492c7 sha1 ce282289055930f05a0606641910272d322429a5 )
+	rom ( name SMACKS\MUSEUM.SMK size 4613564 crc 4b90c7bc md5 5af3f3b86e5d0d4fb5628b6086a0c01e sha1 43bd2f004940233e859b98df545bd1fa93056cb6 )
+	rom ( name SMACKS\PABLO.SMK size 932504 crc d3677368 md5 1a4f810e18bed6ade11390f319974ed4 sha1 678c99ecf12494405c56c3ceff8876e8f76bac6e )
+	rom ( name SMACKS\PYRAMID.SMK size 1387316 crc 11bfb60b md5 47b3e4a8dc0001adddf5407ca71727a2 sha1 9832ca22c77dcfc75fed989ea472553f3efbc1d8 )
+	rom ( name SMACKS\QUARAM.SMK size 3352940 crc 29adc38f md5 b382ea4d21e8bd190ca065a0c733e94a sha1 97c34d016d961daa5176f5b74e7487045250e813 )
+	rom ( name SMACKS\RIVER.SMK size 6472748 crc 9119717e md5 7abbe1177d1899646f165f2c428f2294 sha1 87e85ccc877dd262be58f329d7cd778a6ebd441d )
+	rom ( name SMACKS\SAILING.SMK size 2377012 crc 1af14a95 md5 2dc67e62c50349ac9e63e9deb2496419 sha1 e6546b0d839053993b926482c57e30141bb3a4fd )
+	rom ( name SMACKS\STONE1.SMK size 420000 crc 69910621 md5 14b19ea086f583434856e2643db839ed sha1 a953da236dc2cd00839ba5233c7365a9122da34b )
+	rom ( name SMACKS\STONE2.SMK size 3763952 crc d62d571e md5 fc042feaffc6be2ad5c3549a453bc9f3 sha1 240ebb46a81531d13169e0a89a64acfb3537a000 )
+	rom ( name SMACKS\STONE3.SMK size 1232900 crc 14ed796e md5 7bda34235c514aeb31ceaeeb5c90dc8b sha1 d9e97f75bbddf692fa3d66f73a6d2422ec3be40b )
+	rom ( name SPEECH.CLG size 104570405 crc 6e92ccb6 md5 82dddda46487871bf90e660ac9a404ff sha1 b8f85f8c777b2d24248ebebb88ab120145f84189 )
+	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 sha1 a09eea025c8823067426d22875cf031ab146dcc8 )
+	rom ( name WAREHOUS.CLU size 26819225 crc f95b8f5f md5 37f69a1f6bdacf58ad77d864638e145d sha1 a885af02def5fe7e4058bedfe208dd5608893f42 )
 )
 
 resource (
 	name bs2gogres
-	description "ZZZ - Broken Sword II GOG version Resources[!]"
+	description "ZZZ - Broken Sword II - GOG Resources[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
-	rom ( name CARIB1.CLU size 29537932 crc ff3a4bdd md5 7a4429c1c8007d3aa5fabbe50846228e )
-	rom ( name CARIB2.CLU size 28797271 crc dc9cce8d md5 b2547c8c2a3e3322760ea71701506d37 )
-	rom ( name CARIB3.CLU size 24246760 crc 17903bbe md5 dce5f5dbdb734db727c930b50d726508 )
-	rom ( name CD.INF size 294 crc c818f8d6 md5 7812d83ccc0de74063df516a1bf03575 )
-	rom ( name CLUSTER.TAB size 83544 crc e4d791d8 md5 4a5d8ff99ef80db589fcc5d6e54011f3 )
-	rom ( name CREDITS.BMP size 6372 crc be29521f md5 5dd9ea378e700467011dcd31cc218e38 )
-	rom ( name DOCKS.CLU size 20262263 crc 0e3ba3bd md5 303ab373ed6c31fc54e530f48296a1d1 )
-	rom ( name FONT.CLU size 34878 crc 7b7f3e96 md5 efd3833f1d31580f43716b0fb289fcbe )
-	rom ( name JUNGLE.CLU size 19033297 crc c493c474 md5 901801f52ed560549a61dc7c5a48c400 )
-	rom ( name MUSIC1.CLU size 147440068 crc 37500928 md5 b7fa8c50b3d6b7958b39df6e87bb79e2 )
-	rom ( name MUSIC2.CLU size 147226491 crc 1ddc13db md5 a6803d8a8f4f477594233679c2a8bb60 )
-	rom ( name PARIS.CLU size 29426152 crc 2afb4f81 md5 bfbad73c76292534da60cee8eb639b9c )
-	rom ( name PLAYERS.CLU size 10091432 crc 4e7b94f8 md5 d3d033975a20112a578a8729a07a59d2 )
-	rom ( name PYRAMID1.CLU size 21758357 crc 71194118 md5 272b6b48f45bf5211510d48b21f0b5ca )
-	rom ( name PYRAMID2.CLU size 41994533 crc 06c35078 md5 23b6bb3ec87044ca5907699bc11057d5 )
-	rom ( name QUARAMON.CLU size 25676575 crc 57400f9b md5 daed17442ecb49a705110e5af0470c2b )
-	rom ( name RESOURCE.INF size 175 crc 796ab450 md5 d356430c06ef318c5a2cda2e85574f43 )
-	rom ( name RESOURCE.TAB size 16584 crc 7342fd0d md5 40fe3bd2d7a337c95137de130f081e95 )
-	rom ( name SCRIPTS.CLU size 1039952 crc 7b7ff235 md5 afef9bb2b6d155228d3eb959166f4356 )
-	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 )
-	rom ( name WAREHOUS.CLU size 26819225 crc d369c186 md5 117fa4b2d7770a399a73cd8d6dd2cb2b )
+	rom ( name CARIB1.CLU size 29537932 crc ff3a4bdd md5 7a4429c1c8007d3aa5fabbe50846228e sha1 b786b00302df84dbdeac557d7353c212b46a9fbe )
+	rom ( name CARIB2.CLU size 28797271 crc dc9cce8d md5 b2547c8c2a3e3322760ea71701506d37 sha1 bc7e34a60f28a9119641a7e1dea5025da45020aa )
+	rom ( name CARIB3.CLU size 24246760 crc 17903bbe md5 dce5f5dbdb734db727c930b50d726508 sha1 3f9698cddc5e88182393f618dc2c021daf59d58a )
+	rom ( name CD.INF size 294 crc c818f8d6 md5 7812d83ccc0de74063df516a1bf03575 sha1 d576c43ce1f8c1932bcf924f706dbdf2c1d15954 )
+	rom ( name CLUSTER.TAB size 83544 crc e4d791d8 md5 4a5d8ff99ef80db589fcc5d6e54011f3 sha1 b51b0069a0deb71c4ffa3ea5de0242f16b2bcde0 )
+	rom ( name CREDITS.BMP size 6372 crc be29521f md5 5dd9ea378e700467011dcd31cc218e38 sha1 7eb6d01dfe6f03c9474a176ebb0973a54b15d6aa )
+	rom ( name DOCKS.CLU size 20262263 crc 0e3ba3bd md5 303ab373ed6c31fc54e530f48296a1d1 sha1 4d105b5dce965fdcf3e4c1b56f0a1bab9833a794 )
+	rom ( name FONT.CLU size 34878 crc 7b7f3e96 md5 efd3833f1d31580f43716b0fb289fcbe sha1 6dc9cfe9630c12f6b3e25a994ec35ab83c45e377 )
+	rom ( name JUNGLE.CLU size 19033297 crc c493c474 md5 901801f52ed560549a61dc7c5a48c400 sha1 fcc2fbaff0712c5a00f91236676d8b065f317dc9 )
+	rom ( name MUSIC1.CLU size 147440068 crc 37500928 md5 b7fa8c50b3d6b7958b39df6e87bb79e2 sha1 04aba135daaeb5ec5f4337495b8629f89fffe749 )
+	rom ( name MUSIC2.CLU size 147226491 crc 1ddc13db md5 a6803d8a8f4f477594233679c2a8bb60 sha1 c3f7228dbb5c3a735fb9eb97b7f21f6f148bf7b1 )
+	rom ( name PARIS.CLU size 29426152 crc 2afb4f81 md5 bfbad73c76292534da60cee8eb639b9c sha1 71db1779d6bc9aaba1a3b493b300e9e2600a06dc )
+	rom ( name PLAYERS.CLU size 10091432 crc 4e7b94f8 md5 d3d033975a20112a578a8729a07a59d2 sha1 4306dd15a8cf41d5279b84832bfdd3135f5ad4bd )
+	rom ( name PYRAMID1.CLU size 21758357 crc 71194118 md5 272b6b48f45bf5211510d48b21f0b5ca sha1 803c524e21f0c441afc990d310650c0d887d98fb )
+	rom ( name PYRAMID2.CLU size 41994533 crc 06c35078 md5 23b6bb3ec87044ca5907699bc11057d5 sha1 9e046d26e264fe7f8be19851584ae063eb0bc776 )
+	rom ( name QUARAMON.CLU size 25676575 crc 57400f9b md5 daed17442ecb49a705110e5af0470c2b sha1 ed82b5d6ea3854c8f956dbf98899381eb33c3671 )
+	rom ( name RESOURCE.INF size 175 crc 796ab450 md5 d356430c06ef318c5a2cda2e85574f43 sha1 5eca4c521057e5fbb7a51890173dbf827b0fe338 )
+	rom ( name RESOURCE.TAB size 16584 crc 7342fd0d md5 40fe3bd2d7a337c95137de130f081e95 sha1 2b7968c91bc7478708bc0ce4be72e5d2b71ff74e )
+	rom ( name SCRIPTS.CLU size 1039952 crc 7b7ff235 md5 afef9bb2b6d155228d3eb959166f4356 sha1 6f5cd8f62f6fa76193e8ce9125319d240f25e64e )
+	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 sha1 a09eea025c8823067426d22875cf031ab146dcc8 )
+	rom ( name WAREHOUS.CLU size 26819225 crc d369c186 md5 117fa4b2d7770a399a73cd8d6dd2cb2b sha1 7383ce5a8e829e269dd05f84ba409776f9aa51cb )
 )
 
 resource (
 	name bs2psxres
-	description "ZZZ - Broken Sword II PlayStation Resources[!]"
+	description "ZZZ - Broken Sword II - PlayStation Resources[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
-	rom ( name CARIB1.CLU size 7698412 crc 91fb1e97 md5 0e97e41e622ac1467a38827600bbb2af )
-	rom ( name CARIB2.CLU size 6296828 crc 4de0282a md5 44543f937c4bbe903ccb10dcfbcd89bf )
-	rom ( name CARIB3.CLU size 6523124 crc 1bdba516 md5 a13c6e6b7864647fb65800e5d340f387 )
-	rom ( name DOCKS.CLU size 5654572 crc 591e974b md5 787c244f46e14751055fc3eb98e54a30 )
-	rom ( name GENERAL.CLU size 2095780 crc 285261ef md5 ac9671bf6fa6dc91aaa2ec856b9dbe5f )
-	rom ( name JUNGLE.CLU size 4799804 crc e644f3ec md5 a080a4436106ddc6d7e601008f570fe7 )
-	rom ( name MUSIC.CLU size 78843568 crc c7e91c31 md5 dec150690bbc4791ffd2648532abff41 )
-	rom ( name PARIS.CLU size 7848676 crc d2960b36 md5 a276e2355854eb61f783f4f88f3b733a )
-	rom ( name PLAYERS.CLU size 2820924 crc ac8e94ce md5 453cd71c269d738c9ef9f5a8b8bfeb1e )
-	rom ( name PYRAMID1.CLU size 6552452 crc 15c0509f md5 a11f56ffe1b55bb568e89e917024f8f5 )
-	rom ( name PYRAMID2.CLU size 8558572 crc 99d46578 md5 c893f59419ef7b6e95c677dbcfe4ca55 )
-	rom ( name QUARAMON.CLU size 6553692 crc 618d0dff md5 078c47f9dccc02a884c9045e2649f972 )
-	rom ( name SCREENS.CLU size 19955712 crc 12d70191 md5 21f8eb0d9d79d1dc543ac9b7f6f6202f )
-	rom ( name SCRIPTS.CLU size 987036 crc adf23879 md5 f13e7d75a912d1be43069d651faafcfd )
-	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 )
-	rom ( name WAREHOUS.CLU size 7640988 crc cf1efa1a md5 90658b37ef2640c9fd9421c4ef562a2c )
+	rom ( name CARIB1.CLU size 7698412 crc 91fb1e97 md5 0e97e41e622ac1467a38827600bbb2af sha1 73d49cf1daf5262ba03acabe666e6a4b4626baab )
+	rom ( name CARIB2.CLU size 6296828 crc 4de0282a md5 44543f937c4bbe903ccb10dcfbcd89bf sha1 89b5614a154b03afcfde70fb60002e765569ad47 )
+	rom ( name CARIB3.CLU size 6523124 crc 1bdba516 md5 a13c6e6b7864647fb65800e5d340f387 sha1 3e231f695faf77122a2615efd76f482ceec0f4be )
+	rom ( name DOCKS.CLU size 5654572 crc 591e974b md5 787c244f46e14751055fc3eb98e54a30 sha1 373684f384b0633b5c49251d0e956071b564782c )
+	rom ( name GENERAL.CLU size 2095780 crc 285261ef md5 ac9671bf6fa6dc91aaa2ec856b9dbe5f sha1 f9036e32e03693da09842e4b88de4f102318b5a8 )
+	rom ( name JUNGLE.CLU size 4799804 crc e644f3ec md5 a080a4436106ddc6d7e601008f570fe7 sha1 26911fe6b2e9e6c260ae7d732c41b14a625309b5 )
+	rom ( name MUSIC.CLU size 78843568 crc c7e91c31 md5 dec150690bbc4791ffd2648532abff41 sha1 daa647cc4663ec01175839ec179963be6da6c171 )
+	rom ( name PARIS.CLU size 7848676 crc d2960b36 md5 a276e2355854eb61f783f4f88f3b733a sha1 6ee67280e4b646b1f1ec10dd01c4561789e11ef5 )
+	rom ( name PLAYERS.CLU size 2820924 crc ac8e94ce md5 453cd71c269d738c9ef9f5a8b8bfeb1e sha1 899fbb12464e32a1f216e068784b80341df6c285 )
+	rom ( name PYRAMID1.CLU size 6552452 crc 15c0509f md5 a11f56ffe1b55bb568e89e917024f8f5 sha1 0e5e6f765d1d7452e8742b03d144cd1e17ab4e0c )
+	rom ( name PYRAMID2.CLU size 8558572 crc 99d46578 md5 c893f59419ef7b6e95c677dbcfe4ca55 sha1 1ee8ab6b35bbaeeb80a40f69789b456571b9f851 )
+	rom ( name QUARAMON.CLU size 6553692 crc 618d0dff md5 078c47f9dccc02a884c9045e2649f972 sha1 ebd595fa411e22958dd6791a9e53a7f2fb1ee2b6 )
+	rom ( name SCREENS.CLU size 19955712 crc 12d70191 md5 21f8eb0d9d79d1dc543ac9b7f6f6202f sha1 d5226253560f107e26246b17a9cef8af7da1a5bc )
+	rom ( name SCRIPTS.CLU size 987036 crc adf23879 md5 f13e7d75a912d1be43069d651faafcfd sha1 cf9b43d49eb10085daa682849e3215a40f907423 )
+	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 sha1 a09eea025c8823067426d22875cf031ab146dcc8 )
+	rom ( name WAREHOUS.CLU size 7640988 crc cf1efa1a md5 90658b37ef2640c9fd9421c4ef562a2c sha1 1c7aa776d68468d06cba8c1a4d0a4c0790e7b37c )
 )
 
 resource (
 	name bs2res
-	description "ZZZ - Broken Sword II PC Resources[!]"
+	description "ZZZ - Broken Sword II - PC Resources[!]"
 	year 1997
 	manufacturer "Revolution Software"
 	sourcefile sword2
-	rom ( name CARIB1.CLU size 29537932 crc ff3a4bdd md5 7a4429c1c8007d3aa5fabbe50846228e )
-	rom ( name CARIB2.CLU size 28797271 crc dc9cce8d md5 b2547c8c2a3e3322760ea71701506d37 )
-	rom ( name CARIB3.CLU size 24246760 crc 17903bbe md5 dce5f5dbdb734db727c930b50d726508 )
-	rom ( name CD.INF size 294 crc c818f8d6 md5 7812d83ccc0de74063df516a1bf03575 )
-	rom ( name CLUSTER.TAB size 83544 crc e4d791d8 md5 4a5d8ff99ef80db589fcc5d6e54011f3 )
-	rom ( name CREDITS.BMP size 6372 crc be29521f md5 5dd9ea378e700467011dcd31cc218e38 )
-	rom ( name DOCKS.CLU size 20262263 crc 0e3ba3bd md5 303ab373ed6c31fc54e530f48296a1d1 )
-	rom ( name FONT.CLU size 34878 crc 7b7f3e96 md5 efd3833f1d31580f43716b0fb289fcbe )
-	rom ( name JUNGLE.CLU size 19033297 crc c493c474 md5 901801f52ed560549a61dc7c5a48c400 )
-	rom ( name MUSIC1.CLG size 31067635 crc 2a6d2297 md5 11d06b79327467c5180bc9df44a0fd8d )
-	rom ( name MUSIC2.CLG size 30871032 crc 226aaddc md5 2073fda649fd86a959c3fe38d156fcdb )
-	rom ( name PARIS.CLU size 29426152 crc 2afb4f81 md5 bfbad73c76292534da60cee8eb639b9c )
-	rom ( name PLAYERS.CLU size 10091432 crc 4e7b94f8 md5 d3d033975a20112a578a8729a07a59d2 )
-	rom ( name PYRAMID1.CLU size 21758357 crc 71194118 md5 272b6b48f45bf5211510d48b21f0b5ca )
-	rom ( name PYRAMID2.CLU size 41994533 crc 06c35078 md5 23b6bb3ec87044ca5907699bc11057d5 )
-	rom ( name QUARAMON.CLU size 25676575 crc 57400f9b md5 daed17442ecb49a705110e5af0470c2b )
-	rom ( name RESOURCE.INF size 175 crc 796ab450 md5 d356430c06ef318c5a2cda2e85574f43 )
-	rom ( name RESOURCE.TAB size 16584 crc 7342fd0d md5 40fe3bd2d7a337c95137de130f081e95 )
-	rom ( name SCRIPTS.CLU size 1039952 crc 7b7ff235 md5 afef9bb2b6d155228d3eb959166f4356 )
-	rom ( name SMACKS\CARIB.SMK size 3170556 crc 2935ca0f md5 d8304b8cb81ffb26ec519c02e20b2405 )
-	rom ( name SMACKS\ESCAPE.SMK size 4477140 crc d4948aee md5 7d23345f60da61c0f57dc4937d6c917f )
-	rom ( name SMACKS\FINALE.SMK size 33260928 crc 06004967 md5 5a5db8374f994e9e43fe8ac96224eeab )
-	rom ( name SMACKS\GUARD.SMK size 1221872 crc 18616454 md5 214e78ec51be4443cfa8f4fac073ca67 )
-	rom ( name SMACKS\JUNGLE.SMK size 2164956 crc 4549aaed md5 56a9daf08defd3c14b5396ab92e492c7 )
-	rom ( name SMACKS\MUSEUM.SMK size 4613564 crc 4b90c7bc md5 5af3f3b86e5d0d4fb5628b6086a0c01e )
-	rom ( name SMACKS\PABLO.SMK size 1243876 crc 9b4eab33 md5 a7c1d1456a4bb1d7b191ae58b412efac )
-	rom ( name SMACKS\PYRAMID.SMK size 1387316 crc 11bfb60b md5 47b3e4a8dc0001adddf5407ca71727a2 )
-	rom ( name SMACKS\QUARAM.SMK size 3352940 crc 29adc38f md5 b382ea4d21e8bd190ca065a0c733e94a )
-	rom ( name SMACKS\RIVER.SMK size 14304624 crc 38e2ab23 md5 8956556e958bb1ea549f1ff83f490166 )
-	rom ( name SMACKS\SAILING.SMK size 2377012 crc 1af14a95 md5 2dc67e62c50349ac9e63e9deb2496419 )
-	rom ( name SMACKS\SHAMAN.SMK size 10704040 crc 18708f2a md5 fc448298bed71c057078af7c91dadb14 )
-	rom ( name SMACKS\STONE1.SMK size 420000 crc 69910621 md5 14b19ea086f583434856e2643db839ed )
-	rom ( name SMACKS\STONE2.SMK size 5658060 crc bed51c76 md5 c937724bced6e0534ad4f05f3f0de21a )
-	rom ( name SMACKS\STONE3.SMK size 1232900 crc 14ed796e md5 7bda34235c514aeb31ceaeeb5c90dc8b )
-	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 )
-	rom ( name WAREHOUS.CLU size 26819225 crc d369c186 md5 117fa4b2d7770a399a73cd8d6dd2cb2b )
+	rom ( name CARIB1.CLU size 29537932 crc ff3a4bdd md5 7a4429c1c8007d3aa5fabbe50846228e sha1 b786b00302df84dbdeac557d7353c212b46a9fbe )
+	rom ( name CARIB2.CLU size 28797271 crc dc9cce8d md5 b2547c8c2a3e3322760ea71701506d37 sha1 bc7e34a60f28a9119641a7e1dea5025da45020aa )
+	rom ( name CARIB3.CLU size 24246760 crc 17903bbe md5 dce5f5dbdb734db727c930b50d726508 sha1 3f9698cddc5e88182393f618dc2c021daf59d58a )
+	rom ( name CD.INF size 294 crc c818f8d6 md5 7812d83ccc0de74063df516a1bf03575 sha1 d576c43ce1f8c1932bcf924f706dbdf2c1d15954 )
+	rom ( name CLUSTER.TAB size 83544 crc e4d791d8 md5 4a5d8ff99ef80db589fcc5d6e54011f3 sha1 b51b0069a0deb71c4ffa3ea5de0242f16b2bcde0 )
+	rom ( name CREDITS.BMP size 6372 crc be29521f md5 5dd9ea378e700467011dcd31cc218e38 sha1 7eb6d01dfe6f03c9474a176ebb0973a54b15d6aa )
+	rom ( name DOCKS.CLU size 20262263 crc 0e3ba3bd md5 303ab373ed6c31fc54e530f48296a1d1 sha1 4d105b5dce965fdcf3e4c1b56f0a1bab9833a794 )
+	rom ( name FONT.CLU size 34878 crc 7b7f3e96 md5 efd3833f1d31580f43716b0fb289fcbe sha1 6dc9cfe9630c12f6b3e25a994ec35ab83c45e377 )
+	rom ( name JUNGLE.CLU size 19033297 crc c493c474 md5 901801f52ed560549a61dc7c5a48c400 sha1 fcc2fbaff0712c5a00f91236676d8b065f317dc9 )
+	rom ( name MUSIC1.CLG size 31067635 crc 2a6d2297 md5 11d06b79327467c5180bc9df44a0fd8d sha1 84845b8b2d6cd23b556c4ef97af3fe7bec5192c0 )
+	rom ( name MUSIC2.CLG size 30871032 crc 226aaddc md5 2073fda649fd86a959c3fe38d156fcdb sha1 da6a6764d2d53716f16aeb0577aa26ad96d46284 )
+	rom ( name PARIS.CLU size 29426152 crc 2afb4f81 md5 bfbad73c76292534da60cee8eb639b9c sha1 71db1779d6bc9aaba1a3b493b300e9e2600a06dc )
+	rom ( name PLAYERS.CLU size 10091432 crc 4e7b94f8 md5 d3d033975a20112a578a8729a07a59d2 sha1 4306dd15a8cf41d5279b84832bfdd3135f5ad4bd )
+	rom ( name PYRAMID1.CLU size 21758357 crc 71194118 md5 272b6b48f45bf5211510d48b21f0b5ca sha1 803c524e21f0c441afc990d310650c0d887d98fb )
+	rom ( name PYRAMID2.CLU size 41994533 crc 06c35078 md5 23b6bb3ec87044ca5907699bc11057d5 sha1 9e046d26e264fe7f8be19851584ae063eb0bc776 )
+	rom ( name QUARAMON.CLU size 25676575 crc 57400f9b md5 daed17442ecb49a705110e5af0470c2b sha1 ed82b5d6ea3854c8f956dbf98899381eb33c3671 )
+	rom ( name RESOURCE.INF size 175 crc 796ab450 md5 d356430c06ef318c5a2cda2e85574f43 sha1 5eca4c521057e5fbb7a51890173dbf827b0fe338 )
+	rom ( name RESOURCE.TAB size 16584 crc 7342fd0d md5 40fe3bd2d7a337c95137de130f081e95 sha1 2b7968c91bc7478708bc0ce4be72e5d2b71ff74e )
+	rom ( name SCRIPTS.CLU size 1039952 crc 7b7ff235 md5 afef9bb2b6d155228d3eb959166f4356 sha1 6f5cd8f62f6fa76193e8ce9125319d240f25e64e )
+	rom ( name SMACKS\CARIB.SMK size 3170556 crc 2935ca0f md5 d8304b8cb81ffb26ec519c02e20b2405 sha1 bb9f831d4651cca908c3ec8b5d679df1a2e72edd )
+	rom ( name SMACKS\ESCAPE.SMK size 4477140 crc d4948aee md5 7d23345f60da61c0f57dc4937d6c917f sha1 010e95a45cde0dac7888d8e3738cb07e77f197e0 )
+	rom ( name SMACKS\FINALE.SMK size 33260928 crc 06004967 md5 5a5db8374f994e9e43fe8ac96224eeab sha1 483d965daf03017cf4a2546e121a13312e9d9088 )
+	rom ( name SMACKS\GUARD.SMK size 1221872 crc 18616454 md5 214e78ec51be4443cfa8f4fac073ca67 sha1 c7d37c2056564000c5c95d1c1586f1ad122fd6cc )
+	rom ( name SMACKS\JUNGLE.SMK size 2164956 crc 4549aaed md5 56a9daf08defd3c14b5396ab92e492c7 sha1 ce282289055930f05a0606641910272d322429a5 )
+	rom ( name SMACKS\MUSEUM.SMK size 4613564 crc 4b90c7bc md5 5af3f3b86e5d0d4fb5628b6086a0c01e sha1 43bd2f004940233e859b98df545bd1fa93056cb6 )
+	rom ( name SMACKS\PABLO.SMK size 1243876 crc 9b4eab33 md5 a7c1d1456a4bb1d7b191ae58b412efac sha1 bd2dccb89b9357ad4641b353677943018dd6c668 )
+	rom ( name SMACKS\PYRAMID.SMK size 1387316 crc 11bfb60b md5 47b3e4a8dc0001adddf5407ca71727a2 sha1 9832ca22c77dcfc75fed989ea472553f3efbc1d8 )
+	rom ( name SMACKS\QUARAM.SMK size 3352940 crc 29adc38f md5 b382ea4d21e8bd190ca065a0c733e94a sha1 97c34d016d961daa5176f5b74e7487045250e813 )
+	rom ( name SMACKS\RIVER.SMK size 14304624 crc 38e2ab23 md5 8956556e958bb1ea549f1ff83f490166 sha1 b53c4a4b4d392a57f62acf0e0dd2b0d86f631c14 )
+	rom ( name SMACKS\SAILING.SMK size 2377012 crc 1af14a95 md5 2dc67e62c50349ac9e63e9deb2496419 sha1 e6546b0d839053993b926482c57e30141bb3a4fd )
+	rom ( name SMACKS\SHAMAN.SMK size 10704040 crc 18708f2a md5 fc448298bed71c057078af7c91dadb14 sha1 d08f3901bbc9865acf11e0dba46ea6cb75479aa5 )
+	rom ( name SMACKS\STONE1.SMK size 420000 crc 69910621 md5 14b19ea086f583434856e2643db839ed sha1 a953da236dc2cd00839ba5233c7365a9122da34b )
+	rom ( name SMACKS\STONE2.SMK size 5658060 crc bed51c76 md5 c937724bced6e0534ad4f05f3f0de21a sha1 6a1759251f5561c3901e96706cad1e9e12497146 )
+	rom ( name SMACKS\STONE3.SMK size 1232900 crc 14ed796e md5 7bda34235c514aeb31ceaeeb5c90dc8b sha1 d9e97f75bbddf692fa3d66f73a6d2422ec3be40b )
+	rom ( name STARTUP.INF size 390 crc 22e47f2b md5 e7174b4cf3bc4b92a50d96d56d6df188 sha1 a09eea025c8823067426d22875cf031ab146dcc8 )
+	rom ( name WAREHOUS.CLU size 26819225 crc d369c186 md5 117fa4b2d7770a399a73cd8d6dd2cb2b sha1 7383ce5a8e829e269dd05f84ba409776f9aa51cb )
 )
 

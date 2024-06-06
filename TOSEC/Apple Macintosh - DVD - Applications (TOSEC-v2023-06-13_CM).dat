@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - DVD - Applications</name>
+		<description>Apple Macintosh - DVD - Applications (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Microsoft Office Mac 2008 (2008)(Microsoft)">
+		<description>Microsoft Office Mac 2008 (2008)(Microsoft)</description>
+		<rom name="Microsoft Office Mac 2008 (2008)(Microsoft).iso" size="2147483648" crc="18f5b5a3" md5="1661680604a92162053ceb0c377bc952" sha1="844954220c8eb846071485f38d91a7fd0055c01d"/>
+	</game>
+</datafile>

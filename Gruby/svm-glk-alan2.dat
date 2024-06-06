@@ -1,0 +1,221 @@
+clrmamepro (
+	name "ScummVM GLK-ALAN2"
+	description "ScummVM - GLK Engine - ALAN v2 Games"
+	category "ScummVM"
+	version v1.01
+	date 2022-01-31
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name afteryou
+	description "Painless Little Stupid Games #03: They're After You! (Multi-OS)"
+	year 1999
+	manufacturer "Bob Reeves"
+	sourcefile glk-alan2
+	rom ( name running.acd size 17408 crc 5ec87d1c md5 a531d099f8064033fc11d0e55b95f4f9 sha1 8b9601ac8b4767228e878cfedcebae2f5b57e638 )
+	rom ( name running.dat size 9217 crc c2259c9c md5 d66e3e14101149f756efa80318e544a9 sha1 2d6ffb6a3122d4d1cfa8f2b74e46892f48d4c99d )
+)
+
+game (
+	name arthursnightout
+	description "King Arthur's Night Out (Multi-OS)[r2]"
+	year 1999
+	manufacturer "Mikko Vuorinen"
+	sourcefile glk-alan2
+	rom ( name arthur.acd size 50176 crc c68301ae md5 d116039ed495ad7fa8860f1085c0d382 sha1 0484677d0a336d5977d8804b658128c3755c714c )
+	rom ( name arthur.dat size 13313 crc 5ffbbe2c md5 e46bda1f2b76fb977e5b7fb9dfc67794 sha1 6da8fd29dfb4cfd0dcf7b9a129e8735e9d791288 )
+)
+
+game (
+	name bugged
+	description "Bugged (Multi-OS)[v1.2]"
+	year 2002
+	manufacturer "Anssi Räisänen"
+	sourcefile glk-alan2
+	rom ( name bugged.acd size 112640 crc fd5230c9 md5 0c1a741316c68c98dcbfe686f0f83761 sha1 97b8f53259087707ac7fd2e2a6c522a473553032 )
+	rom ( name bugged.dat size 65025 crc ee35e92f md5 64d9eaa1863729a730d65fd41d385d98 sha1 e80f410d29f1b82c2319256d6cf20fc1450dea9f )
+)
+
+game (
+	name cc
+	description "CC (Multi-OS)[v1.0]"
+	year 1998
+	manufacturer "Mikko Vuorinen"
+	sourcefile glk-alan2
+	rom ( name cc.acd size 53248 crc 530be91d md5 06f8d1c36ecbfe2bcc773e743699eeb8 sha1 4e3478abdbb92b1c4cfebf3b32bed9f09b281a83 )
+	rom ( name cc.dat size 15873 crc 514654f4 md5 4777863ef6f6a580866adb891168d870 sha1 dd31a7f2e2292c6c8e9a9a67779019f1a973ea33 )
+)
+
+game (
+	name chasing
+	description "Chasing, The (Multi-OS)[v1.1]"
+	year 2002
+	manufacturer "Anssi Räisänen"
+	sourcefile glk-alan2
+	rom ( name chasing.acd size 147456 crc 25061d9b md5 e68e1fb4fc04bd28d79360158621c9b7 sha1 20e5820a59644d5b6a69871ff73274fbd1209203 )
+	rom ( name chasing.dat size 103425 crc 0f67efb8 md5 7cf295c6ac82fdfe4b786dfbf3b7bd04 sha1 27f6ec72930570a81b0ae877b113b10b1538c93e )
+)
+
+game (
+	name chasing-1
+	description "Chasing, The (Multi-OS)[v1.0]"
+	year 2002
+	manufacturer "Anssi Räisänen"
+	sourcefile glk-alan2
+	rom ( name chasing.acd size 144384 crc 520cb823 md5 476ca6dc11f290bd06389cf0eb991973 sha1 b8ebc22907479ae447a913e0590bb0865515994e )
+	rom ( name chasing.dat size 100353 crc 46a33800 md5 8d8207ff2823b294b50a4ec39e42090e sha1 694f36fee8cbca2f7cfe60c35d9c6fb0e4f950e4 )
+)
+
+game (
+	name closet
+	description "Coming Out of the Closet (Multi-OS)[R3]"
+	year 1998
+	manufacturer "Mikko Vuorinen"
+	sourcefile glk-alan2
+	rom ( name closet.acd size 37888 crc f740d0bb md5 7ba9ecc4bda3b58070c09b68e238959f sha1 697734febf6579a7a7a8e29c40089d61e55f5bad )
+	rom ( name closet.dat size 11777 crc 585c57f9 md5 85c770d34da590b57ee318814a1bd9a2 sha1 473abad1a3227e7a99e6ab82ab35eca7cc8dd8a7 )
+)
+
+game (
+	name dinnertime
+	description "Painless Little Stupid Games #01: Dinnertime (Multi-OS)"
+	year 1999
+	manufacturer "Bob Reeves"
+	sourcefile glk-alan2
+	rom ( name dinnertime.acd size 9216 crc 2b2a602d md5 4c97806409f35507d04ce7f63133c7a7 sha1 bfc02b6ac212517f69bc333068195c281d2b4170 )
+	rom ( name dinnertime.dat size 3585 crc 875af500 md5 ccfacf3ae02056085693edf3c99da7db sha1 d16bdc8d1c4f106eefa963250028431574a878cf )
+)
+
+game (
+	name hebgb
+	description "HeBGB Horror!, The (Multi-OS)[v2.0]"
+	year 1999
+	manufacturer "Eric Mayer"
+	sourcefile glk-alan2
+	rom ( name hebgb.acd size 173056 crc 02353496 md5 62e7332f424eb43b78f74f1f5826f548 sha1 dae47cf61738791b88d55730a7e141956429bdaa )
+	rom ( name hebgb.dat size 137729 crc 6e0bf2df md5 c3ee063f00ebdfdf70dc6d0cc70d4af1 sha1 b34f61e5f4a883acf48783a2591c9fb91268508e )
+)
+
+game (
+	name hebgb-1
+	description "HeBGB Horror!, The (Multi-OS)[v1.0]"
+	year 1999
+	manufacturer "Eric Mayer"
+	sourcefile glk-alan2
+	rom ( name hebgb.acd size 157696 crc cf281011 md5 54ea3db9f8429efdfe221a6397e7a031 sha1 33d48737b131cdc888aaa69090140079ba3c899e )
+	rom ( name hebgb.dat size 116225 crc 29fbed27 md5 f94189a3a4c61e71cd39c4c5006315c8 sha1 c3d7b6cd25df1546a6a28f256846cf35a185c597 )
+)
+
+game (
+	name lostinnewyork
+	description "Lost in New York (Multi-OS)"
+	year 2000
+	manufacturer "Mikko Vuorinen"
+	sourcefile glk-alan2
+	rom ( name liny.acd size 30720 crc ae6ad1e1 md5 142e6a1046c190ac372c541580b24944 sha1 034854fc2a426a2a76adeb5650f59a7af4adbe78 )
+	rom ( name liny.dat size 6657 crc 1e97a3fd md5 4f461c62103d458f4d0ae3975f53209b sha1 678bcfb34e8c429ea4d1a4096e45f2dfad420286 )
+)
+
+game (
+	name mazemapper
+	description "Painless Little Stupid Games #04: Mazemapper (Multi-OS)"
+	year 1999
+	manufacturer "Bob Reeves"
+	sourcefile glk-alan2
+	rom ( name maze.acd size 30720 crc 1d8b53ce md5 2a6a384f71799a3306c6087d536cbb99 sha1 4e13edbc1f703ef660202b39513e717a6f0be75e )
+	rom ( name maze.dat size 12289 crc e01b9893 md5 e9f2972604ea24695754760b5d276e28 sha1 aa97f9a48c05b35227bc3bdcf21d01263ab0c4e8 )
+)
+
+game (
+	name meanstory
+	description "Painless Little Stupid Games #05: The Mean Story (Multi-OS)"
+	year 1999
+	manufacturer "Bob Reeves"
+	sourcefile glk-alan2
+	rom ( name mean.acd size 13312 crc f44c8b9c md5 0e7655a7eb64a566366ef15a4b6d7747 sha1 d5cec5c97889ac59865155c898c487ab76b1d25b )
+	rom ( name mean.dat size 10241 crc 596ee7ce md5 eef716707abfa73665c1fc08fac7edb6 sha1 500f053d640d5712ad58d9c944351c6c6f9e4cf7 )
+)
+
+game (
+	name outofthestudy
+	description "Out of the Study (Multi-OS)[v1.3]"
+	year 2003
+	manufacturer "Anssi Räisänen"
+	sourcefile glk-alan2
+	rom ( name study.acd size 110592 crc fe8de6e1 md5 46727f7f019fe86e7050500e6957cf16 sha1 8c5156de51507a9e55acda53f98b2fefacace9b8 )
+	rom ( name study.dat size 59393 crc 52f2a7e3 md5 1232a4c9b8ffdcb05cdb8f9fa215a2b2 sha1 da2a5ff0f3349d3e54acf27a782be9fdece34670 )
+)
+
+game (
+	name outofthestudy-1
+	description "Out of the Study (Multi-OS)[v1.0]"
+	year 2002
+	manufacturer "Anssi Räisänen"
+	sourcefile glk-alan2
+	rom ( name study.acd size 102400 crc 53b69553 md5 33ed2c312451ff60332ac7c25d9c3735 sha1 87b723e2f7201186df274e09f39fe6baa40e208c )
+	rom ( name study.dat size 49153 crc 9a405fe7 md5 5ab6e259d9f14dcab8325ae91b7c50f5 sha1 29b1e20d345de4dec417d11c05d41b1407c81086 )
+)
+
+game (
+	name plsghints
+	description "Painless Little Stupid Games Hints for ALAN Games (Multi-OS)"
+	year 1999
+	manufacturer "Bob Reeves"
+	sourcefile glk-alan2
+	rom ( name hints.acd size 10240 crc c22255e7 md5 5a63c4c7569b8dcf49d53e8ee2da9e1b sha1 2ffea8caedbe5bc5a07c2bb6ceabf6aa24a171c6 )
+	rom ( name hints.dat size 7169 crc 28a8e67d md5 9cbf75ea02be6e188049db577c6c935b sha1 91996dfc5d8fe8d0d7d8b4230182ee0fd82bca5f )
+)
+
+game (
+	name presidentadventures
+	description "Adventures of the President of the United States, The (Multi-OS)"
+	year 2003
+	manufacturer "Mikko Vuorinen"
+	sourcefile glk-alan2
+	rom ( name apus.acd size 53248 crc 4a50e9e6 md5 43b05b791af1d5c0feae5380cbfff050 sha1 46936028f99ff74f5a1608dbf61dfbe35b87316b )
+	rom ( name apus.dat size 16897 crc aeb54e17 md5 a07a64e8435ea03324f038522d34672d sha1 5f062739b62f9f8dd30c97dd2baedb12a6bfbd07 )
+)
+
+game (
+	name sardoria
+	description "Sardoria (Multi-OS)[v1.1]"
+	year 2003
+	manufacturer "Anssi Räisänen"
+	sourcefile glk-alan2
+	rom ( name sardoria.acd size 150528 crc 8739f94a md5 851323de0fccf2d10ed7c6478128fca8 sha1 0cdc472f38e393422be5e8214bfab930973b9688 )
+	rom ( name sardoria.dat size 123905 crc 8be2f9e6 md5 81c82da27c6dd4d3669f51b8465725da sha1 705d812caadeb3c23a6a3bd11bd02f02a64f9f10 )
+)
+
+game (
+	name sardoria-1
+	description "Sardoria (Multi-OS)[v1.0]"
+	year 2003
+	manufacturer "Anssi Räisänen"
+	sourcefile glk-alan2
+	rom ( name sardoria.acd size 143360 crc c9836a6c md5 95ec35e95c7652f36ac0146c987626cb sha1 f8123b1e8e1f9444465cafcf8ace33a8f80d7658 )
+	rom ( name sardoria.dat size 107521 crc 6fdaa66a md5 8f7740c0e4a80280dfacd35e5ced0a2d sha1 935c916a498f19796188938d68147bbb4254dcaa )
+)
+
+game (
+	name tgttos
+	description "Painless Little Stupid Games #02: To Get to the Other Side (Multi-OS)"
+	year 1999
+	manufacturer "Bob Reeves"
+	sourcefile glk-alan2
+	rom ( name tgttos.acd size 29696 crc 65591b84 md5 01f18a3d8067fc8e3289c21dbf0a93b1 sha1 3cd2ead3fe4ecb5c65cea6a07edadea1c1dfd9a0 )
+	rom ( name tgttos.dat size 12289 crc dd4d30c4 md5 ae2b3206b4bf559ea4f2c909aa95cd79 sha1 cdc0abdbbd69f3a3a3f8606d685d68b8f170c430 )
+)
+
+game (
+	name zeroone
+	description "Zero One (Multi-OS)[Beta v1.2]"
+	year 2004
+	manufacturer "Edward Plant"
+	sourcefile glk-alan2
+	rom ( name 01.acd size 59392 crc 71ca824a md5 5a71f85377dc32e9a63766d8c5e40e22 sha1 b2be1db8a3529505d01340725a45b3da1cad9c18 )
+	rom ( name 01.dat size 30209 crc f43b1891 md5 c4481c5233d8b2e54ceeb949b177ab02 sha1 3502b23cbfe988ac117ba37700cabd31c32a96f6 )
+)
+

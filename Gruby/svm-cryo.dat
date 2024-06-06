@@ -1,0 +1,109 @@
+clrmamepro (
+	name "ScummVM CRYO"
+	description "ScummVM - CRYO Engine Games"
+	category "ScummVM"
+	version v1.07
+	date 2020-05-21
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name losteden
+	description "Lost Eden (DOS)[!]"
+	year 1995
+	manufacturer "Cryo Interactive"
+	sourcefile cryo
+	rom ( name EDEN.DAT size 449853776 crc 6f97c8fe md5 ff6fe24ad8ce815f288664c357f15f2e sha1 2eff77027df5ea9b42e8202f8855fddea6313b8b )
+)
+
+game (
+	name losteden-1
+	description "Lost Eden (DOS)[Rerelease][!]"
+	year 1995
+	manufacturer "Cryo Interactive"
+	sourcefile cryo
+	rom ( name EDEN.DAT size 451205552 crc 01dbbd01 md5 ffd75b995a7df4d9a039799cfa00a175 sha1 8d5b344194640a1037f9744bc1aff6d1a9387440 )
+)
+
+game (
+	name losteden-de
+	description "Lost Eden (DOS/German)"
+	year 1995
+	manufacturer "Cryo Interactive"
+	sourcefile cryo
+	rom ( name EDEN.DAT size 457719104 crc 87aaa37f md5 3653a46fa61591724b5364800235b367 sha1 661da46331465a9874762195b828c07a48de6458 )
+)
+
+game (
+	name losteden-demo
+	description "Lost Eden |Demo|(DOS)[!]"
+	year 1995
+	manufacturer "Cryo Interactive"
+	sourcefile cryo
+	rom ( name EDEN.DAT size 205473728 crc 67edc0c5 md5 d3e43e60a291dc4caee79a4a765a1ef3 sha1 f90f3550d31b2ff53538eb7c20ca2f6320a6ba96 )
+)
+
+game (
+	name losteden-demo-1
+	description "Lost Eden |Demo Non-Interactive|(DOS)[!]"
+	year 1994
+	manufacturer "Cryo Interactive"
+	sourcefile cryo
+	rom ( name ANCIBUR2.HNM size 2078529 crc 997a0cde md5 2528a822ef659c6d632bace07cdbcbcd sha1 3ad87630ab518620ee0232cfd60a665d4ce42a66 )
+	rom ( name CEMETER2.HNM size 4866325 crc 7021db58 md5 636787650ce64a1350148c46e86af652 sha1 3f5f4273943a4d815e6525b19e7766e30b151af0 )
+	rom ( name CRYO.HNM size 875691 crc 950f059b md5 e974695ebe278442eebfbac7b4fecb4f sha1 eeb8ab749fcb1ca67c0105f0815b35c3a1e13611 )
+	rom ( name CRYO2.HNM size 23613 crc 0de5181a md5 cb97515456625cfb77f1df76979ba218 sha1 8e166dc9e98b0b69ff4dedaa49d66585adc0a10f )
+	rom ( name CRYOMUS.HSQ size 562 crc 7aff90b1 md5 652259b0e5ced3f19c23c23f09f1ba8b sha1 a73ec5902e5252754fa848d6c74d0b778769814a )
+	rom ( name DINOINT1.HNM size 1387115 crc 9821507c md5 7c719eac3714b518eae2df62661d8b72 sha1 bc0ed40cc7206948edffb2bd14784a8d9deaaf15 )
+	rom ( name DINOINT2.HNM size 1043453 crc ce8146cd md5 071bc1ed74a2114a387adb96754d77c3 sha1 ef17a4309de1550975bf046b8a9f7d0158fc5333 )
+	rom ( name DINOINT3.HNM size 1890801 crc c026a51f md5 4f96cbeac039605c46caf395a5e9dcb7 sha1 c7986aa958ff40d8cea6e888966268241dfbaf6c )
+	rom ( name DINOINT4.HNM size 1009538 crc 006b6253 md5 cad14d401b4f95f61ccbd9589c88b01a sha1 2fd953e6786680f2ebc930d84cee99eca20a8985 )
+	rom ( name DN386.HSQ size 9775 crc f93547a6 md5 f7778ede6180aafe5e2025ed266d7b32 sha1 4cfda091861998a77a050b9efaca6b626e9ebc4c )
+	rom ( name DNADL.HSQ size 2042 crc 63b2e6a8 md5 015b9e49931dcd3666dcfd3384a34745 sha1 5ec5809130c9a04b8d88f7e667297c29317011db )
+	rom ( name DNPCS.HSQ size 141 crc 4026af39 md5 d19c4a24b6545fa3eb6736ae86ff5ba6 sha1 124c88fe6a06e3f9831d18539d069da6267a2288 )
+	rom ( name DNPCS2.HSQ size 141 crc 4026af39 md5 d19c4a24b6545fa3eb6736ae86ff5ba6 sha1 124c88fe6a06e3f9831d18539d069da6267a2288 )
+	rom ( name DNVGA.HSQ size 9600 crc c2eed516 md5 3de62d960bd375df5aadf95e27af39b6 sha1 6ceadfa5e37736c756949382c7c239c6f1c21b49 )
+	rom ( name EDEN6.HSQ size 17093 crc f0dd3d34 md5 8290895bb6b016af29c4694f5558a60e sha1 ea6fdb9c4cd9afeb00128a2646f3ba765811c5e1 )
+	rom ( name FORET2.HSQ size 32694 crc f6b6c134 md5 46cb6d291b270529203a67b058c9403b sha1 599dafd3e3b7b1db164ce79c3c85238f0581df78 )
+	rom ( name FORETVOL.HNM size 2422544 crc 1b1e03e0 md5 69629dce0084f8e6bbeb31749bdac9e4 sha1 1ff879aeafd128f8abfad301a6a0315bec01db90 )
+	rom ( name GEOL2.HNM size 1726259 crc a9d43bb5 md5 5c292abdfd2c0dfb71071077445636a5 sha1 61f2bd383111c18040943922d0b0efbc8b303ceb )
+	rom ( name GRANPRAI.HNM size 2019842 crc 1edaa12d md5 bfd57f6a446eaf2b02cc8a6dbde38be4 sha1 dc50a0695dedd28633effaedb018d932fbfc6b2c )
+	rom ( name ICONES.HSQ size 14984 crc d65b528d md5 5f3cf5fe168571b0ca56033e2ec34abd sha1 6be7e0e0c8714b77791335ff750eb87fef930c96 )
+	rom ( name LAC2.HSQ size 17128 crc 1826b494 md5 249f43eec45426059eee9bc6f441213d sha1 101693e9417dd64f498f6b9c85d44a6aa3eca46f )
+	rom ( name MARAIVOL.HNM size 2896375 crc 2ccfdb5a md5 60e08f23b241ed66c8eaafd13c7cae2e sha1 8049ce3b7baffbc9ca8c97add8607e63f5241c18 )
+	rom ( name MONMAR2.HSQ size 26811 crc 96266f3a md5 aa00db04a73a8c5240dd9912a336eb71 sha1 01e4a268e0a35a21da5dfce6ec4f95e7208efd4c )
+	rom ( name MORNING.HSQ size 5787 crc 1cda5eea md5 00275923263e5a9a15a44d8a9906507e sha1 c1fbc4b04360cd167b7f5b7f5516baa832e176af )
+	rom ( name PAYSAGE.HNM size 1949816 crc 8fa388ea md5 6ca8778353931a6badfe6423b8342518 sha1 b99666004e778bb01507a41fa336110a7f64b071 )
+	rom ( name PTEROCI2.HNM size 2557996 crc b9241c1b md5 b66a1191f34d462b36c6520d04560fde sha1 7692c67b58fd3e940d545a25975cf72bf96f32ef )
+	rom ( name PTEROCIT.HNM size 2436017 crc 090ec5dd md5 d70745bb8be261c590290e4a4fe39d2b sha1 91dbd2d08791b748206fb6ffb61f53595035ef05 )
+	rom ( name ROI.HNM size 1127800 crc 029881bd md5 732624ef96c00e2edf4703f0c6099fad sha1 d7edff3da96d5cf70e4d907cd57f9a7e979dc5ba )
+	rom ( name SAVAGE.HSQ size 7370 crc cfddb652 md5 18c03ca682dd47f5c5e798a91e21ba3e sha1 94688d76fca53a66b4fc1f7e63d9553c0e7095b9 )
+	rom ( name SOHTIL1.HNM size 7545206 crc 5abdc3c5 md5 1c4bedfcfd9211658e356e9374afc17e sha1 d30711932b6d483e8b30d40e28aafe9393064eab )
+	rom ( name SROI2.HNM size 3217425 crc c32b7905 md5 322280e6600fe242be8c1bc30be57acd sha1 21e605ec8013af69688f51ad185e4857eaa5ea63 )
+	rom ( name TYRACHAS.HNM size 5703918 crc 81603818 md5 90af2cc5868dcbe5f6a606fd7c18dabf sha1 c5de29065bf838f8b0aecbbbe6a175dbd0b1f7a7 )
+	rom ( name VAL8.HSQ size 28615 crc bc78ceb2 md5 a5778a9468f1e5637e294b3cb50b8aba sha1 da07529e89108e6b9c8c6557d950592d3a34e9ac )
+	rom ( name VIL2INT5.HNM size 4827096 crc eba3f7c6 md5 9e36ee1e60c9d63117406132c9af2e0e sha1 dda50f09d5cfc5b610067cab50f7b88f36ceb004 )
+	rom ( name VILOPTER.HNM size 3602228 crc 034aaffb md5 625337d6ac531666fd20fc9d2f9b5c50 sha1 9f9240e893bad5d386acc87c6257d1e55a71f357 )
+	rom ( name VIRGIN.HNM size 888675 crc 39f42025 md5 405d019463a1c6ca2d36acd01e70f9b2 sha1 035c9510582648a3d68790c98d99c3fa4d9f34f5 )
+)
+
+game (
+	name losteden-fr
+	description "Lost Eden (DOS/French)"
+	year 1995
+	manufacturer "Cryo Interactive"
+	sourcefile cryo
+	rom ( name EDEN.DAT size 448040496 crc 6881f1b4 md5 6e0ba5aab12672330f9b28efbdea6494 sha1 fc3de1c836063ffb3af9c9daf2588e36d29d39ba )
+)
+
+game (
+	name losteden-mac
+	description "Lost Eden (Macintosh)"
+	year 1995
+	manufacturer "Cryo Interactive"
+	sourcefile cryo
+	rom ( name EDEN.DAT size 489739536 crc a16b43bc md5 aab6e208715fb371388ed97944c3921e sha1 f6a188c3eb7af4574d75947f9488a7c7faf79f5c )
+)
+

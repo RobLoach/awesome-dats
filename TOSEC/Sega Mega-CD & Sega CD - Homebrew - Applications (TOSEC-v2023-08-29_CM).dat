@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - Homebrew - Applications</name>
+		<description>Sega Mega-CD &amp; Sega CD - Homebrew - Applications (TOSEC-v2023-08-29)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-08-29</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(EU)(GPLv2)">
+		<description>240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(EU)(GPLv2)</description>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(EU)(GPLv2)(Track 1 of 3).iso" size="1048576" crc="80caf155" md5="f5c7cbc820d6b359bed8459367d3a74b" sha1="ca194d03ddd3e2d33c84085f56f75236bbbc8c47"/>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(EU)(GPLv2)(Track 2 of 3).wav" size="2645956" crc="5d11087a" md5="07774b0d949ff1fed7e12eac547dfd65" sha1="2ae1890e3e52cbfc0abbe38a2321b58ed0ec7cf1"/>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(EU)(GPLv2)(Track 3 of 3).wav" size="4182032" crc="45731230" md5="9835d28f1544585eca5f83faa9a878dd" sha1="554584190468f2305d3d5f4aff7bc517f04d8280"/>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(EU)(GPLv2).cue" size="461" crc="c0137515" md5="2fd3d72a8aaa7d5ff20f90042850bb55" sha1="652eb4402e532277c624539cfd10d4866c8eff9c"/>
+	</game>
+	<game name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(JP)(GPLv2)">
+		<description>240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(JP)(GPLv2)</description>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(JP)(GPLv2)(Track 1 of 3).iso" size="1048576" crc="1a342625" md5="40d0b819890668f08a33bef13c070a53" sha1="1208099c6bc4d9f7f4a1b369cf67c80eef9bbc8b"/>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(JP)(GPLv2)(Track 2 of 3).wav" size="2645956" crc="5d11087a" md5="07774b0d949ff1fed7e12eac547dfd65" sha1="2ae1890e3e52cbfc0abbe38a2321b58ed0ec7cf1"/>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(JP)(GPLv2)(Track 3 of 3).wav" size="4182032" crc="45731230" md5="9835d28f1544585eca5f83faa9a878dd" sha1="554584190468f2305d3d5f4aff7bc517f04d8280"/>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(JP)(GPLv2).cue" size="459" crc="297a4093" md5="93fadabfcaef5596b9eb4deaaefd045f" sha1="ded293c12f45d91f1852f608451c2da7b198edac"/>
+	</game>
+	<game name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(US)(GPLv2)">
+		<description>240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(US)(GPLv2)</description>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(US)(GPLv2)(Track 1 of 3).iso" size="1048576" crc="a3917574" md5="49b529531ff1ce9a0f1d7d1a119f202a" sha1="f2fbad6310a0de7e69917fe4e088e59b2f446db9"/>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(US)(GPLv2)(Track 2 of 3).wav" size="2645956" crc="5d11087a" md5="07774b0d949ff1fed7e12eac547dfd65" sha1="2ae1890e3e52cbfc0abbe38a2321b58ed0ec7cf1"/>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(US)(GPLv2)(Track 3 of 3).wav" size="4182032" crc="45731230" md5="9835d28f1544585eca5f83faa9a878dd" sha1="554584190468f2305d3d5f4aff7bc517f04d8280"/>
+		<rom name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(US)(GPLv2).cue" size="459" crc="d2614db8" md5="3208edb2eb1d6e18aa94649f180df82e" sha1="044d078e74d3a04790085a7b42b68d3afc7114e7"/>
+	</game>
+</datafile>

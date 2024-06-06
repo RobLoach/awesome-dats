@@ -1,0 +1,65 @@
+clrmamepro (
+	name "ScummVM GLK-AdvSys"
+	description "ScummVM - GLK Engine - AdvSys Games"
+	category "ScummVM"
+	version v1.00
+	date 2019-06-10
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name bustedadvsys
+	description "Busted! (Multi-OS)[R1-advsys]"
+	year 1993
+	manufacturer "Jon Drukman"
+	sourcefile glk-advsys
+	rom ( name busted.dat size 79091 crc a8d3672a md5 765b01e241f24e30143e9853be77d45c sha1 c0ebbb0c2436fcec3ce6dcaaa1ed79bd36539381 )
+)
+
+game (
+	name elves87
+	description "Elves '87 (Multi-OS)"
+	year 1993
+	manufacturer "Bruce MacKay and Marlene Abriel"
+	sourcefile glk-advsys
+	rom ( name ELVES87.DAT size 77947 crc 08ab6845 md5 b7a7aad4c87c315a0574db2163c835bd sha1 5aa4035e46243709405191436913ad996303b943 )
+)
+
+game (
+	name keytotime
+	description "Key to Time, The (Multi-OS)"
+	year 1992
+	manufacturer "Jon Drukman"
+	sourcefile glk-advsys
+	rom ( name key.dat size 24941 crc a1c70165 md5 f77ff130d0eb8386ff29bbaf527daf4f sha1 a5881221b37955da566c6c3284edd8702ff5bb2d )
+)
+
+game (
+	name onehand
+	description "Sound of One Hand Clapping, The (Multi-OS)[R1a]"
+	year 1993
+	manufacturer "Erica Sadun"
+	sourcefile glk-advsys
+	rom ( name ONEHAND.DAT size 95762 crc fba9d004 md5 1815daa36e554f8de47fac4b7f625f1d sha1 2c3d2e401d2d766573fa498e3cdd75591e2f8738 )
+)
+
+game (
+	name pirating
+	description "Pirating (Multi-OS)"
+	year 1993
+	manufacturer "Erica Sadun"
+	sourcefile glk-advsys
+	rom ( name PIRATE.DAT size 29529 crc 04f26306 md5 0e9d12aaa311d9ab104f83c76f4c9134 sha1 5fc6d4a594a08178c5eec4da4aebb2313dcf000e )
+)
+
+game (
+	name starshipcolumbus
+	description "Starship Columbus (Multi-OS)[v1.2 shareware]"
+	year 1993
+	manufacturer "Gary McGath"
+	sourcefile glk-advsys
+	rom ( name COLUMBUS.DAT size 76032 crc 5a4ef2d0 md5 491fb8e12df42b39c11b55c59a01d884 sha1 fea0c2511815315b9dad1e9079b97d41b99d9a3a )
+)
+

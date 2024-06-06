@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM NEVERHOOD"
 	description "ScummVM - NEVERHOOD Engine Games"
 	category "ScummVM"
-	version v1.02
-	date 2016-08-12
+	version v1.08
+	date 2021-10-09
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,24 +11,44 @@ clrmamepro (
 
 game (
 	name neverhood-demo-win
-	description "Neverhood Chronicles, The {Demo}(Windows)"
+	description "Neverhood Chronicles, The |Demo|(Windows)"
 	year 1996
 	manufacturer "The Neverhood Inc."
 	sourcefile neverhood
-	rom ( name A.BLB size 11973 crc ab1de4b7 md5 b42c5692e6490f4ee4302d03284060af )
-	rom ( name NEVDEMO.BLB size 22564568 crc c9f6b87f md5 1175e361709ff543499bff81d2523942 )
-	rom ( name NEVDEMO.EXE size 324608 crc 7c8267f1 md5 09c84543b72a03d2b230ba8baa463587 )
+	rom ( name A.BLB size 11973 crc ab1de4b7 md5 b42c5692e6490f4ee4302d03284060af sha1 a89e3e0a592b50f9c4b840217c043bea0ab75389 )
+	rom ( name NEVDEMO.BLB size 22564568 crc c9f6b87f md5 1175e361709ff543499bff81d2523942 sha1 5cb7a1d0d8174327a9b58cabef4b7ca8f89989ea )
+	rom ( name NEVDEMO.EXE size 324608 crc 7c8267f1 md5 09c84543b72a03d2b230ba8baa463587 sha1 8a8006e81611f2a4d18b1e7d3e85dc3640ce9568 )
 )
 
 game (
 	name neverhood-demo-win-1
-	description "Neverhood Chronicles, The {Demo}(Windows)[a]"
+	description "Neverhood Chronicles, The |Demo|(Windows)[a]"
 	year 1996
 	manufacturer "The Neverhood Inc."
 	sourcefile neverhood
-	rom ( name A.BLB size 11973 crc ab1de4b7 md5 b42c5692e6490f4ee4302d03284060af )
-	rom ( name NEVDEMO.BLB size 22357020 crc e84fc637 md5 d5ceab16687854dd10ca249ea595711e )
-	rom ( name NEVDEMO.EXE size 324608 crc 7c8267f1 md5 09c84543b72a03d2b230ba8baa463587 )
+	rom ( name A.BLB size 11973 crc ab1de4b7 md5 b42c5692e6490f4ee4302d03284060af sha1 a89e3e0a592b50f9c4b840217c043bea0ab75389 )
+	rom ( name NEVDEMO.BLB size 22357020 crc e84fc637 md5 d5ceab16687854dd10ca249ea595711e sha1 00d0173666cd9dc006da5690ca7325e97b2ac15e )
+	rom ( name NEVDEMO.EXE size 324608 crc 7c8267f1 md5 09c84543b72a03d2b230ba8baa463587 sha1 8a8006e81611f2a4d18b1e7d3e85dc3640ce9568 )
+)
+
+game (
+	name neverhood-demo-win-2
+	description "Neverhood Chronicles, The |Big Demo|(Windows)[!]"
+	year 1996
+	manufacturer "The Neverhood Inc."
+	sourcefile neverhood
+	rom ( name A.BLB size 11973 crc ab1de4b7 md5 b42c5692e6490f4ee4302d03284060af sha1 a89e3e0a592b50f9c4b840217c043bea0ab75389 )
+	rom ( name NEVDEMO.BLB size 117274189 crc 91d0c6da md5 d9c9802f77eb3b80b5619e240fe70f09 sha1 f65b456ad4b150325a8eb35bcfdce4814fef1bde )
+)
+
+game (
+	name neverhood-demo-win-3
+	description "Neverhood Chronicles, The |Lite Demo|(Windows)[!]"
+	year 1996
+	manufacturer "The Neverhood Inc."
+	sourcefile neverhood
+	rom ( name A.BLB size 11973 crc ab1de4b7 md5 b42c5692e6490f4ee4302d03284060af sha1 a89e3e0a592b50f9c4b840217c043bea0ab75389 )
+	rom ( name NEVDEMO.BLB size 11986100 crc 8082e170 md5 730c1a8952a8b9ad5522d03ebf7d9476 sha1 ed09694cc01aa6eb4fcbb3e6d44f73f56192a429 )
 )
 
 game (
@@ -37,14 +57,33 @@ game (
 	year 1996
 	manufacturer "The Neverhood Inc."
 	sourcefile neverhood
-	rom ( name a.blb size 50571893 crc 49660ca0 md5 90e2b47a562df6d0df87e50247040330 )
-	rom ( name c.blb size 241856188 crc 0cbd7cb7 md5 238721c3465d8fdcb8c51f6a4e6b49ac )
-	rom ( name hd.blb size 4279716 crc d2b5cd2f md5 13aae91bebac0f4e81cf7eb921a8143d )
-	rom ( name i.blb size 42015045 crc e2c22a90 md5 0af9995cb40bfde614abf6249173e31c )
-	rom ( name m.blb size 53797472 crc c4ed2f90 md5 dd9464d65ab6cae231720f3f768378a8 )
-	rom ( name NHC.exe size 810496 crc 051eba9a md5 37d654a2a7bbb01f8c419ab849ff29d4 )
-	rom ( name s.blb size 16622792 crc a78476c7 md5 187369731ef1ab24cf1cdc271ed4c67c )
-	rom ( name t.blb size 228979468 crc 1f8ba31c md5 e5587ce78666016a567fd428da6fdae7 )
+	rom ( name a.blb size 50571893 crc 49660ca0 md5 90e2b47a562df6d0df87e50247040330 sha1 ae0989287331764a34df3d83b067f28c9689a84c )
+	rom ( name c.blb size 241856188 crc 0cbd7cb7 md5 238721c3465d8fdcb8c51f6a4e6b49ac sha1 0de09ba84fc36b4131bb67392b2cd801607cb1c3 )
+	rom ( name hd.blb size 4279716 crc d2b5cd2f md5 13aae91bebac0f4e81cf7eb921a8143d sha1 86f4386d9775c48cc89e1834e42adf8269c7357d )
+	rom ( name i.blb size 42015045 crc e2c22a90 md5 0af9995cb40bfde614abf6249173e31c sha1 df3e5e803ad8872b6f2c8c286ef268a0daabb052 )
+	rom ( name m.blb size 53797472 crc c4ed2f90 md5 dd9464d65ab6cae231720f3f768378a8 sha1 1af5df5c3da1670a02f67a7ded1479874618e4e4 )
+	rom ( name NHC.exe size 810496 crc 051eba9a md5 37d654a2a7bbb01f8c419ab849ff29d4 sha1 668c907684c55f330861010790a0ef731d7fd44a )
+	rom ( name s.blb size 16622792 crc a78476c7 md5 187369731ef1ab24cf1cdc271ed4c67c sha1 fe97d065b49bd027485e6c2d2d7c23eef4e9967e )
+	rom ( name t.blb size 228979468 crc 1f8ba31c md5 e5587ce78666016a567fd428da6fdae7 sha1 b64ab0aabc5109f4af58d5469e7833ab50869cf7 )
+)
+
+game (
+	name neverhood-win-jp
+	description "Neverhood Chronicles, The {クレイマン・クレイマン ～ネバーフッドの謎～}(Windows/Japanese)[unsupported yet][!]"
+	year 1996
+	manufacturer "The Neverhood Inc."
+	sourcefile neverhood
+	rom ( name A.BLB size 50476739 crc 52a271d6 md5 ad14d697348dc8bbcf1a482b2ce4f5e4 sha1 cf52b0b23ca49969bcbbfcbbeb3532570871123b )
+	rom ( name C.BLB size 241388980 crc 1e1eddce md5 90508c3514943d5857c835692a166fd5 sha1 4afc03904b5913ac9bc3e89018c3895e07a9a051 )
+	rom ( name DSETUP.DLL size 127488 crc cbd84a3c md5 9cf66de71dc7143006c9cd719dcbf32f sha1 a4956fdba93258f5cfa46e0cb0011ae2e23975b2 )
+	rom ( name DSETUP16.DLL size 63056 crc d3851129 md5 550c643fbe00165634cfeff9bde3fb69 sha1 97f104dbc093cfef0e075d081fb7e59811d96e68 )
+	rom ( name DSETUP32.DLL size 41984 crc 83379603 md5 3d98c98e3a859bb26aca297b6fff3cde sha1 e3c0fc9afd704e22e12e5698ec076d634895b0fa )
+	rom ( name HD.BLB size 4308928 crc 9c67c405 md5 fef0764c8cc605cd875e72c5ac06550e sha1 8ccfed08cc6aa54064a56675fe0b6ad18a94b0dc )
+	rom ( name I.BLB size 43119746 crc 19d412ff md5 f98c6ac228c8618c2865b4a8e2bf9bd3 sha1 0286ef95288969d82007df75c877d4929e9a14bd )
+	rom ( name NHC.EXE size 811520 crc fd48377c md5 4d6b40ec6af40b15757ff796fdf9e0a2 sha1 91310938e2a126eefcdd09accd5ecb352c189260 )
+	rom ( name S.BLB size 16622792 crc a78476c7 md5 187369731ef1ab24cf1cdc271ed4c67c sha1 fe97d065b49bd027485e6c2d2d7c23eef4e9967e )
+	rom ( name SMACKW32.DLL size 66048 crc 8f325528 md5 01c0aebf2800deaee8ba6505978d7dfa sha1 3b9e83319f6e0c385a9fb609298d3a4ea625cc93 )
+	rom ( name T.BLB size 228831641 crc 1c59f008 md5 13512a8c15e4a8a4ea4e6ff39beffd54 sha1 7e3f4e80bcb96dd2b72d94c6124867fcc828520d )
 )
 
 game (
@@ -53,12 +92,27 @@ game (
 	year 1996
 	manufacturer "The Neverhood Inc."
 	sourcefile neverhood
-	rom ( name A.BLB size 50437664 crc effef236 md5 4c2ac649f53b863c2b601a73367fb5ac )
-	rom ( name C.BLB size 233971458 crc 43129e6c md5 060dc30ef7c54b5237d15cbc0da54e4b )
-	rom ( name HD.BLB size 4248635 crc 34c515e5 md5 be3a91186a815f1653fd80b82f1d0727 )
-	rom ( name I.BLB size 41654674 crc 3f5d18c0 md5 6730b72e6da1ef2e7669bdf92bf7c92d )
-	rom ( name M.BLB size 53797472 crc c4ed2f90 md5 dd9464d65ab6cae231720f3f768378a8 )
-	rom ( name S.BLB size 16622792 crc a78476c7 md5 187369731ef1ab24cf1cdc271ed4c67c )
-	rom ( name T.BLB size 228370309 crc 12422039 md5 70e499ff4e70d558c2807e4c1d4ebe0f )
+	rom ( name A.BLB size 50437664 crc effef236 md5 4c2ac649f53b863c2b601a73367fb5ac sha1 8e16c84cdd98d5924f65ec9c862d4e5780668cbe )
+	rom ( name C.BLB size 233971458 crc 43129e6c md5 060dc30ef7c54b5237d15cbc0da54e4b sha1 18ac14a290678e5fc1c13f3d727268b1f6cc06ca )
+	rom ( name HD.BLB size 4248635 crc 34c515e5 md5 be3a91186a815f1653fd80b82f1d0727 sha1 fc47ae99c014c9264fe8a0ca4c0a6097b45edefb )
+	rom ( name I.BLB size 41654674 crc 3f5d18c0 md5 6730b72e6da1ef2e7669bdf92bf7c92d sha1 b9930ee3d54ef717836ceaf9a02061300c8be0ca )
+	rom ( name M.BLB size 53797472 crc c4ed2f90 md5 dd9464d65ab6cae231720f3f768378a8 sha1 1af5df5c3da1670a02f67a7ded1479874618e4e4 )
+	rom ( name S.BLB size 16622792 crc a78476c7 md5 187369731ef1ab24cf1cdc271ed4c67c sha1 fe97d065b49bd027485e6c2d2d7c23eef4e9967e )
+	rom ( name T.BLB size 228370309 crc 12422039 md5 70e499ff4e70d558c2807e4c1d4ebe0f sha1 420158f3a2e79852a8f3a89ff2951bdaa75a0b40 )
+)
+
+game (
+	name neverhood-win-ru-1
+	description "Neverhood Chronicles, The (Windows/Russian)[Fargus]"
+	year 1996
+	manufacturer "The Neverhood Inc."
+	sourcefile neverhood
+	rom ( name A.BLB size 50571893 crc 49660ca0 md5 90e2b47a562df6d0df87e50247040330 sha1 ae0989287331764a34df3d83b067f28c9689a84c )
+	rom ( name C.BLB size 251824184 crc 1c558bb1 md5 91b93765db368ba8fdc4b797b5e731bc sha1 b6ae5e75af74562d7b48ababeb5a604307754c74 )
+	rom ( name HD.BLB size 4425816 crc 0cd84a50 md5 17d8faed7599bb6c5cb59a60e992bea7 sha1 583d1e80ed7b3d30e2c7d2b00132e91fdba23286 )
+	rom ( name I.BLB size 50499093 crc 185eb1ca md5 268b03144787ced98a9a48280e98a7e5 sha1 e9376740f2bb6335aa35dfc4aa7eb7bb1b2b6a51 )
+	rom ( name M.BLB size 21004668 crc 28c08768 md5 aea39a99e3f818d35bfea98d2df16e42 sha1 3d7e49619bdf6a6094295c3c6a262618ee8a1bd1 )
+	rom ( name S.BLB size 16622792 crc a78476c7 md5 187369731ef1ab24cf1cdc271ed4c67c sha1 fe97d065b49bd027485e6c2d2d7c23eef4e9967e )
+	rom ( name T.BLB size 228979468 crc 1f8ba31c md5 e5587ce78666016a567fd428da6fdae7 sha1 b64ab0aabc5109f4af58d5469e7833ab50869cf7 )
 )
 

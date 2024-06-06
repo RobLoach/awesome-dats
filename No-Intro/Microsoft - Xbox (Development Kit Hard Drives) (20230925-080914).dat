@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>282</id>
+		<name>Microsoft - Xbox (Development Kit Hard Drives)</name>
+		<description>Microsoft - Xbox (Development Kit Hard Drives)</description>
+		<version>20230925-080914</version>
+		<author>Hiccup, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="ActiMarvelThawGun (Unknown)" id="00002">
+		<description>ActiMarvelThawGun (Unknown)</description>
+		<rom name="ActiMarvelThawGun (Unknown).img" size="10005037056" crc="9a7a60ff" md5="68337ff5f156341677f75cb846ee394b" sha1="b85b57d817945ca6bf0dbdc25825a4483f9072a8"/>
+	</game>
+	<game name="Eutechnyx Debug Kit (Unknown)" id="00003">
+		<description>Eutechnyx Debug Kit (Unknown)</description>
+		<rom name="hdd.img" size="10005073920" crc="60c95e97" md5="c2d429877df747a572760f11946b8f23" sha1="ac3f43d70a00ef1439c4c44d722ae7e43d036a49" sha256="077d152efd89348df2bf9067f2815d0e4c525292614e54bb069e5bbd031df19e"/>
+	</game>
+	<game name="Red Storm Entertainment Debug Kit (Unknown)" id="00001">
+		<description>Red Storm Entertainment Debug Kit (Unknown)</description>
+		<rom name="Red Storm Entertainment Debug Kit (Unknown).img" size="10005037056" crc="df19bf92" md5="d96b4ba6603f2c395dd9d26cea2e19ad" sha1="647647c559c6ee672694e084f65ade34f2d4821f"/>
+	</game>
+</datafile>

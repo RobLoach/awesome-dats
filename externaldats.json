@@ -1,16 +1,9 @@
 [
   {
-    "name": "Doom",
-    "description": "Doom",
-    "version": "07-08-2015",
-    "author": "Obiwantje",
-    "url": "https://cdn.rawgit.com/libretro/libretro-database/389688c3f86779f26cb19c10b537b14b6a6ee07e/dat/DOOM.dat"
-  },
-  {
-    "name": "libretro - BIOS",
-    "description": "libretro - BIOS",
-    "version": "2016-12-11",
+    "name": "libretro - System",
+    "description": "libretro - System",
+    "version": "2023.5.7",
     "author": "libretro",
-    "url": "https://cdn.rawgit.com/libretro/libretro-database/6880dcfff5a10bc55981f793f83bbea9234e47a0/dat/BIOS%20-%20Merged.dat"
+    "url": "https://github.com/libretro/libretro-database/raw/5cfb6cd3d742d60da99a18d5472e8c8a9791c36e/dat/System.dat"
   }
 ]

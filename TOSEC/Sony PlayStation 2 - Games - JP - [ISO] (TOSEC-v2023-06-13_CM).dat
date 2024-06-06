@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Games - JP - [ISO]</name>
+		<description>Sony PlayStation 2 - Games - JP - [ISO] (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Busin 0 - Wizardry Alternative NEO v1.03 (2003)(Atlus)(JP)[SLPM-65378]">
+		<description>Busin 0 - Wizardry Alternative NEO v1.03 (2003)(Atlus)(JP)[SLPM-65378]</description>
+		<rom name="Busin 0 - Wizardry Alternative NEO v1.03 (2003)(Atlus)(JP)[SLPM-65378].iso" size="1273823232" crc="ce12d364" md5="58dfeef1b2a96e800ddae2386c9c60f6" sha1="86d0bb284d81d76410061a220f3a4f4b332d53e8"/>
+	</game>
+	<game name="Busin 0 - Wizardry Alternative NEO v2.01 (2003)(Atlus)(JP)[SLPM-65876]">
+		<description>Busin 0 - Wizardry Alternative NEO v2.01 (2003)(Atlus)(JP)[SLPM-65876]</description>
+		<rom name="Busin 0 - Wizardry Alternative NEO v2.01 (2003)(Atlus)(JP)[SLPM-65876].iso" size="1274544128" crc="71d0756c" md5="48a5639afdf9931913c7dde298dc5349" sha1="91237a804cebfe955c7ea5e35e00445c7623ab6f"/>
+	</game>
+	<game name="Devil Summoner - Kuzunoha Raidou tai Abaddon Ou v1.00 (2008)(ATLUS)(JP)[SLPM-66679]">
+		<description>Devil Summoner - Kuzunoha Raidou tai Abaddon Ou v1.00 (2008)(ATLUS)(JP)[SLPM-66679]</description>
+		<rom name="Devil Summoner - Kuzunoha Raidou tai Abaddon Ou v1.00 (2008)(ATLUS)(JP)[SLPM-66679].iso" size="4177985536" crc="db862b21" md5="0832fca2f4c3e053818ac24ef09c3e97" sha1="9fcc27e946f9495bab540e5057957105e16960a6"/>
+	</game>
+	<game name="Dragon Quest - Shonen Yangus to Fushigi no Dungeon v1.02 (2006)(Square Enix)(JP)[SCAJ-20175]">
+		<description>Dragon Quest - Shonen Yangus to Fushigi no Dungeon v1.02 (2006)(Square Enix)(JP)[SCAJ-20175]</description>
+		<rom name="Dragon Quest - Shonen Yangus to Fushigi no Dungeon v1.02 (2006)(Square Enix)(JP)[SCAJ-20175].iso" size="3813998592" crc="c5937468" md5="858120361c4d503eb70f6fdb06c529ec" sha1="be47f3b273d78871523bb9ff09a80d9a1be3afac"/>
+	</game>
+	<game name="Front Mission - Online v1.00 (2005)(Square Enix)(JP)[SLPM-65981]">
+		<description>Front Mission - Online v1.00 (2005)(Square Enix)(JP)[SLPM-65981]</description>
+		<rom name="Front Mission - Online v1.00 (2005)(Square Enix)(JP)[SLPM-65981].iso" size="2066808832" crc="e24a6c5e" md5="c8a88349c7ee966cbd292774e603aade" sha1="b8b7780e4041d76746fbe5509d8a2d7faf6a0adc"/>
+	</game>
+	<game name="Front Mission 5 - Scars of the War v1.01 (2005)(Square Enix)(JP)[SLPM-66205]">
+		<description>Front Mission 5 - Scars of the War v1.01 (2005)(Square Enix)(JP)[SLPM-66205]</description>
+		<rom name="Front Mission 5 - Scars of the War v1.01 (2005)(Square Enix)(JP)[SLPM-66205].iso" size="3918495744" crc="ff159b0b" md5="b5eadad7456e3f2eb27ef4a79be63377" sha1="e2f3009e3d3f2225983a106a27f5fc8f28ff6cdc"/>
+	</game>
+	<game name="Kingdom Hearts II - Final Mix+ v1.01 (2007)(Square Enix)(JP)(Disc 1 of 2)[!][Kingdom Hearts II - Final Mix][SLPM-66675]">
+		<description>Kingdom Hearts II - Final Mix+ v1.01 (2007)(Square Enix)(JP)(Disc 1 of 2)[!][Kingdom Hearts II - Final Mix][SLPM-66675]</description>
+		<rom name="Kingdom Hearts II - Final Mix+ v1.01 (2007)(Square Enix)(JP)(Disc 1 of 2)[!][Kingdom Hearts II - Final Mix][SLPM-66675].iso" size="4330192896" crc="3bc34e06" md5="1bd351e1df9fc5d783d8318010d17f03" sha1="81c177a374e1bddf8453c8c96493d4e715a19236"/>
+	</game>
+	<game name="Kingdom Hearts II - Final Mix+ v1.01 (2007)(Square Enix)(JP)(Disc 2 of 2)[!][Kingdom Hearts - Re-Chain of Memories][SLPM-66676]">
+		<description>Kingdom Hearts II - Final Mix+ v1.01 (2007)(Square Enix)(JP)(Disc 2 of 2)[!][Kingdom Hearts - Re-Chain of Memories][SLPM-66676]</description>
+		<rom name="Kingdom Hearts II - Final Mix+ v1.01 (2007)(Square Enix)(JP)(Disc 2 of 2)[!][Kingdom Hearts - Re-Chain of Memories][SLPM-66676].iso" size="4428660736" crc="4a7e39a2" md5="9af8119107df074b6badcb923c2a58a0" sha1="75d8b1b39a55cbc59077141c7828624970450dc0"/>
+	</game>
+	<game name="NiGHTS into Dreams... v1.00 (2008)(Sega)(JP)[!][SLPM-66926]">
+		<description>NiGHTS into Dreams... v1.00 (2008)(Sega)(JP)[!][SLPM-66926]</description>
+		<rom name="NiGHTS into Dreams... v1.00 (2008)(Sega)(JP)[!][SLPM-66926].iso" size="2898296832" crc="25f273d0" md5="3a6587656d942f49a8d3478cf1ae92d5" sha1="25a9aa0dc5348eff2f8a89dd61aff04ac57d1a0a"/>
+	</game>
+	<game name="Seaman 2 - Peking Genjin Ikusei Kit v1.01 (2007)(Sega)(JP)[SLPM-66685]">
+		<description>Seaman 2 - Peking Genjin Ikusei Kit v1.01 (2007)(Sega)(JP)[SLPM-66685]</description>
+		<rom name="Seaman 2 - Peking Genjin Ikusei Kit v1.01 (2007)(Sega)(JP)[SLPM-66685].iso" size="2317582336" crc="13c60630" md5="9f749cb3a135d0c221b4da13a5d452f0" sha1="19ab0a5380c564f6f1f5ff470db49efaa14a9eb4"/>
+	</game>
+	<game name="Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition v1.00 (2008)(ATLUS)(JP)[SLPM-66681]">
+		<description>Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition v1.00 (2008)(ATLUS)(JP)[SLPM-66681]</description>
+		<rom name="Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition v1.00 (2008)(ATLUS)(JP)[SLPM-66681].iso" size="3194388480" crc="ccef1312" md5="47a564d2586c497f47f8b67ee17f553c" sha1="46e74d4c04a802b7bdd55c5e1b320abf6763a458"/>
+	</game>
+	<game name="Tales of Destiny - Director's Cut v1.00 (2008)(Namco Bandai Games)(JP)[!][SLPS-25841, SLPS-25842]">
+		<description>Tales of Destiny - Director's Cut v1.00 (2008)(Namco Bandai Games)(JP)[!][SLPS-25841, SLPS-25842]</description>
+		<rom name="Tales of Destiny - Director's Cut v1.00 (2008)(Namco Bandai Games)(JP)[!][SLPS-25841, SLPS-25842].iso" size="4479647744" crc="340b189d" md5="bd5a9c4c95814acf24593d60d36909df" sha1="289587a819d533180d8e067d5490b67aa590a884"/>
+	</game>
+	<game name="Tales of Destiny 2 v1.01 (2002)(Namco)(JP)[SLPM-25172]">
+		<description>Tales of Destiny 2 v1.01 (2002)(Namco)(JP)[SLPM-25172]</description>
+		<rom name="Tales of Destiny 2 v1.01 (2002)(Namco)(JP)[SLPM-25172].iso" size="3234004992" crc="359de692" md5="57cc3626a9cdc44bcde55efde9d22e78" sha1="3b2be72b751607a7a2a56d62feec71584b4b8c72"/>
+	</game>
+	<game name="Tales of Fandom Vol.2 v1.01 (2007)(Namco Bandai Games)(JP)[Luke Version][SLPS-25774]">
+		<description>Tales of Fandom Vol.2 v1.01 (2007)(Namco Bandai Games)(JP)[Luke Version][SLPS-25774]</description>
+		<rom name="Tales of Fandom Vol.2 v1.01 (2007)(Namco Bandai Games)(JP)[Luke Version][SLPS-25774].iso" size="4542136320" crc="af05a52b" md5="4f66e93ab729bca0b170fae24aae2432" sha1="cd94c1e8b618ad0bd62ef37c7149f071c2140539"/>
+	</game>
+	<game name="Tales of Fandom Vol.2 v1.01 (2007)(Namco Bandai Games)(JP)[Tia Version][SLPS-25773]">
+		<description>Tales of Fandom Vol.2 v1.01 (2007)(Namco Bandai Games)(JP)[Tia Version][SLPS-25773]</description>
+		<rom name="Tales of Fandom Vol.2 v1.01 (2007)(Namco Bandai Games)(JP)[Tia Version][SLPS-25773].iso" size="4542136320" crc="6a4d809f" md5="8f70adc59f1e679b3a482f43bfef8c47" sha1="31fc17393d72b15832ef8c65556ea99d2b461dad"/>
+	</game>
+	<game name="Tales of Rebirth v1.02 (2004)(Namco)(JP)[!][SLPS-25450]">
+		<description>Tales of Rebirth v1.02 (2004)(Namco)(JP)[!][SLPS-25450]</description>
+		<rom name="Tales of Rebirth v1.02 (2004)(Namco)(JP)[!][SLPS-25450].iso" size="4508516352" crc="73765f13" md5="13f24dbea15c1d5ca4fbefe41f4613aa" sha1="21aa2923e0c63c46368156b301bc5c22aa3f55e9"/>
+	</game>
+	<game name="Thunder Force VI - Sandaa Fousu VI v1.00 (2008)(Sega)(JP)[SLPM-55096]">
+		<description>Thunder Force VI - Sandaa Fousu VI v1.00 (2008)(Sega)(JP)[SLPM-55096]</description>
+		<rom name="Thunder Force VI - Sandaa Fousu VI v1.00 (2008)(Sega)(JP)[SLPM-55096].iso" size="1902477312" crc="fee1e6e9" md5="8d33cc516ab8a364444a1af86afbbc9f" sha1="e86e9d958a7954e18fd01350b21cbcb752708c2f"/>
+	</game>
+	<game name="Vampire - Darkstalker's Collection v1.02 (2006)(Capcom)(JP)[SLPM-65998]">
+		<description>Vampire - Darkstalker's Collection v1.02 (2006)(Capcom)(JP)[SLPM-65998]</description>
+		<rom name="Vampire - Darkstalker's Collection v1.02 (2006)(Capcom)(JP)[SLPM-65998].iso" size="4698767360" crc="68aa7829" md5="1cb15788f5202474f1e7967a4984d412" sha1="7dc177d48e779596c63a1d7ff1ede9fc1824a2af"/>
+	</game>
+</datafile>

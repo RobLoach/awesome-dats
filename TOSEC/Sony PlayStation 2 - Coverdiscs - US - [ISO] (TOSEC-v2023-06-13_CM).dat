@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Coverdiscs - US - [ISO]</name>
+		<description>Sony PlayStation 2 - Coverdiscs - US - [ISO] (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official U.S. PlayStation Magazine Issue 065 v1.00 (2003)(SCEA)(US)[!][SCUS-97191]">
+		<description>Official U.S. PlayStation Magazine Issue 065 v1.00 (2003)(SCEA)(US)[!][SCUS-97191]</description>
+		<rom name="Official U.S. PlayStation Magazine Issue 065 v1.00 (2003)(SCEA)(US)[!][SCUS-97191].iso" size="4209573888" crc="8e585ac7" md5="d24f61d2a80177900411acd16c573eec" sha1="e11338c3265fd6265d9f13ee49a1881623b190ad"/>
+	</game>
+	<game name="Official U.S. PlayStation Magazine Issue 077 v1.00 (2004)(SCEA)(US)[SCUS-97252]">
+		<description>Official U.S. PlayStation Magazine Issue 077 v1.00 (2004)(SCEA)(US)[SCUS-97252]</description>
+		<rom name="Official U.S. PlayStation Magazine Issue 077 v1.00 (2004)(SCEA)(US)[SCUS-97252].iso" size="4370104320" crc="84de4cdd" md5="8a3ba083fb38ff6779cd20b8debcd616" sha1="b955cc8b15ff856252e970e47dc8154ebda987bf"/>
+	</game>
+	<game name="Official U.S. PlayStation Magazine Issue 078 v1.01 (2004)(SCEA)(US)[SCUS-97331]">
+		<description>Official U.S. PlayStation Magazine Issue 078 v1.01 (2004)(SCEA)(US)[SCUS-97331]</description>
+		<rom name="Official U.S. PlayStation Magazine Issue 078 v1.01 (2004)(SCEA)(US)[SCUS-97331].iso" size="3408625664" crc="bdd3e7cf" md5="a1e2d88e138a1e5c19dffdd16aeb9a1b" sha1="2a52f91901f19521ed0e411301a65c111bc4bf66"/>
+	</game>
+	<game name="Official U.S. PlayStation Magazine Issue 103 v1.00 (2006)(SCEA)(US)[SCUS-97531]">
+		<description>Official U.S. PlayStation Magazine Issue 103 v1.00 (2006)(SCEA)(US)[SCUS-97531]</description>
+		<rom name="Official U.S. PlayStation Magazine Issue 103 v1.00 (2006)(SCEA)(US)[SCUS-97531].iso" size="3169386496" crc="78538395" md5="1b888ce45db823d858472e83a7aab9b7" sha1="6e90832b556751447cac93fbf69a92a6823c9f4d"/>
+	</game>
+	<game name="Official U.S. PlayStation Magazine Issue 108 v1.00 (2006)(SCEA)(US)[SCUS-97536]">
+		<description>Official U.S. PlayStation Magazine Issue 108 v1.00 (2006)(SCEA)(US)[SCUS-97536]</description>
+		<rom name="Official U.S. PlayStation Magazine Issue 108 v1.00 (2006)(SCEA)(US)[SCUS-97536].iso" size="2885091328" crc="dbfefc94" md5="b813fa7ff4d1654a5bae42eb9dc98162" sha1="9e1c0913bea43ec12cf0624681b1d302979783e6"/>
+	</game>
+	<game name="Official U.S. PlayStation Magazine Issue 109 v1.00 (2006)(SCEA)(US)[SCUS-97537]">
+		<description>Official U.S. PlayStation Magazine Issue 109 v1.00 (2006)(SCEA)(US)[SCUS-97537]</description>
+		<rom name="Official U.S. PlayStation Magazine Issue 109 v1.00 (2006)(SCEA)(US)[SCUS-97537].iso" size="1573715968" crc="e69b1ce6" md5="dc09e75aee15a38f09bcdfd3e5e62e40" sha1="e62bced67ce3aa1cf3c3b665f0fd4204f37b80dd"/>
+	</game>
+	<game name="Official U.S. PlayStation Magazine Issue 111 v1.00 (2006)(SCEA)(US)[SCUS-97539]">
+		<description>Official U.S. PlayStation Magazine Issue 111 v1.00 (2006)(SCEA)(US)[SCUS-97539]</description>
+		<rom name="Official U.S. PlayStation Magazine Issue 111 v1.00 (2006)(SCEA)(US)[SCUS-97539].iso" size="3179020288" crc="b51d6ada" md5="6938f83568e41cbe6665f7d01d654e99" sha1="7187241d3685b8af9cc67a01adb32c7f17931b5e"/>
+	</game>
+	<game name="Official U.S. PlayStation Magazine Issue 112 v1.00 (2006)(SCEA)(US)[SCUS-97540]">
+		<description>Official U.S. PlayStation Magazine Issue 112 v1.00 (2006)(SCEA)(US)[SCUS-97540]</description>
+		<rom name="Official U.S. PlayStation Magazine Issue 112 v1.00 (2006)(SCEA)(US)[SCUS-97540].iso" size="1338441728" crc="9eb1b49c" md5="3285092a8aaf13bad1738cd8e1913cc6" sha1="dc7a13dfe473cda36a0b6ff81729fe548e869e89"/>
+	</game>
+</datafile>

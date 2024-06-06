@@ -1,0 +1,1192 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>123</id>
+		<name>Mobile - J2ME</name>
+		<description>Mobile - J2ME</description>
+		<version>20240530-141554</version>
+		<author>FakeShemp, Gefflon, Hiccup, NovaAurora, Tescu, TwoSpacesSG</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="007 - Quantum of Solace (Unknown) (En,Es,Pt) (Nokia s60v3, 240x320) [b]" id="0083">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Es,Pt) (Nokia s60v3, 240x320) [b]</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Es,Pt) (Nokia s60v3, 240x320) [b].jar" size="562941" crc="68991b6b" md5="b3d85d172663676f546bc0304414702b" sha1="ca0754a8f32e64e327879e7f0d75a3176f417036" sha256="61f3a3dfab930fda5e568d25d11f26abb2578a7977dc10d8802aa32a84035a6c" status="baddump"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Es,Pt) (Sony Ericsson, 176x220) [b]" id="0084">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Es,Pt) (Sony Ericsson, 176x220) [b]</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Es,Pt) (Sony Ericsson, 176x220) [b].jar" size="421683" crc="d3c2f213" md5="09d8e2cd44744670b1ee1f4786d419cf" sha1="dbecc905b01e01b991f17a766e1fad80ef1edb70" sha256="36060ee374afa0948bddec9ff6e6da6e11ca5cfd57aa9ad3a11d2e37dfc701c7" status="baddump"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola, 128x116) (v1.0.3) [b]" id="0085">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola, 128x116) (v1.0.3) [b]</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola, 128x116) (v1.0.3) [b].jar" size="187194" crc="061362b9" md5="0e15b9298df34bc8b94a8fe2694e8e1c" sha1="6b6e892b104476806e4b0b9217620bedf09266bc" sha256="502adfcb571d763ed48096c57bdfc2fcfa22cd081d48f4c6f4bf562d8ade233b" status="baddump"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola E1000, 240x300) (v1.0.3)" id="0086">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola E1000, 240x300) (v1.0.3)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola E1000, 240x300) (v1.0.3).jar" size="326027" crc="d30ff778" md5="17ea22a3052ae69e6579901b87be998c" sha1="60c4a04968da7b440147f7cfbb8620464c6441d2" sha256="d240206d729ceb4483798fce011b78fe747bf1195644b31d1fc29a44b1c4def0"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E370, 128x160) (v1.0.3)" id="0087">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E370, 128x160) (v1.0.3)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E370, 128x160) (v1.0.3).jar" size="89215" crc="d71b811a" md5="245e6a8cbe87dac6fe001f616118de5f" sha1="6bd86c6022e8497592565d1e31682d21e44247d7" sha256="7ca8c6b46fd4725d6b79afff059486132fc54494d7a8ca2b3b69c52a1079ed3c"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung, 176x220) (v1.0.3)" id="0088">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung, 176x220) (v1.0.3)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung, 176x220) (v1.0.3).jar" size="88459" crc="98f0db23" md5="82986a0b00843afdb86b1d5a352cf66f" sha1="a789c6517d996e8134d2de18c490aa862fc605f5" sha256="41474fd361a15cee6bdac37e49497556cdf28952e0e393a7d5ff8ae31f932588"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KE970, 240x304) (v1.0.3)" id="0089">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KE970, 240x304) (v1.0.3)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KE970, 240x304) (v1.0.3).jar" size="480010" crc="056ce21e" md5="987abb7f7728a0296b27826501f9f2ff" sha1="1f7c3ecbf223a6fdcfad758eedbf970782b8ffdf" sha256="8c618d73adf081a4d44ebae52ece89caf0b6b91557f96971b3d9e32ea43782c0"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 352x416) (v1.0.3)" id="0090">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 352x416) (v1.0.3)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 352x416) (v1.0.3).jar" size="109958" crc="e64e63c8" md5="99eedb4fdca52102f8c14855f9363009" sha1="e4a970739178421cd02bf1b042dd103073a6bb1e" sha256="0b89edb715ad592246a220d074191ffc2363f3eaeb85ad40e5b62072356c9fd6"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola L6, 128x149) (v1.0.3, 2008-12)" id="0091">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola L6, 128x149) (v1.0.3, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola L6, 128x149) (v1.0.3, 2008-12).jar" size="181420" crc="89d0c8e4" md5="9bfc4d0ec390283ba8256b596100f074" sha1="a958dec49fe19134cc31d8fefef0da0c5509b0c3" sha256="c8afc07d18d13d733b6da6117579d93422d8964e78fd50fdb09f39be0bf31e6d"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola L6, 128x149) (v1.0.3, 2009-11)" id="0092">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola L6, 128x149) (v1.0.3, 2009-11)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola L6, 128x149) (v1.0.3, 2009-11).jar" size="181004" crc="384d6481" md5="9e2d8d7bb64aba827af0ca60078cd318" sha1="62854ee7aa15eb2b1e2791bc4125b53350fa25f7" sha256="53403a76b78e2dad5d9f00e2e8ef3c19f643bac3c2e09a608fa8784d166c8ea5"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Siemens, 132x176) (v1.0.3)" id="0093">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Siemens, 132x176) (v1.0.3)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Siemens, 132x176) (v1.0.3).jar" size="192897" crc="7dcd3058" md5="a0d8fa2d0fcac2160514e7c66317c0c6" sha1="6255f53220d1c9e9aca80a1e0db1afd4a137cc48" sha256="592e59de20ad02da28bdc644d19d89b74b6dd6c72ba8b6aef524ede701a01c55"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2008-09)" id="0094">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2008-09)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2008-09).jar" size="304420" crc="fcc33d0c" md5="10391da58acfa6b801ca0ca040f0bf0c" sha1="a87f77ab5dba6b5853d717cef4f1b900a07e273e" sha256="9146e36fa526c6cc7e66509ea17afb102cf42dd77d9fa80274c78581ac4fd033"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-09-29 17.23)" id="0095">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-09-29 17.23)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-09-29 17.23).jar" size="479667" crc="4a4cdeae" md5="134e2ff0bcf03d57ae59bd46aff63a3f" sha1="f0f0d37533d73cb1f022d7f6dc8ed3d9fa3607d8" sha256="c902a62891321c499c941092ebd8c56b0aa52c08f02dcc40cdeb044af4b4d948"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV60, 176x206) (v1.0.4)" id="0096">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV60, 176x206) (v1.0.4)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV60, 176x206) (v1.0.4).jar" size="313053" crc="8256a203" md5="1895d89ac72fb2854e6d35b6c2307c49" sha1="c49299e94fa8b27dd6c638e75c827b9a1049b845" sha256="1ce95d9ee5bc4b11467ea9a94e07fb155f04f8fb9112c6cf49734232ad3280f4"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KG800, 176x206) (v1.0.4)" id="0097">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KG800, 176x206) (v1.0.4)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KG800, 176x206) (v1.0.4).jar" size="196501" crc="e895032f" md5="46e2398746247cc26946d98eb39d8252" sha1="e8fa7384325acaa199654cf0fe0698132134b7c7" sha256="e16f074a63bf9d89868c7f93be11e97834db8396e1d7e38b43ca0d0224598e5e"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s60v2, 176x208) (v1.0.4)" id="0098">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s60v2, 176x208) (v1.0.4)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s60v2, 176x208) (v1.0.4).jar" size="201495" crc="95a7cac4" md5="571d7d03b9c42274c12125e87a6daa6a" sha1="08225989ce711abde99a12da2639492eee3fab9c" sha256="b8bbdba19bd5036da0d7bbe3468e2fceabf53f855d14973755cedeb96dc83396"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2008-12)" id="0099">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2008-12).jar" size="304442" crc="c23c7938" md5="66813d9c1bc6e8ec5ae8f7a16ccc46f5" sha1="befab2a873b7a747f94ebda71677db52086e659c" sha256="83ac97fdd5119550425beac50ccff756e61dd83314723927b6ba1cae2b79f475"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-12)" id="0100">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-12).jar" size="479689" crc="1968dcc0" md5="b481cdbc3782def14d8572735fc27c3c" sha1="05e8c7686f3844f6681dd85b39da503ee923abfd" sha256="e016e2c7bb82c3100a3e8766c377393cd72c1b5edddf41e51c5874379dd1181d"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KU990, 240x298) (v1.0.4)" id="0101">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KU990, 240x298) (v1.0.4)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KU990, 240x298) (v1.0.4).jar" size="479993" crc="2b5b5c9b" md5="c23e526b5f38c075ad521b319232d8d1" sha1="d0662ae804cca5e5ee9cabed50a01f5eae0722cc" sha256="d60b815bafb5830001cfccfe84db8689f10838528634dabd6abb79e41fffcb5f"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-09-29 17.24)" id="0102">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-09-29 17.24)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-09-29 17.24).jar" size="479667" crc="14f6e657" md5="c6933e1ec3c6888054d260a118ca3248" sha1="b7220b7688251f2d801c2883d48db8a608f6aad8" sha256="d5f1a72cb813bab88fd07918458ea119e7711914c10f3cf7dba75fcdb295595d"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2009-11)" id="0103">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2009-11)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2009-11).jar" size="303945" crc="cdde45c9" md5="e762359874eb6d56e4571be9845f585d" sha1="2457daf6aa233507d5d5e094d2a7927a297f544d" sha256="794d175f72e1f1260b9b16db93b18635f4955313427b4861f321cbd1df9f9228"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s60v1, 176x208) (v1.0.5)" id="0104">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s60v1, 176x208) (v1.0.5)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s60v1, 176x208) (v1.0.5).jar" size="103846" crc="27321619" md5="015f9dbf881f447b57ddd93cabb4caee" sha1="ba12ce72f93afdcd7f305c379973ac43e3841830" sha256="fdb2a6f800a25150487eea40d0ed10a195e01cc6f4429504f55782dece5206a5"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2009-11)" id="0105">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2009-11)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2009-11).jar" size="478759" crc="22828751" md5="20d66cfbc6d0688b5be12e1c8bb0b910" sha1="cdb22380ab4195e0002662622aa4793884c4ca8a" sha256="be81a761b84dbc998d7e8d26410ac6601e10e5e37905a8c636d6a5fc3db83053"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s40v2a, 128x160) (v1.0.5)" id="0106">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s40v2a, 128x160) (v1.0.5)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s40v2a, 128x160) (v1.0.5).jar" size="85929" crc="649801d4" md5="392c3e4189324add3d9eca100c9f497f" sha1="bdd3fa6b03b603725e7542f3239a10e27f3f8c7e" sha256="9a2a1f6f9bfd421e85894b5d9c1a530404dfbfdd1643a6ff6f233b3601688d54"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2008-12)" id="0107">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2008-12).jar" size="89338" crc="a833b255" md5="43162547ebb23acbb545d3903b5cae8f" sha1="2a5920c01e7bafc733828ab6e3059c46312d257a" sha256="46637ceaf5d869cf71f4097718c676d2c091445283834ea9921376de97db998a"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2008-09)" id="0108">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2008-09)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2008-09).jar" size="89316" crc="457cbfa6" md5="634ae739011645bf8d48434cb1212905" sha1="506148f6a2a58395ab1cb0d6a6969688f5b69c2a" sha256="a9fdc16395072fc54a5101d00c65241ad63d116a2f55823a7b966bfeb907f9a9"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2009-11)" id="0109">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2009-11)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2009-11).jar" size="89032" crc="45853021" md5="6c0f92f2c4093cd6503ceda5c33222a0" sha1="f6d42b503f8bd96bf484bd0d0418876b5d8626e4" sha256="bf8bb4aaec82510494cfbc8b788c4833f6ce84ad3782b79790ad384b4e31922b"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-12)" id="0110">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-12).jar" size="84923" crc="e3c0eb33" md5="766e2ac2d56011e61d05a74dbd12209f" sha1="599502fc912720484a41028964a1977f2e198eb6" sha256="fdbf0069afcde06f5e74025c537c5c9ebdde253252123975360444e1de2ee474"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-10)" id="0111">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-10)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-10).jar" size="84901" crc="663122c9" md5="768a9657ac0d2ebd970de4c12d50eee2" sha1="14e8cbee850d598b7c8741cb29c5b0c0b8edf49d" sha256="1fc595cdba9bdb04b2eace908fe38f08ced411d2d3275c456478da3b6bcf254f"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2, 128x128) (v1.0.5, 2008-12)" id="0112">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2, 128x128) (v1.0.5, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2, 128x128) (v1.0.5, 2008-12).jar" size="84856" crc="2657368c" md5="a3de02fab6555cc62271bed3f307a16f" sha1="346ec29a9ec3e2714c2d78fa94a936a3b1a494e8" sha256="67e080f148e463207bc074acc1bf53d4e11980f28031a2c26a7428db0752c1a2"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2008-12)" id="0113">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2008-12).jar" size="479257" crc="6330da31" md5="a6c4733e07e1c24981f19bd1c5cad2c8" sha1="00ff09277e880ba73ec91faf9a4ca16c0d104547" sha256="e8d6e5de2a8e1fcbe8fb91c29c150fc6f3b963a0e98939af012ecd55223704d7"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV10, 176x220) (v1.0.5, 2009-11)" id="0114">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV10, 176x220) (v1.0.5, 2009-11)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV10, 176x220) (v1.0.5, 2009-11).jar" size="305899" crc="fbcaf6a9" md5="a742943e76b2187fba4b3134b938931d" sha1="da0db0ec76a54d6f5b2b5d08da81ce564d289559" sha256="93a5c9e3aeed2710ff548207728260138ae7a3da98a0b99d2b4702a437f32c22"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2008-09)" id="0115">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2008-09)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2008-09).jar" size="479235" crc="f00fe3fd" md5="cd655e1c8138dc3855080d814056ccba" sha1="d38abf09b2c4fb8cca09139dc5bcc2801901288f" sha256="d8d100614eefb61ad23c038458da761ec742d815e059bb84a7078c7cea1d5ab9"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s40v2, 128x128) (v1.0.5)" id="0116">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s40v2, 128x128) (v1.0.5)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s40v2, 128x128) (v1.0.5).jar" size="85862" crc="6756b2d3" md5="dafdbd130e4b478ba9229ad4242dedb6" sha1="b2d9902071ca3701b74def09a3f659866fa6b79d" sha256="17418b5cae7960c49dbbdc030f08ca7d1943d0898d94548872ac6219c4c27517"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV10, 176x220) (v1.0.5, 2008-12)" id="0117">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV10, 176x220) (v1.0.5, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV10, 176x220) (v1.0.5, 2008-12).jar" size="306397" crc="97a7c52f" md5="e8bef950b4b37d27c2313979485d912d" sha1="996d6427c09785c46a2bc2e121257606a47eaa86" sha256="2bf9e8c523892a99d4d48903e6472f01f0e81dfe8e4a139e1bf0d736f4efb5e0"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-09)" id="0118">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-09)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-09).jar" size="84901" crc="4d537062" md5="eadf51e75da60470902fff9c6d83c2a7" sha1="b72c3bcb3fe4260732a94660541d2e2bc6bf849d" sha256="2cb54458ec3a6a30f20bc046be8044a4ba9f05c0aaa6a16b448ed4823fb32f26"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2, 128x128) (v1.0.5, 2008-09)" id="0119">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2, 128x128) (v1.0.5, 2008-09)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2, 128x128) (v1.0.5, 2008-09).jar" size="84834" crc="f3856f94" md5="f31e1b085ca30de1df49284167e12e9a" sha1="c18976c59acc687febd161acfcb7aea37fa51a80" sha256="256003c9a8f460d0f04569b5943293decbcdbe8c79ffa16f246c122620144751"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia N95, 240x320) (v1.0.6)" id="0120">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia N95, 240x320) (v1.0.6)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia N95, 240x320) (v1.0.6).jar" size="599920" crc="25286ddc" md5="151943fd44d2bbd606cdd5537eed5d06" sha1="e3074f4ef9beaef4c4900758689f1b3668ad1563" sha256="8f29a4a4daa3bcdcb90ef06311fc647d800e7dbea4a036f0cd68ea23cf41e287"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia N95, 240x320) (v1.0.6)" id="0121">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia N95, 240x320) (v1.0.6)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia N95, 240x320) (v1.0.6).jar" size="598863" crc="186c3b5b" md5="1544217158e2a9b1ef690dca8e533c62" sha1="baca05dd5475964d325e6b1a544d5dd46ea43123" sha256="9d2c513e41aee8330858ed93e0c42c5b7b9e4aa7306c42365be54b42baa4132f"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG U8330, 176x220) (v1.0.6)" id="0122">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG U8330, 176x220) (v1.0.6)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG U8330, 176x220) (v1.0.6).jar" size="195988" crc="01b433cc" md5="1d3a77cf120723a6fd7b4d40080285e8" sha1="2fa9ee2985d9720e951893568d366a98fee40679" sha256="759b7c0bf25207d4be571d7868ba5c221a82200aa6387ada76176529920f50cc"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola KRZR K1, 176x204) (v1.0.6)" id="0123">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola KRZR K1, 176x204) (v1.0.6)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola KRZR K1, 176x204) (v1.0.6).jar" size="305569" crc="e07a5e5e" md5="91aca1bec2d1d5ce089923b919f93415" sha1="2a32e6cd224080415bd39e25009f921ddff2e604" sha256="f6d30e2cdb72bd4124c11158f41f6ed0e99cc3fb5a4ff78aa69f93bf8b62cfa6"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s60v1, 176x208) (v1.0.6)" id="0124">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s60v1, 176x208) (v1.0.6)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s60v1, 176x208) (v1.0.6).jar" size="109655" crc="ee20f9e0" md5="96fb034532ba4cb059b8bf42b9bd758e" sha1="97bfc41efd94fb69a9140e01b62b06dbbfa494e1" sha256="cb2dd3c45c1a7221157a9a0d21077ce00940d7b8042a4af80d106efc8d912182"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2008-12)" id="0125">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2008-12).jar" size="598504" crc="d0851ca1" md5="12ae3810e26945038b59bea88e77f756" sha1="9f3c2f115cb3eb0a383de46d2d722d57e98cb217" sha256="13c91ebfd7b2afba643a268e00ab8e904fb1e8dde4984d830b2d23a4f2c39603"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR V3, 176x204) (v1.0.7, 2008-12)" id="0126">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR V3, 176x204) (v1.0.7, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR V3, 176x204) (v1.0.7, 2008-12).jar" size="306266" crc="04f6577b" md5="2fd36c0d57d3ad54689304e4939a519f" sha1="89472220b5c4c3f6ae90b720a692a009e14becbb" sha256="222ee349f2171db741908430c6a106b86c713e0fa8433ffeba1538ccef0c9d0f"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2008-09)" id="0127">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2008-09)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2008-09).jar" size="598482" crc="52254e7d" md5="331e24f61802ba4b321707870b6040ae" sha1="fd6ce2509a0f5f52230b2e309e528bb17c3ed8f9" sha256="97d180a67454ce062e268fdea0e1f85136543a2b4a7dfa52b34b0e3f36b79182"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 208x208) (v1.0.7, 2008-09)" id="0128">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 208x208) (v1.0.7, 2008-09)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 208x208) (v1.0.7, 2008-09).jar" size="306724" crc="ed00217c" md5="3af67c807fd64c407f7dccc3ef49b354" sha1="a94042195bdd5a68c2f04dff433dc0c1c021b023" sha256="07bb2ab401930a22a4d945258dd801e3b5a2e4bad0d277e8402385d1d3c7992e"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2009-11)" id="0129">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2009-11)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2009-11).jar" size="598006" crc="7216e9f4" md5="6555ec4a47b5cec84aac6573ec1ea5dd" sha1="ac6c1142d9c0bc2bd2f81f01f63c834755fda49e" sha256="c91f56ee3922c262892f8104b6c9d7e55bcf5965266cdb22ea19dfa90e5edeb5"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR V3, 176x204) (v1.0.7, 2009-11)" id="0130">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR V3, 176x204) (v1.0.7, 2009-11)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR V3, 176x204) (v1.0.7, 2009-11).jar" size="305768" crc="88822c8e" md5="c2e0af0d8097c17ebc5bb2da59e2f8c1" sha1="8ca4f2fe14c7f211afaf77c189752b2e62ab2c05" sha256="8cdc5cb36c3640df51c304f3d47513a4654f9ef655bb5c6c089a82236a060a9c"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 208x208) (v1.0.7, 2008-12)" id="0131">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 208x208) (v1.0.7, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 208x208) (v1.0.7, 2008-12).jar" size="306746" crc="f755c0d0" md5="c599f86c128edf1f4c4196f9097aa611" sha1="0c33003ae956316b4308e6e6ab78f700654f85cb" sha256="6baecee94eb8c5bb20d955f7e0e4458f7dd2a695de291cc2ee8f53ed9b3558bb"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia, 208x208) (v1.0.7)" id="0132">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia, 208x208) (v1.0.7)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia, 208x208) (v1.0.7).jar" size="307836" crc="95cf5d0c" md5="d9ef5427f1c035747c027c3bb5d97943" sha1="71e1e4f835b40ae2c832c32c678ebebf600b8dae" sha256="30ca5cef454c5f15d9359bfb96b3597560f009e12e62a6fd9a543cbff323fb0a"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 320x240) (v1.0.8)" id="0133">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 320x240) (v1.0.8)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 320x240) (v1.0.8).jar" size="478643" crc="33628c95" md5="cf984a2751136deabe2f9b6858b7384d" sha1="928bd50664baf597ddf324e5927456fed0b2f99c" sha256="1888d7d9a79f711099d8956fc9bc8bf3f6df086a147b4774bd3cbde3888692a5"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-F400, 240x320) (v1.0.8)" id="0134">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-F400, 240x320) (v1.0.8)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-F400, 240x320) (v1.0.8).jar" size="599203" crc="89cf46d1" md5="dc0c980700aa2ea4c6bdc530763abda0" sha1="cd58b90e6299c709daeee96f08858d4bb77f4ff3" sha256="36fe14d212091c961da62fcf440773f945bac10d2bd7ae6498b89278a42bd6ad"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR2 V8, 240x320) (v1.0.9)" id="0135">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR2 V8, 240x320) (v1.0.9)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR2 V8, 240x320) (v1.0.9).jar" size="598058" crc="2e6ea73f" md5="790214868cbd63b70e712176ec4ad23a" sha1="37740895be7aac944fcedbea2b98cebbdae4ebcd" sha256="66a15d3e88e7340506db520a1dfe3e4a233677a8919c1612426f41787b202858"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2009-11)" id="0136">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2009-11)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2009-11).jar" size="455868" crc="51d044e5" md5="9524013a2bec78d86060aade85591c31" sha1="8ce50f9c0526c50ab5ef5eccba0cd526057a50ac" sha256="e5daaff5a53d33f08d79c94eb1beb12cf92a4e6c0ddb5642a1cad4e9d6f77085"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2008-09)" id="0137">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2008-09)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2008-09).jar" size="456342" crc="aaa2aa46" md5="c9e0fba43c99673c7393711534c9513f" sha1="0fb72c986f670b2fb11496982dfac478987d3895" sha256="60aee705787e257b0333590d874e65a6b5e372d792e52ac22c36a1be3756e4a5"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2008-12)" id="0138">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2008-12)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2008-12).jar" size="456364" crc="08dcd03d" md5="cd9009ac5b0a1875cd5e062915962372" sha1="0d36f4c9cfc5b013c6e233b160093431d086c5f5" sha256="90246bdf06627ecbf4bdd5a3cf14ce19ab80f8c67f59ad1fa6ede5ab3a8629b3"/>
+	</game>
+	<game name="007 - Quantum of Solace (Unknown) (Nokia s60v2, 176x208) (v0.6.4)" id="0139">
+		<category>Games</category>
+		<description>007 - Quantum of Solace (Unknown) (Nokia s60v2, 176x208) (v0.6.4)</description>
+		<rom name="007 - Quantum of Solace (Unknown) (Nokia s60v2, 176x208) (v0.6.4).jar" size="412754" crc="e098739e" md5="f51d8e9b3e234292baa5a12d4ce234c3" sha1="f3fece77de1736c40849704405a93d754c4b0771" sha256="cfb6a5f0860ab1b6ad759664649eb2ed236f3737d7a70e4874f93aa8309efd6b"/>
+	</game>
+	<game name="09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Nokia N70, 176x208) (v1.0.1) [b]" id="0140">
+		<category>Games</category>
+		<description>09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Nokia N70, 176x208) (v1.0.1) [b]</description>
+		<rom name="09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Nokia N70, 176x208) (v1.0.1) [b].jar" size="213890" crc="a9356f9a" md5="02688fb838c4006ee4d3d6af9648a367" sha1="a0bf0afc1107f477e22daf02ac68c2585fc41f57" sha256="db8cb7d4a7f2971686eb3897dbff9b409b7a4a76de95a2f2f5744928184d451e" status="baddump"/>
+	</game>
+	<game name="09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K510, 128x160) (v1.0.1) [b]" id="0141">
+		<category>Games</category>
+		<description>09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K510, 128x160) (v1.0.1) [b]</description>
+		<rom name="09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K510, 128x160) (v1.0.1) [b].jar" size="183262" crc="dcc53bc5" md5="48f91f34c34137b5326c8ddafe62a35b" sha1="bcb0e03ad31b3ae0e58b7de3689dcb8747feaeb7" sha256="20dce0939b04ae7634d37c9a7a3875750b84851e20d2cf548a3e7a86b51f003c" status="baddump"/>
+	</game>
+	<game name="09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K800, 240x320) (v1.0.1) [b]" id="0142">
+		<category>Games</category>
+		<description>09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K800, 240x320) (v1.0.1) [b]</description>
+		<rom name="09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K800, 240x320) (v1.0.1) [b].jar" size="282321" crc="30566afc" md5="75e0dfd989c06f2d385dab5218b7e179" sha1="184c03c10cd512b55205b7064d2f1ed769ac4294" sha256="76a45584176cec1c0a8a238e74200ff10feb031bfa09995487f5bc8efb7487c6" status="baddump"/>
+	</game>
+	<game name="09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson W810, 176x220) (v1.0.1) [b]" id="0143">
+		<category>Games</category>
+		<description>09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson W810, 176x220) (v1.0.1) [b]</description>
+		<rom name="09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson W810, 176x220) (v1.0.1) [b].jar" size="220018" crc="13646a5c" md5="a7c0a58377fb2dc4f9b6961be608ea96" sha1="c9f89d05077bc2c9f5470b193fe88d85625578c6" sha256="61e2f4a9e942d12c749c0cf9e4b3f2a984ff069f5308ecd71d1d7c5f2a72d2a9" status="baddump"/>
+	</game>
+	<game name="1100 AD - Battle of Legends (Unknown) (Motorola, 176x204)" id="0153">
+		<category>Games</category>
+		<description>1100 AD - Battle of Legends (Unknown) (Motorola, 176x204)</description>
+		<rom name="1100 AD - Battle of Legends (Unknown) (Motorola, 176x204).jar" size="271289" crc="34626323" md5="0c21b6ce5601f94ee0956edf4a653a57" sha1="9c96f21772ccbf05135bb8ccbde5c2ccb2a4d754" sha256="abb9c732d35b750e0aa54256a5e8bad071396bd49f723a4aab4e1a9b604b3442"/>
+	</game>
+	<game name="1100 AD - Battle of Legends (Unknown) (Nokia s40v2a, 128x160)" id="0154">
+		<category>Games</category>
+		<description>1100 AD - Battle of Legends (Unknown) (Nokia s40v2a, 128x160)</description>
+		<rom name="1100 AD - Battle of Legends (Unknown) (Nokia s40v2a, 128x160).jar" size="168844" crc="772d2e56" md5="2cea574922744615631ad124b919f6c2" sha1="8829a85d4e9bf81f8e5ac11b1fdef92aa7429afc" sha256="d56c2622e001e3b11da49563b7ea53acf9d48a855bd34dc9625b2fcd49ad94d9"/>
+	</game>
+	<game name="1100 AD - Battle of Legends (Unknown) (Motorola, 128x149)" id="0155">
+		<category>Games</category>
+		<description>1100 AD - Battle of Legends (Unknown) (Motorola, 128x149)</description>
+		<rom name="1100 AD - Battle of Legends (Unknown) (Motorola, 128x149).jar" size="191080" crc="3420db66" md5="5348881ab329455f6c775902f7853d44" sha1="78db20473da5e737573873696fe06e98de63f0ad" sha256="5b107f2136c6bf7fc87f6ec1cdf2b0d6d57220f32719c65813f6366960805e58"/>
+	</game>
+	<game name="1100 AD - Battle of Legends (Unknown) (Nokia s40v2, 128x128)" id="0156">
+		<category>Games</category>
+		<description>1100 AD - Battle of Legends (Unknown) (Nokia s40v2, 128x128)</description>
+		<rom name="1100 AD - Battle of Legends (Unknown) (Nokia s40v2, 128x128).jar" size="127391" crc="18288dfb" md5="63c3f995cc082a6b182acb5498b109c4" sha1="91cd15e44d01b9610a46f4f0b7374221a9c439a1" sha256="96577559b0289e583f9537981a1f4fd1e714f798cccf6ef2df785df21db8db0d"/>
+	</game>
+	<game name="1100 AD - Battle of Legends (Unknown) (Motorola, 128x116)" id="0157">
+		<category>Games</category>
+		<description>1100 AD - Battle of Legends (Unknown) (Motorola, 128x116)</description>
+		<rom name="1100 AD - Battle of Legends (Unknown) (Motorola, 128x116).jar" size="204510" crc="e1538172" md5="65d94a3644506b66eb8bb29bf105759a" sha1="e91c6fa7bc08d535fcb09766aed6c550a1ce8a23" sha256="17765b96eac1171ec1030339db4b89233dcff886cee0ff590faa009cd8edddcd"/>
+	</game>
+	<game name="1100 AD - Battle of Legends (Unknown) (Nokia s40v3a, 240x320)" id="0158">
+		<category>Games</category>
+		<description>1100 AD - Battle of Legends (Unknown) (Nokia s40v3a, 240x320)</description>
+		<rom name="1100 AD - Battle of Legends (Unknown) (Nokia s40v3a, 240x320).jar" size="399842" crc="82e2bbae" md5="f3f2dccb9a83f8ae8c8f9224661e2e47" sha1="28e31ae29f5f67cca1a3a94da12a2c59fc206bdf" sha256="d9399e1fa8263a942e73fc8eeabf65de8a8db6c7220eecc99562e7152efd7be1"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Sony Ericsson, 128x128)" id="0164">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Sony Ericsson, 128x128)</description>
+		<rom name="1941 Frozen Front (Unknown) (Sony Ericsson, 128x128).jar" size="60821" crc="a382cc2e" md5="a5bcb1a656517085ed1cfb495b75d06c" sha1="38bae93e9d4dd2bcafc48fa624ede332dc29ca75" sha256="e68c61a3d7c97352f80e7652769cf3ea183889afed9af614785b4b189c1ad65e"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Cs) (Nokia Series 40, 128x128)" id="0163">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Cs) (Nokia Series 40, 128x128)</description>
+		<rom name="1941 Frozen Front (Unknown) (Cs) (Nokia Series 40, 128x128).jar" size="58562" crc="5ee2091a" md5="9c615f6d17df3d7ecca16646ce4eebdc" sha1="57b5074b289a032c5b57584862600156f8448b34" sha256="ec56e0774482079394f137911ce1d4eb24310ad84ae7343b97346c827cc77e4e"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Nokia Series 30, 96x65)" id="0162">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Nokia Series 30, 96x65)</description>
+		<rom name="1941 Frozen Front (Unknown) (Nokia Series 30, 96x65).jar" size="55401" crc="19b0f9e3" md5="f7f569f4baba878c84fe180cb2a64f89" sha1="c6a64790a95716638df2b7267ef047996738d0a3" sha256="ad4fddb5628ff21c596ca801e3d5881e66b17f53f3950c5a22ead5140f9c54ec"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Nokia Series 60, 176x208)" id="0161">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Nokia Series 60, 176x208)</description>
+		<rom name="1941 Frozen Front (Unknown) (Nokia Series 60, 176x208).jar" size="86734" crc="1573f50f" md5="d46cc0e070787f9d3c6b49aad052d968" sha1="9fcbf0d900b6cfdb310b8ea1aaa2dbd18104910a" sha256="507c2933d7ace5788da790327786d6a63416441244e7e187af9bdb9e0deb019d"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Nokia Series 60, 240x320) [b]" id="0160">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Nokia Series 60, 240x320) [b]</description>
+		<rom name="1941 Frozen Front (Unknown) (Nokia Series 60, 240x320) [b].jar" size="74287" crc="9e3cf276" md5="8ed9416cafd35d21ae5f64affd9b9723" sha1="4e30f18b971bac97ede711b5f45563d5035a8606" sha256="ea502db3599b4fb73d7a8f83aa201a69c5ae96e3b2fe9a7031e1e97b067600cd" status="baddump"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Siemens, 132x176) [b]" id="0159">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Siemens, 132x176) [b]</description>
+		<rom name="1941 Frozen Front (Unknown) (Siemens, 132x176) [b].jar" size="63491" crc="b3b6a5a3" md5="43cd6051cf335b51d647237437a67745" sha1="6d5d0dbbbf067a9cad89de5a544dd2978094726d" sha256="a1038f5298d5c16f38b562a3b45eeeb72d79d1a4c89c29783d19613607f8c4b1" status="baddump"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Nokia Series 40, 128x128)" id="0165">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Nokia Series 40, 128x128)</description>
+		<rom name="1941 Frozen Front (Unknown) (Nokia Series 40, 128x128).jar" size="58309" crc="a4e2f46b" md5="0cd16d4cd3dafd55c2c7c039f874ce27" sha1="6c6e97da7c26b99541d48a66ee4938a8d1bce551" sha256="c0efa70d2c5eca10e18e0141c268dda4c705e6e2b10a5a16e92d9df069e0aab2"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Unknown Device 1)" id="0166">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Unknown Device 1)</description>
+		<rom name="1941 Frozen Front (Unknown) (Unknown Device 1).jar" size="93393" crc="b03ab916" md5="d919f84398d7f171d4f522e8aab09aac" sha1="0509a8cf0d62808d1bd2f0fbed8abc7adebda9e5" sha256="8f9ea00ba64c95ae675d05599833881fbabfeee200028a6defd011ef44ab74e5"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Unknown Device 2)" id="0167">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Unknown Device 2)</description>
+		<rom name="1941 Frozen Front (Unknown) (Unknown Device 2).jar" size="90778" crc="ca1b99b7" md5="35c61f0bcf99b6ca8155ba60046d173e" sha1="76419d88aa07152da78cb65c8e6511c9b911ad91" sha256="5b2afc8167d4eae848ecff87918079c8661e77dc30da6f4b02223548b2e1f633"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Siemens, 130x130)" id="0168">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Siemens, 130x130)</description>
+		<rom name="1941 Frozen Front (Unknown) (Siemens, 130x130).jar" size="56032" crc="e47b9ba0" md5="b5d8869061e3ab8b4f1d951c83afe363" sha1="4a49d6007d8ca2775e0ddc31267511dfef58175a" sha256="0a5a60ae7e5140c86981ecfbf26ae9a2c44eb48349786c832bdbc9dd37ccaeda"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (De) (Nokia Series 40, 128x128) (v1.1)" id="0169">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (De) (Nokia Series 40, 128x128) (v1.1)</description>
+		<rom name="1941 Frozen Front (Unknown) (De) (Nokia Series 40, 128x128) (v1.1).jar" size="58525" crc="902ccbe3" md5="a3a805a072c0e38dd50d6c545b975e0f" sha1="d8dbf54ff0a6e09ce4262a9d37efedbb6786d0e5" sha256="2fd4673d34bb083dd849ace0e03633eefe2d67d62a7efd2f782f486e1127d3b2"/>
+	</game>
+	<game name="1941 Frozen Front (Unknown) (Unknown Device 3)" id="0170">
+		<category>Games</category>
+		<description>1941 Frozen Front (Unknown) (Unknown Device 3)</description>
+		<rom name="1941 Frozen Front (Unknown) (Unknown Device 3).jar" size="102511" crc="ee87e6e1" md5="bb5d4e63d93fb3365a3d9b35ba777357" sha1="9c02f3595586f36e1beac7901506bc47161aff78" sha256="7d8f45b4eade3dd57b8f04d6454bdc51de21ac4ddef662dfec29c5f674013f6d"/>
+	</game>
+	<game name="Air Adrenaline (Unknown) (Samsung, 128x128)" id="0171">
+		<category>Games</category>
+		<description>Air Adrenaline (Unknown) (Samsung, 128x128)</description>
+		<rom name="Air Adrenaline (Unknown) (Samsung, 128x128).jar" size="88046" crc="ad357fa4" md5="e0030f4a3f3e12e50684fe6aa3037ecc" sha1="a9d1eed843c163bb2bf477a2f160c8e613ed12ed" sha256="3ff67dfc3a709ff320bd34ddc8aa3c4de8a177152547fcfa1e8965a09fd87795"/>
+	</game>
+	<game name="Air Adrenaline (Unknown) (Nokia Series 30, 96x65) (v1.0.1)" id="0172">
+		<category>Games</category>
+		<description>Air Adrenaline (Unknown) (Nokia Series 30, 96x65) (v1.0.1)</description>
+		<rom name="Air Adrenaline (Unknown) (Nokia Series 30, 96x65) (v1.0.1).jar" size="63169" crc="29ab4607" md5="f96ae83a18d6d37f889f02e1120601e4" sha1="051749ed2a084fda7edcbf3ca4f764fe26af3ca4" sha256="7de2c90d8a027400775fe3cf95041911d48363c9eb4d56efa62023c5207738cc"/>
+	</game>
+	<game name="Air Adrenaline (Unknown) (De) (Nokia Series 60, 176x208) (v1.0.1)" id="0173">
+		<category>Games</category>
+		<description>Air Adrenaline (Unknown) (De) (Nokia Series 60, 176x208) (v1.0.1)</description>
+		<rom name="Air Adrenaline (Unknown) (De) (Nokia Series 60, 176x208) (v1.0.1).jar" size="115468" crc="7aad7a43" md5="deb5f83fce78be6674edc8ed7ec13dc9" sha1="9aed69fda4ff0d9447c3c58fc96fb8f674adb2d2" sha256="3b7142e0fad10b6dcec3f98b2d6668044bfd3fa0e85a24545567b3572ea94dbe"/>
+	</game>
+	<game name="Air Adrenaline (Unknown) (Sony Ericsson Z600, 128x128) (v1.0.6)" id="0174">
+		<category>Games</category>
+		<description>Air Adrenaline (Unknown) (Sony Ericsson Z600, 128x128) (v1.0.6)</description>
+		<rom name="Air Adrenaline (Unknown) (Sony Ericsson Z600, 128x128) (v1.0.6).jar" size="98518" crc="c9b61012" md5="ad96c42e532de6c18eaad7d1ac5b6eb3" sha1="02ea4ce3b8cdff29e4425a209408a363080d70d8" sha256="40a0c3f06107ef4128f18a9a3867e0a4bc091fc43489659862a762b26e7f101f"/>
+	</game>
+	<game name="Blub! (Unknown) (Nokia Series 60, 176x208) (v1.4.0)" id="0192">
+		<category>Games</category>
+		<description>Blub! (Unknown) (Nokia Series 60, 176x208) (v1.4.0)</description>
+		<rom name="Blub! (Unknown) (Nokia Series 60, 176x208) (v1.4.0).jar" size="52480" crc="b593f3fd" md5="43c363dc0ed94aee101bd5287961578c" sha1="b81241fbfa4485bfd14294ba0b8cab5eab850490" sha256="f3eb2a231a830b65391e90001c84aee83e697a0c5a6caf877962ba34263d80cf"/>
+	</game>
+	<game name="Blub! (Unknown) (Nokia Series 30, 96x65) (v1.5.0)" id="0193">
+		<category>Games</category>
+		<description>Blub! (Unknown) (Nokia Series 30, 96x65) (v1.5.0)</description>
+		<rom name="Blub! (Unknown) (Nokia Series 30, 96x65) (v1.5.0).jar" size="42874" crc="bb4fec24" md5="59f7548635976a87d934c5c8b238f27f" sha1="402e83a03bb8249104392e1cbc173902fa9fe7e8" sha256="cf5983f9f3e8e7d87c4c2d50021707e6f40ad1f3f5ca861f9a58c0cfab8a2659"/>
+	</game>
+	<game name="Boarder Cross (Unknown) (Nokia Series 40, 128x128) (v1.5.0)" id="0194">
+		<category>Games</category>
+		<description>Boarder Cross (Unknown) (Nokia Series 40, 128x128) (v1.5.0)</description>
+		<rom name="Boarder Cross (Unknown) (Nokia Series 40, 128x128) (v1.5.0).jar" size="63452" crc="2dbfefff" md5="d84e6dd6690a7ec7896eda33e2ad5d05" sha1="d1ed436f9a91b6494de9f050a3df20616990fc28" sha256="50211379280e759f98aea35e68db5eef9ce85213ec8cf3b123bf480c1cfcd56a"/>
+	</game>
+	<game name="Cannons (Unknown) (120x146)" id="0175">
+		<category>Games</category>
+		<description>Cannons (Unknown) (120x146)</description>
+		<rom name="Cannons (Unknown) (120x146).jar" size="60283" crc="24dad448" md5="282210a38dd9ef0dff6def308729367f" sha1="977583e880d38fd655ebe2b6da9d7bbed43d9b42" sha256="370a071ae7a4f7fef4f2dd572c8a1e6e8b7d8f36adbf21814c6f02da84bdf3d2"/>
+	</game>
+	<game name="Cannons (Unknown) (Siemens, 101x80 Monochrome)" id="0176">
+		<category>Games</category>
+		<description>Cannons (Unknown) (Siemens, 101x80 Monochrome)</description>
+		<rom name="Cannons (Unknown) (Siemens, 101x80 Monochrome).jar" size="31484" crc="03e3be4d" md5="28db47f2161ed30152318d0203423556" sha1="1637f786a344a8a1f56b2913e21f20c3d79e553a" sha256="1a3c5102a55de988f3ba5675e73d501f77286b405d202a1c83ac7e7dd5a01438"/>
+	</game>
+	<game name="Cannons (Unknown) (Nokia Series 60, 176x208) (2002)" id="0177">
+		<category>Games</category>
+		<description>Cannons (Unknown) (Nokia Series 60, 176x208) (2002)</description>
+		<rom name="Cannons (Unknown) (Nokia Series 60, 176x208) (2002).jar" size="62595" crc="6922cc69" md5="435bc2e2728d8fb24ceb7ee276022c3d" sha1="723c546db1b65d220627a6ad7c7805b81b24e8f1" sha256="96c0f2d8b807d5470b6fd1db71c99840e602feaed81edc64ba4697cd45ce32dd"/>
+	</game>
+	<game name="Cannons (Unknown) (Nokia Series 60, 176x208) (2003)" id="0178">
+		<category>Games</category>
+		<description>Cannons (Unknown) (Nokia Series 60, 176x208) (2003)</description>
+		<rom name="Cannons (Unknown) (Nokia Series 60, 176x208) (2003).jar" size="71264" crc="91544f36" md5="ab10d1be1c18b7ef34c9173b77dd7821" sha1="73a7ce7e56acf43efd6f3bf5ac99e0760a1cb35c" sha256="f431a48482a1eb6e4aea3a456cc21a4b4685aa8a7dc7f926eae0b8ba324e1dc7"/>
+	</game>
+	<game name="Cannons (Unknown) (Sony Ericsson, 176x220) (v1.0.1)" id="0179">
+		<category>Games</category>
+		<description>Cannons (Unknown) (Sony Ericsson, 176x220) (v1.0.1)</description>
+		<rom name="Cannons (Unknown) (Sony Ericsson, 176x220) (v1.0.1).jar" size="64722" crc="6bb6ce50" md5="62cce4094a4f5cc63bb6f3b2cb6c11d0" sha1="409a452774d5b2c621e4eec7f3700710c94dd9c6" sha256="0ce708e9c75b2c372ec87511b0cf89b8f565c9e3c304df0c12e71a50c0df061a"/>
+	</game>
+	<game name="Cannons (Unknown) (Nokia Series 30, 96x65)" id="0180">
+		<category>Games</category>
+		<description>Cannons (Unknown) (Nokia Series 30, 96x65)</description>
+		<rom name="Cannons (Unknown) (Nokia Series 30, 96x65).jar" size="54489" crc="0b439131" md5="514c87a0a8439bde72ad3d9c48bcdf74" sha1="85496b9b0dea9c8d9bc5c992fcdef66fb231d2f0" sha256="f5b5a9230de2b657b606db81ab337d5288339354f8d5b5919ad25ed68efd3c83"/>
+	</game>
+	<game name="Cannons (Unknown) (Nokia Series 40, 128x128)" id="0181">
+		<category>Games</category>
+		<description>Cannons (Unknown) (Nokia Series 40, 128x128)</description>
+		<rom name="Cannons (Unknown) (Nokia Series 40, 128x128).jar" size="55897" crc="287110b3" md5="b9ea33292b54eacff0249a4a87f5b690" sha1="67ff1295e2127ef632e24332de949f3bd202b137" sha256="49ecc37c180a8e1e07e9c63b1cbd6b27dca6cb11eb77cabc5d1dfb114ddd2f87"/>
+	</game>
+	<game name="Cannons (Unknown) (Nokia Series 60, 176x208) (2002 Alt) [b]" id="0182">
+		<category>Games</category>
+		<description>Cannons (Unknown) (Nokia Series 60, 176x208) (2002 Alt) [b]</description>
+		<rom name="Cannons (Unknown) (Nokia Series 60, 176x208) (2002 Alt) [b].jar" size="71488" crc="88fd492f" md5="1b8ddb7ebb55e750bc64d2491f8b474a" sha1="22ba540cea8151999feb36d191e9c62dfaa95335" sha256="ab932bc1fa3a00e4484355ab00c70ca3e24913e8063075bdf5b2469305732fc0" status="baddump"/>
+	</game>
+	<game name="Cannons (Unknown) (Siemens, 101x80 Color)" id="0183">
+		<category>Games</category>
+		<description>Cannons (Unknown) (Siemens, 101x80 Color)</description>
+		<rom name="Cannons (Unknown) (Siemens, 101x80 Color).jar" size="45097" crc="99e52ea6" md5="55e65de6868748c7cee0a71f55e115de" sha1="33cae23ef31a5e7a2bc77de46e83649579ff04cb" sha256="d20da7fbaa78584bfd17e3b7310623530ef70bb41e32390bcc17b544d1f17166"/>
+	</game>
+	<game name="Cannons (Unknown) (128x128) (v1.0.3)" id="0184">
+		<category>Games</category>
+		<description>Cannons (Unknown) (128x128) (v1.0.3)</description>
+		<rom name="Cannons (Unknown) (128x128) (v1.0.3).jar" size="60975" crc="23a9b1b6" md5="ba5b1e2982f9f647efc004f34657ead8" sha1="3c8f306a602f09e98fb6c48d036fc3bf5696573e" sha256="a44d18f7ac0288e0049c0a5ef16c3e1c1b1840c481afd82c55afa54afe8d5471"/>
+	</game>
+	<game name="Cannons (Unknown) (128x128) (v1.0.4)" id="0185">
+		<category>Games</category>
+		<description>Cannons (Unknown) (128x128) (v1.0.4)</description>
+		<rom name="Cannons (Unknown) (128x128) (v1.0.4).jar" size="81358" crc="91dce6b5" md5="be232aa74c0e13742dcbc9d80d77425f" sha1="e77a3837fed69c394b8c02a323deecc9ecb4858c" sha256="b615c7cd47c32384dd37694fac86764eb6b18daa9229a3e184e8579b8568fe3d"/>
+	</game>
+	<game name="Cannons Tournament (Unknown) (Es) (Nokia Series 40, 128x128) (v1.4.1)" id="0186">
+		<category>Games</category>
+		<description>Cannons Tournament (Unknown) (Es) (Nokia Series 40, 128x128) (v1.4.1)</description>
+		<rom name="Cannons Tournament (Unknown) (Es) (Nokia Series 40, 128x128) (v1.4.1).jar" size="61170" crc="f19f9dd3" md5="5479b5e9ca2e3b26a527730f3dcee496" sha1="0330830cc861f94ef923f7fda717d1dcdacf75f9" sha256="17bc856de7134f1364382ef0d081ef790c6339e5d597fdfea9cddd4d14541afa"/>
+	</game>
+	<game name="Cannons Tournament (Unknown) (Nokia Series 40, 128x128) (v1.2.1)" id="0187">
+		<category>Games</category>
+		<description>Cannons Tournament (Unknown) (Nokia Series 40, 128x128) (v1.2.1)</description>
+		<rom name="Cannons Tournament (Unknown) (Nokia Series 40, 128x128) (v1.2.1).jar" size="63365" crc="01fb299e" md5="9221ce43213db349f7b12cbe5bac8472" sha1="e470b2899c15303d481477e615ecf5fb7eadee31" sha256="150607e568e2ebea429d089d531d800ea9497bd261afbce0527731125a4512b4"/>
+	</game>
+	<game name="Cannons Tournament (Unknown) (Nokia Series 60, 176x208) (v1.2.3)" id="0188">
+		<category>Games</category>
+		<description>Cannons Tournament (Unknown) (Nokia Series 60, 176x208) (v1.2.3)</description>
+		<rom name="Cannons Tournament (Unknown) (Nokia Series 60, 176x208) (v1.2.3).jar" size="77649" crc="4699b029" md5="b286e2dc5abaffefb4ae621c73f052f3" sha1="9fa12f97b48ac3f1da2f26690c306fc79c996852" sha256="7cfd1b35ed2cdb6a1e6e47ac22537c8c034568ffbaac7b6b1028f47c2d291cb0"/>
+	</game>
+	<game name="Cannons Tournament (Unknown) (Nokia 3650, 176x208) (v1.2.9)" id="0189">
+		<category>Games</category>
+		<description>Cannons Tournament (Unknown) (Nokia 3650, 176x208) (v1.2.9)</description>
+		<rom name="Cannons Tournament (Unknown) (Nokia 3650, 176x208) (v1.2.9).jar" size="77860" crc="7ef05142" md5="71874e500f567d084e0f2976632aa6d9" sha1="36c94a0b3272aedb8e69de55f36fb880cb551de4" sha256="41b5a9fa1e1409428ed0ebe043ef5bc999a45761529b77354bf7d265993deb0b"/>
+	</game>
+	<game name="Cannons Tournament (Unknown) (Nokia Series 30, 96x65) (v1.2.9)" id="0190">
+		<category>Games</category>
+		<description>Cannons Tournament (Unknown) (Nokia Series 30, 96x65) (v1.2.9)</description>
+		<rom name="Cannons Tournament (Unknown) (Nokia Series 30, 96x65) (v1.2.9).jar" size="60932" crc="cb2b0fb7" md5="021f29596e410e4032c819818cd7c797" sha1="69d45699789903ab1ef815cf74b03f18552554ee" sha256="00987a75f97090936581b74330e8471e83b232bbf451a9c6b896ba8d34a8cd4c"/>
+	</game>
+	<game name="Cannons Tournament (Unknown) (Motorola, 176x204) (v1.3.7) [b]" id="0191">
+		<category>Games</category>
+		<description>Cannons Tournament (Unknown) (Motorola, 176x204) (v1.3.7) [b]</description>
+		<rom name="Cannons Tournament (Unknown) (Motorola, 176x204) (v1.3.7) [b].jar" size="76773" crc="ca1a51c6" md5="22c3edb7a7658321832e31f6279283d5" sha1="421f1d8ea7f825c067de4b2b660e62ddbe72d24b" sha256="d539459c7b72ab0f425670a9f3364e7c632d93bd8e0954faf438e123de44990c" status="baddump"/>
+	</game>
+	<game name="Colorclash (Unknown) (Nokia Series 60, 176x208) (v1.3)" id="0195">
+		<category>Games</category>
+		<description>Colorclash (Unknown) (Nokia Series 60, 176x208) (v1.3)</description>
+		<rom name="Colorclash (Unknown) (Nokia Series 60, 176x208) (v1.3).jar" size="53959" crc="8bab424a" md5="404250ec2934e45d8a5dc268e7161080" sha1="930efbc61484e1d81c9d7dfe6e40c6b03d8647a6" sha256="31f499de061051781f82f48ce5f8dd3fc9492762e8aee8c76e636ee56e65c288"/>
+	</game>
+	<game name="Colorclash (Unknown) (Nokia Series 30, 96x65) (v1.5.0)" id="0196">
+		<category>Games</category>
+		<description>Colorclash (Unknown) (Nokia Series 30, 96x65) (v1.5.0)</description>
+		<rom name="Colorclash (Unknown) (Nokia Series 30, 96x65) (v1.5.0).jar" size="41271" crc="3ccb6988" md5="968f88ef9ba75ce87eea141eccb7d8b8" sha1="ea725c4247f05499d3248df1a8b65db26341e31d" sha256="6a7122992e1183875b76c99497d1fa79b0fe2e76afbb5165fbf28076d4197123"/>
+	</game>
+	<game name="Colorclash (Unknown) (128x128) (v1.5.3)" id="0197">
+		<category>Games</category>
+		<description>Colorclash (Unknown) (128x128) (v1.5.3)</description>
+		<rom name="Colorclash (Unknown) (128x128) (v1.5.3).jar" size="49463" crc="7789fdaf" md5="63cefd12ac625639b1621a1d7abb6fec" sha1="f880051b9678005166a0b07c2def7c5d5673ca83" sha256="72ea85bcd15752e3dfe6a455d38b4c39c0aa2ba56c9ead70dada2d48c353e53b"/>
+	</game>
+	<game name="Cybores (Unknown) (Nokia Series 30, 96x65) (v1.5.3)" id="0198">
+		<category>Games</category>
+		<description>Cybores (Unknown) (Nokia Series 30, 96x65) (v1.5.3)</description>
+		<rom name="Cybores (Unknown) (Nokia Series 30, 96x65) (v1.5.3).jar" size="55933" crc="7cec794a" md5="25ea38bdbd4d2790350523f8a63e53f2" sha1="92dc3e0c44d7935687ba106f31f614067e3c4023" sha256="b2a5776ff28cc430eade48ad13d33223d616814d30bab461a5cdbaa71e05b02f"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Sony Ericsson K500, 128x160) (v1.0.92) [b]" id="0228">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Sony Ericsson K500, 128x160) (v1.0.92) [b]</description>
+		<rom name="Doom RPG (Unknown) (Sony Ericsson K500, 128x160) (v1.0.92) [b].jar" size="309171" crc="cc3494c0" md5="7cbba6490b588864f58c2c226a4d550c" sha1="60eb048a256f5f908d7fa5a006297c5c75735ce4" sha256="2c7573ab64add3dd4c432216f725cbf8ff8f05950dd09792ca7716dd3c9947ac" status="baddump"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia, 208x208) (v1.1.24)" id="0229">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia, 208x208) (v1.1.24)</description>
+		<rom name="Doom RPG (Unknown) (Nokia, 208x208) (v1.1.24).jar" size="299884" crc="bbed8c31" md5="222dfd71d94549d48f5073bc1be0bbb9" sha1="2b1ab443bfa1ded974670f54364b1f25b7e820da" sha256="124f946aab8e47cd258f90bbb8f7de949c8671c59f2a7c5fc26ffa779aef13a0"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia 6600, 176x208) (v1.1.3)" id="0230">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia 6600, 176x208) (v1.1.3)</description>
+		<rom name="Doom RPG (Unknown) (Nokia 6600, 176x208) (v1.1.3).jar" size="300209" crc="b67588a8" md5="7cbb719a652681982f573f6c5a419db4" sha1="302f119ed0f671942cb160b92c85e671f2cb2cda" sha256="59352c5eaac2a8cbbc3f43d8317f31b258e9c505331fd1a528d6fb9ce7329f11"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia 5200, 128x160) (v1.11.7)" id="0231">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia 5200, 128x160) (v1.11.7)</description>
+		<rom name="Doom RPG (Unknown) (Nokia 5200, 128x160) (v1.11.7).jar" size="304778" crc="94771085" md5="2b3a284b1bb70d193b3221530f643803" sha1="eb47463cc395454b5b4334a4637ee65c07d62077" sha256="8a4fd8f27094363d6785389d6badef8df30e837ffe8dc84ca05dfa79e7db11ff"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia N70, 176x208) (v1.11.85)" id="0232">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia N70, 176x208) (v1.11.85)</description>
+		<rom name="Doom RPG (Unknown) (Nokia N70, 176x208) (v1.11.85).jar" size="303506" crc="de5a62f2" md5="d4ebe595f13084db36150daca9f6a734" sha1="81865cad186dc3af114b9b3f4c9c1ee29507f9f6" sha256="ed0c0cc4afc656b42b94764894830a058ee5b5dd2c29953a20d44e3b55d0badf"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia 6680, 176x208) (v1.2.50)" id="0233">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia 6680, 176x208) (v1.2.50)</description>
+		<rom name="Doom RPG (Unknown) (Nokia 6680, 176x208) (v1.2.50).jar" size="300178" crc="bc33ae6f" md5="c9528b0c589bf858fea327d420b16752" sha1="92b11f6d6bcc8b94dfc15b302506455f035c9825" sha256="73a03c75a1d1da9bff76e9067126547e824d28680cb74d3d681575daea45082b"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia 6280, 240x320) (v1.3.83) [b]" id="0234">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia 6280, 240x320) (v1.3.83) [b]</description>
+		<rom name="Doom RPG (Unknown) (Nokia 6280, 240x320) (v1.3.83) [b].jar" size="300136" crc="e903a398" md5="352b77a51e57aae77faf062ab028f2e9" sha1="f5c0ead69e527f7475dc1c737c2a5721d7c57368" sha256="ee9bacf7fbade481509a32bf0230b4b2813d4fe577136ff2991d7ad7632c8674" status="baddump"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia s40v5, 240x320) (v1.4.67)" id="0235">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia s40v5, 240x320) (v1.4.67)</description>
+		<rom name="Doom RPG (Unknown) (Nokia s40v5, 240x320) (v1.4.67).jar" size="302792" crc="ed1e0f0e" md5="abe9fbaf9f54097b6058485f6fa8d286" sha1="045a07d1e595d9ce68ede4075c3869221fbff783" sha256="544b47182792c15d6e7e2f2b78b94c4c29cfc1affcccaf6a17de1c0f493124f8"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia 6233, 240x320) (v1.8.94)" id="0236">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia 6233, 240x320) (v1.8.94)</description>
+		<rom name="Doom RPG (Unknown) (Nokia 6233, 240x320) (v1.8.94).jar" size="303607" crc="da5e9ac4" md5="9b65912811c2c3cc3f3cc6f8b6a6fda9" sha1="0c73f22d290a4d58470a60b6617a8322a40725d1" sha256="9a54a3b19eb8cbc3a7b5d0a4a83c8a688db0e2779219eb30d20129a40973f3f3"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia 6151, 128x160) (v1.9.98)" id="0237">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia 6151, 128x160) (v1.9.98)</description>
+		<rom name="Doom RPG (Unknown) (Nokia 6151, 128x160) (v1.9.98).jar" size="304599" crc="ed3ba242" md5="fb8f5999ccb586246c2d08a268d62e76" sha1="35df7ac69f55749cc6969494156321684b6f9462" sha256="e70233e9c3caa7a4bc037fbfad635e1d8fec47a901d9ec61efad40472cc2a6e5"/>
+	</game>
+	<game name="Doom RPG (Unknown) (It) (Nokia N95, 240x320) (v1.8.84) [b]" id="0238">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (It) (Nokia N95, 240x320) (v1.8.84) [b]</description>
+		<rom name="Doom RPG (Unknown) (It) (Nokia N95, 240x320) (v1.8.84) [b].jar" size="303259" crc="836e9f69" md5="f51d485c0917d37821c4c699a7a0aeda" sha1="ccb05979055f6c1edc490b8828a55fa1092e3d94" sha256="932bd26c0b0346a58c70e209a5400d342aac754e05afb327bf7ecf7e6e46d389" status="baddump"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Nokia s60v3, 240x320) (v1.6.89) [b]" id="0239">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Nokia s60v3, 240x320) (v1.6.89) [b]</description>
+		<rom name="Doom RPG (Unknown) (Nokia s60v3, 240x320) (v1.6.89) [b].jar" size="303695" crc="f7487b57" md5="7e05f5a83b116fcb3a633031f74e3d6e" sha1="1542e78827c007d9631a15e98838a0aa5175bd48" sha256="b99fc896c2bfbdc614e8dcc4d95ff33931def2112a5d0485b75a93e468fcd41f" status="baddump"/>
+	</game>
+	<game name="Doom RPG (USA) (Samsung SPH-A880, 176x220) (v1.0.18)" id="0240">
+		<category>Games</category>
+		<description>Doom RPG (USA) (Samsung SPH-A880, 176x220) (v1.0.18)</description>
+		<rom name="Doom RPG (USA) (Samsung SPH-A880, 176x220) (v1.0.18).jar" size="287241" crc="4580a30a" md5="9eb2259cba2c61a8f43c49cde21b6ab6" sha1="f5c493a7785d664b4ade92d74e8c93bf1dc7ee72" sha256="09c04ecf8054d19ef9d42b3c99eac3ceeadc44ee6656304b59641f1defca5767"/>
+	</game>
+	<game name="Doom RPG (Unknown) (Motorola V551, 176x204) (v1.0.20) [b]" id="0241">
+		<category>Games</category>
+		<description>Doom RPG (Unknown) (Motorola V551, 176x204) (v1.0.20) [b]</description>
+		<rom name="Doom RPG (Unknown) (Motorola V551, 176x204) (v1.0.20) [b].jar" size="280762" crc="29094334" md5="6d0786e00eb1fe627c631376e213fc2a" sha1="d1b56b1e63192a8c6fa030e97b5276eb4b92b42a" sha256="b46f3c3c0f414d08597e3e0c47ec6dc8607128e8ef4f325fe911c9211a1dcad0" status="baddump"/>
+	</game>
+	<game name="Down (Unknown) (Nokia Series 40, 128x128) (v1.5.3)" id="0199">
+		<category>Games</category>
+		<description>Down (Unknown) (Nokia Series 40, 128x128) (v1.5.3)</description>
+		<rom name="Down (Unknown) (Nokia Series 40, 128x128) (v1.5.3).jar" size="64241" crc="a7994bed" md5="0f87ef0dabb78792503b3faf574a887a" sha1="2513f88740108f8941cec0b8eedfe02810ddc054" sha256="a0624aa61b4e438044036faeaadcd48029d8a8de79e18b496ae036defbb1ccb9"/>
+	</game>
+	<game name="Down (Unknown) (Sony Ericsson T-Series, 128x128) (v1.5.3)" id="0200">
+		<category>Games</category>
+		<description>Down (Unknown) (Sony Ericsson T-Series, 128x128) (v1.5.3)</description>
+		<rom name="Down (Unknown) (Sony Ericsson T-Series, 128x128) (v1.5.3).jar" size="81096" crc="cd91b7bd" md5="e308ec11b4cbb510f9f8b5bf62772568" sha1="bc0e664118911a2485f96f7eb232948cee71db79" sha256="ef0a8cc873ba2c3499e77a0da4122c9884f79095693ed6ae899a35610d0822de"/>
+	</game>
+	<game name="Empire Earth (Unknown) (En,Fr,De,Es,It) (176x208)" id="0038">
+		<description>Empire Earth (Unknown) (En,Fr,De,Es,It) (176x208)</description>
+		<rom name="Empire Earth (Unknown) (En,Fr,De,Es,It) (176x208).jar" size="210863" crc="23200d42" md5="1ce8759caa5e74bcc490528eb1df2659" sha1="500881f366ccfb3bccf3953069e6e23ff9266daf"/>
+	</game>
+	<game name="Glider (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]" id="0201">
+		<category>Games</category>
+		<description>Glider (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]</description>
+		<rom name="Glider (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b].jar" size="50216" crc="eb88d469" md5="cf0107f8e12e47c0543b5d2a35051b26" sha1="31df7e5e7adeec7f14afc250063c905d05392c8f" sha256="835581bd36a73cda99373066417b79792c9c63c8c33f986e8eb9b405543309fa" status="baddump"/>
+	</game>
+	<game name="Glider (Unknown) (Nokia Series 40, 128x128) (v1.5.0)" id="0202">
+		<category>Games</category>
+		<description>Glider (Unknown) (Nokia Series 40, 128x128) (v1.5.0)</description>
+		<rom name="Glider (Unknown) (Nokia Series 40, 128x128) (v1.5.0).jar" size="63375" crc="45d08621" md5="1bd3c5ab7d7f6be28d462408abb383dc" sha1="b6e37f959e97e5b34b69d6ecd2b606138c71c021" sha256="ef55b6cf2567ac8b786910bd972283339048e3ac5edc433f33a86b6462ada7dc"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Cs) (Siemens, 132x176) (v1.0.1)" id="0066" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Cs) (Siemens, 132x176) (v1.0.1)</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Cs) (Siemens, 132x176) (v1.0.1).jar" size="76137" crc="76fc8562" md5="7f86478fe0f056cbdfb74a5d4b286cfc" sha1="84493aa00125d3555a67d1dada3132effa4a4c6f" sha256="717e04b0be91166c3d0925980eda6f23fbb06b81c5bf1268c7d5c8e9cf476186"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Cs) (Nokia, 176x208) (v1.0.1)" id="0067" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Cs) (Nokia, 176x208) (v1.0.1)</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Cs) (Nokia, 176x208) (v1.0.1).jar" size="96229" crc="5b76e5e9" md5="b3f589449aa29bf7163b4b92fc7147d1" sha1="177f16adec02ae2c547727704999300d9c4e17db" sha256="63047b6b8d5a7141020fe8a78667d5e90589eed33b051d2f447fe1c7747a0506"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K300, 128x128) [b]" id="0068" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K300, 128x128) [b]</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K300, 128x128) [b].jar" size="79016" crc="66303f18" md5="f1154f6434adf6b2bc465659cfa36655" sha1="82fd399a69c328761e4887f171499d66025602e2" sha256="e61c40ea509a33832c0d08003ae54e29998ff52ce5fcc00b5498019ccbcfbb61" status="baddump"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K500, 128x160) [b]" id="0069" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K500, 128x160) [b]</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K500, 128x160) [b].jar" size="79210" crc="ae89d2bc" md5="9dc8d9d76583cb119e37c8fce5a15add" sha1="b0082afb31fd515d39aa7c545716cd21fd4c3dc6" sha256="fedfb7956e2ccb9e6ba87632578bb30b93a1203be619d75a08f3b20fd037e9a7" status="baddump"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Ru) (Nokia, 176x208) [b]" id="0070" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Ru) (Nokia, 176x208) [b]</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Ru) (Nokia, 176x208) [b].jar" size="96499" crc="2865544f" md5="80f43c9686c120fd886a927e60a79111" sha1="1331c8391070f8d910cb4cd08844a6dd1bbfae4b" sha256="01c3dcbcfe1cd239b5da59985f869f2247391098b47fb0e6bb41c2b0abdcbd6e" status="baddump"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K700, 176x220)" id="0071" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K700, 176x220)</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K700, 176x220).jar" size="98621" crc="d7cbc432" md5="5202c8db01e1df898c38cc489fcc749b" sha1="5c92ba3a4e80a4d2530aeb351801df2be44460f4" sha256="068283aae1804a894a6ae8a1f022ed90bb3ef43fb6fbc67feb6fa163e4a8edfb"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (128x128)" id="0072" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (128x128)</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (128x128).jar" size="55409" crc="3145a7be" md5="cce211b86df6d4d3d7195f2b172260ea" sha1="acc8b864e4191fbce4d2c9de192474ffe462767e" sha256="425bb29783c1e4a595c4034959bc9e83e31b53abede16bb6a4ce1c82b3fcbf7f"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Nokia 6280, 240x320) [b]" id="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Nokia 6280, 240x320) [b]</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Nokia 6280, 240x320) [b].jar" size="142560" crc="deec4127" md5="bb7f2589ad74d39137f449cdfe0b7e37" sha1="6fa3ef6a73663394e7b5c97863da379fc1262bb3" sha256="906ae0c01d0252f8392873fbe888d789779beb3964cdaf2e766a1d781ee69176" status="baddump"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (128x128) (v1.0.27)" id="0074" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (128x128) (v1.0.27)</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (128x128) (v1.0.27).jar" size="51681" crc="0bb2c5c4" md5="6b82324689dfc1017e27e6f16f5f0392" sha1="71e1b15a71aa3097056e813a5ce3e92485f6dec5" sha256="66fd65169675dbfa93943b5ff166595506ca3499950a0c0e0caecd147ba19a9d"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Nokia s40v2, 128x128) (v1.0.27)" id="0075" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Nokia s40v2, 128x128) (v1.0.27)</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Nokia s40v2, 128x128) (v1.0.27).jar" size="74465" crc="7c3b350f" md5="e7cdf05c47671027f628e09b38cd7842" sha1="8565ad706d925383eae0388ab8a2465cbc9796a6" sha256="b6ac39f284d6eda4449f5caa09378fef50d23fb5a29fec01867ede9a205a13b9"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Nokia s40v2a, 128x160) (v1.0.27)" id="0076" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Nokia s40v2a, 128x160) (v1.0.27)</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Nokia s40v2a, 128x160) (v1.0.27).jar" size="75239" crc="ecbe29d4" md5="25cc89cb34dfe4fa1bda212bd5fa78de" sha1="f7b5655419b5e374d31363da4447f398f7a2caf7" sha256="ffeae989a565ba122dbde57434366b3e662f5079c28d1e6262f09715e6fc4bd0"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Unknown) (Nokia s40v3, 208x208) (v1.0.27)" id="0077" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Unknown) (Nokia s40v3, 208x208) (v1.0.27)</description>
+		<rom name="Gorillaz Entertainment System (Unknown) (Nokia s40v3, 208x208) (v1.0.27).jar" size="94799" crc="d61c960d" md5="d68b6ae922f20e43222224e867c4b3b1" sha1="e7ae0eddaee0c23fbe0c8c9c7c74ceecfd551af6" sha256="d7e0ae4dce2ebe5f39022b6a5b455b5a50f00284e2a50b78321311c819d2a108"/>
+	</game>
+	<game name="Hokey Pokey (Unknown) (Unknown Device 1, 128x128) (v1.0)" id="0203">
+		<category>Games</category>
+		<description>Hokey Pokey (Unknown) (Unknown Device 1, 128x128) (v1.0)</description>
+		<rom name="Hokey Pokey (Unknown) (Unknown Device 1, 128x128) (v1.0).jar" size="57802" crc="33fda2ab" md5="b8cf7ff5b31361fea19480d06b41f376" sha1="a3daaf23579dcba6d82bff24e1224daae831816a" sha256="ad8f6b1fb8f3a82ed359d2f14c3aeaf50ebcfe1bd533526a031404fad0b5a447"/>
+	</game>
+	<game name="Hokey Pokey (Unknown) (Unknown Device 2, 128x128) (v1.0)" id="0204">
+		<category>Games</category>
+		<description>Hokey Pokey (Unknown) (Unknown Device 2, 128x128) (v1.0)</description>
+		<rom name="Hokey Pokey (Unknown) (Unknown Device 2, 128x128) (v1.0).jar" size="55300" crc="98161135" md5="135b254b2e61d01100b3e24c2d9fb7b4" sha1="86a1015e1c2caf17e55819a4251bdf2abb36ec31" sha256="25a53230c7e9de70763802b2170bd02c9df0665195c70eefde076da4d6b9196c"/>
+	</game>
+	<game name="Hokey Pokey (Unknown) (Nokia Series 30, 96x65) (v1.5.0)" id="0205">
+		<category>Games</category>
+		<description>Hokey Pokey (Unknown) (Nokia Series 30, 96x65) (v1.5.0)</description>
+		<rom name="Hokey Pokey (Unknown) (Nokia Series 30, 96x65) (v1.5.0).jar" size="46234" crc="66443309" md5="d9fce13bf297703cb1c11988b939cd53" sha1="fbaa7078f617a19ec0a5ad99325551c579cda204" sha256="f57afd66b7cef08e239e1cd01969385c1e453f60cad96bb03786570fa4c48c17"/>
+	</game>
+	<game name="Hokey Pokey (Unknown) (Unknown Device 3, 128x128) (v1.5.3)" id="0206">
+		<category>Games</category>
+		<description>Hokey Pokey (Unknown) (Unknown Device 3, 128x128) (v1.5.3)</description>
+		<rom name="Hokey Pokey (Unknown) (Unknown Device 3, 128x128) (v1.5.3).jar" size="51959" crc="810cef27" md5="93f8501549faa50c4b4ff377d375633e" sha1="d2f8e71480f06fc3f68f726f60f1774fab5e6b16" sha256="a32b5da1c6e648ed65bc43ecd9f47b6a8e4c9b71bf6c318cdc255e6ecb18dfc1"/>
+	</game>
+	<game name="Hoverball (Unknown) (Nokia, 176x208) (v1.3)" id="0207">
+		<category>Games</category>
+		<description>Hoverball (Unknown) (Nokia, 176x208) (v1.3)</description>
+		<rom name="Hoverball (Unknown) (Nokia, 176x208) (v1.3).jar" size="59997" crc="4ade80c0" md5="82cbc43c739c6a8faab7daa9ffe73ea0" sha1="6f103035d5761fd4d13443c188679923b55b49cc" sha256="50febc66409a7beceecc65cfab8c46722ef1ba1c80960815ea40df10bc6fed5f"/>
+	</game>
+	<game name="Hoverball (Unknown) (Nokia, 176x208) (v1.3.0)" id="0208">
+		<category>Games</category>
+		<description>Hoverball (Unknown) (Nokia, 176x208) (v1.3.0)</description>
+		<rom name="Hoverball (Unknown) (Nokia, 176x208) (v1.3.0).jar" size="60874" crc="93d7354e" md5="6c6d80de2df986d96122d9eb6a24b989" sha1="814028cc168dc7bfa8699b8a2f8f8f03b3455ec9" sha256="c606da4d1b8fa92ed09d783e0cacb14e5b0955de7494d891734031e9d6bc2429"/>
+	</game>
+	<game name="Hoverball (Unknown) (Siemens) (v1.4.0)" id="0209">
+		<category>Games</category>
+		<description>Hoverball (Unknown) (Siemens) (v1.4.0)</description>
+		<rom name="Hoverball (Unknown) (Siemens) (v1.4.0).jar" size="44482" crc="1af7e2ae" md5="01b030d576e6106641945e8b62e7e6d4" sha1="3b5dcfc1e0ce64045715fbc0931b3c0f808ccf1d" sha256="08e13b1c1f945727e026ca91b831dc5de76ae4d9a97c9f348e8bd976c9a2ebad"/>
+	</game>
+	<game name="Hoverball (Unknown) (Nokia Series 60, 176x208) (v1.5.0)" id="0210">
+		<category>Games</category>
+		<description>Hoverball (Unknown) (Nokia Series 60, 176x208) (v1.5.0)</description>
+		<rom name="Hoverball (Unknown) (Nokia Series 60, 176x208) (v1.5.0).jar" size="97494" crc="731bb90d" md5="d6532f965f2e4c64331299f7906e365f" sha1="e960d67deb6f9d193809c9c41f9609e73fe6131b" sha256="8b6ad8c797903541e12ef070945f7a569b3c37b51236c1fa8c93a74aa778ea4e"/>
+	</game>
+	<game name="Hoverball (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]" id="0211">
+		<category>Games</category>
+		<description>Hoverball (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]</description>
+		<rom name="Hoverball (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b].jar" size="45706" crc="38c131e7" md5="0f0899cb5584549d196390bedb86d95a" sha1="c1bf81787903ca0e245bcebf586425bc124b7369" sha256="71e18b52765967c8d82a02d22e3fb766458470274f40aaf7cbcedbeb612f6630" status="baddump"/>
+	</game>
+	<game name="I-Bouncer (Russia) (LG, 128x128) (Demo)" id="0001">
+		<description>I-Bouncer (Russia) (LG, 128x128) (Demo)</description>
+		<rom name="I_bouncer_LG_128_128_RU.jad" size="331" crc="557955b3" md5="8f83eafc6c95ebd0984fce3872c360df" sha1="014e270fb35aa1457a8729dfb711faa2ca45eeba"/>
+		<rom name="I_bouncer_LG_128_128_RU.jar" size="140539" crc="5acbf652" md5="4d14f746b19c550403259a1fe1f41835" sha1="771ca539128c8c0050ebf305dc959c925e9d46ba"/>
+	</game>
+	<game name="I-Bouncer (Russia) (LG, 128x160) (Demo)" id="0002" cloneofid="0001">
+		<description>I-Bouncer (Russia) (LG, 128x160) (Demo)</description>
+		<rom name="I_bouncer_LG_128_160_RU.jad" size="331" crc="9d98f89b" md5="577e57932a34f20c0ee011e4395a3002" sha1="2106f5762283df530745fa040729a9a016fc735d"/>
+		<rom name="I_bouncer_LG_128_160_RU.jar" size="142133" crc="aa9d53e9" md5="fe408145e806524fd0511ee480fb5c33" sha1="ad8296d645e67a7376ecd0dc64ad3de623e6d1aa"/>
+	</game>
+	<game name="I-Bouncer (Russia) (LG, 176x220) (Demo)" id="0003" cloneofid="0001">
+		<description>I-Bouncer (Russia) (LG, 176x220) (Demo)</description>
+		<rom name="I_bouncer_LG_176_220_RU.jad" size="331" crc="ba54f426" md5="22811fffa899fe2940c064628478b0c2" sha1="acd10b958cde5b5b460dffbb2d044977d5d12f2d"/>
+		<rom name="I_bouncer_LG_176_220_RU.jar" size="166791" crc="e2e6e7b4" md5="95be682efa240423c01468c218e9f899" sha1="7f05ba053c116d86667d7195c4a84ef06f299891"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Motorola, 176x204) (Demo)" id="0004" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Motorola, 176x204) (Demo)</description>
+		<rom name="I_bouncer_Mot_176_204_RU.jad" size="332" crc="9de6fd9b" md5="8775a50280acb81240d099fd427063f1" sha1="f4316dd96769ab6437d421e1367d6b27cf26cadc"/>
+		<rom name="I_bouncer_Mot_176_204_RU.jar" size="165990" crc="065dcc68" md5="a7b4c676ec461d43c129546b67cda0cf" sha1="e1acdeb9b15e745d9289121a9a1d198b3f859fcc"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Motorola, 240x320) (Demo)" id="0005" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Motorola, 240x320) (Demo)</description>
+		<rom name="I_bouncer_Mot_240_320_RU.jad" size="332" crc="b31ec9da" md5="ba343bf45ccb619631940eec46d30c5d" sha1="fa9c4f177c2daff55683d9e878750099321dc2de"/>
+		<rom name="I_bouncer_Mot_240_320_RU.jar" size="206679" crc="924f0a85" md5="15b830fcff70dadee27c62a4f4f751ab" sha1="3dc0ab6e58cd6a9ede04a05152ec762755ca13a7"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Nokia, 128x128) (Demo)" id="0006" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Nokia, 128x128) (Demo)</description>
+		<rom name="I_bouncer_Nok_128_128_RU.jad" size="332" crc="c36b90ed" md5="94e741d41020f07fc9406dfcbe564f5b" sha1="1e88202545e27ec9c7f01267d050a87ac2f4bcf1"/>
+		<rom name="I_bouncer_Nok_128_128_RU.jar" size="140998" crc="65b72ea8" md5="54f02e7ac24e25282975f4f410ef5305" sha1="d43d177130780f977304cc658e6bc31296eb6f8b"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Nokia, 128x160) (Demo)" id="0007" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Nokia, 128x160) (Demo)</description>
+		<rom name="I_bouncer_Nokia_128_160_RU.jad" size="334" crc="935a2dd7" md5="e932134d2d0c3a26793612150bc60ed0" sha1="dcd5e80ab3f1b21dc4dea06f73a29904f6bfee6c"/>
+		<rom name="I_bouncer_Nokia_128_160_RU.jar" size="142334" crc="e5e11a6a" md5="5bd0c6c9dfb95596cdecc914dae45e13" sha1="2b455ab7c4d26e663178717d61c8cf7ff457e90c"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Nokia, 176x208) (Demo)" id="0008" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Nokia, 176x208) (Demo)</description>
+		<rom name="I_bouncer_Nokia_176_208_RU.jad" size="334" crc="bd56d380" md5="860b2de8f56a515ca8fda24f696d7874" sha1="b63545da31de8054d6d4cd400f3b7db9c325621a"/>
+		<rom name="I_bouncer_Nokia_176_208_RU.jar" size="167552" crc="6f509a49" md5="1f223d0ad03fd229f594d7e91ff2e0b9" sha1="52e787dc288626ebe5b386cd3cf32c738a0f8206"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Nokia, 240x320) (Demo)" id="0009" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Nokia, 240x320) (Demo)</description>
+		<rom name="I_bouncer_Nokia_240_240_RU.jad" size="334" crc="8cc81d0c" md5="80c9bfb0caef2de8ad2314f0e6f44fc5" sha1="6442d12528cfbbbf248049b93152eb62f64d7e95"/>
+		<rom name="I_bouncer_Nokia_240_240_RU.jar" size="207109" crc="e3d8fefd" md5="c975e45f9d9b2b77f2cc58ca1bccc646" sha1="42c333186d24aaed1883ae6f36714916bae28c6f"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Samsung, 128x160) (Demo)" id="0010" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Samsung, 128x160) (Demo)</description>
+		<rom name="I_bouncer_Sam_128_160_RU.jad" size="332" crc="549acc90" md5="b85321e001945c91d92ad268e4b26dea" sha1="b638b8d50e1f14db586c23a62c481b32c0f22836"/>
+		<rom name="I_bouncer_Sam_128_160_RU.jar" size="141891" crc="a61b3963" md5="d0bba7f7750c0d2c66eee40602d22c2c" sha1="232995017633243ace58697e3285c4ae20236482"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Samsung, 176x220) (Demo)" id="0011" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Samsung, 176x220) (Demo)</description>
+		<rom name="I_bouncer_Sam_176_220_RU.jad" size="332" crc="ddcabeac" md5="382073ebe6bc40bdadb5df841075f60d" sha1="6c17086b5601164acf78bcdf41055a41a5b67478"/>
+		<rom name="I_bouncer_Sam_176_220_RU.jar" size="166790" crc="097005ff" md5="80b5546ddd84ec757965bb90f3904b8c" sha1="321bd6b619ba5ee84e61a6a146cb160c609f7021"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Samsung, 240x320) (Demo)" id="0012" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Samsung, 240x320) (Demo)</description>
+		<rom name="I_bouncer_Sam_240_320_RU.jad" size="332" crc="858577ff" md5="47cf125f8a8cc59fefc9a0dbb72db6a0" sha1="557900e3fb33be6c9d0f79a660d9a1b696b36f1b"/>
+		<rom name="I_bouncer_Sam_240_320_RU.jar" size="206904" crc="abc7f2db" md5="d26440f278ee800dc0cf2f826e868e51" sha1="bb3d3146e5cdefde926bf61d6d42bd1d3bf89473"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Siemens, 128x160) (Demo)" id="0013" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Siemens, 128x160) (Demo)</description>
+		<rom name="I_bouncer_Siem_128_160_RU.jad" size="333" crc="9c90820f" md5="52c6fba75c74ef0edf3409a0fdc96c94" sha1="6f072dea25c98133bc18df81f8ed2e119e972c0e"/>
+		<rom name="I_bouncer_Siem_128_160_RU.jar" size="141947" crc="39456fb2" md5="5583f2870c01086b46491fd49dead514" sha1="341dd4c5cea99d7b0995bcba4034d2ebbd3bb259"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Siemens, 132x176) (Demo)" id="0014" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Siemens, 132x176) (Demo)</description>
+		<rom name="I_bouncer_Siem_132_176_RU.jad" size="333" crc="2d26a5df" md5="09d501b5df88bb6aa2053719f47bb3ce" sha1="92ad04acc21c08658e42572ffc7d22a0638b5409"/>
+		<rom name="I_bouncer_Siem_132_176_RU.jar" size="142381" crc="594987e9" md5="68f210747c717d9c2bf0182671316af7" sha1="aefb3e39573c3d374e82d160d49f076ddcbe162c"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Siemens, 176x220) (Demo)" id="0015" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Siemens, 176x220) (Demo)</description>
+		<rom name="I_bouncer_Siem_176_220_RU.jad" size="333" crc="9d136984" md5="42fc76d3d0f03f134d4666a0c78ff4df" sha1="b42cc1e0d44abb160dbfcc2c71e2c685d650cd01"/>
+		<rom name="I_bouncer_Siem_176_220_RU.jar" size="224368" crc="aad2b5a2" md5="bbb4d913fbd788bcff98b045285cd491" sha1="9df0aca5d35bda9162b09ab987fab0855bebc331"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Siemens, 240x320) (Demo)" id="0016" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Siemens, 240x320) (Demo)</description>
+		<rom name="I_bouncer_Siem_240_320_RU.jad" size="333" crc="4c9fdce2" md5="b4ebb28d8d78989f11c32e5df653ff9b" sha1="7704aed0bcfd2d4830c5635d71e445d59a959f7a"/>
+		<rom name="I_bouncer_Siem_240_320_RU.jar" size="206713" crc="204e1090" md5="cd09ad4f8dbb6ea0398364632efe1d87" sha1="0355e5c36705068102a4cef5ea48c1c9d837cae1"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Sony, 128x128) (Demo)" id="0017" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Sony, 128x128) (Demo)</description>
+		<rom name="I_bouncer_SE_128_128_RU.jad" size="331" crc="391ea54a" md5="80c91208fc82edf70d11780f5fc95a7c" sha1="c716d255b4ca86f43e30702756952f9066a62891"/>
+		<rom name="I_bouncer_SE_128_128_RU.jar" size="140564" crc="3ebfad33" md5="df43d285e4d48c5cbd69e6c8a1dd2ebb" sha1="c4b55a32646cc137e870824acfe50cb8ba695422"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Sony, 128x160) (Demo)" id="0018" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Sony, 128x160) (Demo)</description>
+		<rom name="I_bouncer_SE_128_160_RU.jad" size="331" crc="86b774bc" md5="71a8a152071c11b013837a59e8402881" sha1="5ef1202c8564f8559015f649e69ea323413afdc5"/>
+		<rom name="I_bouncer_SE_128_160_RU.jar" size="142153" crc="f52e534b" md5="4d79dde89f7b0a04f80c1e992f83951c" sha1="6dc5bfd32a8e0e51981bdb2e5aa57a759a06f4d2"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Sony, 176x220) (Demo)" id="0019" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Sony, 176x220) (Demo)</description>
+		<rom name="I_bouncer_SE_176_220_RU.jad" size="331" crc="b8b0b8eb" md5="f3aa4010842d13e560ae10e10f372898" sha1="6ed0ad4ded0de12fc293988c92fd4cf38cc3c336"/>
+		<rom name="I_bouncer_SE_176_220_RU.jar" size="166815" crc="8ecde962" md5="90145dbd6e879782dbb3822d9f35cecf" sha1="bc282806bd2cc5f22f20359eb2fffe79b9b70777"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Sony, 240x320) (Demo)" id="0020" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Sony, 240x320) (Demo)</description>
+		<rom name="I_bouncer_SE_240_320_RU.jad" size="331" crc="d7511ccb" md5="5368c249c19224ecd7dd59c9e0ec4e00" sha1="6312cb1557332ad321e9a3343469d145479f210e"/>
+		<rom name="I_bouncer_SE_240_320_RU.jar" size="206926" crc="d06d9c4f" md5="a82693646e3b076e9f07f6842c202ed7" sha1="da69a784246b3b297afa464f76aadee506be4c4b"/>
+	</game>
+	<game name="I-Digger (Russia) (LG, 128x160) (Demo)" id="0021">
+		<description>I-Digger (Russia) (LG, 128x160) (Demo)</description>
+		<rom name="LG_128_160_I_digger_demo.jad" size="263" crc="e55fafab" md5="dc5b0bfcbb735f65e4a3129d8d9d0b48" sha1="bdb99e2c290b20ae77a97ea03485be6f93fb6f88"/>
+		<rom name="LG_128_160_I_digger_demo.jar" size="95778" crc="3fd1a73e" md5="ed794857098d099e4e25d9784cf96c6d" sha1="9d34020bd1fd5db8dac087d78141591c19ae0ef2"/>
+	</game>
+	<game name="I-Digger (Russia) (Motorola, 176x220) (Demo)" id="0022" cloneofid="0021">
+		<description>I-Digger (Russia) (Motorola, 176x220) (Demo)</description>
+		<rom name="Mot_V300_I_digger_demo.jad" size="262" crc="e093318d" md5="8f92309cbbdebeb7462002d4647eef8d" sha1="a19fe7e890a0c7972f67959bffb81cb627bd1452"/>
+		<rom name="Mot_V300_I_digger_demo.jar" size="114365" crc="b95c1596" md5="7eb24949fc3026e2e258888fede38c0e" sha1="6a7c10dc689dd2baceb3a4891c76d5141cbb67dc"/>
+	</game>
+	<game name="I-Digger (Russia) (Nokia, 128x128) (Demo)" id="0023" cloneofid="0021">
+		<description>I-Digger (Russia) (Nokia, 128x128) (Demo)</description>
+		<rom name="Nokia_40_I_digger_demo.jad" size="261" crc="a66852e1" md5="3e7450c39ab23aa0634af215e46564b3" sha1="a94aa671d72ca33aa34414177b01d9484320fb3e"/>
+		<rom name="Nokia_40_I_digger_demo.jar" size="92471" crc="ef38cebe" md5="a5de33f6aad6ae1c081c28211507aed8" sha1="d3e314c5b1c92c2bb71e11e3836c0c4d1135e1a7"/>
+	</game>
+	<game name="I-Digger (Russia) (Nokia, 176x208) (Demo)" id="0024" cloneofid="0021">
+		<description>I-Digger (Russia) (Nokia, 176x208) (Demo)</description>
+		<rom name="nokia_60_I_digger_demo.jad" size="262" crc="13df42f4" md5="6e66f90902fb7ab4e1b2f9bf2fe39436" sha1="23c869fb9fb81a00b1c7fb0e38baeea411a4095d"/>
+		<rom name="nokia_60_I_digger_demo.jar" size="116151" crc="8a0856a7" md5="90f163efc2e9ecf1e6660d2acd115582" sha1="19f9f7d9015a3813bb2d5108822ee5c10da09f44"/>
+	</game>
+	<game name="I-Digger (Russia) (Samsung, 128x160) (Demo)" id="0025" cloneofid="0021">
+		<description>I-Digger (Russia) (Samsung, 128x160) (Demo)</description>
+		<rom name="Sumsung_I_digger_demo.jad" size="260" crc="8234d6c3" md5="513cadf848cb07c9ab9c92e99a805d97" sha1="52fa350625d2e05918285b2baa5746adf314cee7"/>
+		<rom name="Sumsung_I_digger_demo.jar" size="91385" crc="479fbb01" md5="9e5fd3f3d01613a9e87a3a4fee1403fb" sha1="031d95af55444cda73f512fa58d2e2adb1e511e8"/>
+	</game>
+	<game name="I-Digger (Russia) (Siemens, 132x176) (Demo)" id="0026" cloneofid="0021">
+		<description>I-Digger (Russia) (Siemens, 132x176) (Demo)</description>
+		<rom name="SimensCX65_I_digger_demo_demo.jad" size="268" crc="36d584e5" md5="f83d0dc0be972d21b75b8a0a0978d891" sha1="dabc7962172b0ff0cf10983fec98cd311efaf5f3"/>
+		<rom name="SimensCX65_I_digger_demo_demo.jar" size="97703" crc="7403a01b" md5="23cb459fb62b964b5eb1643c98eb9203" sha1="184abeda955e1f49bc73dc6c152fabc912c93783"/>
+	</game>
+	<game name="I-Digger (Russia) (Sony, 128x128) (Demo)" id="0027" cloneofid="0021">
+		<description>I-Digger (Russia) (Sony, 128x128) (Demo)</description>
+		<rom name="Sony_T610_I_digger_demo.jad" size="262" crc="a2d351d7" md5="904ed02ab26ca201b49e0f34e02e7b72" sha1="cc15bdc3a4fd970174d01055abe7f6d918c19e5e"/>
+		<rom name="Sony_T610_I_digger_demo.jar" size="91471" crc="9c3c2c8d" md5="0d89820e778e03bf166a95c766b428c3" sha1="24c846cbfcc42e32282d300ec801ff40c8691649"/>
+	</game>
+	<game name="I-Digger (Russia) (Sony, 128x160) (Demo)" id="0028" cloneofid="0021">
+		<description>I-Digger (Russia) (Sony, 128x160) (Demo)</description>
+		<rom name="Sony_Z500_I_digger_demo.jad" size="262" crc="905023bf" md5="93882d094c7d0929e6d5c21f55340eca" sha1="6f2dacb12d773756c9d8eedf3c8b7ac71c6c2b9f"/>
+		<rom name="Sony_Z500_I_digger_demo.jar" size="95682" crc="754925d9" md5="4e20f54478bcb9f1ad19facfd54ba905" sha1="0920738f94002a875bf4d4e246a9ad8370218e2f"/>
+	</game>
+	<game name="I-Digger (Russia) (Sony, 176x220) (Demo)" id="0029" cloneofid="0021">
+		<description>I-Digger (Russia) (Sony, 176x220) (Demo)</description>
+		<rom name="Sony_Z1010_I_digger_demo.jad" size="264" crc="0d4a24c1" md5="c3743d853f60b0fc0a7c7cc5f8306787" sha1="69cf995461733ef883d9d1cb9c833e5ea668d5d3"/>
+		<rom name="Sony_Z1010_I_digger_demo.jar" size="116414" crc="62b8ba6c" md5="800292a1fab1ce231229db2d1de22048" sha1="8b374edbf5ec31f60d0889de100c58efa063e8ac"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (LG, 128x160) (Demo)" id="0030">
+		<description>I-Digger 2 (Russia) (LG, 128x160) (Demo)</description>
+		<rom name="I_Digger_2_LG_128x160_ru_demo.jad" size="317" crc="5b383ce6" md5="e20e98df22cf558bcfb1345b74cceb05" sha1="ff4c32b7595e955a6b65b76490dbed45055964bd"/>
+		<rom name="I_Digger_2_LG_128x160_ru_demo.jar" size="168841" crc="15df09eb" md5="8ba45baa6c8409c56945af675e0fdc51" sha1="5d3c5f812e479b21e56c5afd305244945beb6e68"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (LG, 176x220) (Demo)" id="0044" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (LG, 176x220) (Demo)</description>
+		<rom name="I_Digger_2_LG_176x220_ru_demo.jad" size="317" crc="35ea9176" md5="ae33d190f41794ef24ec652a8dd9f768" sha1="ef63fca3aed52235ae9a865dd2442dc7980c62b2"/>
+		<rom name="I_Digger_2_LG_176x220_ru_demo.jar" size="213925" crc="11664d13" md5="b76121a0d322b7dbe5975c77e903e8ee" sha1="3b2870ae02dad804c817586e7cf70f28e6365910"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Motorola, 176x204) (Demo)" id="0045" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Motorola, 176x204) (Demo)</description>
+		<rom name="I_Digger_2_Motorola_176x204_ru_demo.jad" size="323" crc="b0487ec7" md5="335e7d8092351c1992bfe05abfd4dbf1" sha1="5a343c5bd705d7e26512023c054cefe9fa6b3c75"/>
+		<rom name="I_Digger_2_Motorola_176x204_ru_demo.jar" size="211580" crc="0bd78520" md5="4a418ea26025dfcff574d8e57d65d96d" sha1="19d0f881f3f68e3704717ab9e5a1e3dde1e947d3"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Motorola, 240x320) (Demo)" id="0046" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Motorola, 240x320) (Demo)</description>
+		<rom name="I_Digger_2_Motorola_240x320_ru_demo.jad" size="323" crc="49e9eb61" md5="86d7c4c1f10dbd8c4919728a5f4d2cab" sha1="7841cf595ccb721424f32aef17b9847300c0d9b1"/>
+		<rom name="I_Digger_2_Motorola_240x320_ru_demo.jar" size="280789" crc="20258362" md5="02b8f4f33f80eedf1091113db56ba128" sha1="830531bae1d56e7ce13d1a40eb173fa19de38ce5"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Nokia, 128x160) (Demo)" id="0047" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Nokia, 128x160) (Demo)</description>
+		<rom name="I_Digger_2_Nokia_128x160_ru_demo.jad" size="320" crc="d1a67d29" md5="b0c927175eb275850599ff8086778e3e" sha1="c8e4b433f5c5025f3b85b1a19cae7013e167645d"/>
+		<rom name="I_Digger_2_Nokia_128x160_ru_demo.jar" size="168926" crc="acb7634f" md5="769772a26195db88909e8e15915c0d0a" sha1="0effa1295ce21ae92b0c179bee60d9ea245184cd"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Nokia, 176x208) (Demo)" id="0048" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Nokia, 176x208) (Demo)</description>
+		<rom name="I_Digger_2_Nokia_176x208_ru_demo.jad" size="320" crc="59f5babd" md5="8d8368f0029e34624e25f5592a7df82c" sha1="6afb815ed5adc8712e57e82081adacb01fa9c109"/>
+		<rom name="I_Digger_2_Nokia_176x208_ru_demo.jar" size="213159" crc="88904284" md5="ec400ed90b2f8800fdc30d0738cd3c88" sha1="e194708c8fcab4219bcd10e2af5feab771feec57"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Nokia, 240x320) (Demo)" id="0049" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Nokia, 240x320) (Demo)</description>
+		<rom name="I_Digger_2_Nokia_240x320_ru_demo.jad" size="320" crc="135f2c85" md5="a5de1401a8c59ba39d8abc746d8a980e" sha1="45adceeaae2e31b44ea988e789b431e9e9a1248b"/>
+		<rom name="I_Digger_2_Nokia_240x320_ru_demo.jar" size="281979" crc="7ee75363" md5="b3421c62d71453471d91ea4100280313" sha1="37bd6e16a0bb57f1381353e69553d692de26bcfa"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Samsung, 128x160) (Demo)" id="0050" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Samsung, 128x160) (Demo)</description>
+		<rom name="I_Digger_2_Samsung_128x160_ru_demo.jad" size="322" crc="3d880f8d" md5="4089f90263ac7188aa53a09527684683" sha1="37d9ce73c97bd5c91d8df491eba2ef9154f82651"/>
+		<rom name="I_Digger_2_Samsung_128x160_ru_demo.jar" size="168884" crc="bd2e7cd2" md5="9e51577691f285269835de584620c7e8" sha1="9e3ae9bbbb4fedfc4b0772e0a6bfa56b581f5c95"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Samsung, 176x220) (Demo)" id="0051" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Samsung, 176x220) (Demo)</description>
+		<rom name="I_Digger_2_Samsung_176x220_ru_demo.jad" size="322" crc="8f11d6f0" md5="6525af6b3357a89bff4901cf207f2c61" sha1="c4d45a6760e0e6b52558d6352eac81cbe78268ee"/>
+		<rom name="I_Digger_2_Samsung_176x220_ru_demo.jar" size="213968" crc="25af0f2e" md5="a87af5d6512228382c73dcd69b8c1a73" sha1="cbd97d12fadb8681e8356cc67664928178d4ff57"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Samsung, 240x320) (Demo)" id="0052" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Samsung, 240x320) (Demo)</description>
+		<rom name="I_Digger_2_Samsung_240x320_ru_demo.jad" size="322" crc="92544a2f" md5="de609bccbdff4acdecde367fcfb8a457" sha1="fedc099afc13e426c0bea5cca42ca0e0d8e8dfbb"/>
+		<rom name="I_Digger_2_Samsung_240x320_ru_demo.jar" size="280790" crc="77fe3247" md5="567a89badb19109ea819111ad43bcdfe" sha1="709dd527367cb3d0d2bde0148a3575e21ac14540"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Siemens, 128x160) (Demo)" id="0053" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Siemens, 128x160) (Demo)</description>
+		<rom name="I_Digger_2_Siemens_128x160_ru_demo.jad" size="322" crc="f89bc310" md5="9ef503b3ec7e7e37aee98d64921d38a9" sha1="8c1c7d8c7e03c03e10ba8ab096d70ad8a2cb0af6"/>
+		<rom name="I_Digger_2_Siemens_128x160_ru_demo.jar" size="167712" crc="4db1fbb4" md5="beb10a85651fe079627f77a9bc91b99a" sha1="f19ee8024a3a37b248c291c58d1735d3d4af3236"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Siemens, 132x176) (Demo)" id="0054" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Siemens, 132x176) (Demo)</description>
+		<rom name="I_Digger_2_Siemens_132x176_ru_demo.jad" size="322" crc="a0ba07e6" md5="599951f99e6c91a9d8bcd5f4feda5258" sha1="c771400882581c71a0dfc320b417d76c591e8f41"/>
+		<rom name="I_Digger_2_Siemens_132x176_ru_demo.jar" size="168785" crc="fee733c7" md5="ecf287b761fdd534927141ec671a0dc5" sha1="42964a52e7b9c366532bd302c6da08a788959c83"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Siemens, 176x220) (Demo)" id="0055" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Siemens, 176x220) (Demo)</description>
+		<rom name="I_Digger_2_Siemens_176x220_ru_demo.jad" size="322" crc="48b919b2" md5="e4b3a8f055dc76adfb73aef2c4444419" sha1="f0f50deee1f83e22ea6cb39fae99f5c757f67c3c"/>
+		<rom name="I_Digger_2_Siemens_176x220_ru_demo.jar" size="211864" crc="42b44501" md5="325180dcbd2cf1c3329e70232eab852b" sha1="18f0745d1cb69d544dc437531e13d1c6f7cc6fd7"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Siemens, 240x320) (Demo)" id="0056" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Siemens, 240x320) (Demo)</description>
+		<rom name="I_Digger_2_Siemens_240x320_ru_demo.jad" size="322" crc="1a9f14dd" md5="5cb2492a70ce37e84ce1ca8c3a599ee3" sha1="d8b4d6695249d570b60fa38f39fed653032b5a7f"/>
+		<rom name="I_Digger_2_Siemens_240x320_ru_demo.jar" size="280783" crc="58bd5bd2" md5="e97f3c09ad64c3ca256acab52f7410f2" sha1="f20f3a432c126a7e20a8ceffb2063ae5775c0dac"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Sony, 128x160) (Demo)" id="0057" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Sony, 128x160) (Demo)</description>
+		<rom name="I_Digger_2_SE_128x160_ru_demo.jad" size="317" crc="9b22210c" md5="3c0afd9db2d68c11073266197498f391" sha1="b3b08414dbf6450edbfc93b18d4b568805c77e98"/>
+		<rom name="I_Digger_2_SE_128x160_ru_demo.jar" size="167720" crc="cf9e961a" md5="44bf65b1c122e453904122833e210fad" sha1="f563dd09fe0407c9cfd4cff5d0d0f51d173da4f5"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Sony, 176x220) (Demo)" id="0058" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Sony, 176x220) (Demo)</description>
+		<rom name="I_Digger_2_SE_176x220_ru_demo.jad" size="317" crc="5e3a010a" md5="d127e9c46ea1274d0f831e6467e617d5" sha1="7ce5eee33004cebfb12a1fae1af0c1500392be42"/>
+		<rom name="I_Digger_2_SE_176x220_ru_demo.jar" size="211869" crc="6590bdc7" md5="6abf21bc48413f5c7074a4a18992afe1" sha1="881e2f24b6fc4ccb9b87cda468924d6a74e8d82d"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Sony, 240x320) (Demo)" id="0059" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Sony, 240x320) (Demo)</description>
+		<rom name="I_Digger_2_SE_240x320_ru_demo.jad" size="317" crc="c6d5abf6" md5="6b1406498e3b48a5f0d9f1e109f3ea48" sha1="2dae6aaad2e5d1536099e243ed705dd5c4c96f6d"/>
+		<rom name="I_Digger_2_SE_240x320_ru_demo.jar" size="280790" crc="a16e2964" md5="91606f471917c7ce10dc4057f69c30a1" sha1="e135e8a1e968d9642c4a7201f758b2bcd4749b3f"/>
+	</game>
+	<game name="I-Diver (Russia) (LG, 128x128) (Demo)" id="0031">
+		<description>I-Diver (Russia) (LG, 128x128) (Demo)</description>
+		<rom name="Id_lg_128x128.jad" size="279" crc="61c33f80" md5="7360c079e2b3b1b57ad5bfba09b43cee" sha1="7373953348d1894d8a7e023e835b29a0a76e0801"/>
+		<rom name="Id_lg_128x128.jar" size="63768" crc="b7ff2ecd" md5="00658d6d5aa257a9cb13b09e95ee341f" sha1="94ee047101309b45b34e09241f6159c8a7f9a097"/>
+	</game>
+	<game name="I-Diver 2 (Russia) (LG, 128x160) (Demo)" id="0032">
+		<description>I-Diver 2 (Russia) (LG, 128x160) (Demo)</description>
+		<rom name="I-Diver-2_LG_128x160.jad" size="306" crc="77222195" md5="dcf1a76024478c65791656ae1547349f" sha1="7e03340d53cfc8e6b3006bff913d5e15fb432f51"/>
+		<rom name="I-Diver-2_LG_128x160.jar" size="123108" crc="42593de1" md5="1a10fa205a996de9c89e0b76d934028d" sha1="3a7de8dc0ad4af92324b884174a7985285d333d8"/>
+	</game>
+	<game name="I-Dragon (Russia) (LG, 128x160) (Demo)" id="0033">
+		<description>I-Dragon (Russia) (LG, 128x160) (Demo)</description>
+		<rom name="I-Dragon_LG_C3400_demo.jad" size="299" crc="794cadaf" md5="8b54256bed6748b635e3fd87ae4cf711" sha1="5806df94f881e5724dcf9de5ad8003113c4a10ef"/>
+		<rom name="I-Dragon_LG_C3400_demo.jar" size="94719" crc="0ca8001f" md5="a555e8a8a43d102f95bc1c444b21bff6" sha1="6f085db0ace5c0497cf775762d97a3629061abcc"/>
+	</game>
+	<game name="I-Fly (Russia) (LG, 128x128) (Demo)" id="0034">
+		<description>I-Fly (Russia) (LG, 128x128) (Demo)</description>
+		<rom name="Air_demo_lg_128x128.jad" size="243" crc="93f62f1f" md5="9e012bf6c555d56e7f40beae5988eb80" sha1="557406d46b066600b23fda2191a2b900fa142baa"/>
+		<rom name="Air_demo_lg_128x128.jar" size="52707" crc="9c47837b" md5="f8a0598a79d2ca653d7be0a41ca84781" sha1="de5381d208ce2d3a9778221b4a9ec4bb5fb65537"/>
+	</game>
+	<game name="I-Hipno (Russia) (LG, 128x128) (Demo)" id="0035">
+		<description>I-Hipno (Russia) (LG, 128x128) (Demo)</description>
+		<rom name="I-hipno_LG_128x128_demo.jad" size="260" crc="02935e1c" md5="a253f3668f7502f4bef6cfbc00bca10c" sha1="e4103907911153a4665f0575b9913b49ee772459"/>
+		<rom name="I-hipno_LG_128x128_demo.jar" size="73894" crc="e7828aca" md5="ba08f8ec761fe1bda9adc64630c53eae" sha1="50241c63cbed9119367c4fc9a49786fdc8e8bcf4"/>
+	</game>
+	<game name="I-Jump (Russia) (LG, 128x128) (Demo)" id="0036">
+		<description>I-Jump (Russia) (LG, 128x128) (Demo)</description>
+		<rom name="i_jump_lg_128x128.jad" size="301" crc="3dfcfdb0" md5="0380cd502f4b136910aa51cc100c88f4" sha1="1ec81a7677553bab630a4b3d6e53c50c8ce79857"/>
+		<rom name="i_jump_lg_128x128.jar" size="80766" crc="f2061e73" md5="240f4f17ee009315e576428870ea039d" sha1="9d90f593ac67b5aadea51f7fef102a141b82e787"/>
+	</game>
+	<game name="I-Volt (Russia) (LG, 128x128) (Demo)" id="0037">
+		<description>I-Volt (Russia) (LG, 128x128) (Demo)</description>
+		<rom name="I_volt_LG_128x128_demo.jad" size="295" crc="5ea95d02" md5="3d15fabf0fce5d6e8a1f04f649fae070" sha1="df3d5dbf125b0ba2429d9271870dc800e70821dd"/>
+		<rom name="I_volt_LG_128x128_demo.jar" size="53339" crc="a8e7649f" md5="26a497b24eb5efaf1787fb8db56ac5e0" sha1="12112a44f6819dfb984f227e5afc0870f4c2fee8"/>
+	</game>
+	<game name="Memero (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]" id="0212">
+		<category>Games</category>
+		<description>Memero (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]</description>
+		<rom name="Memero (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b].jar" size="61493" crc="5a3f5e5f" md5="070aaaccd743925bf17cf4fb418c299c" sha1="136e8431372a1fda8f283544f549ad6a848b510b" sha256="6460320468a72550747aefe2e67882248be024df07e8f8555f522014bf87d50b" status="baddump"/>
+	</game>
+	<game name="Memero (Unknown) (Nokia Series 40, 128x128) (v1.5.0)" id="0213">
+		<category>Games</category>
+		<description>Memero (Unknown) (Nokia Series 40, 128x128) (v1.5.0)</description>
+		<rom name="Memero (Unknown) (Nokia Series 40, 128x128) (v1.5.0).jar" size="64257" crc="37f78f2b" md5="59c0151efddfe8bb4ed8d6353d061665" sha1="959b578ae6aaf3801b7cf7f8a90f90f2881faadf" sha256="b224a638bc1a459539ade430aa84e97e2a7715457b29561616c2348127bde7f5"/>
+	</game>
+	<game name="One on One Basket (Unknown) (176x220) (v1.0.16) [b]" id="0144">
+		<category>Games</category>
+		<description>One on One Basket (Unknown) (176x220) (v1.0.16) [b]</description>
+		<rom name="One on One Basket (Unknown) (176x220) (v1.0.16) [b].jar" size="185617" crc="01fffe29" md5="3853449f5382c6f3dbe5dae12898925f" sha1="80e25ed5ce684f2763411e465bb911be8f39d8a5" sha256="a781acebd95b45b59b4f91e1e3ad08f18805352632fa8da08726648b60ebd17d" status="baddump"/>
+	</game>
+	<game name="One on One Basket (Unknown) (Siemens, 132x176) (v1.0.16) [b]" id="0145">
+		<category>Games</category>
+		<description>One on One Basket (Unknown) (Siemens, 132x176) (v1.0.16) [b]</description>
+		<rom name="One on One Basket (Unknown) (Siemens, 132x176) (v1.0.16) [b].jar" size="140176" crc="929dc83e" md5="4ec11e2b62fff0b4dd96039fa48bc9df" sha1="19908198cc4efae59668d3292dacb4804d79c280" sha256="4acb132ec18d6618dcc77e3e57f4089f872cf18cf0c5c0cb0c66c9d2bea6c008" status="baddump"/>
+	</game>
+	<game name="One on One Basket (Unknown) (Nokia s40, 128x128) (v1.0.16) [b]" id="0146">
+		<category>Games</category>
+		<description>One on One Basket (Unknown) (Nokia s40, 128x128) (v1.0.16) [b]</description>
+		<rom name="One on One Basket (Unknown) (Nokia s40, 128x128) (v1.0.16) [b].jar" size="59226" crc="298841f4" md5="5f486146ad739e9a592048508c1bd37c" sha1="d0a632138211490ac198369c40f2e14a2ddafd0c" sha256="8746b681f75154af48d63a6b5beae657f11214f8b68a2eee5a37dbb7b0fa2c69" status="baddump"/>
+	</game>
+	<game name="One on One Basket (Unknown) (Siemens, 130x130) (v1.0.16) [b]" id="0147">
+		<category>Games</category>
+		<description>One on One Basket (Unknown) (Siemens, 130x130) (v1.0.16) [b]</description>
+		<rom name="One on One Basket (Unknown) (Siemens, 130x130) (v1.0.16) [b].jar" size="105691" crc="a05065ae" md5="951aa01f024abc35df65d931bab4a0fd" sha1="24bc156ee6ca541eb960226082bf973026b9e3b7" sha256="b68fa3f35b967ca11353066cf967febf3f1e3d39fe1f669a1aa24fbb337294fc" status="baddump"/>
+	</game>
+	<game name="One on One Basket (Unknown) (Nokia s60, 176x208) (v1.0.16) [b]" id="0148">
+		<category>Games</category>
+		<description>One on One Basket (Unknown) (Nokia s60, 176x208) (v1.0.16) [b]</description>
+		<rom name="One on One Basket (Unknown) (Nokia s60, 176x208) (v1.0.16) [b].jar" size="182654" crc="50e0a238" md5="95c8a7408a357d8c92c82fd39d40f30e" sha1="c446975b8b67514e53026b246c5d842a4fc7c694" sha256="fe7c07bd540208c285660cd13d812bb23e769bb46134807a97b5a4f039ad6f96" status="baddump"/>
+	</game>
+	<game name="One on One Basket (Unknown) (Sony Ericsson K300, 128x128) (v1.0.16) [b]" id="0149">
+		<category>Games</category>
+		<description>One on One Basket (Unknown) (Sony Ericsson K300, 128x128) (v1.0.16) [b]</description>
+		<rom name="One on One Basket (Unknown) (Sony Ericsson K300, 128x128) (v1.0.16) [b].jar" size="107095" crc="3344e8af" md5="a838953d1cb304ed6c2b31071298a46c" sha1="d58e102d29f386b01c61be199f5a207deb7b8eec" sha256="442ac7df7c5368db76112d7562c50557e278e532e0b91d15492b64532ac7875b" status="baddump"/>
+	</game>
+	<game name="One on One Basket (Unknown) (128x160) (v1.0.16) [b]" id="0150">
+		<category>Games</category>
+		<description>One on One Basket (Unknown) (128x160) (v1.0.16) [b]</description>
+		<rom name="One on One Basket (Unknown) (128x160) (v1.0.16) [b].jar" size="174322" crc="31810dca" md5="e2d670c692e85306978dae7f67b7ea2f" sha1="96d9200492ca4c7fa95412a64493f40a6a519531" sha256="0b7687a2ca540850bc9c62dba2449257fbdce9e86b3bf254d6d94c14d2e7b45e" status="baddump"/>
+	</game>
+	<game name="One on One Basket (Unknown) (240x320) (v1.0.16) [b]" id="0151">
+		<category>Games</category>
+		<description>One on One Basket (Unknown) (240x320) (v1.0.16) [b]</description>
+		<rom name="One on One Basket (Unknown) (240x320) (v1.0.16) [b].jar" size="177421" crc="c41975a2" md5="f0a60de8d46cdc79fec44b6f2da8f83b" sha1="02ce4c637c72faea27149aef522f8e27c04dac5a" sha256="c0ea163d937a898e93f23a25e0b9be33d3eda3f213e94b73398eece4f4cf8220" status="baddump"/>
+	</game>
+	<game name="One on One Basket (Unknown) (Sony Ericsson T610, 128x128) (v1.0.17) [b]" id="0152">
+		<category>Games</category>
+		<description>One on One Basket (Unknown) (Sony Ericsson T610, 128x128) (v1.0.17) [b]</description>
+		<rom name="One on One Basket (Unknown) (Sony Ericsson T610, 128x128) (v1.0.17) [b].jar" size="101170" crc="26d58834" md5="52ecb91c6043dbb87ba00f047e7bbb78" sha1="44dd530b851c84b3b39b5c0090e807c1da85bf20" sha256="1e92e8420d37c5f08b5526c5e60ebafca1cab2622ad9414c68e3ed1609b98a7e" status="baddump"/>
+	</game>
+	<game name="Peggle (Unknown) (En,Fr,De,Es,It) (240x320) (v01.02.50)" id="0041">
+		<description>Peggle (Unknown) (En,Fr,De,Es,It) (240x320) (v01.02.50)</description>
+		<rom name="Peggle (Unknown) (En,Fr,De,Es,It) (v01.02.50) (240x320).jar" size="644421" crc="85fbd805" md5="83a9d5fcd2dde4839362ec964098bc2a" sha1="185d3127a1e6e4323f8e5d7641d98aeded9ed77a"/>
+	</game>
+	<game name="Peggle (Unknown) (En,Fr,De,Es,It) (240x320) (v4.4.13)" id="0042" cloneofid="0041">
+		<description>Peggle (Unknown) (En,Fr,De,Es,It) (240x320) (v4.4.13)</description>
+		<rom name="Peggle (Unknown) (En,Fr,De,Es,It) (v4.4.13) (240x320).jar" size="593666" crc="846518c3" md5="0186c824d0fb892fce7f4a8ee56610b5" sha1="887d53a02dcbb07e47061737a8d9a7fdaf9afea4"/>
+	</game>
+	<game name="Pesky Marbles (Unknown) (Nokia Series 60, 176x208) (v1.4.0)" id="0214">
+		<category>Games</category>
+		<description>Pesky Marbles (Unknown) (Nokia Series 60, 176x208) (v1.4.0)</description>
+		<rom name="Pesky Marbles (Unknown) (Nokia Series 60, 176x208) (v1.4.0).jar" size="61382" crc="63aabd20" md5="63eb79a65ac9c486f6216b8912749e7e" sha1="65a026000021221e73f6411d6b1e446a012c5f17" sha256="1fd963b1f3bf5d04977dde35cd1137bffb6744c25f4fc082a8cbf2f13e9ca31a"/>
+	</game>
+	<game name="Pesky Marbles (Unknown) (128x128) (v1.5.0)" id="0215">
+		<category>Games</category>
+		<description>Pesky Marbles (Unknown) (128x128) (v1.5.0)</description>
+		<rom name="Pesky Marbles (Unknown) (128x128) (v1.5.0).jar" size="42534" crc="6a7b84f6" md5="ad5fdcfc3398cda9a65a32e8fd65ddc2" sha1="a2e1a7743490205371b5de9624f749d35a230120" sha256="8cd3b4e84f0d210dac27d60d607f85270c91c9a0bdaf3d268fe867c706f727e9"/>
+	</game>
+	<game name="Pesky Marbles (Unknown) (128x128) (v1.5.3)" id="0216">
+		<category>Games</category>
+		<description>Pesky Marbles (Unknown) (128x128) (v1.5.3)</description>
+		<rom name="Pesky Marbles (Unknown) (128x128) (v1.5.3).jar" size="42255" crc="7b2e65f4" md5="75d8f3e156a5d1acad78327120312ddc" sha1="3eba3b67a462acfc7ab9504dd606e365cd29de48" sha256="797aecc75bd3501c795d2a8670cc5a5470f6e4ec2f4193f46276ddd03da9d0ae"/>
+	</game>
+	<game name="Section 7 (Unknown) (Nokia, 176x208) (v1.4.0)" id="0217">
+		<category>Games</category>
+		<description>Section 7 (Unknown) (Nokia, 176x208) (v1.4.0)</description>
+		<rom name="Section 7 (Unknown) (Nokia, 176x208) (v1.4.0).jar" size="65245" crc="28702139" md5="457b8ed84b611def8fb5f492f3695cd9" sha1="41b40ab7234ec8994d4245ef9f1804541e38a691" sha256="393ca53a0e17c620ff58cf9d20cca2dd63c2ed484f8a499e4cfc8ec6e13690c8"/>
+	</game>
+	<game name="Section 7 (Unknown) (Nokia, 176x208 alt) (v1.4.0)" id="0218">
+		<category>Games</category>
+		<description>Section 7 (Unknown) (Nokia, 176x208 alt) (v1.4.0)</description>
+		<rom name="Section 7 (Unknown) (Nokia, 176x208 alt) (v1.4.0).jar" size="65083" crc="68b17298" md5="bb0618d57281ab4af26a5631cc1b263d" sha1="b09763a0cbd4846ac0b134e54bb7302c58db337d" sha256="dc2b93363e605c409c038690d43c474945b3367626b20eb3cab426b092f4055b"/>
+	</game>
+	<game name="Section 7 (Unknown) (Nokia Series 60, 176x208) (v1.5.3)" id="0219">
+		<category>Games</category>
+		<description>Section 7 (Unknown) (Nokia Series 60, 176x208) (v1.5.3)</description>
+		<rom name="Section 7 (Unknown) (Nokia Series 60, 176x208) (v1.5.3).jar" size="111471" crc="4b8a45fc" md5="7f259cc79d23eee4a9f3a72042696130" sha1="1c9926bab353698461e629c9e5498909edfc1101" sha256="904d6b342464f5bf39c10386bc6719513807cbccac3355e88c1699d9d14214db"/>
+	</game>
+	<game name="Taiko no Tatsujin (Unknown) (Zh) (128x128)" id="0065">
+		<category>Games</category>
+		<description>Taiko no Tatsujin (Unknown) (Zh) (128x128)</description>
+		<rom name="Taiko no Tatsujin (Unknown) (Zh) (128x128).jar" size="220033" crc="227baf31" md5="c5e7cce06f1b2d4203413a2bb0891007" sha1="b2dd18b7e1978957dcd3c34d05cac6e219f71eef" sha256="09d74a6a6a9ec184ca48055c3cf9cc37cb617f890763bce3d9f20fc4cf29c47f"/>
+	</game>
+	<game name="Taiko no Tatsujin (Unknown) (Zh) (176x208)" id="0078">
+		<category>Games</category>
+		<description>Taiko no Tatsujin (Unknown) (Zh) (176x208)</description>
+		<rom name="Taiko no Tatsujin (Unknown) (Zh) (176x208).jar" size="302572" crc="88ddcef5" md5="3e6f719481cec4eb587eca715adaa249" sha1="4aa1035f3cc3bbb72966fb06cf57ffa60c98435e" sha256="0a1969d26788823c6a4a9249be97cf2b9d432b004f05fdd3cf5a3d52027a42b1"/>
+	</game>
+	<game name="Taiko no Tatsujin (Unknown) (Zh) (Nokia, 240x320)" id="0079">
+		<category>Games</category>
+		<description>Taiko no Tatsujin (Unknown) (Zh) (Nokia, 240x320)</description>
+		<rom name="Taiko no Tatsujin (Unknown) (Zh) (Nokia, 240x320).jar" size="284098" crc="2d022343" md5="c95b3c213c515805b3e59f8c8404f282" sha1="303085cebad82c9429392bfb850d3be37a03a1cc" sha256="1de104b6b37c890e6d02fbf14491fa4f231c7be263fdbb6bbcebf31783ee9c42"/>
+	</game>
+	<game name="Taiko no Tatsujin (Unknown) (Zh) (Sony Ericsson, 240x320)" id="0080">
+		<category>Games</category>
+		<description>Taiko no Tatsujin (Unknown) (Zh) (Sony Ericsson, 240x320)</description>
+		<rom name="Taiko no Tatsujin (Unknown) (Zh) (Sony Ericsson, 240x320).jar" size="289582" crc="aee4e841" md5="ce3473edf16c161f57bdbb43939e838e" sha1="956997ff4f6151bcb0ee9ddacce008f200d3f611" sha256="931bd786f53cb01efafbf2cf46b9b0bc9588262c9a1e9735d046563d0e88066b"/>
+	</game>
+	<game name="Tempest (Unknown) (128x128) [b]" id="0081">
+		<category>Games</category>
+		<description>Tempest (Unknown) (128x128) [b]</description>
+		<rom name="Tempest (Unknown) (128x128) [b].jar" size="51380" crc="0f3c85a6" md5="4b11b70040b465832604be1926bbf269" sha1="7382bf21922b1b612b80346f7763fc91d91532cf" sha256="a63b3642e36edfd1694fa01dce1191dbd29e0b774f467308592a3621e65d81c6" status="baddump"/>
+	</game>
+	<game name="Tempest (Unknown) (Motorola V600, 176x182) (v1.1.2)" id="0082">
+		<category>Games</category>
+		<description>Tempest (Unknown) (Motorola V600, 176x182) (v1.1.2)</description>
+		<rom name="Tempest (Unknown) (Motorola V600, 176x182) (v1.1.2).jar" size="63230" crc="e4081011" md5="25cd47140f41e490641539c2eeff1d30" sha1="52e3a8474c1751971afba049da930da3fb272bf4" sha256="885ae05669972af50c968ddbe2fdf2ec2543114e4e78528aabe48b1152f28c05"/>
+	</game>
+	<game name="Worms (Unknown) (En,Fr,De,Es,It) (176x208) (v1.0.5)" id="0039">
+		<description>Worms (Unknown) (En,Fr,De,Es,It) (176x208) (v1.0.5)</description>
+		<rom name="Worms (Unknown) (En,Fr,De,Es,It) (v1.0.5) (176x208).jar" size="239739" crc="55f97cdb" md5="c72e34ec52996b07065994f331105008" sha1="d4b6f2a5598f9d89bae3c1ae11eba223b6fce1de"/>
+	</game>
+	<game name="Worms (Unknown) (Fr,De,Es,It,Ru) (176x208) (v1.3.3)" id="0040" cloneofid="0039">
+		<description>Worms (Unknown) (Fr,De,Es,It,Ru) (176x208) (v1.3.3)</description>
+		<rom name="Worms (Unknown) (Fr,De,Es,It,Ru) (v1.3.3) (176x208).jar" size="249653" crc="924fe910" md5="a9a06436a711bcbfbfacf79082bf80b1" sha1="187c5969dab8ef7294a184d17e4ec9471529843d"/>
+	</game>
+	<game name="Worms Forts - Under Siege (Unknown) (En,Fr,De,Es,It) (176x208)" id="0043">
+		<description>Worms Forts - Under Siege (Unknown) (En,Fr,De,Es,It) (176x208)</description>
+		<rom name="Worms Forts - Under Siege (Unknown) (En,Fr,De,Es,It) (176x208).jar" size="267887" crc="2138c5dd" md5="057acd772dd2475ae91380633f7dba23" sha1="7ba53cd177b6b5fa3796aa20a68422ff4e05f807"/>
+	</game>
+	<game name="X-Files, The - The Deserter (Unknown) (240x320) (v1.7.3) [b]" id="0060">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (Unknown) (240x320) (v1.7.3) [b]</description>
+		<rom name="X-Files, The - The Deserter (Unknown) (240x320) (v1.7.3) [b].jar" size="196436" crc="ba091676" md5="2af0897d904fcc5d56f9f433102328eb" sha1="b513ce86d6889a0492916624f7f3125f12cabf10" sha256="db12927fffc2d51fb27c6a9979340f9f0eb735346561a1f816863ed2f3c1b59e" status="baddump"/>
+	</game>
+	<game name="X-Files, The - The Deserter (Unknown) (Nokia, 128x160) (v1.1.5) [b]" id="0220">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (Unknown) (Nokia, 128x160) (v1.1.5) [b]</description>
+		<rom name="X-Files, The - The Deserter (Unknown) (Nokia, 128x160) (v1.1.5) [b].jar" size="110881" crc="6b9c89b0" md5="ab1a40a59690814a5498043994182c7b" sha1="4a33946b23ce81e16d7a216d6ca3bb82ce4a2772" sha256="1a2a168bdf67f3ebed909a27ec9e30e5430bba2ced0cfbac0be7408039cf7002" status="baddump"/>
+	</game>
+	<game name="X-Files, The - The Deserter (Unknown) (Nokia s40v1, 128x128) (v1.1.3)" id="0221">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (Unknown) (Nokia s40v1, 128x128) (v1.1.3)</description>
+		<rom name="X-Files, The - The Deserter (Unknown) (Nokia s40v1, 128x128) (v1.1.3).jar" size="63870" crc="85d1cc52" md5="05ab18f9321cc981f9a5fb74a5381289" sha1="e7e748ccdc6c4292b9bd852bf0971f5fd12c435d" sha256="9318b1c0cf9651aaac25fd6d2184e275e8865b9638df502c19c3a6ee0f11a063"/>
+	</game>
+	<game name="X-Files, The - The Deserter (Unknown) (Sony Ericsson, 128x128) (v1.1.3)" id="0222">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (Unknown) (Sony Ericsson, 128x128) (v1.1.3)</description>
+		<rom name="X-Files, The - The Deserter (Unknown) (Sony Ericsson, 128x128) (v1.1.3).jar" size="140132" crc="a6993e7b" md5="4298306e85dddd7bd32860fab9c73aac" sha1="d0c30e667672e4c6d68056a6a6f5b617d7b85377" sha256="0f20a6b718fa70462dd46f40c96d2738279ff4938294f8591ae95c413a551cad"/>
+	</game>
+	<game name="X-Files, The - The Deserter (Unknown) (Siemens, 132x176) (v1.1.3)" id="0223">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (Unknown) (Siemens, 132x176) (v1.1.3)</description>
+		<rom name="X-Files, The - The Deserter (Unknown) (Siemens, 132x176) (v1.1.3).jar" size="161034" crc="aebf410f" md5="ce341817e7b9d5e674de889af00a3980" sha1="072de39213c533f2056e5ff4739870938766ea8b" sha256="b4d53b4c9c3c3ddfb56ac18de480b3d6830f02dbcd5db3d498e0f098a9202c48"/>
+	</game>
+	<game name="X-Files, The - The Deserter (Unknown) (Motorola, 176x182) (v1.1.5) [b]" id="0224">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (Unknown) (Motorola, 176x182) (v1.1.5) [b]</description>
+		<rom name="X-Files, The - The Deserter (Unknown) (Motorola, 176x182) (v1.1.5) [b].jar" size="178239" crc="fe49ef33" md5="ab9804c915e2d9d10c29fd58935f5b06" sha1="57b59b5b5b6303a91447a64ace36e69085390545" sha256="7abb8d372dd9f9b41a83c25a26e8c953c0b46444d5fc08a7b8a6e80b6713b89c" status="baddump"/>
+	</game>
+	<game name="X-Files, The - The Deserter (Unknown) (De) (Nokia Series 60, 176x208) (v1.1.8)" id="0225">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (Unknown) (De) (Nokia Series 60, 176x208) (v1.1.8)</description>
+		<rom name="X-Files, The - The Deserter (Unknown) (De) (Nokia Series 60, 176x208) (v1.1.8).jar" size="195355" crc="76673a3f" md5="7453a675d75bc96b19421584a521ab08" sha1="3cd2e8f2a2050ede81acab56d454c41f2fa0369c" sha256="99bca1f706607e1f287064adaa3d0b50b3d05fb208e890d3b15a0e303d3454eb"/>
+	</game>
+	<game name="X-Files, The - The Deserter (Unknown) (Nokia s40v2, 128x128) (v1.1.8)" id="0226">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (Unknown) (Nokia s40v2, 128x128) (v1.1.8)</description>
+		<rom name="X-Files, The - The Deserter (Unknown) (Nokia s40v2, 128x128) (v1.1.8).jar" size="108573" crc="e3f9d535" md5="ee4e5235b35243b08c280fe20b0fd390" sha1="d9658184d61400afa0106e5ee8e9788d13f37fd8" sha256="aec6868a5f478e6ad6e252e4247c23ecc562260801901a06add9bf5b30921a3c"/>
+	</game>
+	<game name="X-Files, The - The Deserter (Unknown) (Es) (Nokia Series 60, 176x208) (v1.3.1)" id="0227">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (Unknown) (Es) (Nokia Series 60, 176x208) (v1.3.1)</description>
+		<rom name="X-Files, The - The Deserter (Unknown) (Es) (Nokia Series 60, 176x208) (v1.3.1).jar" size="193936" crc="ff655326" md5="2a86ec614d911fcdbb5e273943937aa3" sha1="1077427a711516bdb0cd840085aad6b114a13710" sha256="63fa71e0735342365e234c83e39a5c8260411a8428b941a95e6e84dbbf7e4f3d"/>
+	</game>
+</datafile>

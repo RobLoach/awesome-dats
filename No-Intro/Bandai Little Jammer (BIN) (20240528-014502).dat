@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>437</id>
+		<name>Bandai Little Jammer (BIN)</name>
+		<description>Bandai Little Jammer (BIN)</description>
+		<version>20240528-014502</version>
+		<author>SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Asahi PRIME TIME Selection (World)" id="0010">
+		<description>Asahi PRIME TIME Selection (World)</description>
+		<rom name="Asahi PRIME TIME Selection (World).bin" size="1048576" crc="40ed74c5" md5="61bbd4cac2c909bf291722ce31d69ed0" sha1="1d149ddebea4e4b156e9a738a62cd5cc82e2abb0" sha256="7e8fc35a3a69f92c43a3c4a15bf545843abcd4401c53038cf689992760f6f43a"/>
+	</game>
+	<game name="DESKTOP JAM Basic Selection (World)" id="0001">
+		<description>DESKTOP JAM Basic Selection (World)</description>
+		<rom name="DESKTOP JAM Basic Selection (World).bin" size="2097152" crc="41226e21" md5="66a3b3ce706a84d9a70da6d77de50a54" sha1="a88f125272abf9572b83fc67718e256d7b8ed489" sha256="d9fddf0330cdcd2451b7d3975b546dd78ed1a3237cd2a6cce7778fc511bd4ea6"/>
+	</game>
+	<game name="Healing Selection (World)" id="0011">
+		<description>Healing Selection (World)</description>
+		<rom name="Healing Selection (World).bin" size="2097152" crc="5915513b" md5="ffb3909c6caec1c8019a8ce3821e3f87" sha1="53439f452becf6b60b200fb88d585ec0bab6ac5c" sha256="28f8e2eda0e80dc98e65d05e37ca20892a74ffe80e391ad4af8cf571a3acd261"/>
+	</game>
+	<game name="LIMITED 'S' Edition (World)" id="0012">
+		<description>LIMITED 'S' Edition (World)</description>
+		<rom name="LIMITED 'S' Edition (World).bin" size="2097152" crc="148f2b43" md5="70918f2485f7fc639ab148f02d9477f4" sha1="448adea145716169e488adb0b7d36aa5c68edea8" sha256="d92f7067914129695ef4b0ad2f69a3ef90d3d43926305c5dc770589b5fa61620"/>
+	</game>
+	<game name="LIVE HOUR 70's Rock&amp;Pops Selection Vol. 5 (World)" id="0007">
+		<description>LIVE HOUR 70's Rock&amp;Pops Selection Vol. 5 (World)</description>
+		<rom name="LIVE HOUR 70's Rock&amp;Pops Selection Vol. 5 (World).bin" size="2097152" crc="48f91d8d" md5="c0e24011145d3e22deb67bbf629d8fd7" sha1="67afcdeb4ed4d61c1d4f684c6ed8b92ea95a3d09" sha256="d5ac805475c32eb9fb0d80c8702ad65ef9ef6661f0c46e2b74f217880d120830"/>
+	</game>
+	<game name="LIVE HOUR Ballad Selection Vol. 3 (World)" id="0020">
+		<description>LIVE HOUR Ballad Selection Vol. 3 (World)</description>
+		<rom name="LIVE HOUR Ballad Selection Vol. 3 (World).bin" size="2097152" crc="19893f63" md5="7cb3da4e082a8550578a9e83f203e6bf" sha1="08d33aac1ad425da0d5a0bf89b9a3e86d9a5cb3d" sha256="e244cbe19314478785845d4607f92fde2556786f0e97fe2c31b534e2cb42c427"/>
+	</game>
+	<game name="LIVE HOUR BASIC Selection (World)" id="0002">
+		<description>LIVE HOUR BASIC Selection (World)</description>
+		<rom name="LIVE HOUR BASIC Selection (World).bin" size="2097152" crc="12265d02" md5="c822f24866606d1d975ba7411e0aa4a6" sha1="aed6e72cda1ee46333698f11e72ea24e6e09f0d2" sha256="14c3e667f869ee9fe7d54722f51254a55a689a232c313c5f52d9ab18ca03efde"/>
+	</game>
+	<game name="LIVE HOUR BigBand Selection Vol. 10 (World)" id="0023">
+		<description>LIVE HOUR BigBand Selection Vol. 10 (World)</description>
+		<rom name="LIVE HOUR BigBand Selection Vol. 10 (World).bin" size="2097152" crc="b367bf2a" md5="6e8538df42f15bf703a984f6477e2e21" sha1="81ed0c61a6e4eae4505a29afe8c9b5817c776ed7" sha256="b19c036d779e53061d4893326b1b30411a0e65c0ee19f109825bbd84b7779522"/>
+	</game>
+	<game name="LIVE HOUR BossaNova Selection Vol. 4 (World)" id="0021">
+		<description>LIVE HOUR BossaNova Selection Vol. 4 (World)</description>
+		<rom name="LIVE HOUR BossaNova Selection Vol. 4 (World).bin" size="2097152" crc="b3f4e6e2" md5="e17c7d7fd2c3c405b5a92f4c0e4df38a" sha1="74c572aeab9627c3fccf4f7b144aa0fd484744b2" sha256="6566ed46e1a182226ec13b8dda2b679ea91cb90b7a9bfa7cf566b9b2d48fb409"/>
+	</game>
+	<game name="LIVE HOUR Cinema Selection Camel Package Vol. 7 (World)" id="0022">
+		<description>LIVE HOUR Cinema Selection Camel Package Vol. 7 (World)</description>
+		<rom name="LIVE HOUR Cinema Selection Camel Package Vol. 7 (World).bin" size="2097152" crc="e187f912" md5="2f996ccfe31571503897720b09039cd8" sha1="f3a32cc19df6f81cc66e11420564d79ab3106ac2" sha256="c4aa7390b929e1a3d19b2ddad7afd7fe61c547be2f44335cc53d4567a6e38c85"/>
+	</game>
+	<game name="LIVE HOUR Cinema Selection Navy Package Vol. 6 (World)" id="0008">
+		<description>LIVE HOUR Cinema Selection Navy Package Vol. 6 (World)</description>
+		<rom name="LIVE HOUR Cinema Selection Navy Package Vol. 6 (World).bin" size="2097152" crc="707ff9f3" md5="1dbb52f608a0e9ee63ba8ef9d9f391d7" sha1="f65db0d11d74d942081536f28b5f3b7530ff7e64" sha256="c02bcb4fb2d3c6b8c0e05a419aae632fadadd8c0e77d7abf002d440c1452b18e"/>
+	</game>
+	<game name="LIVE HOUR Cinema Selection Olive Package Vol. 8 (World)" id="0009">
+		<description>LIVE HOUR Cinema Selection Olive Package Vol. 8 (World)</description>
+		<rom name="LIVE HOUR Cinema Selection Olive Package Vol. 8 (World).bin" size="2097152" crc="e815a045" md5="2e47ceadc1dc1b83f777b8b25fd5da1c" sha1="f6887398925327432b60baa533d7bcba170edde6" sha256="a7dfeb81c72b8fe3ad26b505f0d4912f7ef05ff37f2e5b9a4e2bc30fbbe54b37"/>
+	</game>
+	<game name="LIVE HOUR High Note Selection (World)" id="0003">
+		<description>LIVE HOUR High Note Selection (World)</description>
+		<rom name="LIVE HOUR High Note Selection (World).bin" size="2097152" crc="03477436" md5="31356c68538e67112bb11507a388c846" sha1="124c36df703723608726e6aaa435f6a3909cff69" sha256="5dc5671c3d96f4da7e709896d1754de740fd116869da0df101f333e5d178d4ba" status="verified"/>
+	</game>
+	<game name="LIVE HOUR Latin Selection (World)" id="0014">
+		<description>LIVE HOUR Latin Selection (World)</description>
+		<rom name="LIVE HOUR Latin Selection (World).bin" size="2097152" crc="00313e41" md5="cfbbc4ad2e37ad67d398ef52789d6c02" sha1="f952fdc5699918a701f8a220eceea9bdba1ed5a3" sha256="0431e020efe8ff66a2d312303ba1fc71010584a6f2c92575d3038f5dd53f462f"/>
+	</game>
+	<game name="LIVE HOUR Lighted Nights Selection (World)" id="0015">
+		<description>LIVE HOUR Lighted Nights Selection (World)</description>
+		<rom name="LIVE HOUR Lighted Nights Selection (World).bin" size="2097152" crc="c500031f" md5="da0823715c73357bf8e167537fae2a59" sha1="2becb723eed1c669aa84beda6c637598303168b2" sha256="addf64a3ecfa574ee2b4d37a415aa03f82e4743f66d7d275743aa758de713bbf"/>
+	</game>
+	<game name="LIVE HOUR Little Jammer Selection (World)" id="0004">
+		<description>LIVE HOUR Little Jammer Selection (World)</description>
+		<rom name="LIVE HOUR Little Jammer Selection (World).bin" size="2097152" crc="2c2d350d" md5="e98481e72bce0460d7cb4a684d18b82a" sha1="69f76f5769b6c9d88477c87a0c7510b09f7e2897" sha256="ee7f5f64dedd06c9919a618242121dddbbe6a71186d435bc574db64ec3246b11"/>
+	</game>
+	<game name="LIVE HOUR LITTLE JAMMER SELECTION-1 (World)" id="0013">
+		<description>LIVE HOUR LITTLE JAMMER SELECTION-1 (World)</description>
+		<rom name="LIVE HOUR LITTLE JAMMER SELECTION-1 (World).bin" size="2097152" crc="2972e8d1" md5="ad1de63ae229415fdb339e66ea0b6fa6" sha1="883fc323c7a01e1697d080e49ed99134948e7c42" sha256="4a0ca6294b3235ad788f8182fdfd08e638560473ce23ff85f2d8a323b48caf17"/>
+	</game>
+	<game name="LIVE HOUR Owner's Club Selection (World)" id="0018">
+		<description>LIVE HOUR Owner's Club Selection (World)</description>
+		<rom name="LIVE HOUR Owner's Club Selection (World).bin" size="2097152" crc="a4cbd123" md5="7388b5163f55940a899241c45ec03017" sha1="872cb3ca3be7db7bef506a112af51269b8ff8223" sha256="a04c2e4738c045dda7cb2fb686264a188363d0403b0729ffe1d076c18296f167"/>
+	</game>
+	<game name="LIVE HOUR Owner's Club Selection3 Jazz Ballad (World)" id="0019">
+		<description>LIVE HOUR Owner's Club Selection3 Jazz Ballad (World)</description>
+		<rom name="LIVE HOUR Owner's Club Selection3 Jazz Ballad (World).bin" size="2097152" crc="dc4f1dbd" md5="9e9decce3924c0e0bcb540dd6809d804" sha1="c8311868da0aef80559b61dcb4eec33ebfb14c4f" sha256="b6afe3f2112869cb5076d071ba01dffa2ab0c924b065d728f2b499184210e0de"/>
+	</game>
+	<game name="LIVE HOUR Owner's Club Welcome Selection (World)" id="0017">
+		<description>LIVE HOUR Owner's Club Welcome Selection (World)</description>
+		<rom name="LIVE HOUR Owner's Club Welcome Selection (World).bin" size="1048576" crc="70edb6b4" md5="3f8c0585397e43c4a586cadd657794c0" sha1="8703db7d4aad72e0e8aafecd3abc42a4303508a9" sha256="410bd617dd2e2c7c5c7ea8a60030d3e4c84a04fbe6dee21cd20838e2e912a5f7"/>
+	</game>
+	<game name="LIVE HOUR Relaxing Selection Vol. 2 (World)" id="0006">
+		<description>LIVE HOUR Relaxing Selection Vol. 2 (World)</description>
+		<rom name="LIVE HOUR Relaxing Selection Vol. 2 (World).bin" size="2097152" crc="520cee65" md5="44d7193f9a2e63dc84107dcc26566b81" sha1="fd4c5c852f5cb8663a2dff5d3fcfb75fd7e6eaa1" sha256="2ceeeb80d04f2e2a4c987717b8d30dfdd174a162ae9c00c616fc8a3bf83b837d" status="verified"/>
+	</game>
+	<game name="LIVE HOUR Standard Selection Vol.1 (World)" id="0005">
+		<description>LIVE HOUR Standard Selection Vol.1 (World)</description>
+		<rom name="LIVE HOUR Standard Selection Vol.1 (World).bin" size="2097152" crc="577d3806" md5="8404cfa9a83097dcc2892efd52d87fdf" sha1="675e6313e5218c6301aac2acb6856590981fd982" sha256="a971a7dca0941304318ceeffeedb02a2756c4619799ff987446b44e4d613c639" status="verified"/>
+	</game>
+	<game name="LIVE HOUR SwingJournal Selection (World)" id="0016">
+		<description>LIVE HOUR SwingJournal Selection (World)</description>
+		<rom name="LIVE HOUR SwingJournal Selection (World).bin" size="2097152" crc="0a1da17a" md5="48aecf3e4a9034c40ebdc05c2c47eaf6" sha1="119cb9349234ded8de5c82c9f199ea85ec13d49a" sha256="919223b01459ab9a993cbdd0da5e491011e25e473c3856d9d74783510b57dafd"/>
+	</game>
+</datafile>

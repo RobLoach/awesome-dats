@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Games - [BIN]</name>
+		<description>Sony PlayStation - Games - [BIN] (TOSEC-v2023-08-29)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-08-29</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="007 Racing (2000)(Electronic Arts)(US)[cr PDX][t +6 PDX][SLUS-01300]">
+		<description>007 Racing (2000)(Electronic Arts)(US)[cr PDX][t +6 PDX][SLUS-01300]</description>
+		<rom name="007 Racing (2000)(Electronic Arts)(US)[cr PDX][t +6 PDX][SLUS-01300].bin" size="565011552" crc="06cba6c0" md5="8e2d29b82648fc2037c6447c401be9dd" sha1="0678850cdb36a06b06833861a19429b43e18852c"/>
+		<rom name="007 Racing (2000)(Electronic Arts)(US)[cr PDX][t +6 PDX][SLUS-01300].cue" size="134" crc="8dc7ab03" md5="db1798e061dbb9cf393eb1c6aa2ba9ca" sha1="7a9953fd1175b0a1795e30fb02aa49ccaaa3fab3"/>
+	</game>
+	<game name="3, 2, 1, Smurf! My First Racing Game (2000)(Infogrames)(M6)[h STC][SLES-03120]">
+		<description>3, 2, 1, Smurf! My First Racing Game (2000)(Infogrames)(M6)[h STC][SLES-03120]</description>
+		<rom name="3, 2, 1, Smurf! My First Racing Game (2000)(Infogrames)(M6)[h STC][SLES-03120].bin" size="250916064" crc="d45572e7" md5="5361b324d905682b75477e988cdc457c" sha1="0edc3b38a23a1a7e2668aabc236384166ca367a3"/>
+		<rom name="3, 2, 1, Smurf! My First Racing Game (2000)(Infogrames)(M6)[h STC][SLES-03120].cue" size="144" crc="94fcd678" md5="33fe3a618cc4306d9698c16c8c2e4b36" sha1="17b980e5a0b9dfc319c0a1fa0dd1549589acca0a"/>
+	</game>
+	<game name="4x4 World Trophy (1999)(Infogrames)(M5)[cr PDX][t +7 PDX][SLES-02017]">
+		<description>4x4 World Trophy (1999)(Infogrames)(M5)[cr PDX][t +7 PDX][SLES-02017]</description>
+		<rom name="4x4 World Trophy (1999)(Infogrames)(M5)[cr PDX][t +7 PDX][SLES-02017].bin" size="510800304" crc="3c9f1050" md5="c7d832274adee90a4bad8fef778eb071" sha1="76ecb73bc5b32f86297e9b9e4a84996aad112524"/>
+		<rom name="4x4 World Trophy (1999)(Infogrames)(M5)[cr PDX][t +7 PDX][SLES-02017].cue" size="135" crc="df29997d" md5="24891378beb46c44852bcb63769f8e1b" sha1="67207b0196d3e8e379a910e33482032e66f13047"/>
+	</game>
+	<game name="Ape Escape (1999)(SCEE)(GB)[cr PDX][SCES-01564]">
+		<description>Ape Escape (1999)(SCEE)(GB)[cr PDX][SCES-01564]</description>
+		<rom name="Ape Escape (1999)(SCEE)(GB)[cr PDX][SCES-01564].bin" size="427198464" crc="72b14bac" md5="5bb013cd6f9c29125749f6bb3d70d6cd" sha1="f96a42a46630ee2e431db087a9d79dfc3a5b2400"/>
+		<rom name="Ape Escape (1999)(SCEE)(GB)[cr PDX][SCES-01564].cue" size="113" crc="c1a6c9d6" md5="c59fccd4783857d563ea4053e895b05c" sha1="fbd8a8b6054ffa2a114be46d64eafac2fbd37caf"/>
+	</game>
+	<game name="Block Wars (2001)(Pony Canyon)(JP)[h LFC][SLPS-03219]">
+		<description>Block Wars (2001)(Pony Canyon)(JP)[h LFC][SLPS-03219]</description>
+		<rom name="Block Wars (2001)(Pony Canyon)(JP)[h LFC][SLPS-03219].bin" size="259787808" crc="bf932008" md5="0b35a74f0b7de134ed29e13451140955" sha1="c4a08fd9302ae7b595e34afaf33ca36839694311"/>
+		<rom name="Block Wars (2001)(Pony Canyon)(JP)[h LFC][SLPS-03219].cue" size="119" crc="e1509536" md5="d408c67a784046fc94cb82fd99c26735" sha1="64e1c01a72c5b80a5c7ef2e02de2fc85ace0dd1f"/>
+	</game>
+	<game name="Disney's 102 Dalmatians - Puppies to the Rescue (2000)(Eidos)(M5)[cr PDX][SLES-03191]">
+		<description>Disney's 102 Dalmatians - Puppies to the Rescue (2000)(Eidos)(M5)[cr PDX][SLES-03191]</description>
+		<rom name="Disney's 102 Dalmatians - Puppies to the Rescue (2000)(Eidos)(M5)[cr PDX][SLES-03191].bin" size="510120576" crc="1e2a4227" md5="a4c2663990f522d8e04bccb89bdcab9a" sha1="17f24a29e7449a5d238e2a51e6618376fa95e69e"/>
+		<rom name="Disney's 102 Dalmatians - Puppies to the Rescue (2000)(Eidos)(M5)[cr PDX][SLES-03191].cue" size="151" crc="2485a323" md5="7908cb78c9df410f4cb7eefdff85423a" sha1="849c4c3515e857e44013ec24754be248fd7827f2"/>
+	</game>
+	<game name="Kula World Custom Edition v0.01 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.01 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.01 (2023)(VoltinSportage)[h Kula World].bin" size="255114384" crc="b201cee8" md5="cbd5a52496f501a2dc7838ec18a3982a" sha1="9c86c66daab573692ed2e60313e12f87d5bba715"/>
+		<rom name="Kula World Custom Edition v0.01 (2023)(VoltinSportage)[h Kula World].cue" size="134" crc="4860732c" md5="1355ce69366ea17c4c6e27fe11c29c3d" sha1="3de7e791b693c32f58dcfe7a46fc5121a3728ff2"/>
+	</game>
+	<game name="Kula World Custom Edition v0.02 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.02 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.02 (2023)(VoltinSportage)[h Kula World].bin" size="255114384" crc="6685a7be" md5="00a5db9cb72d3ebef8dc8df391b95a12" sha1="7f2e32d7ce29ecd75289eca444688d3579a0cf9b"/>
+		<rom name="Kula World Custom Edition v0.02 (2023)(VoltinSportage)[h Kula World].cue" size="134" crc="f72eccd5" md5="732d1bdc278463c72c6f150150b85ec1" sha1="6e591daaf3bc0a73d52b598244ea132fb4ae6a01"/>
+	</game>
+	<game name="Kula World Custom Edition v0.03 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.03 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.03 (2023)(VoltinSportage)[h Kula World].bin" size="255116736" crc="a32dff30" md5="b9452fffea3d3b74612d8213f279583f" sha1="574cbde75b5400fe6adaad1d45f6530f37c7ebee"/>
+		<rom name="Kula World Custom Edition v0.03 (2023)(VoltinSportage)[h Kula World].cue" size="134" crc="9deb5982" md5="ed674db211e34cdceda3792152e4c4a0" sha1="c4fba8eca48f0fd388a5adafd7f8a20d328daa73"/>
+	</game>
+	<game name="Kula World Custom Edition v0.04 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.04 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.04 (2023)(VoltinSportage)[h Kula World].bin" size="255116736" crc="7ddc3248" md5="057f8cfd76710d4dec91b9b0e17a6df7" sha1="79ae837eeb487913574f7b699604881d2b7728dd"/>
+		<rom name="Kula World Custom Edition v0.04 (2023)(VoltinSportage)[h Kula World].cue" size="134" crc="52c2b566" md5="dae4602b627fe472335c1cf2d2d1ebc4" sha1="1069be8fded3ace1530c80020af7025cb0dd3784"/>
+	</game>
+	<game name="Kula World Custom Edition v0.05 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.05 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.05 (2023)(VoltinSportage)[h Kula World].bin" size="255119088" crc="f7ad8a40" md5="c6034fa98a2d60b07e1b859224231991" sha1="87f6cd34fa3ea26014142183fce6f829473f4df8"/>
+		<rom name="Kula World Custom Edition v0.05 (2023)(VoltinSportage)[h Kula World].cue" size="134" crc="38072031" md5="81ecb0797ce7d2270ab449bc1159db48" sha1="3b3d921e31228d05f3d980b42b47b98c2fb2080b"/>
+	</game>
+	<game name="Kula World Custom Edition v0.06 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.06 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.06 (2023)(VoltinSportage)[h Kula World].bin" size="255121440" crc="4a4c069b" md5="24a7834b47bbdcf9dbcac4578d28980f" sha1="bd39a673bf05d8f5aa1229cc0903c0a896d5cefc"/>
+		<rom name="Kula World Custom Edition v0.06 (2023)(VoltinSportage)[h Kula World].cue" size="134" crc="87499fc8" md5="17065c9e8dbc67a1792ad54c735e152c" sha1="6484ec289e002618fe87f2f5de78b13002d73d62"/>
+	</game>
+	<game name="Kula World Custom Edition v0.07 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.07 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.07 (2023)(VoltinSportage)[h Kula World].bin" size="255123792" crc="a4cd7e6a" md5="263eea6788c41adaed6679d5233c8954" sha1="ebf7ef3a52ee7e875841de319f9d5821ab825340"/>
+		<rom name="Kula World Custom Edition v0.07 (2023)(VoltinSportage)[h Kula World].cue" size="134" crc="ed8c0a9f" md5="3605e69e7d2f60b8ae9fab0d17c6c5ac" sha1="16d8b9e941be2f6b22f7d10642866b99e4daf88c"/>
+	</game>
+	<game name="Kula World Custom Edition v0.07.2 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.07.2 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.07.2 (2023)(VoltinSportage)[h Kula World].bin" size="255126144" crc="5d142228" md5="aecf4069a321713f1591efeb53da3bed" sha1="678807bdaa09e3b4881d11fd50e7107f5a2f5aaa"/>
+		<rom name="Kula World Custom Edition v0.07.2 (2023)(VoltinSportage)[h Kula World].cue" size="136" crc="dc129b06" md5="460fd225f5cd484d761e0f82da2abd6e" sha1="e4f8a11acd0d3e7927832b6580cde7c63ed4d9a8"/>
+	</game>
+	<game name="Kula World Custom Edition v0.08 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.08 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.08 (2023)(VoltinSportage)[h Kula World].bin" size="255126144" crc="41426887" md5="34d92450b0927e00b5faa6940d9a9c57" sha1="de4a9aa1b20cd0c048aeaf2f876cab9bd541a910"/>
+		<rom name="Kula World Custom Edition v0.08 (2023)(VoltinSportage)[h Kula World].cue" size="134" crc="c26b4041" md5="9c6338d858f138ceffe402396e16aa39" sha1="3a8e4169a256acc80a435cbbad4eb7168e0f7bf9"/>
+	</game>
+	<game name="Kula World Custom Edition v0.1 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.1 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.1 (2023)(VoltinSportage)[h Kula World].bin" size="255126144" crc="7289bc20" md5="6a173b33b898c4396106af99eb33b6bd" sha1="1197dbb51d14267454d035f8a746db2d7c795e04"/>
+		<rom name="Kula World Custom Edition v0.1 (2023)(VoltinSportage)[h Kula World].cue" size="133" crc="5e1be8f6" md5="2b50443eb1c29a97044056ae7190276e" sha1="12a4a26c209a63f69123eecd7dd094e703a5aaa6"/>
+	</game>
+	<game name="Kula World Custom Edition v0.1.1 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.1.1 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.1.1 (2023)(VoltinSportage)[h Kula World].bin" size="255126144" crc="0318e21a" md5="55efb92d5bb0c6a6600118342d071184" sha1="9894a007bd5d35e5ff1e75586d99c545729cdadb"/>
+		<rom name="Kula World Custom Edition v0.1.1 (2023)(VoltinSportage)[h Kula World].cue" size="135" crc="9967c4d2" md5="72a89ec195938a2494f18c24ebd53b59" sha1="6bdac5fb44ee5bdfb941047a7a1636f6aedcf98d"/>
+	</game>
+	<game name="Kula World Custom Edition v0.1.2 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.1.2 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.1.2 (2023)(VoltinSportage)[h Kula World].bin" size="255126144" crc="a3b0899d" md5="65741237122db984c99e3865206cc038" sha1="172eefb0d51cd411639ab811dc9b2fd6f5cbb541"/>
+		<rom name="Kula World Custom Edition v0.1.2 (2023)(VoltinSportage)[h Kula World].cue" size="135" crc="26297b2b" md5="35a7849205607a52732e2499554dc743" sha1="6a3b446e26efb6a61775dd95bbb8cc3983ea0b0b"/>
+	</game>
+	<game name="Kula World Custom Edition v0.1.3 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.1.3 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.1.3 (2023)(VoltinSportage)[h Kula World].bin" size="255126144" crc="c8bff8fe" md5="919a3ee28dfe4ee85ba9d7357168ad1d" sha1="04e2cbd1821be1788062e7794e64fd81bdf78cb1"/>
+		<rom name="Kula World Custom Edition v0.1.3 (2023)(VoltinSportage)[h Kula World].cue" size="135" crc="4cecee7c" md5="6f4d4eb712b9baf0063e3d121f20429b" sha1="f64546aded7c50ee6e48db427ce3bbdb5926d22a"/>
+	</game>
+	<game name="Kula World Custom Edition v0.2 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.2 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.2 (2023)(VoltinSportage)[h Kula World].bin" size="255128496" crc="cb3f5973" md5="7f54912b25e3d6a15faa3c90db185a1b" sha1="14a2f06e0b67073d612b3922507fd69b37a92d5f"/>
+		<rom name="Kula World Custom Edition v0.2 (2023)(VoltinSportage)[h Kula World].cue" size="133" crc="e155570f" md5="98939d23c7b7f8cd81eaa3a93f79bb9d" sha1="d1120a844b72e97b13129004710eeb2db88e2b24"/>
+	</game>
+	<game name="Kula World Custom Edition v0.2.1 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.2.1 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.2.1 (2023)(VoltinSportage)[h Kula World].bin" size="255128496" crc="1413971c" md5="8dc356617bd669104347b54dd34e5aa3" sha1="3e37210c3dcd6878aca130e671d526131329ce3c"/>
+		<rom name="Kula World Custom Edition v0.2.1 (2023)(VoltinSportage)[h Kula World].cue" size="135" crc="07c78f75" md5="99cf0d93264f33167d7323443285a6ec" sha1="1339173123d8a497524f7eba24eda18b5c499049"/>
+	</game>
+	<game name="Kula World Custom Edition v0.2.2 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.2.2 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.2.2 (2023)(VoltinSportage)[h Kula World].bin" size="255128496" crc="df8a2f4f" md5="2d11c66ac5ee4456e2956d1c12d6399e" sha1="f171b61ecf029ec60380176da6dfab9c76d06867"/>
+		<rom name="Kula World Custom Edition v0.2.2 (2023)(VoltinSportage)[h Kula World].cue" size="135" crc="b889308c" md5="3b0e79b12fe548e0fca8860e1b11664d" sha1="f297cfacc4d2a39dd0e720edd9d8f224e25f33a9"/>
+	</game>
+	<game name="Kula World Custom Edition v0.2.3 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.2.3 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.2.3 (2023)(VoltinSportage)[h Kula World].bin" size="255128496" crc="ddb4cbee" md5="25b00c80f965b30657b9ecaa319082a2" sha1="183c7c3c4063e30f464d0aa74e5780762baeb595"/>
+		<rom name="Kula World Custom Edition v0.2.3 (2023)(VoltinSportage)[h Kula World].cue" size="135" crc="d24ca5db" md5="0346860b47f7e923fce6b1e876cad624" sha1="f9764f54add801040560853afd991a5a1301307a"/>
+	</game>
+	<game name="Kula World Custom Edition v0.2.4 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.2.4 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.2.4 (2023)(VoltinSportage)[h Kula World].bin" size="255128496" crc="d6ea8c7a" md5="44a50ddc311afd3d0ad4615bb12ef39d" sha1="211be689967cff08c897ca433208cef15a13d9af"/>
+		<rom name="Kula World Custom Edition v0.2.4 (2023)(VoltinSportage)[h Kula World].cue" size="135" crc="1d65493f" md5="94e8c4c7def7ccfc57ad397b371ab601" sha1="0aef1e5e7d405095fb1255c3fc9feba6e302ad24"/>
+	</game>
+	<game name="Kula World Custom Edition v0.2.5 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.2.5 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.2.5 (2023)(VoltinSportage)[h Kula World].bin" size="255128496" crc="5998527e" md5="52f992a979c708d52789719b9844d43e" sha1="a7e3c41bbbde56744f57f12d8e1b5aab5d0e91dd"/>
+		<rom name="Kula World Custom Edition v0.2.5 (2023)(VoltinSportage)[h Kula World].cue" size="135" crc="77a0dc68" md5="d1a1e064edc7053d042894ec3eee68ed" sha1="4b85f4d0d68243e82c881ead98851a07dab6946e"/>
+	</game>
+	<game name="Kula World Custom Edition v0.3 (2023)(VoltinSportage)[h Kula World]">
+		<description>Kula World Custom Edition v0.3 (2023)(VoltinSportage)[h Kula World]</description>
+		<rom name="Kula World Custom Edition v0.3 (2023)(VoltinSportage)[h Kula World].bin" size="255116736" crc="1f2ae29d" md5="54906ace4fe403c9e5bce94f51beecbb" sha1="a593c067c66287406c82199f6d6eb317e96d3b5b"/>
+		<rom name="Kula World Custom Edition v0.3 (2023)(VoltinSportage)[h Kula World].cue" size="133" crc="8b90c258" md5="d3d73bb0a366b5852c320522e090c0d9" sha1="b820c6bae593f7e580606b3cf6271d518b320d8d"/>
+	</game>
+	<game name="Mr. Driller G (2001)(Namco)(JP)[h PDX][SLPS-03336]">
+		<description>Mr. Driller G (2001)(Namco)(JP)[h PDX][SLPS-03336]</description>
+		<rom name="Mr. Driller G (2001)(Namco)(JP)[h PDX][SLPS-03336].bin" size="642429984" crc="69f56354" md5="e51e224534ae172b721c93cfc7438872" sha1="66f6dec677b7358fdb70b88945f60b3da8241215"/>
+		<rom name="Mr. Driller G (2001)(Namco)(JP)[h PDX][SLPS-03336].cue" size="116" crc="dee6065f" md5="f9d94c3dce589f5a6fa952863f9ba957" sha1="905e3091985c24aad67fc34924b168104f998fe4"/>
+	</game>
+	<game name="RC Revenge (2000)(Acclaim)(US)[h BAD][SLUS-01168]">
+		<description>RC Revenge (2000)(Acclaim)(US)[h BAD][SLUS-01168]</description>
+		<rom name="RC Revenge (2000)(Acclaim)(US)[h BAD][SLUS-01168].bin" size="515866512" crc="7298ae83" md5="ea2f0048daa311321dbd837797391493" sha1="ea43ce13603dfd5cfd592b31372b3fd7f35fd38e"/>
+		<rom name="RC Revenge (2000)(Acclaim)(US)[h BAD][SLUS-01168].cue" size="177" crc="4d33bcf9" md5="0a3df740c309d7f7e0b00b54ad57dd30" sha1="6f50a680707f4f0528620d86d05557431548e03c"/>
+	</game>
+	<game name="Sydney 2000 (1999)(Eidos)(US)[cr PDX][SLUS-01177]">
+		<description>Sydney 2000 (1999)(Eidos)(US)[cr PDX][SLUS-01177]</description>
+		<rom name="Sydney 2000 (1999)(Eidos)(US)[cr PDX][SLUS-01177].bin" size="582072960" crc="5cb01cd8" md5="fce0ed476aab2e2b38b496def48b9363" sha1="77e56c34db63d527766249fc0cce675fec8bfcda"/>
+		<rom name="Sydney 2000 (1999)(Eidos)(US)[cr PDX][SLUS-01177].cue" size="625" crc="64e2d59a" md5="2c6779ffcd287bb8d3b2c561e21ecb65" sha1="44a79de7a2ab4d37da1308af6b4959e7526ac619"/>
+	</game>
+	<game name="V-Rally Championship Edition 2 (1999)(Infogrames)(M3)[cr PDX][SLES-01907]">
+		<description>V-Rally Championship Edition 2 (1999)(Infogrames)(M3)[cr PDX][SLES-01907]</description>
+		<rom name="V-Rally Championship Edition 2 (1999)(Infogrames)(M3)[cr PDX][SLES-01907].bin" size="701552208" crc="a012fcfb" md5="06d6f806a03a1c6777ba84bb147fc91d" sha1="98059c012f6241eaa63ee7fb085c39f4fa95c9f9"/>
+		<rom name="V-Rally Championship Edition 2 (1999)(Infogrames)(M3)[cr PDX][SLES-01907].cue" size="585" crc="1b9a3f46" md5="8fb9adde9e2e7334eff4282e421c9401" sha1="fea1652e397d7aa19761e9cd718844ea999248de"/>
+	</game>
+</datafile>

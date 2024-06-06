@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - DVD - Games</name>
+		<description>IBM PC Compatibles - DVD - Games (TOSEC-v2024-03-17)</description>
+		<category>TOSEC-ISO</category>
+		<version>2024-03-17</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="1+1 - Blades of Time &amp; Gemini Wars (2011)(Alawar Entertainment)(AU)">
+		<description>1+1 - Blades of Time &amp; Gemini Wars (2011)(Alawar Entertainment)(AU)</description>
+		<rom name="1+1 - Blades of Time &amp; Gemini Wars (2011)(Alawar Entertainment)(AU).iso" size="4260888576" crc="62bbff6d" md5="a69faff6f2041d90ba62a6f48f98e168" sha1="cf8bc860030f98f01b3944f3ed5e9217fe1641cf"/>
+	</game>
+	<game name="Age of Empires - Collector's Edition (2007)(Microsoft)(M4)[!]">
+		<description>Age of Empires - Collector's Edition (2007)(Microsoft)(M4)[!]</description>
+		<rom name="Age of Empires - Collector's Edition (2007)(Microsoft)(M4)[!].iso" size="5473206272" crc="30db1a23" md5="d2ffc3b760064cadf7500d39067f665f" sha1="8c09cbc6ea616d3e22b999a24cc093faa0b8f2fe"/>
+	</game>
+	<game name="Assassin's Creed - Brotherhood (2010)(Ubisoft)(M11)">
+		<description>Assassin's Creed - Brotherhood (2010)(Ubisoft)(M11)</description>
+		<rom name="Assassin's Creed - Brotherhood (2010)(Ubisoft)(M11).iso" size="8351252480" crc="139aa874" md5="7a57b3f42ffd543d6e104f508e72a07b" sha1="fbf0e5fe6dd304eb716a265feab1abe42a833a92"/>
+	</game>
+	<game name="Assassin's Creed - Revelations (2011)(Ubisoft)(M11)">
+		<description>Assassin's Creed - Revelations (2011)(Ubisoft)(M11)</description>
+		<rom name="Assassin's Creed - Revelations (2011)(Ubisoft)(M11).iso" size="8525873152" crc="2c300844" md5="ab8f81463d5340cd6372883bb8e73ae3" sha1="7e10f7abd281e0f6a2dcf835f44a5d5288f2fd3a"/>
+	</game>
+	<game name="Assassins Creed Revelations (2011)(Ubisoft)(M12)">
+		<description>Assassins Creed Revelations (2011)(Ubisoft)(M12)</description>
+		<rom name="Assassins Creed Revelations (2011)(Ubisoft)(M12).iso" size="8525873152" crc="2c300844" md5="ab8f81463d5340cd6372883bb8e73ae3" sha1="7e10f7abd281e0f6a2dcf835f44a5d5288f2fd3a"/>
+	</game>
+	<game name="Battlefield 2 (2005)(Electronic Arts)(M13)[!]">
+		<description>Battlefield 2 (2005)(Electronic Arts)(M13)[!]</description>
+		<rom name="Battlefield 2 (2005)(Electronic Arts)(M13)[!].iso" size="2209710080" crc="555d457b" md5="813f2b33eb91c84be6f301381dbc52f1" sha1="c9745f0b97b7012d35d1dcc665dd643e9b39e14d"/>
+	</game>
+	<game name="BioShock Infinite (2005)(2K Games)(M7)(Disc 1 of 3)">
+		<description>BioShock Infinite (2005)(2K Games)(M7)(Disc 1 of 3)</description>
+		<rom name="BioShock Infinite (2005)(2K Games)(M7)(Disc 1 of 3).iso" size="8513781760" crc="7a02ccf4" md5="74e40f37ff11d038487c427e0b6819d6" sha1="5d19b0d318aa923cd557d288be41fc5257abf4af"/>
+	</game>
+	<game name="BioShock Infinite (2005)(2K Games)(M7)(Disc 2 of 3)">
+		<description>BioShock Infinite (2005)(2K Games)(M7)(Disc 2 of 3)</description>
+		<rom name="BioShock Infinite (2005)(2K Games)(M7)(Disc 2 of 3).iso" size="8440578048" crc="a6117070" md5="60744b149b884ac30bf29ce31d699fd8" sha1="b5e7deba792e490db46605897147f1a228404620"/>
+	</game>
+	<game name="BioShock Infinite (2005)(2K Games)(M7)(Disc 3 of 3)">
+		<description>BioShock Infinite (2005)(2K Games)(M7)(Disc 3 of 3)</description>
+		<rom name="BioShock Infinite (2005)(2K Games)(M7)(Disc 3 of 3).iso" size="808583168" crc="655242fb" md5="4d50751b3366303ed914effc04a4800a" sha1="8c7b9f5e26874a62accb710227de77dacb3ef509"/>
+	</game>
+	<game name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB)">
+		<description>Book of Unwritten Tales, The v2 (2011)(King Art)(GB)</description>
+		<rom name="Book of Unwritten Tales, The v2 (2011)(King Art)(GB).iso" size="4019716096" crc="04148192" md5="756183d3c34c1ce97d1d0612cbb3294d" sha1="7f830c78963f86d0093819e12653605d8c4305d7"/>
+	</game>
+	<game name="Borderlands 2 (2012)(2K Games)(AU)">
+		<description>Borderlands 2 (2012)(2K Games)(AU)</description>
+		<rom name="Borderlands 2 (2012)(2K Games)(AU).iso" size="7558725632" crc="8af830c4" md5="45c2c143ffca80489268a29c25111671" sha1="005914bc65665ec420c0eb3255bfb8200ae6e19c"/>
+	</game>
+	<game name="Botanicula (2012)(Amanita Design)(GB)[PC-Mac]">
+		<description>Botanicula (2012)(Amanita Design)(GB)[PC-Mac]</description>
+		<rom name="Botanicula (2012)(Amanita Design)(GB)[PC-Mac].iso" size="2128281600" crc="d0f9b56e" md5="1c0bbf21b7bfd34738701f7e1b8bc2f6" sha1="b7fd6a7d04db1b2894443c1fcedaa04550c83019"/>
+	</game>
+	<game name="Call of Duty 4 - Modern Warfare (2007)(Activision)(AU)">
+		<description>Call of Duty 4 - Modern Warfare (2007)(Activision)(AU)</description>
+		<rom name="Call of Duty 4 - Modern Warfare (2007)(Activision)(AU).iso" size="6783598592" crc="de1ad1c3" md5="43c6595d2b87b7f8f60c9db394437b0c" sha1="0219cd817bed21379c33ca453cd126d66b530c1c"/>
+	</game>
+	<game name="Chaos on Deponia (2013)(Merge Games)(AU)">
+		<description>Chaos on Deponia (2013)(Merge Games)(AU)</description>
+		<rom name="Chaos on Deponia (2013)(Merge Games)(AU).iso" size="4958879744" crc="270b4eda" md5="f7fd96bde9db3b821dcb890b0f0fbe71" sha1="a0b6bb2e8c371384c473c4b39860015d12ea5c20"/>
+	</game>
+	<game name="Company of Heroes Game of the Year Edition (2006)(THQ)(M12)">
+		<description>Company of Heroes Game of the Year Edition (2006)(THQ)(M12)</description>
+		<rom name="Company of Heroes Game of the Year Edition (2006)(THQ)(M12).iso" size="5924126720" crc="d226e903" md5="f650a099e52cc71891a98e3761d71042" sha1="3061e02940a495727fba45475710dc7f525aae57"/>
+	</game>
+	<game name="Conflict Vietnam (2004)(SCI Games)(AU)">
+		<description>Conflict Vietnam (2004)(SCI Games)(AU)</description>
+		<rom name="Conflict Vietnam (2004)(SCI Games)(AU).iso" size="1746436096" crc="e67f7e56" md5="e436c61fa70c45cae8c184f270919dd7" sha1="dfa11c8ddab122e464ec12082b474004bc6a654a"/>
+	</game>
+	<game name="Crysis 2 (2011)(Crytek GmbH)(M5)">
+		<description>Crysis 2 (2011)(Crytek GmbH)(M5)</description>
+		<rom name="Crysis 2 (2011)(Crytek GmbH)(M5).iso" size="8146780160" crc="6de350a5" md5="c7e5d042e3d643e11f0510b2cc303a85" sha1="29466e2384a929f67f499e9a3e86696cb22401c2"/>
+	</game>
+	<game name="CSI NY the Game (2008)(Ubisoft)(M4)">
+		<description>CSI NY the Game (2008)(Ubisoft)(M4)</description>
+		<rom name="CSI NY the Game (2008)(Ubisoft)(M4).iso" size="934281216" crc="5eaded42" md5="279d5fd5257002f1ed7e4b9031ad28ff" sha1="47a7ef513c8d5d8c4b9d96300acf2b1098a04231"/>
+	</game>
+	<game name="Darkness II (2011)(Take Two Interactive)(M13)">
+		<description>Darkness II (2011)(Take Two Interactive)(M13)</description>
+		<rom name="Darkness II (2011)(Take Two Interactive)(M13).iso" size="7515111424" crc="35fc6f32" md5="87880e3c941f0f10da9fd23bb387199b" sha1="44d7bf98b89766ac42c31c0fe597ea119b96bcd3"/>
+	</game>
+	<game name="Dead Space (2008)(Electronic Arts)(M5)">
+		<description>Dead Space (2008)(Electronic Arts)(M5)</description>
+		<rom name="Dead Space (2008)(Electronic Arts)(M5).iso" size="7975600128" crc="ef32a322" md5="bc2e276770dba84ad81f2830d549e32c" sha1="5349bd84a8faba4fb82511742a622ebd0d0a0601"/>
+	</game>
+	<game name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB)">
+		<description>Deponia v1.1 (2012)(Daedalic Entertainment)(GB)</description>
+		<rom name="Deponia v1.1 (2012)(Daedalic Entertainment)(GB).iso" size="2892300288" crc="9f0175e4" md5="99e92448f6427b94ae014aa027fc6e9c" sha1="af6ae09bb2f20e61e1b4f81eb034c5c626ed9c57"/>
+	</game>
+	<game name="Diablo III - Reaper of Souls (2014)(Blizzard Entertainment)(AU)">
+		<description>Diablo III - Reaper of Souls (2014)(Blizzard Entertainment)(AU)</description>
+		<rom name="Diablo III - Reaper of Souls (2014)(Blizzard Entertainment)(AU).iso" size="8262451200" crc="35369a05" md5="da233e2d7596367fa3e9f47be36451d3" sha1="f01a8eb47bf0e31afed6e383a9b7a70b83599eec"/>
+	</game>
+	<game name="Doom 3 - BFG Edition (2012)(Bethesda Studios)(AU)">
+		<description>Doom 3 - BFG Edition (2012)(Bethesda Studios)(AU)</description>
+		<rom name="Doom 3 - BFG Edition (2012)(Bethesda Studios)(AU).iso" size="3768811520" crc="648b67ee" md5="60c6dfaee62c115903321f5668242cf7" sha1="e28aecd891f447bebe559548184563e1a5d76d41"/>
+	</game>
+	<game name="Dragon Age II (2011)(Electronic Arts)(M6)">
+		<description>Dragon Age II (2011)(Electronic Arts)(M6)</description>
+		<rom name="Dragon Age II (2011)(Electronic Arts)(M6).iso" size="7071072256" crc="95bbb68d" md5="6dd6c61ad564961d0d1a0696ff8a95f3" sha1="99094f4a70c215619d3d5cd6fb4636aa6af2cc69"/>
+	</game>
+	<game name="Dungeon Siege III (2011)(Square Enix)(M5)">
+		<description>Dungeon Siege III (2011)(Square Enix)(M5)</description>
+		<rom name="Dungeon Siege III (2011)(Square Enix)(M5).iso" size="4556455936" crc="1af840dd" md5="f904cbf40148e31633996e4c706ec52e" sha1="93df2f40a826be4119f0d4796d8a7b0f8bd37a5e"/>
+	</game>
+	<game name="Dynasty Warriors 6 (2008)(KOEI)(GB)">
+		<description>Dynasty Warriors 6 (2008)(KOEI)(GB)</description>
+		<rom name="Dynasty Warriors 6 (2008)(KOEI)(GB).iso" size="4669898752" crc="8b0741e6" md5="22d73c42af9ca129b97eb100f648b010" sha1="fccc73794a9928212ddd52677a24f32b9e088037"/>
+	</game>
+	<game name="Elder Skulls V, The - Skyrim (2011)(Bethesda)(AU)[!]">
+		<description>Elder Skulls V, The - Skyrim (2011)(Bethesda)(AU)[!]</description>
+		<rom name="Elder Skulls V, The - Skyrim (2011)(Bethesda)(AU)[!].iso" size="5479464960" crc="ed897198" md5="3f1aac61a53f7554cd9cb3338e695346" sha1="5dccc57ab593eeb664637e796ce5e6f5264b8f10"/>
+	</game>
+	<game name="F.E.A.R. 3 (2011)(Warner Bros Games)(M10)">
+		<description>F.E.A.R. 3 (2011)(Warner Bros Games)(M10)</description>
+		<rom name="F.E.A.R. 3 (2011)(Warner Bros Games)(M10).iso" size="4637523968" crc="a68d43bc" md5="11e0e2efccb39e7671188dfc0c79e059" sha1="80aab4b918db43e3aa611805e9ed1b737ce838ca"/>
+	</game>
+	<game name="Fallout 4 (2015)(Bethesda Studios)(M11)">
+		<description>Fallout 4 (2015)(Bethesda Studios)(M11)</description>
+		<rom name="Fallout 4 (2015)(Bethesda Studios)(M11).iso" size="5604835328" crc="9db08fdd" md5="17a0a03ce14146f2f4b8bb7bf9509d6f" sha1="347da3d8d5aa61e08817c4042f927cc92241e44b"/>
+	</game>
+	<game name="Fallout Collection (2001)(Interplay)(M3)">
+		<description>Fallout Collection (2001)(Interplay)(M3)</description>
+		<rom name="Fallout Collection (2001)(Interplay)(M3).iso" size="4300275712" crc="8f9f462a" md5="d04e3d059197e4ae62f0a75b64e8ad03" sha1="aea52306082497b37097be69fbb70a300517369f"/>
+	</game>
+	<game name="Far Cry 3 (2012)(Ubisoft)(M11)(Disc 1 of 2)">
+		<description>Far Cry 3 (2012)(Ubisoft)(M11)(Disc 1 of 2)</description>
+		<rom name="Far Cry 3 (2012)(Ubisoft)(M11)(Disc 1 of 2).iso" size="8272445440" crc="96c8c420" md5="be4db27a3fa5987f7ba4c6bae9c272a1" sha1="d1f3c4dc9fa547e92e075d81fd607d2acf53dfca"/>
+	</game>
+	<game name="Far Cry 3 (2012)(Ubisoft)(M11)(Disc 2 of 2)">
+		<description>Far Cry 3 (2012)(Ubisoft)(M11)(Disc 2 of 2)</description>
+		<rom name="Far Cry 3 (2012)(Ubisoft)(M11)(Disc 2 of 2).iso" size="1750630400" crc="2c217424" md5="c135788511ee3acffc89215d2f59c4fc" sha1="b60b18700b8f06d4518ecbbb331d90fdce57b552"/>
+	</game>
+	<game name="FIFA 08 (2007)(Electronic Arts)(AU)">
+		<description>FIFA 08 (2007)(Electronic Arts)(AU)</description>
+		<rom name="FIFA 08 (2007)(Electronic Arts)(AU).iso" size="2683305984" crc="acb3ab50" md5="78bf39d11dbd918b99789c5410029635" sha1="79d1a8e41ba0ef1034f19d53c5a13113d809181b"/>
+	</game>
+	<game name="Football Manager 2009 (2008)(Sega)(M12)[PC-Mac]">
+		<description>Football Manager 2009 (2008)(Sega)(M12)[PC-Mac]</description>
+		<rom name="Football Manager 2009 (2008)(Sega)(M12)[PC-Mac].iso" size="2256863232" crc="82ac238b" md5="2e4cd1a0b2fbb820a4bec0ec6a132967" sha1="65e4219a8e1a8e74897367d4bdeac257da5ea697"/>
+	</game>
+	<game name="Football Manager 2011 (2010)(Sega)(M12)[PC-Mac]">
+		<description>Football Manager 2011 (2010)(Sega)(M12)[PC-Mac]</description>
+		<rom name="Football Manager 2011 (2010)(Sega)(M12)[PC-Mac].iso" size="2701524992" crc="3ccf6f13" md5="b9fabf39d9a6990de4e48096487a5ecc" sha1="0df998438ec045732e135819b61df8e11db33a9a"/>
+	</game>
+	<game name="Football Manager 2014 (2013)(Sega)(M12)[PC-Mac]">
+		<description>Football Manager 2014 (2013)(Sega)(M12)[PC-Mac]</description>
+		<rom name="Football Manager 2014 (2013)(Sega)(M12)[PC-Mac].iso" size="1352794112" crc="4eb254ce" md5="54dce019c1d3acdf8bcea0f905de077c" sha1="9351734fda86213cee0f6886dcc87988e920fa36"/>
+	</game>
+	<game name="Football Manager 2015 (2014)(Sega)(M13)[PC-Mac]">
+		<description>Football Manager 2015 (2014)(Sega)(M13)[PC-Mac]</description>
+		<rom name="Football Manager 2015 (2014)(Sega)(M13)[PC-Mac].iso" size="1407188992" crc="30ce8b54" md5="ec0d191f812d657fbd6f654e3d3311af" sha1="79fef7b188036d06123e044323447fd4d532836d"/>
+	</game>
+	<game name="Frozen Synapse Collector's Edition (2012)(Merge Games)(AU)">
+		<description>Frozen Synapse Collector's Edition (2012)(Merge Games)(AU)</description>
+		<rom name="Frozen Synapse Collector's Edition (2012)(Merge Games)(AU).iso" size="1510959104" crc="8e5bbb77" md5="55f1708c9e83edab59decd10cfb9744f" sha1="96e4f0d976f6c155025c9dde29958833a81280a4"/>
+	</game>
+	<game name="Game Of Thrones, A - Genesis (2011)(Focus Home Interactive)(M7)">
+		<description>Game Of Thrones, A - Genesis (2011)(Focus Home Interactive)(M7)</description>
+		<rom name="Game Of Thrones, A - Genesis (2011)(Focus Home Interactive)(M7).iso" size="4266000384" crc="5fe38b9e" md5="38b2264ab9e2cca4f03a78e5ddf9f0d8" sha1="3aacbd8bb2e5398e5842679b62ec3cb57209fcd2"/>
+	</game>
+	<game name="Gears of War (2006)(Microsoft)(AU)">
+		<description>Gears of War (2006)(Microsoft)(AU)</description>
+		<rom name="Gears of War (2006)(Microsoft)(AU).iso" size="7957643264" crc="50003ce6" md5="c9bebdbd3ee18a1fd31feace9c3ee40a" sha1="ca8d8d455f2082e059bd25632b52926f5a453df6"/>
+	</game>
+	<game name="Gone Home (2014)(Headup Games)">
+		<description>Gone Home (2014)(Headup Games)</description>
+		<rom name="Gone Home (2014)(Headup Games).iso" size="2035089408" crc="af36fd26" md5="6269aa411653e6399491c10fc89607c5" sha1="e7b01389f900714324265f80ff7689821d740bc7"/>
+	</game>
+	<game name="Grand Theft Auto IV (2008)(Rockstar Games)(M5)(Disc 1 of 2)">
+		<description>Grand Theft Auto IV (2008)(Rockstar Games)(M5)(Disc 1 of 2)</description>
+		<rom name="Grand Theft Auto IV (2008)(Rockstar Games)(M5)(Disc 1 of 2).iso" size="7553908736" crc="78e3f7da" md5="9843e63feeebd4e301a3b24312bf16d5" sha1="9eccad61f98c06c48ffffece4da710c94eb35d01"/>
+	</game>
+	<game name="Grand Theft Auto IV (2008)(Rockstar Games)(M5)(Disc 2 of 2)">
+		<description>Grand Theft Auto IV (2008)(Rockstar Games)(M5)(Disc 2 of 2)</description>
+		<rom name="Grand Theft Auto IV (2008)(Rockstar Games)(M5)(Disc 2 of 2).iso" size="7314341888" crc="731baab8" md5="7b4ba2eb1281ffe5d22ce2dca183d302" sha1="d23ba8b0cc019d7a7bb437eb27afc96bce9a15e9"/>
+	</game>
+	<game name="Guild Wars 2 (2012)(NCSOFT)(M4)(Disc 1 of 2)">
+		<description>Guild Wars 2 (2012)(NCSOFT)(M4)(Disc 1 of 2)</description>
+		<rom name="Guild Wars 2 (2012)(NCSOFT)(M4)(Disc 1 of 2).iso" size="8413708288" crc="20b752a7" md5="eab2c5a92c0da94521344a67b409ca82" sha1="1f125a0b902c9460cb934d9dde0364bbf670967e"/>
+	</game>
+	<game name="Guild Wars 2 (2012)(NCSOFT)(M4)(Disc 2 of 2)">
+		<description>Guild Wars 2 (2012)(NCSOFT)(M4)(Disc 2 of 2)</description>
+		<rom name="Guild Wars 2 (2012)(NCSOFT)(M4)(Disc 2 of 2).iso" size="6155730944" crc="bea0d237" md5="87a1a73cd0ca352283786adfa9f5852e" sha1="526a216272a14d4bfe8616b7d76ac485e05dc5c4"/>
+	</game>
+	<game name="Half-Life 2 - Episode Two (2007)(Valve)(M11)">
+		<description>Half-Life 2 - Episode Two (2007)(Valve)(M11)</description>
+		<rom name="Half-Life 2 - Episode Two (2007)(Valve)(M11).iso" size="5624594432" crc="9213fe6d" md5="c674134dd8d98a6a763b005d0f5ad9f9" sha1="e382e8c371c1790d3a49372e69e81d5e270d44e0"/>
+	</game>
+	<game name="Hoyle Card Puzzle &amp; Board Games (2012)(Encore Software)(AU)[!][PC-Mac]">
+		<description>Hoyle Card Puzzle &amp; Board Games (2012)(Encore Software)(AU)[!][PC-Mac]</description>
+		<rom name="Hoyle Card Puzzle &amp; Board Games (2012)(Encore Software)(AU)[!][PC-Mac].iso" size="2800451584" crc="6df37cfc" md5="c9d443988691f14296d9253107731277" sha1="1d172d46eef93bdc31fe6affbf3723be74cbd0a4"/>
+	</game>
+	<game name="Hoyle Casino Games (2012)(Encore Software)(AU)[PC-Mac]">
+		<description>Hoyle Casino Games (2012)(Encore Software)(AU)[PC-Mac]</description>
+		<rom name="Hoyle Casino Games (2012)(Encore Software)(AU)[PC-Mac].iso" size="5036015616" crc="50e35110" md5="ee2765645355b6c9c284afeadfec2e76" sha1="dee55e440afddaa435c1f8b375962ebf1b66d817"/>
+	</game>
+	<game name="Imagine Fashion Designer (2007)(Ubisoft)(M3)">
+		<description>Imagine Fashion Designer (2007)(Ubisoft)(M3)</description>
+		<rom name="Imagine Fashion Designer (2007)(Ubisoft)(M3).iso" size="2588606464" crc="b17da472" md5="5c407ceb57f87e27e5090b66eb20c38b" sha1="0d151b55c1e46d7a2330810db18ac6a36c8f39e6"/>
+	</game>
+	<game name="Imagine Pet Vet at the Zoo (2007)(Ubisoft)(AU)">
+		<description>Imagine Pet Vet at the Zoo (2007)(Ubisoft)(AU)</description>
+		<rom name="Imagine Pet Vet at the Zoo (2007)(Ubisoft)(AU).iso" size="1888577536" crc="14795095" md5="d3eb70cda8b27401b58a3dcc3fcc0afa" sha1="9dbfbdf38de81a7f21d5e673867746c4016c3d4d"/>
+	</game>
+	<game name="Left 4 Dead (2008)(Valve)(M19)">
+		<description>Left 4 Dead (2008)(Valve)(M19)</description>
+		<rom name="Left 4 Dead (2008)(Valve)(M19).iso" size="6841761792" crc="5af4256f" md5="41795ce9c1c3e1d35d9d4ea9e4e2e3f6" sha1="e9a63977ddc9eb98b4fe81212e36827d0085fb65"/>
+	</game>
+	<game name="Left 4 Dead 2 (2009)(Valve)(M19)">
+		<description>Left 4 Dead 2 (2009)(Valve)(M19)</description>
+		<rom name="Left 4 Dead 2 (2009)(Valve)(M19).iso" size="8396800000" crc="f7bad42d" md5="89a3ef5dddc81de75557c5c9ceff5647" sha1="b483bff06e7710285d046d259a319ba5e4190465"/>
+	</game>
+	<game name="LEGO Harry Potter Years 5 to 7 (2011)(Warner Brothers)(M10)">
+		<description>LEGO Harry Potter Years 5 to 7 (2011)(Warner Brothers)(M10)</description>
+		<rom name="LEGO Harry Potter Years 5 to 7 (2011)(Warner Brothers)(M10).iso" size="7976779776" crc="e60338b7" md5="d3463e7101d304eb1a62b97f2666f3f7" sha1="457d1e1641cf47eafa651e384f29fda186652c19"/>
+	</game>
+	<game name="LEGO the Hobbit (2014)(Warner Brothers)(M10)">
+		<description>LEGO the Hobbit (2014)(Warner Brothers)(M10)</description>
+		<rom name="LEGO the Hobbit (2014)(Warner Brothers)(M10).iso" size="7997204480" crc="e35984bb" md5="dfb6a2f1fc2a6274420db897a9d6f928" sha1="616d2f93f1815e4ceb8cb9531b77cd0d2e3c0202"/>
+	</game>
+	<game name="LEGO the Lord of the Rings (2012)(Warner Brothers)(M13)">
+		<description>LEGO the Lord of the Rings (2012)(Warner Brothers)(M13)</description>
+		<rom name="LEGO the Lord of the Rings (2012)(Warner Brothers)(M13).iso" size="6279692288" crc="cfb85754" md5="17c7a1a041e1ff967f299f0d60d8e14c" sha1="664efd7c471c80ddd87a6640c8c486eacdf16f3a"/>
+	</game>
+	<game name="Medieval II - Total War (2012)(Sega)(AU)(Disc 1 of 2)">
+		<description>Medieval II - Total War (2012)(Sega)(AU)(Disc 1 of 2)</description>
+		<rom name="Medieval II - Total War (2012)(Sega)(AU)(Disc 1 of 2).iso" size="4012572672" crc="a5e5e1d3" md5="be42d4592c13833a7ff64b8a0dca6064" sha1="e56565a721ebec67def771076a19ee62a06dae5b"/>
+	</game>
+	<game name="Medieval II - Total War (2012)(Sega)(AU)(Disc 2 of 2)">
+		<description>Medieval II - Total War (2012)(Sega)(AU)(Disc 2 of 2)</description>
+		<rom name="Medieval II - Total War (2012)(Sega)(AU)(Disc 2 of 2).iso" size="4221632512" crc="5a82ffe3" md5="22c10300cb620c449f949f1c195fb467" sha1="2b8123f422c81f2dc564892b54762225c1b83284"/>
+	</game>
+	<game name="Metro Last Light (2013)(Deep Silver)(M10)">
+		<description>Metro Last Light (2013)(Deep Silver)(M10)</description>
+		<rom name="Metro Last Light (2013)(Deep Silver)(M10).iso" size="7894335488" crc="e68ca513" md5="f0d1fe5bb293022d6067926b5aec55d0" sha1="8a25c1205d19793b66486a62ba3e337c35c32ebd"/>
+	</game>
+	<game name="MotoGP'07 (2007)(THQ)(M5)">
+		<description>MotoGP'07 (2007)(THQ)(M5)</description>
+		<rom name="MotoGP'07 (2007)(THQ)(M5).iso" size="4389076992" crc="ab136cdb" md5="1803931aefef6069904e28acdd967075" sha1="97b318d44a495957f97be7b0690da3b93cca5e95"/>
+	</game>
+	<game name="My Horse &amp; Me 2 (2008)(Atari)(M10)">
+		<description>My Horse &amp; Me 2 (2008)(Atari)(M10)</description>
+		<rom name="My Horse &amp; Me 2 (2008)(Atari)(M10).iso" size="4706099200" crc="60566ee3" md5="dedb7aed3bea396de8a59a2a382531c1" sha1="dcc6e6c5d3d56533e6d3be1ac0d463c577f6cc52"/>
+	</game>
+	<game name="Orange Box, The (2007)(Valve)(M11)(Disc 1 of 2)">
+		<description>Orange Box, The (2007)(Valve)(M11)(Disc 1 of 2)</description>
+		<rom name="Orange Box, The (2007)(Valve)(M11)(Disc 1 of 2).iso" size="4700241920" crc="a16d8f2c" md5="02eac860d2b9969f0aca4069ba179748" sha1="976f67eec4b84331de8f6695272bc9192466da6a"/>
+	</game>
+	<game name="Orange Box, The (2007)(Valve)(M11)(Disc 2 of 2)">
+		<description>Orange Box, The (2007)(Valve)(M11)(Disc 2 of 2)</description>
+		<rom name="Orange Box, The (2007)(Valve)(M11)(Disc 2 of 2).iso" size="3681812480" crc="664800c4" md5="83c5a1f10d40b65cd39a801b55cf128a" sha1="93c8cffde10f5914570099b58066c7fb5b14a1da"/>
+	</game>
+	<game name="Portal 2 (2011)(Valve)(M19)[!]">
+		<description>Portal 2 (2011)(Valve)(M19)[!]</description>
+		<rom name="Portal 2 (2011)(Valve)(M19)[!].iso" size="7967266816" crc="a0a1aa97" md5="c2d272c38747a1da9f19301e42a13114" sha1="2612da575324c03494af66b27601e2b1c751dda2"/>
+	</game>
+	<game name="Prey (2017)(Bethesda)(M10)">
+		<description>Prey (2017)(Bethesda)(M10)</description>
+		<rom name="Prey (2017)(Bethesda)(M10).iso" size="7794065408" crc="3034fd25" md5="65a2ad3ec999d331fa1b68eb36371c4f" sha1="64d876a1298d3d8a87aba467b8c4c4e03567f380"/>
+	</game>
+	<game name="Risen 3 - Titan Lords (2011)(Deep Silver)(M10)(Disc 1 of 2)">
+		<description>Risen 3 - Titan Lords (2011)(Deep Silver)(M10)(Disc 1 of 2)</description>
+		<rom name="Risen 3 - Titan Lords (2011)(Deep Silver)(M10)(Disc 1 of 2).iso" size="8494907392" crc="a7676554" md5="830d49694523159b06e548898ab8a9be" sha1="e012b063edf61eb4c64a2eeed73eede0f9fc6dbb"/>
+	</game>
+	<game name="Risen 3 - Titan Lords (2011)(Deep Silver)(M10)(Disc 2 of 2)">
+		<description>Risen 3 - Titan Lords (2011)(Deep Silver)(M10)(Disc 2 of 2)</description>
+		<rom name="Risen 3 - Titan Lords (2011)(Deep Silver)(M10)(Disc 2 of 2).iso" size="3836739584" crc="3d8c12c5" md5="a27335ee582b34ff5318f881a917aab6" sha1="5a809ea6adfdcff82b3631be5b5e766869564f5e"/>
+	</game>
+	<game name="Ruby League Live (2011)(Tru Blu Entertainment)(AU)">
+		<description>Ruby League Live (2011)(Tru Blu Entertainment)(AU)</description>
+		<rom name="Ruby League Live (2011)(Tru Blu Entertainment)(AU).iso" size="3870601216" crc="a4463587" md5="5ede3c1099585d6a4522804ab7c9e786" sha1="8b7cef106c080fd68cf8a9f9dd3249885daad7f9"/>
+	</game>
+	<game name="S.T.A.L.K.E.R. - Call of Pripyat (2010)(Deep Silver)(M5)">
+		<description>S.T.A.L.K.E.R. - Call of Pripyat (2010)(Deep Silver)(M5)</description>
+		<rom name="S.T.A.L.K.E.R. - Call of Pripyat (2010)(Deep Silver)(M5).iso" size="4312039424" crc="f6fa7f43" md5="b5509177f436472f7325f9f1b9975e0d" sha1="15275e522d6736d405e00f9b40de51f55b877298"/>
+	</game>
+	<game name="Sam &amp; Max the Devils Playhouse (2011)(Telltale Games)(AU)[PC-Mac]">
+		<description>Sam &amp; Max the Devils Playhouse (2011)(Telltale Games)(AU)[PC-Mac]</description>
+		<rom name="Sam &amp; Max the Devils Playhouse (2011)(Telltale Games)(AU)[PC-Mac].iso" size="4198039552" crc="108c15d4" md5="b346f55be58a7af0deeed2bc9ba5cfc9" sha1="79977b189f4ff50f9debc89bd601e9d06748d9c2"/>
+	</game>
+	<game name="Sherlock Holmes the Awakened (2008)(Frogwares)(AU)">
+		<description>Sherlock Holmes the Awakened (2008)(Frogwares)(AU)</description>
+		<rom name="Sherlock Holmes the Awakened (2008)(Frogwares)(AU).iso" size="1598095360" crc="7c537a92" md5="830b3e66afaa8ffbbcd32926bd149f70" sha1="b4cf13a86f3dc6d6845e5c8161bfea06332155ab"/>
+	</game>
+	<game name="Sherlock Holmes Versus Arsene Lupin (2008)(Frogwares)(AU)">
+		<description>Sherlock Holmes Versus Arsene Lupin (2008)(Frogwares)(AU)</description>
+		<rom name="Sherlock Holmes Versus Arsene Lupin (2008)(Frogwares)(AU).iso" size="1231345664" crc="32d43692" md5="d45e6421bf0902e161bf96717f016050" sha1="39aef5ff7a3a4df24d16787606d9fe8fa9d31e75"/>
+	</game>
+	<game name="Sid Meier's Civilization IV (2005)(2K Games)(M5)">
+		<description>Sid Meier's Civilization IV (2005)(2K Games)(M5)</description>
+		<rom name="Sid Meier's Civilization IV (2005)(2K Games)(M5).iso" size="1411776512" crc="0a2b9d3e" md5="5121284e4ed212094f8dc2be42cb3896" sha1="cd1c92c7cb33029dac70955675c078c56e7341f0"/>
+	</game>
+	<game name="Sins of a Solar Empire (2010)(Stardock Entertainment)">
+		<description>Sins of a Solar Empire (2010)(Stardock Entertainment)</description>
+		<rom name="Sins of a Solar Empire (2010)(Stardock Entertainment).iso" size="1228865536" crc="3ca63cea" md5="e7d9d3307ed141afb3952761259778c9" sha1="c6ca47016a30b7143c7b6dbb97ea7bf3e9400205"/>
+	</game>
+	<game name="Street Fighter IV (2009)(Capcom)(AU)">
+		<description>Street Fighter IV (2009)(Capcom)(AU)</description>
+		<rom name="Street Fighter IV (2009)(Capcom)(AU).iso" size="4687593472" crc="210f60d3" md5="69baf4b01d1e6544e60a3202871e1aa7" sha1="70f8975903ed21095bb1e01b3e33d4db868b4536"/>
+	</game>
+	<game name="Stronghold 2 Deluxe (2006)(FireFly Studios)(GB)">
+		<description>Stronghold 2 Deluxe (2006)(FireFly Studios)(GB)</description>
+		<rom name="Stronghold 2 Deluxe (2006)(FireFly Studios)(GB).iso" size="2238054400" crc="664a684d" md5="5831278b6daea071a8a5c080107e2005" sha1="bfede4129a0541ff4fc51d943a5f0864876d70da"/>
+	</game>
+	<game name="Supreme Commander (2007)(THQ)(AU)">
+		<description>Supreme Commander (2007)(THQ)(AU)</description>
+		<rom name="Supreme Commander (2007)(THQ)(AU).iso" size="5460525056" crc="66d845cb" md5="3cdd61029b4dcce3c63536a94cd58902" sha1="67edd19a5ddfda828cb59bbbcb70e620ffcc5bf7"/>
+	</game>
+	<game name="Surf's Up (2007)(Ubisoft)(M7)">
+		<description>Surf's Up (2007)(Ubisoft)(M7)</description>
+		<rom name="Surf's Up (2007)(Ubisoft)(M7).iso" size="3905540096" crc="6acabcf6" md5="29630e32571e135207309e53cb72afdc" sha1="278c387099e2f835f3f4f42314f6f1bfae62b183"/>
+	</game>
+	<game name="Testament of Sherlock Holmes, The (2012)(Focus Home Interactive)(M5)">
+		<description>Testament of Sherlock Holmes, The (2012)(Focus Home Interactive)(M5)</description>
+		<rom name="Testament of Sherlock Holmes, The (2012)(Focus Home Interactive)(M5).iso" size="7971602432" crc="fada242c" md5="839675e9f841ffbf593bd6f63d8609e8" sha1="5ba0ac22e425f7b2be6f199669da059448e10b69"/>
+	</game>
+	<game name="Tiger Woods PGA Tour 08 (2007)(Electronic Arts)(M3)">
+		<description>Tiger Woods PGA Tour 08 (2007)(Electronic Arts)(M3)</description>
+		<rom name="Tiger Woods PGA Tour 08 (2007)(Electronic Arts)(M3).iso" size="2239102976" crc="5e39bd7d" md5="51213e0953ce35efd96419f7dbd80483" sha1="03a7ecdbd3bd5730ab7594bbf26a5a4ed6b266ce"/>
+	</game>
+	<game name="Tiny Bang Story, The (2011)(Calibri Games)(AU)">
+		<description>Tiny Bang Story, The (2011)(Calibri Games)(AU)</description>
+		<rom name="Tiny Bang Story, The (2011)(Calibri Games)(AU).iso" size="163512320" crc="c950e00c" md5="c61e5d2655c29f73a0c675c2e655de64" sha1="e080803dfaaf164988af9cd54325a751d83d2679"/>
+	</game>
+	<game name="Tom Clancy's Rainbow Six Vegas 2 (2006)(Ubisoft)(M5)">
+		<description>Tom Clancy's Rainbow Six Vegas 2 (2006)(Ubisoft)(M5)</description>
+		<rom name="Tom Clancy's Rainbow Six Vegas 2 (2006)(Ubisoft)(M5).iso" size="5141430272" crc="2bc4662a" md5="315667f7742e0ca4b1096167fd110cce" sha1="33388df3922b3bf52cb1414403dbce4ae9650ad0"/>
+	</game>
+	<game name="Trainz Railroad Simulator (2007)(Auran Games)(US)">
+		<description>Trainz Railroad Simulator (2007)(Auran Games)(US)</description>
+		<rom name="Trainz Railroad Simulator (2007)(Auran Games)(US).iso" size="4216717312" crc="e1866655" md5="d4f353d252fa30a06a16920e90c27068" sha1="969752ef48e7be61c84cea59440cc2277990693d"/>
+	</game>
+	<game name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7)">
+		<description>Trials Evolution - Gold Edition (2013)(Ubisoft)(M7)</description>
+		<rom name="Trials Evolution - Gold Edition (2013)(Ubisoft)(M7).iso" size="3374284800" crc="2b2e8f7b" md5="e03475fff2b87d6e83a9c323d310a926" sha1="c7e0517e078a2ac552715de45c779936caa2e7c0"/>
+	</game>
+	<game name="War Leaders - Clash of Nations (2009)(Enigma Software)(US)(Disc 1 of 2)">
+		<description>War Leaders - Clash of Nations (2009)(Enigma Software)(US)(Disc 1 of 2)</description>
+		<rom name="War Leaders - Clash of Nations (2009)(Enigma Software)(US)(Disc 1 of 2).iso" size="4388585472" crc="435b5d55" md5="ae337fb2ded872d1946f22760247d050" sha1="fe84e26e21665df8000dbf57b4dc09d2cc549ea4"/>
+	</game>
+	<game name="War Leaders - Clash of Nations (2009)(Enigma Software)(US)(Disc 2 of 2)">
+		<description>War Leaders - Clash of Nations (2009)(Enigma Software)(US)(Disc 2 of 2)</description>
+		<rom name="War Leaders - Clash of Nations (2009)(Enigma Software)(US)(Disc 2 of 2).iso" size="6248660992" crc="846e4bf2" md5="60c58290b245c20ffffa8a8a46c29080" sha1="69cd2ffd9b7fbefa86087c0a087e8609581304e0"/>
+	</game>
+	<game name="Warhammer 40,000 - Dawn of War - Dark Crusade (2006)(THQ)(AU)">
+		<description>Warhammer 40,000 - Dawn of War - Dark Crusade (2006)(THQ)(AU)</description>
+		<rom name="Warhammer 40,000 - Dawn of War - Dark Crusade (2006)(THQ)(AU).iso" size="3682349056" crc="5c73a792" md5="cd06aab82c71a9c77dc959a08f3a0893" sha1="2f6ab19a720213a68647078cf0fa13106eb87ac2"/>
+	</game>
+	<game name="Wheelman (2009)(Ubisoft)(M5)[ZOO edition]">
+		<description>Wheelman (2009)(Ubisoft)(M5)[ZOO edition]</description>
+		<rom name="Wheelman (2009)(Ubisoft)(M5)[ZOO edition].iso" size="7902298112" crc="d570b8c4" md5="50d0f1078c8dd44141490bc385f04d31" sha1="0c205d9a06920af20dea213780d42ac60562d669"/>
+	</game>
+	<game name="Worms Reloaded (2010)(Team 17)(AU)">
+		<description>Worms Reloaded (2010)(Team 17)(AU)</description>
+		<rom name="Worms Reloaded (2010)(Team 17)(AU).iso" size="479133696" crc="b9ed5a24" md5="90db44dea5d2e0ca4d0044fc524d4905" sha1="7a76243f07298513a664bdc76e87433c47cb1c2e"/>
+	</game>
+	<game name="Worms Revolution (2012)(Team 17)(M7)">
+		<description>Worms Revolution (2012)(Team 17)(M7)</description>
+		<rom name="Worms Revolution (2012)(Team 17)(M7).iso" size="1289945088" crc="c45d19c1" md5="2d815cd10528bcf7f312b144b83a3b46" sha1="46bf623d5811413d7b2e23c69f6123d2fab0dc1a"/>
+	</game>
+	<game name="Zoo Tycoon Complete Collection (2003)(Microsoft)(M5)">
+		<description>Zoo Tycoon Complete Collection (2003)(Microsoft)(M5)</description>
+		<rom name="Zoo Tycoon Complete Collection (2003)(Microsoft)(M5).iso" size="6202523648" crc="f7512142" md5="46b829a1de0f9e9488ce66983c041841" sha1="05611b8e7ac797e8beb22c6478b9b2d1db5a26ba"/>
+	</game>
+</datafile>

@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>113</id>
+		<name>Sega - Beena</name>
+		<description>Sega - Beena</description>
+		<version>20240208-083255</version>
+		<author>relax, TeamEurope</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="1-nichi 10-pun de E ga Jouzu ni Kakeru Beena (Japan)" id="0035">
+		<description>1-nichi 10-pun de E ga Jouzu ni Kakeru Beena (Japan)</description>
+		<game_id>S-100034-0041</game_id>
+		<rom name="1-nichi 10-pun de E ga Jouzu ni Kakeru Beena (Japan).bin" size="8388608" crc="e823b0fd" md5="c0a3a8b44b808b525c697cfa718b6272" sha1="ade6a02a516e87b21320def50f46d0414d35abac"/>
+	</game>
+	<game name="Anpanman no Waku Waku Game Oekaki (Japan)" id="0033">
+		<description>Anpanman no Waku Waku Game Oekaki (Japan)</description>
+		<game_id>S-100031-1016</game_id>
+		<rom name="Anpanman no Waku Waku Game Oekaki (Japan).bin" size="8388608" crc="6330409d" md5="b489990a1f2f8e06d2e63cd17df116b0" sha1="53d85b60cea717dba39264c9530858fbc621237a"/>
+	</game>
+	<game name="Anpanman o Sagase! (Japan)" id="0037">
+		<description>Anpanman o Sagase! (Japan)</description>
+		<game_id>S-100038-1000</game_id>
+		<rom name="Anpanman o Sagase! (Japan).bin" size="8388608" crc="2d1d222f" md5="bcec5e3cd2680e378d995b88c7fb1dfd" sha1="3e27953601f2d8ea69639f289c35c0917649e3b7"/>
+	</game>
+	<game name="Beena Town e Youkoso (Japan) (Rev 1002)" id="0015" cloneofid="0014">
+		<description>Beena Town e Youkoso (Japan) (Rev 1002)</description>
+		<game_id>S-100001-1002</game_id>
+		<rom name="Beena Town e Youkoso (Japan) (Rev 1002).bin" size="4194304" crc="907d3d39" md5="1e6183c26533aa48fd5caa548aa3f1e7" sha1="316e0b863f393532b0ba67e0b4b8849603065255"/>
+	</game>
+	<game name="Beena Town e Youkoso (Japan) (Rev 1000)" id="0014">
+		<description>Beena Town e Youkoso (Japan) (Rev 1000)</description>
+		<game_id>S-100001-1000</game_id>
+		<rom name="Beena Town e Youkoso (Japan) (Rev 1000).bin" size="4194304" crc="b86b8d11" md5="84ff3bc31830054dc39e0f316a55329a" sha1="7fae650ccfb574a3d460a5a7e42cad099d06e7e4"/>
+	</game>
+	<game name="Cars 2 Racing Beena - Mezase! World Champion! (Japan)" id="0041">
+		<description>Cars 2 Racing Beena - Mezase! World Champion! (Japan)</description>
+		<game_id>S-100044-1000</game_id>
+		<rom name="Cars 2 Racing Beena - Mezase! World Champion! (Japan).bin" size="8388608" crc="d2c69997" md5="a4de2e2b5751c87413a0a8702dfec890" sha1="772fd0455c7e39ef09395015094648c5f0fa62d5"/>
+	</game>
+	<game name="Chiiku Drill Oshare Majo Love and Berry - Moji Kazu Chie Asobi (Japan)" id="0027">
+		<description>Chiiku Drill Oshare Majo Love and Berry - Moji Kazu Chie Asobi (Japan)</description>
+		<game_id>S-100023-1000</game_id>
+		<rom name="Chiiku Drill Oshare Majo Love and Berry - Moji Kazu Chie Asobi (Japan).bin" size="8388608" crc="e1b1d412" md5="c53d90fa6c2cd1377f5c425c53190734" sha1="546b5c1e21b2c20120024153d201da8d9896e4c8"/>
+	</game>
+	<game name="Chiiku Drill Pocket Monsters Diamond &amp; Pearl - Moji Kazu Chie Asobi (Japan)" id="0029">
+		<description>Chiiku Drill Pocket Monsters Diamond &amp; Pearl - Moji Kazu Chie Asobi (Japan)</description>
+		<game_id>S-100025-0018</game_id>
+		<rom name="Chiiku Drill Pocket Monsters Diamond &amp; Pearl - Moji Kazu Chie Asobi (Japan).bin" size="4194304" crc="2b87b332" md5="ef46d8e0e3896941b6f5b55ebbca15a4" sha1="24cda24c7b3053e004799793f4042d05e3859e1a"/>
+	</game>
+	<game name="Cinnamoroll - Cafe Cinnamon de o-Tetsudai (Japan)" id="0045">
+		<description>Cinnamoroll - Cafe Cinnamon de o-Tetsudai (Japan)</description>
+		<game_id>T-110005-1000</game_id>
+		<rom name="Cinnamoroll - Cafe Cinnamon de o-Tetsudai (Japan).bin" size="4194304" crc="45e98b8b" md5="17a902c7a862820f1e4d544fd0a22e41" sha1="928c4e497b0897240cc875a01aa5d1c101eb5757"/>
+	</game>
+	<game name="Cooking Beena-o-Ryouri Dekichatta! (Japan)" id="0032">
+		<description>Cooking Beena-o-Ryouri Dekichatta! (Japan)</description>
+		<game_id>S-100029-1000</game_id>
+		<rom name="Cooking Beena-o-Ryouri Dekichatta! (Japan).bin" size="8388608" crc="a3f58ab8" md5="fa0e77bde3f70d95aad6f07fe387f111" sha1="20b3dfe395f7c97a32c93b580040787b98fd6024"/>
+	</game>
+	<game name="Disney Tanoshii o-Benkyou Series-Mic de Kantan ABC (Japan)" id="0017">
+		<description>Disney Tanoshii o-Benkyou Series-Mic de Kantan ABC (Japan)</description>
+		<game_id>S-100005-1000</game_id>
+		<rom name="Disney Tanoshii o-Benkyou Series-Mic de Kantan ABC (Japan).bin" size="8388608" crc="e95e91a0" md5="2daf3160f5f521a33d42a2d8114ee4b7" sha1="ea3dcaca3c1fcc31dbc58674238c7c32d12539ad"/>
+	</game>
+	<game name="Disney Tanoshii Oekaki-o-Mise-ya-san o Tsukutchaou! (Japan)" id="0034">
+		<description>Disney Tanoshii Oekaki-o-Mise-ya-san o Tsukutchaou! (Japan)</description>
+		<game_id>S-100032-1001</game_id>
+		<rom name="Disney Tanoshii Oekaki-o-Mise-ya-san o Tsukutchaou! (Japan).bin" size="8388608" crc="2c3107b0" md5="a68c5bda8a9ea6d4f1e4082a6f480190" sha1="19b216901a1c7b06bfc892b6df64f6efef569159"/>
+	</game>
+	<game name="Doraemon Chinou Daikaihatsu! Waku Waku Game Land (Japan)" id="0051">
+		<description>Doraemon Chinou Daikaihatsu! Waku Waku Game Land (Japan)</description>
+		<game_id>T-120003-1000</game_id>
+		<rom name="Doraemon Chinou Daikaihatsu! Waku Waku Game Land (Japan).bin" size="4194304" crc="755ab5f4" md5="a1a3a96be09da0169d9384e09ed662d0" sha1="2139977a6a8cf870ef40622122d2d8c4e63047cd"/>
+	</game>
+	<game name="Doraemon Tanoshii En Seikatsu Youchien Hoikuen (Japan)" id="0050">
+		<description>Doraemon Tanoshii En Seikatsu Youchien Hoikuen (Japan)</description>
+		<game_id>T-120002-1000</game_id>
+		<rom name="Doraemon Tanoshii En Seikatsu Youchien Hoikuen (Japan).bin" size="4194304" crc="ab5b5b54" md5="7aa26655afd75ee7fd89109a128d0326" sha1="2269e145a004a9c6ccbb6e79c9aa25081a7ede2b"/>
+	</game>
+	<game name="Doraemon Tanoshiku o-Keiko Hiragana Katakana (Japan)" id="0049">
+		<description>Doraemon Tanoshiku o-Keiko Hiragana Katakana (Japan)</description>
+		<game_id>T-120001-1000</game_id>
+		<rom name="Doraemon Tanoshiku o-Keiko Hiragana Katakana (Japan).bin" size="4194304" crc="b6b3c6f0" md5="5aff81863d417da10fa0e7d1a5656f1d" sha1="d4a702e731de1f1870ba6c46e84e4475a6ce6247"/>
+	</game>
+	<game name="Engine Sentai Go-onger Mach de Oboeru! Aiueo!! (Japan)" id="0054">
+		<description>Engine Sentai Go-onger Mach de Oboeru! Aiueo!! (Japan)</description>
+		<game_id>T-110009-1000</game_id>
+		<rom name="Engine Sentai Go-onger Mach de Oboeru! Aiueo!! (Japan).bin" size="8388608" crc="a53eeaed" md5="942230d884ffd9cf7cbb9e90003a5df7" sha1="1b320737d49e6955f6a5e2f1876a18dd23b2856d"/>
+	</game>
+	<game name="Futari wa Pretty Cure Max Heart (Japan)" id="0042">
+		<description>Futari wa Pretty Cure Max Heart (Japan)</description>
+		<game_id>T-110001-1001</game_id>
+		<rom name="Futari wa Pretty Cure Max Heart (Japan).bin" size="4194304" crc="0c1cafa0" md5="97b5fd472ebe5eedad5678a2dfe93bd4" sha1="eea71480c063d9e7fced72c83dfb70b202bfeff5"/>
+	</game>
+	<game name="Game ga Ippai Kikansha Thomas (Japan)" id="0043">
+		<description>Game ga Ippai Kikansha Thomas (Japan)</description>
+		<game_id>T-110002-1000</game_id>
+		<rom name="Game ga Ippai Kikansha Thomas (Japan).bin" size="4194304" crc="981d0224" md5="20dcf510ed013088fe19c9da0cafa42f" sha1="8ae4038dd35c04ba14d04e09ce71130957e0b22c"/>
+	</game>
+	<game name="Geneki Toudai-sei ga Tsukutta! 'Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen (Japan)" id="0028">
+		<description>Geneki Toudai-sei ga Tsukutta! 'Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen (Japan)</description>
+		<game_id>S-100024-1000</game_id>
+		<rom name="Geneki Toudai-sei ga Tsukutta! 'Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen (Japan).bin" size="4194304" crc="a0fdbe18" md5="7729fd0bc4ba7d6a8cda2bde6144a202" sha1="9990e7bbc8bd5b7bb5c7005dd38114c03f258048"/>
+	</game>
+	<game name="Go! Go! Advance Drive - Muttsu no Machine ni Chousen da! (Japan)" id="0012">
+		<description>Go! Go! Advance Drive - Muttsu no Machine ni Chousen da! (Japan)</description>
+		<game_id>S-100004-1000</game_id>
+		<rom name="Go! Go! Advance Drive - Muttsu no Machine ni Chousen da! (Japan).bin" size="8388608" crc="27013198" md5="07ecb0e37a350d4d3e835fc82d2f516a" sha1="5c43debc3d00ad39e78d526c65f5c6c019c46e53"/>
+	</game>
+	<game name="GoGo Sentai Boukenger Kazu to Katachi o Oboeyou! (Japan)" id="0044">
+		<description>GoGo Sentai Boukenger Kazu to Katachi o Oboeyou! (Japan)</description>
+		<game_id>T-110003-1000</game_id>
+		<rom name="GoGo Sentai Boukenger Kazu to Katachi o Oboeyou! (Japan).bin" size="4194304" crc="a052b965" md5="43913d26271317992a3349433c2164fd" sha1="ea99ab31fcab9c0bf99093cf63b3bded75ada95e"/>
+	</game>
+	<game name="Hello Kitty no Hiragana Katakana o-Namae Kaitemiyou! (Japan)" id="0036">
+		<description>Hello Kitty no Hiragana Katakana o-Namae Kaitemiyou! (Japan)</description>
+		<game_id>S-100035-1000</game_id>
+		<rom name="Hello Kitty no Hiragana Katakana o-Namae Kaitemiyou! (Japan).bin" size="8388608" crc="133ec328" md5="ad161860282849130a43ea29f15ef975" sha1="0bce6e18b5b9ed3f74791a72cb8656b0f5dd18bc"/>
+	</game>
+	<game name="Issho ni Henshin Fresh Pretty Cure (Japan)" id="0001">
+		<description>Issho ni Henshin Fresh Pretty Cure (Japan)</description>
+		<rom name="Issho ni Henshin Fresh Pretty Cure (Japan).bin" size="8388608" crc="afa3466c" md5="77e4f7faa3572ab1da01c7e84dc91c9d" sha1="b49914f97db95f611489487f558d13d7cceb3299" serial="T-110013-1000"/>
+	</game>
+	<game name="Kazoku Minna no Nouryoku Trainer (Japan)" id="0007">
+		<description>Kazoku Minna no Nouryoku Trainer (Japan)</description>
+		<rom name="Kazoku Minna no Nouryoku Trainer (Japan).bin" size="4194304" crc="8097f3ec" md5="6c59b0e3a5cb33f55fe626b4f055e860" sha1="1e65579b74f141591db2122b34ce293d1d2120ff" sha256="fef3965840da0cc47d8fae5f81b04bfc6ed76b56f87d4c3deda3ca7b07d64f92" serial="S-100006-1000"/>
+	</game>
+	<game name="Kodai Ouja Kyouryuu King D-Kids Adventure Dino Slash! Kyouryuu Battle!! (Japan)" id="0056">
+		<description>Kodai Ouja Kyouryuu King D-Kids Adventure Dino Slash! Kyouryuu Battle!! (Japan)</description>
+		<game_id>S-100033-1001</game_id>
+		<rom name="Kodai Ouja Kyouryuu King D-Kids Adventure Dino Slash! Kyouryuu Battle!! (Japan).bin" size="8388608" crc="4fefdb6e" md5="d5cbf80b7095f3a342570ccd2b9d1c15" sha1="f53bb8ca7ec0e3ba93d6e92e7b1e404269a3d0ff"/>
+	</game>
+	<game name="Kouchuu Ouja Mushiking - Nebu-Hakase to Kazu Katachi ni Challenge! (Japan)" id="0023">
+		<description>Kouchuu Ouja Mushiking - Nebu-Hakase to Kazu Katachi ni Challenge! (Japan)</description>
+		<game_id>S-100015-1000</game_id>
+		<rom name="Kouchuu Ouja Mushiking - Nebu-Hakase to Kazu Katachi ni Challenge! (Japan).bin" size="8388608" crc="f912f777" md5="555746a7382716f0034c35696f991c27" sha1="134ebdfd67779400dfead05a6c94b28a0ba8df0e"/>
+	</game>
+	<game name="Kouchuu Ouja Mushiking-Mori no Tami no Densetsu-Minna de Tanken! Kouchuu no Mori (Japan)" id="0019">
+		<description>Kouchuu Ouja Mushiking-Mori no Tami no Densetsu-Minna de Tanken! Kouchuu no Mori (Japan)</description>
+		<game_id>S-100009-1000</game_id>
+		<rom name="Kouchuu Ouja Mushiking-Mori no Tami no Densetsu-Minna de Tanken! Kouchuu no Mori (Japan).bin" size="8388608" crc="99154825" md5="571c121ef44fefc1c11b25be67fb663c" sha1="566978b9e11dfc1d7a1012b56d8e638927f2eadb"/>
+	</game>
+	<game name="Meet Bub - Bub to Eigo Tanken (Japan)" id="0011">
+		<description>Meet Bub - Bub to Eigo Tanken (Japan)</description>
+		<rom name="Meet Bub - Bub to Eigo Tanken (Japan).bin" size="8388608" crc="283b3c85" md5="b78b2fc49a097d60f4beb56d446f4257" sha1="343c27c192da191d91fea43246da924b8f1af6ee" sha256="38b5fd2f48fbd71a6aed4260b2e5f5569526caa035ebd7b4a83e327ac9a5336b" serial="T-160001-1000"/>
+	</game>
+	<game name="Meitantei Conan - Kanzen Suiri! Kazu to Zukei no Nazo (Japan)" id="0021">
+		<description>Meitantei Conan - Kanzen Suiri! Kazu to Zukei no Nazo (Japan)</description>
+		<game_id>S-100011-1000</game_id>
+		<rom name="Meitantei Conan - Kanzen Suiri! Kazu to Zukei no Nazo (Japan).bin" size="4194304" crc="778d58f6" md5="92461de25060d0c4ec4e341bf014f419" sha1="985844af2626ebcea56a6e764493d023d6cec293"/>
+	</game>
+	<game name="Narumiya Mezzo Piano Oshare &amp; Lesson (Japan)" id="0020">
+		<description>Narumiya Mezzo Piano Oshare &amp; Lesson (Japan)</description>
+		<game_id>S-100010-1000</game_id>
+		<rom name="Narumiya Mezzo Piano Oshare &amp; Lesson (Japan).bin" size="4194304" crc="f541c49a" md5="d04bd3a052fd53d659ae8aad80a35496" sha1="000adaa4d9c7404d32fc62ec82c3eafb710c7f64"/>
+	</game>
+	<game name="Nihongo de Asobo (Japan)" id="0052">
+		<description>Nihongo de Asobo (Japan)</description>
+		<game_id>T-130001-1003</game_id>
+		<rom name="Nihongo de Asobo (Japan).bin" size="4194304" crc="e152dcf4" md5="26ba06b8ae4c73d863de34ddedceb522" sha1="bb4242b187a7927408928b8bc2ee63be6c0f5285"/>
+	</game>
+	<game name="Oden-kun - Oden Mura no Tanoshii Nakama-tachi (Japan)" id="0031">
+		<description>Oden-kun - Oden Mura no Tanoshii Nakama-tachi (Japan)</description>
+		<game_id>S-100028-1000</game_id>
+		<rom name="Oden-kun - Oden Mura no Tanoshii Nakama-tachi (Japan).bin" size="4194304" crc="a112a43c" md5="f1aec1e39a09874d9c4b6d7dfcb93869" sha1="b0e137c8b03714280d8e049e1b8e2a3b850f3cbc"/>
+	</game>
+	<game name="Omoiyari o Hagukumu Katarikake Ehon Miffy to Asobou Utaou (Japan)" id="0030">
+		<description>Omoiyari o Hagukumu Katarikake Ehon Miffy to Asobou Utaou (Japan)</description>
+		<game_id>S-100027-1020</game_id>
+		<rom name="Omoiyari o Hagukumu Katarikake Ehon Miffy to Asobou Utaou (Japan).bin" size="8388608" crc="d7b14a3f" md5="eca281fdc3d43c02d6864c9879094e7a" sha1="82dd79cd81349d04614d16e8ad14413f797a5661"/>
+	</game>
+	<game name="Oshare Majo Love and Berry - Cute ni Oshare (Japan)" id="0008">
+		<description>Oshare Majo Love and Berry - Cute ni Oshare (Japan)</description>
+		<rom name="Oshare Majo Love and Berry - Cute ni Oshare (Japan).bin" size="8388608" crc="f5245eea" md5="2e15fec34b0882f88e07656078eea9a9" sha1="2006c3fd2b662f4bb77388bfeefc2c885908fc5f" sha256="d6716edc9e2de112937adea4aec763a240fa192235000ec971162058e7adcfcc" serial="S-100013-1101"/>
+	</game>
+	<game name="Oshare ni Henshin HeartCatch PreCure! (Japan)" id="0010">
+		<description>Oshare ni Henshin HeartCatch PreCure! (Japan)</description>
+		<rom name="Oshare ni Henshin HeartCatch PreCure! (Japan).bin" size="8388608" crc="e2575324" md5="e42d0bc9da6a6ffe494188e3d9e443ce" sha1="500ad94f4dda4b886ff1991ddc4a730d94b37cd6" sha256="02349edaa4eb625453e628a03a60a44c51382670aaad9ca9dea95db41c2ad91b" serial="T-110015-1000"/>
+	</game>
+	<game name="Partner In TV! o-Uchi ni Wan-chan ga Yattekita (Japan)" id="0016">
+		<description>Partner In TV! o-Uchi ni Wan-chan ga Yattekita (Japan)</description>
+		<game_id>S-100003-1000</game_id>
+		<rom name="Partner In TV! o-Uchi ni Wan-chan ga Yattekita (Japan).bin" size="4194304" crc="3a3c9f33" md5="e21b1c63700c325453271865e438f11a" sha1="ba2ed83d1caf05b0e84c39d2939b5ac1e11d160f"/>
+	</game>
+	<game name="Pashah to Henshin Beauty Academy (Japan)" id="0013">
+		<description>Pashah to Henshin Beauty Academy (Japan)</description>
+		<game_id>S-100021-1000</game_id>
+		<rom name="Pashah to Henshin Beauty Academy (Japan).bin" size="8388608" crc="d59b6da4" md5="02cdb93464fb74e41a9de8304cd92228" sha1="26be7fd761042cb0af5bc10e5b34a3cf3f1f6d34"/>
+	</game>
+	<game name="Pocket Monsters Advanced Generation Pokemon Suuji Battle!! (Japan)" id="0018">
+		<description>Pocket Monsters Advanced Generation Pokemon Suuji Battle!! (Japan)</description>
+		<game_id>S-100007-1000</game_id>
+		<rom name="Pocket Monsters Advanced Generation Pokemon Suuji Battle!! (Japan).bin" size="4194304" crc="45044fe4" md5="f70656bde848874375b57404ed3f2758" sha1="af27ec3b1480e1342c90ff7b15bcbac794241948"/>
+	</game>
+	<game name="Pocket Monsters Best Wishes! Chinou Ikusei Pokemon Daiundoukai (Japan)" id="0009">
+		<description>Pocket Monsters Best Wishes! Chinou Ikusei Pokemon Daiundoukai (Japan)</description>
+		<rom name="Pocket Monsters Best Wishes! Chinou Ikusei Pokemon Daiundoukai (Japan).bin" size="8388608" crc="a88ec549" md5="f357281bd42c0c014a1fe9fdd7ffb197" sha1="866b56789fcb118e1ac50a8214a630a092aadd2f" sha256="02349edaa4eb625453e628a03a60a44c51382670aaad9ca9dea95db41c2ad91b" serial="S-100042-1000"/>
+	</game>
+	<game name="Pocket Monsters Diamond &amp; Pearl - Pokemon o Sagase! Meiro de Daibouken! (Japan)" id="0004">
+		<description>Pocket Monsters Diamond &amp; Pearl - Pokemon o Sagase! Meiro de Daibouken! (Japan)</description>
+		<rom name="Pocket Monsters Diamond &amp; Pearl - Pokemon o Sagase! Meiro de Daibouken! (Japan).bin" size="8388608" crc="7bbf9599" md5="dfce498e97f85262836da68ac46de515" sha1="25aba3628c627c3ed603f14cb50cfe6101816db7" serial="S-100039-1100"/>
+	</game>
+	<game name="Pocket Monsters Diamond &amp; Pearl Pokemon o Sagase! Meiro de Daibouken! (Japan)" id="0038">
+		<description>Pocket Monsters Diamond &amp; Pearl Pokemon o Sagase! Meiro de Daibouken! (Japan)</description>
+		<game_id>S-100039-1000</game_id>
+		<rom name="Pocket Monsters Diamond &amp; Pearl Pokemon o Sagase! Meiro de Daibouken! (Japan).bin" size="8388608" crc="0da4a46b" md5="44543d799ac38ff86eedc4c79c41e9f8" sha1="bda5f00a03e43c3e03f1ea38bf96f6c276a54a0c"/>
+	</game>
+	<game name="Point Gakushuu 10-masu Keisan (Japan)" id="0026">
+		<description>Point Gakushuu 10-masu Keisan (Japan)</description>
+		<game_id>S-100019-1004</game_id>
+		<rom name="Point Gakushuu 10-masu Keisan (Japan).bin" size="4194304" crc="9c493b67" md5="689a3d78adc03a54a7ee40a126534159" sha1="293656c39f32d3ecb8a13ad033cb71443ecb52ad"/>
+	</game>
+	<game name="Point Gakushuu Tokei (Japan)" id="0025">
+		<description>Point Gakushuu Tokei (Japan)</description>
+		<game_id>S-100018-1000</game_id>
+		<rom name="Point Gakushuu Tokei (Japan).bin" size="4194304" crc="fa74bd0b" md5="ab24c19ce8d7bb2ac531eb0fd5f57f90" sha1="46e3c8f68b18f3b72cf0f3b404960e4534bd4eeb"/>
+	</game>
+	<game name="Pururun! Shizuku-chan Asonde Tanoshiku Nouryoku Up (Japan)" id="0057">
+		<description>Pururun! Shizuku-chan Asonde Tanoshiku Nouryoku Up (Japan)</description>
+		<game_id>S-100026-1000</game_id>
+		<rom name="Pururun! Shizuku-chan Asonde Tanoshiku Nouryoku Up (Japan).bin" size="4194304" crc="c63f82dd" md5="232efb41e35d5d2d0c53f1ab1dd5939a" sha1="60b3b73b46769711316deca9296fc994f6c1b876"/>
+	</game>
+	<game name="Samurai Sentai Shinkenger Battle ga Ippai! Iza Mairu! (Japan)" id="0006">
+		<description>Samurai Sentai Shinkenger Battle ga Ippai! Iza Mairu! (Japan)</description>
+		<rom name="Samurai Sentai Shinkenger Battle ga Ippai! Iza Mairu! (Japan).bin" size="8388608" crc="41ed4615" md5="409da595573e2c48a6658a9ef28e6a4c" sha1="f0106c4a79f9aff9815318eadc272c7c62a50ec2" serial="T-110012-1000"/>
+	</game>
+	<game name="Shimajirou no Eigo Activity Ehon - ABC Park de Asobou! (Japan)" id="0053">
+		<description>Shimajirou no Eigo Activity Ehon - ABC Park de Asobou! (Japan)</description>
+		<game_id>T-140001-1001</game_id>
+		<rom name="Shimajirou no Eigo Activity Ehon - ABC Park de Asobou! (Japan).bin" size="8388608" crc="e2a6b373" md5="569a98fc7d84511c0aad3d3afd3da5a9" sha1="6aabcdc5625d8510dc95e01eae32844900c2a8a5"/>
+	</game>
+	<game name="Shoku Iku Series 1 Soreike! Anpanman - Sukikirai Nai Ko Genki na Ko! (Japan)" id="0003">
+		<description>Shoku Iku Series 1 Soreike! Anpanman - Sukikirai Nai Ko Genki na Ko! (Japan)</description>
+		<rom name="Shoku Iku Series 1 Soreike! Anpanman - Sukikirai Nai Ko Genki na Ko! (Japan).bin" size="8388608" crc="e7d8333d" md5="8d3fab135b3062cd38a41a04a3e98398" sha1="7488dddf64cb0c93b17235db93cf6a1bd5c05c0f" serial="S-100008-1000"/>
+	</game>
+	<game name="Shooting Beena Toy Story 3 - Woody to Buzz no Daibouken! (Japan)" id="0040">
+		<description>Shooting Beena Toy Story 3 - Woody to Buzz no Daibouken! (Japan)</description>
+		<game_id>S-100041-1000</game_id>
+		<rom name="Shooting Beena Toy Story 3 - Woody to Buzz no Daibouken! (Japan).bin" size="8388608" crc="57b63927" md5="9b792aba8fe86fee646cd2886f7af2b4" sha1="0d89cdf8f9cf52ae8e1e981b8caf9a7c3cf7cb79"/>
+	</game>
+	<game name="Soreike! Anpanman Card de Tanoshiku ABC (Japan)" id="0024">
+		<description>Soreike! Anpanman Card de Tanoshiku ABC (Japan)</description>
+		<game_id>S-100016-1000</game_id>
+		<rom name="Soreike! Anpanman Card de Tanoshiku ABC (Japan).bin" size="8388608" crc="c08872bf" md5="f554da011738b3c516eb1abc0fbd5d04" sha1="1f575821a7d4ac2af96f1af031b10367ba6ade98"/>
+	</game>
+	<game name="Soreike! Anpanman Hajimete Kaketa yo! Oboeta yo! Hiragana Katakana - Gojuuon Board Kinou-tsuki (Japan) (Rev 1000)" id="0055">
+		<description>Soreike! Anpanman Hajimete Kaketa yo! Oboeta yo! Hiragana Katakana - Gojuuon Board Kinou-tsuki (Japan) (Rev 1000)</description>
+		<game_id>S-100002-1000</game_id>
+		<rom name="Soreike! Anpanman Hajimete Kaketa yo! Oboeta yo! Hiragana Katakana - Gojuuon Board Kinou-tsuki (Japan) (Rev 1000).bin" size="8388608" crc="b098263e" md5="04f549a7cef414bda947845ab03cb939" sha1="3a79441792d5403e66ca49a353e32c14acfacfa7"/>
+	</game>
+	<game name="Soreike! Anpanman Hajimete Kaketa yo! Oboeta yo! Hiragana Katakana - Gojuuon Board Kinou-tsuki (Japan) (Rev 1200)" id="0002">
+		<description>Soreike! Anpanman Hajimete Kaketa yo! Oboeta yo! Hiragana Katakana - Gojuuon Board Kinou-tsuki (Japan) (Rev 1200)</description>
+		<rom name="Soreike! Anpanman Hajimete Kaketa yo! Oboeta yo! Hiragana Katakana - Gojuuon Board Kinou-tsuki (Japan) (Rev 1200).bin" size="8388608" crc="b6e038c9" md5="c554cc2e4bddd3b739cc3017eb1fef97" sha1="b12bd91e8ead04f558d32ce9086102a3c99f13eb" serial="S-100002-1200"/>
+	</game>
+	<game name="Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukutchao (Japan)" id="0039">
+		<description>Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukutchao (Japan)</description>
+		<game_id>S-100040-1000</game_id>
+		<rom name="Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukutchao (Japan).bin" size="8388608" crc="b443fb55" md5="960ce964f7eef349040b489740859e2d" sha1="791bbb6a92fc7be0af4b9530890acd4a70458ed9"/>
+	</game>
+	<game name="Suite PreCure - Happy Oshare Harmony (Japan)" id="0048">
+		<description>Suite PreCure - Happy Oshare Harmony (Japan)</description>
+		<game_id>T-110016-1000</game_id>
+		<rom name="Suite PreCure - Happy Oshare Harmony (Japan).bin" size="8388608" crc="89000b22" md5="230007dc713a223ad56682e7dc607942" sha1="9aef640c347430512e654cbf492d85eff1b94cb9"/>
+	</game>
+	<game name="Taiko no Tatsujin Ongaku Lesson (Japan)" id="0058">
+		<description>Taiko no Tatsujin Ongaku Lesson (Japan)</description>
+		<game_id>T-110006-1000</game_id>
+		<rom name="Taiko no Tatsujin Ongaku Lesson (Japan).bin" size="4194304" crc="22103e9e" md5="1ffe55637eedd2fa053f6f7763c7147a" sha1="270a221064795cd8704836f4aef6208952bc341f"/>
+	</game>
+	<game name="Tensou Sentai Goseiger Super Battle Daishuugou! (Japan)" id="0047">
+		<description>Tensou Sentai Goseiger Super Battle Daishuugou! (Japan)</description>
+		<game_id>T-110014-1000</game_id>
+		<rom name="Tensou Sentai Goseiger Super Battle Daishuugou! (Japan).bin" size="8388608" crc="30e68a0f" md5="97cc27247497d18bbe813114eb7a1eea" sha1="02b615677a2ea81f77838ffdcf9d0856def52f3c"/>
+	</game>
+	<game name="Tomica de Asobou! (Japan)" id="0022">
+		<description>Tomica de Asobou! (Japan)</description>
+		<game_id>S-100014-1000</game_id>
+		<rom name="Tomica de Asobou! (Japan).bin" size="8388608" crc="447caa66" md5="13f5f0651a74505cbc95cdefd7ec8e7b" sha1="ca44ac31ee66b5162eb43dd228664635b7d155c5"/>
+	</game>
+	<game name="Yes! PreCure 5 - Asonde Oboeyou Hiragana (Japan)" id="0005">
+		<description>Yes! PreCure 5 - Asonde Oboeyou Hiragana (Japan)</description>
+		<rom name="Yes! PreCure 5 - Asonde Oboeyou Hiragana (Japan).bin" size="8388608" crc="6ae77335" md5="41070db46e48eb0071815f3902cfa16d" sha1="29650349b117b96105882da7b12cac8fe9a04813" serial="T-110008-1101"/>
+	</game>
+	<game name="Yes! PreCure 5 GoGo! - LoveLove Hiragana Lesson (Japan)" id="0046">
+		<description>Yes! PreCure 5 GoGo! - LoveLove Hiragana Lesson (Japan)</description>
+		<game_id>T-110010-1000</game_id>
+		<rom name="Yes! PreCure 5 GoGo! - LoveLove Hiragana Lesson (Japan).bin" size="8388608" crc="3409f8c6" md5="762a9bf94a60175657ec43e1ad3607ef" sha1="7bda85cab8e327d074bcf8ff55f9d001a6c15b31"/>
+	</game>
+</datafile>

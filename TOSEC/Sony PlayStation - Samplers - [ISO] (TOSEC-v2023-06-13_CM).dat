@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Samplers - [ISO]</name>
+		<description>Sony PlayStation - Samplers - [ISO] (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Biohazard (demo) (1996-01-16)(Capcom)(JP)">
+		<description>Biohazard (demo) (1996-01-16)(Capcom)(JP)</description>
+		<rom name="Biohazard (demo) (1996-01-16)(Capcom)(JP).iso" size="272295744" crc="a1a09735" md5="110c05f3e61467c9ad8a4b01208619f6" sha1="5908e1c749f9e84662f15059b61d5dc2c8180a10"/>
+	</game>
+	<game name="Biohazard 2 v2 (1997)(Capcom)(JP)(beta)">
+		<description>Biohazard 2 v2 (1997)(Capcom)(JP)(beta)</description>
+		<rom name="Biohazard 2 v2 (1997)(Capcom)(JP)(beta).iso" size="780788736" crc="138ffd02" md5="b21bc803dd6cdbc7d3b797cab9a69960" sha1="2a6d277fa67e29a15b3a02d395bd2c10e12726f3"/>
+	</game>
+	<game name="Legacy of Kain - Soul Reaver (1999-06-28)(Crystal Dynamics - Eidos)(US)(beta)">
+		<description>Legacy of Kain - Soul Reaver (1999-06-28)(Crystal Dynamics - Eidos)(US)(beta)</description>
+		<rom name="Legacy of Kain - Soul Reaver (1999-06-28)(Crystal Dynamics - Eidos)(US)(beta).iso" size="687872976" crc="6df2681d" md5="4e89e5ea76e06d77858f203fc23a4384" sha1="6c97af43e5c7d78ac7afdc7443ce8440033a0cf1"/>
+	</game>
+</datafile>

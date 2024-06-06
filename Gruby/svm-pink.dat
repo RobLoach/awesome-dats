@@ -1,0 +1,275 @@
+clrmamepro (
+	name "ScummVM PINK"
+	description "ScummVM - PINK Engine Games"
+	category "ScummVM"
+	version v1.09
+	date 2021-07-04
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name peril
+	description "Pink Panther, The: Passport to Peril (Windows)[US][!]"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 8945466 crc 6b3c6fba md5 de0d786da1493715e35d81196f473164 sha1 57ab3c5dc6165e7565959b4274b0743943292360 )
+	rom ( name PPTP.EXE size 594432 crc 2e8d77e1 md5 ccbd60a92f86bf854226a06587e3de48 sha1 c4a181786577a3bb01c57901062edbad74da556f )
+	rom ( name PPTP.ORB size 618203600 crc 11bf5637 md5 53d7d594e8f3dc11a6b58bb118cac9b7 sha1 74db0be3ecab577a8cef078779af6fa472ce4248 )
+)
+
+game (
+	name peril-br
+	description "Pink Panther, The: Passport to Peril {A Pantera Cor-de-Rosa: Passaporte Para o Perigo}(Windows/Portuguese)"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 8945466 crc 28cec6ae md5 f806e1ae39fd0ee3afe101fc2ce6c29b sha1 80125f466fc22716ca10519ab571704fabafb2c7 )
+	rom ( name PPTP.EXE size 598528 crc 5638e1de md5 d5c28549359e51ae5c3d47a776f2a9fd sha1 f93c8267811fa78a10b6dbe48db153187f540c34 )
+	rom ( name PPTP.ORB size 642216577 crc 03eda5ec md5 c257baea6f42128a11f1b90cf24692c1 sha1 057945f3e25ce20d2ec3ee0d4da4347825724617 )
+)
+
+game (
+	name peril-da
+	description "Pink Panther, The: Passport to Peril {Den Lyserøde Panter På Hemmelig Mission I Udlandet}(Windows/Danish)[!]"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 8945466 crc a60276b8 md5 cdb67909a4b57596af51bf304ceed1b6 sha1 4ae64ed07bdabe4a940e887cec84a4be83194aa9 )
+	rom ( name PPTP.EXE size 602624 crc 784edb72 md5 0d13f3ba2ee308cee80ad8c33a971139 sha1 f04dc90f178b3c8723d730d1f689d3db8cf2139f )
+	rom ( name PPTP.ORB size 608976918 crc c284776e md5 17e2562bb0e5ff6fdb8a79155af9ab9c sha1 7d152873a27164da492583a792af3bce1c652d61 )
+)
+
+game (
+	name peril-de
+	description "Pink Panther, The: Passport to Peril {Pink Panthers Gefährliche Mission}(Windows/German)"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 8945466 crc 8ead2fff md5 17a2aca2c07307ec36e95331403b6091 sha1 20ae3662dfdaad19fb6ff1529dccdaf499db8d4c )
+	rom ( name PPTP.EXE size 596992 crc 7c74738a md5 47b1f2d2aa48a2d89d3954c94c8b21dd sha1 034ee5fec520af1e00b54eb92f1ff9d3a41e398f )
+	rom ( name pptp.orb size 609695309 crc 5fa22acb md5 7f7e1179e5436661d217904eaa359506 sha1 5b4d876ef62d04f96457983754e67f53858becb4 )
+)
+
+game (
+	name peril-es
+	description "Pink Panther, The: Passport to Peril {La Pantera Rosa en Misión PeligRosa}(Windows/Spanish)"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 20 crc b08b67d1 md5 af9e0e58ee9046dceda4f55060ebd34c sha1 cbc3685f2729f022b4e7fd7033bf4393c483fd7b )
+	rom ( name PPTP.EXE size 595456 crc f635c5f4 md5 f604f406b8594983f361a73cee6bebe8 sha1 d0715307d7084a35cac7c1b444796ce22a9532aa )
+	rom ( name PPTP.ORB size 633626567 crc 05143599 md5 1ab9200a11e6b7133003fc18538b191e sha1 7f341bda3a0a3de4442a729c5eaba399791564fa )
+)
+
+game (
+	name peril-fi
+	description "Pink Panther, The: Passport to Peril {Matkalippu Vaaraan: Vaaleanpunainen Pantteri}(Windows/Finnish)"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 8945466 crc 6b3c6fba md5 de0d786da1493715e35d81196f473164 sha1 57ab3c5dc6165e7565959b4274b0743943292360 )
+	rom ( name PPTP.EXE size 599040 crc 07490562 md5 a6be7ce6b50f5e975157749315c5ea30 sha1 085da62af84e8de831e1d5b1c227963d8ea72470 )
+	rom ( name PPTP.ORB size 612549215 crc d63a36a2 md5 3f5a4c4f8420e8274e4b50501b3cd107 sha1 4e50706a3bee4f7995ad2a99138786515b3da800 )
+)
+
+game (
+	name peril-fr
+	description "Pink Panther, The: Passport to Peril {La Panthère Rose: Passeport pour le Danger}(Windows/French)"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 8945466 crc 33543a4a md5 74215cc4ae2a63342f862b2a748db357 sha1 ed086956bf4863dfe172a6cb66d45a5f9f090843 )
+	rom ( name PPTP.EXE size 598528 crc 91aa9adb md5 002a721d48b28c9ae625d86e2540046d sha1 367e5ff67fc85b9185a1bf77acddb3d4ec345eb8 )
+	rom ( name PPTP.ORB size 607185037 crc b8baa3bf md5 fd5e532cf75c8ee88bf7bd92675812e7 sha1 f9a240ffde8cba1098d9c696d9644b7dc75e8ba6 )
+)
+
+game (
+	name peril-gb
+	description "Pink Panther, The: Passport to Peril (Windows)[EU][!]"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name pptp.bro size 8945466 crc 3ed259c3 md5 a7156d629fe21c1d4012eb2af6182ca9 sha1 e2c9d9440a88b1cf0207e9ff4323abef3b6a2af5 )
+	rom ( name pptp.exe size 594432 crc d27c372d md5 0fdbedefe6f44bdb34c1a9e3d4d83ce2 sha1 91437386aaacb42ce787bfc64b020519d736641e )
+	rom ( name pptp.orb size 619145676 crc 77bf77e7 md5 9924c0e0332457be42d677aa748cfa30 sha1 d79dc6955c4594df1e727152d330ac4056226c48 )
+)
+
+game (
+	name peril-il
+	description "Pink Panther, The: Passport to Peril {הפנתר הורוד: משימה בינלאומית}(Windows/Hebrew)"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name pptp.bro size 8945466 crc b2294995 md5 9c483df0cb07b949dcac8d2b00a93694 sha1 70874ae84173587ce190f5d59d40d6183dc86923 )
+	rom ( name pptp.exe size 592384 crc 11a5da58 md5 29af5418c4417cc6d3edb161f541316a sha1 6bdb524ee3853ada74c37d5ddc75a6264958d40e )
+	rom ( name PPTP.ORB size 616292424 crc 53f713c7 md5 27ec8401e86b223233e2e85856857786 sha1 536f719fd7be6771d306ac48710b43c522145348 )
+)
+
+game (
+	name peril-nl
+	description "Pink Panther, The: Passport to Peril {De Roze Panter: Paspoort Naar Avontuur}(Windows/Dutch)"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 8945466 crc a8b013ac md5 383cf9ccfbb6311d5711c638d8092b0a sha1 32c111cf87e7ed50934edba29847cc24400f0729 )
+	rom ( name PPTP.EXE size 604160 crc 4dfef292 md5 a7f5204045851fe227e96432626ae9b6 sha1 ff229d2ca0d4e18d915aa2ed752efe03c084ee5c )
+	rom ( name PPTP.ORB size 613211963 crc d3dc8cfc md5 6dfbd0269c043292fd4b93a535618f57 sha1 a2e795ca4f648b974f3d91d018eca6c11b1c8e45 )
+)
+
+game (
+	name peril-pl
+	description "Pink Panther, The: Passport to Peril {Na kłopoty Pantera}(Windows/Polish)"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name Pptp.bro size 8945466 crc a54c7025 md5 508a2cd356d78cfac9d01a150e37e83d sha1 60d6b743b20e6ea3fe6b53fb844a049ec0b1888f )
+	rom ( name Pptp.exe size 1344862 crc 5edb75cc md5 e45706ee1662c6167220cdd8abf5df68 sha1 b6a4b99afbb951801ba21d07d31c04336e5d567a )
+	rom ( name Pptp.orb size 644839372 crc 3a6005bc md5 01c94a322928ecbb11d6e4317cb827a3 sha1 a41653c08ea08927bca75d8ec86a6b6e870447d8 )
+)
+
+game (
+	name peril-ru
+	description "Pink Panther, The: Passport to Peril {Розовая Пантера: Право на риск}(Windows/Russian)[!]"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 8945466 crc a53e482a md5 2a893a68b2355295e429c6263c8ddc8a sha1 cb5ecff67575c5d68bb6b96c7867be1d6dca71c1 )
+	rom ( name PPTP.EXE size 742912 crc 1fe6c8a2 md5 ab70b2f59cb87b90b8fbfff316d0ed28 sha1 9d04e37908ef0d3eaf889e03681bed9f48bc135e )
+	rom ( name PPTP.ORB size 635322616 crc 8ce092cd md5 b8dab02e8dcb967b2f4f556d7129e9de sha1 ae86c0b8524078cc349f13dcf1a38bf48025cfad )
+)
+
+game (
+	name peril-se
+	description "Pink Panther, The: Passport to Peril {Rosa Pantern i Resa På Egen Risk}(Windows/Swedish)"
+	year 1996
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name PPTP.BRO size 8945466 crc dbe847c3 md5 06acd9ae0413a0d8538afaf5350422b1 sha1 0ac8d290a4ff01f87a7c0848171ccf31ea3adcac )
+	rom ( name PPTP.EXE size 594944 crc b312755c md5 3fdbf4c39b76820ca26224d8bebe00a8 sha1 4de407f0ae148da0c9f0b16edc9e5ca6a133ca0f )
+	rom ( name PPTP.ORB size 633843917 crc 2a514f1b md5 e44d6d3f28cbf0d93492db60634e5362 sha1 84ef1dab15159e3f3599aefc72ff8a5dba54ec97 )
+)
+
+game (
+	name pokus
+	description "Pink Panther, The: Hokus Pokus Pink (Windows)[!]"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name HPP.EXE size 697856 crc 3da07c5f md5 ee07b0244f3f3ebbd65541ea47fba61e sha1 a12f7eccaefa026ec4c94bb9451998d4385f24c8 )
+	rom ( name HPP.ORB size 503443586 crc afbf0cc3 md5 0c4b394f22e5d9115762b198b41d00a9 sha1 9a8424012828ea9bc7b3c1803e9e5c86ad5fdaa8 )
+)
+
+game (
+	name pokus-br
+	description "Pink Panther, The: Hokus Pokus Pink {A Pantera Cor-de-Rosa: Abracadabra}(Windows/Portuguese)"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name hpp.exe size 698880 crc 5384e1ac md5 62effbd85ffba8fe08a2b73f6793a8c8 sha1 bb90a92c3b5fc6466965ce88368623050ed63576 )
+	rom ( name hpp.orb size 526755539 crc 77d74722 md5 b6ea34f14172c1b4aba4710a757c44f3 sha1 5872984e07f63affaa8e013d5f49bc5b9fe6737b )
+)
+
+game (
+	name pokus-da
+	description "Pink Panther, The: Hokus Pokus Pink {Den Lyserøde Panter - I Hokus Pokus Panter}(Windows/Danish)[!]"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name Hpp.exe size 707584 crc 529e8611 md5 c80f55c1d76ae76c5e3fefdb2916ea38 sha1 358c19a390389556d9d25c4f42460774b2b766db )
+	rom ( name hpp.orb size 513518023 crc 73780afa md5 b0d8151600801aa2bb8b3e2586e065ef sha1 bda412c634122e39b603006f4e9fd086f0ce8e2b )
+)
+
+game (
+	name pokus-de
+	description "Pink Panther, The: Hokus Pokus Pink {Pink Panther und die Zauberformel}(Windows/German)"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name HPP.EXE size 700416 crc 71cf7715 md5 529e17800357dfb929728b2b413a10db sha1 a2cfd93d97ae2fa55a30a0039bf5a59ce281e5eb )
+	rom ( name HPP.ORB size 543000636 crc e108568f md5 feb7359cdfc9bf50f891abb94de55118 sha1 50fb3565e3deefe284eef1dd1c656e14ec58467e )
+)
+
+game (
+	name pokus-es
+	description "Pink Panther, The: Hokus Pokus Pink {La Pantera Rosa en Abracadabra Rosa}(Windows/Spanish)"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name HPP.EXE size 699904 crc 967f1e46 md5 8eb76e8f79a421e2ccf6274a91874744 sha1 486fafa256bfca17deb3056b888cd0faebd3b4ad )
+	rom ( name HPP.ORB size 508716126 crc d782b2cd md5 0d60153cbf7de02c49c188bc236e551c sha1 8c1b7f36f174d07050e658c19f6ac96878d84fb2 )
+)
+
+game (
+	name pokus-fr
+	description "Pink Panther, The: Hokus Pokus Pink {La Panthère Rose: Destination Mystère}(Windows/French)"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name Hpp.exe size 707072 crc 300fd408 md5 aa2d2f1d11b66053c664cef5de7ca1d1 sha1 265e0f096dd77a6d099fca181af8bfcf878de602 )
+	rom ( name hpp.orb size 492220293 crc fa4ff9f2 md5 ddffa6df7f05d421f348d67f7f86bca3 sha1 6b6de7fa6472b9854cdbf9c6a1422b3f8a477477 )
+)
+
+game (
+	name pokus-il
+	description "Pink Panther, The: Hokus Pokus Pink {הפנתר הורוד: הוקוס פוקוס}(Windows/Hebrew)"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name hpp.exe size 642048 crc b68904c6 md5 d8a44b62a2445cfd4499fb912f219823 sha1 3e3796c18b6acb6a66bf4cdfa60d528913f950dd )
+	rom ( name HPP.ORB size 502988485 crc bc136c90 md5 ab8576489a2968c6575e5b31fd787382 sha1 718ab1b1744cb081344eda47c77bf2bbe4dc21a2 )
+)
+
+game (
+	name pokus-nl
+	description "Pink Panther, The: Hokus Pokus Pink (Windows/Dutch)[v2.0]"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name HPP.EXE size 698880 crc cf2e70a8 md5 3fd049107c404bdfcbbad0c6529f3eb2 sha1 8ba35d5c5694e49a803fcdbf7eafbc17cd662a9a )
+	rom ( name HPP.ORB size 509498617 crc eccf632a md5 2a968e6bb1707714fc9020e6b0bfe027 sha1 58a6b1694f38bcdc31e8a5b10fc83c081501b928 )
+)
+
+game (
+	name pokus-nl-1
+	description "Pink Panther, The: Hokus Pokus Pink (Windows/Dutch)[v1.0][!]"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name hpp.exe size 698880 crc a8686d93 md5 f0a325d59e6d253414d1024211a6649a sha1 c03e37475512e95a886f97fd2589ea6668e4dbd0 )
+	rom ( name HPP.ORB size 509498007 crc a5a1a17d md5 64dfad61a31399d62ade8b108cef3685 sha1 c2f8478536d8507f18ea73237da31c9af35bccaf )
+)
+
+game (
+	name pokus-pl
+	description "Pink Panther, The: Hokus Pokus Pink {Hokus Pokus: Różowa Pantera}(Windows/Polish)"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name HPP.EXE size 697856 crc 8a15d8e0 md5 3f07acfa592d27ae63ffe1a39646158e sha1 fed3cda3cbee8625392cb209bcee685e66a73405 )
+	rom ( name HPP.ORB size 539274161 crc 61a56bf9 md5 1aacc77ded8790596c32bb111810bb37 sha1 a677a2e30a0a1db68a57638e5506a6ea9e58104e )
+)
+
+game (
+	name pokus-ru
+	description "Pink Panther, The: Hokus Pokus Pink {Розовая Пантера: Фокус-Покус}(Windows/Russian)"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name HPP.DAT size 105859072 crc bf1153c0 md5 899a19e0c7ef7593b6dd11be18188cce sha1 d0d5c642916f17724de85da1d21565c615b20835 )
+	rom ( name HPP.EXE size 699904 crc 022e1a43 md5 71dd73dbfe3d716c1419acd1653651ea sha1 825ecfddad32b9c4504bd53bae38f923c13d9522 )
+	rom ( name HPP.ORB size 526369062 crc b64d6bbc md5 17cd97c0c3467e14352699d186065dbd sha1 ff12032919f306251ed5ebd08d6214a8f1df14de )
+)
+
+game (
+	name pokus-se
+	description "Pink Panther, The: Hokus Pokus Pink {Rosa Pantern i Hokus Pokus Panter}(Windows/Swedish)"
+	year 1998
+	manufacturer "Wanderlust Interactive"
+	sourcefile pink
+	rom ( name HPP.EXE size 673280 crc fd51fd94 md5 672a99b8b6788c1c80ad01733a4e6720 sha1 a5904d38f4969ed7286e1c4f783b7756dcfec3c5 )
+	rom ( name HPP.ORB size 500103742 crc f676673f md5 aa2e58de49c73f66f1d8f1bbbe163a9c sha1 d16bc09a7074545887275f1ff490de53d8aa2b14 )
+)
+

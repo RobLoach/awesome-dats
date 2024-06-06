@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>244</id>
+		<name>Fujitsu - FM-7 (Bitstream)</name>
+		<description>Fujitsu - FM-7 (Bitstream)</description>
+		<version>20231101-163040</version>
+		<author>FakeShemp, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] FM-77 (Japan)" id="0021">
+		<description>[BIOS] FM-77 (Japan)</description>
+		<rom name="BOOT_BAS.rom" size="512" crc="c70f0c74" md5="9f9b7d5615ecdbde2cd26e9306ffef13" sha1="53b63a301cba7e3030e79c59a4d4291eab6e64b0"/>
+		<rom name="BOOT_DOS.rom" size="512" crc="198614ff" md5="c6c37a57b33fee51b8cd8e8586c3f018" sha1="037e5881bd3fed472a210ee894a6446965a8d2ef"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+	</game>
+	<game name="[BIOS] FM-8 (Japan)" id="0022">
+		<description>[BIOS] FM-8 (Japan)</description>
+		<rom name="bootbas8.rom" size="512" crc="8260267a" md5="c5268e78213ee7de54bb9794e42cbcc3" sha1="fee6fb9c52d22dd7108c68d08c74e2f3ebcb9e4d"/>
+		<rom name="bootdos8.rom" size="512" crc="1ed5a506" md5="45822d870bcef58aeef0576dd57f6fec" sha1="966538fa92c32fc15034576dc480cfa4a339384d"/>
+		<rom name="fbasic10.rom" size="31744" crc="e80ed96c" md5="458b652ebe0861b36c977ff19b668fbc" sha1="f3fa8a6adb07224ad2a1def77d5dae9662de0867"/>
+		<rom name="subsys_8.rom" size="10240" crc="979f9046" md5="b612bc76e7ff2ba70d8517c6373c58bd" sha1="9c52052087bf3a41b83d437a51d89b9fcfec2515"/>
+	</game>
+	<game name="[BIOS] FM77AV (Japan)" id="0023">
+		<description>[BIOS] FM77AV (Japan)</description>
+		<rom name="BOOT_BAS.rom" size="512" crc="c70f0c74" md5="9f9b7d5615ecdbde2cd26e9306ffef13" sha1="53b63a301cba7e3030e79c59a4d4291eab6e64b0"/>
+		<rom name="BOOT_DOS.rom" size="512" crc="198614ff" md5="c6c37a57b33fee51b8cd8e8586c3f018" sha1="037e5881bd3fed472a210ee894a6446965a8d2ef"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="INITIATE.rom" size="8192" crc="0101ff55" md5="6a30dcef71fd1f52a53c37c45b763269" sha1="f2b358dea3869ec6545a50caa6c217d1bcec309f"/>
+		<rom name="KANJI.rom" size="131072" crc="fe8f63b0" md5="3b1bba7279ea756b10968a12616c8008" sha1="bc40bef9d81b7dd6e0b156ce87fd5c7680dfb63c"/>
+		<rom name="SUBSYS_A.rom" size="8192" crc="e8014fbb" md5="ae945a6dfb642b0a5d0529737e8ee5cd" sha1="038cb0b42aee9e933b20fccd6f19942e2f476c83"/>
+		<rom name="SUBSYS_B.rom" size="8192" crc="9be69fac" md5="fb83a1a9725c8432acef0c3ce89492e3" sha1="0305bdd44e7d9b7b6a17675aff0a3330a08d21a8"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="2cacf31c" md5="c3b0445a69e0f7970b719ae165e91936" sha1="254cf62a2134a67ea633caa37aa3d513c52e53a7"/>
+		<rom name="SUBSYSCG.rom" size="8192" crc="9b0273a8" md5="4557aa8001287c4d3fdb22d567150830" sha1="aabdfe5c2c9764e1fd85cd8eacd1d234e887d33e"/>
+	</game>
+	<game name="[BIOS] FM77AV (Japan) (Alt)" id="0024">
+		<description>[BIOS] FM77AV (Japan) (Alt)</description>
+		<rom name="BOOT_BAS.rom" size="512" crc="c70f0c74" md5="9f9b7d5615ecdbde2cd26e9306ffef13" sha1="53b63a301cba7e3030e79c59a4d4291eab6e64b0"/>
+		<rom name="BOOT_DOS.rom" size="512" crc="198614ff" md5="c6c37a57b33fee51b8cd8e8586c3f018" sha1="037e5881bd3fed472a210ee894a6446965a8d2ef"/>
+		<rom name="FB30ROM1.dat" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="FB30ROM2.dat" size="480" crc="d300bdce" md5="fa91a1acce3b4a323ee8d93537242b96" sha1="6fb4782f8b5c2df081986f06bbf6474a5ae732e5"/>
+		<rom name="FB30SUB.dat" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="INITIATE.rom" size="8192" crc="0101ff55" md5="6a30dcef71fd1f52a53c37c45b763269" sha1="f2b358dea3869ec6545a50caa6c217d1bcec309f"/>
+		<rom name="KANJI.rom" size="131072" crc="fe8f63b0" md5="3b1bba7279ea756b10968a12616c8008" sha1="bc40bef9d81b7dd6e0b156ce87fd5c7680dfb63c"/>
+		<rom name="SUBSYS_A.rom" size="8192" crc="e8014fbb" md5="ae945a6dfb642b0a5d0529737e8ee5cd" sha1="038cb0b42aee9e933b20fccd6f19942e2f476c83"/>
+		<rom name="SUBSYS_B.rom" size="8192" crc="9be69fac" md5="fb83a1a9725c8432acef0c3ce89492e3" sha1="0305bdd44e7d9b7b6a17675aff0a3330a08d21a8"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+		<rom name="SUBSYSCG.rom" size="8192" crc="e9f16c42" md5="7db27dede3e358017d518101850bccfa" sha1="8ab466b1546d023ba54987790a79e9815d2b7bb2"/>
+	</game>
+	<game name="[BIOS] FM77AV40EX (Japan)" id="0025">
+		<description>[BIOS] FM77AV40EX (Japan)</description>
+		<rom name="BOOT_BAS.rom" size="512" crc="c70f0c74" md5="9f9b7d5615ecdbde2cd26e9306ffef13" sha1="53b63a301cba7e3030e79c59a4d4291eab6e64b0"/>
+		<rom name="BOOT_DOS.rom" size="512" crc="198614ff" md5="c6c37a57b33fee51b8cd8e8586c3f018" sha1="037e5881bd3fed472a210ee894a6446965a8d2ef"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="INITIATE.rom" size="8192" crc="785cb06c" md5="e0f4c0ebee60aee83e863826e59ae1de" sha1="b65987e98a9564a82c85eadb86f0204eee5a5c93"/>
+		<rom name="KANJI1.rom" size="131072" crc="62402ac9" md5="a330817f8f7ced752a7bcc8dfba8fd2e" sha1="bf52d22b119d54410dad4949b0687bb0edf3e143"/>
+		<rom name="SUBSYS_A.rom" size="8192" crc="e8014fbb" md5="ae945a6dfb642b0a5d0529737e8ee5cd" sha1="038cb0b42aee9e933b20fccd6f19942e2f476c83"/>
+		<rom name="SUBSYS_B.rom" size="8192" crc="9be69fac" md5="fb83a1a9725c8432acef0c3ce89492e3" sha1="0305bdd44e7d9b7b6a17675aff0a3330a08d21a8"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+		<rom name="SUBSYSCG.rom" size="8192" crc="e9f16c42" md5="7db27dede3e358017d518101850bccfa" sha1="8ab466b1546d023ba54987790a79e9815d2b7bb2"/>
+	</game>
+	<game name="[BIOS] FM77AV40SX (Japan)" id="0026">
+		<description>[BIOS] FM77AV40SX (Japan)</description>
+		<rom name="DICROM.rom" size="262144" crc="b142acbc" md5="875c99f14185287544e0b61c664d6a5a" sha1="fe9f92a8a2750bcba0a1d2895e75e83858e4f97f"/>
+		<rom name="EXTSUB.rom" size="49152" crc="0f7fcce3" md5="7c4fe9a0564bc636c0393deb1d19e10d" sha1="a1304457eeb400b4edd3c20af948d66a04df255e"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="INITIATE.rom" size="8192" crc="785cb06c" md5="e0f4c0ebee60aee83e863826e59ae1de" sha1="b65987e98a9564a82c85eadb86f0204eee5a5c93"/>
+		<rom name="KANJI1.rom" size="131072" crc="62402ac9" md5="a330817f8f7ced752a7bcc8dfba8fd2e" sha1="bf52d22b119d54410dad4949b0687bb0edf3e143"/>
+		<rom name="KANJI2.rom" size="131072" crc="38644251" md5="e6d19021a8df5e4d63dfd89533d29b9c" sha1="ebfdc43c38e1380709ed08575c346b2467ad1592"/>
+		<rom name="SUBSYS_A.rom" size="8192" crc="e8014fbb" md5="ae945a6dfb642b0a5d0529737e8ee5cd" sha1="038cb0b42aee9e933b20fccd6f19942e2f476c83"/>
+		<rom name="SUBSYS_B.rom" size="8192" crc="9be69fac" md5="fb83a1a9725c8432acef0c3ce89492e3" sha1="0305bdd44e7d9b7b6a17675aff0a3330a08d21a8"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+		<rom name="SUBSYSCG.rom" size="8192" crc="e9f16c42" md5="7db27dede3e358017d518101850bccfa" sha1="8ab466b1546d023ba54987790a79e9815d2b7bb2"/>
+	</game>
+	<game name="Cockpit, The (Japan) (Greaseweazle)" id="0038">
+		<description>Cockpit, The (Japan) (Greaseweazle)</description>
+		<rom name="Cockpit, The (Japan) (Greaseweazle).hfe" size="1104896" crc="d4b551cc" md5="eaed2b7e16b0d560c0733da5f2263f49" sha1="512749a1881c9fc4913706730e158b2164793199" sha256="a02c8a78465d97246c17b7c46919f680f7d30167d6d7175dff79f580e135d495"/>
+	</game>
+	<game name="Wing Man 2 (Japan) (Disk 1)" id="0037">
+		<description>Wing Man 2 (Japan) (Disk 1)</description>
+		<rom name="Wing Man 2 (Japan) (Disk 1).hfe" size="1104896" crc="5e63ed0c" md5="971e1066c3b5f1e814ddb101067ace1c" sha1="6c168c8aa8f4255f95edddf2ffc1c93018e35c2c" sha256="b8d9cdbf58f17097cd342989e5eeb674aa177c7d9db16cd7ef2834457ce5e201"/>
+	</game>
+	<game name="Wing Man 2 (Japan) (Disk 2)" id="0328">
+		<description>Wing Man 2 (Japan) (Disk 2)</description>
+		<rom name="Wing Man 2 (Japan) (Disk 2).hfe" size="1104896" crc="0cb5cd6b" md5="759d01ddba355b132bb884ff4cff478a" sha1="c669511247eb13c96917da41879bdaf38f8479c8" sha256="528350553271408d26c10a3b50a0cad794919b9668139d10573fbfac39ea593b"/>
+	</game>
+</datafile>

@@ -1,0 +1,588 @@
+clrmamepro (
+	name "ScummVM GLK-Glulx"
+	description "ScummVM - GLK Engine - Glulx Games"
+	category "ScummVM"
+	version v1.09
+	date 2022-02-04
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name adventglulx
+	description "Adventure, Colossal Cave (Multi-OS)[350 point-R5-961209][with toolbar]"
+	year 2002
+	manufacturer "William Crowther & Graham Nelson & Simon Baldwin"
+	sourcefile glk-glulx
+	rom ( name advent.blb size 195406 crc 6aacbb2f md5 8e3ace47c395bf1acd4c5f02dd6befa3 sha1 a9d3e20c5d7020daa62a8e34ed792a3029e3c417 )
+)
+
+game (
+	name adventglulx-1
+	description "Adventure, Colossal Cave (Multi-OS)[350 point-R5-961209]"
+	year 2000
+	manufacturer "William Crowther & Graham Nelson & Andrew Plotkin"
+	sourcefile glk-glulx
+	rom ( name advent.ulx size 167424 crc acd0cd0f md5 5af59670b8fe1205a51c3f3fbd7c8c49 sha1 3339ae30de64ce0ad858fd48c22c5398968a234d )
+)
+
+game (
+	name alongdrink
+	description "A Long Drink (Multi-OS)[R7-150214][!]"
+	year 2015
+	manufacturer "Owen Parks"
+	sourcefile glk-glulx
+	rom ( name a-long-drink.gblorb size 2164954 crc b5bf8353 md5 2e18e7f4e622ff3e4103a071d3439ba7 sha1 971d99511b655106d595715ccf0bb20224e6da08 )
+)
+
+game (
+	name andromeda1983
+	description "Andromeda 1983 (Multi-OS)[v1.0][!]"
+	year 2015
+	manufacturer "Marco Innocenti"
+	sourcefile glk-glulx
+	rom ( name ANDROMEDA1983.gblorb size 9580734 crc 0f4287e8 md5 56cae5db8556463d7ab67b9aa71d21dd sha1 5a111fa0f70c5a57fd90435c52e1b10986b3de15 )
+	rom ( name "Commodore Pixelized v1.2.ttf" size 20324 crc f069662f md5 7487c7dc755452641471aaa62311329a sha1 47c1d98960478256f4864bb2565b02d34b6171b5 )
+)
+
+game (
+	name apollo10glulx
+	description "Apollo 18+20 #10: Narrow Your Eyes (Multi-OS)[R1-120323]"
+	year 2012
+	manufacturer "Ben Collins-Sussman and Jack Welch"
+	sourcefile glk-glulx
+	rom ( name NarrowYourEyes.gblorb size 1897372 crc 238dd9bc md5 70bb51d38a5a9f9ad0dd91fc19ef21d0 sha1 707c2ef901432330c5f20715783d283efcba8612 )
+)
+
+game (
+	name apollo12glulx
+	description "Apollo 18+20 #12: Which Describes How You're Feeling (Multi-OS)[R1-120321]"
+	year 2012
+	manufacturer "Adam Parrish"
+	sourcefile glk-glulx
+	rom ( name WhichDescribesHowYou'reFeel.gblorb size 883926 crc 29bbc31d md5 c989c869155d5277f089bdbe42fbb942 sha1 cc927b6359f48019ffa10362bf981c909c3e24ae )
+)
+
+game (
+	name apollo15glulx
+	description "Apollo 18+20 #15: Turn Around (Multi-OS)[R1-120324]"
+	year 2012
+	manufacturer "Andrew Schultz"
+	sourcefile glk-glulx
+	rom ( name turn_around.gblorb size 633818 crc 65e3a358 md5 f14fc597b8598eac1a6457beafb7bb20 sha1 3dc89c4ba484a2501f82ee29bf46aa35513bb05f )
+)
+
+game (
+	name apollo19glulx
+	description "Apollo 18+20 #19: Fingertips - I Hear the Wind Blow (Multi-OS)[R1-120325]"
+	year 2012
+	manufacturer "Jacqueline A. Lott"
+	sourcefile glk-glulx
+	rom ( name windblow.gblorb size 466244 crc 78cb09af md5 25bd43d31a61697d91008ec902eba148 sha1 0ebebdd066397cfc3d759a7e313de1b4b3f599ca )
+)
+
+game (
+	name apollo33glulx
+	description "Apollo 18+20 #33: Fingertips - Mysterious Whispers (Multi-OS)[R4-120211]"
+	year 2012
+	manufacturer "Peter Nepstad"
+	sourcefile glk-glulx
+	rom ( name Fingertips-MysteriousWhispers.gblorb size 411726 crc a97f4a42 md5 f395e85ab31b57ad6c01a23d8c021248 sha1 aea29dd04ffa6828679356c596e9ad092003d9ea )
+)
+
+game (
+	name apollo3glulx
+	description "Apollo 18+20 #03: She's Actual Size (Multi-OS)[R5-120327]"
+	year 2012
+	manufacturer "Jake Eakle"
+	sourcefile glk-glulx
+	rom ( name She'sActualSize.gblorb size 482978 crc ba593fe3 md5 445b9369da38a450e50bd65c130639d5 sha1 caf3d1ff541778a59abe5e9e4af9ee642ba18225 )
+)
+
+game (
+	name artoffugue
+	description "Art of Fugue (Multi-OS)[R1-100911][!]"
+	year 2010
+	manufacturer "Victor Gijsbers, Jimmy Maher, Dorte Lassen and Johan"
+	sourcefile glk-glulx
+	rom ( name ArtOfFugue.gblorb size 21605450 crc d23ef110 md5 b02c91a1904be798b2eb3eb1299f9282 sha1 d1089a8e012e6d80b8d0c2be3341a8802a1bb29d )
+)
+
+game (
+	name artoffugue-1
+	description "Art of Fugue (Multi-OS)[R1-100911][No Music][!]"
+	year 2010
+	manufacturer "Victor Gijsbers, Jimmy Maher, Dorte Lassen and Johan"
+	sourcefile glk-glulx
+	rom ( name ArtOfFugue_NoMusic.gblorb size 1596664 crc 5a66f846 md5 b938b0091bd596b8c608f8c4288a1615 sha1 f701a1f74f52aa25277db3e85f61bd516ed8af6d )
+)
+
+game (
+	name balancesglulx
+	description "Balances: An Interactive Short Story (Multi-OS)[R5-961216][glulx]"
+	year 2002
+	manufacturer "Graham Nelson & L. Ross Raszewski"
+	sourcefile glk-glulx
+	rom ( name balances.blb size 383542 crc 27b418ae md5 5378eb32db5ff43271f4d507406c3a22 sha1 b7a17cb2a31f4304a93230a14fce28ef06d8077f )
+)
+
+game (
+	name beyondglulx
+	description "Beyond (Multi-OS)[R5-100115][glulx]"
+	year 2010
+	manufacturer "Mondi Confinanti & Roberto Grassi, Paolo Lucchesi and Alessandro Peretti"
+	sourcefile glk-glulx
+	rom ( name beyond.gblorb size 1303364 crc 67274c8f md5 f456434cef5aaad465fdbc8780e377cf sha1 0be0f0858c3c9fefc8fc23ec00146fc23d499a9a )
+)
+
+game (
+	name beyondglulx-it
+	description "Beyond (Multi-OS/Italian)[R5-100115][glulx]"
+	year 2010
+	manufacturer "Mondi Confinanti"
+	sourcefile glk-glulx
+	rom ( name aldila.gblorb size 1331582 crc e5450f1f md5 c6b31df53386711221752aa0f16ecc09 sha1 6f31216f2db583c5b762ad66aa9a56d3b352818d )
+)
+
+game (
+	name bureaucrocyglulx
+	description "Bureaucrocy: A Boring Tale About Paperwork (Multi-OS)[R1-140401]"
+	year 2014
+	manufacturer "Adri"
+	sourcefile glk-glulx
+	rom ( name Bureaucrocy.gblorb size 565522 crc 974356e6 md5 6fa833745a200f4dbb172d932d2aae96 sha1 1af67596c5ddb2651b32b6ccc1ee361d5aba2eef )
+)
+
+game (
+	name caveglulx
+	description "Cave (Multi-OS)[R1-040606]"
+	year 2004
+	manufacturer "William Stott"
+	sourcefile glk-glulx
+	rom ( name Cave.blb size 279960 crc 14823164 md5 c752a827365735e2b01bc33e437a7071 sha1 73288c787ef1d167b790527408cd0fb8559a0c7d )
+)
+
+game (
+	name cheesedoffglulx
+	description "Cheesed Off! (Multi-OS)[R2-160315]"
+	year 2016
+	manufacturer "Hulk Handsome"
+	sourcefile glk-glulx
+	rom ( name Cheesed_Off.gblorb size 666448 crc 04907df2 md5 e77c0d3856199d2541d804099e1042d6 sha1 37c3c360659bd69e469ea951f86703f7388ec3a1 )
+)
+
+game (
+	name comp01tr
+	description "Comp01ter Game: N0n C0mp0s Ment1s (Multi-OS)[R2001-012001][!]"
+	year 2001
+	manufacturer "Austin Thorvald, aka Brendan Barnwell"
+	sourcefile glk-glulx
+	rom ( name comp01tr.ulx size 149760 crc 395b2fce md5 a57eaaf864eeba12908084c380156df5 sha1 cee1e1528949ae9055c350c1276733e098af581d )
+)
+
+game (
+	name cragne
+	description "Cragne Manor (Multi-OS)[R10-181208]"
+	year 2018
+	manufacturer "More than Eighty Authors"
+	sourcefile glk-glulx
+	rom ( name cragne.gblorb size 8869096 crc 39ea83de md5 1430246479c3d5244f89cf028ef2629a sha1 42aef1591972871603214b0db0b02bc1cb8be485 )
+)
+
+game (
+	name darknessglulx
+	description "Darkness (Multi-OS)[R3-130704]"
+	year 2017
+	manufacturer "Richard Otter"
+	sourcefile glk-glulx
+	rom ( name Darkness.gblorb size 608574 crc d70526f4 md5 68af11595db8721f03dd1fa37424a994 sha1 0e930b365fd2e205ff7871f81051031828d95e9e )
+	rom ( name darkness.taf size 25238 crc 0cf4acea md5 cc37e0a9e02b505f6e0cfd1146211ea8 sha1 d7818ca71e8cd869fea1c31f860907719223222a )
+)
+
+game (
+	name diaperquest
+	description "Diaper Quest (Multi-OS)[R1-171224]"
+	year 2018
+	manufacturer "Aika"
+	sourcefile glk-glulx
+	rom ( name DiaperQuest.gblorb size 417101284 crc 4629ecf4 md5 cb2843088bdbcf7cc56b7c17cd1811d5 sha1 13ecf323c43b4d06c64402f2127f8153aa66b9d8 )
+)
+
+game (
+	name dracula1glulx
+	description "Dracula: Part 1, The First Night {Dracula: Episodio 1, La Primera Noche}(Multi-OS/Spanish)[R8-071227][glulx]"
+	year 2007
+	manufacturer "CRL & DEF and El Clerigo Urbatain"
+	sourcefile glk-glulx
+	rom ( name Dracula_La_Primera_Noche.blb size 467354 crc ea2bb101 md5 c2e55959ccd30288dfc42d801f93629e sha1 7dc15b105857236250b37163407b9cad313583ef )
+)
+
+game (
+	name dracula1glulx-1
+	description "Dracula: Part 1, The First Night (Multi-OS)[R8-071227][glulx]"
+	year 20
+	manufacturer "CRL & DEF and El Clerigo Urbatain"
+	sourcefile glk-glulx
+	rom ( name Dracula_The_First_Night.blb size 448324 crc f56f6de6 md5 b0086227cd90f8b97842a602abac2090 sha1 0e5f947a941fcb8f78a792a8377f0df91ea71e0d )
+)
+
+game (
+	name dracula2glulx
+	description "Dracula: Part 2, The Arrival {Dracula: Episodio 2, La Llegada}(Multi-OS/Spanish)[R3-080819][glulx]"
+	year 2008
+	manufacturer "CRL & Mapache and El Clerigo Urbatain"
+	sourcefile glk-glulx
+	rom ( name Dracula2_La_Llegada.blb size 715450 crc f2e17fbd md5 d822fa4361fee37e724348fdac85b37c sha1 031c96ef984de952fdb495cc2a12d8359b8a7b52 )
+)
+
+game (
+	name dracula2glulx-1
+	description "Dracula: Part 2, The Arrival (Multi-OS)[R3-080819][glulx]"
+	year 20
+	manufacturer "CRL & DEF and El Clerigo Urbatain"
+	sourcefile glk-glulx
+	rom ( name Dracula2_The_Arrival.blb size 696250 crc 013cd1b9 md5 bccc28e4e5b0ca0000ede37079ad21fe sha1 8f8788cfa6c1c1a420a5b0510b98034d51ada65f )
+)
+
+game (
+	name drakmagiglulx
+	description "Drakmagi {Dragon Magic}(Multi-OS/Swedish)[R6-080419][glulx]"
+	year 2008
+	manufacturer "Johan Berntsson"
+	sourcefile glk-glulx
+	rom ( name drakmagi.blb size 203630 crc 470e5193 md5 a642f177cabe3ef436e81f5ed1543668 sha1 f27530829d2397f15c5e20743fb2126ccd7035ef )
+)
+
+game (
+	name eatme
+	description "Eat Me (Multi-OS)[R1-171013]"
+	year 2017
+	manufacturer "Chandler Groover"
+	sourcefile glk-glulx
+	rom ( name Eat_Me.gblorb size 2570070 crc f68c570b md5 890f1896f5480e5ea1f5619046768cc6 sha1 3500c3d99c9601429bff8ece83db215af2ef6c79 )
+)
+
+game (
+	name ekphrasis
+	description "Ekphrasis: Les Aventures de Gilbert Fontenelle (Multi-OS/French)[R0-050718]"
+	year 2006
+	manufacturer "Le Jibe"
+	sourcefile glk-glulx
+	rom ( name ekphrasis.blb size 64609308 crc 7247fe0a md5 32abbe459f819347c3ed107d16a0a9e0 sha1 4e4c44abcb56eca779b0b92c17584f8b9817b048 )
+)
+
+game (
+	name elultimohogarglulx
+	description "Misterio en el Último Hogar (Multi-OS/Spanish)[R2-021225][glulx]"
+	year 2007
+	manufacturer "Los Hobbits"
+	sourcefile glk-glulx
+	rom ( name elultimohogar.blb size 663576 crc 24a1c9e7 md5 e4376ca602837533ceb8271ef5d9afb4 sha1 0ac294a17ddf113d2ef7ec9032fd03f86e20516c )
+)
+
+game (
+	name genesisquest
+	description "Genesis Quest (Multi-OS)[R2-140319][!]"
+	year 2014
+	manufacturer "Mike Gerwat"
+	sourcefile glk-glulx
+	rom ( name GenesisQuest.ulx size 1647616 crc 6f184e1e md5 24617213d6aca12d815718e7f986b43e sha1 2cf53fa6022c8385c2feb47dcce2a684b4409009 )
+)
+
+game (
+	name hhorcusglulx
+	description "Homo Homini Orcus (Multi-OS/Spanish)[V2.5-100818][glulx]"
+	year 2010
+	manufacturer "J.Francisco Martín"
+	sourcefile glk-glulx
+	rom ( name HHOrcus.gblorb size 4191072 crc 472b5fe4 md5 f67c32b007778b3f951bae3846f8acde sha1 c5f6b4d12f592594da92720c4affa43b3f410aa2 )
+)
+
+game (
+	name idoregesz
+	description "Időrégész (Multi-OS/Hungarian)[u]"
+	year 2015
+	manufacturer "Rátkai István & Érdi Gergő"
+	sourcefile glk-glulx
+	rom ( name Idoregesz.blorb size 658356 crc a865c658 md5 8d7f1b343827bbb98196a0951dac0677 sha1 4516deb880182b4214928855b6d4095a2215e457 )
+)
+
+game (
+	name kerulenglulx
+	description "Ke Rulen los Petas (Multi-OS/Spanish)[R1-090720][glulx]"
+	year 2010
+	manufacturer "Iber Soft & Grendelkhan"
+	sourcefile glk-glulx
+	rom ( name kerulen.blb size 6842790 crc 2fe3a8be md5 1b9f663f013146ed43bcef478a84f49a sha1 1f9ff452cba332f9e596dc656dc1f3860bac6232 )
+)
+
+game (
+	name lieuxcommunsglulx
+	description "Lieux Communs (Multi-OS/French)[R4-070910][glulx]"
+	year 2007
+	manufacturer "JB Ferrant, Samuel Verschelde, Eric Forgeot, Hugo Labrande and Jean-Luc Pontico"
+	sourcefile glk-glulx
+	rom ( name lieuxcommuns.blb size 15659070 crc ed63e5ff md5 55d417fca047db2a197a72132dba648d sha1 82d0e2bee7060109ef6dc31f8517f6c66772f4cd )
+)
+
+game (
+	name makechangeglulx
+	description "Maybe Make Some Change (Multi-OS)[R1-120107]"
+	year 2012
+	manufacturer "Aaron A. Reed"
+	sourcefile glk-glulx
+	rom ( name maybeMakeSomeChange.gblorb size 6456118 crc 3c307cd7 md5 ef4a4b9fc9cc52b8a8f2d5039378d846 sha1 c9fab9b70234c322bbe3686daede29e2de9c1869 )
+)
+
+game (
+	name moments2
+	description "Moments Out Of Time 2: Adventure Type (Multi-OS)[R1-070417]"
+	year 2007
+	manufacturer "L. Ross Raszewski"
+	sourcefile glk-glulx
+	rom ( name moments2.gblorb size 13970974 crc e3e0a69c md5 8d37b5ca007e0fc669c594ba58ed2b80 sha1 5b27bab7312ad705d2060c52f91fc5e5a337f4dd )
+)
+
+game (
+	name necronskeep
+	description "Necron's Keep (Multi-OS)[R5-190114]"
+	year 2019
+	manufacturer "Dan Welch"
+	sourcefile glk-glulx
+	rom ( name NecronsKeep.gblorb size 1027002 crc 6fa85df4 md5 ceaee3b2029aa815d13e9ab488ce9ad6 sha1 0c2d0b048b2c4d040e1de21732f68d5480e4342b )
+)
+
+game (
+	name nightmare
+	description "Nightmare (Multi-OS)[R1-150927]"
+	year 2015
+	manufacturer "Aggie"
+	sourcefile glk-glulx
+	rom ( name Nightmare.gblorb size 646038 crc 15ddaf9c md5 5f52f4a52629363add0b055926616c69 sha1 d949c0abec08333cfcffa761323a5e945d36a59a )
+)
+
+game (
+	name oppositelyopal
+	description "Oppositely Opal (Multi-OS)[R1-150214]"
+	year 2015
+	manufacturer "Buster Hudson"
+	sourcefile glk-glulx
+	rom ( name oppositely-opal.gblorb size 1515910 crc ef105393 md5 e4f723afc4fd0c51418d166c8836d0cd sha1 bc528afc463d43c978b4cf543b3c4416d3a782ad )
+)
+
+game (
+	name owlconsults
+	description "Owl Consults, The (Multi-OS)[R1.02-171124]"
+	year 2017
+	manufacturer "Thomas Mack, Nick Mathewson and Cidney Hamilton"
+	sourcefile glk-glulx
+	rom ( name owl-consults.ulx size 287488 crc 09ca7648 md5 af16b607ec72ce1e8ee295cd3eb3ece7 sha1 becd1d8dc37bd06a6d7b04036d2dc24a094fb430 )
+)
+
+game (
+	name patanoir
+	description "PataNoir (Multi-OS)[R5-131204]"
+	year 2013
+	manufacturer "Simon Christiansen"
+	sourcefile glk-glulx
+	rom ( name PataNoir.gblorb size 877876 crc dbc999b1 md5 8d964b5640b9be8b051682f40486223b sha1 ebb7770ff56984f121f3d811fd2b9ff2cf2f1068 )
+)
+
+game (
+	name photopiaglulx
+	description "Photopia (Multi-OS)[V2.01-10274]"
+	year 2002
+	manufacturer "Adam Cadre"
+	sourcefile glk-glulx
+	rom ( name photo201.blb size 627050 crc c4690824 md5 fec0c4ee0ca371b65288eab323bfd8c9 sha1 3459276c13eb3a31a4b51097a696f3cca170f540 )
+)
+
+game (
+	name robinandorchid
+	description "Robin & Orchid (Multi-OS)[R4-140602]"
+	year 2014
+	manufacturer "Ryan Veeder and Emily Boegheim"
+	sourcefile glk-glulx
+	rom ( name Robin_and_Orchid.gblorb size 1210868 crc ba429f40 md5 44e3e4bbde7bd444ba9dcabff3a47b63 sha1 479a46cb089f465b6fbd886f3d34736b3275cae4 )
+)
+
+game (
+	name rover
+	description "Rover's Day Out (Multi-OS)[R12-091116]"
+	year 2009
+	manufacturer "Jack Welch and Ben Collins-Sussman"
+	sourcefile glk-glulx
+	rom ( name Rover.gblorb size 1741574 crc 0c97010b md5 cf26f8f55d857e4cb1be1ffef7dc455d sha1 1b62898a8dcc2db5bd2eb09f0ee3b779257df6bc )
+)
+
+game (
+	name sarvegneglulx
+	description "Sarvegne: Une Visite Qui Conduit Loin (Multi-OS/French)[R2-061101][glulx]"
+	year 2007
+	manufacturer "Eric Forgeot"
+	sourcefile glk-glulx
+	rom ( name sarvegne.blb size 594306 crc 39b3be82 md5 7b0d78d134ca62f0d6dde438c83611e8 sha1 0ad62167bf836b809b96d25166c7d23d8a73b6d9 )
+)
+
+game (
+	name scarabeekatana
+	description "Scarabée et le Katana, Le (Multi-OS/French)[R3-070906][glulx]"
+	year 2007
+	manufacturer "Eric Forgeot"
+	sourcefile glk-glulx
+	rom ( name scarabeekatana.blb size 651590 crc a7af35f3 md5 7c5b444a19dcb4ffabd64ffac4c14c8e sha1 f40c1578d5e6600b94b512bc0555b3396614c7b5 )
+)
+
+game (
+	name scrollthief
+	description "Scroll Thief: An Interactive Heist (Multi-OS)[R2-150729]"
+	year 2015
+	manufacturer "Daniel M. Stelzer"
+	sourcefile glk-glulx
+	rom ( name Scroll_Thief.gblorb size 2367848 crc 9df24b46 md5 0543f791f57e30fec6c1a80d2fa71b03 sha1 a192dd95d575aaba1f4bcc420e368633ec13566e )
+)
+
+game (
+	name secretletter
+	description "Jack Toresal and the Secret Letter (Multi-OS)[v2.1-150107, Deluxe][!]"
+	year 2010
+	manufacturer Textfyre
+	sourcefile glk-glulx
+	rom ( name secretletter-21.ulx size 2274048 crc 21f33ae1 md5 581921ea3b3968d84c3df90257775ab6 sha1 38f8ac7e53fe116c63ca15880568efeb0b99fddb )
+)
+
+game (
+	name sensory
+	description "Sensory Jam: A Quick Glulx Demo (Multi-OS)[R4-000329]"
+	year 2000
+	manufacturer "Andrew Plotkin"
+	sourcefile glk-glulx
+	rom ( name PIC0 size 4662 crc 2529f7b3 md5 eac375e27632cf76b4866530d703bb7d sha1 d05d7ef571f201b09ad8a9891bdbf28f91ce1606 )
+	rom ( name PIC1 size 7295 crc 3d23d8da md5 f34843e9480a73bcc7516dc485717a99 sha1 4110eb1b79a63eebc6e5182ba722400996c072eb )
+	rom ( name PIC10 size 5355 crc 91dca4df md5 0fcbd25bca24c61a7ec1ddab1ece523f sha1 060615824c846b796bf38dc4aa290b91e4d47fd8 )
+	rom ( name PIC11 size 7145 crc 830123ae md5 3b093ad1e113be15ada10fd58cddf897 sha1 1135e44f86a71c6adad3fb53430065d39a666e5d )
+	rom ( name PIC2 size 1815 crc 6c5b855a md5 97c56ce34d92f5ad21d1f9531886c384 sha1 28999ba1daacaefe08842bb5bdc82d21d76df2a6 )
+	rom ( name PIC5 size 5995 crc dc814766 md5 38fea85f3de5b0297e26018527d7be73 sha1 26686c5ec5f15ba7f26c2c0f94590c4a4fc5409b )
+	rom ( name sensory.ulx size 132608 crc 5d29db68 md5 f529a2f65996a4131563e84c35bf1524 sha1 569526c920e009f1b5b9d002101f2526e607a9d8 )
+	rom ( name SND1 size 3192 crc f165dc72 md5 3b98c43a25ee83dc9d01a73f13ad114d sha1 6b787c61e8b9df002c878f2f31b46655b2744f4f )
+	rom ( name SND10 size 23304 crc fa95d803 md5 24d49d1bc0475afbd29d9fad3541b249 sha1 f1fa878dbec5bb7b1e9ccb513f5f753cec78800e )
+	rom ( name SND2 size 10682 crc af403785 md5 dcfc94300392d86e338f1185a40f82ff sha1 846a8a85ef95338e3532f1f188366d432f1f2de3 )
+)
+
+game (
+	name sensory-1
+	description "Sensory Jam: A Quick Glulx Demo with Graphics and Sound (Multi-OS)[R4-000329]"
+	year 2000
+	manufacturer "Andrew Plotkin"
+	sourcefile glk-glulx
+	rom ( name sensory.blb size 202258 crc 4bb8b7d4 md5 85d516c1ba60bc77fb4c83e0349e0404 sha1 4314ee8c1ddc376763ada451bb09cb2894fe6354 )
+)
+
+game (
+	name shadowcathedral
+	description "Shadow in the Cathedral, The (Multi-OS)[v2.1-150228, Deluxe][!]"
+	year 2010
+	manufacturer Textfyre
+	sourcefile glk-glulx
+	rom ( name shadow-21.ulx size 2723072 crc 8c1ac917 md5 8222d3be37f05a867470aa86220be0d9 sha1 2ce01e2c9704dbcf5d433e9d2cb59c2d078915b4 )
+)
+
+game (
+	name slouchingbedlamglulx
+	description "Slouching Towards Bedlam (Multi-OS)[R2-140613][glulx]"
+	year 2003
+	manufacturer "Steampunk"
+	sourcefile glk-glulx
+	rom ( name SlouchingTowardsBedlam.gblorb size 982754 crc 82d39cff md5 ea84a08180e726d8132c4b89fc4a83c2 sha1 feb50b1e6841cdcdf700646230364d13dd0dbbf7 )
+)
+
+game (
+	name snuff
+	description "Snuff Movie (Multi-OS/Italian)[V2-180827]"
+	year 2018
+	manufacturer "Marco Vallarino & Tommaso Caldarola"
+	sourcefile glk-glulx
+	rom ( name snuff.ulx size 135168 crc 46da5676 md5 2543c78c4e10767f2777f791b7098d5d sha1 c4d6ac1efde8514adfaf2823b7f8159ff65b64ec )
+)
+
+game (
+	name stiffymakane
+	description "Stiffy Makane: Apocolocyntosis {Mentula Macanus: Apocolocyntosis}(Multi-OS)"
+	year 2011
+	manufacturer "Pornographic"
+	sourcefile glk-glulx
+	rom ( name "StiffyMakane- Apocolocyntosis.gblorb" size 2486436 crc f34dddf9 md5 9efef811e2ad30a16acdb7e879626002 sha1 96d7ee98e044ab1d1ce703714fb57f8981f30fda )
+)
+
+game (
+	name templefeu
+	description "Temple de Feu, Le (Multi-OS/French)[R3-070731][glulx][!]"
+	year 2007
+	manufacturer "Eric Forgeot"
+	sourcefile glk-glulx
+	rom ( name templefeu.blb size 2576096 crc 3b7a1c07 md5 eeddbc45ac1eea42350d745cbf29b37e sha1 308c975c27736ca1f878f94ffcbb0c5563f8501a )
+)
+
+game (
+	name theabsenceoflaw
+	description "Absence of Law, The (Multi-OS)[R1-170102][!]"
+	year 2017
+	manufacturer "Brian Rushton"
+	sourcefile glk-glulx
+	rom ( name The_Absence_of_Law.gblorb size 1332522 crc 4043bf45 md5 72f80b08fce289df2ed75b9646a96264 sha1 e1bad8a70d767820828091567e538eb856255b57 )
+)
+
+game (
+	name thebox
+	description "Box, The (Multi-OS)[R2-170813][!]"
+	year 2017
+	manufacturer "Jordan Jones"
+	sourcefile glk-glulx
+	rom ( name The_Box.gblorb size 1371546 crc 18412e74 md5 663d494249fcfc5e7621237d02154e05 sha1 c5e80119bc32a906353e0ab00339e96e0e99d6a0 )
+)
+
+game (
+	name therealmofaoria
+	description "Realm of A'oria, The (Multi-OS)[R1-161205]"
+	year 2017
+	manufacturer "Sylen"
+	sourcefile glk-glulx
+	rom ( name The_Realm_of_Aoria.gblorb size 6458822 crc 337f9e58 md5 840d3572bf4ffa0d102970f8d16ebc02 sha1 7ca0aaa448a98292fed865b6b9786b02ac635f24 )
+)
+
+game (
+	name thespywhoatelunch
+	description "Spy Who Ate Lunch, The (Multi-OS)[R1-120102]"
+	year 2012
+	manufacturer "Robert Rothman"
+	sourcefile glk-glulx
+	rom ( name TheSpyWhoAteLunch.gblorb size 839742 crc fedd3f93 md5 0b770dd5d00b8962fd57a1fab9c2781a sha1 feca2949f548a8c415b92ec5f3bfd8c2ecbb54d0 )
+)
+
+game (
+	name vanyarglulx
+	description "Vanyar (Multi-OS/Swedish)[R1-030613][glulx]"
+	year 2003
+	manufacturer "Johan Berntsson"
+	sourcefile glk-glulx
+	rom ( name vanyar.blb size 278780 crc 4c560251 md5 1b33ee05ac633162b70897a2d9cf3c70 sha1 aa121a1d008a38d9f98af7e738a57d08c7e6af85 )
+)
+
+game (
+	name villamorganaglulx
+	description "Villa Morgana (Multi-OS/Italian)[V3-090404]"
+	year 2010
+	manufacturer "Paolo Lucchesi"
+	sourcefile glk-glulx
+	rom ( name villa.gblorb size 1263196 crc bcac7ff8 md5 696f21b7067ebd425282655147b27bcb sha1 023b2d0e936318b1f93087ef517ff2e21fb575ca )
+)
+
+game (
+	name wizardsniffer
+	description "Wizard Sniffer, The (Multi-OS)[R1-171007]"
+	year 2017
+	manufacturer "Buster Hudson"
+	sourcefile glk-glulx
+	rom ( name The_Wizard_Sniffer.gblorb size 1240012 crc 80fc84bc md5 ced4b94731c382105068a10518cf794d sha1 840ff5d250729ec7f1cd79a7a4636019bd3834d3 )
+)

@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM DM"
 	description "ScummVM - DM Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2016-10-12
+	version v1.05
+	date 2021-09-26
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -15,27 +15,38 @@ game (
 	year 1988
 	manufacturer "FTL Games"
 	sourcefile dm
-	rom ( name bye size 692 crc 0bb4a186 md5 b2188b97a2343886b3c63e614f15d4eb )
-	rom ( name dm size 177324 crc f9ea26b6 md5 607fa42efd5d2909efbc4620629fcf88 )
-	rom ( name Dungeon.dat size 25006 crc ab3f5e58 md5 30028fb6a301ecb20127ef0b3af32b05 )
-	rom ( name exec size 6036 crc 4243f0c2 md5 0d6e9abc7cff28adc9175d64089d0524 )
-	rom ( name graphics.dat size 411960 crc 56bd10ea md5 6a2f135b53c2220f0251fa103e2a6e7e )
-	rom ( name swoosh size 78480 crc 5f51d1e7 md5 9fb4fc335e8ff1cc248d38a94e7bcf9e )
+	rom ( name bye size 692 crc 0bb4a186 md5 b2188b97a2343886b3c63e614f15d4eb sha1 30b040ecbd075689664c26f65e4b1c854df3d4d1 )
+	rom ( name dm size 177324 crc f9ea26b6 md5 607fa42efd5d2909efbc4620629fcf88 sha1 d2878eb4d2eef4b445c3c37a75f1d4860f61bd90 )
+	rom ( name Dungeon.dat size 25006 crc ab3f5e58 md5 30028fb6a301ecb20127ef0b3af32b05 sha1 fb184871f6810c1ec5b565558e984355884ab015 )
+	rom ( name exec size 6036 crc 4243f0c2 md5 0d6e9abc7cff28adc9175d64089d0524 sha1 9b15b6ebd054bbb4bf4a4ea0278852c8b685f502 )
+	rom ( name graphics.dat size 411960 crc 56bd10ea md5 6a2f135b53c2220f0251fa103e2a6e7e sha1 fcf6d78abb40c74a665b4ea0de53c0e86cc634e9 )
+	rom ( name swoosh size 78480 crc 5f51d1e7 md5 9fb4fc335e8ff1cc248d38a94e7bcf9e sha1 7d6ec223e0082dfc6b24a6327363001912481353 )
+)
+
+game (
+	name dm-demo-2gs
+	description "Dungeon Master |Demo v1.4|(Apple IIgs)[!]"
+	year 1988
+	manufacturer "FTL Games"
+	sourcefile dm
+	rom ( name DEMODUN.DAT size 1487 crc 598d2c40 md5 9c1b9996aceacb3fffb5bd21ca408fa8 sha1 b2d669ba009a9e94c1731097fccaa6f65470f3c3 )
+	rom ( name DEMOIIGS.DAT size 190792 crc 00cf8bd8 md5 12edef8658079697aae1c2dcb16d5f67 sha1 652683bc9f5e90b5db21262b9919b510aa548167 )
+	rom ( name DUNGEON.MASTER size 233777 crc dea7abe8 md5 2f5838e051b0dfb31be149b8c71953e6 sha1 d1f92881b4940ca732368c491e43b51146f9714c )
 )
 
 game (
 	name dm-demo-amiga
-	description "Dungeon Master {Demo v2.0}(Amiga)"
+	description "Dungeon Master |Demo v2.0|(Amiga)"
 	year 1988
 	manufacturer "FTL Games"
 	sourcefile dm
-	rom ( name bye size 692 crc 0bb4a186 md5 b2188b97a2343886b3c63e614f15d4eb )
-	rom ( name DemoDun.dat size 1209 crc b0022035 md5 78848e1a2d3d5a11e5954deb8c7b772b )
-	rom ( name Disk.info size 2484 crc 57d239f9 md5 522f8112ceaa26001b89592c0a169d63 )
-	rom ( name dm size 163236 crc 35df1033 md5 f402d7fe70d1df20141e6e520a242f74 )
-	rom ( name exec size 6036 crc 4243f0c2 md5 0d6e9abc7cff28adc9175d64089d0524 )
-	rom ( name graphics.dat size 192421 crc 11eca88a md5 491ca939f9abb33ceeb26619b841fe91 )
-	rom ( name swoosh size 78068 crc 722fff58 md5 28d406007e99b0ae8da0c6f7fc7f183b )
+	rom ( name bye size 692 crc 0bb4a186 md5 b2188b97a2343886b3c63e614f15d4eb sha1 30b040ecbd075689664c26f65e4b1c854df3d4d1 )
+	rom ( name DemoDun.dat size 1209 crc b0022035 md5 78848e1a2d3d5a11e5954deb8c7b772b sha1 1d3864796067e68f90b54291e232009a695ba2a6 )
+	rom ( name Disk.info size 2484 crc 57d239f9 md5 522f8112ceaa26001b89592c0a169d63 sha1 6a925037a0886aada81b15fcffaf157139c14238 )
+	rom ( name dm size 163236 crc 35df1033 md5 f402d7fe70d1df20141e6e520a242f74 sha1 e06054e3958886ae83d0491d0ba70bc541a5e39c )
+	rom ( name exec size 6036 crc 4243f0c2 md5 0d6e9abc7cff28adc9175d64089d0524 sha1 9b15b6ebd054bbb4bf4a4ea0278852c8b685f502 )
+	rom ( name graphics.dat size 192421 crc 11eca88a md5 491ca939f9abb33ceeb26619b841fe91 sha1 8948dd40d94d108273d651e25f0ae671ca944776 )
+	rom ( name swoosh size 78068 crc 722fff58 md5 28d406007e99b0ae8da0c6f7fc7f183b sha1 e8641d44ed6191e49ce42554daad8886c25b1cfb )
 )
 
 game (
@@ -44,13 +55,13 @@ game (
 	year 1987
 	manufacturer "FTL Games"
 	sourcefile dm
-	rom ( name DMGAME.DAT size 47710 crc 1115fe65 md5 8e645d933d6a7f335c3793bfed83e7c6 )
-	rom ( name DUNGEON.DAT size 33286 crc ce4fe3a4 md5 6479c4b28763028916dc6f23ab9722a4 )
-	rom ( name GRAPHICS.DAT size 271911 crc 022772be md5 0b5e042f2c7f2752bac78292cc6bb07e )
-	rom ( name JMPTABLE size 142068 crc 217c6b1b md5 c1ebaccbfcdbbe160551024238ee6575 )
-	rom ( name LOADER.PRG size 257 crc baf146a2 md5 581ae1a19daf66a86d50b036ba914ae3 )
-	rom ( name SEKTOR size 512 crc 07281d76 md5 a275558e294dec8ee346ea3a529144d7 )
-	rom ( name SEKTOR2 size 512 crc 38f08782 md5 a0268e321fa5d72d49a8023b1c64fd59 )
-	rom ( name SEKTORS size 1024 crc e0e84626 md5 6777fcbb24700dc60e87fa9e87d4eecc )
+	rom ( name DMGAME.DAT size 47710 crc 1115fe65 md5 8e645d933d6a7f335c3793bfed83e7c6 sha1 2fb889a513ff548251050cd13801b8179468b963 )
+	rom ( name DUNGEON.DAT size 33286 crc ce4fe3a4 md5 6479c4b28763028916dc6f23ab9722a4 sha1 e72d74bf077aef13dfede19124b3f3c0c76751a8 )
+	rom ( name GRAPHICS.DAT size 271911 crc 022772be md5 0b5e042f2c7f2752bac78292cc6bb07e sha1 3da22ecacc07e169f1520057b2a8da74c9b43877 )
+	rom ( name JMPTABLE size 142068 crc 217c6b1b md5 c1ebaccbfcdbbe160551024238ee6575 sha1 1f6c3c5ea9a206449e30671a129fa0997cb29800 )
+	rom ( name LOADER.PRG size 257 crc baf146a2 md5 581ae1a19daf66a86d50b036ba914ae3 sha1 ae10d9d44d7a96fc308976553d8af0f7740f4120 )
+	rom ( name SEKTOR size 512 crc 07281d76 md5 a275558e294dec8ee346ea3a529144d7 sha1 f0db536720dfa0ce1c75775b47d692fffbdef198 )
+	rom ( name SEKTOR2 size 512 crc 38f08782 md5 a0268e321fa5d72d49a8023b1c64fd59 sha1 792d8414afb086992df3fc542305b57913046356 )
+	rom ( name SEKTORS size 1024 crc e0e84626 md5 6777fcbb24700dc60e87fa9e87d4eecc sha1 c482c458ac424b58a637d9bc0453d8b348e82575 )
 )
 

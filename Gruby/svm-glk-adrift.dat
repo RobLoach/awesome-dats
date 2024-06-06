@@ -1,0 +1,167 @@
+clrmamepro (
+	name "ScummVM GLK-Adrift"
+	description "ScummVM - GLK Engine - Adrift IF Games"
+	category "ScummVM"
+	version v1.03
+	date 2020-08-20
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name 3monkeys
+	description "Three Monkeys, One Cage (Multi-OS)"
+	year 2003
+	manufacturer "Robert Goodwin"
+	sourcefile glk-adrift
+	rom ( name 3monkeys.taf size 79286 crc 4226a0fd md5 dec408b65c2b975875ea677a66b4352d sha1 02b84387d2c8664977fe363d793ebd0594f14410 )
+)
+
+game (
+	name advbackyard
+	description "An Adventurer's Backyard (Multi-OS)"
+	year 2015
+	manufacturer "lyricasylum"
+	sourcefile glk-adrift
+	rom ( name An_Adventurers_Backyard.blorb size 48990 crc b692688c md5 27f131771f40dd9b27684b7f97d783eb sha1 1cd6efa2b7200b1a572382d3a6c67e910c3f5848 )
+)
+
+game (
+	name albridgemanor
+	description "Albridge Manor (Multi-OS)"
+	year 2002
+	manufacturer "Woody Ross"
+	sourcefile glk-adrift
+	rom ( name manor.alr size 218 crc c7454fe4 md5 c26af197c663828d1284d5d4b208d983 sha1 ee8e6183ea9059d22f79cf8e160af4ff2784f73b )
+	rom ( name manor.taf size 31353 crc 8b6e1d45 md5 9db76cc41e23dfb794eeb33157523cfb sha1 dbbf2ad61154d4855c6d294ac574e6d2ff92eeab )
+)
+
+game (
+	name allthroughthenight
+	description "All Through the Night (Multi-OS)"
+	year 2014
+	manufacturer "Daniel Saults"
+	sourcefile glk-adrift
+	rom ( name All_Through_the_Night.blorb size 36345976 crc e9864df3 md5 843e588559f621383ff217253ab83e82 sha1 958e7501388b3badaabe2c6802767886e3492ed3 )
+)
+
+game (
+	name barneysproblem
+	description "Barney's Problem (Multi-OS)"
+	year 2004
+	manufacturer "David Whyld"
+	sourcefile glk-adrift
+	rom ( name BarneysProblem.taf size 66055 crc ea206d1f md5 c35bd461b9b4c6eff122c1faed697e07 sha1 cba364466b0d688cfced9af14684d2cdae287f8a )
+)
+
+game (
+	name cityInfear
+	description "City in Fear (Multi-OS)"
+	year 2004
+	manufacturer "David Whyld"
+	sourcefile glk-adrift
+	rom ( name CityInFear.taf size 248088 crc 372813c0 md5 da8742a08391803ce450bfed1abc6e0e sha1 694426930ff00b8c3e0f25c6359503010b0c9845 )
+)
+
+game (
+	name cowboyblues
+	description "Cowboy Blues (Multi-OS)"
+	year 2004
+	manufacturer "David Whyld"
+	sourcefile glk-adrift
+	rom ( name CowboyBlues.taf size 111835 crc 8640d89b md5 b1a9d1e2caae2b41a3e27f7a9e446872 sha1 b07385f533ef3dd5a865166b9fcefe55d4188682 )
+)
+
+game (
+	name darkhour
+	description "Dark Hour, The (Multi-OS)"
+	year 2017
+	manufacturer "Alexandra Koslowska"
+	sourcefile glk-adrift
+	rom ( name darkhour.blorb size 35184 crc 2f982805 md5 9aca3811c65ebfd3aa2ce181f2961056 sha1 2b70ef525718f79de92f39f2ed53abf42815c414 )
+)
+
+game (
+	name darkness
+	description "Darkness (Multi-OS)[v1.21]"
+	year 2017
+	manufacturer "Richard Otter"
+	sourcefile glk-adrift
+	rom ( name darkness.taf size 25238 crc 0cf4acea md5 cc37e0a9e02b505f6e0cfd1146211ea8 sha1 d7818ca71e8cd869fea1c31f860907719223222a )
+)
+
+game (
+	name etnyadrift
+	description "Escape to New York (Multi-OS)[v1.1]"
+	year 2017
+	manufacturer "Richard Otter"
+	sourcefile glk-adrift
+	rom ( name escape.gmp size 1959 crc b2c08d10 md5 e1c191e0e90e0dc9627a5aeefb658abc sha1 98c9252f2f6596c8ea9057b0e53dc1d9dcf1df2d )
+	rom ( name escape.taf size 59583 crc 7d3549cd md5 740c96dbb57b4d89cc483dec4e5147ff sha1 89fc1b4feccade5e7767de39b8671d0cc5da4780 )
+)
+
+game (
+	name farfromhome
+	description "Far from Home (Multi-OS)[v1.2]"
+	year 2002
+	manufacturer "The Mad Monk"
+	sourcefile glk-adrift
+	rom ( name FarFromHome.taf size 42118 crc 30fa5d99 md5 0f260a521917469ca1c4fdc1fb738c37 sha1 98d6bc0e7e465bddea7384be77dce583b129d9b9 )
+)
+
+game (
+	name finedayforreaping
+	description "Fine Day for Reaping, A (Multi-OS)[v1.2]"
+	year 2007
+	manufacturer "James Webb"
+	sourcefile glk-adrift
+	rom ( name AFDFR.taf size 96819 crc 64eb395c md5 a0b37644485ab3955b7c70bb1f60392d sha1 e84bd688f4633b0e137ac3c4b4b804e7b95d112a )
+)
+
+game (
+	name ilgolem
+	description "Il Golem (Multi-OS/Italian)"
+	year 2010
+	manufacturer "Tristano Ajmone"
+	sourcefile glk-adrift
+	rom ( name Il_Golem.taf size 6372213 crc 751725e9 md5 f91426919312b5cf4c27ca1d8d80d5b5 sha1 b2c023fdbb37709ddb53bdb46fa45337899b6712 )
+)
+
+game (
+	name skybreak
+	description "Skybreak! (Multi-OS)[v1.1]"
+	year 2019
+	manufacturer "William Dooling"
+	sourcefile glk-adrift
+	rom ( name Skybreak11.taf size 1191014 crc cb353298 md5 e72184fb36555dea9d05bc0caf9203b1 sha1 e17b140eb3a1dd22efca8bdf5dc546a59248281a )
+)
+
+game (
+	name thepkgirl
+	description "PK Girl, The (Multi-OS)[R4]"
+	year 2006
+	manufacturer "Robert Goodwin, Nanami Nekono, Helen Trevillion and OYA-G"
+	sourcefile glk-adrift
+	rom ( name the_pk_girl.taf size 1645515 crc 2e32ed16 md5 e505ad1846576d3aa9751afa15a47111 sha1 b6c6ac7958a2a83b22d53c5b0d81cc617ffa790b )
+)
+
+game (
+	name thepkgirl-1
+	description "PK Girl, The (Multi-OS)[R3]"
+	year 2003
+	manufacturer "Robert Goodwin, Nanami Nekono, Helen Trevillion and OYA-G"
+	sourcefile glk-adrift
+	rom ( name the_pk_girl.taf size 1645174 crc 3d41e0bf md5 886143b3090228b385caabf11ea2ae7b sha1 f4f1b42da9d57d42d1b7437120f404e700b32d75 )
+)
+
+game (
+	name thevirtualhuman
+	description "Virtual Human, The (Multi-OS)[v1.00]"
+	year 2008
+	manufacturer "Duncan Bowsman"
+	sourcefile glk-adrift
+	rom ( name virtual.alr size 894 crc 099f6a31 md5 151384fe96d7f600ee811e9c69d33efd sha1 2a6cfa164e09a5d44eef71e31c14383ead046fb7 )
+	rom ( name virtual.taf size 6168 crc 958ba4b0 md5 48c21a60ce97e3fa0e6bb340537c882d sha1 55ebfb29a1e3113732f0b971cb887228cdc94f0a )
+)
+

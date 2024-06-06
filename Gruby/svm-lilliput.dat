@@ -1,0 +1,127 @@
+clrmamepro (
+	name "ScummVM LILLIPUT"
+	description "ScummVM - LILLIPUT Engine Games"
+	category "ScummVM"
+	version v1.04
+	date 2021-09-30
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name robin
+	description "Adventures of Robin Hood, The (DOS)[!]"
+	year 1991
+	manufacturer "S.L.Grand, Brainware"
+	sourcefile lilliput
+	rom ( name ADLIB.BIN size 7755 crc 210acde5 md5 fb12e06e5eab999c4f194b4279d4bba4 sha1 790d7af50fe9f1dea723e811d0c4bf138ffd0d54 )
+	rom ( name ADLIB.OVL size 1280 crc 987dac74 md5 9cc06cbf95b82a467039d76c9080bafd sha1 3bdd2c680429a78f2db3da42c625a24db1a2d43c )
+	rom ( name AERIAL.GFX size 29447 crc 3c90248b md5 29b297f70fca8d8f130384e107bf7617 sha1 7429a4c4baa3e63242bf080fe2c2ad5b4cf5c048 )
+	rom ( name AUTUMN.GFX size 38518 crc 9a38c06c md5 cc8721f17487dbb98685e65dedf990f3 sha1 cbf25a87f372697842692b67de431f39546a1cde )
+	rom ( name BLEEP.OVL size 943 crc ba289783 md5 3ea5d49a2aacc70110cd87b8e7d7d0dd sha1 de69b7cb8b392470fee692645266f5585cc59892 )
+	rom ( name BMUS.BIN size 3114 crc aa5a339b md5 3d6895e51074e6ee8a6a9e98554c8e97 sha1 3e83e65626a9db4584da2fadae48d71969b1a4e9 )
+	rom ( name CREDITS.GFX size 23153 crc f659bcf3 md5 3d0dac632bb6718dc87553c303a31261 sha1 bd8c41c63b84f07b96d3c65d06112b61f5a69094 )
+	rom ( name CUBES0.GFX size 33798 crc ade6fd70 md5 94d9769e9d788ec77d04567416f878f4 sha1 454f28b3de7e1d4294e2a25a275101c1a29aacbd )
+	rom ( name CUBES1.GFX size 31878 crc b5f2db43 md5 c4181196ddb23de508cdf89b7ba6462d sha1 60b0296ee9d515e628bc4af681bd6908fd8ee026 )
+	rom ( name CUBES2.GFX size 33805 crc 7f041574 md5 4683525a0d424331832f8e96b587a00a sha1 4d4031023eda18e98c1a4fb225b99ba2c9c4c9c8 )
+	rom ( name CUBES3.GFX size 33646 crc 65769983 md5 e9a9da1f65045283735b10449eeeb551 sha1 8eb6ee469e91b9ceebc16cd25dd632e2b68277c0 )
+	rom ( name DYING.GFX size 30489 crc 9a99c999 md5 0c6494cfffdcdc42de773fed435f779c sha1 b42c6d8d0e921ffc0d3e5837ad152aa9f21b7ed6 )
+	rom ( name ERULES.PRG size 71010 crc 791918a6 md5 cf66886de0bc3452b566c7e3c242a0ea sha1 e45bf190e8eb64f9c1600a455d1421d02663b561 )
+	rom ( name FIRE.GFX size 23174 crc d68dee53 md5 f0a5cf6271078cbba11d72e371c43775 sha1 34649bb7415c8ee8f97bfbe7f9543a9800934fa7 )
+	rom ( name FRULES.PRG size 76660 crc 3d18fa26 md5 7d47993721e494dc3406acb2d28976f9 sha1 78cb3fc4386e227fe216c86e386530bb9900cd12 )
+	rom ( name GALLOWS.GFX size 24191 crc 847f7b43 md5 82cf0f3f301350bfaf5d7971d1a79801 sha1 2300ecc6454a9624dcf9ec0f968dec938b8d2952 )
+	rom ( name GRULES.PRG size 78050 crc b228cad5 md5 e040d4259957104f7c16ac08d8d21150 sha1 b4d7a0635f6e30fc423002be22203fcc71d944ec )
+	rom ( name IDEOGRAM.VGA size 17131 crc 6e52a42a md5 fe91d7e41819068133ab3b934a249c55 sha1 f9e30354440a48e759100588f1c1e3af47c1f6f6 )
+	rom ( name IRULES.PRG size 75654 crc d40d4152 md5 25b25ffb8e9cecef113f847e24597dff sha1 36bcadebb2e4e236425f7c5c4907d04b773d17a8 )
+	rom ( name ISOCHARS.VGA size 2989 crc 38bae202 md5 48082a2365c8dee4aab45e86c08db04d sha1 0b92444eb3012c2d34aea16cc3a8e33a66220316 )
+	rom ( name ISOMAP.DTA size 16384 crc 695c930a md5 f30058c0ac2fe579710afd6e3d5ea589 sha1 9b6c4fcaf896999b26dda63d22c4155ff441c9f4 )
+	rom ( name MEN.VGA size 24309 crc 3adb4673 md5 a498dc58a8b79039adb0c09cebdb5403 sha1 852b3ba1e287390d47323b789bfe5d09d0346cdc )
+	rom ( name MEN2.VGA size 26147 crc 7b79ac08 md5 5a5493971bed15d1f0aaf4ce441170e9 sha1 56303d536186328c88d05a8aa95b6d6e346ab57d )
+	rom ( name PAUSE.GFX size 18965 crc c898c08e md5 c6b79e219d5a1965ee4e4861d3ad40b8 sha1 4dde20836e574659ccccf276f013cda18de6bf4f )
+	rom ( name ROBIN.MUS size 49217 crc c91bf2dd md5 53e17a5db6ab56e7443d5420b5a97cc7 sha1 eb1d97646e4e693257f71f6968f3040e3858c62f )
+	rom ( name SCREEN.GFX size 33789 crc ea909803 md5 af27aa065debbc11ffc0974d692fd47f sha1 3be4e9467f7eab8ebe09cda6f34b88c4a62cde24 )
+	rom ( name SOUL.GFX size 20344 crc 4ffd6734 md5 30cf8d2318e54ae3376574e2be834b7e sha1 5ec79433a1f97611ad45fd40b5af1c8edb6cb1f2 )
+	rom ( name SPRING.GFX size 38581 crc ed062523 md5 14f00205d6f106da03f4d88cea96ef9b sha1 5561a3ffc36489c38a2a792d8c7da3d11c9da3db )
+	rom ( name SUMMER.GFX size 37894 crc 65def73a md5 ed9c11089997e9d343dfe67d16b41b7d sha1 ab3b8969f8062d59acc74a31a85ecc1d88548a4b )
+	rom ( name TITLE.GFX size 20806 crc db053224 md5 94f2185145b94388ce71abd7fd04cc95 sha1 fed6970c2597a0162b666d05f0234692bc8256cb )
+	rom ( name WINTER.GFX size 30506 crc f94aad53 md5 589c442e46615ab3f19132de832b6206 sha1 17729ccc3a6a72594d0e2357393abfbb58c88d2f )
+	rom ( name WIZARD.GFX size 42987 crc 8c73bf9d md5 bac23f85333dddc7157944cd3e2bcc16 sha1 a7dcc502914bc65eff93f6305dd11449a42e5b39 )
+	rom ( name WON1.GFX size 34863 crc 173039f8 md5 ffe5997fa3f2653bd636504bec90fa0b sha1 eb6c54618140875fd601c411a87958c4da14942a )
+	rom ( name WON2.GFX size 30440 crc cc1debb0 md5 f0fd47cbb75cd36ae084dff0fc5117e6 sha1 92790cda4ad01590d49473506bc58c252bd5def7 )
+)
+
+game (
+	name robin-de
+	description "Adventures of Robin Hood, The (DOS/German)[!]"
+	year 1991
+	manufacturer "S.L.Grand, Brainware"
+	sourcefile lilliput
+	cloneof robin
+	romof robin
+	rom ( name GERMAN.ROM size 28 crc a445fb87 md5 99c5f88cd61c6c19f268ce823331c701 sha1 876b59c7acc436db976fe20021c3f3ff55223cc6 )
+)
+
+game (
+	name robin-fr
+	description "Adventures of Robin Hood, The (DOS/French)[!]"
+	year 1991
+	manufacturer "S.L.Grand, Brainware"
+	sourcefile lilliput
+	cloneof robin
+	romof robin
+	rom ( name FRENCH.ROM size 28 crc a816a6b3 md5 53911a1ca356a83323f878730833e03a sha1 c4216f35b384d46688fe2b693eb24ea23bc4f4e4 )
+)
+
+game (
+	name robin-it
+	description "Adventures of Robin Hood, The (DOS/Italian)[!]"
+	year 1991
+	manufacturer "S.L.Grand, Brainware"
+	sourcefile lilliput
+	cloneof robin
+	romof robin
+	rom ( name ITALIAN.ROM size 28 crc 82b1bb35 md5 e488f295d563ba2790d0b76d4d3ac759 sha1 a784f357f85e259790b03149004858341353fde8 )
+)
+
+game (
+	name rome-demo
+	description "Rome: Pathway to Power |Demo|(DOS)[unsupported yet][!]"
+	year 1992
+	manufacturer "Firstlight"
+	sourcefile lilliput
+	rom ( name ADLIB.MUS size 27972 crc 329e895d md5 c22837f84a6b37b4d593c7d5a3833bbb sha1 61d355f491d0e0ff36bde9be6e7cd7603007a125 )
+	rom ( name ADLIB.OVL size 1413 crc 4aaa250f md5 222ad3d7ad80eba6a7011820831c028e sha1 0ffaed343bf08feded58b73dffd4390676dbeae8 )
+	rom ( name AERIAL0.GFX size 22207 crc 3d53be75 md5 c68bd9eef0d6282aa86090906cd5d44f sha1 6645f8edd8967d6ecf937e1ce5f2347f1543ce66 )
+	rom ( name AERIAL1.GFX size 26108 crc 8290522f md5 34d4c5283e79cd56b0092bf8be1c23d4 sha1 7c8ad587cc89e722f73ea7534cc689ffac2d36a1 )
+	rom ( name AERIAL2.GFX size 24017 crc 14ff60f1 md5 fd64cbad64ce1de2097705e45589a9df sha1 f88662d9a4120c6b0146a05d211030bac8ff1ae8 )
+	rom ( name ARENA.GFX size 32844 crc 29d46e6a md5 43d876f8e8c9f39b422b4e8103934070 sha1 5a37133f612ebcc1fcd366f8be7a8e4268af939e )
+	rom ( name BRITLOSE.GFX size 31884 crc 52d77c9f md5 67fa1afdbb4b6cfdcf107c77a42224aa sha1 7078176efe71d04db3dddc2988d4ce99b20a6a3a )
+	rom ( name CLEO.GFX size 22079 crc a189549a md5 e41c7671710724e2bd588f5fe976e29c sha1 ff639e0aa98468690c8bdcfc5cf5219dd7094d06 )
+	rom ( name DEMO.EXE size 1281 crc 8f91aff7 md5 5f9fb07f242cb648dc9d72f7f741b0cd sha1 af6d6b394612e1d813b9135a7346ce95bc42d4b9 )
+	rom ( name E.MSG size 362 crc 5195914e md5 b4ae6a1ca9d1931472b56754c6e3d07e sha1 d3dd304726c3e8e6ebd81a6d0f729c7897e15d6f )
+	rom ( name ISOBRIT1.GFX size 38189 crc 3b3c72bd md5 2ea9afec7e213c73f7de8ed9e9c0d9ef sha1 67db167c35f536a1962ecd995ef9bc8b0fef1d94 )
+	rom ( name ISOBRIT2.GFX size 41370 crc 20c92c88 md5 3cc686b31547c998587655e8146a5837 sha1 632ed5121d014b1666d2585ad5a94acd5a2a20b9 )
+	rom ( name ISOCHARS.GFX size 2794 crc e7fdd99a md5 805fff6d134fccd1f597cc488a87f663 sha1 8b77954f7d09957e2812a6d01ed18bc76d9dfde2 )
+	rom ( name ISOEGYP1.GFX size 36982 crc f83cc434 md5 716c756ba7f0439bd22da0797db39d9b sha1 08923bf2db39a7066be8d0f32fdc56056839c772 )
+	rom ( name ISOHERC1.GFX size 39767 crc e9eb2539 md5 774c7555bc5e939407bf99447a06627e sha1 ac399dd126717eeeb838c5fe6915d11b18b385cf )
+	rom ( name ISOMAP.DTA size 16384 crc 989a13d7 md5 2d9a71b49a1004d985aa93281a6f9f25 sha1 03f2983fdf01196bbb3e019462d3a61333951717 )
+	rom ( name ISOROME2.GFX size 38363 crc 852125b2 md5 af8b5dd317d36286716fc7438a221b6b sha1 ba72719c15d4531cbce0a584e0ed50d2a9c23e2d )
+	rom ( name ISOVGA.EXE size 22214 crc ae6b88e2 md5 3d6e8a7bae9783e1816871d3b6a82311 sha1 2faca4be2dc3a0fbd7af84f167dfef902e1ab8b3 )
+	rom ( name MAXIS.GFX size 5104 crc c6243431 md5 2e7a90bf388a158b14d094d31ad0a5e1 sha1 981d63d30ef3ae4e392c054e67cb956d08e66537 )
+	rom ( name MEN.GFX size 3066 crc b7b7b6a0 md5 600162ae8f11d8eff68c0f321f7e79b0 sha1 b31a9fccd6043c0887044fe3d4106a155f1aca92 )
+	rom ( name MEN2.GFX size 3066 crc b7b7b6a0 md5 600162ae8f11d8eff68c0f321f7e79b0 sha1 b31a9fccd6043c0887044fe3d4106a155f1aca92 )
+	rom ( name PAGE1.GFX size 14721 crc 1f92a8ca md5 6dbab1e866039292a3bb97dce51cf2ba sha1 ebdecef5a9d31bed1e509876287bf88f13dac41c )
+	rom ( name PAGE2.GFX size 16838 crc c5901489 md5 066f50d06042fc662bbd6906cef19217 sha1 25907dd24fdd0e53d8497c14c863889af350c7a3 )
+	rom ( name PAGE3.GFX size 13013 crc a62911c5 md5 50e9a8767534bcc639c45022c66c4145 sha1 15b7bd05cdc87f2f7e3bfa1bcbbea2f071130702 )
+	rom ( name PAGE4.GFX size 5817 crc 0e83f149 md5 bfb733fe74fbea04e7540fa4099d8e73 sha1 5f0144eab93d73027d7faa05c9261d64e2737e05 )
+	rom ( name PAGE5.GFX size 15002 crc 0482169b md5 07db958adb9bfb7a07075da0df088527 sha1 fae519d6ee632d3c946afe46fc5e0c7b28e2019a )
+	rom ( name PLAYER.BIN size 12064 crc 5ac48e26 md5 7da56e49b51f9ff0fdcc69657b0360c3 sha1 036f252d1a2b180cbfea4b076613a35118176e1f )
+	rom ( name RULES.PRG size 746 crc cafff567 md5 bdf4173fe294cae627903d9731549cac sha1 293ebdf411944f4d9f9f86cb1e9988fa3fbd049b )
+	rom ( name SCREEN.GFX size 36338 crc 7a4eb70f md5 4386bb977ec179c676b28a911f361314 sha1 e715ef0e2918eb78fefa9e8f03cf9598fd36b895 )
+	rom ( name SURROUND.GFX size 13754 crc 98a86a8e md5 59d90a96d735585b8074a0c307d30d2c sha1 35017fd2184b33eec9671df28fb63d3a2b837681 )
+	rom ( name SYSREQ.GFX size 14532 crc b216519b md5 8849ac92e0828b539572b622a6741a9a sha1 5e09e871648718ebcedce1a1a40f52ea8163ade4 )
+	rom ( name TITLE.GFX size 31646 crc 1be9f5e5 md5 26526609f42d26d6474c7dd52a8bcecd sha1 5189a75fb816cf0510e48aabd7c0830d413caf08 )
+	rom ( name WINALL.GFX size 29542 crc ce10e814 md5 f818291f0c432f8ea39700eea433f679 sha1 44e44dd1293ec38194fb560a940303d8c874e1b0 )
+)
+

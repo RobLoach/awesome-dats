@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>TAB-Austria - Quizard</name>
+		<description>TAB-Austria - Quizard - Discs (15) (2023-09-13 02-29-02)</description>
+		<version>2023-09-13 02-29-02</version>
+		<date>2023-09-13 02-29-02</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Quizard (Austria) (v1.0)">
+		<category>Games</category>
+		<description>Quizard (Austria) (v1.0)</description>
+		<rom name="Quizard (Austria) (v1.0).cue" size="111" crc="0a1fe982" md5="60e246983d69b865b317d553137688ca" sha1="1e0c543b65bf1a145eed9961eb9367b865e0cd5b"/>
+		<rom name="Quizard (Austria) (v1.0).bin" size="161403648" crc="59ed16c2" md5="374f669bd902f9ceb1d5e43f832a4087" sha1="2dc5a2c0210993f64cd110778fc16892180e792b"/>
+	</game>
+	<game name="Quizard (Austria) (v1.7)">
+		<category>Games</category>
+		<description>Quizard (Austria) (v1.7)</description>
+		<rom name="Quizard (Austria) (v1.7).cue" size="111" crc="13b64aec" md5="eac47d02e6e5a9a34a547eacf640ce39" sha1="b64899af45920b9510ad43db93f7bb6cb9fbd9ac"/>
+		<rom name="Quizard (Austria) (v1.7).bin" size="175169904" crc="941a085c" md5="1ae7daaa2a3ca4c2ab8d3dca65509120" sha1="97cad205c1b01fc3484846d2f8fe235f83785f58"/>
+	</game>
+	<game name="Quizard (Austria) (v1.8)">
+		<category>Games</category>
+		<description>Quizard (Austria) (v1.8)</description>
+		<rom name="Quizard (Austria) (v1.8).cue" size="111" crc="ea3682bf" md5="958ff6f695f9d3ef7531ef7f8786a4c1" sha1="c1fbba037fc106f7721e398509581be053ed62a9"/>
+		<rom name="Quizard (Austria) (v1.8).bin" size="176581104" crc="7addb46d" md5="f9adfa3a7a097479826ab714a56135de" sha1="8b326ab7f6cd4e1067219e5eacb5b8c9174e75b3"/>
+	</game>
+	<game name="Quizard 2 (Austria) (v2.2)">
+		<category>Games</category>
+		<description>Quizard 2 (Austria) (v2.2)</description>
+		<rom name="Quizard 2 (Austria) (v2.2).cue" size="113" crc="2e514dd3" md5="0de09a0aa88635fd7b083c93e7c83298" sha1="3e01a71cc88780653e592a959779a7e4924f5e80"/>
+		<rom name="Quizard 2 (Austria) (v2.2).bin" size="112717248" crc="7a50f404" md5="c899609e853c6e7d4dd8da4c5b965c30" sha1="0b2c0c78769dbfa33760209dfc2b231a858f0a5a"/>
+	</game>
+	<game name="Quizard 2 (Austria) (v2.3)">
+		<category>Games</category>
+		<description>Quizard 2 (Austria) (v2.3)</description>
+		<rom name="Quizard 2 (Austria) (v2.3).cue" size="90" crc="db78c1f0" md5="ad57100c2fb471960833690005b60cb4" sha1="64341f57ba39d4993fbd2d8b7f6d5b0e0bc93478"/>
+		<rom name="Quizard 2 (Austria) (v2.3).bin" size="136009104" crc="1b911412" md5="5ace82469324dfae787039a061855083" sha1="fd72d62c40375c515d21162c0b2e3943db30f4aa"/>
+	</game>
+	<game name="Quizard 3 (Austria) (v3.2)">
+		<category>Games</category>
+		<description>Quizard 3 (Austria) (v3.2)</description>
+		<rom name="Quizard 3 (Austria) (v3.2).cue" size="113" crc="16081c9d" md5="cd0d08cb3348fe8591a04efbec8e4264" sha1="aafd7f9417a88523e09702ccd89a94154140bca0"/>
+		<rom name="Quizard 3 (Austria) (v3.2).bin" size="456351504" crc="f37b45d0" md5="96cde593e005617eee3d1b59b667fcb1" sha1="b48d7e8ea0296b4deb5a4a871a6c5ff8236d5523"/>
+	</game>
+	<game name="Quizard 3 (Austria) (v3.4)">
+		<category>Games</category>
+		<description>Quizard 3 (Austria) (v3.4)</description>
+		<rom name="Quizard 3 (Austria) (v3.4).cue" size="113" crc="c572317c" md5="f345af36c589ed67fed7c8f224459613" sha1="8aaa80635aaa978079fb4149a74df8123e07186f"/>
+		<rom name="Quizard 3 (Austria) (v3.4).bin" size="464113104" crc="7a4a9f4f" md5="03d76f1382ea4ec250a2bbe1892de24e" sha1="f2afb67b383085ab24eaa461414fb3c73b11c3ac"/>
+	</game>
+	<game name="Quizard 4 - Rainbow (Austria) (v4.1)">
+		<category>Games</category>
+		<description>Quizard 4 - Rainbow (Austria) (v4.1)</description>
+		<rom name="Quizard 4 - Rainbow (Austria) (v4.1).cue" size="100" crc="3756e57f" md5="8ca739016b107a79eed81b551d5e61c5" sha1="f87e1d99fba37b5cae02cca58ac56046099ce5a9"/>
+		<rom name="Quizard 4 - Rainbow (Austria) (v4.1).bin" size="588465696" crc="e7abd484" md5="b30a10915a7f67cb8bcf7dfa58b43caa" sha1="1a8bb832520f69d50359baf19e5fb3cc8cbf20d0"/>
+	</game>
+	<game name="Quizard 4 - Rainbow (Austria) (v4.2)">
+		<category>Games</category>
+		<description>Quizard 4 - Rainbow (Austria) (v4.2)</description>
+		<rom name="Quizard 4 - Rainbow (Austria) (v4.2).cue" size="123" crc="1e416f4f" md5="0beb857c930a50e3ec8d60578ad35ed6" sha1="1c417e9461df79e63aa44454f90accfcb842a5e3"/>
+		<rom name="Quizard 4 - Rainbow (Austria) (v4.2).bin" size="588056448" crc="7deef68c" md5="362d4d400876f6e6a9a0e426bc483fe4" sha1="aee7c6f1231bc65d3fcec5013fe47942630ec306"/>
+	</game>
+	<game name="Yakyuuken, The - Super Part I (Japan) (Blue Disc)">
+		<category>Games</category>
+		<description>Yakyuuken, The - Super Part I (Japan) (Blue Disc)</description>
+		<rom name="Yakyuuken, The - Super Part I (Japan) (Blue Disc).cue" size="292" crc="7af0b593" md5="63656ece0447c3b8049febbbae54b154" sha1="b459580fb663211b38d7f6570a639973fcc10ada"/>
+		<rom name="Yakyuuken, The - Super Part I (Japan) (Blue Disc) (Track 1).bin" size="642801600" crc="8b9d9f9f" md5="ba25929382825e099d25f9cde51b3f8d" sha1="6fcc03b368ff9c19800e9179710e2513385c187d"/>
+		<rom name="Yakyuuken, The - Super Part I (Japan) (Blue Disc) (Track 2).bin" size="5863536" crc="9bd25fb9" md5="db11da86a5c470d405fb898b6ddb5090" sha1="8ce95eaf6891716db2d29f40f4f7b055a8c3b85b"/>
+	</game>
+	<game name="Yakyuuken, The - Super Part I (Japan) (Red Disc)">
+		<category>Games</category>
+		<description>Yakyuuken, The - Super Part I (Japan) (Red Disc)</description>
+		<rom name="Yakyuuken, The - Super Part I (Japan) (Red Disc).cue" size="290" crc="d0fc2655" md5="753bd92e8ebff3c5fe5348019fbade48" sha1="38a2c6e8d35efd034c09443fd3490fb2af999445"/>
+		<rom name="Yakyuuken, The - Super Part I (Japan) (Red Disc) (Track 1).bin" size="642801600" crc="274d02cf" md5="010cefacbb3eddc9d1477b766f002d0e" sha1="738ab42378b82aa5892362a7e77140e39577f550"/>
+		<rom name="Yakyuuken, The - Super Part I (Japan) (Red Disc) (Track 2).bin" size="5863536" crc="9bd25fb9" md5="db11da86a5c470d405fb898b6ddb5090" sha1="8ce95eaf6891716db2d29f40f4f7b055a8c3b85b"/>
+	</game>
+	<game name="Yakyuuken, The - Super Part II (Japan)">
+		<category>Games</category>
+		<description>Yakyuuken, The - Super Part II (Japan)</description>
+		<rom name="Yakyuuken, The - Super Part II (Japan).cue" size="270" crc="23f96ed7" md5="0f66f73d6864c8c01639f3bfff0f0cca" sha1="97758e1185e40215adb33f15505d7b441df685f5"/>
+		<rom name="Yakyuuken, The - Super Part II (Japan) (Track 1).bin" size="643860000" crc="7b85a918" md5="6b10fd8814e14079a31e1dc591b5171e" sha1="8d4ca50a2550bc6b5e3552de60766d3c77104e1d"/>
+		<rom name="Yakyuuken, The - Super Part II (Japan) (Track 2).bin" size="5863536" crc="516ed401" md5="178f954d3584068fed77689158db2a85" sha1="cc35a7f113c6c2e95b6632b65f5f0eef7ce4e249"/>
+	</game>
+	<game name="Yakyuuken, The - Super Part III (Japan)">
+		<category>Games</category>
+		<description>Yakyuuken, The - Super Part III (Japan)</description>
+		<rom name="Yakyuuken, The - Super Part III (Japan).cue" size="272" crc="efcf324b" md5="1290f9ba2dc1a6ade757bf75046b32ed" sha1="80d8e860976f5abcd310d8eb0758f28e52600828"/>
+		<rom name="Yakyuuken, The - Super Part III (Japan) (Track 1).bin" size="643860000" crc="877ad867" md5="ee66eac96164a678438fd0467ee15914" sha1="1a518d77c089741fbdc3ad63f152afd6d136a62a"/>
+		<rom name="Yakyuuken, The - Super Part III (Japan) (Track 2).bin" size="5863536" crc="516ed401" md5="178f954d3584068fed77689158db2a85" sha1="cc35a7f113c6c2e95b6632b65f5f0eef7ce4e249"/>
+	</game>
+	<game name="Yakyuuken, The - Super Part IV (Japan)">
+		<category>Games</category>
+		<description>Yakyuuken, The - Super Part IV (Japan)</description>
+		<rom name="Yakyuuken, The - Super Part IV (Japan).cue" size="247" crc="531d7623" md5="f3a8735067205f37ba81c306bb4da482" sha1="d2a5d69815be13d985b1046602e81388ad5acd08"/>
+		<rom name="Yakyuuken, The - Super Part IV (Japan) (Track 1).bin" size="643864704" crc="5319d0bd" md5="239d23ef3dac3d84635dad64be166684" sha1="210df3fc080f3b929664bcb005da75812a7cab5c"/>
+		<rom name="Yakyuuken, The - Super Part IV (Japan) (Track 2).bin" size="5884704" crc="aaebab27" md5="06711ef90c14b064c13064d71b5b61a8" sha1="31241e5e21926e99f1368d6c2db1378ee7c1edde"/>
+	</game>
+	<game name="Quizard (France) (French Edition)">
+		<category>Games</category>
+		<description>Quizard (France) (French Edition)</description>
+		<rom name="Quizard (France) (French Edition).cue" size="120" crc="6410fba2" md5="b30dd6499a3e9ff869d48fc5d24659bb" sha1="86c1c13f1cf813c1f4b9ff492637cbfe06565b39"/>
+		<rom name="Quizard (France) (French Edition).bin" size="180461904" crc="a2ecdc04" md5="abcd39581d1d317b937f607284163299" sha1="91a0bd485c04af5a808b303bf13838da8e022dcd"/>
+	</game>
+</datafile>

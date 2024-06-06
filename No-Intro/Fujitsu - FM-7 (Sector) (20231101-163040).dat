@@ -1,0 +1,1297 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>244</id>
+		<name>Fujitsu - FM-7 (Sector)</name>
+		<description>Fujitsu - FM-7 (Sector)</description>
+		<version>20231101-163040</version>
+		<author>FakeShemp, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] FM-77 (Japan)" id="0021">
+		<description>[BIOS] FM-77 (Japan)</description>
+		<rom name="BOOT_BAS.rom" size="512" crc="c70f0c74" md5="9f9b7d5615ecdbde2cd26e9306ffef13" sha1="53b63a301cba7e3030e79c59a4d4291eab6e64b0"/>
+		<rom name="BOOT_DOS.rom" size="512" crc="198614ff" md5="c6c37a57b33fee51b8cd8e8586c3f018" sha1="037e5881bd3fed472a210ee894a6446965a8d2ef"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+	</game>
+	<game name="[BIOS] FM-8 (Japan)" id="0022">
+		<description>[BIOS] FM-8 (Japan)</description>
+		<rom name="bootbas8.rom" size="512" crc="8260267a" md5="c5268e78213ee7de54bb9794e42cbcc3" sha1="fee6fb9c52d22dd7108c68d08c74e2f3ebcb9e4d"/>
+		<rom name="bootdos8.rom" size="512" crc="1ed5a506" md5="45822d870bcef58aeef0576dd57f6fec" sha1="966538fa92c32fc15034576dc480cfa4a339384d"/>
+		<rom name="fbasic10.rom" size="31744" crc="e80ed96c" md5="458b652ebe0861b36c977ff19b668fbc" sha1="f3fa8a6adb07224ad2a1def77d5dae9662de0867"/>
+		<rom name="subsys_8.rom" size="10240" crc="979f9046" md5="b612bc76e7ff2ba70d8517c6373c58bd" sha1="9c52052087bf3a41b83d437a51d89b9fcfec2515"/>
+	</game>
+	<game name="[BIOS] FM77AV (Japan)" id="0023">
+		<description>[BIOS] FM77AV (Japan)</description>
+		<rom name="BOOT_BAS.rom" size="512" crc="c70f0c74" md5="9f9b7d5615ecdbde2cd26e9306ffef13" sha1="53b63a301cba7e3030e79c59a4d4291eab6e64b0"/>
+		<rom name="BOOT_DOS.rom" size="512" crc="198614ff" md5="c6c37a57b33fee51b8cd8e8586c3f018" sha1="037e5881bd3fed472a210ee894a6446965a8d2ef"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="INITIATE.rom" size="8192" crc="0101ff55" md5="6a30dcef71fd1f52a53c37c45b763269" sha1="f2b358dea3869ec6545a50caa6c217d1bcec309f"/>
+		<rom name="KANJI.rom" size="131072" crc="fe8f63b0" md5="3b1bba7279ea756b10968a12616c8008" sha1="bc40bef9d81b7dd6e0b156ce87fd5c7680dfb63c"/>
+		<rom name="SUBSYS_A.rom" size="8192" crc="e8014fbb" md5="ae945a6dfb642b0a5d0529737e8ee5cd" sha1="038cb0b42aee9e933b20fccd6f19942e2f476c83"/>
+		<rom name="SUBSYS_B.rom" size="8192" crc="9be69fac" md5="fb83a1a9725c8432acef0c3ce89492e3" sha1="0305bdd44e7d9b7b6a17675aff0a3330a08d21a8"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="2cacf31c" md5="c3b0445a69e0f7970b719ae165e91936" sha1="254cf62a2134a67ea633caa37aa3d513c52e53a7"/>
+		<rom name="SUBSYSCG.rom" size="8192" crc="9b0273a8" md5="4557aa8001287c4d3fdb22d567150830" sha1="aabdfe5c2c9764e1fd85cd8eacd1d234e887d33e"/>
+	</game>
+	<game name="[BIOS] FM77AV (Japan) (Alt)" id="0024">
+		<description>[BIOS] FM77AV (Japan) (Alt)</description>
+		<rom name="BOOT_BAS.rom" size="512" crc="c70f0c74" md5="9f9b7d5615ecdbde2cd26e9306ffef13" sha1="53b63a301cba7e3030e79c59a4d4291eab6e64b0"/>
+		<rom name="BOOT_DOS.rom" size="512" crc="198614ff" md5="c6c37a57b33fee51b8cd8e8586c3f018" sha1="037e5881bd3fed472a210ee894a6446965a8d2ef"/>
+		<rom name="FB30ROM1.dat" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="FB30ROM2.dat" size="480" crc="d300bdce" md5="fa91a1acce3b4a323ee8d93537242b96" sha1="6fb4782f8b5c2df081986f06bbf6474a5ae732e5"/>
+		<rom name="FB30SUB.dat" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="INITIATE.rom" size="8192" crc="0101ff55" md5="6a30dcef71fd1f52a53c37c45b763269" sha1="f2b358dea3869ec6545a50caa6c217d1bcec309f"/>
+		<rom name="KANJI.rom" size="131072" crc="fe8f63b0" md5="3b1bba7279ea756b10968a12616c8008" sha1="bc40bef9d81b7dd6e0b156ce87fd5c7680dfb63c"/>
+		<rom name="SUBSYS_A.rom" size="8192" crc="e8014fbb" md5="ae945a6dfb642b0a5d0529737e8ee5cd" sha1="038cb0b42aee9e933b20fccd6f19942e2f476c83"/>
+		<rom name="SUBSYS_B.rom" size="8192" crc="9be69fac" md5="fb83a1a9725c8432acef0c3ce89492e3" sha1="0305bdd44e7d9b7b6a17675aff0a3330a08d21a8"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+		<rom name="SUBSYSCG.rom" size="8192" crc="e9f16c42" md5="7db27dede3e358017d518101850bccfa" sha1="8ab466b1546d023ba54987790a79e9815d2b7bb2"/>
+	</game>
+	<game name="[BIOS] FM77AV40EX (Japan)" id="0025">
+		<description>[BIOS] FM77AV40EX (Japan)</description>
+		<rom name="BOOT_BAS.rom" size="512" crc="c70f0c74" md5="9f9b7d5615ecdbde2cd26e9306ffef13" sha1="53b63a301cba7e3030e79c59a4d4291eab6e64b0"/>
+		<rom name="BOOT_DOS.rom" size="512" crc="198614ff" md5="c6c37a57b33fee51b8cd8e8586c3f018" sha1="037e5881bd3fed472a210ee894a6446965a8d2ef"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="INITIATE.rom" size="8192" crc="785cb06c" md5="e0f4c0ebee60aee83e863826e59ae1de" sha1="b65987e98a9564a82c85eadb86f0204eee5a5c93"/>
+		<rom name="KANJI1.rom" size="131072" crc="62402ac9" md5="a330817f8f7ced752a7bcc8dfba8fd2e" sha1="bf52d22b119d54410dad4949b0687bb0edf3e143"/>
+		<rom name="SUBSYS_A.rom" size="8192" crc="e8014fbb" md5="ae945a6dfb642b0a5d0529737e8ee5cd" sha1="038cb0b42aee9e933b20fccd6f19942e2f476c83"/>
+		<rom name="SUBSYS_B.rom" size="8192" crc="9be69fac" md5="fb83a1a9725c8432acef0c3ce89492e3" sha1="0305bdd44e7d9b7b6a17675aff0a3330a08d21a8"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+		<rom name="SUBSYSCG.rom" size="8192" crc="e9f16c42" md5="7db27dede3e358017d518101850bccfa" sha1="8ab466b1546d023ba54987790a79e9815d2b7bb2"/>
+	</game>
+	<game name="[BIOS] FM77AV40SX (Japan)" id="0026">
+		<description>[BIOS] FM77AV40SX (Japan)</description>
+		<rom name="DICROM.rom" size="262144" crc="b142acbc" md5="875c99f14185287544e0b61c664d6a5a" sha1="fe9f92a8a2750bcba0a1d2895e75e83858e4f97f"/>
+		<rom name="EXTSUB.rom" size="49152" crc="0f7fcce3" md5="7c4fe9a0564bc636c0393deb1d19e10d" sha1="a1304457eeb400b4edd3c20af948d66a04df255e"/>
+		<rom name="FBASIC30.rom" size="31744" crc="a96d19b6" md5="71c96a45b78e88a39cb94c1aabd23d8a" sha1="8d5f0cfe7e0d39bf2ab7e4c798a13004769c28b2"/>
+		<rom name="INITIATE.rom" size="8192" crc="785cb06c" md5="e0f4c0ebee60aee83e863826e59ae1de" sha1="b65987e98a9564a82c85eadb86f0204eee5a5c93"/>
+		<rom name="KANJI1.rom" size="131072" crc="62402ac9" md5="a330817f8f7ced752a7bcc8dfba8fd2e" sha1="bf52d22b119d54410dad4949b0687bb0edf3e143"/>
+		<rom name="KANJI2.rom" size="131072" crc="38644251" md5="e6d19021a8df5e4d63dfd89533d29b9c" sha1="ebfdc43c38e1380709ed08575c346b2467ad1592"/>
+		<rom name="SUBSYS_A.rom" size="8192" crc="e8014fbb" md5="ae945a6dfb642b0a5d0529737e8ee5cd" sha1="038cb0b42aee9e933b20fccd6f19942e2f476c83"/>
+		<rom name="SUBSYS_B.rom" size="8192" crc="9be69fac" md5="fb83a1a9725c8432acef0c3ce89492e3" sha1="0305bdd44e7d9b7b6a17675aff0a3330a08d21a8"/>
+		<rom name="SUBSYS_C.rom" size="10240" crc="24cec93f" md5="d19ed5923aaae2ec43dffe7a0daa80cb" sha1="50b7283db6fe1342c6063fc94046283f4feddc1c"/>
+		<rom name="SUBSYSCG.rom" size="8192" crc="e9f16c42" md5="7db27dede3e358017d518101850bccfa" sha1="8ab466b1546d023ba54987790a79e9815d2b7bb2"/>
+	</game>
+	<game name="1942 (Japan)" id="0027">
+		<description>1942 (Japan)</description>
+		<rom name="1942 (Japan).d77" size="348848" crc="d926e02e" md5="c49a3543f8fad5e4fccdc24c1e308acb" sha1="5bcfc676e33d2d5fa1314ca686667fd45c8cc1a7"/>
+	</game>
+	<game name="4th Unit 2, The (Japan) (Disk 3)" id="0354">
+		<description>4th Unit 2, The (Japan) (Disk 3)</description>
+		<rom name="4th Unit 2, The (Japan) (Disk 3).d77" size="348848" crc="308d06d3" md5="54f76e10bbbfa8cceae7d0f25d3901e2" sha1="1bc4ba440a8f34ee503f635325ab517d434a6ff1" sha256="5a7b2023027b7344b4e0f23a0a2e5f28ebb464c4e99ffed5d4425b78f383004b" header="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"/>
+	</game>
+	<game name="4th Unit 2, The (Japan) (Disk 1)" id="0352">
+		<description>4th Unit 2, The (Japan) (Disk 1)</description>
+		<rom name="4th Unit 2, The (Japan) (Disk 1).d77" size="349392" crc="51d185e8" md5="002f238b3ec3b5132b4c4bd2ae5ec625" sha1="55733e7040feab5099499faff628b42551584c9b" sha256="d6c34c561075d106c3a3956fd4d7e65828bb06153b4038cdc821a98db647f9df" header="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"/>
+	</game>
+	<game name="4th Unit 2, The (Japan) (Disk 2)" id="0353">
+		<description>4th Unit 2, The (Japan) (Disk 2)</description>
+		<rom name="4th Unit 2, The (Japan) (Disk 2).d77" size="348848" crc="67ff23c2" md5="1d4965fb67833f584410bc4cc441686e" sha1="0b5c7c365cae28743c20a2a89097c5a8570a01d1" sha256="84a4079e1e170a90b2eea3405ef14a6fd65a03fb937f9f8c087f9c5f0cf6a7a3" header="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"/>
+	</game>
+	<game name="A Ressha de Ikou (Japan)" id="0028">
+		<description>A Ressha de Ikou (Japan)</description>
+		<rom name="A Ressha de Ikou (Japan).d77" size="348848" crc="ac7519d3" md5="b3e9e43cb8b0bf4f68f0a102dbc9153a" sha1="9591f40cf58d25f8dc6747fcc4d1979d492e6103"/>
+	</game>
+	<game name="Abyss (Japan) [b]" id="0029">
+		<description>Abyss (Japan) [b]</description>
+		<rom name="Abyss (Japan) [b].d77" size="344448" crc="3af08a45" md5="d8ff5b2b29fdc261f9b6a943c6aa48b0" sha1="f8fba301fb2dce0c38f917a5320c68cfc176cf28" status="baddump"/>
+	</game>
+	<game name="Akunin 2, The (Japan) (run AKUNIN-2)" id="0232">
+		<description>Akunin 2, The (Japan) (run AKUNIN-2)</description>
+		<rom name="Akunin 2, The (Japan) (run AKUNIN-2).d77" size="348848" crc="3bcd2cff" md5="5e4199663dc09805178513652dc38d3b" sha1="c131f71c493945f596a82a1195b90992550c6714"/>
+	</game>
+	<game name="Akunin 3, The (Japan) (run AKUNIN-3)" id="0233">
+		<description>Akunin 3, The (Japan) (run AKUNIN-3)</description>
+		<rom name="Akunin 3, The (Japan) (run AKUNIN-3).d77" size="348848" crc="e78b1a1b" md5="e1bef360e7a4ed852637997d09485c59" sha1="995e4b44a165081016c52d3b8cb5acb369154c64"/>
+	</game>
+	<game name="Akunin, The (Japan) (run AKUNIN-1)" id="0234">
+		<description>Akunin, The (Japan) (run AKUNIN-1)</description>
+		<rom name="Akunin, The (Japan) (run AKUNIN-1).d77" size="348848" crc="a7639f58" md5="aee1674490a70ea41fd2dcfadc9e40e3" sha1="6439ee345cb1d09f1eff9909ec73a70e4e315969"/>
+	</game>
+	<game name="Albatross (Japan) (Disk 2)" id="0322">
+		<description>Albatross (Japan) (Disk 2)</description>
+		<rom name="Albatross (Japan) (Disk 2).d77" size="348848" crc="810b41a0" md5="398d489c5d0a1d962424414035383956" sha1="789d00302564cfd873d7ded0c9e679cc639f5552"/>
+	</game>
+	<game name="Albatross (Japan) (Disk 3)" id="0323">
+		<description>Albatross (Japan) (Disk 3)</description>
+		<rom name="Albatross (Japan) (Disk 3).d77" size="348848" crc="53e1820b" md5="8a443e95a17b69211c956b0cd1b96fde" sha1="250472bac1e21bf8fc1059e3f39e2ba81b957eda"/>
+	</game>
+	<game name="Albatross (Japan) (Disk 1)" id="0321">
+		<description>Albatross (Japan) (Disk 1)</description>
+		<rom name="Albatross (Japan) (Disk 1).d77" size="348848" crc="daad6fc8" md5="ebf8b1a4976c9cdf45dbc438ee58eba8" sha1="681ba86fe4674199b7147657198b5214b600c913"/>
+	</game>
+	<game name="Alpha (Japan)" id="0031">
+		<description>Alpha (Japan)</description>
+		<rom name="Alpha (Japan).d77" size="348848" crc="9f70808d" md5="2ffe621516da4e06c250c9666ab0f016" sha1="b05037b88cb04b89e77001d093e7779164aca49b"/>
+	</game>
+	<game name="Amnork (Japan)" id="0032">
+		<description>Amnork (Japan)</description>
+		<rom name="Amnork (Japan).d77" size="348848" crc="489cc1b6" md5="ba84c4c0e07d66aa236b4ac3178d6de7" sha1="35909e439d20d47c53b3d269e6de1424c54b3ef9"/>
+	</game>
+	<game name="Amnork (Japan) (Alt)" id="0033">
+		<description>Amnork (Japan) (Alt)</description>
+		<rom name="Amnork (Japan) (Alt).d77" size="348848" crc="caed928a" md5="e6fb02899ec7015877dfc9b102517ec7" sha1="4b1de444e4420bc17dc5e7cd1026ae422c338e3e"/>
+	</game>
+	<game name="Archon (Japan)" id="0034">
+		<description>Archon (Japan)</description>
+		<rom name="Archon (Japan).d77" size="348848" crc="49b27f2c" md5="205e26be8fa4f113353e78516645ab1f" sha1="e3433f8bdbf9e2fb2cffba4cf9866160d4db3438"/>
+	</game>
+	<game name="Argo (Japan) (FM77AV) (Disk 1)" id="0324">
+		<description>Argo (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Argo (Japan) (FM77AV) (Disk 1).d77" size="348576" crc="22e12309" md5="91cce6800b8bc85d22d2260ead9e78ca" sha1="3f2c06de1b7cb438bf1108b606c3199811ef6554"/>
+	</game>
+	<game name="Argo (Japan) (FM77AV) (Disk 2)" id="0325">
+		<description>Argo (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Argo (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="84312bb6" md5="55b32506a2d8c1b8efa1c5ad7a80540d" sha1="6f01ce556c7f8afcfed447fb9b02559db027b0ac"/>
+	</game>
+	<game name="Arion (Japan) (Disk 1)" id="0326">
+		<description>Arion (Japan) (Disk 1)</description>
+		<rom name="Arion (Japan) (Disk 1).d77" size="348848" crc="9ff15055" md5="81e5a5117d3860a9a5f6018085efd98d" sha1="820e183c85d4453205f99fbb7c1a4972a8c5d0ac"/>
+	</game>
+	<game name="Arion (Japan) (Disk 2)" id="0327">
+		<description>Arion (Japan) (Disk 2)</description>
+		<rom name="Arion (Japan) (Disk 2).d77" size="348848" crc="d7ac60af" md5="fc7fdd8b86b65e6ebae5800b2dec1cdd" sha1="e645a0497e441d97db06cb8eb6420f0adc0fa144"/>
+	</game>
+	<game name="Bishoujo Shashinkan - Moving School (Japan)" id="0040">
+		<description>Bishoujo Shashinkan - Moving School (Japan)</description>
+		<rom name="Bishoujo Shashinkan - Moving School (Japan).d77" size="348848" crc="c7c17639" md5="d63fb9669399e7c6ce2c6a7bafe02958" sha1="5f548bb410be8050ac693a92ac255064f9746b1a"/>
+	</game>
+	<game name="Boukenshatachi - Kenja no Yuigon (Japan) (Disk 1)" id="0041">
+		<description>Boukenshatachi - Kenja no Yuigon (Japan) (Disk 1)</description>
+		<rom name="Boukenshatachi - Kenja no Yuigon (Japan) (Disk 1).d77" size="415840" crc="53c3e355" md5="70ca6121bcf35b861cd1caff0ecf4e82" sha1="f99eb07c72f8f7b6ba8f09549d22d75003aeb7db"/>
+	</game>
+	<game name="Boukenshatachi - Kenja no Yuigon (Japan) (Disk 2)" id="0042">
+		<description>Boukenshatachi - Kenja no Yuigon (Japan) (Disk 2)</description>
+		<rom name="Boukenshatachi - Kenja no Yuigon (Japan) (Disk 2).d77" size="415840" crc="840d7eed" md5="009b35077c89213957b213b5ab24afdb" sha1="bf94b5ffb2ea54bd01ae63cc9ac14150f7a6f36e"/>
+	</game>
+	<game name="Castle &amp; Castle Excellent, The (Japan)" id="0235">
+		<description>Castle &amp; Castle Excellent, The (Japan)</description>
+		<rom name="Castle &amp; Castle Excellent, The (Japan).d77" size="348848" crc="62c97a3b" md5="32d2304872d6d9dc5d52195a5a3b274a" sha1="252e8084859ad8a033e36cc2b13e32b93fa35b50"/>
+	</game>
+	<game name="Castle Excellent (Japan)" id="0043">
+		<description>Castle Excellent (Japan)</description>
+		<rom name="Castle Excellent (Japan).d77" size="347168" crc="4aaa8cbd" md5="e5649c6469c76bf0ccccf8096758d82d" sha1="9d9c3181e8ba1a59d1686fc1c8eaa094425529e9"/>
+	</game>
+	<game name="Champion ProWres Special (Japan)" id="0044">
+		<description>Champion ProWres Special (Japan)</description>
+		<rom name="Champion ProWres Special (Japan).d77" size="349888" crc="04f1cae5" md5="46d40543fa699bb3725799d2a707c7b3" sha1="a3192f293e8470e82ea8ad45bb7fe3f288aae341"/>
+	</game>
+	<game name="Christine (Japan)" id="0045">
+		<description>Christine (Japan)</description>
+		<rom name="Christine (Japan).d77" size="348848" crc="34957e34" md5="c033d104b273d5472b774a12853c9948" sha1="692dc1b833332f1f5186852cb4346b15808c0ee9"/>
+	</game>
+	<game name="Count, The (Japan)" id="0236">
+		<description>Count, The (Japan)</description>
+		<rom name="Count, The (Japan).d77" size="344496" crc="e97f08be" md5="67468165174fc74f980791be71377a1e" sha1="c096aebd4bcc9192790794a9f4597e55a7a4d410"/>
+	</game>
+	<game name="Cranston Manor (Japan) (Disk 1)" id="0046">
+		<description>Cranston Manor (Japan) (Disk 1)</description>
+		<rom name="Cranston Manor (Japan) (Disk 1).d77" size="344496" crc="0f38ee32" md5="5fc5f7097a7cf419f374f033ab10e3b3" sha1="31f1424d41eeb3c1c7efcd36c283815c3cdadca9"/>
+	</game>
+	<game name="Cranston Manor (Japan) (Disk 2)" id="0047">
+		<description>Cranston Manor (Japan) (Disk 2)</description>
+		<rom name="Cranston Manor (Japan) (Disk 2).d77" size="348848" crc="39af220d" md5="d4d7be93a03e49cc19cf93d9dcdc7156" sha1="775bd767e9ecea8f73519e4ed338487b3455594a"/>
+	</game>
+	<game name="Cream Lemon - SF Choujigen Densetsu Rall (Japan) (Disk 2)" id="0049">
+		<description>Cream Lemon - SF Choujigen Densetsu Rall (Japan) (Disk 2)</description>
+		<rom name="Cream Lemon - SF Choujigen Densetsu Rall (Japan) (Disk 2).d77" size="349392" crc="df817997" md5="51604d7deb4e818a4797df50372b4e0e" sha1="3d50bcf1685ccf0498eb13a25193d54026259418"/>
+	</game>
+	<game name="Cream Lemon - SF Choujigen Densetsu Rall (Japan) (Disk 1)" id="0048">
+		<description>Cream Lemon - SF Choujigen Densetsu Rall (Japan) (Disk 1)</description>
+		<rom name="Cream Lemon - SF Choujigen Densetsu Rall (Japan) (Disk 1).d77" size="349392" crc="4bb6340c" md5="2394baae7abe3c2b9425c4086a69f453" sha1="f3837f9fc31bc2b8d073d2ff131d824757e6f33f"/>
+	</game>
+	<game name="Crisis Mountain (Japan)" id="0050">
+		<description>Crisis Mountain (Japan)</description>
+		<rom name="Crisis Mountain (Japan).d77" size="392368" crc="51084107" md5="43457ad0018e611caac96c2a825e87ca" sha1="19c5fb2b83af71490b4a00637f92c0fc7e4bb900"/>
+	</game>
+	<game name="Daisenryaku FM (Japan)" id="0051">
+		<description>Daisenryaku FM (Japan)</description>
+		<rom name="Daisenryaku FM (Japan).d77" size="350576" crc="9b4af481" md5="9df0a7bdf33175a88373c3db6bfa658f" sha1="289f7670498c735b4c0f4ccba1d4a49931e6232f"/>
+	</game>
+	<game name="Daiva (Japan) (req F-BASIC disk, run STARTUP) (Homebrew)" id="0052">
+		<category>Guides</category>
+		<description>Daiva (Japan) (req F-BASIC disk, run STARTUP) (Homebrew)</description>
+		<rom name="Daiva (Japan) (req F-BASIC disk, run STARTUP) (Homebrew).d77" size="348848" crc="08f10ca2" md5="971f6c1b4f65c9528a6daf2dac63d736" sha1="3ee7f91907517b3ab5e1f495b032cb24467fc6ec"/>
+	</game>
+	<game name="Daiva Story 2 - Memory in Durga (Japan) (FM77AV) (Disk 1)" id="0053">
+		<description>Daiva Story 2 - Memory in Durga (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Daiva Story 2 - Memory in Durga (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="a544ac51" md5="10947c339af0b68c5da76267a50634a7" sha1="be61fdcb14515dc94a0e83f5261f50c630343378"/>
+	</game>
+	<game name="Daiva Story 2 - Memory in Durga (Japan) (FM77AV) (Disk 2)" id="0054">
+		<description>Daiva Story 2 - Memory in Durga (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Daiva Story 2 - Memory in Durga (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="d30ddec0" md5="383cdd0a96b6ea69bcfd421c5bff2f30" sha1="9d4d065ae420da5abbf469350f699da081ef63f3"/>
+	</game>
+	<game name="Dark Crystal, The (Japan) (Disk 1)" id="0237">
+		<description>Dark Crystal, The (Japan) (Disk 1)</description>
+		<rom name="Dark Crystal, The (Japan) (Disk 1).d77" size="344496" crc="b1aea1a7" md5="1bc4fc5601247c2fd67b09daccee9a58" sha1="342675810cc1010816e968aef4859ed3dffcd8d0"/>
+	</game>
+	<game name="Dark Crystal, The (Japan) (Disk 2)" id="0238">
+		<description>Dark Crystal, The (Japan) (Disk 2)</description>
+		<rom name="Dark Crystal, The (Japan) (Disk 2).d77" size="348848" crc="41cb54ea" md5="a3d7545260fac0dc1aae3873c908f832" sha1="0ef7787f37da20b3bccb60738c649584a5ca9772"/>
+	</game>
+	<game name="Dark Crystal, The (Japan) (Disk 3)" id="0239">
+		<description>Dark Crystal, The (Japan) (Disk 3)</description>
+		<rom name="Dark Crystal, The (Japan) (Disk 3).d77" size="348848" crc="345fe5e0" md5="41346373ddd3496a5109ca036adcf62d" sha1="f9fbe66407554e38a927cd84bef585259eebd42c"/>
+	</game>
+	<game name="Death Force (Japan) (FM77AV) (Disk 1)" id="0055">
+		<description>Death Force (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Death Force (Japan) (FM77AV) (Disk 1).d77" size="392880" crc="9c2cac77" md5="0fce4229f4f0a00ed0980854e5d1af2e" sha1="a63fb37b3ac3b1f0b3ac65f8407c65f29c0160ef"/>
+	</game>
+	<game name="Death Force (Japan) (FM77AV) (Disk 2)" id="0056">
+		<description>Death Force (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Death Force (Japan) (FM77AV) (Disk 2).d77" size="392880" crc="2fea2682" md5="e5055f7ff0c411c6c707f7ac9523bf8d" sha1="3c6935b98ecf6cab3aff0e3b214f0051a4040117"/>
+	</game>
+	<game name="Deep Forest (Japan) (FM77AV) (Disk 2)" id="0059">
+		<description>Deep Forest (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Deep Forest (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="47f5efe6" md5="863136bfaf9af25ae4ccd6cc8d5fa247" sha1="78759b99cbc3032d443f5dd9f47e54d3a7654bc5"/>
+	</game>
+	<game name="Deep Forest (Japan) (FM77AV) (Disk 1)" id="0058">
+		<description>Deep Forest (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Deep Forest (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="827c26a0" md5="25d12fa41a680072cd1fbbe3229a404e" sha1="394d54dec6cfdc9990a38256df55afc1010f336a"/>
+	</game>
+	<game name="Dezeni Land (Japan)" id="0060">
+		<description>Dezeni Land (Japan)</description>
+		<rom name="Dezeni Land (Japan).d77" size="274864" crc="b7488535" md5="59907d72789bd1b64542100e270d108b" sha1="84185c3e8463822b5740f1547e7a63369831b877"/>
+	</game>
+	<game name="Digital Devil Story - Megami Tensei (Japan) (FM77AV) (Disk 2)" id="0062">
+		<description>Digital Devil Story - Megami Tensei (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Digital Devil Story - Megami Tensei (Japan) (FM77AV) (Disk 2).d77" size="416688" crc="7e75fd0e" md5="8d8d9ba3e6606095783aec67a73d9257" sha1="e8432c56dd44f807f7e20e54271a51776e44c7e0"/>
+	</game>
+	<game name="Digital Devil Story - Megami Tensei (Japan) (FM77AV) (Disk 1)" id="0061">
+		<description>Digital Devil Story - Megami Tensei (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Digital Devil Story - Megami Tensei (Japan) (FM77AV) (Disk 1).d77" size="415840" crc="a9d07a0d" md5="f80ec9c668512616cce3edaa5bbb1610" sha1="105f8698f31f5e43a379efb56e8dc4b6cf12277a"/>
+	</game>
+	<game name="DiskFM Vol. 1 (Japan)" id="0063">
+		<description>DiskFM Vol. 1 (Japan)</description>
+		<rom name="DiskFM Vol. 1 (Japan).d77" size="348848" crc="29fdff52" md5="f9002011b96160cb50b4ad5edf05c1d7" sha1="4a6759c661c2f05c34306bd0d265461d21ceee90"/>
+	</game>
+	<game name="DNA (Japan) (Disk 1)" id="0064">
+		<description>DNA (Japan) (Disk 1)</description>
+		<rom name="DNA (Japan) (Disk 1).d77" size="348848" crc="0cab8e99" md5="894a74e3b073e084cfe0f4e375b1fde3" sha1="4410d9f023f82d631a06448093109aeb1c5f1d1c"/>
+	</game>
+	<game name="DNA (Japan) (Disk 2)" id="0065">
+		<description>DNA (Japan) (Disk 2)</description>
+		<rom name="DNA (Japan) (Disk 2).d77" size="348848" crc="b1d80b08" md5="20ed555e03dc87b947efc8a92b185638" sha1="1b3c54c1a678c8985f4cecc8023abba2b950c961"/>
+	</game>
+	<game name="Dragon Buster (Japan) (FM77AV)" id="0066">
+		<description>Dragon Buster (Japan) (FM77AV)</description>
+		<rom name="Dragon Buster (Japan) (FM77AV).d77" size="348848" crc="191a39b7" md5="600266e6955208ab64a933d70454644e" sha1="0d582dcfc59ba99144babbe04addc51ea3abc7b2"/>
+	</game>
+	<game name="Dragon Buster (Japan) (FM77AV) (Alt)" id="0067">
+		<description>Dragon Buster (Japan) (FM77AV) (Alt)</description>
+		<rom name="Dragon Buster (Japan) (FM77AV) (Alt).d77" size="348848" crc="6bd92d05" md5="2793f68f1475ce616b90a56dd16da505" sha1="e2c2540d0880afe1b4b16055cb320916032eddf6"/>
+	</game>
+	<game name="Exassave (Japan) (req F-BASIC disk) (Homebrew)" id="0335">
+		<description>Exassave (Japan) (req F-BASIC disk) (Homebrew)</description>
+		<rom name="Exassave (Japan) (req F-BASIC disk) (Homebrew).d77" size="348848" crc="939cd999" md5="98cac1bfbdfc14506e266e372a8225bb" sha1="cca6a324205589173e367ef641e9a2682858356b"/>
+	</game>
+	<game name="Expert FM (Japan) (v3.1)" id="0338">
+		<description>Expert FM (Japan) (v3.1)</description>
+		<rom name="Expert FM (Japan) (v3.1).d77" size="348848" crc="c561a6c2" md5="1710226e5b8e47ad9a1a569ddc9be475" sha1="a783a008aaea31a8a0470e3eda0de6c1268fef4e"/>
+	</game>
+	<game name="Expert FM Construction (Japan) (Disk 1)" id="0336">
+		<description>Expert FM Construction (Japan) (Disk 1)</description>
+		<rom name="Expert FM Construction (Japan) (Disk 1).d77" size="348848" crc="c542de6d" md5="269023526510a5b07baa96e7e098c6ce" sha1="86f1cd0bbeda05272c4340a391ee5a223a7db2cc"/>
+	</game>
+	<game name="Expert FM Construction (Japan) (Disk 2)" id="0337">
+		<description>Expert FM Construction (Japan) (Disk 2)</description>
+		<rom name="Expert FM Construction (Japan) (Disk 2).d77" size="348848" crc="02301a5e" md5="6cb5fb27b66edf7967c079a563c08bed" sha1="dc1233745b92bfb9c62ead848bbcb564c2a9482d"/>
+	</game>
+	<game name="F-BASIC (Japan) (v3.4 L21) (FM77AV40SX) (OS)" id="0332">
+		<description>F-BASIC (Japan) (v3.4 L21) (FM77AV40SX) (OS)</description>
+		<rom name="F-BASIC (Japan) (v3.4 L21) (FM77AV40SX) (OS).d77" size="701360" crc="833ba0cd" md5="c35ecdcc5fe3a61dc9f472e2e218b482" sha1="347c9b22cf18c89ab01400cde1299309e26620aa"/>
+	</game>
+	<game name="F-BASIC (Japan) (v3.3 L10) (FM77AV) (OS)" id="0330">
+		<description>F-BASIC (Japan) (v3.3 L10) (FM77AV) (OS)</description>
+		<rom name="F-BASIC (Japan) (v3.3 L10) (FM77AV) (OS).d77" size="353200" crc="d5d124e2" md5="1b2b9b8ba84e2228005d544ff0a12d9f" sha1="5276832d886622e01041e3edc0a448a9538c6655"/>
+	</game>
+	<game name="F-BASIC (Japan) (v3.3 L11) (FM77AV) (OS)" id="0331">
+		<description>F-BASIC (Japan) (v3.3 L11) (FM77AV) (OS)</description>
+		<rom name="F-BASIC (Japan) (v3.3 L11) (FM77AV) (OS).d77" size="348848" crc="1853fb96" md5="88baf2e519534023951395bbd48c34a4" sha1="0aa69e0f57ad96354762eaa36330d016d44d96ea"/>
+	</game>
+	<game name="F-BASIC (Japan) (v3.0 L10) (OS)" id="0329">
+		<description>F-BASIC (Japan) (v3.0 L10) (OS)</description>
+		<rom name="F-BASIC (Japan) (v3.0 L10) (OS).d77" size="348848" crc="6063fa8b" md5="94b1ddf4a0d901280790b7b2f347b7a3" sha1="7e340676c3242e89e00e6314383f01ad6ae879ce"/>
+	</game>
+	<game name="Fairie's Residence (Japan) (Disk 1)" id="0068">
+		<description>Fairie's Residence (Japan) (Disk 1)</description>
+		<rom name="Fairie's Residence (Japan) (Disk 1).d77" size="348848" crc="6f85a9f9" md5="3d93d0789edbd205f5ec193530d98134" sha1="ab0a09457cba720965bd60a2a462da0d8f4e4df7"/>
+	</game>
+	<game name="Fairie's Residence (Japan) (Disk 2)" id="0069">
+		<description>Fairie's Residence (Japan) (Disk 2)</description>
+		<rom name="Fairie's Residence (Japan) (Disk 2).d77" size="348848" crc="6349216a" md5="6b1d191dbaa870064c94a432723681ed" sha1="79f9bde9ed4de99ebb4d78d32d3f8e601693bb8c"/>
+	</game>
+	<game name="File Master FM, The (Japan)" id="0351">
+		<description>File Master FM, The (Japan)</description>
+		<rom name="File Master FM, The (Japan).d77" size="348848" crc="b6334ea3" md5="7f4bfee98341d9147b4a643826480e39" sha1="206ce2602c4d43277dc6283a0848aa1d9e30442b"/>
+	</game>
+	<game name="File Master FM, The - Hot File Express (Japan) (1987-02-10)" id="0342">
+		<description>File Master FM, The - Hot File Express (Japan) (1987-02-10)</description>
+		<rom name="File Master FM, The - Hot File Express (Japan) (1987-02-10).d77" size="348848" crc="9d3244ad" md5="4503b956c1aa0b0422f3fcc7071427cd" sha1="62753550cc4d9ac6941d71c4eab537485564cf51"/>
+	</game>
+	<game name="File Master FM, The - Hot File Express (Japan) (1987-03-16)" id="0343">
+		<description>File Master FM, The - Hot File Express (Japan) (1987-03-16)</description>
+		<rom name="File Master FM, The - Hot File Express (Japan) (1987-03-16).d77" size="348848" crc="46949b19" md5="ce5ee8df6c38de3e5da19416ed0e7b5c" sha1="c2d08c94089b59263b7d3a96366a815962484e1c"/>
+	</game>
+	<game name="File Master FM, The - Hot File Express (Japan) (1987-12-20)" id="0344">
+		<description>File Master FM, The - Hot File Express (Japan) (1987-12-20)</description>
+		<rom name="File Master FM, The - Hot File Express (Japan) (1987-12-20).d77" size="348848" crc="77bb7b7b" md5="88c3113329901e737acd4d1ee87a9490" sha1="2e19435453a569131420daf19f4392abcc81b125"/>
+	</game>
+	<game name="File Master FM, The - Hot File Express (Japan) (1988-04-30)" id="0345">
+		<description>File Master FM, The - Hot File Express (Japan) (1988-04-30)</description>
+		<rom name="File Master FM, The - Hot File Express (Japan) (1988-04-30).d77" size="348848" crc="4c548ea2" md5="5128fe29c724887b8db9fb2a50c223fe" sha1="dacf777f9b18ed9b1035ffdec2afa1e271236fe7"/>
+	</game>
+	<game name="File Master FM, The - Hot File Express (Japan) (1988-07-11)" id="0346">
+		<description>File Master FM, The - Hot File Express (Japan) (1988-07-11)</description>
+		<rom name="File Master FM, The - Hot File Express (Japan) (1988-07-11).d77" size="348848" crc="11f75663" md5="58acd658bc6f329fe376cb221bd1a548" sha1="9188758d124dff319464884d4ccdc42faf9ddfc8"/>
+	</game>
+	<game name="File Master FM, The - Hot File Express (Japan) (1988-08-21)" id="0347">
+		<description>File Master FM, The - Hot File Express (Japan) (1988-08-21)</description>
+		<rom name="File Master FM, The - Hot File Express (Japan) (1988-08-21).d77" size="348848" crc="9612b54b" md5="3100d56b54904a70e3347728901842bf" sha1="4e380fef4ac55ea563ad18ce1df2e2476f6435dd"/>
+	</game>
+	<game name="File Master FM, The - Hot File Express (Japan) (1989-01-19)" id="0348">
+		<description>File Master FM, The - Hot File Express (Japan) (1989-01-19)</description>
+		<rom name="File Master FM, The - Hot File Express (Japan) (1989-01-19).d77" size="348848" crc="ddba5296" md5="ddb70e22f28a38d82ee9be04f97028b5" sha1="eda247a1ee1f46b2e3a705fc95f176a87e73dc8a"/>
+	</game>
+	<game name="File Master FM, The - Hot File Express (Japan) (1989-01-21)" id="0349">
+		<description>File Master FM, The - Hot File Express (Japan) (1989-01-21)</description>
+		<rom name="File Master FM, The - Hot File Express (Japan) (1989-01-21).d77" size="348848" crc="c4f7d38f" md5="801c9c4bee108f79425deb4eff1a2900" sha1="f812192a63fe5e2266a0ea8794de39d90935169e"/>
+	</game>
+	<game name="File Master FM, The - Hot File Express (Japan) (1989-09-01)" id="0350">
+		<description>File Master FM, The - Hot File Express (Japan) (1989-09-01)</description>
+		<rom name="File Master FM, The - Hot File Express (Japan) (1989-09-01).d77" size="348848" crc="c0a841e7" md5="08ee9aa2f90bb4b99307895320eed385" sha1="f1039b8f93bf6846c2b145ce1cb1c9f4ffc73d0e"/>
+	</game>
+	<game name="Final Lolita (Japan) (Alt)" id="0071">
+		<description>Final Lolita (Japan) (Alt)</description>
+		<rom name="Final Lolita (Japan) (Alt).d77" size="348848" crc="fb006492" md5="2cb24157aee5c9e62eab05f7a5e8617b" sha1="1125d07bf44eff8a8cf391e6ce587157daab6fe7"/>
+	</game>
+	<game name="Final Lolita (Japan)" id="0070">
+		<description>Final Lolita (Japan)</description>
+		<rom name="Final Lolita (Japan).d77" size="348848" crc="b552268f" md5="919d2c5706de8800e99de37eadde7724" sha1="3306c7998c4353e9b2998ca8b48b57a7083ed066"/>
+	</game>
+	<game name="Flicky (Japan) [b]" id="0072">
+		<description>Flicky (Japan) [b]</description>
+		<rom name="Flicky (Japan) [b].d77" size="397424" crc="f9b1c7cd" md5="630d335b844ad92ccbd36925acf7f2fc" sha1="385eab5055365f6f8d7deb0353ebcdba61c699c3" status="baddump"/>
+	</game>
+	<game name="FM Graphic Editor II (Japan) (FM77AV40)" id="0339">
+		<description>FM Graphic Editor II (Japan) (FM77AV40)</description>
+		<rom name="FM Graphic Editor II (Japan) (FM77AV40).d77" size="701360" crc="6efb66ed" md5="6c3cd931d136296bd5a67878b3825279" sha1="5526104d617ba9b3fb3df39bd9cf651430244e5c"/>
+	</game>
+	<game name="FM Sound Editor (Japan) (FM77AV)" id="0340">
+		<description>FM Sound Editor (Japan) (FM77AV)</description>
+		<rom name="FM Sound Editor (Japan) (FM77AV).d77" size="348848" crc="4d5603c1" md5="1ff7692ce89ebb2c7338105604473a9f" sha1="3d8a6c1d98891e7a5b87e06077ad9979f5e9f5a0"/>
+	</game>
+	<game name="FM77AV Demo Program (Japan) (FM77AV)" id="0073">
+		<description>FM77AV Demo Program (Japan) (FM77AV)</description>
+		<rom name="FM77AV Demo Program (Japan) (FM77AV).d77" size="353200" crc="7046810d" md5="a03b5f3c76296ef32acb37a0a19649fb" sha1="116a422147107943c0d378e99923cb14cd31a13f"/>
+	</game>
+	<game name="FM77AV40SX Nyuumon Disk (Japan) (FM77AV40SX)" id="0075">
+		<description>FM77AV40SX Nyuumon Disk (Japan) (FM77AV40SX)</description>
+		<rom name="FM77AV40SX Nyuumon Disk (Japan) (FM77AV40SX).d77" size="701360" crc="bdcf1a06" md5="c3ced92389ec3afe9f47de8dc5969eae" sha1="b77cbe9f7a0a42aa1bf8471e1a30f72f4b41789c"/>
+	</game>
+	<game name="Gambler Jikochuushinha (Japan) (FM77AV)" id="0076">
+		<description>Gambler Jikochuushinha (Japan) (FM77AV)</description>
+		<rom name="Gambler Jikochuushinha (Japan) (FM77AV).d77" size="348848" crc="088e2a1b" md5="1fb87846c35f47bd81fc3e2931b4756c" sha1="d317d7e84e5081032e876e77e112bfa6c1c77af3"/>
+	</game>
+	<game name="Genmu no Shiro (Japan)" id="0077">
+		<description>Genmu no Shiro (Japan)</description>
+		<rom name="Genmu no Shiro (Japan).d77" size="348848" crc="775398ca" md5="ebcff82ce27689fb178c9c1e58a12825" sha1="6565127350148b010af072c6a4b8d4b91e897324"/>
+	</game>
+	<game name="Girls Paradise (Japan) (Disk 5)" id="0082">
+		<description>Girls Paradise (Japan) (Disk 5)</description>
+		<rom name="Girls Paradise (Japan) (Disk 5).d77" size="348576" crc="d8540775" md5="48f00a85ee9559c8de49a32f977e2271" sha1="36adf7753137fc7fcc577717bb36a741459dea8e"/>
+	</game>
+	<game name="Girls Paradise (Japan) (Disk 4) [b]" id="0081">
+		<description>Girls Paradise (Japan) (Disk 4) [b]</description>
+		<rom name="Girls Paradise (Japan) (Disk 4) [b].d77" size="364432" crc="8fb450be" md5="1848efa108e4ff3f3327d7060c0400b1" sha1="ac8394e68d7d24e0e056d98ba77e69f72f26f563" status="baddump"/>
+	</game>
+	<game name="Girls Paradise (Japan) (Disk 3) [b]" id="0080">
+		<description>Girls Paradise (Japan) (Disk 3) [b]</description>
+		<rom name="Girls Paradise (Japan) (Disk 3) [b].d77" size="379744" crc="be1a134d" md5="a856ac558356fd21e9f859dda94b8c8f" sha1="aedcbf6ef004a40107125d449ffe4b546737cc24" status="baddump"/>
+	</game>
+	<game name="Girls Paradise (Japan) (Disk 2)" id="0079">
+		<description>Girls Paradise (Japan) (Disk 2)</description>
+		<rom name="Girls Paradise (Japan) (Disk 2).d77" size="348576" crc="aff38a79" md5="bf01237a5942c56e8805091f2783e3f4" sha1="a3117e8536dce9bbeb2d43e5f8f92f2e240e19cf"/>
+	</game>
+	<game name="Girls Paradise (Japan) (Disk 1) [b]" id="0078">
+		<description>Girls Paradise (Japan) (Disk 1) [b]</description>
+		<rom name="Girls Paradise (Japan) (Disk 1) [b].d77" size="365248" crc="5ff5ba68" md5="67b613865e60abf59b004a1caae582cd" sha1="ce843f4622a889201f0a7217060e312c3a2400d8" status="baddump"/>
+	</game>
+	<game name="Golf-kyou (Japan)" id="0083">
+		<description>Golf-kyou (Japan)</description>
+		<rom name="Golf-kyou (Japan).d77" size="96432" crc="f7e49ab9" md5="daf9468f5653143d1373eb5e919d45ba" sha1="b6f49c3eae9ca720ddb9677cb6303168b99fcb15"/>
+	</game>
+	<game name="Greed (Japan) (Disk 1)" id="0084">
+		<description>Greed (Japan) (Disk 1)</description>
+		<rom name="Greed (Japan) (Disk 1).d77" size="348848" crc="8ac354e4" md5="06282c4fddbe27ffd6592ebe5f62cbd3" sha1="f777977f3bc6c47dc742a56913b459057f54c84e"/>
+	</game>
+	<game name="Greed (Japan) (Disk 2)" id="0085">
+		<description>Greed (Japan) (Disk 2)</description>
+		<rom name="Greed (Japan) (Disk 2).d77" size="348848" crc="bfe7e33d" md5="c863e315ed5e8b46ddaefee7a0f4ebf6" sha1="45801f86e03bf9ced441326056f49da3f357e8f9"/>
+	</game>
+	<game name="Helicoid (Japan)" id="0086">
+		<description>Helicoid (Japan)</description>
+		<rom name="Helicoid (Japan).d77" size="347488" crc="0fcdbc9d" md5="d7b3e6b1ada467127d84ebf2bf91b67b" sha1="a1fce9c54adddbf5aa3067c0276823c565313e04"/>
+	</game>
+	<game name="Hokuto no Ken (Japan) (Disk 1)" id="0087">
+		<description>Hokuto no Ken (Japan) (Disk 1)</description>
+		<rom name="Hokuto no Ken (Japan) (Disk 1).d77" size="380048" crc="a5990b02" md5="b7a9560bf6555e3054ff3e4342ca6dd5" sha1="368cffbf3d60d26821bd9c9661e779ffa5cd456f"/>
+	</game>
+	<game name="Hokuto no Ken (Japan) (Disk 2)" id="0088">
+		<description>Hokuto no Ken (Japan) (Disk 2)</description>
+		<rom name="Hokuto no Ken (Japan) (Disk 2).d77" size="380048" crc="e6ba6fe0" md5="f6d38eed0c1c90aa73dd40dbe699f611" sha1="5e31ac74f773b2b8dd806074d8fed993749051d9"/>
+	</game>
+	<game name="Horizon (Japan)" id="0089">
+		<description>Horizon (Japan)</description>
+		<rom name="Horizon (Japan).d77" size="350480" crc="40863f25" md5="d046df159a3a8722e83eabedde83cc64" sha1="1c9d919dc3b00903c2a59e9101f5da6bcb6fa06d"/>
+	</game>
+	<game name="Hot Dog (Japan) [b]" id="0090">
+		<description>Hot Dog (Japan) [b]</description>
+		<rom name="Hot Dog (Japan) [b].d77" size="364976" crc="a66f3114" md5="714323ace7d1b01eb23ba1e65d353147" sha1="64fdb61e526186200065d50e8fc0a5fd1df98aa3" status="baddump"/>
+	</game>
+	<game name="How Many Robot (Japan) (FM77AV) (Disk 1)" id="0091">
+		<description>How Many Robot (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="How Many Robot (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="458ad502" md5="53bfd3dabd39bdba64cbef6b50461527" sha1="77da34e0cd54c86a92ee4185967a28336f5f61b6"/>
+	</game>
+	<game name="How Many Robot (Japan) (FM77AV) (Disk 2)" id="0092">
+		<description>How Many Robot (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="How Many Robot (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="1f85113e" md5="88d25613d12fbb510e543cd142eabd80" sha1="966a0821a860fdb8a9004ddf91ef453bcbb67fa9"/>
+	</game>
+	<game name="Hydlide II (Japan)" id="0093">
+		<description>Hydlide II (Japan)</description>
+		<rom name="Hydlide II (Japan).d77" size="348848" crc="ca0a8deb" md5="80ec3572fe4243d963946f5fd94f4c93" sha1="8800c03a4ce8aba8fc6e6cd9f520c45d6d32f4a6"/>
+	</game>
+	<game name="Hydlide II (Japan) (User Disk)" id="0094">
+		<description>Hydlide II (Japan) (User Disk)</description>
+		<rom name="Hydlide II (Japan) (User Disk).d77" size="348848" crc="866c3dc0" md5="977ef48d56b7cef33ce3dc1a18a5d8bb" sha1="cbbc05fb82fb1cd3a65963468c69a4efa2d69849"/>
+	</game>
+	<game name="Hydlide II (Japan) (Alt)" id="0095">
+		<description>Hydlide II (Japan) (Alt)</description>
+		<rom name="Hydlide II (Japan) (Alt).d77" size="348848" crc="a9d835de" md5="7212c4729549c5fec0aff07f929ccf91" sha1="49e790ddec08211dea1cea4cef78893b6f1b9b24"/>
+	</game>
+	<game name="Hydlide II (Japan) (User Disk) (Alt)" id="0096">
+		<description>Hydlide II (Japan) (User Disk) (Alt)</description>
+		<rom name="Hydlide II (Japan) (User Disk) (Alt).d77" size="348848" crc="7f29b7c6" md5="23562812062a4a9b190e960e9cbcc005" sha1="b792447672b09ece0c54e2221444575e7ae903c7"/>
+	</game>
+	<game name="In the Dream (Japan) (FM77AV) (Disk 1)" id="0097">
+		<description>In the Dream (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="In the Dream (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="3e1945cf" md5="e106d9e5e1c53c6eb79c93fabce1a333" sha1="196d5f07a69d5a7ebb1fb10d739915d606825922"/>
+	</game>
+	<game name="In the Dream (Japan) (FM77AV) (Disk 2)" id="0098">
+		<description>In the Dream (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="In the Dream (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="765fe1c0" md5="4f5cfb901662388e470143f7752d0d3c" sha1="9e5f2715023391c6037fd32715a05d21e2d4dfde"/>
+	</game>
+	<game name="Jesus (Japan) (FM77AV) (Disk 1) [b]" id="0099">
+		<description>Jesus (Japan) (FM77AV) (Disk 1) [b]</description>
+		<rom name="Jesus (Japan) (FM77AV) (Disk 1) [b].d77" size="346944" crc="b9756e4e" md5="1159e31538764e7e10ee5f516f0f2873" sha1="f56b885e7c9ef6f8c100e38529fd4114a56001b0" status="baddump"/>
+	</game>
+	<game name="Jesus (Japan) (FM77AV) (Disk 2) [b]" id="0100">
+		<description>Jesus (Japan) (FM77AV) (Disk 2) [b]</description>
+		<rom name="Jesus (Japan) (FM77AV) (Disk 2) [b].d77" size="348848" crc="3b4bbd31" md5="1fd6782362f8dbce7f3315dc553c4887" sha1="58446cd53de666cf403f64051aaa37ac5241b1ec" status="baddump"/>
+	</game>
+	<game name="Jesus (Japan) (FM77AV) (Disk 3) [b]" id="0101">
+		<description>Jesus (Japan) (FM77AV) (Disk 3) [b]</description>
+		<rom name="Jesus (Japan) (FM77AV) (Disk 3) [b].d77" size="348848" crc="6d6a3c16" md5="a4cfa0319df5ebc7779a6b77aae01588" sha1="3afba57d7e89a9f60a406f9c9f86d0b54e9b5bbe" status="baddump"/>
+	</game>
+	<game name="Knight of Wonderland, The (Japan)" id="0240">
+		<description>Knight of Wonderland, The (Japan)</description>
+		<rom name="Knight of Wonderland, The (Japan).d77" size="348752" crc="b710c37b" md5="cca44da6ea5ef26c2fa29ee53428f4ac" sha1="674e751f4b9b56d5293e28201f310a770dbb9450"/>
+	</game>
+	<game name="Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 1)" id="0102">
+		<description>Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 1).d77" size="416384" crc="13d39ca8" md5="faabf63b691978e543c0b953e2ada136" sha1="1a3e8dc4e4f8defe485dc2171b2cc0889a443d4d"/>
+	</game>
+	<game name="Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 2)" id="0103">
+		<description>Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 2).d77" size="416688" crc="ec0af430" md5="fe6da7f133e73a81766671b26ff7b4bd" sha1="d74f30eb596b730db4daa7090b8d7c536982c209"/>
+	</game>
+	<game name="Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 3)" id="0104">
+		<description>Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 3)</description>
+		<rom name="Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 3).d77" size="416688" crc="9f45c547" md5="1fddc4c8d53b21a505da2105d69c492f" sha1="784beb6747783986af56198d19846d1ecf363801"/>
+	</game>
+	<game name="Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 4)" id="0105">
+		<description>Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 4)</description>
+		<rom name="Kohakuiro no Yuigon (Japan) (FM77AV) (Disk 4).d77" size="416688" crc="962003ef" md5="aac1a423e48f6076e11a16b8e7b93ec4" sha1="46f461b85cd0e389ad4a0f486c6478c8251c8bd3"/>
+	</game>
+	<game name="Kugyokuden (Japan) (FM77AV) (Disk 1)" id="0110">
+		<description>Kugyokuden (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Kugyokuden (Japan) (FM77AV) (Disk 1).d77" size="416688" crc="df226e8d" md5="83e4c4b762295a934e7624d675a28c36" sha1="ca05af15763f6918bc303c2aae5d8b379dba8a5a"/>
+	</game>
+	<game name="Kugyokuden (Japan) (FM77AV) (Disk 1) (Alt)" id="0111">
+		<description>Kugyokuden (Japan) (FM77AV) (Disk 1) (Alt)</description>
+		<rom name="Kugyokuden (Japan) (FM77AV) (Disk 1) (Alt).d77" size="416688" crc="84411464" md5="46ac39f2e273b915b5cb79377df0db31" sha1="93a32a2c5669302878f68f3d6d5ee469d88291ea"/>
+	</game>
+	<game name="Kugyokuden (Japan) (FM77AV) (Disk 2)" id="0112">
+		<description>Kugyokuden (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Kugyokuden (Japan) (FM77AV) (Disk 2).d77" size="416688" crc="e108f08c" md5="d933dceddbda145ada566f6ae66cb84e" sha1="1d9cc9f191bd24f24d8a5c0f03b6bc7e773e7f9e"/>
+	</game>
+	<game name="Kyoufu no Suiyoubi Botsu Program Shuu (Japan) (req F-BASIC disk) (Homebrew)" id="0113">
+		<description>Kyoufu no Suiyoubi Botsu Program Shuu (Japan) (req F-BASIC disk) (Homebrew)</description>
+		<rom name="Kyoufu no Suiyoubi Botsu Program Shuu (Japan) (req F-BASIC disk) (Homebrew).d77" size="348848" crc="4c7f724c" md5="f417dfb86c3c011e103fa98c51798961" sha1="f067a7f3f778f338b13aa095021a2a06e320c186"/>
+	</game>
+	<game name="Lagrange L-2 (Japan)" id="0114">
+		<description>Lagrange L-2 (Japan)</description>
+		<rom name="Lagrange L-2 (Japan).d77" size="388016" crc="0cf24e6e" md5="0918210b8502972e1057be54feb2170d" sha1="cf7e918377bbc5bf6419afd8aa34ee49428c5851"/>
+	</game>
+	<game name="Laydock (Japan) (FM77AV) (Disk 1)" id="0115">
+		<description>Laydock (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Laydock (Japan) (FM77AV) (Disk 1).d77" size="416048" crc="009b4203" md5="a30f8ccdffa093def5bdc6df1ef6a584" sha1="0bf3acf10d27db9f52f0a1b66241c0302b70202c"/>
+	</game>
+	<game name="Laydock (Japan) (FM77AV) (Disk 1) (Alt)" id="0116">
+		<description>Laydock (Japan) (FM77AV) (Disk 1) (Alt)</description>
+		<rom name="Laydock (Japan) (FM77AV) (Disk 1) (Alt).d77" size="414992" crc="3649596c" md5="8baa0552c8577f90a005c209d962a169" sha1="bbe7c5edb1a8e64178cbb5640530410f8ef1aef5"/>
+	</game>
+	<game name="Laydock (Japan) (FM77AV) (Disk 2)" id="0117">
+		<description>Laydock (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Laydock (Japan) (FM77AV) (Disk 2).d77" size="122544" crc="b01d4b64" md5="d70bbbccb384c1f320011f6bcc37c5c3" sha1="1b0d8dee2016e7807f7f86cc713925dea2d63d51"/>
+	</game>
+	<game name="Laydock (Japan) (FM77AV) (Disk 2) (Alt)" id="0118">
+		<description>Laydock (Japan) (FM77AV) (Disk 2) (Alt)</description>
+		<rom name="Laydock (Japan) (FM77AV) (Disk 2) (Alt).d77" size="122544" crc="ee39fd2d" md5="681282533626795b259fb63933b55c07" sha1="d2ae2709a8914ce0dd5008f20fa47fdbfcd66a4f"/>
+	</game>
+	<game name="Laydock (Japan) (FM77AV) (Disk 2) (Alt 2)" id="0119">
+		<description>Laydock (Japan) (FM77AV) (Disk 2) (Alt 2)</description>
+		<rom name="Laydock (Japan) (FM77AV) (Disk 2) (Alt 2).d77" size="122544" crc="4f444f64" md5="338a04336661181634b15e4656a30d15" sha1="a0096e09a1f2a66f71cd9b5b9b6cf70be2f2d658"/>
+	</game>
+	<game name="Laydock (Japan) (FM77AV) (Disk 2) (Alt 3)" id="0120">
+		<description>Laydock (Japan) (FM77AV) (Disk 2) (Alt 3)</description>
+		<rom name="Laydock (Japan) (FM77AV) (Disk 2) (Alt 3).d77" size="122544" crc="a755ae04" md5="6efa3053063d5d716fd4ec81d7157a86" sha1="1f2895a01a8491b1919f88f557a9918e16fc7ab7"/>
+	</game>
+	<game name="Laydock (Japan) (FM77AV) (Disk 1) (Alt 2)" id="0121">
+		<description>Laydock (Japan) (FM77AV) (Disk 1) (Alt 2)</description>
+		<rom name="Laydock (Japan) (FM77AV) (Disk 1) (Alt 2).d77" size="414992" crc="aa16670d" md5="d0e40162d377d3a4a68764bbbb73aa52" sha1="4cd42c3237465714efc8b1d87314fff6ad46c541"/>
+	</game>
+	<game name="Laydock (Japan) (FM77AV) (Disk 2) (Alt 4)" id="0122">
+		<description>Laydock (Japan) (FM77AV) (Disk 2) (Alt 4)</description>
+		<rom name="Laydock (Japan) (FM77AV) (Disk 2) (Alt 4).d77" size="348848" crc="9fecd691" md5="d91aee6b8ade5a99a31a2867a1ce13a4" sha1="b55c2a5b6f401516a7d77cad40d83ab87ba145cd"/>
+	</game>
+	<game name="Lefty Mouse (Japan) [b]" id="0123">
+		<description>Lefty Mouse (Japan) [b]</description>
+		<rom name="Lefty Mouse (Japan) [b].d77" size="367328" crc="b98e336a" md5="25c29e662936d9198821c633d5ddaed1" sha1="37a28fe70d48d57fefab73ac5977ce46c54d13e7" status="baddump"/>
+	</game>
+	<game name="Little Box (Japan) (FM77AV) (Disk 1)" id="0124">
+		<description>Little Box (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Little Box (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="e43d6c8a" md5="4aba9bed68542cb4c4be6b05103d3424" sha1="7d0bcca0a2859dc307e5d64aa3550e4c2f67b88c"/>
+	</game>
+	<game name="Little Box (Japan) (FM77AV) (Disk 2)" id="0125">
+		<description>Little Box (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Little Box (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="b5db5e95" md5="2d8666b5db5aa1d747de9e9b643dadb9" sha1="2097354b1e05b7f98af0bf92ed493f0e7ded4ac2"/>
+	</game>
+	<game name="Lode Runner (Japan)" id="0126">
+		<description>Lode Runner (Japan)</description>
+		<rom name="Lode Runner (Japan).d77" size="348848" crc="f5202070" md5="1a3d9787a10a95e9590dd36cc1989627" sha1="3fb63b12acaa4f3cb80b43d490abbc4156639bbc"/>
+	</game>
+	<game name="Lode Runner (Japan) (Alt)" id="0127">
+		<description>Lode Runner (Japan) (Alt)</description>
+		<rom name="Lode Runner (Japan) (Alt).d77" size="348848" crc="a167df3a" md5="3ae85454c2e3f74e5907bb869ff034d5" sha1="e9610264eb9f7bf70974b74ce744431e13a6bba7"/>
+	</game>
+	<game name="Lovely Gal (Japan) (Disk 1)" id="0128">
+		<description>Lovely Gal (Japan) (Disk 1)</description>
+		<rom name="Lovely Gal (Japan) (Disk 1).d77" size="348848" crc="bd6c5b4c" md5="3e9576e5c8c6e14ae92581ca9a6375fe" sha1="9f9df0f53928933b0cfe5902c015e3ddbfe9dd98"/>
+	</game>
+	<game name="Lovely Gal (Japan) (Disk 2)" id="0129">
+		<description>Lovely Gal (Japan) (Disk 2)</description>
+		<rom name="Lovely Gal (Japan) (Disk 2).d77" size="348848" crc="acfbc616" md5="750ad93cc2db0cb060bef814c66c1215" sha1="b6ef23d3d8629f1a589c452cc336cb48464ee51f"/>
+	</game>
+	<game name="Lupin for XM7 (Japan) (v1.01) (req F-BASIC disk) (Homebrew)" id="0130">
+		<description>Lupin for XM7 (Japan) (v1.01) (req F-BASIC disk) (Homebrew)</description>
+		<rom name="Lupin for XM7 (Japan) (v1.01) (req F-BASIC disk) (Homebrew).d77" size="348848" crc="096e4237" md5="d6d6183bbe3a604c441bd743bc2d37ad" sha1="fc3f85232b2ee5b3c96dae3dd1ddd075395c54c9"/>
+	</game>
+	<game name="Lupin Sansei - Cagliostro no Shiro (Japan) (Disk 1)" id="0131">
+		<description>Lupin Sansei - Cagliostro no Shiro (Japan) (Disk 1)</description>
+		<rom name="Lupin Sansei - Cagliostro no Shiro (Japan) (Disk 1).d77" size="348848" crc="c7516cda" md5="c5aa488ba7c52cb8964cd32ed2c1839c" sha1="0a668bb8c90807d3bcfe9e65208eb92f5034cfb8"/>
+	</game>
+	<game name="Lupin Sansei - Cagliostro no Shiro (Japan) (Disk 2)" id="0132">
+		<description>Lupin Sansei - Cagliostro no Shiro (Japan) (Disk 2)</description>
+		<rom name="Lupin Sansei - Cagliostro no Shiro (Japan) (Disk 2).d77" size="348848" crc="03022ec3" md5="6bc2026da8dd0055191b80c67f069682" sha1="923a41e83e8f8d279db964cef5e672b0374d301c"/>
+	</game>
+	<game name="Luxsor (Japan) (FM77AV) (Disk 1)" id="0133">
+		<description>Luxsor (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Luxsor (Japan) (FM77AV) (Disk 1).d77" size="416688" crc="4e4dc8db" md5="5da20f511fdbd946fa8c26643d78c9e8" sha1="6ef2d21f97c9eddf1a9f0593e155f80194911641"/>
+	</game>
+	<game name="Luxsor (Japan) (FM77AV) (Disk 2)" id="0134">
+		<description>Luxsor (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Luxsor (Japan) (FM77AV) (Disk 2).d77" size="416688" crc="dbc3d5f5" md5="308a25f4eba59189bbd109b9018a25a1" sha1="bdecd878993b5d7f6c286d54ef8979c5db16f895"/>
+	</game>
+	<game name="Luxsor (Japan) (FM77AV) (Disk 2) (Alt)" id="0135">
+		<description>Luxsor (Japan) (FM77AV) (Disk 2) (Alt)</description>
+		<rom name="Luxsor (Japan) (FM77AV) (Disk 2) (Alt).d77" size="416688" crc="6b278ff7" md5="31d7563fd21977ef591f26ac574f95b1" sha1="658fb52a0917daac331d34ce1df949322c79ff5b"/>
+	</game>
+	<game name="Mahjong Kyou Jidai Special (Japan) (FM77AV) (Disk 1)" id="0136">
+		<description>Mahjong Kyou Jidai Special (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Mahjong Kyou Jidai Special (Japan) (FM77AV) (Disk 1).d77" size="412448" crc="67684bbf" md5="6c0e57f601477a1b74684d74587e3f49" sha1="514e23d2ac301135b264bbf61a41dd8259bb4408"/>
+	</game>
+	<game name="Mahjong Kyou Jidai Special (Japan) (FM77AV) (Disk 2)" id="0137">
+		<description>Mahjong Kyou Jidai Special (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Mahjong Kyou Jidai Special (Japan) (FM77AV) (Disk 2).d77" size="416688" crc="d6ab81b1" md5="08f603e98fa901e70c648dffeb388843" sha1="569b2540dd09686453ac8e091a0812fd3e0233e9"/>
+	</game>
+	<game name="Mahoutsukai no Deshi (Japan)" id="0138">
+		<description>Mahoutsukai no Deshi (Japan)</description>
+		<rom name="Mahoutsukai no Deshi (Japan).d77" size="348848" crc="41826b87" md5="6d0134f4143b2cf263a4c1595152a281" sha1="3fe215efc02aa08fbd8d39a5326d4b33870212c1"/>
+	</game>
+	<game name="Mahoutsukai no Deshi II (Japan) (Disk 1)" id="0139">
+		<description>Mahoutsukai no Deshi II (Japan) (Disk 1)</description>
+		<rom name="Mahoutsukai no Deshi II (Japan) (Disk 1).d77" size="348848" crc="142b1fc8" md5="cbf1fbd797dfec4e94eb22d64729a837" sha1="7f70f983fb3db31b15b50fcfcc527112bafd4d6c"/>
+	</game>
+	<game name="Mahoutsukai no Deshi II (Japan) (Disk 2)" id="0140">
+		<description>Mahoutsukai no Deshi II (Japan) (Disk 2)</description>
+		<rom name="Mahoutsukai no Deshi II (Japan) (Disk 2).d77" size="348848" crc="4ca1122e" md5="eb367e02ea7d0fabaee61e380a66e00b" sha1="7123ecc5579cdad0a6dd3ba1d8edd89d859b3b98"/>
+	</game>
+	<game name="Marchen Veil (Japan) [b]" id="0141">
+		<description>Marchen Veil (Japan) [b]</description>
+		<rom name="Marchen Veil (Japan) [b].d77" size="451888" crc="754a5edb" md5="17283b0116cd217eaae1ec8b02104bcd" sha1="f87ac69150e205dc22235fceb8de35e9709f525c" status="baddump"/>
+	</game>
+	<game name="Metal X (Japan) (FM77AV) (run METAL-X-)" id="0142">
+		<description>Metal X (Japan) (FM77AV) (run METAL-X-)</description>
+		<rom name="Metal X (Japan) (FM77AV) (run METAL-X-).d77" size="348848" crc="413601c4" md5="c9c68f980903f15284be842581775a39" sha1="4edf42ebba074ae2f35eb7fe21b5190ff3b70cef"/>
+	</game>
+	<game name="Might and Magic (Japan) (FM77AV) (Disk 1)" id="0143">
+		<description>Might and Magic (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Might and Magic (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="49a974fe" md5="89029afd074afe4c3f3a5bdc4f1c174a" sha1="5bcd862b277b8d1b790ccb7742d19c48fbe0e01e"/>
+	</game>
+	<game name="Might and Magic (Japan) (FM77AV) (Disk 1) (Alt)" id="0144">
+		<description>Might and Magic (Japan) (FM77AV) (Disk 1) (Alt)</description>
+		<rom name="Might and Magic (Japan) (FM77AV) (Disk 1) (Alt).d77" size="348848" crc="95e0b525" md5="1b3506cc1da59ad607dcc121bc896fb1" sha1="d99ac3f163654872e48d2761309277c5abbc705e"/>
+	</game>
+	<game name="Might and Magic (Japan) (FM77AV) (Disk 2)" id="0145">
+		<description>Might and Magic (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Might and Magic (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="107a9b0b" md5="0c9c363a201c1a5427789b9783e358cc" sha1="99db84c3db79431e7827220724600ec107de5f8c"/>
+	</game>
+	<game name="Might and Magic (Japan) (FM77AV) (Disk 3)" id="0146">
+		<description>Might and Magic (Japan) (FM77AV) (Disk 3)</description>
+		<rom name="Might and Magic (Japan) (FM77AV) (Disk 3).d77" size="348848" crc="0e4c8028" md5="4f867071d1b03a731026fda6902b26a3" sha1="cfbc787ce4931aa652779daa28767b3215972b9f"/>
+	</game>
+	<game name="Might and Magic (Japan) (FM77AV) (Disk 4)" id="0147">
+		<description>Might and Magic (Japan) (FM77AV) (Disk 4)</description>
+		<rom name="Might and Magic (Japan) (FM77AV) (Disk 4).d77" size="348848" crc="b7ce6e2f" md5="362bb7e396ed61643d9f8e5211cd74f1" sha1="51f28dcb85cbb8b7b12aece4f8eab32f97cfbcca"/>
+	</game>
+	<game name="Might and Magic (Japan) (FM77AV) (Disk 1) (Alt 2)" id="0148">
+		<description>Might and Magic (Japan) (FM77AV) (Disk 1) (Alt 2)</description>
+		<rom name="Might and Magic (Japan) (FM77AV) (Disk 1) (Alt 2).d77" size="348848" crc="b4164257" md5="a37a00d6864f50e40ea8d547630f222b" sha1="edf74729279b117ca068c04ba8f86a60c8594744"/>
+	</game>
+	<game name="Might and Magic (Japan) (FM77AV) (Disk 2) (Alt)" id="0149">
+		<description>Might and Magic (Japan) (FM77AV) (Disk 2) (Alt)</description>
+		<rom name="Might and Magic (Japan) (FM77AV) (Disk 2) (Alt).d77" size="348848" crc="c1267f8b" md5="55ee8e0a70f5023da1e6d6afbad348fc" sha1="3b9d6229b6e3f3c9a3203aedaa58b53ff2e555ce"/>
+	</game>
+	<game name="Might and Magic (Japan) (FM77AV) (Disk 3) (Alt)" id="0150">
+		<description>Might and Magic (Japan) (FM77AV) (Disk 3) (Alt)</description>
+		<rom name="Might and Magic (Japan) (FM77AV) (Disk 3) (Alt).d77" size="348848" crc="93462541" md5="b6dcd4c5350bf6188329eb1169d26cd4" sha1="529bd13a5b58dc3ec5ad38a3499be2c61a120b74"/>
+	</game>
+	<game name="Might and Magic (Japan) (FM77AV) (Disk 4) (Alt)" id="0151">
+		<description>Might and Magic (Japan) (FM77AV) (Disk 4) (Alt)</description>
+		<rom name="Might and Magic (Japan) (FM77AV) (Disk 4) (Alt).d77" size="348848" crc="a0af42de" md5="51a4fd6788620130a0bb4b729fdcccc4" sha1="7d8d0a69f41465ffdc86ddfa8c5188e74b94f9dc"/>
+	</game>
+	<game name="Miner 2049er (Japan)" id="0152">
+		<description>Miner 2049er (Japan)</description>
+		<rom name="Miner 2049er (Japan).d77" size="392368" crc="2713b26f" md5="15ee1487cb9cfac42d9df74395d1810a" sha1="b6aa789c013aab461fa1bb9f9f2db33d9bf3db6a"/>
+	</game>
+	<game name="Mission Impossible (Japan)" id="0153">
+		<description>Mission Impossible (Japan)</description>
+		<rom name="Mission Impossible (Japan).d77" size="344496" crc="29f24e3d" md5="e4509f9d62ffd0dc1aa6fb25270e9e60" sha1="56ccab56369644d982b4401d7ae5c6287b9b34ea"/>
+	</game>
+	<game name="Mugen no Shinzou II (Japan) (Disk 1) [b]" id="0154">
+		<description>Mugen no Shinzou II (Japan) (Disk 1) [b]</description>
+		<rom name="Mugen no Shinzou II (Japan) (Disk 1) [b].d77" size="353200" crc="e2e9c3d2" md5="805b6d0c6c976c4d7325a80a72033d0d" sha1="43912e51917bed7e1d0be886979025b93e58a676" status="baddump"/>
+	</game>
+	<game name="Mugen no Shinzou II (Japan) (Disk 2) [b]" id="0155">
+		<description>Mugen no Shinzou II (Japan) (Disk 2) [b]</description>
+		<rom name="Mugen no Shinzou II (Japan) (Disk 2) [b].d77" size="353200" crc="b25c8886" md5="d463d0c7e184af640650ef7621caf962" sha1="d646196c79c0d02d95ac74ed8148907fe9010d56" status="baddump"/>
+	</game>
+	<game name="Mugen Senshi Valis (Japan) (FM77AV) (Disk 1)" id="0156">
+		<description>Mugen Senshi Valis (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Mugen Senshi Valis (Japan) (FM77AV) (Disk 1).d77" size="415840" crc="da33526f" md5="643159d772b916924dda565e38ab8db6" sha1="a35b90eed3e9ef2e3f5506d743f5745c508edd28"/>
+	</game>
+	<game name="Mugen Senshi Valis (Japan) (FM77AV) (Disk 2)" id="0157">
+		<description>Mugen Senshi Valis (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Mugen Senshi Valis (Japan) (FM77AV) (Disk 2).d77" size="415568" crc="dbf5b293" md5="f312a5b582b38db9b82204be33daa381" sha1="9aa55a735e00a5c374b36347ea1d29df4f0bd4bd"/>
+	</game>
+	<game name="Nobunaga no Yabou - Zenkoku-ban (Japan) (FM77AV) (Disk 1)" id="0158">
+		<description>Nobunaga no Yabou - Zenkoku-ban (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Nobunaga no Yabou - Zenkoku-ban (Japan) (FM77AV) (Disk 1).d77" size="380848" crc="b290f62e" md5="58e3c5f0eb2b937f7881453be8937fbe" sha1="1e29c8a595ca25ce061b34ea8d2e0f731bfa6a6f"/>
+	</game>
+	<game name="Nobunaga no Yabou - Zenkoku-ban (Japan) (FM77AV) (Disk 2)" id="0159">
+		<description>Nobunaga no Yabou - Zenkoku-ban (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Nobunaga no Yabou - Zenkoku-ban (Japan) (FM77AV) (Disk 2).d77" size="380848" crc="3150740d" md5="33c97901db30d2950a87b35558a64478" sha1="af3a3964013b3580a2e4c9467ee239895d70ccfc"/>
+	</game>
+	<game name="Nugi.com (Japan) (req F-BASIC disk, run NUGI) (Homebrew)" id="0160">
+		<description>Nugi.com (Japan) (req F-BASIC disk, run NUGI) (Homebrew)</description>
+		<rom name="Nugi.com (Japan) (req F-BASIC disk, run NUGI) (Homebrew).d77" size="348848" crc="416a78c0" md5="d00fbde830c1007e34cb88835ae04d4a" sha1="978b171d7870830f050a33ea356c6f6aece765b6"/>
+	</game>
+	<game name="OS-9 Level 1 (Japan) (Disk 2) (boot DOS mode) (OS)" id="0334">
+		<description>OS-9 Level 1 (Japan) (Disk 2) (boot DOS mode) (OS)</description>
+		<rom name="OS-9 Level 1 (Japan) (Disk 2) (boot DOS mode) (OS).d77" size="357280" crc="34aeacf0" md5="27dfb2b8d57937770f84f046ebbe0d8f" sha1="e2502365e11b8c8d5413766e70aff6e517c81fb6" sha256="c278c5ba10eec136d9ad211dd9ab46017093d3c46e429212e3bbdb24117dffee"/>
+	</game>
+	<game name="OS-9 Level 1 (Japan) (Disk 1) (boot DOS mode) (OS)" id="0333">
+		<description>OS-9 Level 1 (Japan) (Disk 1) (boot DOS mode) (OS)</description>
+		<rom name="OS-9 Level 1 (Japan) (Disk 1) (boot DOS mode) (OS).d77" size="365984" crc="c71f7f56" md5="438bf3d26dd40bdd8b45f03376c8cb2e" sha1="7ad2553a7974d57654780979f11cd42b6b239f9f"/>
+	</game>
+	<game name="Pacris (Japan) (loadm CALLEB run MAIN)" id="0161">
+		<description>Pacris (Japan) (loadm CALLEB run MAIN)</description>
+		<rom name="Pacris (Japan) (loadm CALLEB run MAIN).d77" size="348848" crc="0a5a1a3b" md5="14320c38855548b70db08be3122edc3c" sha1="7e781dc8fb89c2e14246d47039c4beea33ad6928"/>
+	</game>
+	<game name="Palms, The (Japan)" id="0241">
+		<description>Palms, The (Japan)</description>
+		<rom name="Palms, The (Japan).d77" size="344496" crc="4ae0cdbf" md5="fe059d942fa1bffe00746511b7a354a3" sha1="73dcfc3c37594cd7367ed1d6c4af5eec29c24c8d"/>
+	</game>
+	<game name="Penguin-kun Wars (Japan) (Demo)" id="0162">
+		<description>Penguin-kun Wars (Japan) (Demo)</description>
+		<rom name="Penguin-kun Wars (Japan) (Demo).d77" size="348848" crc="80d182e8" md5="915028b550d627f9f4912a04b8ca21e7" sha1="3d904377e5cb95fbb04180fcbf18238d50c3536f"/>
+	</game>
+	<game name="Pop Lemon (Japan) (Disk 1)" id="0163">
+		<description>Pop Lemon (Japan) (Disk 1)</description>
+		<rom name="Pop Lemon (Japan) (Disk 1).d77" size="348848" crc="888adc31" md5="4485e5c819c3657f574741af49ec72ad" sha1="5450b0b7c05975d9e91845a4ccd10ad4fcad97ed"/>
+	</game>
+	<game name="Pop Lemon (Japan) (Disk 2)" id="0164">
+		<description>Pop Lemon (Japan) (Disk 2)</description>
+		<rom name="Pop Lemon (Japan) (Disk 2).d77" size="348848" crc="15e63ce4" md5="0b89a14eacd5a97da5c8083ce22c3879" sha1="1242fbf6262ef28c06b578d1d99a7e02167c9a33"/>
+	</game>
+	<game name="Princess Quest (Japan)" id="0165">
+		<description>Princess Quest (Japan)</description>
+		<rom name="Princess Quest (Japan).d77" size="409248" crc="af3713bc" md5="210d60efb10d38549c9347a802e45b80" sha1="7e1bf0dd7fa1d09b481ca6ac7fbb2d6631763ec7"/>
+	</game>
+	<game name="Princess Quest (Japan) (User Disk) [b]" id="0166">
+		<description>Princess Quest (Japan) (User Disk) [b]</description>
+		<rom name="Princess Quest (Japan) (User Disk) [b].d77" size="473776" crc="a2c0d6e7" md5="28ec2e15f9f5a43cdf87c39e6d1d4d97" sha1="e0577d42bab78e1ee0937100686691e2606618ad" status="baddump"/>
+	</game>
+	<game name="Princess Quest (Japan) (Alt)" id="0167">
+		<description>Princess Quest (Japan) (Alt)</description>
+		<rom name="Princess Quest (Japan) (Alt).d77" size="409248" crc="667ba690" md5="716ac9d9bf9e512e0ea069c26009324f" sha1="6e5e074bc812d39d65bbb4113aaa7df6e4a48fe6"/>
+	</game>
+	<game name="Pro Yakyuu Fan (Japan) (FM77AV) (Disk 1)" id="0168">
+		<description>Pro Yakyuu Fan (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Pro Yakyuu Fan (Japan) (FM77AV) (Disk 1).d77" size="416688" crc="3270508a" md5="bdc278cdb9996df29a7a8d201af6018e" sha1="b4c7847330c1ed66954098f24ae964269b4ce518"/>
+	</game>
+	<game name="Pro Yakyuu Fan (Japan) (FM77AV) (Disk 2)" id="0169">
+		<description>Pro Yakyuu Fan (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Pro Yakyuu Fan (Japan) (FM77AV) (Disk 2).d77" size="416688" crc="2255d2b1" md5="ba277353d97dd03496a38ff1750ac3a5" sha1="2a6f9b682c8237fe3079ad067c7474cad37129cf"/>
+	</game>
+	<game name="Psy-O-Blade (Japan) (FM77AV) (Disk 1)" id="0170">
+		<description>Psy-O-Blade (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Psy-O-Blade (Japan) (FM77AV) (Disk 1).d77" size="392368" crc="e9a7d3cf" md5="2cb0fcb435d303791e56c558100a0b7b" sha1="2d801c6b6a7fb70618a1a09950c4badbf50edccc"/>
+	</game>
+	<game name="Psy-O-Blade (Japan) (FM77AV) (Disk 2)" id="0171">
+		<description>Psy-O-Blade (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Psy-O-Blade (Japan) (FM77AV) (Disk 2).d77" size="392368" crc="fbbcc838" md5="6ccbba91eef031a6b6c291f77461657c" sha1="2ff23e0347cba7d8909f49cb36e93284b6cea881"/>
+	</game>
+	<game name="Psy-O-Blade (Japan) (FM77AV) (Disk 3)" id="0172">
+		<description>Psy-O-Blade (Japan) (FM77AV) (Disk 3)</description>
+		<rom name="Psy-O-Blade (Japan) (FM77AV) (Disk 3).d77" size="392368" crc="ef6ff03a" md5="a4aeb1a6a825f535b7f15a2222c35b66" sha1="98e80e1a73e1ef5a21eb2615f0f8dbfdd390740d"/>
+	</game>
+	<game name="Psy-O-Blade (Japan) (FM77AV) (Disk 4)" id="0173">
+		<description>Psy-O-Blade (Japan) (FM77AV) (Disk 4)</description>
+		<rom name="Psy-O-Blade (Japan) (FM77AV) (Disk 4).d77" size="392368" crc="3baaa870" md5="0864d53a7d59fe2bfef92c88d41a2c11" sha1="de13c110f50dde0d1fb49802fe26d19acd73421f"/>
+	</game>
+	<game name="Psy-O-Blade (Japan) (FM77AV) (Disk 5)" id="0174">
+		<description>Psy-O-Blade (Japan) (FM77AV) (Disk 5)</description>
+		<rom name="Psy-O-Blade (Japan) (FM77AV) (Disk 5).d77" size="392368" crc="fbe81c1e" md5="a740300dd9ed390f161a0d73d0b481a0" sha1="89b429c8d8edc4b1ab34fcca786106d5ca0fb885"/>
+	</game>
+	<game name="Psy-O-Blade (Japan) (FM77AV) (Disk 1) (Alt)" id="0175">
+		<description>Psy-O-Blade (Japan) (FM77AV) (Disk 1) (Alt)</description>
+		<rom name="Psy-O-Blade (Japan) (FM77AV) (Disk 1) (Alt).d77" size="392368" crc="08e2908c" md5="64af63ece9f9a7a238f1835fe697273d" sha1="3e9ceee385217d34ef390851cee8488868342308"/>
+	</game>
+	<game name="Psy-O-Blade (Japan) (FM77AV) (User Disk)" id="0180">
+		<description>Psy-O-Blade (Japan) (FM77AV) (User Disk)</description>
+		<rom name="Psy-O-Blade (Japan) (FM77AV) (User Disk).d77" size="10208" crc="d833469a" md5="bc90b0283503e4f0b172e93fc7e1a831" sha1="f1a62b98af72a00418e47b3db4ec70671f317287"/>
+	</game>
+	<game name="Quest, The (Japan) (Disk 1)" id="0242">
+		<description>Quest, The (Japan) (Disk 1)</description>
+		<rom name="Quest, The (Japan) (Disk 1).d77" size="348848" crc="edd83081" md5="9557a635423372741249034294d602ae" sha1="159143762de7d9a2b0d785b4d22cb5bf6157e0ef"/>
+	</game>
+	<game name="Quest, The (Japan) (Disk 2)" id="0243">
+		<description>Quest, The (Japan) (Disk 2)</description>
+		<rom name="Quest, The (Japan) (Disk 2).d77" size="348848" crc="ef518bb0" md5="5ada09f9367e5943d3779e2d5145d574" sha1="0cbcbb19e5fb475abf7f3cc65c2464f0602f4b7a"/>
+	</game>
+	<game name="Quest, The (Japan) (Disk 3)" id="0244">
+		<description>Quest, The (Japan) (Disk 3)</description>
+		<rom name="Quest, The (Japan) (Disk 3).d77" size="348848" crc="70d7e9f9" md5="340ca3bd6d99382adcbd3035d1b01cc0" sha1="48193b7c0781e0f334a84af104d76d67ba7f6498"/>
+	</game>
+	<game name="Quest, The (Japan) (Disk 4)" id="0245">
+		<description>Quest, The (Japan) (Disk 4)</description>
+		<rom name="Quest, The (Japan) (Disk 4).d77" size="348848" crc="9baa2fa1" md5="620dd2c9df941e84a8fcf0fa4bec5d41" sha1="e0a7fd619fcf97a36d14f45626c89b5cb295504e"/>
+	</game>
+	<game name="Relics (Japan) (Disk 1)" id="0181">
+		<description>Relics (Japan) (Disk 1)</description>
+		<rom name="Relics (Japan) (Disk 1).d77" size="338608" crc="cb2c91a7" md5="4c4986e6e10fc585faf5103f56f9b8c6" sha1="03f92ea0aff73a295d3057325e76e1cf6afd1004"/>
+	</game>
+	<game name="Relics (Japan) (Disk 2)" id="0182">
+		<description>Relics (Japan) (Disk 2)</description>
+		<rom name="Relics (Japan) (Disk 2).d77" size="348848" crc="6924798e" md5="15e199ab2bd8920ae1074d9cde885988" sha1="bfa049c8b2194fc2b63520d4b66999a7fbe22b12"/>
+	</game>
+	<game name="Return of Ishtar, The (Japan) (FM77AV) (Disk 1)" id="0246">
+		<description>Return of Ishtar, The (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Return of Ishtar, The (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="d8cae438" md5="3cb18e8a8b0fbf81fd4237fb7a27d899" sha1="2d617e50e209aa73c6054f43def52d188e5468c5"/>
+	</game>
+	<game name="Return of Ishtar, The (Japan) (FM77AV) (Disk 2)" id="0247">
+		<description>Return of Ishtar, The (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Return of Ishtar, The (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="1fcc7e56" md5="0b9e87d7691667fa9f75af09f178e944" sha1="8ef8497898c91b5c86c11270381381c5dc4ab3bc"/>
+	</game>
+	<game name="Reviver (Japan) (FM77AV) (Disk 1)" id="0183">
+		<description>Reviver (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Reviver (Japan) (FM77AV) (Disk 1).d77" size="414992" crc="9ebbe071" md5="e14636f9ee27c900c4ca5f8559e75715" sha1="c5ce46abd56204fd03c44c9b02db22c818784684"/>
+	</game>
+	<game name="Reviver (Japan) (FM77AV) (Disk 1) (Alt)" id="0184">
+		<description>Reviver (Japan) (FM77AV) (Disk 1) (Alt)</description>
+		<rom name="Reviver (Japan) (FM77AV) (Disk 1) (Alt).d77" size="414992" crc="b900fa59" md5="178c76f4222608c82f9aef840c49a98b" sha1="9f89f132548d05f80db727b84a008cc3f2959027"/>
+	</game>
+	<game name="Reviver (Japan) (FM77AV) (Disk 2)" id="0185">
+		<description>Reviver (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Reviver (Japan) (FM77AV) (Disk 2).d77" size="416688" crc="f2ca73f6" md5="ecf8ce3cc189f07c1cb0736060702ca2" sha1="4f5180d56b9fa90d9b4f5f212689cb6cd0698d70"/>
+	</game>
+	<game name="Reviver (Japan) (FM77AV) (User Disk) [b]" id="0186">
+		<description>Reviver (Japan) (FM77AV) (User Disk) [b]</description>
+		<rom name="Reviver (Japan) (FM77AV) (User Disk) [b].d77" size="473776" crc="f79bf381" md5="e9ad5d69ed76a00aa0f7ae504345be0c" sha1="c783d17b3fa055314b202344c3bd40c29484c72a" status="baddump"/>
+	</game>
+	<game name="Riglas (Japan)" id="0187">
+		<description>Riglas (Japan)</description>
+		<rom name="Riglas (Japan).d77" size="384608" crc="3a3ad8f0" md5="040c3164c0aeddd31c2d399ca54429f1" sha1="b3d5293014f441a3d30615944545b84644acd37a"/>
+	</game>
+	<game name="Seles (Japan) (FM77AV) (Disk 1)" id="0188">
+		<description>Seles (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Seles (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="fdad6854" md5="15a60e98eff657a82f681b5d8b25da37" sha1="24b303a86f6338064fd1433d814897c305daa078"/>
+	</game>
+	<game name="Seles (Japan) (FM77AV) (Disk 2)" id="0189">
+		<description>Seles (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Seles (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="b2d4f4f5" md5="a03eb2311751035c4f221c457f449ec2" sha1="8ed90739efabe9494aa5c596125faa8eccc2ae86"/>
+	</game>
+	<game name="Seles (Japan) (FM77AV) (Disk 2) (Alt)" id="0190">
+		<description>Seles (Japan) (FM77AV) (Disk 2) (Alt)</description>
+		<rom name="Seles (Japan) (FM77AV) (Disk 2) (Alt).d77" size="348848" crc="721b2b45" md5="67134161f99f9e9904e89fed810f4084" sha1="71c430ec901013b348345aba9c9381b8b1376358"/>
+	</game>
+	<game name="Shounen Mike no Hitoritabi (Japan) (Homebrew)" id="0191">
+		<description>Shounen Mike no Hitoritabi (Japan) (Homebrew)</description>
+		<rom name="Shounen Mike no Hitoritabi (Japan) (Homebrew).d77" size="348848" crc="6897fcd7" md5="c840a5f41e4e18b5338bbd7e1f87e1f2" sha1="7c21c8d2c55fe1936fa81c388f6be4930738443d"/>
+	</game>
+	<game name="Shounen Mike no Hitoritabi (Japan) (FM77AV)" id="0192">
+		<description>Shounen Mike no Hitoritabi (Japan) (FM77AV)</description>
+		<rom name="Shounen Mike no Hitoritabi (Japan) (FM77AV).d77" size="348848" crc="963c756b" md5="e6c456d47b44a39632f2738be6a11f13" sha1="6488dfd0e8023fda410bd7578b98b56506274e2b"/>
+	</game>
+	<game name="Silpheed (Japan) (FM77AV) (Disk 1)" id="0193">
+		<description>Silpheed (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Silpheed (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="78c3cd57" md5="35e6f7dad801d566d4f8c928f7d0288d" sha1="eb195fadafd9b81f34628ef5aba32f9ec77bd39f"/>
+	</game>
+	<game name="Silpheed (Japan) (FM77AV) (Disk 2)" id="0194">
+		<description>Silpheed (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Silpheed (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="ef816bc7" md5="7cd855ee6250cdc6488ddb02da9b09ae" sha1="835567598527abb04b4fb762e4d6d277f9a815b6"/>
+	</game>
+	<game name="Silpheed (Japan) (FM77AV) (Disk 2) (Alt)" id="0195">
+		<description>Silpheed (Japan) (FM77AV) (Disk 2) (Alt)</description>
+		<rom name="Silpheed (Japan) (FM77AV) (Disk 2) (Alt).d77" size="348848" crc="730547a3" md5="2db99d498f01cefd396899fa2f5dfd3f" sha1="396e4fd77915936322e548d12de7e29a1d7fe511"/>
+	</game>
+	<game name="Silpheed (Japan) (FM77AV) (Disk 1) (Alt)" id="0196">
+		<description>Silpheed (Japan) (FM77AV) (Disk 1) (Alt)</description>
+		<rom name="Silpheed (Japan) (FM77AV) (Disk 1) (Alt).d77" size="348848" crc="7b806f9f" md5="b99b8c98251bc22c3dad8e7ccefdea05" sha1="1bfe951012739b69737320b9e373dd24fcdb4741"/>
+	</game>
+	<game name="Silpheed (Japan) (FM77AV) (Disk 2) (Alt 2)" id="0197">
+		<description>Silpheed (Japan) (FM77AV) (Disk 2) (Alt 2)</description>
+		<rom name="Silpheed (Japan) (FM77AV) (Disk 2) (Alt 2).d77" size="348848" crc="0f1f2329" md5="bc966ef253712897d15c0c9e0afc35f0" sha1="fa6b14cb2ffde2307d3f05fbcf0a6bf6df4c46c8"/>
+	</game>
+	<game name="Skapon Tankentai (Japan) (FM-7) (Disk 1) (req F-BASIC v3.0, run STARTUP) [b]" id="0198">
+		<description>Skapon Tankentai (Japan) (FM-7) (Disk 1) (req F-BASIC v3.0, run STARTUP) [b]</description>
+		<rom name="Skapon Tankentai (Japan) (FM-7) (Disk 1) (req F-BASIC v3.0, run STARTUP) [b].d77" size="348848" crc="f8f1494e" md5="5f38dd76d68690800faf84f7bf2ece6a" sha1="70b7e7772272ae3086cb59542afb2fad47e60306" status="baddump"/>
+	</game>
+	<game name="Skapon Tankentai (Japan) (FM-7) (Disk 2)" id="0199">
+		<description>Skapon Tankentai (Japan) (FM-7) (Disk 2)</description>
+		<rom name="Skapon Tankentai (Japan) (FM-7) (Disk 2).d77" size="348848" crc="be9a159e" md5="96a4b33835555a7376d5eb87feec6e1b" sha1="a92889882d06f16dfc4cae2f20b74f1d4dfe0f8a"/>
+	</game>
+	<game name="Skapon Tankentai (Japan) (FM-7) (Disk 3) [b]" id="0200">
+		<description>Skapon Tankentai (Japan) (FM-7) (Disk 3) [b]</description>
+		<rom name="Skapon Tankentai (Japan) (FM-7) (Disk 3) [b].d77" size="348848" crc="144226eb" md5="f9804f1693e8a16c4d00ea2ba5d78f04" sha1="2f9536f7a9cbf0113f8b4470fe7187122e03c100" status="baddump"/>
+	</game>
+	<game name="Skapon Tankentai (Japan) (FM-7) (User Disk)" id="0201">
+		<description>Skapon Tankentai (Japan) (FM-7) (User Disk)</description>
+		<rom name="Skapon Tankentai (Japan) (FM-7) (User Disk).d77" size="348848" crc="aa1534a5" md5="cc4477f71c52aac525bea8c2907a76cb" sha1="ea0f55e3175784b751e02f822971ceccddade7d7"/>
+	</game>
+	<game name="Skapon Tankentai (Japan) (FM77AV) (Disk 1) (req F-BASIC v3.3, run STARTUP) [b]" id="0202">
+		<description>Skapon Tankentai (Japan) (FM77AV) (Disk 1) (req F-BASIC v3.3, run STARTUP) [b]</description>
+		<rom name="Skapon Tankentai (Japan) (FM77AV) (Disk 1) (req F-BASIC v3.3, run STARTUP) [b].d77" size="348848" crc="a43c610c" md5="66be2cc4871239c0ad206d8dc5b41af6" sha1="0f8a9c0d7ecda9fe7456b0395e0757f6a6bbb572" status="baddump"/>
+	</game>
+	<game name="Skapon Tankentai (Japan) (FM77AV) (Disk 2) [b]" id="0203">
+		<description>Skapon Tankentai (Japan) (FM77AV) (Disk 2) [b]</description>
+		<rom name="Skapon Tankentai (Japan) (FM77AV) (Disk 2) [b].d77" size="348848" crc="be9a159e" md5="96a4b33835555a7376d5eb87feec6e1b" sha1="a92889882d06f16dfc4cae2f20b74f1d4dfe0f8a" status="baddump"/>
+	</game>
+	<game name="Skapon Tankentai (Japan) (FM77AV) (Disk 3) [b]" id="0204">
+		<description>Skapon Tankentai (Japan) (FM77AV) (Disk 3) [b]</description>
+		<rom name="Skapon Tankentai (Japan) (FM77AV) (Disk 3) [b].d77" size="348848" crc="b55a55c9" md5="916288ebcaa0bee48658e2df350f5fad" sha1="d54e9c4de6f85f91a4765d4f1cbe17a9bf81d337" status="baddump"/>
+	</game>
+	<game name="Solitaire Royale (Japan)" id="0205">
+		<description>Solitaire Royale (Japan)</description>
+		<rom name="Solitaire Royale (Japan).d77" size="392368" crc="71f87b74" md5="70a34407be7a0a2e5f2de4435e0afcbc" sha1="bbd723f2084c1ccdbb09171fa3bcaadcff6579e9"/>
+	</game>
+	<game name="Sorcerian (Japan) (req F-BASIC, run STARTUP) (Homebrew)" id="0206">
+		<description>Sorcerian (Japan) (req F-BASIC, run STARTUP) (Homebrew)</description>
+		<rom name="Sorcerian (Japan) (req F-BASIC, run STARTUP) (Homebrew).d77" size="348848" crc="5edadb22" md5="36f7ccd2592bf545fa99f06e164ce43b" sha1="e9f94ea62d714b96b91beb0d209aca7cd46b6324"/>
+	</game>
+	<game name="Soukoban 2 (Japan)" id="0207">
+		<description>Soukoban 2 (Japan)</description>
+		<rom name="Soukoban 2 (Japan).d77" size="349888" crc="9ed100f0" md5="3a256def3b95adb892f1e47835858561" sha1="79105630ca50c5b89cfbb733594984cdbccd5f9d"/>
+	</game>
+	<game name="Space Harrier (Japan) (FM77AV) (Disk 1)" id="0208">
+		<description>Space Harrier (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Space Harrier (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="0fe6415c" md5="0518e139f6e2227183abc6b2224414d2" sha1="586e6e39492461e1a8c00ff50b54a8edc07ae786"/>
+	</game>
+	<game name="Space Harrier (Japan) (FM77AV) (Disk 2)" id="0209">
+		<description>Space Harrier (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Space Harrier (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="4e6942fe" md5="e999d1b1bc7b3de43d873e15ee58c756" sha1="c717491ef7b152c7dd389cadde77a5db43e2dcb0"/>
+	</game>
+	<game name="Stone of Deity 1&amp;2 (Japan) (run SD1, run SD2)" id="0210">
+		<description>Stone of Deity 1&amp;2 (Japan) (run SD1, run SD2)</description>
+		<rom name="Stone of Deity 1&amp;2 (Japan) (run SD1, run SD2).d77" size="348848" crc="8e5b51b9" md5="f539446fd131a63f7c2537ac9f79406a" sha1="231dedf3b6419e0eb918cf19d218ffe0e20dfc37"/>
+	</game>
+	<game name="Strange Odyssey (Japan)" id="0211">
+		<description>Strange Odyssey (Japan)</description>
+		<rom name="Strange Odyssey (Japan).d77" size="344496" crc="cb6f8a10" md5="fe57f1e8604b86dbf00ca25d4b09152c" sha1="fa49cbcb29bc87b4282d4dfc6ecddb8c03e2af42"/>
+	</game>
+	<game name="Sunohe Collection (Japan)" id="0212">
+		<description>Sunohe Collection (Japan)</description>
+		<rom name="Sunohe Collection (Japan).d77" size="348848" crc="f4724bc5" md5="d99ecc7a0ab66e58742a79da716a9a45" sha1="d76bab73531f2031801195b6b2e738af29c4fb69"/>
+	</game>
+	<game name="Super Kanji Juushoroku (Japan) (req Kanji ROM)" id="0341">
+		<description>Super Kanji Juushoroku (Japan) (req Kanji ROM)</description>
+		<rom name="Super Kanji Juushoroku (Japan) (req Kanji ROM).d77" size="348848" crc="b79fa29c" md5="9137fd0ef17b55aca14d0cd3465ff64c" sha1="98d63830ce60fe0c88bf419d15411e1a24f08c4c"/>
+	</game>
+	<game name="Super Lonely Terminal (Japan)" id="0213">
+		<description>Super Lonely Terminal (Japan)</description>
+		<rom name="Super Lonely Terminal (Japan).d77" size="348848" crc="d4a048c2" md5="b5a694d26450c25c5c51c5bb52560752" sha1="a42cbdedee54951f8b4aaa055f23a94f051d136a"/>
+	</game>
+	<game name="Take Out Vol. 1 (Japan)" id="0214">
+		<description>Take Out Vol. 1 (Japan)</description>
+		<rom name="Take Out Vol. 1 (Japan).d77" size="409904" crc="47975160" md5="5d2266d791446c0ea8b4365dca64494a" sha1="60ccd0e5865a13eb241097f27316725d78bce487"/>
+	</game>
+	<game name="Take Out Vol. 2 (Japan)" id="0215">
+		<description>Take Out Vol. 2 (Japan)</description>
+		<rom name="Take Out Vol. 2 (Japan).d77" size="409904" crc="432fbd9b" md5="72a2f9dc04e246e4affd5ae9a36727eb" sha1="700390931859ef99b2707bb89dd352fb0e90edae"/>
+	</game>
+	<game name="Take Out Vol. 3 (Japan)" id="0216">
+		<description>Take Out Vol. 3 (Japan)</description>
+		<rom name="Take Out Vol. 3 (Japan).d77" size="409904" crc="fc137d15" md5="e4f282511d52ce7819fe082f28b60fc9" sha1="ae9d28f19f3b9aabe562be99b0ff19425df65f0e"/>
+	</game>
+	<game name="Take Out Vol. 4 (Japan) (Disk 1)" id="0217">
+		<description>Take Out Vol. 4 (Japan) (Disk 1)</description>
+		<rom name="Take Out Vol. 4 (Japan) (Disk 1).d77" size="348848" crc="a61e29ad" md5="2a4abe4c1ad97226eafc0bb4e2fb3ddc" sha1="95580c7c0432bc4dd6ed7acaca67bd174ad7abdc"/>
+	</game>
+	<game name="Take Out Vol. 4 (Japan) (Disk 2)" id="0218">
+		<description>Take Out Vol. 4 (Japan) (Disk 2)</description>
+		<rom name="Take Out Vol. 4 (Japan) (Disk 2).d77" size="348848" crc="757f8e4c" md5="e924cb582f652e5f36d2c7b8df8d3c51" sha1="3941d4b34ccc8fce0edf4c8b8f5984cc93108ffd"/>
+	</game>
+	<game name="Take Out Vol. 5 (Japan)" id="0219">
+		<description>Take Out Vol. 5 (Japan)</description>
+		<rom name="Take Out Vol. 5 (Japan).d77" size="348848" crc="942860f6" md5="aaaef05696faadab346b25e0fe9f9a5b" sha1="809852302ee700e88eb6a32509f2d0e9847eb5f8"/>
+	</game>
+	<game name="Take Out Vol. 6 (Japan)" id="0220">
+		<description>Take Out Vol. 6 (Japan)</description>
+		<rom name="Take Out Vol. 6 (Japan).d77" size="348848" crc="2ce3087f" md5="20975728d26557d4fa43810b209714d7" sha1="5048b2f0bf215a3577462b6ede9056b8f0e20964"/>
+	</game>
+	<game name="Take Out Vol. 7 (Japan) (Disk 1)" id="0221">
+		<description>Take Out Vol. 7 (Japan) (Disk 1)</description>
+		<rom name="Take Out Vol. 7 (Japan) (Disk 1).d77" size="348848" crc="ac5a3450" md5="6c71cf3716b7a8d05a0722852a903187" sha1="47cb3360aa1b6d882900a764f7afb1e9eb4b0672"/>
+	</game>
+	<game name="Take Out Vol. 7 (Japan) (Disk 2)" id="0222">
+		<description>Take Out Vol. 7 (Japan) (Disk 2)</description>
+		<rom name="Take Out Vol. 7 (Japan) (Disk 2).d77" size="348848" crc="ddd52f24" md5="473cb0b8fb60281b6127c6c0575b63c7" sha1="e9a4d66fa2475846545b0fcb78dcf2ce9cb7769a"/>
+	</game>
+	<game name="Team AB Music Disk Ebifuku Zenkyoku Shuu (Japan) (2D) (Disk 1) (Homebrew)" id="0223">
+		<description>Team AB Music Disk Ebifuku Zenkyoku Shuu (Japan) (2D) (Disk 1) (Homebrew)</description>
+		<rom name="Team AB Music Disk Ebifuku Zenkyoku Shuu (Japan) (2D) (Disk 1) (Homebrew).d77" size="348848" crc="dd95e000" md5="277d66a789c93d804a67c4e3767e8539" sha1="d29b62c369baae12b4f3696c814850c142429515"/>
+	</game>
+	<game name="Team AB Music Disk Ebifuku Zenkyoku Shuu (Japan) (2D) (Disk 2) (Homebrew)" id="0224">
+		<description>Team AB Music Disk Ebifuku Zenkyoku Shuu (Japan) (2D) (Disk 2) (Homebrew)</description>
+		<rom name="Team AB Music Disk Ebifuku Zenkyoku Shuu (Japan) (2D) (Disk 2) (Homebrew).d77" size="348848" crc="13a8d019" md5="f18b87c3bbca997c19fa43e85eab72df" sha1="d1bee741daac77f6ef7b9e001447c246ae1772e1"/>
+	</game>
+	<game name="Team AB Music Disk Ebifuku Zenkyoku Shuu (Japan) (2DD) (Homebrew)" id="0225">
+		<description>Team AB Music Disk Ebifuku Zenkyoku Shuu (Japan) (2DD) (Homebrew)</description>
+		<rom name="Team AB Music Disk Ebifuku Zenkyoku Shuu (Japan) (2DD) (Homebrew).d77" size="697008" crc="92d677e0" md5="7bd4a2b6d28b127dcee27001ccb527fb" sha1="f58c2ef0326e5cd884b6afe66b712ee115c11858"/>
+	</game>
+	<game name="Team AB Music Disk No. 0 (Japan) (Homebrew)" id="0226">
+		<category>Applications</category>
+		<description>Team AB Music Disk No. 0 (Japan) (Homebrew)</description>
+		<rom name="Team AB Music Disk No. 0 (Japan) (Homebrew).d77" size="348848" crc="2e327bc0" md5="5092fd955a4adc739f85e59d1539b97e" sha1="e8055277a8bea6c9f726527cdca60fcb7b37aaa9"/>
+	</game>
+	<game name="Team AB Music Disk No. 1 (Japan) (Homebrew)" id="0227">
+		<description>Team AB Music Disk No. 1 (Japan) (Homebrew)</description>
+		<rom name="Team AB Music Disk No. 1 (Japan) (Homebrew).d77" size="348848" crc="0142115a" md5="abfa83fd243683f3153403db2e822a8b" sha1="fabbe7e4b393f38ff9aa23772634ab996f579b09"/>
+	</game>
+	<game name="Templo del Sol - Asteka II (Japan) (Disk 1) [b]" id="0228">
+		<description>Templo del Sol - Asteka II (Japan) (Disk 1) [b]</description>
+		<rom name="Templo del Sol - Asteka II (Japan) (Disk 1) [b].d77" size="451504" crc="c68bc584" md5="36e1117ca0516e78e469ef4a9decb4c5" sha1="924ea8a851c2ea19f9b5462895c7f9d907434198" status="baddump"/>
+	</game>
+	<game name="Templo del Sol - Asteka II (Japan) (Disk 2) [b]" id="0229">
+		<description>Templo del Sol - Asteka II (Japan) (Disk 2) [b]</description>
+		<rom name="Templo del Sol - Asteka II (Japan) (Disk 2) [b].d77" size="434144" crc="0957f790" md5="ef32db1f35780f97d35b5d540fdf408a" sha1="bca50e954c31026a840c07ded38f11401f274b21" status="baddump"/>
+	</game>
+	<game name="Tetris (Japan) (FM77AV)" id="0230">
+		<description>Tetris (Japan) (FM77AV)</description>
+		<rom name="Tetris (Japan) (FM77AV).d77" size="347168" crc="25445d7e" md5="1f4dfecc11d0263785c9572a402cc203" sha1="753c90e90e5df0ce3dfe4e5b8dce2156df3c4760"/>
+	</game>
+	<game name="Tetris (Japan) (FM77AV) (Alt)" id="0231">
+		<description>Tetris (Japan) (FM77AV) (Alt)</description>
+		<rom name="Tetris (Japan) (FM77AV) (Alt).d77" size="348848" crc="331f4204" md5="14e7fc5109c12eae14f01abc9745eaa3" sha1="ba2727f76fb6b39b1cfd1c87631b206952e644fe"/>
+	</game>
+	<game name="Thexder (Japan) [b]" id="0250">
+		<description>Thexder (Japan) [b]</description>
+		<rom name="Thexder (Japan) [b].d77" size="344768" crc="95e3b778" md5="2540e4efac10194ce4ca60ec66591732" sha1="f7ba40b160d6c92e8a7dd0839b2e07d634ccfd1f" status="baddump"/>
+	</game>
+	<game name="Thunder Force (Japan)" id="0251">
+		<description>Thunder Force (Japan)</description>
+		<rom name="Thunder Force (Japan).d77" size="348560" crc="2b6909d5" md5="e6d0974ffd933e55ca23ae2e2f1a20b0" sha1="f919d3d9b610a6f169b0de49f9d91176d8461816"/>
+	</game>
+	<game name="Topple Zip (Japan)" id="0252">
+		<description>Topple Zip (Japan)</description>
+		<rom name="Topple Zip (Japan).d77" size="348576" crc="23945428" md5="3b924242440128e73826c45ec4c78e47" sha1="d200bf83a5f6c46836bc86f6fdd0d1758bd0af8b"/>
+	</game>
+	<game name="Toriaezu Tinyan da yo! (Japan) (req F-BASIC, run toriaezu)" id="0253">
+		<description>Toriaezu Tinyan da yo! (Japan) (req F-BASIC, run toriaezu)</description>
+		<rom name="Toriaezu Tinyan da yo! (Japan) (req F-BASIC, run toriaezu).d77" size="348848" crc="9b037a08" md5="1cf2871e99e64436f51ad07098a55938" sha1="cb8e454d013673355ca7ea43ca1d06a42c409183"/>
+	</game>
+	<game name="Tower of Druaga, The (Japan) (FM77AV)" id="0248">
+		<description>Tower of Druaga, The (Japan) (FM77AV)</description>
+		<rom name="Tower of Druaga, The (Japan) (FM77AV).d77" size="348848" crc="fef58eab" md5="1ddb595bfd73747c1b60439cfeb30e40" sha1="e09feed054d21b4953e41f60bd47eb5c2e989740"/>
+	</game>
+	<game name="Transylvania (Japan) (Disk 1) (req F-BASIC, run FM)" id="0254">
+		<description>Transylvania (Japan) (Disk 1) (req F-BASIC, run FM)</description>
+		<rom name="Transylvania (Japan) (Disk 1) (req F-BASIC, run FM).d77" size="344496" crc="7ebbf992" md5="bfe94b65862ebe99ecaa893362616dc7" sha1="30cf4d2b73b84a274f694d96a2c9ccf7ea5f6914"/>
+	</game>
+	<game name="Transylvania (Japan) (Disk 2)" id="0255">
+		<description>Transylvania (Japan) (Disk 2)</description>
+		<rom name="Transylvania (Japan) (Disk 2).d77" size="348848" crc="e53af135" md5="ef83f04e761561ddc54eef6432e390f4" sha1="4d4aecf98b11de9d40fee19f7b507bb9b0e36040"/>
+	</game>
+	<game name="Transylvania (Japan) (Alt)" id="0256">
+		<description>Transylvania (Japan) (Alt)</description>
+		<rom name="Transylvania (Japan) (Alt).d77" size="344496" crc="364af18b" md5="98dd06b28cb742beb4ddea3516ccc507" sha1="3899d08cfd1709205414e111791c9c89d8ce898d"/>
+	</game>
+	<game name="Tritorn (Japan)" id="0257">
+		<description>Tritorn (Japan)</description>
+		<rom name="Tritorn (Japan).d77" size="348848" crc="f443b556" md5="cd1bf14e324f1b43c892bb4472e3d753" sha1="0e054bff46bc1ef86123f6a7ef2ea0f4168adcb2"/>
+	</game>
+	<game name="Ultima II (Japan) (Disk 1)" id="0258">
+		<description>Ultima II (Japan) (Disk 1)</description>
+		<rom name="Ultima II (Japan) (Disk 1).d77" size="348848" crc="17b5073f" md5="f977e328a7a357569d95ff0686a47c7f" sha1="4805868d7a17dbb7e05c1d36c291c9ce3eac0cba"/>
+	</game>
+	<game name="Ultima II (Japan) (Disk 2)" id="0259">
+		<description>Ultima II (Japan) (Disk 2)</description>
+		<rom name="Ultima II (Japan) (Disk 2).d77" size="357552" crc="20178d8d" md5="3793a1a233c93df356a8b6b4c3121d8e" sha1="3f5ce884453d1d4304e3525fd02c3bf9845b0910"/>
+	</game>
+	<game name="Ulysses (Japan) (Disk 1) (req F-BASIC, run FM)" id="0260">
+		<description>Ulysses (Japan) (Disk 1) (req F-BASIC, run FM)</description>
+		<rom name="Ulysses (Japan) (Disk 1) (req F-BASIC, run FM).d77" size="344496" crc="f939243a" md5="e4699229a443e288e44ca50190837074" sha1="c60862806bed83ab903fed505f026523de3e93f0"/>
+	</game>
+	<game name="Ulysses (Japan) (Disk 2)" id="0261">
+		<description>Ulysses (Japan) (Disk 2)</description>
+		<rom name="Ulysses (Japan) (Disk 2).d77" size="348848" crc="c415d864" md5="ec7a545fda4963c7a04e0fdc66c4d02d" sha1="806e76b89f6ebc97ef60af0ceef6032220da1731"/>
+	</game>
+	<game name="Uranai Program Collection (Japan) (run RUN)" id="0262">
+		<description>Uranai Program Collection (Japan) (run RUN)</description>
+		<rom name="Uranai Program Collection (Japan) (run RUN).d77" size="348848" crc="3a0deeb7" md5="86ab8bf88beb397b530a4dfc89b5b60b" sha1="e39b23717acb991cc94e1395177e409a8b01123a"/>
+	</game>
+	<game name="Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Disk 1)" id="0263">
+		<description>Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Disk 1).d77" size="382896" crc="18166dfe" md5="b6da685a70dd2b528103cb2415edb8b7" sha1="df1fa2d0dee124517f8054a396fcfe3bd701ac71"/>
+	</game>
+	<game name="Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Disk 2)" id="0264">
+		<description>Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Disk 2).d77" size="380848" crc="3663d607" md5="4bbafc04a0ca52a12229e4e94bd8ccae" sha1="d8395b6ba6d98e06c895102ab99a3d3802f281d2"/>
+	</game>
+	<game name="Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Disk 3)" id="0265">
+		<description>Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Disk 3)</description>
+		<rom name="Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Disk 3).d77" size="380848" crc="96b8ea75" md5="e5c7cbf067c47a192483946f7b1b0745" sha1="973fa2b720cea99ef564411009988923dc2c13c8"/>
+	</game>
+	<game name="Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Save Disk)" id="0266">
+		<description>Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Save Disk)</description>
+		<rom name="Urusei Yatsura - Koi no Survival Birthday (Japan) (FM77AV) (Save Disk).d77" size="348848" crc="096e1542" md5="ac52d0eeaa864eaf4bc3547736449fa6" sha1="b5a79fda9ce9e04e1ae4dde537ee7365f3fcf204"/>
+	</game>
+	<game name="Utsukushiki Emono-tachi (Japan)" id="0267">
+		<description>Utsukushiki Emono-tachi (Japan)</description>
+		<rom name="Utsukushiki Emono-tachi (Japan).d77" size="348848" crc="ae2b3517" md5="af12e3a7131c36da19e2d5aa1d8c3bdb" sha1="29469e05e95cf90b1523445752d4edb28110d4dd"/>
+	</game>
+	<game name="Voodoo Castle (Japan)" id="0268">
+		<description>Voodoo Castle (Japan)</description>
+		<rom name="Voodoo Castle (Japan).d77" size="366256" crc="e3f8df7e" md5="5c1c99d659a02000d834978d39ec90e4" sha1="07e64208d5ea7c4f4ab2173c2167f8b5a2f47393"/>
+	</game>
+	<game name="Weird 2 (Japan)" id="0269">
+		<description>Weird 2 (Japan)</description>
+		<rom name="Weird 2 (Japan).d77" size="377520" crc="b22cfda3" md5="cbc728fffcdbe606ed8051694237db61" sha1="18d7cfac2a9e48143e55b7a365aea851871e0d49"/>
+	</game>
+	<game name="Wibarm (Japan)" id="0272">
+		<description>Wibarm (Japan)</description>
+		<rom name="Wibarm (Japan).d77" size="415392" crc="ef7dd209" md5="f39395245ecc96d54f303536f8692ff5" sha1="dad957da286200b5d4cb74407650ebdf87304b0a"/>
+	</game>
+	<game name="Wing Man 2 (Japan) (Disk 1)" id="0037">
+		<description>Wing Man 2 (Japan) (Disk 1)</description>
+		<rom name="Wing Man 2 (Japan) (Disk 1).d77" size="381088" crc="22e8175b" md5="f7c64d5cef6820363efdb2b53be9da98" sha1="783c6b120a1e9320d9b31fc5c5b3592d83b186ca"/>
+	</game>
+	<game name="Wing Man 2 (Japan) (Disk 2)" id="0328">
+		<description>Wing Man 2 (Japan) (Disk 2)</description>
+		<rom name="Wing Man 2 (Japan) (Disk 2).d77" size="381088" crc="e8b805f7" md5="960f34f1244c6d5fdb3abbf44301ea9e" sha1="30c51788584d1e4be1440eea6a0bb1440d4980cf"/>
+	</game>
+	<game name="Wizard and the Princess (Japan) (Disk 1)" id="0275">
+		<description>Wizard and the Princess (Japan) (Disk 1)</description>
+		<rom name="Wizard and the Princess (Japan) (Disk 1).d77" size="344496" crc="1a93f88e" md5="7341709617fd561e07d6966c1ff8bb6e" sha1="ef324636cede5a6c45a426f12af5effaa2370ede"/>
+	</game>
+	<game name="Wizard and the Princess (Japan) (Disk 2)" id="0276">
+		<description>Wizard and the Princess (Japan) (Disk 2)</description>
+		<rom name="Wizard and the Princess (Japan) (Disk 2).d77" size="348848" crc="a7a797a4" md5="4233311def02677ffe172329b855977e" sha1="d3caf0e1248b6eebaba912f4d35dde1b5d06ceeb"/>
+	</game>
+	<game name="Wizardry (Japan)" id="0277">
+		<description>Wizardry (Japan)</description>
+		<rom name="Wizardry (Japan).d77" size="348848" crc="100d2953" md5="3add685332bbc33b667e68a881aecd65" sha1="b204fc4c080ef2cdb7d2b93c9c9d9944a14b8724"/>
+	</game>
+	<game name="Wizardry II (Japan)" id="0278">
+		<description>Wizardry II (Japan)</description>
+		<rom name="Wizardry II (Japan).d77" size="348848" crc="62d6ad79" md5="9f565db9316356f018295bc4be1dff65" sha1="5a56a58a5bddd53f991c5091b2b3b202cf8527a8"/>
+	</game>
+	<game name="Wizardry III (Japan)" id="0279">
+		<description>Wizardry III (Japan)</description>
+		<rom name="Wizardry III (Japan).d77" size="348848" crc="72598360" md5="f2caf652a4a443f384b0cbf0d2280496" sha1="cc1a06bef2c5862ae7498fdacd6dab1f6d7d6dc5"/>
+	</game>
+	<game name="Wizardry III (Japan) (Alt)" id="0280">
+		<description>Wizardry III (Japan) (Alt)</description>
+		<rom name="Wizardry III (Japan) (Alt).d77" size="348848" crc="ea24ba13" md5="dd780a6beed101167bcb5f5608a7e551" sha1="c178ef7d7bb03580fec43a1fdc49b842e61cfd65"/>
+	</game>
+	<game name="Wizardry IV (Japan) (FM77AV) (Disk 1)" id="0281">
+		<description>Wizardry IV (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Wizardry IV (Japan) (FM77AV) (Disk 1).d77" size="380448" crc="6addbb4a" md5="05d4283c99d89c358a8b341467132667" sha1="d051f50faa90b457d768fcdaa3adf9e2ae8e4c53"/>
+	</game>
+	<game name="Wizardry IV (Japan) (FM77AV) (Disk 2)" id="0282">
+		<description>Wizardry IV (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Wizardry IV (Japan) (FM77AV) (Disk 2).d77" size="380448" crc="330c4a6d" md5="187af5e5b1dd6f2567c9d63f80576fa5" sha1="393a6cb797d7da122ee8f70e099b7d5a08f90b58"/>
+	</game>
+	<game name="Wizardry IV (Japan) (FM77AV) (Disk 3)" id="0283">
+		<description>Wizardry IV (Japan) (FM77AV) (Disk 3)</description>
+		<rom name="Wizardry IV (Japan) (FM77AV) (Disk 3).d77" size="380448" crc="abcef0a5" md5="bd97419d561d0af1710e9dab669dacab" sha1="6e0a3140e0d7756c58ac7b15f468798b8a111ba4"/>
+	</game>
+	<game name="Wizplus for FM (Japan) (run STARTUP) (Homebrew)" id="0284">
+		<description>Wizplus for FM (Japan) (run STARTUP) (Homebrew)</description>
+		<rom name="Wizplus for FM (Japan) (run STARTUP) (Homebrew).d77" size="348848" crc="b830e361" md5="40791b3fef8e581d4dad3b4a68259af3" sha1="686276b64ec5f41ad6a65f04c9e791f12f57dc8f"/>
+	</game>
+	<game name="Woody Poco (Japan) (FM77AV) (Disk 1)" id="0285">
+		<description>Woody Poco (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Woody Poco (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="4e41a76d" md5="875534f169fc90db33759baaea4602dd" sha1="33915fcd385224163176a0b86109c9d579a7be9c"/>
+	</game>
+	<game name="Woody Poco (Japan) (FM77AV) (Disk 2)" id="0286">
+		<description>Woody Poco (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Woody Poco (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="f7afd890" md5="70296b31f23d226b3bc0c9b638202e33" sha1="3cb44726c178f1af1141509736796c7b570cd9a7"/>
+	</game>
+	<game name="World Golf II (Japan) (FM77AV) (Disk 1)" id="0287">
+		<description>World Golf II (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="World Golf II (Japan) (FM77AV) (Disk 1).d77" size="348848" crc="f8bfda83" md5="cb0d8518281ea9ffb35f5958dbe61dac" sha1="fff7c8479466391ee29c932b649e0dc99947c022"/>
+	</game>
+	<game name="World Golf II (Japan) (FM77AV) (Disk 2)" id="0288">
+		<description>World Golf II (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="World Golf II (Japan) (FM77AV) (Disk 2).d77" size="348848" crc="86517db7" md5="0ad3f0ba32e04df10545a2b0756e52cc" sha1="3d550cc6fd5633fe4b3e14c1e0f855b47d060a8f"/>
+	</game>
+	<game name="Xanadu (Japan) (Disk 1)" id="0289">
+		<description>Xanadu (Japan) (Disk 1)</description>
+		<rom name="Xanadu (Japan) (Disk 1).d77" size="415840" crc="1d443d15" md5="53aa0744cafbfb386750ecb5c6992b19" sha1="9e81c357485ad92e15cdbac06eb53fd9a608a99e"/>
+	</game>
+	<game name="Xanadu (Japan) (Disk 2)" id="0291">
+		<description>Xanadu (Japan) (Disk 2)</description>
+		<rom name="Xanadu (Japan) (Disk 2).d77" size="415840" crc="9946a667" md5="fa8acfe7f5fd9b67aa263d1d3ddf66ec" sha1="d5dcc803dd2ac6230f3aee0fe7d3ab83180767c3"/>
+	</game>
+	<game name="Xanadu (Japan) (User Disk)" id="0292">
+		<description>Xanadu (Japan) (User Disk)</description>
+		<rom name="Xanadu (Japan) (User Disk).d77" size="415840" crc="28352c10" md5="b847e1a198ebeb4c232f84f1df62ace5" sha1="46d84a85b378964b9ec889616e7b667a6b22e839"/>
+	</game>
+	<game name="Xanadu Scenario II (Japan) (User Disk)" id="0294">
+		<description>Xanadu Scenario II (Japan) (User Disk)</description>
+		<rom name="Xanadu Scenario II (Japan) (User Disk).d77" size="415840" crc="ac4493d3" md5="c561bb60dc59f0fbead192040f0e42c4" sha1="fffb85547b53f0829cc1c8a593622aaef48e1994"/>
+	</game>
+	<game name="Xanadu Scenario II (Japan) (Disk 1)" id="0296">
+		<description>Xanadu Scenario II (Japan) (Disk 1)</description>
+		<rom name="Xanadu Scenario II (Japan) (Disk 1).d77" size="415840" crc="63d3567f" md5="8276d642e32735f52651280c9c9dc961" sha1="80589af2868b387fba9ab131cba64ad7e456dd06"/>
+	</game>
+	<game name="Xanadu Scenario II (Japan) (Disk 1) (Alt)" id="0297">
+		<description>Xanadu Scenario II (Japan) (Disk 1) (Alt)</description>
+		<rom name="Xanadu Scenario II (Japan) (Disk 1) (Alt).d77" size="415840" crc="fdd6e243" md5="3a47e656ebf3692fde8f75411649dc42" sha1="f3454546915b8e3f5c940d7e4472d0332fd1b9a9"/>
+	</game>
+	<game name="Xanadu Scenario II (Japan) (Disk 1) (Alt 2)" id="0298">
+		<description>Xanadu Scenario II (Japan) (Disk 1) (Alt 2)</description>
+		<rom name="Xanadu Scenario II (Japan) (Disk 1) (Alt 2).d77" size="415840" crc="aa4fb550" md5="fdfeac8ac65cb15aacaad3b137727ac7" sha1="e8ec014723bcf087ebbc783c1ada9dd7297c7048"/>
+	</game>
+	<game name="Xanadu Scenario II (Japan) (Disk 2)" id="0299">
+		<description>Xanadu Scenario II (Japan) (Disk 2)</description>
+		<rom name="Xanadu Scenario II (Japan) (Disk 2).d77" size="415840" crc="7a617711" md5="0ec701fdc837fe10f13c01dc5d2373a9" sha1="509a01e0c7e078411e62f2e9b62770832a69f118"/>
+	</game>
+	<game name="Xanadu Scenario II (Japan) (Disk 2) (Alt)" id="0300">
+		<description>Xanadu Scenario II (Japan) (Disk 2) (Alt)</description>
+		<rom name="Xanadu Scenario II (Japan) (Disk 2) (Alt).d77" size="415840" crc="7a8c5ba3" md5="3b5cbb8eb1ed0c004a5ba08fe22ccc21" sha1="81e9b21361423e1913f82cc38a0402fc9edfc72d"/>
+	</game>
+	<game name="Xevious (Japan)" id="0301">
+		<description>Xevious (Japan)</description>
+		<rom name="Xevious (Japan).d77" size="348848" crc="290baf25" md5="f8b7d8767729d5680f925efd59c8237b" sha1="dec1335415311a6158aeec944f7b9ac8ba659edb"/>
+	</game>
+	<game name="Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 1)" id="0302">
+		<description>Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 1).d77" size="348576" crc="2dab314f" md5="dcaa6e66817e1c87d345b70412ee9a50" sha1="836d0d53b65f74f059382baf6b72807be066164f"/>
+	</game>
+	<game name="Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 2)" id="0303">
+		<description>Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 2).d77" size="348576" crc="f3626937" md5="6a9e8116b5ca137b52d51b93192ef502" sha1="8e1dc42bca9edd9bf1c61b36c1216b24067c19ec"/>
+	</game>
+	<game name="Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 3) [b]" id="0304">
+		<description>Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 3) [b]</description>
+		<rom name="Yami no Iyo Densetsu (Japan) (FM77AV) (Disk 3) [b].d77" size="288384" crc="3045db0d" md5="b3a64160d9f0b999400f74c7c7d4f77d" sha1="a20f5f8f05b7f6b48e23eae678668ede7eaaf477" status="baddump"/>
+	</game>
+	<game name="Yanpara Adventure - Staff Shoumetsu no Nazo (Japan) (load START)" id="0305">
+		<description>Yanpara Adventure - Staff Shoumetsu no Nazo (Japan) (load START)</description>
+		<rom name="Yanpara Adventure - Staff Shoumetsu no Nazo (Japan) (load START).d77" size="348848" crc="2046f287" md5="e8bb2edde14fc39141e695ea29d3d277" sha1="a8a70733bf557704fd1badade3f6c6ce0a69f493"/>
+	</game>
+	<game name="Yellow Lemon (Japan)" id="0306">
+		<description>Yellow Lemon (Japan)</description>
+		<rom name="Yellow Lemon (Japan).d77" size="348848" crc="c656b134" md5="9effe45a8942e322509f83d6075a8caf" sha1="575ed73245c6d0ddd8d1d55bcdbe285340eab2e2"/>
+	</game>
+	<game name="Ys (Japan) (FM-7) (Disk 1)" id="0307">
+		<description>Ys (Japan) (FM-7) (Disk 1)</description>
+		<rom name="Ys (Japan) (FM-7) (Disk 1).d77" size="415840" crc="112c77d4" md5="45ae63215825aa081a616b701efee932" sha1="7719ce52c3349d7c54056ca96bbcf53fe74cfcfd"/>
+	</game>
+	<game name="Ys (Japan) (FM-7) (Disk 2)" id="0308">
+		<description>Ys (Japan) (FM-7) (Disk 2)</description>
+		<rom name="Ys (Japan) (FM-7) (Disk 2).d77" size="415840" crc="95a91e17" md5="d1a3d7aa0632fa78ce5520b7c08c0597" sha1="454ea595a96cf741e9cecbffe11cbf0cf4843482"/>
+	</game>
+	<game name="Ys (Japan) (FM-7) (User Disk)" id="0309">
+		<description>Ys (Japan) (FM-7) (User Disk)</description>
+		<rom name="Ys (Japan) (FM-7) (User Disk).d77" size="348848" crc="b8852552" md5="144ab93f58af6672078538351f99f451" sha1="db4ff3cedf3fae96b89f064f4bfcd7f189acec62"/>
+	</game>
+	<game name="Ys (Japan) (FM-7) (User Disk) (Alt)" id="0310">
+		<description>Ys (Japan) (FM-7) (User Disk) (Alt)</description>
+		<rom name="Ys (Japan) (FM-7) (User Disk) (Alt).d77" size="348848" crc="93f0515b" md5="98e742ffce18af9b2af2b87c14bad763" sha1="191c1080edada8c21791cd3fc2c6cbdb2990731a"/>
+	</game>
+	<game name="Ys (Japan) (FM77AV) (Disk 1)" id="0311">
+		<description>Ys (Japan) (FM77AV) (Disk 1)</description>
+		<rom name="Ys (Japan) (FM77AV) (Disk 1).d77" size="415840" crc="b319472d" md5="0f7bac184c1582a29b7b254ab0e86f89" sha1="f8f81801de61d8e5e83391d40e0eb31027ecf311"/>
+	</game>
+	<game name="Ys (Japan) (FM77AV) (Disk 2)" id="0312">
+		<description>Ys (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Ys (Japan) (FM77AV) (Disk 2).d77" size="415840" crc="deb12720" md5="b69d3842d61e96d9cd6822c48e763c2a" sha1="cdbd0b6340b16d8d8f3e06e2a6bd59c57fb2a5b6"/>
+	</game>
+	<game name="Ys (Japan) (FM77AV) (User Disk) [b]" id="0314">
+		<description>Ys (Japan) (FM77AV) (User Disk) [b]</description>
+		<rom name="Ys (Japan) (FM77AV) (User Disk) [b].d77" size="473776" crc="69118ba6" md5="b5df667e6a37463b81240c70cd75f99a" sha1="198105c114745765b2cd9a569f60a16d78c96a93" status="baddump"/>
+	</game>
+	<game name="Ys (Japan) (FM77AV) (Disk 1) (Alt)" id="0315">
+		<description>Ys (Japan) (FM77AV) (Disk 1) (Alt)</description>
+		<rom name="Ys (Japan) (FM77AV) (Disk 1) (Alt).d77" size="415840" crc="62bbab76" md5="a28da336d877f36d52f56edc81130c02" sha1="d9f7e6364adb0b17ae160b196115f1c558c61892"/>
+	</game>
+	<game name="Ys (Japan) (FM77AV) (Disk 2) (Alt)" id="0316">
+		<description>Ys (Japan) (FM77AV) (Disk 2) (Alt)</description>
+		<rom name="Ys (Japan) (FM77AV) (Disk 2) (Alt).d77" size="415840" crc="8b044e9e" md5="becc8e045297bceb6dbb1fe73f402014" sha1="2a867be94d5914f808c8ad1cdeff61a55f035669"/>
+	</game>
+	<game name="Ys II (Japan) (FM77AV) (Disk 2)" id="0317">
+		<description>Ys II (Japan) (FM77AV) (Disk 2)</description>
+		<rom name="Ys II (Japan) (FM77AV) (Disk 2).d77" size="416112" crc="8452f8d1" md5="406e5e1788b0bfc31f2a69be71ff2fc5" sha1="7c5ff81c3db8b9e7c3dfc635630a42c652988271"/>
+	</game>
+	<game name="Ys II (Japan) (FM77AV) (Disk 3)" id="0318">
+		<description>Ys II (Japan) (FM77AV) (Disk 3)</description>
+		<rom name="Ys II (Japan) (FM77AV) (Disk 3).d77" size="416112" crc="b17a4466" md5="892f89c347426e57386e3650ddff6bd6" sha1="5f7e68116b89fcbbc5afb716aa4c42d8f7d992a5"/>
+	</game>
+	<game name="Ys II (Japan) (FM77AV) (Disk 1) (Program Disk)" id="0319">
+		<description>Ys II (Japan) (FM77AV) (Disk 1) (Program Disk)</description>
+		<rom name="Ys II (Japan) (FM77AV) (Disk 1) (Program Disk).d77" size="589520" crc="91bdffb6" md5="2c298197f2cf0be5abc653ceeda99bf2" sha1="35d96dbb5287e23c49bde8b181d4cd18a3742a29"/>
+	</game>
+	<game name="Ys II (Japan) (FM77AV) (Disk 4) (User Disk)" id="0320">
+		<description>Ys II (Japan) (FM77AV) (Disk 4) (User Disk)</description>
+		<rom name="Ys II (Japan) (FM77AV) (Disk 4) (User Disk).d77" size="473776" crc="ff7bdf8c" md5="6fa0d0d4f43f386481110a039ea59f64" sha1="f8e13aad6062b2c3fdfeb14b56e5e4d798220f3c"/>
+	</game>
+</datafile>

@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM TOUCHE"
 	description "ScummVM - TOUCHE Engine Games"
 	category "ScummVM"
-	version v1.02
-	date 2016-08-12
+	version v1.07
+	date 2020-05-21
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,92 +11,147 @@ clrmamepro (
 
 game (
 	name touche
-	description "Touche: The Adventures of the 5th Musketeer (DOS)"
+	description "Touché: The Adventures of the 5th Musketeer (DOS)"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
 	romof toa
-	rom ( name TOUCHE.DAT size 26350211 crc be2d2a8e md5 6de2714bef18056f93fcf6e160be8a66 )
+	rom ( name TOUCHE.DAT size 26350211 crc be2d2a8e md5 6de2714bef18056f93fcf6e160be8a66 sha1 7a8089a09cf74f383cc3d4d7a13a6a81fa4a1ea1 )
 )
 
 game (
 	name touche-de
-	description "Touche: The Adventures of the 5th Musketeer (DOS/German)"
+	description "Touché: The Adventures of the 5th Musketeer {Touché: Die Abenteuer des fünften Musketiers}(DOS/German)[!]"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
 	romof toa
-	rom ( name TOUCHE.DAT size 26625537 crc e656312e md5 e298e884b86be4f54d605d5972c41831 )
+	rom ( name TOUCHE.DAT size 26625537 crc eb919cd7 md5 66ff9dc3b2eeb8d89ec82728f8a2e6ca sha1 cd4eee2e972392df188625224a04a28ad502a43d )
 )
 
 game (
 	name touche-demo
-	description "Touche: The Adventures of the 5th Musketeer {Demo}(DOS)"
+	description "Touché: The Adventures of the 5th Musketeer |Demo|(DOS)"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
-	rom ( name OBJ size 5503572 crc 7115ceff md5 d3c81cb2f8f7eb4a4852f30264bde7ec )
-	rom ( name TOUCHE.DAT size 8720683 crc dac9586c md5 72647480e8c11aa81cf3add5209cdcff )
-	rom ( name TOUCHE.SOG size 22584480 crc 6c6ad7b6 md5 6c260f35e063d814d8f93b670db3fe73 )
+	rom ( name OBJ size 5503572 crc 7115ceff md5 d3c81cb2f8f7eb4a4852f30264bde7ec sha1 3ab2a0cd5068d0e8cb2b8bf45176ed698a9b5ca5 )
+	rom ( name TOUCHE.DAT size 8720683 crc dac9586c md5 72647480e8c11aa81cf3add5209cdcff sha1 5af70077bf74870e0fba25d16162aaf880a68893 )
+	rom ( name TOUCHE.SOG size 22584480 crc 6c6ad7b6 md5 6c260f35e063d814d8f93b670db3fe73 sha1 d18b509078181d0e22f1085cd5a91e9eb06e2596 )
 )
 
 game (
 	name touche-es
-	description "Touche: The Adventures of the 5th Musketeer (DOS/Spanish)"
+	description "Touché: The Adventures of the 5th Musketeer {Touché: Las Aventuras del Quinto Mosquetero}(DOS/Spanish)"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
 	romof toa
-	rom ( name TOUCHE.DAT size 26529523 crc e39f7654 md5 39e9d914996324e7662720b4d5fa4816 )
+	rom ( name TOUCHE.DAT size 26529523 crc e39f7654 md5 39e9d914996324e7662720b4d5fa4816 sha1 3387763757a5e0bfb5c38b090ebfa751fec4403b )
 )
 
 game (
 	name touche-fr
-	description "Touche: The Adventures of the 5th Musketeer (DOS/French)"
+	description "Touché: The Adventures of the 5th Musketeer {Touché: Les Aventures du Cinquieme Mousquetaire}(DOS/French)"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
 	romof toa
-	rom ( name TOUCHE.DAT size 26558232 crc 62180ba3 md5 dabc88d12a7468e1e72185570efdac34 )
+	rom ( name TOUCHE.DAT size 26558232 crc 62180ba3 md5 dabc88d12a7468e1e72185570efdac34 sha1 c54b14af50a39baa21544d048d21c2d2009b4364 )
 )
 
 game (
 	name touche-hu
-	description "Touche: The Adventures of the 5th Musketeer (DOS/Hungarian)"
+	description "Touché: The Adventures of the 5th Musketeer {Touché: Az ötödik muskétás kalandjai}(DOS/Hungarian)"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
 	romof toa
-	rom ( name TOUCHE.DAT size 26475596 crc b9892561 md5 45631f52de3406c5204e1e3a5d92d50d )
+	rom ( name TOUCHE.DAT size 26475596 crc b9892561 md5 45631f52de3406c5204e1e3a5d92d50d sha1 211501b2a769a7d6148d026e55000d0c9d090f12 )
 )
 
 game (
 	name touche-it
-	description "Touche: The Adventures of the 5th Musketeer (DOS/Italian)"
+	description "Touché: The Adventures of the 5th Musketeer {Touché: Le avventure del quinto moschettiere}(DOS/Italian)"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
 	romof toa
-	rom ( name TOUCHE.DAT size 26367792 crc db6344e1 md5 14fd5d73a5a26bde1897bc3529186431 )
+	rom ( name TOUCHE.DAT size 26367792 crc db6344e1 md5 14fd5d73a5a26bde1897bc3529186431 sha1 c1db2b5147c3d886d81be4a1312571cd70aa6f17 )
 )
 
 game (
 	name touche-pl
-	description "Touche: The Adventures of the 5th Musketeer (DOS/Polish)"
+	description "Touché: The Adventures of the 5th Musketeer (DOS/Polish)"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
 	romof toa
-	rom ( name TOUCHE.DAT size 26487370 crc 642fddb7 md5 a00f9c039a6e8d6b069955b4b2119f2f )
+	rom ( name TOUCHE.DAT size 26487370 crc 642fddb7 md5 a00f9c039a6e8d6b069955b4b2119f2f sha1 10b047f15c8cd6809b5bc716f36ea1bd88add898 )
 )
 
 resource (
 	name toa
-	description "ZZZ - Touche: The Adventures of the 5th Musketeer Resources"
+	description "ZZZ - Touche: The Adventures of the 5th Musketeer Resources[!]"
 	year 1995
 	manufacturer "Clipper Software"
 	sourcefile touche
-	rom ( name OBJ size 5503572 crc 7115ceff md5 d3c81cb2f8f7eb4a4852f30264bde7ec )
-	rom ( name TOUCHE.SOG size 122208757 crc eb8291c9 md5 dfa8095faa8f43c0b923672c157c51f0 )
+	rom ( name OBJ size 5503572 crc 7115ceff md5 d3c81cb2f8f7eb4a4852f30264bde7ec sha1 3ab2a0cd5068d0e8cb2b8bf45176ed698a9b5ca5 )
+	rom ( name V100 size 3323615 crc 4a5e91e0 md5 47d6899ac472b04ec0f245c5a742cba9 sha1 277724d1a648661e3ab4a6b1add58261a6721848 )
+	rom ( name V101 size 1150028 crc 3edc4088 md5 cc3aff563f644ec0df8e4961d450d122 sha1 20eb0081b71c96342cb6506306dbc1fe1dede9c5 )
+	rom ( name V103 size 1921556 crc 9bc63747 md5 40686fc346649376b15953add8a6c7be sha1 fa3b7fe81806e84c2bc64446cc5b2560de87b0ed )
+	rom ( name V104 size 9975354 crc 0e63c8ee md5 4957717cad2394e3a10b9cdf9633d3fe sha1 a7219f88499a1c378938586965b901934a85c394 )
+	rom ( name V105 size 1408019 crc e215446d md5 8b2a223b505cd468454b568d41d1445e sha1 53fbfa9445130db742eb3f8609b62fb87bd55c5a )
+	rom ( name V106 size 2491455 crc 1c9d2bb9 md5 805fa090efbcb14663c8b41550b791ef sha1 fb4413105c834e95bc2f6df535328c0db91ff0fa )
+	rom ( name V109 size 3358904 crc 057c5901 md5 1a9207a226e9e2957427ccf137abffc9 sha1 2fd1d6a6610f32da40ce4f3265a4348660eaac68 )
+	rom ( name V11 size 2861414 crc 58f53f7e md5 7ef1f3dd22056874b6df0369d4289de1 sha1 83627be1f6274c11242845f799edad447d87ecd8 )
+	rom ( name V112 size 11956785 crc 900a0631 md5 6b3f1f66e142da8ce0c5d35030f4214a sha1 748cb1e253816a2ffedf21ef8024b4084a763c9f )
+	rom ( name V113 size 8920069 crc 867c604a md5 7cd72fb3534746d1c7db82c1ee4952a2 sha1 e4543ae55bd52cb6d25218fa58987d6a4a89bfdb )
+	rom ( name V12 size 17309171 crc 4bb90e3d md5 976bdbe572fa3c88cb6e273b26e6331c sha1 c4cb0f18bc14932e77555e65f2a5f163f21e3562 )
+	rom ( name V120 size 4649547 crc df4608ee md5 4c2dd626cdf0fa200aadbbd4fe8ea5cd sha1 97b71cecb15af323f8a0a67ca24513ddc41839c7 )
+	rom ( name V124 size 3701640 crc 116e638c md5 13d138ff20c8b9eca448f6f8e5abf899 sha1 b417d58affe6cd12f8a97ca1fbe0660011bc741a )
+	rom ( name V125 size 4628531 crc c9196e44 md5 bae71624aa096cdda3464d03743b3924 sha1 b95b649c68e01c7c737b5208a0b02557cc06fcfa )
+	rom ( name V126 size 6125370 crc f164a145 md5 9c5485af15fc0ae996c16d6d09729fa2 sha1 4cf2bc14c83921f870f1d27b593beab246b1d20a )
+	rom ( name V127 size 3439148 crc ba9d864a md5 8469c2736eb900c5501e6423074bacc3 sha1 b821d28beca15fd823c9b6a62beedee5fbca33ad )
+	rom ( name V13 size 7260867 crc 3aa2d528 md5 bb910a07297255bae1d0a659b2498593 sha1 f9a6807c618485532bd9bd624f539cb36346c996 )
+	rom ( name V130 size 1199065 crc d90b6bdf md5 c291efa400fa9be4052934996bc754b5 sha1 cdabce1439e605b7fc0637e2537334905affcfcc )
+	rom ( name V14 size 8785025 crc 40c01455 md5 cebfe8ca10402d2bfe125d7d6908ffcd sha1 89d05f43a1c2308b94b079cb9977728cabc86313 )
+	rom ( name V16 size 3978051 crc 9dbb532d md5 7559ffcf8fa1f7d656930ac12871bf1d sha1 d0019245ad4dc36b195c9c792255764ad1ef2f0c )
+	rom ( name V17 size 5901088 crc 38ef530c md5 96f0238183e8014c49e80a945a258f69 sha1 a2c6b25b89ebb98116da7cf58b4d0328d9930397 )
+	rom ( name V19 size 12811106 crc e1399662 md5 1127268b005f67063b079f7be205e542 sha1 557a77ed1ac0d33b12b1c34fff5319f29cc02399 )
+	rom ( name V20 size 1425256 crc a2b7bacb md5 dfa0102e1fae8492c634d284e06cc498 sha1 22af1982e683a9f5c52cd6c3039b0dc101a07f16 )
+	rom ( name V21 size 3526766 crc fa239656 md5 56de58c1a5d117163466b41221d6e238 sha1 2d93bff7edb694639a58f3f181a77d02b897ea01 )
+	rom ( name V22 size 348588 crc 58652db4 md5 c5153ce52a39e1686d15cb2686e42d5a sha1 8aed0c474dc4207f3ce7a1de03cf6623ceb9c54e )
+	rom ( name V23 size 105000 crc e6e149f7 md5 64cad45c406b7ccca7f5968227cf5097 sha1 0533c87a021a3eff7c4c0f91e689d4e3fbb0f3de )
+	rom ( name V24 size 8281696 crc 83ecc79e md5 cd9dd700ad0590bc00003aa64ed0212c sha1 9faaadedadc4b98d9bd3ccd7f02562a73c9f7678 )
+	rom ( name V25 size 2932987 crc 635f91a6 md5 089e118811fef76d6bc330884a35a474 sha1 37a458e4b5391b39f5677ab42c39e0f64e726597 )
+	rom ( name V26 size 640546 crc e8dea7aa md5 c088daa7208669706deea841918fd867 sha1 cf445e0ca46edb8e5add5ee70ee5f714b859c85a )
+	rom ( name V30 size 9807795 crc dcb70e9a md5 0f17ef838c7a6b4904107b4529372477 sha1 2f1f0fcfef5b1d70c77663b39cbe345b61b9c0f9 )
+	rom ( name V31 size 3852016 crc 57f3298c md5 33ac2f9f6a9cc61ac9df04ab5c554dc9 sha1 4f0178e54b2b98621e193802bbdbd1a55a15da9d )
+	rom ( name V32 size 5333845 crc ab38cf97 md5 5f601f1752eef235d90b98a4bfed3284 sha1 5c09091d5af4bafc9a04434298f3729d3abe3161 )
+	rom ( name V33 size 3301674 crc 1ac5674f md5 9b739ae64fbee5528edd2a0e6ec9f626 sha1 2ff2bad6f002da218a116e7dd777596459257177 )
+	rom ( name V34 size 5108235 crc a9ac5fa8 md5 863dcbea6e31b1d45a9a7ee7f4527540 sha1 d3eb5a277e3705df332eb7afa60420629fab61ab )
+	rom ( name V35 size 4560544 crc 2ab36172 md5 f371724d8fde8c8a0a9ecd1584449a93 sha1 5f70b57d3f39c2a4927640c0cb5e1b3dd5bc4f73 )
+	rom ( name V36 size 3981250 crc 017bd724 md5 72a605652b009b785d2304b9011e07ed sha1 aeeaa79155c3bef77510a1aafa5ee255fcc26382 )
+	rom ( name V37 size 2272884 crc fc38b8eb md5 02af0c3f65ddececc21aa873b0a71d30 sha1 4528e6d6ecd685a005e3803ba403f6ef6cf97551 )
+	rom ( name V39 size 1997228 crc 3ba754bf md5 e433feecf9628c0725e90495f1b45096 sha1 2d2546ec0b6fa5d6899ee61e51af2f2a51128ccb )
+	rom ( name V40 size 3573089 crc c66a2e5e md5 46f1eb4689d160b1ecf514e09c2eb713 sha1 c4c348a3e2c56f165fbcad7471d06caf3a200709 )
+	rom ( name V41 size 2603142 crc e8b82a30 md5 58b5fbc134f792b7a3253880162d891e sha1 b2774094afe53242825d3ee27f064f8e810f8cb3 )
+	rom ( name V64 size 4760432 crc 3392bd8c md5 de9baf554bd66ef98fab517551e438ab sha1 a4eabb6ee3cdc656a57dcc628f17c27e0c83239d )
+	rom ( name V65 size 674234 crc 537edd85 md5 69a6b9b127a84f9f6051f0cd11b22a7e sha1 84d5128d38cccd28f49520f3c0da292fe1ee9940 )
+	rom ( name V67 size 8452930 crc 14416fe3 md5 990c8aa0342c1a42be192b955b44b39a sha1 e046e2e80a506eccd2773b2d2bae5bd228cef1a0 )
+	rom ( name V75 size 14548015 crc 13cf6800 md5 1f992d2eee9aef090575fe8fe1ede84f sha1 38f4620482d1318e9689a4376060ab1f871908d2 )
+	rom ( name V78 size 1156377 crc 41b46820 md5 bc5559002bc8b4ae4afdb172b4e3a313 sha1 aade0e09a4ee2bf7aa1d4d1d41d7832de39e1a20 )
+	rom ( name V80 size 8998039 crc 9f000253 md5 6579f0a020a56a26194a447a1ded7f58 sha1 7c02e8cca61665bdb6e388af42c212541a01ed41 )
+	rom ( name V87 size 3046385 crc f9e2c44e md5 7a4abab0c4387415e22dd20795520aa3 sha1 8ebc9bdedca8d91c0cf56db5999b1107d1a55109 )
+	rom ( name V91 size 19402537 crc cbaee1c1 md5 2de1c5a29893d2a9875da57a57ff931b sha1 46de6732b62e00e797b6ee36b02153d79cc5f39a )
+	rom ( name V92 size 25069221 crc fccc93d1 md5 2534d8cb31aaf0593b4764272d9862d5 sha1 aa3b56c4a4b98a3f18b7fc5ab05ad60e4629b6ab )
+	rom ( name V93 size 19811503 crc b20f646a md5 753b548bea6b0122564abcb8ce540384 sha1 d861d9b1e020a590bb74efbd356c752f5f57bf59 )
+	rom ( name V94 size 10117723 crc b64fc8c8 md5 9cc0c1ca44ab08bca56dd6e0dc264340 sha1 3a6432a5e60b20f1d22ae103e205476f293c2b04 )
+	rom ( name V95 size 11020191 crc 4af93622 md5 8344f81383fd43e95736f83917d6999b sha1 77df84c9057dd24e72c01f75d66b40fd1c6952fc )
+	rom ( name V96 size 10377685 crc 87a82d0c md5 f8d59c56938c6a36ee888f1310203c9d sha1 05bcead437f7eeb031da69c0afd767f495879815 )
+	rom ( name V97 size 6043107 crc 71c1989a md5 65faa737f7b48a19832e5a0086f05482 sha1 c13be8ff1906d34fdd16c5916c3546d04d010834 )
+	rom ( name V98 size 7621175 crc 2413626f md5 028c86f3c6f13c292ea063819be1a171 sha1 f401b172574be792a66b275d9944d75a6c9a0f6a )
+	rom ( name V99 size 11240320 crc 5fe32e8f md5 af5d516912f02519624f031fca7fb0c4 sha1 ae029c0e0393e6e3ea3ae3f233ad84b5d57a6e26 )
 )
 

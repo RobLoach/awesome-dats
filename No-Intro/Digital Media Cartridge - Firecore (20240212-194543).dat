@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>409</id>
+		<name>Digital Media Cartridge - Firecore</name>
+		<description>Digital Media Cartridge - Firecore</description>
+		<version>20240212-194543</version>
+		<author>Arctic Circle System</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="12 Dino Games in 1 (USA)" id="0002">
+		<category>Bonus</category>
+		<category>Games</category>
+		<description>12 Dino Games in 1 (USA)</description>
+		<rom name="12 Dino Games in 1 (USA).bin" size="8388608" crc="ac335df0" md5="0b1764ae9584b18464563a4f2e003d93" sha1="fa65b370a935791474c7abc6faa0b1f2e0094d64" sha256="08c11206dab920043b67b2c318251023916a179afd2f363141663d80adf2260b" serial="00000000-00"/>
+	</game>
+	<game name="Panic Lift (World)" id="0001">
+		<category>Games</category>
+		<description>Panic Lift (World)</description>
+		<rom name="Panic Lift (World).bin" size="638273" crc="09e4c9a4" md5="03f866e06dc475fa3634c0f048683481" sha1="84c06dfc1a4adfab378265176fe0a9b2c20f98fc" sha256="d1978e52f5a9fe11d4071272ff3d9f0a04046959f7f61b0f25f8394379d69369" serial="GM 00000000-00"/>
+	</game>
+</datafile>

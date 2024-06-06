@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Demos - [CDI]</name>
+		<description>Sega Dreamcast - Homebrew - Demos - [CDI] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC-ISO</category>
+		<version>2024-01-15</version>
+		<author>Snakemeat - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Anataus 4 (2008)(Fit)">
+		<description>Anataus 4 (2008)(Fit)</description>
+		<rom name="Anataus 4 (2008)(Fit).cdi" size="4303672" crc="04c02f5b" md5="a219bb01c3cf3fe9b2123f8296c4a6be" sha1="ee514a6261411f93cde5cea09b633fc48b356761"/>
+	</game>
+	<game name="Chrysler (2005)(Fit - Bandwagon)">
+		<description>Chrysler (2005)(Fit - Bandwagon)</description>
+		<rom name="Chrysler (2005)(Fit - Bandwagon).cdi" size="6291608" crc="6dafe70d" md5="0e563254fc7a3c1c2f753f56d404400f" sha1="3ec252eb0a6494cf75f161f684465431ae353f70"/>
+	</game>
+	<game name="DC Particlez v2.0 (2005-08-02)(GyroVorbis)(PD)">
+		<description>DC Particlez v2.0 (2005-08-02)(GyroVorbis)(PD)</description>
+		<rom name="DC Particlez v2.0 (2005-08-02)(GyroVorbis)(PD).cdi" size="2004688" crc="8930e46b" md5="6f767568fc811b729cb11e04b549a8e0" sha1="b379048647b558ff343cac0224cb990c128f2b4a"/>
+	</game>
+	<game name="Delicious (2001-08-05)(Yodel)(PD)">
+		<description>Delicious (2001-08-05)(Yodel)(PD)</description>
+		<rom name="Delicious (2001-08-05)(Yodel)(PD).cdi" size="60993864" crc="ff41a2de" md5="77c1f99381545b9628ce7d6910385b8f" sha1="ce6d143c812015f88e25c9c2afaa3ac76b72af0c"/>
+	</game>
+	<game name="dose 2 (2008)(mfx - Fit)">
+		<description>dose 2 (2008)(mfx - Fit)</description>
+		<rom name="dose 2 (2008)(mfx - Fit).cdi" size="9379788" crc="b855f842" md5="a1b1abdb726befe368f389a7b01abf03" sha1="0d0ddb0d76cd505961f606a3892288abe5295d39"/>
+	</game>
+	<game name="Hex Pistols (2005)(Fit)">
+		<description>Hex Pistols (2005)(Fit)</description>
+		<rom name="Hex Pistols (2005)(Fit).cdi" size="3810761" crc="d287bd1d" md5="f3ae334f4be56fd2a9befd8b6dfc76cd" sha1="a81841f56ab37d04e78687e23c74467ecbb908cd"/>
+	</game>
+	<game name="Jenny Thinks (2004-08)(Fit - Bandwagon)">
+		<description>Jenny Thinks (2004-08)(Fit - Bandwagon)</description>
+		<rom name="Jenny Thinks (2004-08)(Fit - Bandwagon).cdi" size="8573871" crc="1b1b5d4f" md5="3608216e6c304cf7afbd1384363f0728" sha1="8321ba1dd55e47dcf46089173cbc4a106d0cb0b5"/>
+	</game>
+	<game name="Led Blur (2008)(Mindlapse - Fit)">
+		<description>Led Blur (2008)(Mindlapse - Fit)</description>
+		<rom name="Led Blur (2008)(Mindlapse - Fit).cdi" size="3021205" crc="8b243c97" md5="0778f162b4d41cc293f77f2ce7684630" sha1="036e8000b6dfed3658cbcafdae31e3e91ba0e421"/>
+	</game>
+	<game name="Megademo IV 2 (2008)(Artwork - Fit)">
+		<description>Megademo IV 2 (2008)(Artwork - Fit)</description>
+		<rom name="Megademo IV 2 (2008)(Artwork - Fit).cdi" size="7193292" crc="4874339c" md5="5cd253c523f2eefaa76d7943d993822f" sha1="d1ad02732ece84b3dfaf496c6fc73f9325abbbb7"/>
+	</game>
+	<game name="One Day Miracle (2005-06)(Fit)">
+		<description>One Day Miracle (2005-06)(Fit)</description>
+		<rom name="One Day Miracle (2005-06)(Fit).cdi" size="2661461" crc="34502a2f" md5="6be8cc6fce4870d3bb62b3ec4a382c86" sha1="150060efee903872b9b4e254ddb9b4a61e5e1e96"/>
+	</game>
+	<game name="Planet Hively (2008)(Iris - Up Rough - Fit)">
+		<description>Planet Hively (2008)(Iris - Up Rough - Fit)</description>
+		<rom name="Planet Hively (2008)(Iris - Up Rough - Fit).cdi" size="2589060" crc="264c3e18" md5="c049ca49a052376c9b7e27cc28042c20" sha1="60da2d30148856c75c86a237d90a610b89756bf3"/>
+	</game>
+	<game name="Raytracement Killers (2005-03)(Speckdrumm)(PD)">
+		<description>Raytracement Killers (2005-03)(Speckdrumm)(PD)</description>
+		<rom name="Raytracement Killers (2005-03)(Speckdrumm)(PD).cdi" size="38110948" crc="df4e8d02" md5="71d3530958abf8532d4c88d059fc02ec" sha1="0de03f88e434ece04fb67203feb15260e2d0a439"/>
+	</game>
+	<game name="Reverie (2003-12-27)(Potter, Dan)(PD)">
+		<description>Reverie (2003-12-27)(Potter, Dan)(PD)</description>
+		<rom name="Reverie (2003-12-27)(Potter, Dan)(PD).cdi" size="8389539" crc="d10a306c" md5="417342448cff3ac033f495249f129adb" sha1="6856a9aa2d6a5c2a68b70fb99f208530ec5bbcb9"/>
+	</game>
+	<game name="Sanitized (2004-12-25)(Moonhazard)(PD)">
+		<description>Sanitized (2004-12-25)(Moonhazard)(PD)</description>
+		<rom name="Sanitized (2004-12-25)(Moonhazard)(PD).cdi" size="11648127" crc="105fd1d5" md5="13de87803a91666b64d94225e4f96f05" sha1="2460d086a1180b68d670254ba5e7a70c74fe5efd"/>
+	</game>
+	<game name="Sinus Experiment (2002-08-30)(Flare - Outbreak)(PD)">
+		<description>Sinus Experiment (2002-08-30)(Flare - Outbreak)(PD)</description>
+		<rom name="Sinus Experiment (2002-08-30)(Flare - Outbreak)(PD).cdi" size="2614885" crc="baea9dd3" md5="f4efdc638265caf38431b017c0fa83ef" sha1="17825059d2212203770b47bed1f29d91f3b529ad"/>
+	</game>
+	<game name="Stercus Accidit (2006-08)(Fit)">
+		<description>Stercus Accidit (2006-08)(Fit)</description>
+		<rom name="Stercus Accidit (2006-08)(Fit).cdi" size="8372981" crc="4a215184" md5="c1777101cdff2deafbec2602aacfe468" sha1="a144c688b40864130ea309e748a496f6d3627bf4"/>
+	</game>
+	<game name="Timeless (2008)(Tran - Fit)">
+		<description>Timeless (2008)(Tran - Fit)</description>
+		<rom name="Timeless (2008)(Tran - Fit).cdi" size="9440536" crc="c94b38a6" md5="2ef4111180d3e934ff510699831faefb" sha1="7ef8e49817dd8478b751c13241db73af63a7fd92"/>
+	</game>
+	<game name="Viagra (2008)(Mewlers - Fit)">
+		<description>Viagra (2008)(Mewlers - Fit)</description>
+		<rom name="Viagra (2008)(Mewlers - Fit).cdi" size="2563346" crc="26106c89" md5="632d7f91061eb8574c15358bf512e12d" sha1="bf9cd7a92cb74e776ab20ac7bc85fad34a5824b3"/>
+	</game>
+	<game name="We Are Going to KILJU (2005-01)(Jumalauta)(PD)">
+		<description>We Are Going to KILJU (2005-01)(Jumalauta)(PD)</description>
+		<rom name="We Are Going to KILJU (2005-01)(Jumalauta)(PD).cdi" size="9629392" crc="dcbb045f" md5="f528acb94c413fc8d87fc30c28c6f976" sha1="b7278dc1d35b69fcca133cf221a902bdd2e5d028"/>
+	</game>
+	<game name="We Are Going to KILJU (2005-01)(Jumalauta)(PD)[a]">
+		<description>We Are Going to KILJU (2005-01)(Jumalauta)(PD)[a]</description>
+		<rom name="We Are Going to KILJU (2005-01)(Jumalauta)(PD)[a].cdi" size="9947439" crc="093528b8" md5="2d51dc0e0f2978714b10db70f756241e" sha1="a477081a671b5344f9b7102860f5ef3a49c508ae"/>
+	</game>
+</datafile>

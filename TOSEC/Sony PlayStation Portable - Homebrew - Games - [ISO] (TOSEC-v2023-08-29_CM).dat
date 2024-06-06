@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation Portable - Homebrew - Games - [ISO]</name>
+		<description>Sony PlayStation Portable - Homebrew - Games - [ISO] (TOSEC-v2023-08-29)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-08-29</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Kogal Kannon (2023-01-30)(Plaguelabs)">
+		<description>Kogal Kannon (2023-01-30)(Plaguelabs)</description>
+		<rom name="Kogal Kannon (2023-01-30)(Plaguelabs).iso" size="118521856" crc="6b5c91fa" md5="1c85191233684f123f7b965d6e64288f" sha1="1b20228fc84b3ebfd814f11d6be7bb58ff81683f"/>
+	</game>
+	<game name="nothing.seriOS (2020-09-25)(Plaguelabs)">
+		<description>nothing.seriOS (2020-09-25)(Plaguelabs)</description>
+		<rom name="nothing.seriOS (2020-09-25)(Plaguelabs).cue" size="128" crc="0959f75a" md5="462a95d6b9aee2535efb92ad6ac464c5" sha1="0d524734d1987cf98411591747e459ef103ed99e"/>
+		<rom name="nothing.seriOS (2020-09-25)(Plaguelabs).iso" size="128188416" crc="60bdc312" md5="1c8187a1b6fbe8407dc7135a52462e16" sha1="65761d1694a174db8b4805a2248459ee282410a2"/>
+	</game>
+</datafile>

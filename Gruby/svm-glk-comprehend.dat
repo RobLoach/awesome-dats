@@ -1,0 +1,143 @@
+clrmamepro (
+	name "ScummVM GLK-Comprehend"
+	description "ScummVM - GLK Engine - Comprehend Games"
+	category "ScummVM"
+	version v1.02
+	date 2020-12-21
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name crimsoncrown
+	description "Crimson Crown, The (Multi-OS)"
+	year 1985
+	manufacturer "Antonio Antiochia"
+	sourcefile glk-comprehend
+	rom ( name CC1.GDA size 24832 crc dd250fb1 md5 c12881cae7b1bb2448f32b0c9f322938 sha1 76b779900fbca9b5ed82251a94624e5859701d50 )
+	rom ( name CC2.GDA size 24832 crc aaa5d73e md5 5b7edc04a5008d0d7ef7672a40acb1ed sha1 20c7c2ebeb28e890bcfe0746577e574962df5f9f )
+	rom ( name CCTITLE.MS1 size 1536 crc b54fd859 md5 85d6d01d6670cc246fc48c3b343c9794 sha1 d5b244786e8ee3c29bff5e730f95f2a053171d78 )
+	rom ( name CHARSET.GDA size 1024 crc 079aff94 md5 5e9d6fc7ddbf84c9afe09fce5459e330 sha1 b58e8abc8ea6e6f5d2d31c300ff55356e8f31cc1 )
+	rom ( name G1.MS0 size 1100 crc d2408327 md5 43968587fecf96ea31fd096afa6cd1fc sha1 b6d4e48f9533a283346f16c72f2a0de9e944b028 )
+	rom ( name G2.MS0 size 1100 crc ea7cbc16 md5 05fcf1242b15fba71af60fb53d274940 sha1 8d87c416a2bb739819b59dcf1db3ceecf5f115c6 )
+	rom ( name G3.MS0 size 1100 crc ef85f39f md5 1a2b992638ccd175c3b78ae5824897ab sha1 42bbb66a7304d2495c9dd4e706120dd46f57065d )
+	rom ( name G4.MS0 size 1100 crc f960907c md5 7ab521bfd28c1b944e78ac2a463822ea sha1 ffbc87038ba8ebbb63c704d4f2630c60a0026b7b )
+	rom ( name MA.MS1 size 3840 crc c6bea6ff md5 03b86cd1e25d7b3e01865da772ccb97b sha1 27e3cf56ab6bce63ccc810e47a2a56e4ac7084c9 )
+	rom ( name MA.MS2 size 4096 crc f3b89179 md5 edf011ab9a026870114d1b0f1b4fc50d sha1 eabd3bad39eb350f0b04539b75bf137717b5faf7 )
+	rom ( name OA.MS1 size 10496 crc e9663231 md5 8987a8798b7dcf817eb7b0cd163b55fa sha1 aa721ad3eb46c8ea35edf313e2e1a60c39fb75cb )
+	rom ( name OA.MS2 size 7168 crc f88aca63 md5 1f7d859a262ef7e7022f56e2dd8a6698 sha1 fde950fb710f24bcb3b8ac3a21f57788f95e53da )
+	rom ( name OB.MS1 size 5888 crc 2228900b md5 1e0cf4f9ff6ef85a210123fbcc987333 sha1 524787bd1748b32a963f62afc40573cef1d68454 )
+	rom ( name OB.MS2 size 6400 crc 109a9dca md5 d18d8373e078ba7fd0f28c2be9e86c8f sha1 776e974393dca67c8845dedeaa016bab8d80f08a )
+	rom ( name RA.MS1 size 18944 crc 3455e6d3 md5 935f3681baaf0bb5cc519902618175f3 sha1 4e1b2f17d81e680c78a3ac41218a05af5e66840d )
+	rom ( name RA.MS2 size 18944 crc 38a82966 md5 d81135b02c1b44810b58a7419c1ff286 sha1 5649ad04042067216246ec1ebde88a48ecac844a )
+	rom ( name RB.MS1 size 15616 crc e41d948c md5 e386f0647227a90b4ea423580df7c8d7 sha1 ecb21848c4add74a2bfb9f63ca17fd842443c1e4 )
+	rom ( name RB.MS2 size 16384 crc a9e14d20 md5 ec5fd8990b1e61642a58a7fe166896f9 sha1 163a5ad4cceec2fc31fce46dd1a539d5b87546e3 )
+	rom ( name RC.MS1 size 11008 crc 9f7dac97 md5 a2e856268f9aeabd657322b7456e9d1f sha1 74fe5e16b8160186486c4f4dacfe571e00a80d7b )
+)
+
+game (
+	name ootopos
+	description "Oo-Topos (Multi-OS)"
+	year 1981
+	manufacturer "Michael Berlyn, Muffy Berlyn, Raimund Redlich, and Brian Poff"
+	sourcefile glk-comprehend
+	rom ( name G0 size 24832 crc 6e67db58 md5 a829496e983ce1d4deee7a67b955e72e sha1 f54c793e8a0446b16b6371ba5834294cbf4534e6 )
+	rom ( name G1 size 1472 crc 907cc223 md5 40da8c5299d961c5973f0207fc2798ea sha1 6257735a80ed8587e85e48d0dfeeca22dd2fc951 )
+	rom ( name G2 size 1472 crc 907cc223 md5 40da8c5299d961c5973f0207fc2798ea sha1 6257735a80ed8587e85e48d0dfeeca22dd2fc951 )
+	rom ( name G3 size 1472 crc 907cc223 md5 40da8c5299d961c5973f0207fc2798ea sha1 6257735a80ed8587e85e48d0dfeeca22dd2fc951 )
+	rom ( name G4 size 1472 crc 907cc223 md5 40da8c5299d961c5973f0207fc2798ea sha1 6257735a80ed8587e85e48d0dfeeca22dd2fc951 )
+	rom ( name NOVEL.EXE size 110780 crc 1b2eee27 md5 36f83a55a8f722dac2ab491928885b39 sha1 38ce45b06f51b09cd336064807662528fe3e3da3 )
+	rom ( name OA size 2560 crc 20f402fd md5 d029b17412371d8b76acb99baba867f7 sha1 36f583b90b0e886e3b525fdbe0d06c6d76463d4a )
+	rom ( name OB size 3072 crc 960c450d md5 a85d38d42154d5276c4a9f10d8acb6ba sha1 efa9ddb298d250f57abee61ae39e3db6848d6587 )
+	rom ( name OC size 9728 crc a878a559 md5 7ebf8347fc2973a049aeb467de954d39 sha1 3318ea50bdbef6f0ae5c3dacd865946c76386ba2 )
+	rom ( name OD size 2816 crc 39393213 md5 d4c5427c6dc7ae391233ec8aac928cd6 sha1 29290dc30f72d262c1f1bbc5a5dcb99b3c9041bb )
+	rom ( name RA size 14848 crc 60971a4b md5 28fff1d8bd73fc5463e7ad93b9a69b8e sha1 9b63caf3d81f3959eb9ae8cd43a9d5d6f5c853ed )
+	rom ( name RB size 15872 crc fcee922b md5 9177e67bfe33b4566943fca6805938b0 sha1 d8b6826e2940e8a599a8442b3fe7be2804bebf2c )
+	rom ( name RC size 19968 crc 4b76721d md5 2c0f7d7fda1b46c516dd37c68d2441ec sha1 6f59329cbabc70dfed2fc145ac1d71d728f15e1d )
+	rom ( name RD size 12032 crc a92d28bb md5 52e075e171b96e05ea007f70ad241b95 sha1 7ec0d1ec0f8787cdd05d0ba5075ae0f3f10ac7b7 )
+	rom ( name RE size 6912 crc afc7cb8f md5 0609adef0397e9ccf82601f4d78fcf2a sha1 535e15b230ee312aaf24bf2eb7229b5286b5a636 )
+	rom ( name T0 size 1536 crc 2118a52c md5 038f8701520f94776eb3440f56a524a7 sha1 0c43752440a5c07cee99dd1517396a9d53b993d2 )
+)
+
+game (
+	name talisman
+	description "Talisman: Challenging the Sands of Time (Multi-OS)"
+	year 1987
+	manufacturer "Bruce Hoffman, Raimund Redlich, and Brian Poff"
+	sourcefile glk-comprehend
+	rom ( name G0 size 23078 crc c3a7a26c md5 bf4b4afd78e8d85d86e6018ee2e257e3 sha1 4f1dde28f8332dcc307007ab67e927b280d9904e )
+	rom ( name G1 size 2016 crc 088502a8 md5 30b108587159cb437858c289596747fb sha1 70843e49435c13827530f814774f1d41cdae8eb7 )
+	rom ( name G2 size 2016 crc 088502a8 md5 30b108587159cb437858c289596747fb sha1 70843e49435c13827530f814774f1d41cdae8eb7 )
+	rom ( name G3 size 2016 crc 088502a8 md5 30b108587159cb437858c289596747fb sha1 70843e49435c13827530f814774f1d41cdae8eb7 )
+	rom ( name G4 size 2016 crc 088502a8 md5 30b108587159cb437858c289596747fb sha1 70843e49435c13827530f814774f1d41cdae8eb7 )
+	rom ( name G5 size 2016 crc 088502a8 md5 30b108587159cb437858c289596747fb sha1 70843e49435c13827530f814774f1d41cdae8eb7 )
+	rom ( name G6 size 2016 crc 088502a8 md5 30b108587159cb437858c289596747fb sha1 70843e49435c13827530f814774f1d41cdae8eb7 )
+	rom ( name G7 size 2016 crc 088502a8 md5 30b108587159cb437858c289596747fb sha1 70843e49435c13827530f814774f1d41cdae8eb7 )
+	rom ( name G8 size 2016 crc 088502a8 md5 30b108587159cb437858c289596747fb sha1 70843e49435c13827530f814774f1d41cdae8eb7 )
+	rom ( name G9 size 2016 crc 088502a8 md5 30b108587159cb437858c289596747fb sha1 70843e49435c13827530f814774f1d41cdae8eb7 )
+	rom ( name H0 size 17894 crc 9f0461f7 md5 20cf6a9531ba960b78c5477f57cd91b4 sha1 57963d1ac08e75b81a6e0fefba2f65b9f61e5880 )
+	rom ( name NOVEL.EXE size 171917 crc aa9eb530 md5 1b19a271a488183d5110079a5c994dda sha1 db3ed1551ad9442887f6e198165afe92d764bc70 )
+	rom ( name OA size 7430 crc 8407879f md5 c387cd3e4b4ee2f637e88aa8d55c0086 sha1 fc3d6420a03df04838719feab89d1cd00398f1df )
+	rom ( name OB size 4027 crc 0756019d md5 a70135a41988dd11599f9888a1810e7e sha1 9c56dafdd97b2329af76defdb5bc965fb393c798 )
+	rom ( name OE size 9420 crc 422c3fab md5 beeb508b8e2663b9de327ab22bf483e5 sha1 53929e3c7352d52532d103c1e0dcab0861425330 )
+	rom ( name OF size 399 crc aa68d4b6 md5 7b72d38080ab390729ca3927050c7eb7 sha1 c0d0e5066fbcfe96efc4757aed301e061702809b )
+	rom ( name PS size 2186 crc 86dfbf3a md5 1550938b6f78cf6c162c67a7fea35039 sha1 f3ade2be5ac3325fc348a1824deee1aca5ee3368 )
+	rom ( name RA size 33004 crc 9b6898c6 md5 ae73c443cf26078bcc77da0518f0e57d sha1 d6132deb83f95647d424a27b37461ee16f3952ea )
+	rom ( name RB size 30929 crc 4c341d2c md5 18e21cd1ce03ff8f2c05eb354ed4ded3 sha1 e5b0d2c1b07131c8ea6ee1a8da87b0a35810f461 )
+	rom ( name RC size 29062 crc 690122db md5 e71378b5fb4984a65baa984178439d88 sha1 27bb0500470ac39052235ffcea25bdc949d86787 )
+	rom ( name RD size 8322 crc 9c0ae11f md5 5ace5e2353f69375ad3338e4240014fd sha1 97692cafdc60c5692d3645629b45721d58bfefa3 )
+	rom ( name RE size 6500 crc 7a0ee661 md5 9357d42a5dd1b2b6845f2747b7497700 sha1 eb24ddc5545b033dced35c18e3b50b8375d9b15e )
+	rom ( name RF size 15785 crc 1780f70e md5 4e44c318949c92dc8cd472593c105890 sha1 9244cec530f0581637f52640c5baf63b8fb4a082 )
+	rom ( name RG size 23793 crc 6dfbec23 md5 c982ab212e7452f233a350a79d4fb7b4 sha1 cded0161412b96917758f45a572913be51b6fd7e )
+	rom ( name S1 size 117 crc 68c216bd md5 13e7fd96d676a51305f7412d91e5efde sha1 e965fe68c60d0a22e7e2d2cf6b8829db763a74c0 )
+	rom ( name S2 size 117 crc 68c216bd md5 13e7fd96d676a51305f7412d91e5efde sha1 e965fe68c60d0a22e7e2d2cf6b8829db763a74c0 )
+	rom ( name T0 size 4989 crc 95cfaca6 md5 8c5ef3c38f65856a5004be7d9efbfeba sha1 6544a0c0063f5811447e9cc1ce51d3b386785b49 )
+)
+
+game (
+	name transylvania
+	description "Transylvania (Multi-OS)"
+	year 1982
+	manufacturer "Antonio Antiochia"
+	sourcefile glk-comprehend
+	rom ( name CHARSET.GDA size 1024 crc 079aff94 md5 5e9d6fc7ddbf84c9afe09fce5459e330 sha1 b58e8abc8ea6e6f5d2d31c300ff55356e8f31cc1 )
+	rom ( name G1.MS0 size 1274 crc b9dd1e34 md5 5eae1f8088afa80cab8d81e671e84046 sha1 81b0fa4ce7b652a48675a4eb4b26dbc1030027da )
+	rom ( name G2.MS0 size 1274 crc a528fa07 md5 2e5aeefd550b4aa3a4f9c473b52ed7ba sha1 9d07fd5a5692ccd907adb3f8ba886aed7d7cf0cf )
+	rom ( name G3.MS0 size 1274 crc a653b952 md5 29650c0fe995f3d1b096cee3faff8d0e sha1 30f59a6b7124e304dd6de352d651975adca96477 )
+	rom ( name G4.MS0 size 1274 crc 0adca1f5 md5 bc0cba6bec8d593174fe216d2957290a sha1 64ad92f982ff5c52d6acb341db709dc16a65ea68 )
+	rom ( name MA.MS1 size 3840 crc 0b87b60a md5 383fd7d3efc8c4a03119634f551af0fd sha1 e1ea96a6a1b3ce780480dc42402b35ee2bb73b7e )
+	rom ( name MB.MS1 size 2560 crc 65db861a md5 5aa3ac6a2f029b282bb990a788cb579b sha1 dd364e3a8f70923e52b25df00f689332b2617e5f )
+	rom ( name MC.MS1 size 2048 crc 31bb3ee2 md5 ea8d5ebcb26962c5f0178b7167b2f464 sha1 d39c520f7f8405b1439c90adfb589c1b1a28eca7 )
+	rom ( name MD.MS1 size 2304 crc 54717451 md5 ab8202a42631a3a72eb3660f5a5f5f29 sha1 467a49e0271ae486137b457b1361755f9929f6e4 )
+	rom ( name ME.MS1 size 1536 crc 8f772415 md5 aa037b86b947f517a8e01bba0ad28228 sha1 eac18aa9810e5799be98b88ece8d9a38b52eb01e )
+	rom ( name OA.MS1 size 7936 crc 1ab17d3c md5 fa3aef97d6d65b87799f79c760f02d8b sha1 47dbf42e64a9f18d444348f04e251c8ffaab920a )
+	rom ( name OB.MS1 size 8192 crc 494a8730 md5 d80cb1121838470cb01de4c7473304e8 sha1 3857f6ed5233fd07dd9d72f120ad7e2648e441e8 )
+	rom ( name OC.MS1 size 5888 crc a27aba67 md5 d1c9e147cdad298c489e1f93872b9967 sha1 d08066dee737730f61b29fe17c6bef9e8ce46582 )
+	rom ( name RA.MS1 size 17920 crc 44dd2e28 md5 db454af438fa25583e3e8dc77ef30ad3 sha1 089a9eab0a6133253e14a373dd40e265b940302a )
+	rom ( name RB.MS1 size 12544 crc f1d235ae md5 70e14a30d425bc8d5d3e4169c789660e sha1 00c86aaa69f0427ca6e44f1c9590db042f9d0ccf )
+	rom ( name RC.MS1 size 8192 crc 52c5ba44 md5 ef9974b3e79112f185e7c4d641b55559 sha1 4b1d8f989774acdbbaf6835aa59438b8fe7afad9 )
+	rom ( name TR.GDA size 24832 crc 051c65f3 md5 6c75e143ab4fc2af9147d4f897224d49 sha1 5788cdc6f1b5e21eb5145e528a1c5f861a51cbfb )
+	rom ( name TRTITLE.MS1 size 3328 crc c632153d md5 edc15221c4978001942d636ab6ae9633 sha1 88714b393ac7ccba3bdf11d1db6d935050496634 )
+)
+
+game (
+	name transylvaniav2
+	description "Transylvania v2 (Multi-OS)[!]"
+	year 1987
+	manufacturer "Antonio Antiochia & Jeffrey A. Jay"
+	sourcefile glk-comprehend
+	rom ( name G0 size 24572 crc 5d533fc6 md5 254537dcf0fcafd728e00331505ed9f4 sha1 5a436b8a0eb3e6f2d0734149e1bd3dad83c7f766 )
+	rom ( name G1 size 1018 crc db98fed3 md5 89dff4215d7450e13d1d5980ce9eb3f3 sha1 3a96c7091cd60ce7eb8e13159cf24e94455c6103 )
+	rom ( name G2 size 1018 crc 529414ac md5 9368b068bdc4a31dd98f8a65b4aa9059 sha1 9921a45079ab37949a08a2ea3e85b72a8f6bed50 )
+	rom ( name G3 size 1018 crc e60e8523 md5 c612c12d413533dd34ae666a62e61364 sha1 17f0be12089c06f2c8d694b37af055a28e809f2b )
+	rom ( name G4 size 1018 crc e60e8523 md5 c612c12d413533dd34ae666a62e61364 sha1 17f0be12089c06f2c8d694b37af055a28e809f2b )
+	rom ( name Oa size 7344 crc 35eecd24 md5 d7e73e565c455acd69658691088e55b3 sha1 28269ad756d8416d557c1ce3487275e8fcf4015a )
+	rom ( name Ob size 7672 crc cf944a75 md5 12c642e46a3075c6ab2f6a8ae1392cb6 sha1 959073d2a0a6c48a12d4fcd91fcbe4803c2267b7 )
+	rom ( name Oc size 5369 crc 92c6bb9f md5 9c5a0d7a86794f22b9a718fb84f425c5 sha1 d59321ad5b65521a6f23008ac3a578f0eb4f8691 )
+	rom ( name Ra size 17878 crc 0624ecda md5 6eaff13fc5217472fff145c6572adc03 sha1 3343e9f5f30f9cc41059c4b1b7d69ff3ad5757fd )
+	rom ( name Rb size 12718 crc 33ced2a0 md5 47170486bfb2e430dacbcdb63728a46b sha1 249a782fb0d7e0551a2c24cae9bf66550e7584aa )
+	rom ( name Rc size 7541 crc 96287533 md5 4cad92e0968fedccc3ea4947c7df5459 sha1 3f4981cf04cd7b5f52ab886ced1d11622d614c28 )
+	rom ( name T0 size 2636 crc 686f97e6 md5 087da3ba392b421d596c1f1b984447d8 sha1 4fd675455f76d078bc7387f9c63b1457203be24a )
+)
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - CD - Games - [BIN]</name>
+		<description>Apple Macintosh - CD - Games - [BIN] (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Doom II - Master Levels for the Mac (1996)(id Software)">
+		<description>Doom II - Master Levels for the Mac (1996)(id Software)</description>
+		<rom name="Doom II - Master Levels for the Mac (1996)(id Software).bin" size="472582656" crc="16805f1e" md5="4c1181cf9a540381265b9bf4a979eb63" sha1="cc099187b6428a4d25ca5dd335e3274fac3f6d46"/>
+		<rom name="Doom II - Master Levels for the Mac (1996)(id Software).cue" size="144" crc="9e38f77c" md5="4dff272745f28db62bca17d3a5b0de7f" sha1="bd66cc5ab46cfcbd59080bacbbb621ff4ab2f98a"/>
+	</game>
+</datafile>

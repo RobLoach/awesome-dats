@@ -1,0 +1,177 @@
+clrmamepro (
+	name "ScummVM SUPERNOVA"
+	description "ScummVM - SUPERNOVA Engine Games"
+	category "ScummVM"
+	version v1.06
+	date 2020-09-07
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name msn1-de
+	description "Mission Supernova 1 {Mission Supernova Teil 1: Das Schicksal des Horst Hummel}(DOS/German)[!]"
+	year 1994
+	manufacturer "Steffen Dingel"
+	sourcefile supernova
+	rom ( name msn.doc size 4319 crc fe147f34 md5 452ad671e83b1a6d5953e8b8fd240cc3 sha1 53b39cf86f42a9b254315d4fc896e34526bfa5bc )
+	rom ( name msn.inf size 577 crc bba75a26 md5 17e766d96eef10935c7eec63b6e64ac2 sha1 fe198f44011fc424f24729c305c9adf08f7b191f )
+	rom ( name msn_data.000 size 24163 crc 7a93dc2f md5 646ec1e88e6e4f9c6721da5c04425c1c sha1 5e0a338dcd11013a51c5199acfa6166083eb94eb )
+	rom ( name msn_data.001 size 38419 crc a3036846 md5 6729b30fe64413879ddb2e4318ae95a2 sha1 38f53213e3c2c59984d3baef55f2e8056417bce3 )
+	rom ( name msn_data.002 size 38419 crc 891e862a md5 b8091c6ace629123843a4b36a7549b85 sha1 381d315359c4c84d64e264cada065157664e3692 )
+	rom ( name msn_data.003 size 51198 crc 20e67e28 md5 e99a91154343760de08f312c1d895974 sha1 3205141067f675e84c20ac8fd6f0a447ae4c885b )
+	rom ( name msn_data.004 size 13000 crc aa2005ef md5 322c3aee2cfb94ee999c6abcfdf982a3 sha1 892bf9c463c7e3c2e082dc1fcbbc63c259ae1973 )
+	rom ( name msn_data.005 size 35692 crc d419ce8e md5 320877df67dbda1e71754892cbc3e084 sha1 35d614585cff0e6df83e79ca811ad64b18f4cf8b )
+	rom ( name msn_data.006 size 4466 crc cecac066 md5 779d082bace57221ff521705f8dcf261 sha1 04092e961c90300039b201b49561ae22792fc9c4 )
+	rom ( name msn_data.007 size 34219 crc 9ce4b90f md5 f9b238d26cb4d2dbb0fb891e47a5c2ae sha1 34dbf318c1c9e383801d322fbb5015c10a9f1c3a )
+	rom ( name msn_data.008 size 31616 crc 3d384759 md5 cb9e28b29446a15813d2364cb709e56b sha1 6c16c2f40f0eb81b720f100c74e49f00992b17ba )
+	rom ( name msn_data.009 size 44134 crc c8cf8630 md5 2450528e30222723e2a479153e17c37d sha1 f68018d7e41802fad8244ab5cd364e9a4d0e9293 )
+	rom ( name msn_data.010 size 41094 crc 03a46877 md5 04aa0c108a5430236ca2ce410a67ca3d sha1 182a841d6bba5936b15f01f2ae145f8b9f8a782b )
+	rom ( name msn_data.011 size 31628 crc 4085d573 md5 225a5d903f458b5855a0644ee369871d sha1 e44a36b1673765f5d6d70177b0593d984ba3c232 )
+	rom ( name msn_data.012 size 37721 crc 92bbe375 md5 71af7cc2a762218106373ad73fd0ad3b sha1 dd62e5b2e31c2357c1bcc7430230baf9ac488d13 )
+	rom ( name msn_data.013 size 4708 crc 6b90bd13 md5 cefd64c53ad4644824c89ad15df13a35 sha1 0fc566faaf5133ce82b38c22c6c1fcbad3d0a803 )
+	rom ( name msn_data.014 size 12613 crc 12c33a35 md5 81698efa223b874dc43a40e3ea056e90 sha1 b1b0c888e5ac1d8e567a55e6f725a332ca035193 )
+	rom ( name msn_data.015 size 39286 crc b133ae24 md5 5a5f373245b9ebcb01d15f97b376865c sha1 a21ed5beb4543d4019b72de66813ad85e11dd045 )
+	rom ( name msn_data.016 size 8523 crc 26e8a801 md5 b1d2f45665273d8892af620a2de32e6f sha1 60ba5302570d1faa68d663826653ba3d698ef85f )
+	rom ( name msn_data.017 size 49390 crc fe3554ac md5 ec77f193e8037983cc559fe833bf8518 sha1 6e78606123ac8ccd6b14e14729506b37c0fb35fd )
+	rom ( name msn_data.018 size 51839 crc e1d64dab md5 47e625f4203427f346191ec064127683 sha1 f305be56feb24deb83cce91d89249fe9ffb811b9 )
+	rom ( name msn_data.019 size 18416 crc e65de8e5 md5 ded3353412a5be3ac50e716853a648bc sha1 73ee4420c11c7db0de5a456285064a22a5d910ea )
+	rom ( name msn_data.020 size 7877 crc 17f9c5c2 md5 ba9c0d510b2c9663ffffa04f00c1bb47 sha1 3135ab8b56a8e54e1aba806460cdec80e7bc22e9 )
+	rom ( name msn_data.021 size 36038 crc 818e6e4c md5 5a0e786d3cdcbb309ee73c3ea8f7045e sha1 4ccfd53c7af1402ee4c0f22fbbcaa855d1473538 )
+	rom ( name msn_data.022 size 36162 crc a534b88f md5 3b56e7dda8e5acf49f6899cc0f4bfa97 sha1 213f350274798029d2a58d14c4ba7f734260d90d )
+	rom ( name msn_data.023 size 22760 crc 41c534d2 md5 37fab5704775d1647fa58e3e20addb33 sha1 d2b61508491998f6cfc510b42768c7f642182c46 )
+	rom ( name msn_data.024 size 65208 crc 552045d6 md5 9bd3f8085803bc66aa0c5186e731bef7 sha1 1a2c0153e64ce704cf70102abc021b1290ec3087 )
+	rom ( name msn_data.025 size 30068 crc 697eb1bf md5 5c6dbaba0e0bf9d0ece7ba0073229978 sha1 5b8d23ff9710e47c6b9908e01b460890fd46f893 )
+	rom ( name msn_data.026 size 7895 crc 89199485 md5 d98b76bb620c5df6f6a749a5fc72bf0e sha1 cd08322cc2f11d52364646c58755f22e1ac0680c )
+	rom ( name msn_data.027 size 5588 crc 16ec98f3 md5 c179e821a78a3717650a51f9a7dcb98e sha1 4844419242bd30e5b6dd8edc7974c123eddd0322 )
+	rom ( name msn_data.028 size 32459 crc fc897a98 md5 932e56c9277bad80f30fa113512ad2a5 sha1 5d4c3c16b730f0b8ac88fe0756cf779a80084932 )
+	rom ( name msn_data.029 size 26582 crc b343bdc4 md5 d2c825c1964ba6930768e1bd425b796e sha1 37670485eb9c2f674df876cc0856d046d2c0de47 )
+	rom ( name msn_data.030 size 20434 crc e948917f md5 033c8532dba9bdeb8007000ac70fe875 sha1 6b32bafc60110c70c54791fd3a0ba92f4b1e6749 )
+	rom ( name msn_data.031 size 23600 crc 44e68d93 md5 147b4733fd198266b6ae3057f264888f sha1 c44d07664cb09f0d3090a57d9e2d6bb70ca20fb8 )
+	rom ( name msn_data.032 size 19617 crc da1ff300 md5 40df19f48ee29083ed8cc80ede541d55 sha1 a65a4a2cde4124df7e9e5ecdedcc087c89a52ab3 )
+	rom ( name msn_data.033 size 27937 crc 89c984b9 md5 6222f56dc238f9954d003486f67b063a sha1 9d1c9b969f5d546f6e9bdc863e93fd3331b6a3ec )
+	rom ( name msn_data.034 size 54268 crc 9577485c md5 a32d05b84d6969318fa034e12c81a266 sha1 5e9c10094290688930c47fcdb77a4a4c2bc52ac3 )
+	rom ( name msn_data.035 size 20807 crc ff0636a5 md5 525b421f76772bbae2aff2350ed1d1ac sha1 248f0eb43c2d4fa910d6dcf8bfe4132b3ec24444 )
+	rom ( name msn_data.036 size 26143 crc 48da4d16 md5 000f8f2089167e0272577f8822ee1fa0 sha1 0cfcce7b82bae560bad8d2075dac0b80e594ecef )
+	rom ( name msn_data.037 size 17733 crc 48ffd661 md5 b3fa23dec1c5884dca50d185aa123218 sha1 c8c5789c5aebd9d43c2024aa07cf3cb08da3899a )
+	rom ( name msn_data.038 size 27226 crc 9324bfa0 md5 4cffa817430c29fcb5661b30201d19cf sha1 2751d8644954e1c9baa5f5667c5337ba1db8bb55 )
+	rom ( name msn_data.039 size 17052 crc 50fb7f4d md5 7b51d7ec5796592aa201525daa7bc313 sha1 3444d4c065719b87dd78a792813b5cdb3e0539ab )
+	rom ( name msn_data.040 size 27449 crc 4783bf00 md5 b119c6929e106bc4d95ba8a3b4c3474c sha1 4449db445215bfea991c7a7a38ef836d914560d5 )
+	rom ( name msn_data.041 size 25709 crc 11b3266d md5 01dff1962f4dde24dc153732e9d17680 sha1 7c08d238f3e014b9dea121fea916a63e89c4575a )
+	rom ( name msn_data.042 size 21915 crc 02463cf0 md5 851aa97f1aa4b069d8608ad7fe381a11 sha1 637026380742a8d62b93621560921b0920e6f86a )
+	rom ( name msn_data.043 size 44992 crc c798d2dd md5 8d29341ed89d5d764429e38a996c2f5a sha1 b5d7ef9c779e4ff5f7541ada372640db66678f0f )
+	rom ( name msn_data.044 size 24010 crc 5e1f0fea md5 86d6c31fd1dd44685930a5c5c1c3996c sha1 2b7c23d8e1462bf605623e477e6778a8f6e0b74e )
+	rom ( name msn_data.045 size 28010 crc b224abfa md5 859e49da7259d3b8d9b15b09beae8aef sha1 18f9978fb50a2644f392a9ece2e129fc787ccb1d )
+	rom ( name msn_data.046 size 10030 crc a7b7c8cf md5 c7298ab8febfee8816b0bd9e257555ee sha1 36d933e0f3fc103f5f760303d58e12d487280924 )
+	rom ( name msn_data.047 size 30020 crc 1770b1c1 md5 17106265ce80658874229774ef624dba sha1 1b43f21e47b4858cd2ffdad0029d5857eb366a91 )
+	rom ( name msn_data.048 size 37540 crc e5e213b7 md5 2c49de9919fac44381577538fb2fb863 sha1 f8bf524bf2d28cee2c11da301556ec26a50d6244 )
+	rom ( name msn_data.049 size 159216 crc 9c26ae56 md5 42aaded0c4a991d64a905c83d7122dc3 sha1 af42c8b184053d7056e1574b0d8f20e12b872c09 )
+	rom ( name msn_data.050 size 42796 crc b41e7789 md5 608f6648528a6ae949131156107b03c2 sha1 df4683daf62ce503b560fbc13e5ea103c633f1b8 )
+	rom ( name msn_data.051 size 3610 crc 564d7ef2 md5 559f0bc123f985dc24fd1b17f8841675 sha1 b47768d82b9e7e326b27f3cb05717796344e01d5 )
+	rom ( name msn_data.052 size 139192 crc 671589cb md5 6a180d2c549ef432bee283f768a05ccd sha1 beef810eebfa37e6b30b94a88922bb920bbe6008 )
+	rom ( name msn_data.053 size 38010 crc e6a61595 md5 d57443c82e53aba1e00cf1b2d02ae1a1 sha1 4b79012dc2234b2c8899b0a9ec7e383c00b671ac )
+	rom ( name msn_data.054 size 32050 crc 49df62a9 md5 532a60fbe4e004eaf47078971c166cae sha1 0ce29dfa5511acd5831da399f77177555dd2fac5 )
+	rom ( name msn_data.055 size 4264 crc 5c52b6d2 md5 139e66e731b8d22a85219e8b27afbc2d sha1 000e721130ed679552691efb7abd52f56dba0243 )
+)
+
+game (
+	name msn1
+	description "Mission Supernova 1 {Mission Supernova Part 1: The Fate of Horst Hummel}(DOS)[!]"
+	year 1994
+	manufacturer "Steffen Dingel"
+	sourcefile supernova
+	cloneof msn1-de
+	romof msn1-de
+	rom ( name ENGLISH.ROM size 26 crc 6e9d2b11 md5 cb7e5a34d6640742d82160f51fa6cba2 sha1 b1661e2a2731152f6e407578c66839f6154cb830 )
+)
+
+game (
+	name msn1-it
+	description "Mission Supernova 1 {Mission Supernova Part 1: Il destino di Horst Hummel}(DOS/Italian)[!]"
+	year 1994
+	manufacturer "Steffen Dingel"
+	sourcefile supernova
+	cloneof msn1-de
+	romof msn1-de
+	rom ( name ITALIAN.ROM size 29 crc c833e994 md5 8837bcb860f2b573382c59ec5286528c sha1 2e242d609f7175cc5b2921ecdb7a4ef47ecc8572 )
+)
+
+game (
+	name msn2-de
+	description "Mission Supernova 2 {Mission Supernova Teil 2: Der Doppelgänger}(DOS/German)[!]"
+	year 1994
+	manufacturer "Steffen Dingel"
+	sourcefile supernova
+	rom ( name ms2.doc size 1477 crc bfd64e69 md5 f486ece6865e0cbcb2684956751f5e5c sha1 04a6347de1b9f28ff43e9ec81dd418470d0fb532 )
+	rom ( name ms2.inf size 577 crc bba75a26 md5 17e766d96eef10935c7eec63b6e64ac2 sha1 fe198f44011fc424f24729c305c9adf08f7b191f )
+	rom ( name ms2_data.000 size 24805 crc 6f26aeef md5 eb8ca01d4318f932639f747d61feb447 sha1 8ac38995dbe1732d2434d015b27a3acae169a84a )
+	rom ( name ms2_data.001 size 27727 crc ca5b872d md5 c144203b215c1722b5166db20e5f136b sha1 9c6793faeba055af1366e9904bf5728f936fa107 )
+	rom ( name ms2_data.002 size 46914 crc b31329e9 md5 167d79fb02aa1630dd966a0aa00a66cb sha1 968b7a71ea83093b7d40aa7425103360f7d48359 )
+	rom ( name ms2_data.003 size 25600 crc 0e149ba5 md5 ef5d96f440b3e5db78b6b52d32b77ac3 sha1 d636fbb0dea06f0fcd62e3f2104947cd855b6010 )
+	rom ( name ms2_data.004 size 26063 crc 2cfb1672 md5 c168895d8f914490046fea999b3339b0 sha1 765f998f525c86d2266475006bd0dd386f18d548 )
+	rom ( name ms2_data.005 size 29431 crc d6a0c441 md5 4aa39413f9ced1af75294a44dd8ee24c sha1 f3c6f2d8ed7f54d54bfd50276fcfcc3ce8c25db0 )
+	rom ( name ms2_data.006 size 25152 crc 8414a8b9 md5 5c51417589bf299178e1528c6efb6da5 sha1 2a60d28f5778735191a23173370a765ae5ec8e63 )
+	rom ( name ms2_data.007 size 17214 crc 4c21684e md5 6838795c786002a6addd01732b0d0d56 sha1 1f263d011567a6c65f0480190cd99d36c37a3875 )
+	rom ( name ms2_data.008 size 23854 crc 6b1fc82a md5 867f212400847ab0c68de1712f9d84cb sha1 5bfc6339cba82f0b1110c75cc9d31a42f8328a68 )
+	rom ( name ms2_data.009 size 91855 crc 63fe2774 md5 3195ab0e335389d845cce7c7cc30e505 sha1 aa375d1a592631eb1ff40f2145928eb3ec07e7f5 )
+	rom ( name ms2_data.010 size 67453 crc 5050f13a md5 ac1f7e70f4e2e8a7211bf2d1c65fcecf sha1 6b7946773a3212c61c6e394284bc9119bdc07a62 )
+	rom ( name ms2_data.011 size 36917 crc fbcf2d45 md5 9d06ba6fbc843299a27b81843be5197c sha1 809d2759fb74682c8845a6a0debe0fe97b2dd0e2 )
+	rom ( name ms2_data.012 size 122771 crc f67aef82 md5 3e504b36a66ca506657b0555df6e04f5 sha1 33a1c17711ab3437456a15e0be133898fc48563d )
+	rom ( name ms2_data.013 size 54374 crc f978f703 md5 9bee415b3272c258c2b3af96b34c2541 sha1 289ebf7388ad3bb44f1c923766230968fbe5cf6f )
+	rom ( name ms2_data.014 size 65223 crc 481b1c19 md5 d0d8ba89d1cb36fdd39cb8bf8925aea8 sha1 0d039da056a50fbc19733b3f29d295d8dec31caa )
+	rom ( name ms2_data.015 size 56690 crc 52c6ef4d md5 220994b5495a163b33ad79c91d301207 sha1 4d9ac4ff11d0e91282edfcc11da66409203a3e1d )
+	rom ( name ms2_data.016 size 30277 crc eb326530 md5 e68a0b4fba1b98105146f274b370e76c sha1 9852f54da11c2fa78b4afda2caeb6e7a8c5cf37e )
+	rom ( name ms2_data.017 size 48939 crc 37b52745 md5 aad6186aed0518836cd14bf547effacd sha1 a83d535a7bc153ebaf78a0c06fd82b5930b0a431 )
+	rom ( name ms2_data.018 size 43815 crc 630b5c03 md5 36367d45d480168cb9b3e44b906fc353 sha1 eb4e32db850cc5fd76ef97b6d1202897cf190ccb )
+	rom ( name ms2_data.019 size 27213 crc 98e6b69c md5 27049242bfad2c3fa23859244249fb7b sha1 ac0a615115f1fed2405edf2ac37a1a649a94f709 )
+	rom ( name ms2_data.020 size 29171 crc 472eaab1 md5 4f81e36c1c28d3d2787e4985218d06cd sha1 c77906483f9c62630e67056247a26185aacf787a )
+	rom ( name ms2_data.021 size 26493 crc b57c3289 md5 e8eff70382887c86f751ea1fa3e61bf0 sha1 585663eb1a55182ae2a481127ec13e0a4395f868 )
+	rom ( name ms2_data.022 size 24435 crc afc59ee2 md5 6ce874374364da8ef5fd3c90675c2e75 sha1 838e363618b6f75852644879ce54df6e96bb5a13 )
+	rom ( name ms2_data.023 size 25793 crc a2763ed9 md5 56f27c9fd479145c4cfb8234ccb6e9a8 sha1 59f8fb715f9423dbe97d045d2baf2ac3f78c0f82 )
+	rom ( name ms2_data.024 size 19697 crc d189fdb8 md5 74f8768129a1bd671d56b4cdad747cec sha1 c636f7cadb5ad537f1e95031b8d4c674263d81ec )
+	rom ( name ms2_data.025 size 20319 crc a92fefb0 md5 ea99ad52e2001025840ced54fad8087d sha1 b09139cf9320eac7675d4164271146d567c68699 )
+	rom ( name ms2_data.026 size 20711 crc c7c67b31 md5 a701d02222d11404f4267796d7728334 sha1 7bde6d63607bf22ab259f0db7a2f9b4d7012d657 )
+	rom ( name ms2_data.027 size 59296 crc 97b9cf40 md5 5753e4959ceccebf28814c16c95d68ea sha1 5b6264acdd0ed43ff35aa89ac992fb782141355f )
+	rom ( name ms2_data.028 size 35176 crc 15a2c894 md5 fe0d29206c2da17f8f3869db1917b531 sha1 b403e0b19d38d6f449a9e9bd1f60995a007c11df )
+	rom ( name ms2_data.029 size 21379 crc 0af4c30e md5 376d27eb203153bfac3168e0f4e1379a sha1 409d091f8ade6b3075e57d441bbf7db1a962ab45 )
+	rom ( name ms2_data.030 size 6836 crc 1ceae841 md5 61695db4812e41357a771abeef7a0623 sha1 645d7b341143882de515fb83b7f32e7cab2c02a1 )
+	rom ( name ms2_data.031 size 1664 crc 6e86f0ce md5 fe9f1cec9f971f28703d0052d4bee600 sha1 f8c802016fcfab5a6a34bde1dcfe087e980418f7 )
+	rom ( name ms2_data.032 size 1946 crc dffe54b5 md5 1c66426de80ee811b956d88f9616f508 sha1 5c51b6e484c87f465c7299e45387e1499d85aeb7 )
+	rom ( name ms2_data.033 size 9014 crc 008f726d md5 caa763e18df487cbcf817d4e62d3e41d sha1 5c6b193be147a16e097dffbf8b1f443a0d236f28 )
+	rom ( name ms2_data.034 size 15411 crc f44f483e md5 fd7d93ab199b9af5ae79228692ca1989 sha1 2ff115ff462e7dd432bfc92d65321b769457fec1 )
+	rom ( name ms2_data.035 size 18963 crc 9280a6bc md5 f3642abbe969350b0120ad8a47e4a591 sha1 33909b4d340b1b432958bb94347bd16fdd46654f )
+	rom ( name ms2_data.036 size 6021 crc 7896750d md5 35a31ff64a874bcc60195d599a0b5f6c sha1 440dc66543b19753e58a1ef17bf90571a0aa3d4a )
+	rom ( name ms2_data.037 size 6307 crc a4946ffd md5 60e4e61b79530622af21d794fbe141be sha1 3a8231a8a2a08d3b8ea34a5e8dbda26b1ddfeaf0 )
+	rom ( name ms2_data.038 size 38419 crc 493a4796 md5 b31d7a46d9235a04e36230a023c4cb4f sha1 e50aaf8f466b22a59c67ac11ce2f971db6885206 )
+	rom ( name ms2_data.039 size 6752 crc c3c2cbe2 md5 e5fc33ce61d165e1d90dfcf10fb41a22 sha1 d8cc03b6117f8b6ae498ae5020f7282ddb32b0e9 )
+	rom ( name ms2_data.040 size 53998 crc 8f94ddb2 md5 7bd9e1e496229abc93c52acef9b129c1 sha1 d82602ba6af54cb90dc181d413a1dcdc090f0e54 )
+	rom ( name ms2_data.041 size 11953 crc 4b610528 md5 7ef93a23c0ab61d2b17ba3a8ce32fd59 sha1 82b8f7cfc19ea91d7819be491d9234fd40973e63 )
+	rom ( name ms2_data.042 size 49018 crc 2ec60338 md5 830ef552e02baeba41109377cb014962 sha1 9812c8df1cbcdc68443d225555fa9d364e85ff5e )
+	rom ( name ms2_data.043 size 16463 crc acf168b4 md5 8ee5c19aac3f8c7600e7bdf424c0dffd sha1 cd2c597fb2904db9269b17705172fb6d289bea5a )
+	rom ( name ms2_data.044 size 23611 crc f53b8ca0 md5 f4708941aa9d88491c2a6fd4a229f528 sha1 000bf39a4d714dd019f98b9fddca01565c0da71a )
+	rom ( name ms2_data.045 size 38412 crc 165ced8a md5 66b1a838f9f2d397791e784ab20570df sha1 5ad29c392ffd6584aaa1f8fe533c15c8a79739c5 )
+	rom ( name ms2_data.046 size 41073 crc 85f9dd25 md5 1d94068c23d4303ca4d1453ef373c992 sha1 6219d4fc016843f5af5238d0bc4d84f21f3268aa )
+	rom ( name ms2_data.047 size 18030 crc e1eb766f md5 ed24e3f213b6ded4ee6614f633ce5b58 sha1 a7850f13f49f78082ad0d93a8c818cb719fda1c0 )
+	rom ( name ms2_data.048 size 6040 crc 7ad53158 md5 e8ecf250e1cf1471c5375ab982f28626 sha1 8dd4ca0b949cfe6261ac49af0aa57035fa401d68 )
+	rom ( name ms2_data.049 size 33020 crc c699bdb9 md5 aa7f72dea18bbc27c5513f0bb6175587 sha1 d8e55fcd7e95406f26dc7dca9d80e9526078cef2 )
+	rom ( name ms2_data.050 size 3610 crc 564d7ef2 md5 559f0bc123f985dc24fd1b17f8841675 sha1 b47768d82b9e7e326b27f3cb05717796344e01d5 )
+	rom ( name ms2_data.051 size 10530 crc 25d55b42 md5 58194b47e9715cfc019d621555ca7315 sha1 8a3aab2c947ecb22aa53f399dd60b15c3c8911b2 )
+	rom ( name ms2_data.052 size 117476 crc 89169288 md5 7d087968f34416c8df295863ec02b75e sha1 935648ccc55ed623d3c2fee9e009789056b9ae18 )
+	rom ( name ms2_data.053 size 40030 crc ac57a463 md5 c01e337dba963153e69ff6ccf40af674 sha1 81f91bf410979ca2d98626342d234211d79a9f8d )
+	rom ( name ms2_data.054 size 19010 crc 6122b6be md5 6a2c5136d88762e93a526a78aab44f65 sha1 8996c7a67b3caca1c36c5a005a4a9cfbff2de7d6 )
+	rom ( name ms2_data.055 size 30240 crc 4bed0504 md5 b5a54067a20b884afc370d7a9d18abd5 sha1 8222647c9a5bbecb116e63198adbd90e61df1f64 )
+	rom ( name ms2_data.056 size 73384 crc c024721b md5 0a8560f9bd0ca6d29115939c683b40d8 sha1 95e9a7dbb72aa2db8f18403998427ef5321812be )
+)
+
+game (
+	name msn2
+	description "Mission Supernova 2 {Mission Supernova Part 2: The Double-Ganger}(DOS)[!]"
+	year 1994
+	manufacturer "Steffen Dingel"
+	sourcefile supernova
+	cloneof msn2-de
+	romof msn2-de
+	rom ( name ENGLISH.ROM size 26 crc 0acdbdc2 md5 fdd8e8865907902b97aefa3704e4aa20 sha1 34c04fa2170b5890e2721adb54d90c3d998808c9 )
+)
+

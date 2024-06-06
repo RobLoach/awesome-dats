@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM LURE"
 	description "ScummVM - LURE Engine Games"
 	category "ScummVM"
-	version v1.01
-	date 2016-04-03
+	version v1.11
+	date 2022-01-19
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,50 +11,96 @@ clrmamepro (
 
 game (
 	name lure
-	description "Lure of the Temptress (VGA/DOS)"
+	description "Lure of the Temptress (VGA/DOS)[!]"
 	year 1992
 	manufacturer "Revolution Software"
 	sourcefile lure
-	rom ( name DISK1.VGA size 618944 crc 354736ed md5 e45ea5d279a268c7d3c6524c2f63a2d2 )
-	rom ( name DISK2.VGA size 659616 crc ee6d4cf8 md5 ff4ba260451e403c10ed5f5b62035657 )
-	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef )
-	rom ( name DISK4.VGA size 618208 crc a80dbb8c md5 f4bf6832c0da3b674751c2cd4100425a )
+	rom ( name DISK1.VGA size 618944 crc 354736ed md5 e45ea5d279a268c7d3c6524c2f63a2d2 sha1 090d8935f9e3366908cf6b48a4c0bc3fe1c5acda )
+	rom ( name DISK2.VGA size 659616 crc ee6d4cf8 md5 ff4ba260451e403c10ed5f5b62035657 sha1 c1f2f9ef4a6f684a1356cdeea2c02371dbbc30fb )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 618208 crc a80dbb8c md5 f4bf6832c0da3b674751c2cd4100425a sha1 19ac9a96100360f275898063d1fe01c748d121ef )
 )
 
 game (
 	name lure-1
-	description "Lure of the Temptress (EGA/DOS)"
+	description "Lure of the Temptress (EGA/DOS)[!]"
 	year 1992
 	manufacturer "Revolution Software"
 	sourcefile lure
-	rom ( name DISK1.EGA size 599904 crc 8484f142 md5 9355d15a03ff5f43513ff7d743f685bc )
-	rom ( name DISK2.EGA size 551680 crc 3a15a873 md5 db1cf2ba2181892c4b2f95288d06e121 )
-	rom ( name DISK3.EGA size 447264 crc 6a7f0f6c md5 c9c825b4d1db7e14e2aa3767f4a70e57 )
-	rom ( name DISK4.EGA size 534912 crc ea28aadd md5 7f7187ddefdb8392a17e57def12b01ec )
+	rom ( name DISK1.EGA size 599904 crc 8484f142 md5 9355d15a03ff5f43513ff7d743f685bc sha1 2b387ffd025a6eab709907958887fda9e033957c )
+	rom ( name DISK2.EGA size 551680 crc 3a15a873 md5 db1cf2ba2181892c4b2f95288d06e121 sha1 ee03c44fb0a812419800ca0b88070af1e3c25d76 )
+	rom ( name DISK3.EGA size 447264 crc 6a7f0f6c md5 c9c825b4d1db7e14e2aa3767f4a70e57 sha1 dbc8310da0dcd2ab84f063eacc59d988cf6dfcfe )
+	rom ( name DISK4.EGA size 534912 crc ea28aadd md5 7f7187ddefdb8392a17e57def12b01ec sha1 3608d88636dfdab7ea257173122844d99180fc31 )
+)
+
+game (
+	name lure-2
+	description "Lure of the Temptress (VGA/DOS)[Konami, 1992-08-04][!]"
+	year 1992
+	manufacturer "Revolution Software"
+	sourcefile lure
+	rom ( name DISK1.VGA size 615008 crc cf3c18f1 md5 099a3c11a46474981de974facb574f31 sha1 4441b8e27ccdd42233d03a3f33c3c99c8c0657d7 )
+	rom ( name DISK2.VGA size 659616 crc 7b954009 md5 31e6c9dfbcf0b50fadf4fc164fe3f351 sha1 c6713c11796e370e5d03da11529f687bc20687b6 )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 617984 crc ed0e14ee md5 769d70064af97605ffd7f2155987c5bd sha1 15d93dc1a4c66b26e795b7b863b29f8c2a21fada )
+)
+
+game (
+	name lure-3
+	description "Lure of the Temptress (VGA/DOS)[Konami, 1992-09-23][!]"
+	year 1992
+	manufacturer "Revolution Software"
+	sourcefile lure
+	rom ( name DISK1.VGA size 612352 crc 794e5939 md5 74a52c98c31e599187abb3d5a00a3ede sha1 3b0e1f3f3374b6db30a3681a40c6787ae9a008a1 )
+	rom ( name DISK2.VGA size 659616 crc d83e1a98 md5 aa6c698397ab954572970e31ea788bd7 sha1 5b1fcfe39e18cfee7eeccdf1f6a8104f07a732e8 )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 617984 crc ed0e14ee md5 769d70064af97605ffd7f2155987c5bd sha1 15d93dc1a4c66b26e795b7b863b29f8c2a21fada )
 )
 
 game (
 	name lure-de
-	description "Lure of the Temptress (VGA/DOS/German)"
+	description "Lure of the Temptress (VGA/DOS/German)[!]"
 	year 1992
 	manufacturer "Revolution Software"
 	sourcefile lure
-	rom ( name DISK1.VGA size 610496 crc f85d34fb md5 00469bde05e79e634c3dd3931d3a708a )
-	rom ( name DISK2.VGA size 657408 crc 2d5696ff md5 40363f2a1ce47d58b623331087b62663 )
-	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef )
-	rom ( name DISK4.VGA size 610400 crc 2169f3aa md5 10c5b6cc96463141fc73b40e01686bc2 )
+	rom ( name DISK1.VGA size 610496 crc f85d34fb md5 00469bde05e79e634c3dd3931d3a708a sha1 e1b4ba0aa183d5907b6fd904710d0b6143514425 )
+	rom ( name DISK2.VGA size 657408 crc 2d5696ff md5 40363f2a1ce47d58b623331087b62663 sha1 ea39c831d69beaba6336bbc016872aee251cc06d )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 610400 crc 2169f3aa md5 10c5b6cc96463141fc73b40e01686bc2 sha1 cf7e3fdb5294b50035f94ff844f4a6d8fdf741d2 )
+)
+
+game (
+	name lure-de-1
+	description "Lure of the Temptress (VGA/DOS/German)[a]"
+	year 1992
+	manufacturer "Revolution Software"
+	sourcefile lure
+	rom ( name DISK1.VGA size 610496 crc 9f770e8a md5 4c4e1428e0dc65feda6e630acee2c40e sha1 9b7c9f64a1139c438fd5e780365c27aa0d09a8c5 )
+	rom ( name DISK2.VGA size 657408 crc 660435ee md5 b3527799cb04c92a08d30866855ea7bf sha1 ef5863662ef37f9d1700ef369e1525253704d757 )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 610400 crc 2169f3aa md5 10c5b6cc96463141fc73b40e01686bc2 sha1 cf7e3fdb5294b50035f94ff844f4a6d8fdf741d2 )
+)
+
+game (
+	name lure-demo
+	description "Lure of the Temptress |Demo|(VGA/DOS)[unsupported yet][!]"
+	year 1992
+	manufacturer "Revolution Software"
+	sourcefile lure
+	rom ( name DISK1.VGA size 621984 crc a53bed3e md5 8e38177adc687b77193983f90e2afebe sha1 3818d73cbb533407eb96dc2d8fe7c42d24845df4 )
+	rom ( name LURE.EXE size 97324 crc c8259b85 md5 0027f8fc1440ade2a2f86f80e0dd3c57 sha1 f2c7d46da84da7bb7380d1e6c0ebf06e88777f77 )
 )
 
 game (
 	name lure-es
-	description "Lure of the Temptress (VGA/DOS/Spanish)"
+	description "Lure of the Temptress (VGA/DOS/Spanish)[!]"
 	year 1992
 	manufacturer "Revolution Software"
 	sourcefile lure
-	rom ( name DISK1.VGA size 598816 crc 66bf8ed4 md5 8ffb491147a404428146dafc9d5baf8b )
-	rom ( name DISK2.VGA size 657248 crc e64923fe md5 55a6399a280a1b33843126a78b094294 )
-	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef )
-	rom ( name DISK4.VGA size 610016 crc e9b2286c md5 97b475975728571ee50ea241d2ac7ec8 )
+	rom ( name DISK1.VGA size 598816 crc 66bf8ed4 md5 8ffb491147a404428146dafc9d5baf8b sha1 10827557041448887949e0e19c8de1a7d7934c41 )
+	rom ( name DISK2.VGA size 657248 crc e64923fe md5 55a6399a280a1b33843126a78b094294 sha1 245122b70a8418302a6d5d0d6f1164704d879daa )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 610016 crc e9b2286c md5 97b475975728571ee50ea241d2ac7ec8 sha1 8edd3a68dacf715b62706d90f79eef221b059d76 )
 )
 
 game (
@@ -63,10 +109,10 @@ game (
 	year 1992
 	manufacturer "Revolution Software"
 	sourcefile lure
-	rom ( name DISK1.VGA size 603648 crc 62dfb28b md5 2e6c42dbc76ba4f329261f1ff7013309 )
-	rom ( name DISK2.VGA size 659488 crc ce08e500 md5 4402bd5689a2b8c257a27ac8d7317419 )
-	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef )
-	rom ( name DISK4.VGA size 609984 crc 21cf36cf md5 5fdad45dcff063bcd9e97294dfa6b8a8 )
+	rom ( name DISK1.VGA size 603648 crc 62dfb28b md5 2e6c42dbc76ba4f329261f1ff7013309 sha1 ff2ab00384e7529c62babcfaa06f59982679667a )
+	rom ( name DISK2.VGA size 659488 crc ce08e500 md5 4402bd5689a2b8c257a27ac8d7317419 sha1 fc48e556895c39e6e4aa3c7434890910148d97ff )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 609984 crc 21cf36cf md5 5fdad45dcff063bcd9e97294dfa6b8a8 sha1 ee19bcca312656e04560b621febdfb7e45a26da1 )
 )
 
 game (
@@ -75,10 +121,10 @@ game (
 	year 1992
 	manufacturer "Revolution Software"
 	sourcefile lure
-	rom ( name DISK1.VGA size 598944 crc 705e70b6 md5 13cc7c64de578e05e64857dbf123b1b8 )
-	rom ( name DISK2.VGA size 656800 crc 9a3c7a83 md5 b4dba2c20431d9135ff67ef5e28c1bec )
-	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef )
-	rom ( name DISK4.VGA size 609536 crc d3528154 md5 981863a68aaceda172bb0a5f313925e1 )
+	rom ( name DISK1.VGA size 598944 crc 705e70b6 md5 13cc7c64de578e05e64857dbf123b1b8 sha1 e477ac4b393af28615372c003200083575a0b3c4 )
+	rom ( name DISK2.VGA size 656800 crc 9a3c7a83 md5 b4dba2c20431d9135ff67ef5e28c1bec sha1 12aff7bbefe3304e7c0b051af244026b088e9e3d )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 609536 crc d3528154 md5 981863a68aaceda172bb0a5f313925e1 sha1 a9b9b1d4a12e0ce593c42e2a1e885a08b9a0fd5b )
 )
 
 game (
@@ -87,21 +133,33 @@ game (
 	year 1992
 	manufacturer "Revolution Software"
 	sourcefile lure
-	rom ( name DISK1.EGA size 583392 crc 47d80235 md5 da86a49fe0fbb0ac16e0038d04fa2541 )
-	rom ( name DISK2.EGA size 551680 crc 6555961d md5 3a9d15274f7c366ab3512bf4695da83c )
-	rom ( name DISK3.EGA size 432800 crc eecc927d md5 ebe90538bda66dfa9c9c86ed3192eed8 )
-	rom ( name DISK4.EGA size 527840 crc a606193a md5 6795ec38567190a0c0e1e890c767f4b6 )
+	rom ( name DISK1.EGA size 583392 crc 47d80235 md5 da86a49fe0fbb0ac16e0038d04fa2541 sha1 3ab934a260b0860bf768c284b4e0ebf34435b9e3 )
+	rom ( name DISK2.EGA size 551680 crc 6555961d md5 3a9d15274f7c366ab3512bf4695da83c sha1 e217a7b3ea932b1e1da0be2f7d4f734b68d15658 )
+	rom ( name DISK3.EGA size 432800 crc eecc927d md5 ebe90538bda66dfa9c9c86ed3192eed8 sha1 c2698946c6eb8a171ff3132445848137184c2804 )
+	rom ( name DISK4.EGA size 527840 crc a606193a md5 6795ec38567190a0c0e1e890c767f4b6 sha1 649a0d7c16bd042823532fbdaca652e9cb10d8ab )
 )
 
 game (
 	name lure-ru
-	description "Lure of the Temptress (VGA/DOS/Russian)"
+	description "Lure of the Temptress {Соблазн искусительницы}(VGA/DOS/Russian)[Old-Games][v1.0][!]"
 	year 1992
 	manufacturer "Revolution Software"
 	sourcefile lure
-	rom ( name DISK1.VGA size 639552 crc 0a48987e md5 e7f052e4d49b0c81ab82752813a5d420 )
-	rom ( name DISK2.VGA size 659552 crc 3f58b96c md5 487a08c334ed1a7f0a92c65e82700e01 )
-	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef )
-	rom ( name DISK4.VGA size 617920 crc 8ec55a65 md5 56e88cf1220040c8dc814263129ac049 )
+	rom ( name DISK1.VGA size 639552 crc 0a48987e md5 e7f052e4d49b0c81ab82752813a5d420 sha1 71653eb0fa0174a353b3704d718d3fe10fbfacc1 )
+	rom ( name DISK2.VGA size 659552 crc 3f58b96c md5 487a08c334ed1a7f0a92c65e82700e01 sha1 a4e20577150877b11040805a8319e4dbcfc85998 )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 617920 crc 8ec55a65 md5 56e88cf1220040c8dc814263129ac049 sha1 baf4e4b9aa03c1262d466666d3df977bc01e7fe9 )
+)
+
+game (
+	name lure-ru-1
+	description "Lure of the Temptress {Соблазн искусительницы}(VGA/DOS/Russian)[Old-Games][v1.1][!]"
+	year 1992
+	manufacturer "Revolution Software"
+	sourcefile lure
+	rom ( name DISK1.VGA size 639648 crc 324c89bf md5 0db7dea18cfaded310988f1c598f8797 sha1 934718931bed99370eed35e9a90250c09d3cc6df )
+	rom ( name DISK2.VGA size 659552 crc 3f58b96c md5 487a08c334ed1a7f0a92c65e82700e01 sha1 a4e20577150877b11040805a8319e4dbcfc85998 )
+	rom ( name DISK3.VGA size 699072 crc 9b2ed166 md5 5e12d3bc0c0f96ec78a1db5f7da17eef sha1 1001af2e462c5105c2b0e37a8e37b64893e6fe0d )
+	rom ( name DISK4.VGA size 617952 crc ee9769db md5 fbfb66f798829f3633c44ce41ec4321c sha1 330ebe894e10893a4a190e5b3015d27f6b2dd0f4 )
 )
 

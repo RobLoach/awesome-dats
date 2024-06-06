@@ -2,11 +2,21 @@ clrmamepro (
 	name "ScummVM BLADERUNNER"
 	description "ScummVM - BLADERUNNER Engine Games"
 	category "ScummVM"
-	version v1.00
-	date 2016-10-14
+	version v1.13
+	date 2022-05-12
 	author Gruby
 	forcemerging split
 	forcenodump required
+)
+
+game (
+	name bladerunner-demo-win
+	description "Blade Runner |Demo Non-Interactive|(Windows)[!]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	rom ( name SIZZLE2.VQA size 14386668 crc 1d5af0e3 md5 15e87f8032246505a6b83f25e509eb3e sha1 acc1b28975413d5c50169b3bd19896f2efa3561b )
+	rom ( name SIZZLE2.VQP size 230276 crc 3745938a md5 33f305f1013a25e20f001c53d684e3a3 sha1 882c50dbd41323b1c3e4ada03f69fc312f9d07b3 )
 )
 
 game (
@@ -15,23 +25,190 @@ game (
 	year 1997
 	manufacturer "Westwood"
 	sourcefile bladerunner
-	rom ( name 1.TLK size 5474131 crc 55601246 md5 8309be105294903cbb62bba4ea28ef01 )
-	rom ( name 2.TLK size 38962965 crc bf211ff1 md5 62b1da7c5cc74659d3deec6f62463e33 )
-	rom ( name 3.TLK size 35129729 crc a58eb3d9 md5 e994a2ec5759298fcc4e417318f7b4df )
-	rom ( name A.TLK size 79404698 crc 3ee1858c md5 16a02bf5bcc2951d408ca3b06aec26a7 )
-	rom ( name COREANIM.DAT size 57804524 crc cc0751b3 md5 802e63673d0f0e04d36fa0d01276cc3b )
-	rom ( name HDFRAMES.DAT size 325068488 crc 7d3d1184 md5 c7a688a033a1f14b492531f66b259250 )
-	rom ( name MODE.MIX size 24745685 crc d33f6453 md5 e22de5012d23b17c3eac780e863ccff2 )
-	rom ( name MUSIC.MIX size 30650342 crc 990dcc96 md5 675fe076861c345ac40761eccdc0ac8e )
-	rom ( name OUTTAKE1.MIX size 198190152 crc 1de4ee53 md5 39c35603fa605657e6df3d72ea591e4d )
-	rom ( name OUTTAKE2.MIX size 50298478 crc 86039009 md5 ecc2eab04049463757598781623c865e )
-	rom ( name OUTTAKE3.MIX size 90558282 crc 90375553 md5 1fa8c7cf45905b1e89df5af17e3a3c2f )
-	rom ( name OUTTAKE4.MIX size 123671966 crc 49f5396c md5 68a01ad7158feab904daaaacf8643f9c )
-	rom ( name SFX.MIX size 18953528 crc e4a8fa7b md5 5b9bea8905765fc218669191bed62b3f )
-	rom ( name SPCHSFX.TLK size 2025085 crc 81776211 md5 58fc3e14ea47e310c016d5a712bbbf5a )
-	rom ( name STARTUP.MIX size 2312374 crc 1a8613bd md5 a700461e03b1e28e2b4d7f495997bace )
-	rom ( name VQA1.MIX size 91084510 crc 2d135711 md5 789ba387bb56fb965787137efc05cc39 )
-	rom ( name VQA2.MIX size 227921766 crc 0e0761e0 md5 a13ec779ca00b58196471c6756e9334e )
-	rom ( name VQA3.MIX size 167370640 crc 8c60fd48 md5 4f35283cdd5e697902620ae56d47e3a4 )
+	romof bladerunnres
+	rom ( name 1.TLK size 5474131 crc 55601246 md5 8309be105294903cbb62bba4ea28ef01 sha1 d7c200202f566a5a158adfe93f859301887d6e97 )
+	rom ( name 2.TLK size 38962965 crc bf211ff1 md5 62b1da7c5cc74659d3deec6f62463e33 sha1 4c12199d8611e52ad554c2ab14b162434ac65f1b )
+	rom ( name 3.TLK size 35129729 crc a58eb3d9 md5 e994a2ec5759298fcc4e417318f7b4df sha1 1ae510440deb4327d67d681d0ff76aff0f0107a1 )
+	rom ( name A.TLK size 79404698 crc 3ee1858c md5 16a02bf5bcc2951d408ca3b06aec26a7 sha1 65c25ef7359535cf2acb7d1321e5145aab14ce1f )
+	rom ( name OUTTAKE1.MIX size 198190152 crc 1de4ee53 md5 39c35603fa605657e6df3d72ea591e4d sha1 f1f18a5e1c8b8e48fd69a7ba52f8683b2b5448c6 )
+	rom ( name OUTTAKE2.MIX size 50298478 crc 86039009 md5 ecc2eab04049463757598781623c865e sha1 e710f08d4cc28893badb0652d03483cde9ad3a34 )
+	rom ( name OUTTAKE3.MIX size 90558282 crc 90375553 md5 1fa8c7cf45905b1e89df5af17e3a3c2f sha1 c2a2753d7d760816cdb2d471eb8dd41bd95f97d7 )
+	rom ( name OUTTAKE4.MIX size 123671966 crc 49f5396c md5 68a01ad7158feab904daaaacf8643f9c sha1 144fdf66e443f8c95e687e271d63250804853100 )
+	rom ( name SPCHSFX.TLK size 2025085 crc 81776211 md5 58fc3e14ea47e310c016d5a712bbbf5a sha1 a252a00812f98ce62e0882420c28b81c24db22c3 )
+	rom ( name STARTUP.MIX size 2312374 crc 1a8613bd md5 a700461e03b1e28e2b4d7f495997bace sha1 5fd175c0d9e9bc4cf30641d8d6f32e6681abddc5 )
+)
+
+game (
+	name bladerunner-win-1
+	description "Blade Runner (Windows)[with subtitles][v6.0][!]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	cloneof bladerunner-win
+	romof bladerunner-win
+	rom ( name SUBTITLES.MIX size 1597994 crc 7e0d56d8 md5 5f1a299643674aef5592afa82d78ed2b sha1 31638670c87a477651dcc80aab12d4f22fe573f3 )
+)
+
+game (
+	name bladerunner-win-he
+	description "Blade Runner (Windows/Hebrew)[subtitles with English voice][u][!]"
+	year 2020
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	cloneof bladerunner-win
+	romof bladerunner-win
+	rom ( name SUBTITLES.MIX size 1349773 crc 06d1fab6 md5 32e8d2d2d3c28ffb8182bacaae1bdffb sha1 20d6ab41f8b36c7ec02c4f60fe4ddf48f2a71bdb )
+	rom ( name SUBTLS_E.FON size 63134 crc f7ac8605 md5 ea36012bc34e3859cc1d7d9b3f9fc443 sha1 544cfb234824bb88cd33df1b661db944463a1277 )
+)
+
+game (
+	name bladerunner-win-de
+	description "Blade Runner (Windows/German)[!]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	romof bladerunnres
+	rom ( name 1.TLK size 5847422 crc 58c3d5ba md5 f295ae8722b04c636c9872e39fff7985 sha1 56fa807a3527cbaba48c6e40de0c02ebb6567bb6 )
+	rom ( name 2.TLK size 41709311 crc 42bf8655 md5 cf7889920771d1e8c04f163ed4a6158a sha1 f6c6c3fb93abcd217c1587e1420b086dfc8a3ee9 )
+	rom ( name 3.TLK size 36492295 crc c04804b5 md5 3b5e3af637a88e790e232668b2cbc45e sha1 d0851debb84b18214d319dff7ea7ccf15e25d943 )
+	rom ( name A.TLK size 87253518 crc 185d7cbc md5 ba54f7b7d5c888ee0c813b725bb60a85 sha1 9177fcff2fd03af60f6b372ee30515da9382fb81 )
+	rom ( name OUTTAKE1.MIX size 198141686 crc 568d2a6c md5 c445ec1960f7145746c3f2642a08f767 sha1 daee81f08770910ef1eb24f90adb09375811e96a )
+	rom ( name OUTTAKE2.MIX size 50298478 crc 93dc8ea4 md5 253720af906e0e0946dbe6729329db32 sha1 0f0db2a61d3edb3abef9a6a196e97b41eafabedc )
+	rom ( name OUTTAKE3.MIX size 90558282 crc 8f6d6b61 md5 0b732619faff6ea8774c26b99b1a75db sha1 5857dc05209a3c4e633ecda8b133d89ee4f91830 )
+	rom ( name OUTTAKE4.MIX size 123671966 crc b1c87742 md5 ac9eeb9693a42f425d3485394a32f88d sha1 48b66ea3ae776538327258fd1fc8b0dd7d180ef8 )
+	rom ( name SPCHSFX.TLK size 2055203 crc e36768a1 md5 b59a0611f74d195d4aea24b4024d0a3d sha1 0223f064d4b0385422a018f4beb0ab62b307216a )
+	rom ( name STARTUP.MIX size 2314301 crc 3df7b084 md5 128dd9a8cb324034daffaf2c0ef64e12 sha1 8decccb37286a20afd534f88d8e5bd0bbe790564 )
+)
+
+game (
+	name bladerunner-win-es
+	description "Blade Runner (Windows/Spanish)[!]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	romof bladerunnres
+	rom ( name 1.TLK size 5881039 crc 4d2ae56b md5 363fdb3dfcc7aabe3d1c2787438a6bf9 sha1 401fdb80f7fcc3098c6143543fa84c5923fafb88 )
+	rom ( name 2.TLK size 40844901 crc 811132e6 md5 e740ce03357c5f373c33c901b392e1e1 sha1 2362624af97b170852110eaa44847579567a0b78 )
+	rom ( name 3.TLK size 36213200 crc 8a5becc8 md5 aae963eb21ea226a76ff62adceb99bc0 sha1 a3beb83132d5a9125e43aafb0f1f8ccdebde4509 )
+	rom ( name A.TLK size 84892439 crc eb7f58ea md5 6bb56dadce70771e5462406936e990f5 sha1 8ede8ecaa73f55a9445f39c93ccaefb80de4f7eb )
+	rom ( name OUTTAKE1.MIX size 198047924 crc 5f64f19a md5 cc9483daa9ecede51630bca8a689cf37 sha1 bcc119b6456fa741bc8f9b311b3b41f32b5e1d66 )
+	rom ( name OUTTAKE2.MIX size 50298478 crc 7b960f3f md5 0e7f56cd65aabf324d71203b37806e2e sha1 25e336a6c4922f46b33bd7090e501813ac7ea84c )
+	rom ( name OUTTAKE3.MIX size 90558282 crc e9e57253 md5 a92c62a313a3100a24e66e0512474506 sha1 97d20b2f2a9f68de5b3d3c929f7020abf962b9da )
+	rom ( name OUTTAKE4.MIX size 123671966 crc 8cb53de8 md5 ab7104839126d8d3964b1698810e81ad sha1 538aa74a67295eebf0df5deaaf4e46539f3909ce )
+	rom ( name SPCHSFX.TLK size 1774487 crc 11288f61 md5 ccd22df797d8d0d28d2bd37370c42efa sha1 1c2813b960416c3b649bba0adee558b270ea1983 )
+	rom ( name STARTUP.MIX size 2312976 crc 0a9890b0 md5 ebe414bcee97e8b76381541f85d23f97 sha1 2c680af6c4e7011124579a02417ec169c864c1f0 )
+)
+
+game (
+	name bladerunner-win-es-1
+	description "Blade Runner (Windows/Spanish)[with subtitles][v6.0][!]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	cloneof bladerunner-win-es
+	romof bladerunner-win-es
+	rom ( name SPANISH.ROM size 53 crc 2d1e4568 md5 47412708c5358ad5cc87f38f9ee4b2af sha1 855be9d759f38ec62eefd6ca273184839693082b )
+	rom ( name SUBTITLES.MIX size 1597994 crc 7e0d56d8 md5 5f1a299643674aef5592afa82d78ed2b sha1 31638670c87a477651dcc80aab12d4f22fe573f3 )
+)
+
+game (
+	name bladerunner-win-fr
+	description "Blade Runner (Windows/French)[!]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	romof bladerunnres
+	rom ( name 1.TLK size 5484471 crc 58c67f23 md5 8f9ede9fad6512eb9736854acbe9b3ea sha1 5a046aa7caa8989336d97758bb38dc33f6fca266 )
+	rom ( name 2.TLK size 38829810 crc a80fe498 md5 9198c507fdf1af41364e1714d688199c sha1 7aa0b07ec803d409b0f303dbabaa40a6d474e210 )
+	rom ( name 3.TLK size 35067864 crc f4070a83 md5 dbb980cb5cd9511e91a06ae53c1a6a61 sha1 8586e2bf05e8dc4252439472b6edca7cb6f13c7f )
+	rom ( name A.TLK size 80131313 crc ee81cb06 md5 269db00b678905a5d14b63af90225399 sha1 0278bb55eb735b4feb53001febc137c52cfb4952 )
+	rom ( name OUTTAKE1.MIX size 198813804 crc 21d72f38 md5 866d42e046e7ca71ce218c537125e493 sha1 f6b63e20c368b930c29ac37e6ae7fdd495e68dcd )
+	rom ( name OUTTAKE2.MIX size 50298478 crc 87a05d56 md5 fc180e8187bbdcc3da67f8eff2eece99 sha1 2419b5de539f10f25e959403b982e7982cdae1bd )
+	rom ( name OUTTAKE3.MIX size 90558282 crc f6f4d108 md5 987b05782f7ceb976a79112af35c717a sha1 24bad1486a6a0015957df7aa43f690fd5e9b09a6 )
+	rom ( name OUTTAKE4.MIX size 123671966 crc f0ee075c md5 fb41da77ab925913df2739ad9914e1d1 sha1 2a03ec123e181f559bd2d25b0f55b15d730ab4e6 )
+	rom ( name SPCHSFX.TLK size 1776971 crc c32ba777 md5 86f45a828ac6c1ac1de535832c2f74b0 sha1 79a1efd6e0bf6c52aa8c0f846b05bf3ba1fa556d )
+	rom ( name STARTUP.MIX size 2314526 crc da925424 md5 dd93bfc4ea9ced48ace6691822653f37 sha1 f8b95da37bc4513bed9ab078b5fdd7e222ba6906 )
+)
+
+game (
+	name bladerunner-win-fr-1
+	description "Blade Runner (Windows/French)[with subtitles][v6.0][!]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	cloneof bladerunner-win-fr
+	romof bladerunner-win-fr
+	rom ( name FRENCH.ROM size 53 crc be25cdc8 md5 2c29a0f6dadd9a6db0bda9fc60286b3b sha1 f81924957d06fc26b2d1aeb156a4c0b0eb062836 )
+	rom ( name SUBTITLES.MIX size 1597994 crc 7e0d56d8 md5 5f1a299643674aef5592afa82d78ed2b sha1 31638670c87a477651dcc80aab12d4f22fe573f3 )
+)
+
+game (
+	name bladerunner-win-it
+	description "Blade Runner (Windows/Italian)"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	romof bladerunnres
+	rom ( name 1.TLK size 6307170 crc 8f06e19a md5 c5ee599f7f70ed34afa28cfd49336287 sha1 1a448c4766161a8d624a0d40fead81331cb4961d )
+	rom ( name 2.TLK size 45608280 crc f63ed20d md5 cd0c83dff1ee835aef44725e3fa9db75 sha1 bccebf0a448097dd6c927e6605406d337350ddb7 )
+	rom ( name 3.TLK size 39333526 crc c5a3ce7d md5 7b25a97cc1b632ebf6d7b10bab8d0a44 sha1 451b719c39cb5fddec2939a69ed4824b3ca7fb74 )
+	rom ( name A.TLK size 94955626 crc a6dc75f6 md5 12d05b38d0dcd216a4f30fdb6d420277 sha1 ac5b3458be12f61aeacbc7b6efc13ee42f9cec7b )
+	rom ( name OUTTAKE1.MIX size 198266238 crc c8dd482a md5 dd8c273c97ac8a0b85af5894ea851d71 sha1 3e1dc50b589dbe95e63a7924e4725c276e42a124 )
+	rom ( name OUTTAKE2.MIX size 50298478 crc 50b7a8fd md5 9918755605446e1f9b2a7d3121f956c2 sha1 3e338cb8b4c34201203f2b58d8ae1095a013556f )
+	rom ( name OUTTAKE3.MIX size 90558282 crc 86b85778 md5 4252f52d32a94cf18afa974fcacc2126 sha1 58ad4a139057bc7b02165dac25a4abbc81d226b8 )
+	rom ( name OUTTAKE4.MIX size 123671966 crc e179c586 md5 8cc02783c128c50ab206c8641e670cd5 sha1 df9b37559dc8769d004d4e09a3a8c10ce0b3f425 )
+	rom ( name SPCHSFX.TLK size 1983901 crc ea97aa8a md5 6ede059ec3a76a14ad146d2416895db3 sha1 cd145c21e4ee8b226b32c26e51b5d35394cd3b58 )
+	rom ( name STARTUP.MIX size 2314461 crc ef9ec475 md5 a6264510ac22ba85f4c9dd7094464384 sha1 d6ab4ef88cc97e9294805f6b1c2b4e7c647c892f )
+)
+
+game (
+	name bladerunner-win-ru-1
+	description "Blade Runner {Бегущий по лезвию}(Windows/Russian)[Fargus + Home Systems Inc]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	romof bladerunrures
+	rom ( name OUTTAKE1.MIX size 217489406 crc 2c192a28 md5 35f5b2dcf2e64cdaab86ba25e8420bad sha1 ec8ebbae3706cac6d7cfdfeb8e187295d69e398d )
+	rom ( name SFX.MIX size 18883440 crc 38d3910c md5 f78b4228b5f9d72b7dd09c6cef33cd6e sha1 fff0f8fbd9535b5e9f807ca0dfef2051b75b32c5 )
+	rom ( name STARTUP.MIX size 2483111 crc 9d6a2a6b md5 417ce1af1ae1b6bc3aa775e700d92e50 sha1 0457f3067446446b5ba2ebeaa31942d223e40b99 )
+	rom ( name VQA2.MIX size 227921900 crc 8459cb0a md5 1d927bd76872083edfd985e4dfebce7e sha1 a59879de2609c86a29964bdc6daf8d99291112ed )
+)
+
+resource (
+	name bladerunnres
+	description "ZZZ - Blade Runner Resources[!]"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	rom ( name COREANIM.DAT size 57804524 crc cc0751b3 md5 802e63673d0f0e04d36fa0d01276cc3b sha1 da49fed803f7180a755daecb5cf7daebd7065151 )
+	rom ( name HDFRAMES.DAT size 325068488 crc 7d3d1184 md5 c7a688a033a1f14b492531f66b259250 sha1 7ba599bb680ed9d4b403cab1c779994fa6fdacf7 )
+	rom ( name MODE.MIX size 24745685 crc d33f6453 md5 e22de5012d23b17c3eac780e863ccff2 sha1 65e6fff0504f9a16ad9330d3f2cae5d06c31b804 )
+	rom ( name MUSIC.MIX size 30650342 crc 990dcc96 md5 675fe076861c345ac40761eccdc0ac8e sha1 b2d1d903a111fd48d07531afa615ab14aa78c87e )
+	rom ( name SFX.MIX size 18953528 crc e4a8fa7b md5 5b9bea8905765fc218669191bed62b3f sha1 443666b9465190b3f3b9a2e0bf91dec686e609ca )
+	rom ( name VQA1.MIX size 91084510 crc 2d135711 md5 789ba387bb56fb965787137efc05cc39 sha1 0a504c40b33f9c0ef01f5dd0ff4baf0fba09cba3 )
+	rom ( name VQA2.MIX size 227921766 crc 0e0761e0 md5 a13ec779ca00b58196471c6756e9334e sha1 bbd314a7f553d4a602c506ba037122efc89aef77 )
+	rom ( name VQA3.MIX size 167370640 crc 8c60fd48 md5 4f35283cdd5e697902620ae56d47e3a4 sha1 9031673e3790df4bb217ef498d6c480043af0bc5 )
+)
+
+resource (
+	name bladerunrures
+	description "ZZZ - Blade Runner Russian Resources"
+	year 1997
+	manufacturer "Westwood"
+	sourcefile bladerunner
+	rom ( name 1.TLK size 5172065 crc ab5bc072 md5 a58c61bd2042c1a13f963206963fc4ea sha1 cf4287ee744477d4c1911e6dd7773f03417f84e8 )
+	rom ( name 2.TLK size 37674913 crc 2d674be5 md5 8031690bace38d53eb48bbb4588e8dce sha1 39993c332f0c88fbbcf6d4524cac9d9a8b03670f )
+	rom ( name 3.TLK size 34395131 crc c6c6bfcb md5 53c0783b3c46482ba15bf735810b08fb sha1 5cc47ee45ff04c028ef96b9f4b9b180611814008 )
+	rom ( name A.TLK size 77049023 crc 53d3dd93 md5 2c672f6c997648b3ba9b6bbb0df65f67 sha1 dbf927ab66f2d950c9b60936412f2e5fc1e2beb7 )
+	rom ( name COREANIM.DAT size 57804524 crc cc0751b3 md5 802e63673d0f0e04d36fa0d01276cc3b sha1 da49fed803f7180a755daecb5cf7daebd7065151 )
+	rom ( name HDFRAMES.DAT size 325068488 crc 7d3d1184 md5 c7a688a033a1f14b492531f66b259250 sha1 7ba599bb680ed9d4b403cab1c779994fa6fdacf7 )
+	rom ( name MODE.MIX size 24745685 crc d33f6453 md5 e22de5012d23b17c3eac780e863ccff2 sha1 65e6fff0504f9a16ad9330d3f2cae5d06c31b804 )
+	rom ( name MUSIC.MIX size 30650342 crc 990dcc96 md5 675fe076861c345ac40761eccdc0ac8e sha1 b2d1d903a111fd48d07531afa615ab14aa78c87e )
+	rom ( name OUTTAKE2.MIX size 50753340 crc 821679d0 md5 31bacdebd2d85ac182d3b7285367f04e sha1 8ecde7ceeb66e5fd1976c7ecac9b5c03e7d2ae4d )
+	rom ( name OUTTAKE3.MIX size 90558282 crc f36d40d0 md5 229cff9d2ba5bad9e97cd2a819749055 sha1 bdbfafc0c461bf1cc6de96cc21d5dfe34b80f4dc )
+	rom ( name OUTTAKE4.MIX size 123671966 crc 55ad929d md5 9a97f5aa56c35e2f07d67340a875bf11 sha1 5f2ba2a2bc56a12f6f44a27eba248e9918849865 )
+	rom ( name SPCHSFX.TLK size 1791526 crc 26427de4 md5 b898fa5e6e57ab5564a4799505df5989 sha1 98281c3c5f90a8437af59998b5f2235ce876f323 )
+	rom ( name VQA1.MIX size 91084644 crc b37bdcd7 md5 710a4713b6e98782cc8614d670773567 sha1 c872c6b0c9b8cb3101b2bf256446ef3d383de0b3 )
+	rom ( name VQA3.MIX size 167370640 crc 8c60fd48 md5 4f35283cdd5e697902620ae56d47e3a4 sha1 9031673e3790df4bb217ef498d6c480043af0bc5 )
 )
 

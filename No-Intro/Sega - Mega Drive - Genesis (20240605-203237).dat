@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>32</id>
+		<name>Sega - Mega Drive - Genesis</name>
+		<description>Sega - Mega Drive - Genesis</description>
+		<version>20240605-203237</version>
+		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+</datafile>

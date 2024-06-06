@@ -1,0 +1,351 @@
+clrmamepro (
+	name "ScummVM SLUDGE"
+	description "ScummVM - SLUDGE Engine Games"
+	category "ScummVM"
+	version v1.05
+	date 2020-05-21
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name atw
+	description "Above the Waves (Windows)[!]"
+	year 2015
+	manufacturer "Cheeseness"
+	sourcefile sludge
+	rom ( name atw.slg size 27808575 crc 314ec238 md5 79e16273744e0ac7377f87c6d2226264 sha1 a2fd314c4cee728e4435fadc589b0eef62912398 )
+)
+
+game (
+	name cubert
+	description "Cubert Badbone, P.I. (Windows)[!]"
+	year 2005
+	manufacturer "Deirdra Kiai Productions"
+	sourcefile sludge
+	rom ( name cubert.dat size 19677815 crc b7634d57 md5 fdea5bd16622dfaf866cbbff3c460446 sha1 46f1d733d07f4538c509b182047fd10797e13e8c )
+)
+
+game (
+	name cubert-de
+	description "Cubert Badbone, P.I. (Windows/German)[!]"
+	year 2005
+	manufacturer "Deirdra Kiai Productions"
+	sourcefile sludge
+	cloneof cubert
+	romof cubert
+	rom ( name GERMAN.ROM size 77 crc dc530ca4 md5 cd74428f644e6875292a3fd6d7d73262 sha1 390266e6da7a58332bfa6731b1e9018f1a8c96a2 )
+)
+
+game (
+	name cubert-it
+	description "Cubert Badbone, P.I. (Windows/Italian)[!]"
+	year 2005
+	manufacturer "Deirdra Kiai Productions"
+	sourcefile sludge
+	cloneof cubert
+	romof cubert
+	rom ( name ITALIAN.ROM size 78 crc f3a1d758 md5 157e0cbdf5aa747b846917694af3ad7c sha1 c6c6aa51a84d47c58730b789c97d415ef5e3776a )
+)
+
+game (
+	name cubert-se
+	description "Cubert Badbone, P.I. (Windows/Swedish)[!]"
+	year 2005
+	manufacturer "Deirdra Kiai Productions"
+	sourcefile sludge
+	cloneof cubert
+	romof cubert
+	rom ( name SWEDISH.ROM size 78 crc 31e24c9c md5 7d91e9b35078a025cb2db6abe4f12f97 sha1 2b0699422edd4cc7d4299e2e3054f448871f6146 )
+)
+
+game (
+	name frasse
+	description "Frasse and the Peas of Kejick (Windows)[v1.04][!]"
+	year 2011
+	manufacturer "Rikard Peterson"
+	sourcefile sludge
+	rom ( name gamedata size 38154596 crc e8212ef2 md5 6d4ac8203c26d58de4aa9c3ca5a3a051 sha1 0e8ab5bc2a9ff4073cd297b7987ae5b37d72f1a6 )
+)
+
+game (
+	name frasse-1
+	description "Frasse and the Peas of Kejick (Windows)[v1.03][!]"
+	year 2011
+	manufacturer "Rikard Peterson"
+	sourcefile sludge
+	rom ( name gamedata size 38186227 crc 7c096eca md5 3f3230abd0da2b70de1437dbfb884079 sha1 c081f7d994a113ddffc3dfe7a7c32f3eea1ecc30 )
+)
+
+game (
+	name frasse-mac
+	description "Frasse and the Peas of Kejick (Macintosh)[v2.02][!]"
+	year 2011
+	manufacturer "Rikard Peterson"
+	sourcefile sludge
+	rom ( name Gamedata.slg size 88582783 crc c3fb4892 md5 868f7c727a1940aecd8d7239351de400 sha1 e34fe2d6c99eb25664595b3fb75b239c62e47f8b )
+)
+
+game (
+	name frasse-win
+	description "Frasse and the Peas of Kejick (Windows)[v2.03][!]"
+	year 2011
+	manufacturer "Rikard Peterson"
+	sourcefile sludge
+	rom ( name Gamedata.slg size 88582819 crc cb1bd730 md5 a6e9921a50e5aa3ea89f1f18d67b5148 sha1 941d80728fa8f09b7dbcf9e1d3994de6ba8abaae )
+)
+
+game (
+	name gjgagsas
+	description "Game Jam Game About Games, Secrets and Stuff, The (Windows)[!]"
+	year 2015
+	manufacturer "Konrad Burandt, Sebastian Krzyszkowiak, Paweł Radej"
+	sourcefile sludge
+	rom ( name gamedata.slg size 27527984 crc 0d03d745 md5 fc069a102c663894b1404f6d0ca85dc7 sha1 d2ad0e73d33d909d0af26f647e74e67e96306403 )
+)
+
+game (
+	name interview
+	description "Interview, The (Windows)[!]"
+	year 2005
+	manufacturer "Deirdra Kiai Productions"
+	sourcefile sludge
+	rom ( name gamedata size 2570140 crc 6fafa535 md5 fd864eccca0ab9d99773776cabec6201 sha1 59acb7cf56a095d11d70b912d93296bba9dd2622 )
+)
+
+game (
+	name leptonsquest-linux
+	description "Lepton's Quest (Linux)[!]"
+	year 2003
+	manufacturer "IndieSquish"
+	sourcefile sludge
+	rom ( name LeptonsQuest.slg size 71233239 crc 770988a8 md5 747b767ed52b066bab6a221b014e2387 sha1 81baba48eca613ed74fb4bcb7d44ac9e217304df )
+)
+
+game (
+	name leptonsquest-mac
+	description "Lepton's Quest (Macintosh)[!]"
+	year 2003
+	manufacturer "IndieSquish"
+	sourcefile sludge
+	rom ( name Gamedata.slg size 71233239 crc 770988a8 md5 747b767ed52b066bab6a221b014e2387 sha1 81baba48eca613ed74fb4bcb7d44ac9e217304df )
+)
+
+game (
+	name leptonsquest-win
+	description "Lepton's Quest (Windows)[!]"
+	year 2003
+	manufacturer "IndieSquish"
+	sourcefile sludge
+	rom ( name game.slg size 71233234 crc b4e91e27 md5 8df1f66083e3d41b79537818a362a8e5 sha1 020df41447d39795a95a9d6d77f49400657ff6a0 )
+)
+
+game (
+	name life
+	description "Life Flashed by (Windows)[!]"
+	year 2011
+	manufacturer "Deirdra Kiai Productions"
+	sourcefile sludge
+	rom ( name LifeFlashesBy.slg size 163794266 crc 9c5c343b md5 c32612666204563d138c4f5720215a1c sha1 be27ae59210668aefd0044a20afebe75bac846c8 )
+)
+
+game (
+	name mandy-win
+	description "Mandy Christmas Adventure (Windows)[v1.4][!]"
+	year 2006
+	manufacturer "Rudolf Slavka"
+	sourcefile sludge
+	rom ( name data size 7141292 crc 09bf2447 md5 349636a27da25fa6507224d4f8d652d7 sha1 03360d8aeb45661f02d638d3a57133e7c7fe2d36 )
+	rom ( name gamedata size 589 crc ead5c2b3 md5 bb51eea418d87071c98f4e050ccf6387 sha1 d71a0073a16ec13474ac09050ad93270d4b3e08c )
+)
+
+game (
+	name mandy-win-it
+	description "Mandy Christmas Adventure {Mandy Avventura di Natale}(Windows/Italian)[v1.4][!]"
+	year 2006
+	manufacturer "Rudolf Slavka"
+	sourcefile sludge
+	cloneof mandy-win
+	romof mandy-win
+	rom ( name ITALIAN.ROM size 81 crc 8e175890 md5 749d7978e8d7f94f0db708eab5e94009 sha1 33e11c7351be047d4e88df8f63a84babafce21b2 )
+)
+
+game (
+	name mandy-win-pl
+	description "Mandy Christmas Adventure {Mandy Świateczna przygoda}(Windows/Polish)[v1.4][!]"
+	year 2006
+	manufacturer "Rudolf Slavka"
+	sourcefile sludge
+	cloneof mandy-win
+	romof mandy-win
+	rom ( name POLISH.ROM size 80 crc b954422d md5 a7a55bc167d4d0bf08b34398e032393f sha1 550676b132362624c01f72427cf84740f9a0ea27 )
+)
+
+game (
+	name mandy-win-sk
+	description "Mandy Christmas Adventure {Mandy Vianočná adventúra}(Windows/Slovak)[v1.4][!]"
+	year 2006
+	manufacturer "Rudolf Slavka"
+	sourcefile sludge
+	cloneof mandy-win
+	romof mandy-win
+	rom ( name SLOVAK.ROM size 79 crc ec03481e md5 a5430964232b486205a3d00709bff18c sha1 6a2de50b38ab7f52c77d0e358c31ec26ed7fed9d )
+)
+
+game (
+	name mandy-win-1
+	description "Mandy Christmas Adventure (Windows)[v1.2][!]"
+	year 2006
+	manufacturer "Rudolf Slavka"
+	sourcefile sludge
+	rom ( name data size 7099447 crc 25ca5c28 md5 1cd48091ad59689f1475f6ff8f700180 sha1 ac79fbdac9e770bb848b68f976b6795171bdf76f )
+	rom ( name gamedata size 2775 crc 27d21003 md5 a7ecfc2b83f35d159508a0444bc051a3 sha1 3e4d75c293b36b4cb2dc49948a80499f618bbddc )
+)
+
+game (
+	name mandy-win-sk-1
+	description "Mandy Christmas Adventure {Mandy Vianočná adventúra}(Windows/Slovak)[v1.2][!]"
+	year 2006
+	manufacturer "Rudolf Slavka"
+	sourcefile sludge
+	cloneof mandy-win-1
+	romof mandy-win-1
+	rom ( name SLOVAK.ROM size 74 crc 05f8e7b2 md5 3e27e116d43bbc8c91e141c7731ba40c sha1 2af704ac97196db7cc6170b0ceb7505c557f9329 )
+)
+
+game (
+	name mandy-win-2
+	description "Mandy Christmas Adventure (Windows)[v1.3][!]"
+	year 2006
+	manufacturer "Rudolf Slavka"
+	sourcefile sludge
+	rom ( name data size 7100976 crc 7bfcc8e8 md5 a494a824a82238d2cb2947a6f31cd488 sha1 8c04362b2f4ec25fff12757d161b4a997f6346c6 )
+	rom ( name gamedata size 2775 crc 27d21003 md5 a7ecfc2b83f35d159508a0444bc051a3 sha1 3e4d75c293b36b4cb2dc49948a80499f618bbddc )
+)
+
+game (
+	name mandy-win-it-1
+	description "Mandy Christmas Adventure {Mandy Avventura di Natale}(Windows/Italian)[v1.3][!]"
+	year 2006
+	manufacturer "Rudolf Slavka"
+	sourcefile sludge
+	cloneof mandy-win-2
+	romof mandy-win-2
+	rom ( name ITALIAN.ROM size 75 crc 1605c372 md5 96a60f8463ba3372c3d06ed433dee953 sha1 0b97b8d2533b1295069af6411f83b47cbdc5b816 )
+)
+
+game (
+	name mandy-win-sk-2
+	description "Mandy Christmas Adventure {Mandy Vianočná adventúra}(Windows/Slovak)[v1.3][!]"
+	year 2006
+	manufacturer "Rudolf Slavka"
+	sourcefile sludge
+	cloneof mandy-win-2
+	romof mandy-win-2
+	rom ( name SLOVAK.ROM size 74 crc 1aa66149 md5 3704ba174592e9815cb7b33291c3f30d sha1 bba60c37b88d75422a5430dc0b224c062c539bed )
+)
+
+game (
+	name nsc
+	description "Nathan's Second Chance (Windows)[v1.0.3][!]"
+	year 2005
+	manufacturer "Tim Knauf"
+	sourcefile sludge
+	rom ( name gamedata size 12733871 crc 2ba8ef77 md5 34f3ed3fb9fbdbebeac5c42d91790602 sha1 b12974b9234c66da3338ce90b4ec07f8378b567f )
+)
+
+game (
+	name outoforder
+	description "Out of Order (Windows)[!]"
+	year 2011
+	manufacturer "Hungry Software"
+	sourcefile sludge
+	rom ( name gamedata size 21122647 crc 01db5305 md5 8bdace5a29c9aa6ff58e223f72f6e873 sha1 551b9b018159fe243738acc1e028de33d96c0df1 )
+)
+
+game (
+	name robinsrescue
+	description "Robin's Rescue (Windows)[!]"
+	year 2015
+	manufacturer "Cheeseness and Mimness"
+	sourcefile sludge
+	rom ( name robins_rescue.slg size 14413769 crc be5cd161 md5 123a3d4fa3fc0b00e3dfc4333f683011 sha1 7ffd696c094eb7523d8550d9e07538c4bad96196 )
+)
+
+game (
+	name robinsrescue-1
+	description "Robin's Rescue (Windows)[v1.0][!]"
+	year 2015
+	manufacturer "Cheeseness and Mimness"
+	sourcefile sludge
+	rom ( name Gamedata.slg size 14413754 crc d811e6ef md5 2bf1f4b03c840937087da82cf6b3fbe3 sha1 c195883987260857c49b13d24e11999cd841d1c9 )
+)
+
+game (
+	name robinsrescue-linux
+	description "Robin's Rescue (Linux)[v1.0][!]"
+	year 2015
+	manufacturer "Cheeseness and Mimness"
+	sourcefile sludge
+	rom ( name robins_rescue.slg size 14413754 crc d811e6ef md5 2bf1f4b03c840937087da82cf6b3fbe3 sha1 c195883987260857c49b13d24e11999cd841d1c9 )
+)
+
+game (
+	name tgttpoacs-linux
+	description "Game That Takes Place on a Cruise Ship, The (Linux)[!]"
+	year 2011
+	manufacturer "Deirdra Kiai Productions"
+	sourcefile sludge
+	rom ( name tgttpoacs.dat size 23817174 crc 06b54c8e md5 8730a622f354f1649b6d473213bd1645 sha1 7633a2445b82d463f6be408557f52435675e63d7 )
+)
+
+game (
+	name tgttpoacs-win
+	description "Game That Takes Place on a Cruise Ship, The (Windows)[!]"
+	year 2011
+	manufacturer "Deirdra Kiai Productions"
+	sourcefile sludge
+	cloneof tgttpoacs-linux
+	romof tgttpoacs-linux
+	rom ( name gamedata size 40368 crc 9f04a931 md5 0d7798788f370a43698e06391aef0db7 sha1 57a9034bc08b5869914106e9ef3cfb5d42e5dfe8 )
+)
+
+game (
+	name tsotc
+	description "Secret of Tremendous Corporation, The (Windows)[v6][!]"
+	year 2015
+	manufacturer "Konrad Burandt, Sebastian Krzyszkowiak, Paweł Radej"
+	sourcefile sludge
+	rom ( name gamedata.slg size 34740918 crc ea888f90 md5 136964a8d07252aa4a1f597f98df7489 sha1 075bcc6c197b685e72c3cab347abf5d4b25dee28 )
+)
+
+game (
+	name verbcoin
+	description "Verb Coin (Windows)[!]"
+	year 2011
+	manufacturer "Hungry Software"
+	sourcefile sludge
+	rom ( name "Verb Coin.slg" size 980270 crc d001ecc3 md5 8e280fb1b25d95a8b98a3e7a9b112758 sha1 d850c5c1e438ce27a8a11e63baa70fd577058deb )
+)
+
+game (
+	name verbcoin-de
+	description "Verb Coin (Windows/German)[!]"
+	year 2011
+	manufacturer "Hungry Software"
+	sourcefile sludge
+	cloneof verbcoin
+	romof verbcoin
+	rom ( name German.rom size 60 crc 7070915c md5 093fcb18b18a7a51faecd7f5b9e56528 sha1 e17a8d31e7e0fe4db4b8e7a3783e87cb4793498f )
+)
+
+game (
+	name welcome
+	description "Welcome Example (Windows)[!]"
+	year 2011
+	manufacturer "Hungry Software"
+	sourcefile sludge
+	rom ( name Welcome.slg size 51736 crc 6e39197d md5 0e0fad40ad562a3de5eec451fbab6650 sha1 127a2f61520bd2fd40dd3d894dbf38d0ce7476d5 )
+)
+

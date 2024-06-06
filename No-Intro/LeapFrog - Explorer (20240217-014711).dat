@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>404</id>
+		<name>LeapFrog - Explorer</name>
+		<description>LeapFrog - Explorer</description>
+		<version>20240217-014711</version>
+		<author>Gefflon, relax, TeamEurope</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Bubble Guppies (USA)" id="0011">
+		<description>Bubble Guppies (USA)</description>
+		<game_id>500-15103-A</game_id>
+		<rom name="Bubble Guppies (USA).bin" size="67108864" crc="15f64d81" md5="816193260c66b221fa444a82759f40ff" sha1="b9ca74e9413db8171abb10b43d55a281a8a091ad"/>
+	</game>
+	<game name="Disney Princess - Pop-Up Story Adventure (USA)" id="0002">
+		<description>Disney Princess - Pop-Up Story Adventure (USA)</description>
+		<game_id>500-14217-A</game_id>
+		<rom name="Disney Princess - Pop-Up Story Adventure (USA).bin" size="67108864" crc="f0f37c2e" md5="0fd5ba52e14ea06acc12638ad743da26" sha1="83dc83c0318c1a43c5aa49d2a0b727696ca5ec96" mia="yes"/>
+	</game>
+	<game name="Dora the Explorer - Dora's Worldwide Rescue (USA)" id="0001">
+		<description>Dora the Explorer - Dora's Worldwide Rescue (USA)</description>
+		<game_id>500-14085-A</game_id>
+		<rom name="Dora the Explorer - Dora's Worldwide Rescue (USA).bin" size="67108864" crc="50f2c72b" md5="c3420283cf4a2c7f5bb9b0ba93ca8501" sha1="22c92e01120b3d200b04ba44dc9bee9ee4fc2043" mia="yes"/>
+	</game>
+	<game name="Jake and the Neverland Pirates (USA)" id="0009">
+		<description>Jake and the Neverland Pirates (USA)</description>
+		<game_id>500-14897-A</game_id>
+		<rom name="Jake and the Neverland Pirates (USA).bin" size="67108864" crc="50e7fc41" md5="359b2de9f799689f5c71b14b7092f575" sha1="2e10815cdc3b92383ca423d9e39de1177c7c589f"/>
+	</game>
+	<game name="Leap School - Math (USA)" id="0008">
+		<description>Leap School - Math (USA)</description>
+		<game_id>500-14834-A</game_id>
+		<rom name="Leap School - Math (USA).bin" size="67108864" crc="7838d515" md5="b8c49e26a30ed82ad4314a4e53635181" sha1="702c763ad994a63b48da1ac677e55838eb4a4392"/>
+	</game>
+	<game name="Monsters University (USA)" id="0010">
+		<description>Monsters University (USA)</description>
+		<game_id>500-15093-A</game_id>
+		<rom name="Monsters University (USA).bin" size="67108864" crc="9e40b11d" md5="5e5b19978836b1c5cbcc48a4f0aee4ae" sha1="c8c4324c823118134b0803d9e6683fe017c556ee"/>
+	</game>
+	<game name="Olivia (USA)" id="0013">
+		<description>Olivia (USA)</description>
+		<game_id>500-14895-A</game_id>
+		<rom name="Olivia (USA).bin" size="67108864" crc="215ba68e" md5="9cf6ec861a7889025e4623ca323e8878" sha1="a13709a02195d0f455227411ce2a509dafcffc50"/>
+	</game>
+	<game name="Pet Pals 2 - Best of Friends! (USA)" id="0007">
+		<description>Pet Pals 2 - Best of Friends! (USA)</description>
+		<game_id>500-14489-A</game_id>
+		<rom name="Pet Pals 2 - Best of Friends! (USA).bin" size="67108864" crc="94d3734a" md5="7661fad035e46549a91591f7c9371162" sha1="cdcd91c5f40bcf91e4a915e990e02482f69dd8b3"/>
+	</game>
+	<game name="Scooby-Doo! (USA)" id="0006">
+		<description>Scooby-Doo! (USA)</description>
+		<game_id>500-14483-A</game_id>
+		<rom name="Scooby-Doo! (USA).bin" size="67108864" crc="27f7bdb4" md5="073bfc45d675cb97a416d36511756505" sha1="c279f40e1165c9f4576db239cf8d12fea856e36f" mia="yes"/>
+	</game>
+	<game name="Tangled (USA)" id="0003">
+		<description>Tangled (USA)</description>
+		<game_id>500-14228-B</game_id>
+		<rom name="Tangled (USA).bin" size="67108864" crc="6d6c0304" md5="21cec6c0b3ecec79f17055ebf7e22828" sha1="99860c311ce1b34479aece582bb058ad9329be98" mia="yes"/>
+	</game>
+	<game name="The Penguins of Madagascar - Operation Plushy Rescue (USA)" id="0005">
+		<description>The Penguins of Madagascar - Operation Plushy Rescue (USA)</description>
+		<game_id>500-14475-A</game_id>
+		<rom name="The Penguins of Madagascar - Operation Plushy Rescue (USA).bin" size="67108864" crc="986be1e5" md5="4d42cd9acc3fc5711b5d6e6212017af0" sha1="ed3fbc6acbcaa607271f469be8e05b6b4398fb9e"/>
+	</game>
+	<game name="The Princess and the Frog (USA)" id="0004">
+		<description>The Princess and the Frog (USA)</description>
+		<game_id>500-14252-A</game_id>
+		<rom name="The Princess and the Frog (USA).bin" size="67108864" crc="bb007611" md5="d1f863e99ac543073a3188399f6271c4" sha1="6c0cb5506e2d2ecd9c896f5a81dcc0b88c2b1304" mia="yes"/>
+	</game>
+	<game name="Transformers Rescue Bots - Race to the Rescue (USA)" id="0012">
+		<description>Transformers Rescue Bots - Race to the Rescue (USA)</description>
+		<game_id>500-15299-A</game_id>
+		<rom name="Transformers Rescue Bots - Race to the Rescue (USA).bin" size="67108864" crc="35f73959" md5="8e402cb0a83b7b03b2decb54f2decf7b" sha1="253bc751ab973d375ab701d7523c306c122c9a4c" mia="yes"/>
+	</game>
+</datafile>

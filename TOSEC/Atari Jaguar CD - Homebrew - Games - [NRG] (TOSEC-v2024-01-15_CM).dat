@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Homebrew - Games - [NRG]</name>
+		<description>Atari Jaguar CD - Homebrew - Games - [NRG] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC-ISO</category>
+		<version>2024-01-15</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atomic (2006-02-18)(The Removers)(FR)(en)">
+		<description>Atomic (2006-02-18)(The Removers)(FR)(en)</description>
+		<rom name="Atomic (2006-02-18)(The Removers)(FR)(en).nrg" size="11613766" crc="20d7aa78" md5="31281836bee0b258755825dce282c949" sha1="28abf75551cff805a60a29514ae2557c1bb73bed"/>
+	</game>
+	<game name="Atomic Reloaded (2009-07-04)(The Removers)(FR)(en)">
+		<description>Atomic Reloaded (2009-07-04)(The Removers)(FR)(en)</description>
+		<rom name="Atomic Reloaded (2009-07-04)(The Removers)(FR)(en).nrg" size="8175948" crc="0cc5d936" md5="0276154786b760fce756376aaae48006" sha1="e34900882786a72124862fae9998cabcc0725b51"/>
+	</game>
+	<game name="DiamJag (2016)(Jagware Team)">
+		<description>DiamJag (2016)(Jagware Team)</description>
+		<rom name="DiamJag (2016)(Jagware Team).nrg" size="12061750" crc="4886e1dd" md5="9255724ff20943e479c30c16cf79d7a9" sha1="c5a9af4a39342b63060168789e389ec66993747b"/>
+	</game>
+	<game name="Do the Same (2011)(Matmook)">
+		<description>Do the Same (2011)(Matmook)</description>
+		<rom name="Do the Same (2011)(Matmook).nrg" size="10062310" crc="bc5a33f2" md5="91464b8b96abf06ee9fb52ab11fb2eb5" sha1="1435f303789f133dee1442bc98fe84c41879ed46"/>
+	</game>
+</datafile>

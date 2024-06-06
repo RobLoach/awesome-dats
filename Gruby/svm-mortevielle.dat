@@ -2,8 +2,8 @@ clrmamepro (
 	name "ScummVM MORTEVIELLE"
 	description "ScummVM - MORTEVIELLE Engine Games"
 	category "ScummVM"
-	version v1.03
-	date 2016-08-28
+	version v1.06
+	date 2020-05-21
 	author Gruby
 	forcemerging split
 	forcenodump required
@@ -11,157 +11,157 @@ clrmamepro (
 
 game (
 	name mortevielle-de
-	description "Mortville Manor (DOS/German)[!]"
+	description "Mortville Manor {Der Landsitz von Mortville}(DOS/German)[!]"
 	year 1989
-	manufacturer "Lankhor"
+	manufacturer Lankhor
 	sourcefile mortevielle
-	rom ( name ALCFIEC.MOR size 108416 crc 42c54510 md5 b9e1fe8d5ab3486a92932784fcae4569 )
-	rom ( name ALCFIPH.MOR size 17024 crc 27150d4e md5 4382852473598994067c121bab3b9f38 )
-	rom ( name AXX.MOR size 15104 crc 84ed910a md5 1bdb13fe5a86193ec5ee0bb36473f2bb )
-	rom ( name AZZ.MOR size 1280 crc aa33b421 md5 591811ee63458165c0ee38e81242fa58 )
-	rom ( name BMOR.MOR size 1916 crc acf9a9ce md5 9fc35e6725eca9a62fc8cf78812a06c7 )
-	rom ( name BRUIT5 size 19014 crc 7d5232a0 md5 37a3928a59e07266586dc3ad7ae2dde1 )
-	rom ( name BRUITS size 51062 crc 904f177a md5 3d0750f4712e7511fd3472eed63da191 )
-	rom ( name CXX.MOR size 7577 crc db2edb4e md5 08cddb2917befe16ee504423113a3078 )
-	rom ( name DEC.MOR size 1664 crc 62e4afde md5 689e42c356a366ef35cc613587c32a77 )
-	rom ( name DON.MOR size 3674 crc c90f7b1e md5 eff42847830d559f09e647a345a1ef98 )
-	rom ( name DXX.MOR size 207744 crc 348a9e22 md5 36f886422fe0ff2799ae3c4d04a2064f )
-	rom ( name DZZALL size 12416 crc 26afe6a8 md5 9d77a210b4d61bd3323abfb9d15fa944 )
-	rom ( name MENUAL.MOR size 144 crc 84e69952 md5 792aea282b07a1d74c4a4abeabc90c19 )
-	rom ( name MFXX.MOR size 391 crc 0850a55f md5 96ee1fb782fb0510275cf9a712798ae8 )
-	rom ( name MORT.000 size 6400 crc df83d835 md5 740dd7c6dc787bd7ec45bf9b280d218c )
-	rom ( name MORT.001 size 2816 crc 12e6e96b md5 4f9eea9e3704702f09e0c81d5605a34f )
-	rom ( name MORT.002 size 2048 crc e9488cb3 md5 a88059a8e009ec6dbba2e39aa943ed75 )
-	rom ( name MORT.003 size 8192 crc 23067058 md5 f90978141954edea97caba0b7443a177 )
-	rom ( name MORT.004 size 4864 crc 419995a9 md5 73410f9f506fc29cbf9304cf1a1d9e43 )
-	rom ( name MORT.005 size 6400 crc 8e5b332b md5 947e34d5198be72d5ff47f16375f24ca )
-	rom ( name MORT.006 size 19712 crc b285b03c md5 508e2105b5f444887bf6de625f96bc14 )
-	rom ( name MORT.COM size 55170 crc 5b4e09b2 md5 23b45e29885b0039661de5b6126fdcec )
-	rom ( name MORT.IMG size 79744 crc 5c87c3df md5 425da0878990c13e0284939d83626048 )
-	rom ( name PHBRUI.MOR size 334 crc a167b710 md5 c4409678a7ad68615d1ab88681bf6951 )
-	rom ( name PLXX.MOR size 2912 crc b0cd7ab3 md5 b58c69cb760cad337c42bd2e69ed61fc )
-	rom ( name SAV1.MOR size 497 crc 1f1b15ef md5 ec3daced2e110db97e18d7b205cdf2db )
-	rom ( name SAV2.MOR size 497 crc a072c4f1 md5 053a45590822069671b05e16dd2eb03a )
-	rom ( name SAV3.MOR size 497 crc a072c4f1 md5 053a45590822069671b05e16dd2eb03a )
-	rom ( name SAV4.MOR size 497 crc a072c4f1 md5 053a45590822069671b05e16dd2eb03a )
-	rom ( name SONMUS.MOR size 34944 crc e2c26520 md5 bc91983561d141411cdbd35c6291e169 )
-	rom ( name TXX.IND size 1752 crc d7bcb612 md5 ce83efe100a9108de8300dd8b0c6f038 )
-	rom ( name TXX.MOR size 16516 crc 2b48d2da md5 1be5c7bf73889b7958508ef4a0d443ca )
+	rom ( name ALCFIEC.MOR size 108416 crc 42c54510 md5 b9e1fe8d5ab3486a92932784fcae4569 sha1 5294f01f07f8e4dc2f6d628562130c8ffe0c0e01 )
+	rom ( name ALCFIPH.MOR size 17024 crc 27150d4e md5 4382852473598994067c121bab3b9f38 sha1 a220a587a7c581b02aa7943830da05b963de0bec )
+	rom ( name AXX.MOR size 15104 crc 84ed910a md5 1bdb13fe5a86193ec5ee0bb36473f2bb sha1 782c9ce3c683786fe7fe3e8d2f3fda245ebc1d91 )
+	rom ( name AZZ.MOR size 1280 crc aa33b421 md5 591811ee63458165c0ee38e81242fa58 sha1 d58cc75318e28559789b18e963437f9fcb93baad )
+	rom ( name BMOR.MOR size 1916 crc acf9a9ce md5 9fc35e6725eca9a62fc8cf78812a06c7 sha1 389f3cafa5d1dcfc3f228450eecaf876b6573f4c )
+	rom ( name BRUIT5 size 19014 crc 7d5232a0 md5 37a3928a59e07266586dc3ad7ae2dde1 sha1 5713aa649db6aa3a907a68c47119b36ebf6bf95f )
+	rom ( name BRUITS size 51062 crc 904f177a md5 3d0750f4712e7511fd3472eed63da191 sha1 1114d89e7ed733d9c4f7fb208b9f23ea4e904b71 )
+	rom ( name CXX.MOR size 7577 crc db2edb4e md5 08cddb2917befe16ee504423113a3078 sha1 87f191f1c3790a23f7f2b0521549db89167a3880 )
+	rom ( name DEC.MOR size 1664 crc 62e4afde md5 689e42c356a366ef35cc613587c32a77 sha1 25c40cb7b8ce2fa646f5404b05660bdf59f1575b )
+	rom ( name DON.MOR size 3674 crc c90f7b1e md5 eff42847830d559f09e647a345a1ef98 sha1 6adeb8389962dec0e9974858ce9bc6b32f66ed0d )
+	rom ( name DXX.MOR size 207744 crc 348a9e22 md5 36f886422fe0ff2799ae3c4d04a2064f sha1 46508829c5b7f26336ad35ab737eed1c36934dab )
+	rom ( name DZZALL size 12416 crc 26afe6a8 md5 9d77a210b4d61bd3323abfb9d15fa944 sha1 8d72000f87dc55074a3f493b5848bccfdd879461 )
+	rom ( name MENUAL.MOR size 144 crc 84e69952 md5 792aea282b07a1d74c4a4abeabc90c19 sha1 764c294f164dbd30de91598ba04a0d967de85e71 )
+	rom ( name MFXX.MOR size 391 crc 0850a55f md5 96ee1fb782fb0510275cf9a712798ae8 sha1 d78ea7b36eb6c232bf213d8616499042f18fa0ba )
+	rom ( name MORT.000 size 6400 crc df83d835 md5 740dd7c6dc787bd7ec45bf9b280d218c sha1 c0aa83ff7db33ed2c4f7342fe194925c9243c881 )
+	rom ( name MORT.001 size 2816 crc 12e6e96b md5 4f9eea9e3704702f09e0c81d5605a34f sha1 c8f9f04217a3238e41cf34d1ee779ee03db23f75 )
+	rom ( name MORT.002 size 2048 crc e9488cb3 md5 a88059a8e009ec6dbba2e39aa943ed75 sha1 d0a55db1c3b690884a7c2a85b7ce3bacaf80dae9 )
+	rom ( name MORT.003 size 8192 crc 23067058 md5 f90978141954edea97caba0b7443a177 sha1 c037d2f795c5e21a5ca27b5c3809dcd48f636cfa )
+	rom ( name MORT.004 size 4864 crc 419995a9 md5 73410f9f506fc29cbf9304cf1a1d9e43 sha1 aeb02ebc076bf73284b202688e4bc42a35a09c2f )
+	rom ( name MORT.005 size 6400 crc 8e5b332b md5 947e34d5198be72d5ff47f16375f24ca sha1 5b8884312d6e5477f718e904dc88a5b003406033 )
+	rom ( name MORT.006 size 19712 crc b285b03c md5 508e2105b5f444887bf6de625f96bc14 sha1 d36c1f0781967b4268fe5268ae1321f7d81ddb1e )
+	rom ( name MORT.COM size 55170 crc 5b4e09b2 md5 23b45e29885b0039661de5b6126fdcec sha1 3a4c746d21f2f14da556a3a8f1295d20fc6ca70a )
+	rom ( name MORT.IMG size 79744 crc 5c87c3df md5 425da0878990c13e0284939d83626048 sha1 028058613992d93f5db454d9403a4f8bde1885d5 )
+	rom ( name PHBRUI.MOR size 334 crc a167b710 md5 c4409678a7ad68615d1ab88681bf6951 sha1 82a656d48aea6af2184f7afbd761e6d1008a60d4 )
+	rom ( name PLXX.MOR size 2912 crc b0cd7ab3 md5 b58c69cb760cad337c42bd2e69ed61fc sha1 9f3359af25bf4bc8369ed45bd6d00980c0ff6196 )
+	rom ( name SAV1.MOR size 497 crc 1f1b15ef md5 ec3daced2e110db97e18d7b205cdf2db sha1 87f22f1a7be485140f3cd9b9a01044dd22ed0906 )
+	rom ( name SAV2.MOR size 497 crc a072c4f1 md5 053a45590822069671b05e16dd2eb03a sha1 d83c11ecbe1b67048fc17361ff3d3bbc584e94a0 )
+	rom ( name SAV3.MOR size 497 crc a072c4f1 md5 053a45590822069671b05e16dd2eb03a sha1 d83c11ecbe1b67048fc17361ff3d3bbc584e94a0 )
+	rom ( name SAV4.MOR size 497 crc a072c4f1 md5 053a45590822069671b05e16dd2eb03a sha1 d83c11ecbe1b67048fc17361ff3d3bbc584e94a0 )
+	rom ( name SONMUS.MOR size 34944 crc e2c26520 md5 bc91983561d141411cdbd35c6291e169 sha1 fc0e7ee351b1dd24a1ce370f7c17fb20398ad45d )
+	rom ( name TXX.IND size 1752 crc d7bcb612 md5 ce83efe100a9108de8300dd8b0c6f038 sha1 1798d5225e3618e24a7b690ac478a4c3024462d6 )
+	rom ( name TXX.MOR size 16516 crc 2b48d2da md5 1be5c7bf73889b7958508ef4a0d443ca sha1 3605e33e87d85d94af009520fcc2ed9766c04132 )
 )
 
 game (
 	name mortevielle-1
 	description "Mortville Manor (DOS)[English on German][!]"
 	year 1989
-	manufacturer "Lankhor"
+	manufacturer Lankhor
 	sourcefile mortevielle
 	cloneof mortevielle-de
 	romof mortevielle-de
-	rom ( name ENGLISH.ROM size 32 crc fdf636f8 md5 057c4787c811ef61e67d00b374065ce8 )
+	rom ( name ENGLISH.ROM size 32 crc fdf636f8 md5 057c4787c811ef61e67d00b374065ce8 sha1 1d69c2fb2aaa9400ffa5d6ce0bf1f94effd5b04c )
 )
 
 game (
 	name mortevielle-fr
-	description "Mortville Manor (DOS/French)[!]"
+	description "Mortville Manor {Le Manoir de Mortevielle}(DOS/French)[!]"
 	year 1989
-	manufacturer "Lankhor"
+	manufacturer Lankhor
 	sourcefile mortevielle
-	rom ( name AXX.MOR size 15104 crc 84ed910a md5 1bdb13fe5a86193ec5ee0bb36473f2bb )
-	rom ( name AZZ.MOR size 1280 crc aa33b421 md5 591811ee63458165c0ee38e81242fa58 )
-	rom ( name BMOR.MOR size 1916 crc acf9a9ce md5 9fc35e6725eca9a62fc8cf78812a06c7 )
-	rom ( name BRUIT1 size 8382 crc c1adfb81 md5 da36191241dc858f01d6743731b8c3cb )
-	rom ( name BRUIT2 size 1890 crc e675b0e4 md5 2dee34c3c07999822c49b1dbdd7a9d37 )
-	rom ( name BRUIT3 size 8790 crc 632c7272 md5 5cb87ded3bb858aaa37dcd968a253a8d )
-	rom ( name BRUIT4 size 32000 crc 61415b07 md5 b94d2060524c43f4c98b24685ca7b711 )
-	rom ( name BRUIT5 size 19014 crc 7d5232a0 md5 37a3928a59e07266586dc3ad7ae2dde1 )
-	rom ( name BRUIT6 size 19097 crc 200043dd md5 7f0b7de44298f4e0693e0a82ab5deb3c )
-	rom ( name BRUITS size 51062 crc 904f177a md5 3d0750f4712e7511fd3472eed63da191 )
-	rom ( name CFIEC.MOR size 105123 crc 22f96e67 md5 0e14f776fe60f2abf62c6e3285deb117 )
-	rom ( name CFIPH.MOR size 12760 crc 6bceeac9 md5 6cf16d3c6beabfa099f9d6322244cba4 )
-	rom ( name CHAI.MOR size 390 crc fbbe640e md5 b1834f4e9b724ef739936bbd959fff88 )
-	rom ( name CXX.MOR size 7577 crc db2edb4e md5 08cddb2917befe16ee504423113a3078 )
-	rom ( name DEC.MOR size 1664 crc 62e4afde md5 689e42c356a366ef35cc613587c32a77 )
-	rom ( name DON.MOR size 3674 crc c90f7b1e md5 eff42847830d559f09e647a345a1ef98 )
-	rom ( name DXX.MOR size 207744 crc 348a9e22 md5 36f886422fe0ff2799ae3c4d04a2064f )
-	rom ( name DZZ.MOR size 12288 crc d35ddbfd md5 02289b4456b8993713cd32d2f3cd5158 )
-	rom ( name FXX.MOR size 216 crc 4bb99df6 md5 f846fdbbcf964a411359f2e929734f98 )
-	rom ( name MENUFR.MOR size 144 crc e4acf2f0 md5 e413f36b9e14eef16130adc347a9391f )
-	rom ( name MORT.000 size 6656 crc 30499286 md5 9662a696dfa07269e6ba7bba75a455bc )
-	rom ( name MORT.001 size 2816 crc 9cd81408 md5 ef0f270b0bd6136da3ce5a6e82a73340 )
-	rom ( name MORT.002 size 2048 crc dda9a00c md5 14b9f3c74d8185a83fb764d6ff3b1274 )
-	rom ( name MORT.003 size 8192 crc fbadf9aa md5 5ace9951ff6557b5aa3aaa711294f631 )
-	rom ( name MORT.004 size 4864 crc bc5a43ec md5 ef66452d8b8fe07da32024de5a5a37aa )
-	rom ( name MORT.005 size 5888 crc 0f56f10a md5 f3da862765ccab4f729aa1b35148e897 )
-	rom ( name MORT.006 size 18432 crc 9e2852d5 md5 a80c7029b3a4f5af3b9c2733ed584910 )
-	rom ( name MORT.COM size 54722 crc 6c2b3453 md5 e207dddac6bea2950b67452f24f810ee )
-	rom ( name MORT.IMG size 79744 crc 5c87c3df md5 425da0878990c13e0284939d83626048 )
-	rom ( name MORTP2 size 79744 crc 5c87c3df md5 425da0878990c13e0284939d83626048 )
-	rom ( name MXX.MOR size 175 crc f2568ee2 md5 6df4bc3820b87a152b6bd1fb45bc1916 )
-	rom ( name PHBRUI.MOR size 334 crc a167b710 md5 c4409678a7ad68615d1ab88681bf6951 )
-	rom ( name PLXX.MOR size 2912 crc b0cd7ab3 md5 b58c69cb760cad337c42bd2e69ed61fc )
-	rom ( name SAUV.MOR size 107 crc 0f38f4ef md5 fe4aa762f724a7af1c70c7d8b7171fb0 )
-	rom ( name SAV0.MOR size 497 crc deed41eb md5 8293b4c0b3f9efdfe29c94b58028ee42 )
-	rom ( name SAV1.MOR size 497 crc 4d4b887f md5 15f704205025b3ab81a9c38b4ebc7b13 )
-	rom ( name SAV2.MOR size 497 crc deed41eb md5 8293b4c0b3f9efdfe29c94b58028ee42 )
-	rom ( name SAV3.MOR size 497 crc 4d4b887f md5 15f704205025b3ab81a9c38b4ebc7b13 )
-	rom ( name SAV4.MOR size 497 crc eb311867 md5 34845425578f582b4cfcf2f65009ff45 )
-	rom ( name SONMUS.MOR size 34944 crc e2c26520 md5 bc91983561d141411cdbd35c6291e169 )
-	rom ( name TXX.INP size 15946 crc 25e32c85 md5 00d4d91045934bd3c55e6c12e9db392b )
-	rom ( name TXX.NTP size 1761 crc b9e19c75 md5 c8ce0a2940f9ef40baecc63919ca09b1 )
+	rom ( name AXX.MOR size 15104 crc 84ed910a md5 1bdb13fe5a86193ec5ee0bb36473f2bb sha1 782c9ce3c683786fe7fe3e8d2f3fda245ebc1d91 )
+	rom ( name AZZ.MOR size 1280 crc aa33b421 md5 591811ee63458165c0ee38e81242fa58 sha1 d58cc75318e28559789b18e963437f9fcb93baad )
+	rom ( name BMOR.MOR size 1916 crc acf9a9ce md5 9fc35e6725eca9a62fc8cf78812a06c7 sha1 389f3cafa5d1dcfc3f228450eecaf876b6573f4c )
+	rom ( name BRUIT1 size 8382 crc c1adfb81 md5 da36191241dc858f01d6743731b8c3cb sha1 ac71537d50090b007188028afd7b27b5d85b49e6 )
+	rom ( name BRUIT2 size 1890 crc e675b0e4 md5 2dee34c3c07999822c49b1dbdd7a9d37 sha1 bb09b8e48e75978936cb6d9d0e18ba36aed9510e )
+	rom ( name BRUIT3 size 8790 crc 632c7272 md5 5cb87ded3bb858aaa37dcd968a253a8d sha1 105116138755af3c371e21601537a1a6a5797bc6 )
+	rom ( name BRUIT4 size 32000 crc 61415b07 md5 b94d2060524c43f4c98b24685ca7b711 sha1 16bc0301304a12299cefcc1b3d30b630678af2dc )
+	rom ( name BRUIT5 size 19014 crc 7d5232a0 md5 37a3928a59e07266586dc3ad7ae2dde1 sha1 5713aa649db6aa3a907a68c47119b36ebf6bf95f )
+	rom ( name BRUIT6 size 19097 crc 200043dd md5 7f0b7de44298f4e0693e0a82ab5deb3c sha1 3a3e788477c3c21cc61e87da1f77642e2a9235f5 )
+	rom ( name BRUITS size 51062 crc 904f177a md5 3d0750f4712e7511fd3472eed63da191 sha1 1114d89e7ed733d9c4f7fb208b9f23ea4e904b71 )
+	rom ( name CFIEC.MOR size 105123 crc 22f96e67 md5 0e14f776fe60f2abf62c6e3285deb117 sha1 211a73ca3aad62ddd0cf2c3294868b37210cb113 )
+	rom ( name CFIPH.MOR size 12760 crc 6bceeac9 md5 6cf16d3c6beabfa099f9d6322244cba4 sha1 0b6a9248cc11fa04bc3712af78866dad9353aa78 )
+	rom ( name CHAI.MOR size 390 crc fbbe640e md5 b1834f4e9b724ef739936bbd959fff88 sha1 bb7cfd6960d7485b880747ea84a1c74d169a58ec )
+	rom ( name CXX.MOR size 7577 crc db2edb4e md5 08cddb2917befe16ee504423113a3078 sha1 87f191f1c3790a23f7f2b0521549db89167a3880 )
+	rom ( name DEC.MOR size 1664 crc 62e4afde md5 689e42c356a366ef35cc613587c32a77 sha1 25c40cb7b8ce2fa646f5404b05660bdf59f1575b )
+	rom ( name DON.MOR size 3674 crc c90f7b1e md5 eff42847830d559f09e647a345a1ef98 sha1 6adeb8389962dec0e9974858ce9bc6b32f66ed0d )
+	rom ( name DXX.MOR size 207744 crc 348a9e22 md5 36f886422fe0ff2799ae3c4d04a2064f sha1 46508829c5b7f26336ad35ab737eed1c36934dab )
+	rom ( name DZZ.MOR size 12288 crc d35ddbfd md5 02289b4456b8993713cd32d2f3cd5158 sha1 5763a4db0597bffb63d66aa0ca771bd7874a3778 )
+	rom ( name FXX.MOR size 216 crc 4bb99df6 md5 f846fdbbcf964a411359f2e929734f98 sha1 9c9bc40b0f48676949365ee20adbbf0434ee9663 )
+	rom ( name MENUFR.MOR size 144 crc e4acf2f0 md5 e413f36b9e14eef16130adc347a9391f sha1 b807ea7f64506706402fe974136ffbb37873a8f2 )
+	rom ( name MORT.000 size 6656 crc 30499286 md5 9662a696dfa07269e6ba7bba75a455bc sha1 971783ff7b2a54cfde962c798b85912a41d07c00 )
+	rom ( name MORT.001 size 2816 crc 9cd81408 md5 ef0f270b0bd6136da3ce5a6e82a73340 sha1 ca0141961d231f8add7dce4e4497b0fe13442783 )
+	rom ( name MORT.002 size 2048 crc dda9a00c md5 14b9f3c74d8185a83fb764d6ff3b1274 sha1 50aa72ffe141ce7fb499fd5f225cb0c6a41e14c0 )
+	rom ( name MORT.003 size 8192 crc fbadf9aa md5 5ace9951ff6557b5aa3aaa711294f631 sha1 85c4c1d06e7dab8393c8f73983372d3e3f537fba )
+	rom ( name MORT.004 size 4864 crc bc5a43ec md5 ef66452d8b8fe07da32024de5a5a37aa sha1 092576e1f7a3afcba5c7500d05f6b2d56d655f05 )
+	rom ( name MORT.005 size 5888 crc 0f56f10a md5 f3da862765ccab4f729aa1b35148e897 sha1 de95c93326d6d14a2902627141f831be3b72383d )
+	rom ( name MORT.006 size 18432 crc 9e2852d5 md5 a80c7029b3a4f5af3b9c2733ed584910 sha1 471933d9487410f4fc17bd9985a51479fed3b74f )
+	rom ( name MORT.COM size 54722 crc 6c2b3453 md5 e207dddac6bea2950b67452f24f810ee sha1 d7cc9afa0e4aec11b756ffd9ed64182367f7acb2 )
+	rom ( name MORT.IMG size 79744 crc 5c87c3df md5 425da0878990c13e0284939d83626048 sha1 028058613992d93f5db454d9403a4f8bde1885d5 )
+	rom ( name MORTP2 size 79744 crc 5c87c3df md5 425da0878990c13e0284939d83626048 sha1 028058613992d93f5db454d9403a4f8bde1885d5 )
+	rom ( name MXX.MOR size 175 crc f2568ee2 md5 6df4bc3820b87a152b6bd1fb45bc1916 sha1 2dcfa262912de9a27604c1e444d86ecb19d7f304 )
+	rom ( name PHBRUI.MOR size 334 crc a167b710 md5 c4409678a7ad68615d1ab88681bf6951 sha1 82a656d48aea6af2184f7afbd761e6d1008a60d4 )
+	rom ( name PLXX.MOR size 2912 crc b0cd7ab3 md5 b58c69cb760cad337c42bd2e69ed61fc sha1 9f3359af25bf4bc8369ed45bd6d00980c0ff6196 )
+	rom ( name SAUV.MOR size 107 crc 0f38f4ef md5 fe4aa762f724a7af1c70c7d8b7171fb0 sha1 71560aafffbb84d2a036545e787dbeff17541796 )
+	rom ( name SAV0.MOR size 497 crc deed41eb md5 8293b4c0b3f9efdfe29c94b58028ee42 sha1 4605567ab8308633f6c4a4f03928205b94715bc1 )
+	rom ( name SAV1.MOR size 497 crc 4d4b887f md5 15f704205025b3ab81a9c38b4ebc7b13 sha1 e351b1107105290c8532972ef543c9235749e018 )
+	rom ( name SAV2.MOR size 497 crc deed41eb md5 8293b4c0b3f9efdfe29c94b58028ee42 sha1 4605567ab8308633f6c4a4f03928205b94715bc1 )
+	rom ( name SAV3.MOR size 497 crc 4d4b887f md5 15f704205025b3ab81a9c38b4ebc7b13 sha1 e351b1107105290c8532972ef543c9235749e018 )
+	rom ( name SAV4.MOR size 497 crc eb311867 md5 34845425578f582b4cfcf2f65009ff45 sha1 2204d01267eab538390568691b4e9e74e8cfea47 )
+	rom ( name SONMUS.MOR size 34944 crc e2c26520 md5 bc91983561d141411cdbd35c6291e169 sha1 fc0e7ee351b1dd24a1ce370f7c17fb20398ad45d )
+	rom ( name TXX.INP size 15946 crc 25e32c85 md5 00d4d91045934bd3c55e6c12e9db392b sha1 269faaa7a9298853712bcb7516b452949c11546c )
+	rom ( name TXX.NTP size 1761 crc b9e19c75 md5 c8ce0a2940f9ef40baecc63919ca09b1 sha1 9fc77e4b7a5c16fa8ca67002c0275f13c34d0652 )
 )
 
 game (
 	name mortevielle
 	description "Mortville Manor (DOS)[English on French][!]"
 	year 1989
-	manufacturer "Lankhor"
+	manufacturer Lankhor
 	sourcefile mortevielle
 	cloneof mortevielle-fr
 	romof mortevielle-fr
-	rom ( name ENGLISH.ROM size 32 crc 3f00bcc9 md5 6da41c26494a555afca8ed4962539a99 )
+	rom ( name ENGLISH.ROM size 32 crc 3f00bcc9 md5 6da41c26494a555afca8ed4962539a99 sha1 03c4207663af1baa35932c069ba80e797cebb3d5 )
 )
 
 game (
 	name mortevielle-fr-1
-	description "Mortville Manor (DOS/French)[a]"
+	description "Mortville Manor {Le Manoir de Mortevielle}(DOS/French)[a]"
 	year 1988
-	manufacturer "Lankhor"
+	manufacturer Lankhor
 	sourcefile mortevielle
-	rom ( name AXX.MOR size 15104 crc 84ed910a md5 1bdb13fe5a86193ec5ee0bb36473f2bb )
-	rom ( name AZZ.MOR size 1280 crc aa33b421 md5 591811ee63458165c0ee38e81242fa58 )
-	rom ( name BMOR.MOR size 1916 crc acf9a9ce md5 9fc35e6725eca9a62fc8cf78812a06c7 )
-	rom ( name BRUIT1 size 8382 crc c1adfb81 md5 da36191241dc858f01d6743731b8c3cb )
-	rom ( name BRUIT2 size 1890 crc e675b0e4 md5 2dee34c3c07999822c49b1dbdd7a9d37 )
-	rom ( name BRUIT3 size 8790 crc 632c7272 md5 5cb87ded3bb858aaa37dcd968a253a8d )
-	rom ( name BRUIT4 size 32000 crc 61415b07 md5 b94d2060524c43f4c98b24685ca7b711 )
-	rom ( name BRUIT5 size 19014 crc 7d5232a0 md5 37a3928a59e07266586dc3ad7ae2dde1 )
-	rom ( name BRUIT6 size 19097 crc 200043dd md5 7f0b7de44298f4e0693e0a82ab5deb3c )
-	rom ( name CFIEC.MOR size 105123 crc 22f96e67 md5 0e14f776fe60f2abf62c6e3285deb117 )
-	rom ( name CFIPH.MOR size 12760 crc 6bceeac9 md5 6cf16d3c6beabfa099f9d6322244cba4 )
-	rom ( name CHAI.MOR size 390 crc fbbe640e md5 b1834f4e9b724ef739936bbd959fff88 )
-	rom ( name CXX.MOR size 7577 crc db2edb4e md5 08cddb2917befe16ee504423113a3078 )
-	rom ( name DEC.MOR size 1664 crc 62e4afde md5 689e42c356a366ef35cc613587c32a77 )
-	rom ( name DON.MOR size 3674 crc c90f7b1e md5 eff42847830d559f09e647a345a1ef98 )
-	rom ( name DXX.MOR size 207744 crc 348a9e22 md5 36f886422fe0ff2799ae3c4d04a2064f )
-	rom ( name DZZ.MOR size 12288 crc d35ddbfd md5 02289b4456b8993713cd32d2f3cd5158 )
-	rom ( name FXX.MOR size 216 crc 4bb99df6 md5 f846fdbbcf964a411359f2e929734f98 )
-	rom ( name MENU.MOR size 160 crc 783dba01 md5 3fef0a3f8fca99fdcb6dbca8cbcef46f )
-	rom ( name MORT.000 size 6656 crc 30499286 md5 9662a696dfa07269e6ba7bba75a455bc )
-	rom ( name MORT.001 size 2816 crc 9cd81408 md5 ef0f270b0bd6136da3ce5a6e82a73340 )
-	rom ( name MORT.002 size 2048 crc dda9a00c md5 14b9f3c74d8185a83fb764d6ff3b1274 )
-	rom ( name MORT.003 size 8192 crc fbadf9aa md5 5ace9951ff6557b5aa3aaa711294f631 )
-	rom ( name MORT.004 size 4864 crc bc5a43ec md5 ef66452d8b8fe07da32024de5a5a37aa )
-	rom ( name MORT.005 size 5888 crc 0f56f10a md5 f3da862765ccab4f729aa1b35148e897 )
-	rom ( name MORT.006 size 18432 crc 9e2852d5 md5 a80c7029b3a4f5af3b9c2733ed584910 )
-	rom ( name MORT.EXE size 3708 crc bc884a5b md5 adcbfd476a2d8f456183a7700a738c08 )
-	rom ( name MORTEVIL.COM size 54694 crc 158e6570 md5 20e9df65e21fa515e462b257b56e4ab0 )
-	rom ( name MORTP2 size 79744 crc 5c87c3df md5 425da0878990c13e0284939d83626048 )
-	rom ( name MXX.MOR size 175 crc f2568ee2 md5 6df4bc3820b87a152b6bd1fb45bc1916 )
-	rom ( name PHBRUI.MOR size 334 crc a167b710 md5 c4409678a7ad68615d1ab88681bf6951 )
-	rom ( name PLXX.MOR size 2912 crc b0cd7ab3 md5 b58c69cb760cad337c42bd2e69ed61fc )
-	rom ( name SAUV.MOR size 107 crc dd6fbe94 md5 172fa72d762635d8ca82825ab035b662 )
-	rom ( name SONMUS.MOR size 34944 crc e2c26520 md5 bc91983561d141411cdbd35c6291e169 )
-	rom ( name TXX.INP size 15946 crc 25e32c85 md5 00d4d91045934bd3c55e6c12e9db392b )
-	rom ( name TXX.NTP size 1761 crc b9e19c75 md5 c8ce0a2940f9ef40baecc63919ca09b1 )
+	rom ( name AXX.MOR size 15104 crc 84ed910a md5 1bdb13fe5a86193ec5ee0bb36473f2bb sha1 782c9ce3c683786fe7fe3e8d2f3fda245ebc1d91 )
+	rom ( name AZZ.MOR size 1280 crc aa33b421 md5 591811ee63458165c0ee38e81242fa58 sha1 d58cc75318e28559789b18e963437f9fcb93baad )
+	rom ( name BMOR.MOR size 1916 crc acf9a9ce md5 9fc35e6725eca9a62fc8cf78812a06c7 sha1 389f3cafa5d1dcfc3f228450eecaf876b6573f4c )
+	rom ( name BRUIT1 size 8382 crc c1adfb81 md5 da36191241dc858f01d6743731b8c3cb sha1 ac71537d50090b007188028afd7b27b5d85b49e6 )
+	rom ( name BRUIT2 size 1890 crc e675b0e4 md5 2dee34c3c07999822c49b1dbdd7a9d37 sha1 bb09b8e48e75978936cb6d9d0e18ba36aed9510e )
+	rom ( name BRUIT3 size 8790 crc 632c7272 md5 5cb87ded3bb858aaa37dcd968a253a8d sha1 105116138755af3c371e21601537a1a6a5797bc6 )
+	rom ( name BRUIT4 size 32000 crc 61415b07 md5 b94d2060524c43f4c98b24685ca7b711 sha1 16bc0301304a12299cefcc1b3d30b630678af2dc )
+	rom ( name BRUIT5 size 19014 crc 7d5232a0 md5 37a3928a59e07266586dc3ad7ae2dde1 sha1 5713aa649db6aa3a907a68c47119b36ebf6bf95f )
+	rom ( name BRUIT6 size 19097 crc 200043dd md5 7f0b7de44298f4e0693e0a82ab5deb3c sha1 3a3e788477c3c21cc61e87da1f77642e2a9235f5 )
+	rom ( name CFIEC.MOR size 105123 crc 22f96e67 md5 0e14f776fe60f2abf62c6e3285deb117 sha1 211a73ca3aad62ddd0cf2c3294868b37210cb113 )
+	rom ( name CFIPH.MOR size 12760 crc 6bceeac9 md5 6cf16d3c6beabfa099f9d6322244cba4 sha1 0b6a9248cc11fa04bc3712af78866dad9353aa78 )
+	rom ( name CHAI.MOR size 390 crc fbbe640e md5 b1834f4e9b724ef739936bbd959fff88 sha1 bb7cfd6960d7485b880747ea84a1c74d169a58ec )
+	rom ( name CXX.MOR size 7577 crc db2edb4e md5 08cddb2917befe16ee504423113a3078 sha1 87f191f1c3790a23f7f2b0521549db89167a3880 )
+	rom ( name DEC.MOR size 1664 crc 62e4afde md5 689e42c356a366ef35cc613587c32a77 sha1 25c40cb7b8ce2fa646f5404b05660bdf59f1575b )
+	rom ( name DON.MOR size 3674 crc c90f7b1e md5 eff42847830d559f09e647a345a1ef98 sha1 6adeb8389962dec0e9974858ce9bc6b32f66ed0d )
+	rom ( name DXX.MOR size 207744 crc 348a9e22 md5 36f886422fe0ff2799ae3c4d04a2064f sha1 46508829c5b7f26336ad35ab737eed1c36934dab )
+	rom ( name DZZ.MOR size 12288 crc d35ddbfd md5 02289b4456b8993713cd32d2f3cd5158 sha1 5763a4db0597bffb63d66aa0ca771bd7874a3778 )
+	rom ( name FXX.MOR size 216 crc 4bb99df6 md5 f846fdbbcf964a411359f2e929734f98 sha1 9c9bc40b0f48676949365ee20adbbf0434ee9663 )
+	rom ( name MENU.MOR size 160 crc 783dba01 md5 3fef0a3f8fca99fdcb6dbca8cbcef46f sha1 95e9c9be9cd08fa897fe218ebf9eb533de66073d )
+	rom ( name MORT.000 size 6656 crc 30499286 md5 9662a696dfa07269e6ba7bba75a455bc sha1 971783ff7b2a54cfde962c798b85912a41d07c00 )
+	rom ( name MORT.001 size 2816 crc 9cd81408 md5 ef0f270b0bd6136da3ce5a6e82a73340 sha1 ca0141961d231f8add7dce4e4497b0fe13442783 )
+	rom ( name MORT.002 size 2048 crc dda9a00c md5 14b9f3c74d8185a83fb764d6ff3b1274 sha1 50aa72ffe141ce7fb499fd5f225cb0c6a41e14c0 )
+	rom ( name MORT.003 size 8192 crc fbadf9aa md5 5ace9951ff6557b5aa3aaa711294f631 sha1 85c4c1d06e7dab8393c8f73983372d3e3f537fba )
+	rom ( name MORT.004 size 4864 crc bc5a43ec md5 ef66452d8b8fe07da32024de5a5a37aa sha1 092576e1f7a3afcba5c7500d05f6b2d56d655f05 )
+	rom ( name MORT.005 size 5888 crc 0f56f10a md5 f3da862765ccab4f729aa1b35148e897 sha1 de95c93326d6d14a2902627141f831be3b72383d )
+	rom ( name MORT.006 size 18432 crc 9e2852d5 md5 a80c7029b3a4f5af3b9c2733ed584910 sha1 471933d9487410f4fc17bd9985a51479fed3b74f )
+	rom ( name MORT.EXE size 3708 crc bc884a5b md5 adcbfd476a2d8f456183a7700a738c08 sha1 78aa9c9a37ec98ae1c14291879a64511b312e0e3 )
+	rom ( name MORTEVIL.COM size 54694 crc 158e6570 md5 20e9df65e21fa515e462b257b56e4ab0 sha1 f4e90e890e702f20ce12a4d928b0a02add2c9e87 )
+	rom ( name MORTP2 size 79744 crc 5c87c3df md5 425da0878990c13e0284939d83626048 sha1 028058613992d93f5db454d9403a4f8bde1885d5 )
+	rom ( name MXX.MOR size 175 crc f2568ee2 md5 6df4bc3820b87a152b6bd1fb45bc1916 sha1 2dcfa262912de9a27604c1e444d86ecb19d7f304 )
+	rom ( name PHBRUI.MOR size 334 crc a167b710 md5 c4409678a7ad68615d1ab88681bf6951 sha1 82a656d48aea6af2184f7afbd761e6d1008a60d4 )
+	rom ( name PLXX.MOR size 2912 crc b0cd7ab3 md5 b58c69cb760cad337c42bd2e69ed61fc sha1 9f3359af25bf4bc8369ed45bd6d00980c0ff6196 )
+	rom ( name SAUV.MOR size 107 crc dd6fbe94 md5 172fa72d762635d8ca82825ab035b662 sha1 f06bd144207a9e4b1884df1d1137d665ecdf8e18 )
+	rom ( name SONMUS.MOR size 34944 crc e2c26520 md5 bc91983561d141411cdbd35c6291e169 sha1 fc0e7ee351b1dd24a1ce370f7c17fb20398ad45d )
+	rom ( name TXX.INP size 15946 crc 25e32c85 md5 00d4d91045934bd3c55e6c12e9db392b sha1 269faaa7a9298853712bcb7516b452949c11546c )
+	rom ( name TXX.NTP size 1761 crc b9e19c75 md5 c8ce0a2940f9ef40baecc63919ca09b1 sha1 9fc77e4b7a5c16fa8ca67002c0275f13c34d0652 )
 )
 

@@ -1,0 +1,110 @@
+clrmamepro (
+	name "ScummVM GLK-Quest"
+	description "ScummVM - GLK Engine - Quest Games"
+	category "ScummVM"
+	version v1.01
+	date 2021-04-27
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name adventureq
+	description "Adventure! (Multi-OS)"
+	year 2011
+	manufacturer "Caden James"
+	sourcefile glk-quest
+	rom ( name adventure.cas size 6974 crc cae91a5e md5 ac848ea6f41e6ddde1728c471a6e89a3 sha1 1e148753b3b5b2d44669074ad531a081b89a501d )
+)
+
+game (
+	name attemptedassassination
+	description "Attempted Assassination (Multi-OS)[v3.15]"
+	year 2005
+	manufacturer "Matt Slotnick"
+	sourcefile glk-quest
+	rom ( name attempted_assassination.asl size 18833 crc 426d4b16 md5 1e97ff121bbcc863b1f546643e1b95b7 sha1 f1a8b5a495131cf99f505dd31e133cc8207252b0 )
+)
+
+game (
+	name beam
+	description "Beam (Multi-OS)[v1.10][!]"
+	year 2006
+	manufacturer "Madrone Eddy"
+	sourcefile glk-quest
+	rom ( name Beam_1_10.cas size 68543 crc 51c0c08d md5 0f7099f9c08df5512e520a30abff21a4 sha1 aa6b325f1fc5ccac1d2268df4f09851cb2fb3d9f )
+)
+
+game (
+	name bladesentinel
+	description "Blade Sentinel, The (Multi-OS)[!]"
+	year 2002
+	manufacturer "Mihalis Georgostathis"
+	sourcefile glk-quest
+	rom ( name bladesentinel.asl size 51473 crc 75e0a1fb md5 3eeaada74ef199c881826ec8922cd933 sha1 c37d7e153ede5f198ef6f674950d878b0c44ce35 )
+)
+
+game (
+	name gatheredindarkness
+	description "Gathered in Darkness (Multi-OS)[v1.0][!]"
+	year 2007
+	manufacturer "Michael 'Dr.Froth' Millsap"
+	sourcefile glk-quest
+	rom ( name Gatheredindarkness.cas size 1052274 crc decd1da7 md5 7617a463c9185100531cd5f13141dcf0 sha1 bd32f7cefdad38aec16582a82291d9dd45a3a94e )
+)
+
+game (
+	name hauntedhorror
+	description "Haunted Horror (Multi-OS)[v2.00]"
+	year 2005
+	manufacturer "Matt Slotnick"
+	sourcefile glk-quest
+	rom ( name haunted_horror.asl size 19635 crc 45c6a416 md5 c85046fcdec5f19e0379555abd748537 sha1 79fa91591f21ac7c8956270b3c46dcef326d7e22 )
+)
+
+game (
+	name lovesong
+	description "Lovesong (Multi-OS)[v1.0][!]"
+	year 2001
+	manufacturer "Mihalis Georgostathis"
+	sourcefile glk-quest
+	rom ( name lovesong.asl size 41264 crc 18dfb857 md5 d003206151fe060726da6ab1f7b730db sha1 b579e416784471879b2c659a1a2541b75f59ec78 )
+)
+
+game (
+	name magicworld
+	description "Magic World (Multi-OS)"
+	year 2009
+	manufacturer "Maryssa"
+	sourcefile glk-quest
+	rom ( name Magic.asl size 15176 crc 35224282 md5 8ab1eeb70acb6011ee1262ea197d7f61 sha1 147ed83327009fd52d91ae137e175c0c619447f8 )
+)
+
+game (
+	name redsaucemonday
+	description "Red Sauce Monday (Multi-OS)"
+	year 2010
+	manufacturer "Tom Clark"
+	sourcefile glk-quest
+	rom ( name redsaucemonday.asl size 20324 crc 9266249d md5 47aeaa7919f3fe8e6948168449f79970 sha1 1467ea0368750b6474e04935c0af90d4ed51d784 )
+)
+
+game (
+	name worldsend
+	description "World's End (Multi-OS)[v1.0]"
+	year 2009
+	manufacturer "bloodbath"
+	sourcefile glk-quest
+	rom ( name "cube gun.wav" size 2879314 crc 21f08ac5 md5 be15483b67538b55536c4e521b8aa3b2 sha1 a8c2b151730f3073726273b18d65e7d603726fc1 )
+	rom ( name die.wav size 167404 crc e679ebf3 md5 fa560d832cedb67b102968126eea9452 sha1 7ed38ab285d292e9269c37479b2e6dad73c9f201 )
+	rom ( name laser1.wav size 30778 crc f70c875c md5 882d2bdb3d5315355b48f8e1a735fe34 sha1 8b9a88ad0aee1e6d6a2d0796a31d798a662cd630 )
+	rom ( name laser2.wav size 55202 crc 8acee677 md5 2ba9b84c10eccfaa079ff157171f4269 sha1 59bc0e5720aefbd952cfe9f89f5d1b3605d459e1 )
+	rom ( name "night club.wav" size 4105884 crc f69d88aa md5 acfb12e4acb576ab9cd6f9dbdfd1a159 sha1 7b66874f36b95510a76c270d447f44d85489fe4f )
+	rom ( name smash.wav size 12178 crc be393118 md5 e6c1230182a6fd94741b013b9825428c sha1 31c418ca242eb309a9401bc809497b1a8613ddb3 )
+	rom ( name "smg long burst.wav" size 424342 crc 1ec63fd3 md5 0a545f4ddcbeacb67895f8b41d44b869 sha1 77c62ccec4e276545cf0cdc172f652504fff3132 )
+	rom ( name "smg short burst.wav" size 136216 crc c2ef9ef0 md5 863a4993d10ca0887cea873d05dbd272 sha1 d177d322b8cd3db46d2dfe6018d80c68bf6c5d48 )
+	rom ( name "smg single shot.wav" size 59422 crc 21d359a7 md5 2e89ceb18c6fc130587e2e8be403f6c2 sha1 24b63ce9f45512e466f940bcf1398fbecf36b5f8 )
+	rom ( name "world's end.asl" size 73396 crc f7d1adfb md5 130ccb67703832bfad6634be8dddf67b sha1 849599898f9a8b4fb583dd9137d75918ed8e225e )
+)
+

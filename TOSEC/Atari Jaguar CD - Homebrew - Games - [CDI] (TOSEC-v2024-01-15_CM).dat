@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Homebrew - Games - [CDI]</name>
+		<description>Atari Jaguar CD - Homebrew - Games - [CDI] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC-ISO</category>
+		<version>2024-01-15</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beebris SE (2009)(Bad Crew - Reboot)">
+		<description>Beebris SE (2009)(Bad Crew - Reboot)</description>
+		<rom name="Beebris SE (2009)(Bad Crew - Reboot).cdi" size="16334440" crc="9d017fc8" md5="0aa18c5ac6977be49fa11fa94314b52a" sha1="fa62f7bdb1e7bd654ed3966383a714d61d608094"/>
+	</game>
+	<game name="Degz (2012)(Reboot)">
+		<description>Degz (2012)(Reboot)</description>
+		<rom name="Degz (2012)(Reboot).cdi" size="16334440" crc="c09e410b" md5="e999b452dbbe892b8d24bb6c97503942" sha1="063c547fb4e22384f967cd77f4ccafd668320902"/>
+	</game>
+	<game name="Downfall (2011)(Reboot)">
+		<description>Downfall (2011)(Reboot)</description>
+		<rom name="Downfall (2011)(Reboot).cdi" size="16334440" crc="8bed0f08" md5="51a69397824d347e67ec8f0efc69f6f5" sha1="bb3f3205853263b9929a28ef19844f9462953acd"/>
+	</game>
+	<game name="Expressway (2013)(Reboot)">
+		<description>Expressway (2013)(Reboot)</description>
+		<rom name="Expressway (2013)(Reboot).cdi" size="16334440" crc="2f7f9936" md5="2472c5653405aa45aa87c076754acd0b" sha1="69095ec9aef8afdad642ce3231aff75b6655b2c7"/>
+	</game>
+	<game name="Frog Feast (demo) (2005)(RasterSoft)(PD)">
+		<description>Frog Feast (demo) (2005)(RasterSoft)(PD)</description>
+		<rom name="Frog Feast (demo) (2005)(RasterSoft)(PD).cdi" size="4307273" crc="9ab87862" md5="a4f7a66cbf468ba8527c00d19da37fb8" sha1="c52cfc8e86f713cf12e598a76e3cc87862c1da9f"/>
+	</game>
+	<game name="Full Circle - Rocketeer (demo-playable) (2013)(Reboot)">
+		<description>Full Circle - Rocketeer (demo-playable) (2013)(Reboot)</description>
+		<rom name="Full Circle - Rocketeer (demo-playable) (2013)(Reboot).cdi" size="16334440" crc="67b0c629" md5="651f6076fe47024f1e64944ab27b8ff7" sha1="75f0fe79d6662e96fc2b56983f7cbea40e07d2d7"/>
+	</game>
+	<game name="Jagmatch (2015)(Mihai, Sebastian)">
+		<description>Jagmatch (2015)(Mihai, Sebastian)</description>
+		<rom name="Jagmatch (2015)(Mihai, Sebastian).cdi" size="16334440" crc="ee114035" md5="7f7eb633f7415703b83620af49449bed" sha1="8254706690c7bf411973f3894e0430aff0dde2a5"/>
+	</game>
+	<game name="Kobayashi Maru (2011)(Reboot)">
+		<description>Kobayashi Maru (2011)(Reboot)</description>
+		<rom name="Kobayashi Maru (2011)(Reboot).cdi" size="16334440" crc="c2dc5871" md5="1a54df8eb70d13e6db3a56c35f51c7a9" sha1="c3197a13ff7e01f9cb602ba81a4eeb21ced0e530"/>
+	</game>
+	<game name="Kobayashi Maru - Final (demo-playable) (2011)(Reboot)">
+		<description>Kobayashi Maru - Final (demo-playable) (2011)(Reboot)</description>
+		<rom name="Kobayashi Maru - Final (demo-playable) (2011)(Reboot).cdi" size="16334440" crc="efbbe60b" md5="e796fc84fdb4f4b2e5ea94c98a83bd51" sha1="188d60d8ced4440a93bde68990d31853e97a59bb"/>
+	</game>
+	<game name="Rocks Off! (2012)(Reboot)">
+		<description>Rocks Off! (2012)(Reboot)</description>
+		<rom name="Rocks Off! (2012)(Reboot).cdi" size="16334440" crc="7513bf3c" md5="0072af45b5a34831b76fa741a3d16db9" sha1="c22c84b575611a33d0c619b8b63654999a0804df"/>
+	</game>
+	<game name="SuperFly DX v1.1 (2010)(Reboot)">
+		<description>SuperFly DX v1.1 (2010)(Reboot)</description>
+		<rom name="SuperFly DX v1.1 (2010)(Reboot).cdi" size="16334440" crc="6abbf100" md5="dd749830a6e7447f23a7f1f3a85803d3" sha1="7cf73aa7420bf8837aae735ec777bb2a0a2d8852"/>
+	</game>
+</datafile>

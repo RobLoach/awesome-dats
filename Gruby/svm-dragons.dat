@@ -1,0 +1,121 @@
+clrmamepro (
+	name "ScummVM DRAGONS"
+	description "ScummVM - DRAGONS Engine Games"
+	category "ScummVM"
+	version v1.01
+	date 2020-09-13
+	author Gruby
+	forcemerging split
+	forcenodump required
+)
+
+game (
+	name dragons-de
+	description "Blazing Dragons (PlayStation/German)[!]"
+	year 1996
+	manufacturer "The Illusions Gaming Company"
+	sourcefile dragons
+	rom ( name ARC1.BIN size 11404 crc 122b39d8 md5 7a0c518b14765a0d02326efe183663a1 sha1 55b22bd3be76d67e47312537b797ffc2f17891b3 )
+	rom ( name ARC2.BIN size 12816 crc eb9a2a0a md5 fa42a93f0936e6b4b70e1ddd13a5413a sha1 c72924a61b3b26d6bc7bc5ea1d28f75dbba5a964 )
+	rom ( name ARC3.BIN size 10032 crc 669f8cb1 md5 bee46649df69d8079767291843b05372 sha1 52c14e0d98031b3e6c8079d793966a75c1ec3e72 )
+	rom ( name ARC4.BIN size 4976 crc c9749159 md5 06f84758488cb1d01129eea4ebd74e22 sha1 bc348a38293cfa25f00bdc7d4d4f9d2357ee8a1f )
+	rom ( name ARC5.BIN size 6464 crc a36c3a6d md5 b12872d35527145c2155417a8ae9aeae sha1 7143e11578e7f61e3b4eaa8dcaa5ed04bf2989c6 )
+	rom ( name BIGFILE.DAT size 45099008 crc 5eacceec md5 d0fdaaba8db7b33f1c061ce8439226bb sha1 2d8aa979cd143b904b3b19472fe57bb19ad70a68 )
+	rom ( name CRYSTALD.STR size 4287696 crc f687b98d md5 f453eea49f21efa16848b3154c979817 sha1 e45e900b139f468db69d72cf8426f5ffcce1c70a )
+	rom ( name DRAGON.EXE size 372736 crc 95e7e955 md5 31159a43a3a714c26f64b469138b7541 sha1 3b943d937c1c070bef502dd7d9d75ea6aced7e2a )
+	rom ( name DTSPEECH.XA size 284046336 crc 656a545b md5 d430e6812b9f846acbe9d48d8adeffed sha1 136103c25aef3d42321040258924e6be3bebd0b9 )
+	rom ( name ILLUSION.STR size 4513488 crc 1b62b430 md5 c76eddee45bb4a0cfcf2fbb72037bdd2 sha1 d9765aef4925119dacf180b30652411957522499 )
+	rom ( name LABINTRO.STR size 17797584 crc 970852b8 md5 730f5c0ba4bc2f456d83ee954185704a sha1 6058a8c306047a1f6e8c30f9acb8b82ab8fc4466 )
+	rom ( name LOADPIC.TIM size 128020 crc bf9a7bf7 md5 c18aa9daa115b8204d9fc773f9a4835f sha1 4b79cc38f27365039456e018eadec1bbfaa8e8c9 )
+	rom ( name PIRACY16.TIM size 128020 crc ce507e00 md5 8395b08b28b80fa6d697c6895d258901 sha1 8b9a03f0ba9bfa879f11fb900678bf310835dab6 )
+	rom ( name PREVIEWS.STR size 32257680 crc 88c69936 md5 6da5d3d6f7d99757e9d44a536f47ea3f sha1 07dff9ff4605160d25bd1fa2f8bfb58323078a3a )
+)
+
+game (
+	name dragons-fr
+	description "Blazing Dragons (PlayStation/French)[!]"
+	year 1996
+	manufacturer "The Illusions Gaming Company"
+	sourcefile dragons
+	rom ( name ARC1.BIN size 11404 crc 830f9525 md5 82b442da084b38c43e19fbfbec0af497 sha1 51bce8a912be925dd8da634adb2437f4453b6c33 )
+	rom ( name ARC2.BIN size 12816 crc 43fe6504 md5 88dd540766f25ca8f337fc6fdefca73b sha1 1ae00f59732d036b24df8731c9ffe2876d640119 )
+	rom ( name ARC3.BIN size 10032 crc 3f510e60 md5 4c1f78d2bc21f4ee697d08b17919cea4 sha1 590dfad41250c314e557c940a406df0599c01ce3 )
+	rom ( name ARC4.BIN size 4976 crc 50762b66 md5 3873e69294c5546249f3d227b8d5a23f sha1 0170ae326b795c09c67a33bf676c33801d106bf3 )
+	rom ( name ARC5.BIN size 6464 crc b9c9ae66 md5 f3e6ed99e35e0d9d5ae5663c98f6a14e sha1 0cbb68ee19e748b08a133696941d18fb59c0e642 )
+	rom ( name BIGFILE.DAT size 45107200 crc 129519ce md5 2b36db4100bd45ec3d96ca351c993d56 sha1 6b7ee647b7aaf38d9c108b44038f4a5e65946578 )
+	rom ( name CRYSTALD.STR size 4287696 crc 9e0ca3ce md5 a4e62f0e15bede7c3e24fcca10bc3d4a sha1 c164e92ed86894e091057e685dc418f2ca82f86d )
+	rom ( name DRAGON.EXE size 372736 crc 229748ed md5 9680e6e7b6fcedd3bda079fa571a734c sha1 86475871c1f64babe385d0add3cc6deaac96824a )
+	rom ( name DTSPEECH.XA size 205545984 crc 6f31075a md5 dc2baf1040d9a422e346816487c62d20 sha1 10d0a731c6b823d897c91c1889c832e6df232fbd )
+	rom ( name ILLUSION.STR size 4513488 crc ddbfbad3 md5 863f8e2ff3ce54289df627a16552e7fa sha1 81e329171ee8f00a04930dd566cb2c3e085cfe20 )
+	rom ( name LABINTRO.STR size 17797584 crc 3ca9b03c md5 1f293ed27bfffefb39c134dd7da717ec sha1 39ecbf7c1bb0d88484aa094ad5a15d1a99104a33 )
+	rom ( name LOADPIC.TIM size 128020 crc 15e2fe5b md5 dfd1bfdff7a1f35445e07f26f4fa5c96 sha1 dd69943c21cddacf5da4842a91e692bd0a45ab66 )
+	rom ( name PIRACY16.TIM size 128020 crc ce507e00 md5 8395b08b28b80fa6d697c6895d258901 sha1 8b9a03f0ba9bfa879f11fb900678bf310835dab6 )
+	rom ( name PREVIEWS.STR size 32257680 crc 2a0ee6e5 md5 c49f87adc01df7d9ecfd9c4931b2e091 sha1 14c48d49a25359ed7722919f677fa0af51bf0313 )
+)
+
+game (
+	name dragons-gb
+	description "Blazing Dragons (PlayStation)[UK][!]"
+	year 1996
+	manufacturer "The Illusions Gaming Company"
+	sourcefile dragons
+	rom ( name ARC1.BIN size 21640 crc 1f719282 md5 289a4e9739527b1201ddbd194c0cfd7a sha1 a997c5d96e366ac820900e93e4b25d5783771275 )
+	rom ( name ARC2.BIN size 21568 crc f6882072 md5 58163ad9357602106ba98c5bdbc35121 sha1 14afe8e45b23d2b6d9a068f754c42cf22cd4d7ab )
+	rom ( name ARC3.BIN size 18920 crc 674a8f2d md5 3e1d65a6e36b78997a8425376d61af00 sha1 5748d102a0fd2310b09b20d7fb082bbc4fcccae5 )
+	rom ( name ARC4.BIN size 7096 crc 95f0e62c md5 3fc5fb3b75c84303ee6ebfad9bb2df58 sha1 8ecf6e84efa55e9584b4f71a5f86f4a8eb3c0369 )
+	rom ( name ARC5.BIN size 12564 crc 2cbe5d10 md5 9cda5e0583f41fa0f7837b5f7cece139 sha1 4864c8db0cc4ba5fb76b7df48221a791fdab44ad )
+	rom ( name BIGFILE.DAT size 44992512 crc b8d9106c md5 8e224e84aa9f8b45b68e0cce7f46d40a sha1 23d30ab5e84a5223f6f41ebcedf2bc7b1776cb08 )
+	rom ( name CRYSTALD.STR size 4287696 crc 9e7065e5 md5 c1db772d2591fef7eed6e608af0046cf sha1 adcff6e5a2f0f4bbe1818a1fed77918d360c2a19 )
+	rom ( name DRAGON.EXE size 374784 crc d8839808 md5 f4cd0728ed5de2f88c88614ccb469814 sha1 e5d520690dcef13e4db00a541ab43b6fb41ef416 )
+	rom ( name DTSPEECH.XA size 182138880 crc 20bb087b md5 862fe024e11dfc24ee244b8e5461a049 sha1 0f7cb537066474f67a506a68decd93a404f3b099 )
+	rom ( name ILLUSION.STR size 4513488 crc d9a31f0d md5 1ee896fa53846b12b8bf714028782bcd sha1 a3c9d293d5b26c9b9da828b3217b98e76adca108 )
+	rom ( name LABINTRO.STR size 17496528 crc 049f7c07 md5 4d5b1e5aefbf61f6e970f8ecceb82009 sha1 befb2727a2fbafab8abf28b5bc84472531f9e9a8 )
+	rom ( name LOADPIC.TIM size 128020 crc d2316551 md5 577d5d31964f255d7c53e4c439c322e6 sha1 3c9edfd57fba159bbae20cc03a7ce6eb06806b87 )
+	rom ( name PIRACY16.TIM size 128020 crc ce507e00 md5 8395b08b28b80fa6d697c6895d258901 sha1 8b9a03f0ba9bfa879f11fb900678bf310835dab6 )
+	rom ( name PREVIEWS.STR size 32257680 crc ac7e45df md5 6758e08d514fff07254fb28a9565d466 sha1 5776cb0fa32bb4c520f2e307bed8ddcdbbb379ef )
+)
+
+game (
+	name dragons-ru
+	description "Blazing Dragons (PlayStation/Russian)[!]"
+	year 1996
+	manufacturer "The Illusions Gaming Company"
+	sourcefile dragons
+	romof dragusres
+	rom ( name CRYSTALD.STR size 4287696 crc 392feeae md5 b7fb6260935b7a106d060a0009de5869 sha1 e6805f2aab5d86f31a247c046541d1281ce49a77 )
+	rom ( name DTSPEECH.XA size 182138880 crc 10fbe51f md5 4447e62a145ad0bcf987dffb3862fe58 sha1 1d140ade63db74254cd83665e420095c6eedd5d2 )
+	rom ( name ILLUSION.STR size 4513488 crc 8398f0bd md5 bf163a758ac70e43b4d9e92ea5f2d628 sha1 2540db19b6362669df007d74c04535c7f0f249c6 )
+	rom ( name LABINTRO.STR size 17496528 crc 6547dbec md5 dcbaf9dcd5bd1c72cc0f02f0c33388fc sha1 3215a410fd56ea61a47f9d58ddadaf55c95bd471 )
+	rom ( name PREVIEWS.STR size 32257680 crc 2d397cfb md5 aa041a32863445f3ed673daab320d9c3 sha1 fd73185154facc50cc816e5bcb046bfaaeeefa68 )
+)
+
+game (
+	name dragons-us
+	description "Blazing Dragons (PlayStation)[US][!]"
+	year 1996
+	manufacturer "The Illusions Gaming Company"
+	sourcefile dragons
+	romof dragusres
+	rom ( name CRYSTALD.STR size 4287696 crc dfdd9cd1 md5 f63c1959eacb43e3b6e8c987733d6cdf sha1 6db00f7dedf4e31f5e53e9d6a68c9e0109bada27 )
+	rom ( name DTSPEECH.XA size 182138880 crc 26f21d2d md5 634dba13064c5deb4058702b9b332b46 sha1 5215ee7b9b5cecd2afeb590eec5ecdbf2bb830a5 )
+	rom ( name ILLUSION.STR size 4513488 crc 93d72e05 md5 739ce8bdff060caff8d06f988713623b sha1 f8457eb0d79568e8d6392a08b035632452fc1793 )
+	rom ( name LABINTRO.STR size 17496528 crc d9d428f2 md5 60f93e2320fbb4ea8295eaa2ac1bd6ba sha1 82170da62eb877fc3b123e15b22ea7d794692a2d )
+	rom ( name PREVIEWS.STR size 32257680 crc 4fdb7dbb md5 721e803980e6bf79f21a4c834dfe6a34 sha1 fc0719fb66ae768d2f24313f31b9a0c455bda86e )
+)
+
+resource (
+	name dragusres
+	description "ZZZ - Blazing Dragons - PlayStation US Resources[!]"
+	year 1996
+	manufacturer "The Illusions Gaming Company"
+	sourcefile dragons
+	rom ( name ARC1.BIN size 21640 crc 4497f4a5 md5 8359cc1ddd140ce47bc4e19cfccbe19f sha1 54105759fb7446bf26239484ef336a15e2665933 )
+	rom ( name ARC2.BIN size 21568 crc 2e09a9b7 md5 15e3ab07ad0730d1d0f4baf9d9781ce6 sha1 793cb9e064aab594bd7c06c59e7df07d9ce14180 )
+	rom ( name ARC3.BIN size 18920 crc b7f986ff md5 dea7f8d3adcce87e06856c9a8e70f27a sha1 c94ab3838b57f926bfe4e1dd44d5202fae21c0ec )
+	rom ( name ARC4.BIN size 7096 crc f3eb9d46 md5 433829b4db1508b1999fa6d807dc7cef sha1 1d3bad7187b0ae139d171c351e533edd28ef52dc )
+	rom ( name ARC5.BIN size 12564 crc 9f83eaa5 md5 dfcfcc7b723c85032f6da1d38021623c sha1 eceb2d0b7b1d8f685465dd977f400e302d50db30 )
+	rom ( name BIGFILE.DAT size 44990464 crc b1aea2ac md5 04e32f16a5e2360bce4b039b5671b06d sha1 efa69d39d4e0af1750d1a7126c6bdc630175124e )
+	rom ( name DRAGON.EXE size 368640 crc 65fc120e md5 bdc0cdc9c4c7c313c98fd43e01650032 sha1 c342302e6cea6739c3b6e82d088b33f747fb44d5 )
+	rom ( name LOADPIC.TIM size 128020 crc d2316551 md5 577d5d31964f255d7c53e4c439c322e6 sha1 3c9edfd57fba159bbae20cc03a7ce6eb06806b87 )
+)
+

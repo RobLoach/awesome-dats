@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>438</id>
+		<name>Bandai Little Jammer Pro (BIN)</name>
+		<description>Bandai Little Jammer Pro (BIN)</description>
+		<version>20240427-023629</version>
+		<author>SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="LIVE! Screen Music I STAGE.03 (World)" id="0002">
+		<description>LIVE! Screen Music I STAGE.03 (World)</description>
+		<rom name="LIVE! Screen Music I STAGE.03 (World).bin" size="2097152" crc="ab816eba" md5="565cdd290bf15946fc94f46680d26e2b" sha1="b2c7e751d3fcf399d672fc3b4e627ba2360b06bd" sha256="937a890ea0cfd89658e41bc95c556fe7eea7e053196f7a6ccbb2dc534399384f"/>
+	</game>
+	<game name="LIVE! Standard Jazz I STAGE.01 (World)" id="0001">
+		<description>LIVE! Standard Jazz I STAGE.01 (World)</description>
+		<rom name="LIVE! Standard Jazz I STAGE.01 (World).bin" size="2097152" crc="c0668ffd" md5="1cf2422efec5e2220251be2dc3aaaa57" sha1="7bce921f21a861c2be512d86af68fd46f5b4c39b" sha256="cf7a4dff056375f7bdc0930921702b35b685f6c048b0e343c5ca6dde42afae20"/>
+	</game>
+</datafile>

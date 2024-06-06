@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Samplers - [BIN]</name>
+		<description>IBM PC Compatibles - CD - Samplers - [BIN] (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bedlam Demo Disk (demo) (1996)(GT Interactive)(AU)">
+		<description>Bedlam Demo Disk (demo) (1996)(GT Interactive)(AU)</description>
+		<rom name="Bedlam Demo Disk (demo) (1996)(GT Interactive)(AU).bin" size="27967632" crc="b45accff" md5="c415b1a2890eb8fd5fd4cff117d84196" sha1="01b0836af51e42c8cb43a689d6903147b87b9449"/>
+		<rom name="Bedlam Demo Disk (demo) (1996)(GT Interactive)(AU).cue" size="139" crc="73db2d52" md5="3b8b1c8c1cdd93120a6936ee92e2507f" sha1="bdf128cee60e3022ac2aca8b86faecc18eac5c4f"/>
+	</game>
+	<game name="Harry Potter and the Half-Blood Prince (demo) (2009)(Electronic Arts)(AU)">
+		<description>Harry Potter and the Half-Blood Prince (demo) (2009)(Electronic Arts)(AU)</description>
+		<rom name="Harry Potter and the Half-Blood Prince (demo) (2009)(Electronic Arts)(AU).bin" size="717129504" crc="7852e651" md5="20ddb04038f5c1c0cb21fff133743765" sha1="724342f95415ee620657a0a8a8f22c16922b5396"/>
+		<rom name="Harry Potter and the Half-Blood Prince (demo) (2009)(Electronic Arts)(AU).cue" size="162" crc="992644ca" md5="a313fe98ea2f4cb527ae56043df4a2fa" sha1="9728ba9e6c8640c2aa06b54a513e3808f0eba7d9"/>
+	</game>
+	<game name="Matrox Millennium G200 SD - MotorHead CD-ROM (1998)(Matrox)">
+		<description>Matrox Millennium G200 SD - MotorHead CD-ROM (1998)(Matrox)</description>
+		<rom name="Matrox Millennium G200 SD - MotorHead CD-ROM (1998)(Matrox).bin" size="247783200" crc="9b758ecb" md5="f69561fb20d2c761f6e549912de59096" sha1="da86da0884c7a906a5aa8edf6cf10f70974ef79a"/>
+		<rom name="Matrox Millennium G200 SD - MotorHead CD-ROM (1998)(Matrox).cue" size="148" crc="e87d7580" md5="810811f46ac7465ebce6ef9db7774d87" sha1="72a5cdf942072142a3cba45a3351fcba9eb9bff8"/>
+	</game>
+	<game name="Microsoft eXPerience (2002)(Microsoft)">
+		<description>Microsoft eXPerience (2002)(Microsoft)</description>
+		<rom name="Microsoft eXPerience (2002)(Microsoft).bin" size="806481984" crc="c87ed8d2" md5="39c451792cfcfaffb954ad690c96dd49" sha1="381b1a8bdc0423b7448443546453ec8324185bc1"/>
+		<rom name="Microsoft eXPerience (2002)(Microsoft).cue" size="127" crc="bdc54626" md5="2ad6f3c6eda649220602a5b643f6684d" sha1="d5956a04c648359be0a76f31603ddbc8672a2b72"/>
+	</game>
+	<game name="Microsoft Home CD Sampler (1995)(Microsoft)">
+		<description>Microsoft Home CD Sampler (1995)(Microsoft)</description>
+		<rom name="Microsoft Home CD Sampler (1995)(Microsoft).bin" size="470188320" crc="6d7f1a8c" md5="bed2dcbfd37d9088f09e95a2c9235398" sha1="cbb5958f6f93add0568b1d04e69fa279800ed40c"/>
+		<rom name="Microsoft Home CD Sampler (1995)(Microsoft).cue" size="132" crc="28b8043e" md5="d8ac593646d0896ca462fd1ab0aac791" sha1="e8abfe5a0136d213331bda082bfb4767ecaf68b3"/>
+	</game>
+	<game name="Microsoft Windows 95 Starts Here (1995-07)(Microsoft)[OEM]">
+		<description>Microsoft Windows 95 Starts Here (1995-07)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Windows 95 Starts Here (1995-07)(Microsoft)[OEM].bin" size="704776800" crc="d314b7e9" md5="fb60759d1cc00ba8f3dfc3f2d40c9b47" sha1="388c8aba6cb419ad9a7d37d8f4a98bb629a201ff"/>
+		<rom name="Microsoft Windows 95 Starts Here (1995-07)(Microsoft)[OEM].cue" size="147" crc="a26a28f8" md5="ea50e0817fee2d7f850b90dc83a9bd90" sha1="890fdece8d435e98190e599876345c59ad891c05"/>
+	</game>
+	<game name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release]">
+		<description>Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release]</description>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 01 of 10).bin" size="400124592" crc="dde2950d" md5="e4b505317ee7c3a950a41828ecd05cc3" sha1="cc516ed0a13b0d62d3fdf93d37a0c513b3945ceb"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 02 of 10).bin" size="33899376" crc="583ccb5a" md5="5c24305ff3cc1c4c049740858aa152e5" sha1="424732ce60b86c81cb21b99a0be903e102bb0490"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 03 of 10).bin" size="31728480" crc="5c3ccf81" md5="f070a7f1474eb0611a93a46139ec1503" sha1="01f4f9f36878fa2f20fd03320d8a0673612b53dd"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 04 of 10).bin" size="30750048" crc="be9c8cb6" md5="9dc78cafcebc44089bf1ba0a7e04503a" sha1="bdb71816cf2968ff06d9f8a4fcfd512e1793797b"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 05 of 10).bin" size="39285456" crc="3cf69e9c" md5="dd2366fc5513c6d351fe3ede6f585484" sha1="7d677da3fdfa1bd993041ff139ebe78b3be1bbb6"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 06 of 10).bin" size="34226304" crc="6be5c1ab" md5="f5b8abf9064b999ab6e2a59c3d04b4e0" sha1="72cdc716cf2ad03834742f0a353d4dd2b6d80fa4"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 07 of 10).bin" size="37648464" crc="2b9447ef" md5="65c15b57d659b52e58990c07565b2df1" sha1="e17691a23ad7df9afd894156c3080872c596de43"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 08 of 10).bin" size="30632448" crc="1a67acea" md5="193b2fe0aaa10a11dd7967132e07c207" sha1="9ce7f321402fdf8c409aabb1491cff1eb4709bc3"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 09 of 10).bin" size="33711216" crc="d2308e66" md5="daedeea2179b110b66b1a48c3c11fd44" sha1="281faa758da5c2067ca599435e90ab70547cc29d"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release] (Track 10 of 10).bin" size="39306624" crc="e37212d3" md5="dd9c3046a98ccfd7d72ce18107ca281a" sha1="04364680aa32d76f21a58166fe5ae125dc6ca3ca"/>
+		<rom name="Monster Truck Madness 2 (demo) (1998-04)(Microsoft)[Golden Release].cue" size="1501" crc="ed6bce1d" md5="fe3bdb9498b114b68090ab7751a8c817" sha1="020eb17d10523e73aa0da54e1a4e7fe6f4813347"/>
+	</game>
+	<game name="V8 Supercars Australia 2 (2004)(Codemasters)(AU)[media kit]">
+		<description>V8 Supercars Australia 2 (2004)(Codemasters)(AU)[media kit]</description>
+		<rom name="V8 Supercars Australia 2 (2004)(Codemasters)(AU)[media kit].bin" size="167236608" crc="f9e9713c" md5="8c993b23cfa55ffc18d3e806d412f8fe" sha1="4b3fa27fab5bf9826d0f8ae2b1e8a9e05329c04f"/>
+		<rom name="V8 Supercars Australia 2 (2004)(Codemasters)(AU)[media kit].cue" size="148" crc="e37c74ae" md5="40ab973606463696c5b7f18f62760e11" sha1="385243945f9b20924ceb224bd78342facd8e5702"/>
+	</game>
+	<game name="Where in the World is Carmen Sandiego (demo) (2009)(Riverdeep Interactive Learning)(AU)">
+		<description>Where in the World is Carmen Sandiego (demo) (2009)(Riverdeep Interactive Learning)(AU)</description>
+		<rom name="Where in the World is Carmen Sandiego (demo) (2009)(Riverdeep Interactive Learning)(AU).bin" size="640414320" crc="05212a65" md5="f7132c3a08963dc31b8ba91773cdd749" sha1="48325dc052a836fbf2ed3569f9fdf596d6093890"/>
+		<rom name="Where in the World is Carmen Sandiego (demo) (2009)(Riverdeep Interactive Learning)(AU).cue" size="176" crc="69721851" md5="3c8f3b6bfc964fe0322792296055fcdb" sha1="8be776dab1d9a3908b0725e0c277f764c439aed2"/>
+	</game>
+</datafile>

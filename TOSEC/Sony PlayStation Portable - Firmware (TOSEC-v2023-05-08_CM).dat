@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation Portable - Firmware</name>
+		<description>Sony PlayStation Portable - Firmware (TOSEC-v2023-05-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2023-05-08</version>
+		<author>Newpain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PSP Firmware v1.00 (2004-12-12)(Sony)">
+		<description>PSP Firmware v1.00 (2004-12-12)(Sony)</description>
+		<rom name="PSP Firmware v1.00 (2004-12-12)(Sony).pbp" size="14958703" crc="7f6309fb" md5="47398e49360ab021c3ffa42cac3e6f15" sha1="e18b8275ebfe3d5ae294ccafd99923656288c10c"/>
+	</game>
+	<game name="PSP Firmware v1.50 (2004-03-24)(Sony)">
+		<description>PSP Firmware v1.50 (2004-03-24)(Sony)</description>
+		<rom name="PSP Firmware v1.50 (2004-03-24)(Sony).pbp" size="13900225" crc="a13ceeeb" md5="e32eb27980ba8b291eb803e3397e4b24" sha1="959a0b0454842eff92569ea5840941476d009011"/>
+	</game>
+	<game name="PSP Firmware v1.51 (2005-05-18)(Sony)">
+		<description>PSP Firmware v1.51 (2005-05-18)(Sony)</description>
+		<rom name="PSP Firmware v1.51 (2005-05-18)(Sony).pbp" size="14654705" crc="ddb83d74" md5="ad79cbaa4838d9ed2a16f403567a5222" sha1="03846ca03e6339cfae6f8ae244e2f792db9c5dbd"/>
+	</game>
+	<game name="PSP Firmware v1.52 (2005-06-15)(Sony)">
+		<description>PSP Firmware v1.52 (2005-06-15)(Sony)</description>
+		<rom name="PSP Firmware v1.52 (2005-06-15)(Sony).pbp" size="13977705" crc="b59eed07" md5="b976783070c12c4ed81cc27785222491" sha1="e4221ad917c6155600bf723ddf50b2f0f3e4abab"/>
+	</game>
+	<game name="PSP Firmware v2.00 Rev 2 (2005-09-01)(Sony)">
+		<description>PSP Firmware v2.00 Rev 2 (2005-09-01)(Sony)</description>
+		<rom name="PSP Firmware v2.00 Rev 2 (2005-09-01)(Sony).pbp" size="16732033" crc="f8639ff2" md5="50c7032754835b588319c1a6c652cdc0" sha1="3447b8e76cea921cc345dab033320a1498a7252e"/>
+	</game>
+	<game name="PSP Firmware v2.00 Rev 1 (2005-09-01)(Sony)">
+		<description>PSP Firmware v2.00 Rev 1 (2005-09-01)(Sony)</description>
+		<rom name="PSP Firmware v2.00 Rev 1 (2005-09-01)(Sony).pbp" size="16699585" crc="9a803012" md5="62f6d3d18038f463092e3d6653fae195" sha1="ab63037d09411da0b7b477c0b9a7552f91fee1d0"/>
+	</game>
+	<game name="PSP Firmware v2.01 (2005-10-03)(Sony)">
+		<description>PSP Firmware v2.01 (2005-10-03)(Sony)</description>
+		<rom name="PSP Firmware v2.01 (2005-10-03)(Sony).pbp" size="17167009" crc="bfa4c8b0" md5="c9629365e58daf4973019c78727f521c" sha1="0025ece93100720e6008635de59ab172f850a5c4"/>
+	</game>
+	<game name="PSP Firmware v2.50 (2005-10-13)(Sony)">
+		<description>PSP Firmware v2.50 (2005-10-13)(Sony)</description>
+		<rom name="PSP Firmware v2.50 (2005-10-13)(Sony).pbp" size="17868785" crc="ab5b9369" md5="00df561c8215e42b16661ecde4c57e14" sha1="b6793542b8e95ecbef001cf109d0ed8d7dafc51f"/>
+	</game>
+	<game name="PSP Firmware v2.60 (2005-11-29)(Sony)">
+		<description>PSP Firmware v2.60 (2005-11-29)(Sony)</description>
+		<rom name="PSP Firmware v2.60 (2005-11-29)(Sony).pbp" size="18774433" crc="91e81bb7" md5="a69a022fce43b614a8cb305786f59855" sha1="5260c3442ab58889cc0a5667409e639c01ee9a2e"/>
+	</game>
+	<game name="PSP Firmware v2.70 (2006-04-25)(Sony)">
+		<description>PSP Firmware v2.70 (2006-04-25)(Sony)</description>
+		<rom name="PSP Firmware v2.70 (2006-04-25)(Sony).pbp" size="19102705" crc="766a9859" md5="aea0541d63cb1d5112284efb1fb833a0" sha1="4a42273c4fcaf150c91c9b7a896211ba3d330bb2"/>
+	</game>
+	<game name="PSP Firmware v2.71 (2006-05-30)(Sony)">
+		<description>PSP Firmware v2.71 (2006-05-30)(Sony)</description>
+		<rom name="PSP Firmware v2.71 (2006-05-30)(Sony).pbp" size="20130421" crc="bcadf441" md5="d6f3d5dc926c00a8a633361005018813" sha1="e4c4c4e1922b2f4bff5bee9bf270bbc597a55f6c"/>
+	</game>
+	<game name="PSP Firmware v2.80 (2006-07-27)(Sony)">
+		<description>PSP Firmware v2.80 (2006-07-27)(Sony)</description>
+		<rom name="PSP Firmware v2.80 (2006-07-27)(Sony).pbp" size="20549157" crc="68efc4c3" md5="8a0d85b6e2d259a3b5710378d892a1ef" sha1="0a549e3f28de050b90c05ffd8d8c81de584c7adf"/>
+	</game>
+	<game name="PSP Firmware v2.81 (2006-09-07)(Sony)">
+		<description>PSP Firmware v2.81 (2006-09-07)(Sony)</description>
+		<rom name="PSP Firmware v2.81 (2006-09-07)(Sony).pbp" size="20549493" crc="9c722674" md5="4726589a847329cb03ac5ffd5096d62e" sha1="39994e29d73d47b743ede4f4408c4c22a0a413f9"/>
+	</game>
+	<game name="PSP Firmware v2.82 (2006-10-26)(Sony)">
+		<description>PSP Firmware v2.82 (2006-10-26)(Sony)</description>
+		<rom name="PSP Firmware v2.82 (2006-10-26)(Sony).pbp" size="20549237" crc="12b27800" md5="65e58702b08898da4f155c8d217e5f41" sha1="d1ccc1346aaf8d3c615b1c0ba45b780a92c864d6"/>
+	</game>
+	<game name="PSP Firmware v3.00 (2006-11-21)(Sony)">
+		<description>PSP Firmware v3.00 (2006-11-21)(Sony)</description>
+		<rom name="PSP Firmware v3.00 (2006-11-21)(Sony).pbp" size="21949941" crc="4324b52e" md5="fd90b0c3ffa0fc73cfecae4945ac3c47" sha1="6d7fefd25a774e517d3ba8fbb8ac8c2523768fb8"/>
+	</game>
+	<game name="PSP Firmware v3.01 (2006-11-22)(Sony)">
+		<description>PSP Firmware v3.01 (2006-11-22)(Sony)</description>
+		<rom name="PSP Firmware v3.01 (2006-11-22)(Sony).pbp" size="21949845" crc="ec47e82b" md5="1dc76eab462c2f9c71aa8536659682f8" sha1="81fa3de8dc4fdb9679b64fc7e06f1dbfbcf7c2cd"/>
+	</game>
+	<game name="PSP Firmware v3.02 (2006-12-06)(Sony)">
+		<description>PSP Firmware v3.02 (2006-12-06)(Sony)</description>
+		<rom name="PSP Firmware v3.02 (2006-12-06)(Sony).pbp" size="21913973" crc="a2c91da6" md5="6a1530e6a1c7ec7bf9f50464d4110e0c" sha1="54077787b49375998ce57b1a81681d4db9490b53"/>
+	</game>
+	<game name="PSP Firmware v3.03 (2006-12-20)(Sony)">
+		<description>PSP Firmware v3.03 (2006-12-20)(Sony)</description>
+		<rom name="PSP Firmware v3.03 (2006-12-20)(Sony).pbp" size="21921685" crc="56db7576" md5="a1dd70c8e8f12d83d954951d9e0d6838" sha1="938a02682973c282c615b4f38762562225da4978"/>
+	</game>
+	<game name="PSP Firmware v3.10 (2007-01-30)(Sony)">
+		<description>PSP Firmware v3.10 (2007-01-30)(Sony)</description>
+		<rom name="PSP Firmware v3.10 (2007-01-30)(Sony).pbp" size="21890917" crc="ab261a68" md5="81b8ca8f63db44996f6f5fbf03c5dee1" sha1="1c12b1d5da4bac5620e14cb50d5379e0f76c68bb"/>
+	</game>
+	<game name="PSP Firmware v3.11 (2007-02-08)(Sony)">
+		<description>PSP Firmware v3.11 (2007-02-08)(Sony)</description>
+		<rom name="PSP Firmware v3.11 (2007-02-08)(Sony).pbp" size="21890885" crc="2fad1567" md5="ccd985a6145ecd572aa4a94d483404fa" sha1="c479edb17565ec384cd9ebf70a245cb96c91bbe5"/>
+	</game>
+	<game name="PSP Firmware v3.30 (2007-03-28)(Sony)">
+		<description>PSP Firmware v3.30 (2007-03-28)(Sony)</description>
+		<rom name="PSP Firmware v3.30 (2007-03-28)(Sony).pbp" size="22059781" crc="f5be69f6" md5="842515d85bc1645e3ba2e98533968c62" sha1="bbcafed4d9e437e74d57a8df69461b1b89986a65"/>
+	</game>
+	<game name="PSP Firmware v3.40 (2007-04-20)(Sony)">
+		<description>PSP Firmware v3.40 (2007-04-20)(Sony)</description>
+		<rom name="PSP Firmware v3.40 (2007-04-20)(Sony).pbp" size="22048501" crc="b1cf7ae5" md5="58101e3f6e897725ac55ec1ae3dc07a0" sha1="da2d107f8b53e408c7bc650191719ed5975a13f3"/>
+	</game>
+	<game name="PSP Firmware v3.50 (2007-05-31)(Sony)">
+		<description>PSP Firmware v3.50 (2007-05-31)(Sony)</description>
+		<rom name="PSP Firmware v3.50 (2007-05-31)(Sony).pbp" size="21536693" crc="2cce9697" md5="b4e70aea4b09e74aacbe2d83b8868f2c" sha1="cfe2ac0b1c59fc708dc0f290890ef58a894803e0"/>
+	</game>
+	<game name="PSP Firmware v3.51 (2007-06-29)(Sony)">
+		<description>PSP Firmware v3.51 (2007-06-29)(Sony)</description>
+		<rom name="PSP Firmware v3.51 (2007-06-29)(Sony).pbp" size="21551445" crc="ab98b1a3" md5="9593f0783ebb97f0ea0c0ed0ee66dec5" sha1="9ac5d7b7536f77563b33a89b8c4d0197cbd3c805"/>
+	</game>
+	<game name="PSP Firmware v3.52 (2007-07-24)(Sony)">
+		<description>PSP Firmware v3.52 (2007-07-24)(Sony)</description>
+		<rom name="PSP Firmware v3.52 (2007-07-24)(Sony).pbp" size="21558885" crc="75147383" md5="9e8da3f26e06b6b04fd31f3fda6069a5" sha1="7c4090aa2d0773be29cc5ef3dede0154bd9a10a0"/>
+	</game>
+	<game name="PSP Firmware v3.70 (2007-09-11)(Sony)">
+		<description>PSP Firmware v3.70 (2007-09-11)(Sony)</description>
+		<rom name="PSP Firmware v3.70 (2007-09-11)(Sony).pbp" size="23645781" crc="35c8a5b3" md5="6942dccc46cb92161ed1568a784b2ded" sha1="0933d52ad45786718f6055a390a6a5feddf952df"/>
+	</game>
+	<game name="PSP Firmware v3.71 (2007-09-13)(Sony)">
+		<description>PSP Firmware v3.71 (2007-09-13)(Sony)</description>
+		<rom name="PSP Firmware v3.71 (2007-09-13)(Sony).pbp" size="23647653" crc="dd6352de" md5="6babee6e1415ae27999928566adbd569" sha1="07f01412992b072fd330e66d3ad05e1b71b6520a"/>
+	</game>
+	<game name="PSP Firmware v3.72 (2007-10-30)(Sony)">
+		<description>PSP Firmware v3.72 (2007-10-30)(Sony)</description>
+		<rom name="PSP Firmware v3.72 (2007-10-30)(Sony).pbp" size="23633557" crc="3af53ec6" md5="05d9fe3c72a263d8a4490a8ec727aad3" sha1="48bf26ce6b56c03534b1cc9a91cfb2c7a88fcac6"/>
+	</game>
+	<game name="PSP Firmware v3.73 (2007-11-29)(Sony)">
+		<description>PSP Firmware v3.73 (2007-11-29)(Sony)</description>
+		<rom name="PSP Firmware v3.73 (2007-11-29)(Sony).pbp" size="23634741" crc="be70eca8" md5="0c1668bb95c6e92091c743a53b809997" sha1="b8d50e9bb50a16d1651c9051b3b282aa6f3dc273"/>
+	</game>
+	<game name="PSP Firmware v3.80 (2007-12-17)(Sony)">
+		<description>PSP Firmware v3.80 (2007-12-17)(Sony)</description>
+		<rom name="PSP Firmware v3.80 (2007-12-17)(Sony).pbp" size="23929125" crc="0717d637" md5="923297bb6c6aead603d745e9e724fea0" sha1="c10d4f0d3aadcad1f39298a4f98eaad1c02e673b"/>
+	</game>
+	<game name="PSP Firmware v3.90 (2008-01-29)(Sony)">
+		<description>PSP Firmware v3.90 (2008-01-29)(Sony)</description>
+		<rom name="PSP Firmware v3.90 (2008-01-29)(Sony).pbp" size="25654469" crc="61f66051" md5="64bae5dd0d0f836baedf915fb106e9cc" sha1="5957951d3f7b8a4d715c36d9135e65693f6da334"/>
+	</game>
+	<game name="PSP Firmware v3.93 Rev 1 (2008-03-18)(Sony)">
+		<description>PSP Firmware v3.93 Rev 1 (2008-03-18)(Sony)</description>
+		<rom name="PSP Firmware v3.93 Rev 1 (2008-03-18)(Sony).pbp" size="25652613" crc="bb279754" md5="af24e8ca2f6b54fd98409dbc2a627157" sha1="ca2cd8e962033461ee91821afdce8057ecddcf00"/>
+	</game>
+	<game name="PSP Firmware v3.95 (2008-04-08)(Sony)">
+		<description>PSP Firmware v3.95 (2008-04-08)(Sony)</description>
+		<rom name="PSP Firmware v3.95 (2008-04-08)(Sony).pbp" size="25879397" crc="27e36a51" md5="32720ecf54e656c401ffc92d33fe62d9" sha1="0f25455454f890e2b356d11f501fd6a653c9ceaf"/>
+	</game>
+	<game name="PSP Firmware v3.96 (2008-06-04)(Sony)">
+		<description>PSP Firmware v3.96 (2008-06-04)(Sony)</description>
+		<rom name="PSP Firmware v3.96 (2008-06-04)(Sony).pbp" size="25879749" crc="6d5a816e" md5="6046ec031a2757a59fbc2065484b1fe1" sha1="02c1a7409bd3ef82c7bc0678f14bc393c5ebd1b1"/>
+	</game>
+	<game name="PSP Firmware v4.00 (2008-06-18)(Sony)">
+		<description>PSP Firmware v4.00 (2008-06-18)(Sony)</description>
+		<rom name="PSP Firmware v4.00 (2008-06-18)(Sony).pbp" size="25648693" crc="27ca29fe" md5="bf8d5081adc08457debe062270646c45" sha1="de57a37ed2dc3904a2bd1e9fa2065cf7ea8a274d"/>
+	</game>
+	<game name="PSP Firmware v4.01 (2008-06-25)(Sony)">
+		<description>PSP Firmware v4.01 (2008-06-25)(Sony)</description>
+		<rom name="PSP Firmware v4.01 (2008-06-25)(Sony).pbp" size="25643269" crc="002c377a" md5="c593abc023aa9b215710df6e263b3fff" sha1="c56a1bd392d54279de6f045b3bce411ecfc2d608"/>
+	</game>
+	<game name="PSP Firmware v4.01 Testing Tools Rev A (2008-06-25)(Sony)">
+		<description>PSP Firmware v4.01 Testing Tools Rev A (2008-06-25)(Sony)</description>
+		<rom name="PSP Firmware v4.01 Testing Tools Rev A (2008-06-25)(Sony).pbp" size="18723721" crc="bbf4f1f5" md5="35cea3bb83783c93453652e089975743" sha1="537868ec17b60750a3b942a45307044973f77a27"/>
+	</game>
+	<game name="PSP Firmware v4.05 (2008-07-13)(Sony)">
+		<description>PSP Firmware v4.05 (2008-07-13)(Sony)</description>
+		<rom name="PSP Firmware v4.05 (2008-07-13)(Sony).pbp" size="25774885" crc="3ee9dfb2" md5="8497dd2b3485e934b073948b558221c3" sha1="fb2c1ab57611c96f2d607f61d4c83fe59d56474d"/>
+	</game>
+	<game name="PSP Firmware v4.21 (2008-10-14)(Sony)[PSAR]">
+		<description>PSP Firmware v4.21 (2008-10-14)(Sony)[PSAR]</description>
+		<rom name="PSP Firmware v4.21 (2008-10-14)(Sony)[PSAR].psar" size="19291765" crc="3bf19621" md5="edea8c2151a81ebb3c6f145f9034f5a1" sha1="ea45e50b40f50a703edd45ed6126eb5e9aedba40"/>
+	</game>
+	<game name="PSP Firmware v5.00 (2008-10-15)(Sony)">
+		<description>PSP Firmware v5.00 (2008-10-15)(Sony)</description>
+		<rom name="PSP Firmware v5.00 (2008-10-15)(Sony).pbp" size="27106965" crc="4300388c" md5="60aa0356d4c66f589b71cfc9abc08713" sha1="cbd6c11b3c527e9b2878ffd07a307367a0fac097"/>
+	</game>
+	<game name="PSP Firmware v5.01 (2008-10-22)(Sony)">
+		<description>PSP Firmware v5.01 (2008-10-22)(Sony)</description>
+		<rom name="PSP Firmware v5.01 (2008-10-22)(Sony).pbp" size="27092069" crc="b0d51fcc" md5="46e66cef9ec8a63eb5af2df0a53e6b57" sha1="e57a58bb986b470504e3198b3a17c5ea9d0629e9"/>
+	</game>
+	<game name="PSP Firmware v5.02 (2008-11-20)(Sony)">
+		<description>PSP Firmware v5.02 (2008-11-20)(Sony)</description>
+		<rom name="PSP Firmware v5.02 (2008-11-20)(Sony).pbp" size="27092117" crc="34ba6dd8" md5="41b80591c6024a278945f1cdd72aa892" sha1="df49eb04fa2ba2520e7541b590186215d2a5c12e"/>
+	</game>
+	<game name="PSP Firmware v5.03 (2009-01-20)(Sony)">
+		<description>PSP Firmware v5.03 (2009-01-20)(Sony)</description>
+		<rom name="PSP Firmware v5.03 (2009-01-20)(Sony).pbp" size="27092549" crc="3cb7bccd" md5="565c702771472445342a3b8c56578961" sha1="87abe19c37f6ba440deb015f310e5eaa72266a9a"/>
+	</game>
+	<game name="PSP Firmware v5.05 (2009-02-19)(Sony)">
+		<description>PSP Firmware v5.05 (2009-02-19)(Sony)</description>
+		<rom name="PSP Firmware v5.05 (2009-02-19)(Sony).pbp" size="27087400" crc="85c48be8" md5="2b0581f4a8752e4171cbdb7a406a2ec0" sha1="356b8b4d360c30f114faf37fe67b50ad8ce66544"/>
+	</game>
+	<game name="PSP Firmware v5.50 (2009-04-21)(Sony)">
+		<description>PSP Firmware v5.50 (2009-04-21)(Sony)</description>
+		<rom name="PSP Firmware v5.50 (2009-04-21)(Sony).pbp" size="27556501" crc="54fd6cd9" md5="eacd91e92abf817ff4ceaf02258f73a6" sha1="8895f4771909ee95ee07b535093153de98f7eae0"/>
+	</game>
+	<game name="PSP Firmware v5.51 (2009-06-11)(Sony)">
+		<description>PSP Firmware v5.51 (2009-06-11)(Sony)</description>
+		<rom name="PSP Firmware v5.51 (2009-06-11)(Sony).pbp" size="27544277" crc="aeaaeff8" md5="148d2a024741df54eacabbc79d9f3014" sha1="7ec1c249e49338498ffd394d0f25c0b39eb3c3f9"/>
+	</game>
+	<game name="PSP Firmware v5.55 (2009-07-06)(Sony)[from UMD]">
+		<description>PSP Firmware v5.55 (2009-07-06)(Sony)[from UMD]</description>
+		<rom name="PSP Firmware v5.55 (2009-07-06)(Sony)[from UMD].pbp" size="27544261" crc="b016b15f" md5="d7574bf9504c957e92d98470f1699a27" sha1="5f89e4fb420c70a95ec053347fa8315231ba78b0"/>
+	</game>
+	<game name="PSP Firmware v5.70 (2009)(Sony)[PSAR]">
+		<description>PSP Firmware v5.70 (2009)(Sony)[PSAR]</description>
+		<rom name="PSP Firmware v5.70 (2009)(Sony)[PSAR].psar" size="20489616" crc="235a5232" md5="42601831bf10e9bbf296c3ab3e782384" sha1="e4b3f44e66f6293abcf54a768b7b963914b98b59"/>
+	</game>
+	<game name="PSP Firmware v6.00 (2009-09-10)(Sony)">
+		<description>PSP Firmware v6.00 (2009-09-10)(Sony)</description>
+		<rom name="PSP Firmware v6.00 (2009-09-10)(Sony).pbp" size="28781445" crc="d914a585" md5="a734c9829b20d17d7fc7a149d8274a8a" sha1="c44dffcf0758afecfba16e3d61ff4bfe802e0079"/>
+	</game>
+	<game name="PSP Firmware v6.00 Testing Tools Rev A (2009-09-10)(Sony)">
+		<description>PSP Firmware v6.00 Testing Tools Rev A (2009-09-10)(Sony)</description>
+		<rom name="PSP Firmware v6.00 Testing Tools Rev A (2009-09-10)(Sony).pbp" size="20290889" crc="e260e6aa" md5="18135651a87daa991df26384ee84d87e" sha1="d010b2929c963b2a583ce18529e79da332f53fb1"/>
+	</game>
+	<game name="PSP Firmware v6.00 Testing Tools Rev A (2009-09-10)(Sony)[Downgrades 6.20TT to 6.00TT]">
+		<description>PSP Firmware v6.00 Testing Tools Rev A (2009-09-10)(Sony)[Downgrades 6.20TT to 6.00TT]</description>
+		<rom name="PSP Firmware v6.00 Testing Tools Rev A (2009-09-10)(Sony)[Downgrades 6.20TT to 6.00TT].pbp" size="20279004" crc="9f311a20" md5="52b4425bd30347966610f3c0240189e5" sha1="b563822ea4849dd712cba25ddaf4d4bb825023a2"/>
+	</game>
+	<game name="PSP Firmware v6.10 (2009-10-01)(Sony)">
+		<description>PSP Firmware v6.10 (2009-10-01)(Sony)</description>
+		<rom name="PSP Firmware v6.10 (2009-10-01)(Sony).pbp" size="28786773" crc="1e0aaf7b" md5="610d3d9ed39befa9c10ce139df01ebfb" sha1="99908fd595ed8035295debe99ed5375dd63a564a"/>
+	</game>
+	<game name="PSP Firmware v6.20 (2009-11-18)(Sony)">
+		<description>PSP Firmware v6.20 (2009-11-18)(Sony)</description>
+		<rom name="PSP Firmware v6.20 (2009-11-18)(Sony).pbp" size="28931349" crc="ccece489" md5="16d8cacc0cdb00a2a6a8c1b77d7dd136" sha1="58726432cb295bd25353dcfe34cf56c4b3bafcae"/>
+	</game>
+	<game name="PSP Firmware v6.20 - Testing Tools Rev A (2009-11-18)(Sony)">
+		<description>PSP Firmware v6.20 - Testing Tools Rev A (2009-11-18)(Sony)</description>
+		<rom name="PSP Firmware v6.20 - Testing Tools Rev A (2009-11-18)(Sony).pbp" size="20325433" crc="c0b0bbbe" md5="c6a5d0b1d71a3f095c244b8335b4158c" sha1="12553db1927584aa1e48810e766a074476b2e90d"/>
+	</game>
+	<game name="PSP Firmware v6.30 (2010-06-29)(Sony)">
+		<description>PSP Firmware v6.30 (2010-06-29)(Sony)</description>
+		<rom name="PSP Firmware v6.30 (2010-06-29)(Sony).pbp" size="31674213" crc="284f7047" md5="42601ed4266d175b37ff0d3e6d079f3b" sha1="3c63bc859bc7c6f43f0d1bb119d26239f2e76f60"/>
+	</game>
+	<game name="PSP Firmware v6.31 (2010-07-29)(Sony)">
+		<description>PSP Firmware v6.31 (2010-07-29)(Sony)</description>
+		<rom name="PSP Firmware v6.31 (2010-07-29)(Sony).pbp" size="31674437" crc="4566d9fb" md5="d7ea54162d2d53c5efb46648ee12f6bc" sha1="5c616dcf049d0707c0c83ea39110fe4f384e722d"/>
+	</game>
+	<game name="PSP Firmware v6.35 (2010-11-24)(Sony)">
+		<description>PSP Firmware v6.35 (2010-11-24)(Sony)</description>
+		<rom name="PSP Firmware v6.35 (2010-11-24)(Sony).pbp" size="31666373" crc="a7268cd3" md5="5945c21abfa5b1221adda745f9417668" sha1="45aff470f5923cd22eed3040fae45c0fbc6b5b50"/>
+	</game>
+	<game name="PSP Firmware v6.36 (2010-12-01)(Sony)">
+		<description>PSP Firmware v6.36 (2010-12-01)(Sony)</description>
+		<rom name="PSP Firmware v6.36 (2010-12-01)(Sony).pbp" size="31629928" crc="a7fcde5f" md5="bcac2b0a4ac55378f300386391e4bb37" sha1="a816fafa70666bcfc66d7bcaf91e4dad2ddde63c"/>
+	</game>
+	<game name="PSP Firmware v6.36 (2010-12-01)(Sony)[from UMD]">
+		<description>PSP Firmware v6.36 (2010-12-01)(Sony)[from UMD]</description>
+		<rom name="PSP Firmware v6.36 (2010-12-01)(Sony)[from UMD].pbp" size="31641189" crc="b37a510c" md5="0c04843dd7df118a8f2e198da6bce2d3" sha1="60bbf244a16b3ff424cc4c3622ba65c246813912"/>
+	</game>
+	<game name="PSP Firmware v6.37 (2011-01-20)(Sony)">
+		<description>PSP Firmware v6.37 (2011-01-20)(Sony)</description>
+		<rom name="PSP Firmware v6.37 (2011-01-20)(Sony).pbp" size="31643061" crc="0c01be04" md5="5a21c511c90ed765747c43a9779f7a4b" sha1="6d1fa659433123599955b515db0e124a2b4431e7"/>
+	</game>
+	<game name="PSP Firmware v6.38 (2011-04-12)(Sony)">
+		<description>PSP Firmware v6.38 (2011-04-12)(Sony)</description>
+		<rom name="PSP Firmware v6.38 (2011-04-12)(Sony).pbp" size="31644597" crc="cc9ff9b6" md5="d033298a1de455a5d90e06f91c6802f6" sha1="8fe61c61ea732d76b9b9d0bdc05c27110f367c88"/>
+	</game>
+	<game name="PSP Firmware v6.39 (2011-05-24)(Sony)">
+		<description>PSP Firmware v6.39 (2011-05-24)(Sony)</description>
+		<rom name="PSP Firmware v6.39 (2011-05-24)(Sony).pbp" size="31647237" crc="dd3e8406" md5="ccce1a0f3ba08e22c26ec5bc047a0063" sha1="b7bcc8aafb23c09b7a9d53a554ce22702b0b56ac"/>
+	</game>
+	<game name="PSP Firmware v6.39 - Testing Tools Rev A (2011-05-24)(Sony)">
+		<description>PSP Firmware v6.39 - Testing Tools Rev A (2011-05-24)(Sony)</description>
+		<rom name="PSP Firmware v6.39 - Testing Tools Rev A (2011-05-24)(Sony).pbp" size="20375177" crc="c093441b" md5="e32cf7a554893efedaa011cfcfcf0044" sha1="b43bac291155fbd1b8ba91511dd9b6cdafbb6371"/>
+	</game>
+	<game name="PSP Firmware v6.60 (2011-08-10)(Sony)">
+		<description>PSP Firmware v6.60 (2011-08-10)(Sony)</description>
+		<rom name="PSP Firmware v6.60 (2011-08-10)(Sony).pbp" size="32608261" crc="0aa03672" md5="2ca64d59dcf48f45fb99b400a586b395" sha1="9384597afb7317d7b99376450e12fc6b31240f75"/>
+	</game>
+	<game name="PSP Firmware v6.60 - Testing Tools Rev A (2011-08-10)(Sony)">
+		<description>PSP Firmware v6.60 - Testing Tools Rev A (2011-08-10)(Sony)</description>
+		<rom name="PSP Firmware v6.60 - Testing Tools Rev A (2011-08-10)(Sony).pbp" size="20589865" crc="79beaefb" md5="ec8f909df7cd945c87c4bc73c57b2b3f" sha1="3fee498e3658260b33c0ebd8d5937ed25cf040b2"/>
+	</game>
+	<game name="PSP Firmware v6.61 (2015-01-15)(Sony)">
+		<description>PSP Firmware v6.61 (2015-01-15)(Sony)</description>
+		<rom name="PSP Firmware v6.61 (2015-01-15)(Sony).pbp" size="32580549" crc="0ae6e35a" md5="6be8878f475ac5b1a499b95ab2f7d301" sha1="bc10ad2114e1c349f23ee2b130d82f7e863460ac"/>
+	</game>
+	<game name="PSP Go Firmware v5.70 (2009)(Sony)[PSAR]">
+		<description>PSP Go Firmware v5.70 (2009)(Sony)[PSAR]</description>
+		<rom name="PSP Go Firmware v5.70 (2009)(Sony)[PSAR].psar" size="20871149" crc="aa6c398b" md5="42f72f78f4fb85a3de273e4cbdd14ce2" sha1="0a88a4198b720ef13453c8d5ce007c50c12cf171"/>
+	</game>
+	<game name="PSP Go Firmware v6.10 (2009-10-01)(Sony)">
+		<description>PSP Go Firmware v6.10 (2009-10-01)(Sony)</description>
+		<rom name="PSP Go Firmware v6.10 (2009-10-01)(Sony).pbp" size="27699701" crc="9a85a339" md5="db20058952ed21287439c1c70b561535" sha1="b460174fa964238ee0b1a8f3761e74a2a9eef1c3"/>
+	</game>
+	<game name="PSP Go Firmware v6.20 (2009-11-18)(Sony)">
+		<description>PSP Go Firmware v6.20 (2009-11-18)(Sony)</description>
+		<rom name="PSP Go Firmware v6.20 (2009-11-18)(Sony).pbp" size="27802133" crc="56a8ccf1" md5="ae20575ecff8380214e8c43eef466ca8" sha1="982693fc315f9fbf0a2e989dbe746eaabd57642c"/>
+	</game>
+	<game name="PSP Go Firmware v6.30 (2010-06-29)(Sony)">
+		<description>PSP Go Firmware v6.30 (2010-06-29)(Sony)</description>
+		<rom name="PSP Go Firmware v6.30 (2010-06-29)(Sony).pbp" size="27902085" crc="84a6766a" md5="83e93aed9483b508726b81c730b55fbb" sha1="c26f6bfde213e57453001adeef5e6770a3ab4016"/>
+	</game>
+	<game name="PSP Go Firmware v6.31 (2010-07-29)(Sony)">
+		<description>PSP Go Firmware v6.31 (2010-07-29)(Sony)</description>
+		<rom name="PSP Go Firmware v6.31 (2010-07-29)(Sony).pbp" size="27902469" crc="c45319a7" md5="2a0e2a454e8c16cedceb87d23634ecbd" sha1="789d41c1ace3463c8625836649075419b30279c6"/>
+	</game>
+	<game name="PSP Go Firmware v6.35 (2010-11-24)(Sony)">
+		<description>PSP Go Firmware v6.35 (2010-11-24)(Sony)</description>
+		<rom name="PSP Go Firmware v6.35 (2010-11-24)(Sony).pbp" size="27906629" crc="8915ba25" md5="b1470a9c6733fa4ecd69612af3aff416" sha1="e3039d6759ced9e15928cab3eaf0a757e0c1eaba"/>
+	</game>
+	<game name="PSP Go Firmware v6.37 (2011-01-20)(Sony)">
+		<description>PSP Go Firmware v6.37 (2011-01-20)(Sony)</description>
+		<rom name="PSP Go Firmware v6.37 (2011-01-20)(Sony).pbp" size="27902821" crc="f4288287" md5="d403726b95c3577c33195e491cd8c8a1" sha1="ff5a05befa908f5247fd1092b29d61b13f08025a"/>
+	</game>
+	<game name="PSP Go Firmware v6.38 (2011-04-12)(Sony)">
+		<description>PSP Go Firmware v6.38 (2011-04-12)(Sony)</description>
+		<rom name="PSP Go Firmware v6.38 (2011-04-12)(Sony).pbp" size="27903301" crc="61a7e01b" md5="cc57a2df91914b0cb986e039c3deff9a" sha1="777c01bd8bf51b713508b0d154874ddd3142fdf5"/>
+	</game>
+	<game name="PSP Go Firmware v6.39 (2011-05-24)(Sony)">
+		<description>PSP Go Firmware v6.39 (2011-05-24)(Sony)</description>
+		<rom name="PSP Go Firmware v6.39 (2011-05-24)(Sony).pbp" size="27906101" crc="e8dc5640" md5="116ae536544173dc08ee83aeb9d226fd" sha1="cb3f302774c1a5735878cd80311ee115cb170c35"/>
+	</game>
+	<game name="PSP Go Firmware v6.60 - PSP Go (2011-08-10)(Sony)">
+		<description>PSP Go Firmware v6.60 - PSP Go (2011-08-10)(Sony)</description>
+		<rom name="PSP Go Firmware v6.60 - PSP Go (2011-08-10)(Sony).pbp" size="28072997" crc="fbb06781" md5="d1fe58798b133ea4343b4bb1a25d4426" sha1="42ac717f24e919821eb1954403ca020a77ac721b"/>
+	</game>
+	<game name="PSP Go Firmware v6.61 (2015-01-15)(Sony)">
+		<description>PSP Go Firmware v6.61 (2015-01-15)(Sony)</description>
+		<rom name="PSP Go Firmware v6.61 (2015-01-15)(Sony).pbp" size="28078549" crc="16c7d4b8" md5="fd0f7d0798b4f6e6d32ef95836740527" sha1="91f78ecec025705f38c3688059cb14ff4257ab8a"/>
+	</game>
+	<game name="PSP Slim Firmware v3.60 (2007-09-10)(Sony)[PSAR]">
+		<description>PSP Slim Firmware v3.60 (2007-09-10)(Sony)[PSAR]</description>
+		<rom name="PSP Slim Firmware v3.60 (2007-09-10)(Sony)[PSAR].psar" size="18189502" crc="fd3f85be" md5="eaa13343c70d9b0337c75b295474c69a" sha1="4c656bc110ad1f7fe007b2d072240a62b5808e21"/>
+	</game>
+</datafile>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>42</id>
+		<name>Commodore - Commodore 64 (Headerless)</name>
+		<description>Commodore - Commodore 64 (Headerless)</description>
+		<version>20240523-150844</version>
+		<author>baldjared, C. V. Reynolds, Hiccup, psykopat, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Gorf (USA, Europe)" id="0183">
+		<description>Gorf (USA, Europe)</description>
+		<rom name="Gorf (USA, Europe).crt" size="16384" crc="33812a19" md5="04da026b235cbdc7efa4274d6c736817" sha1="4d24d5ed3d8b38235d9ae5965b675ffece0981cc" sha256="2ea1fec3d84af208ec6eb56b7186c536aeba100a8197af32e5bb07465079c3ea"/>
+	</game>
+	<game name="Star Ranger (USA, Europe)" id="0288">
+		<description>Star Ranger (USA, Europe)</description>
+		<rom name="Star Ranger (USA, Europe).crt" size="16384" crc="6305847e" md5="6dda6c4c05fd82749e367a452297f442" sha1="a4e63c7c130f3e6ef3b89ec86888b8dda7ec28a4" sha256="23082179caa857c94788745633340d76f25a54920fad1ad7f57148ecf1d1faa3"/>
+	</game>
+</datafile>
