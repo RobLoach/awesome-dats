@@ -1915,7 +1915,7 @@
     <description>libretro - System</description>
     <version>2023.5.7</version>
     <author>libretro</author>
-    <url>https://github.com/libretro/libretro-database/raw/5cfb6cd3d742d60da99a18d5472e8c8a9791c36e/dat/System.dat</url>
+    <url>https://raw.githubusercontent.com/libretro/libretro-database/v1.19.0/dat/System.dat</url>
   </datfile>
   <datfile>
     <name>Luxor - ABC 800 (Flux)</name>
